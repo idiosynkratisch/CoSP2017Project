@@ -1,4 +1,14 @@
-#### initals ####
+"""
+    Tokenize swda transcript into topical sections using TextTiling.
+
+    Converts Transcript object into SegmentedTranscript object (description below). 
+                
+    Method segmented() of SegmentedTranscript returns a chronologically sorted list of
+    the topic segments of the original Transcript object, where topic segment == 
+    Topic object; sentence == Sentence object. 
+
+"""
+#### initals #########
 
 # imports
 import nltk
@@ -18,17 +28,6 @@ import nltk.tokenize.texttiling as texttiling
 tt = texttiling.TextTilingTokenizer(demo_mode=False)
 
 #################### 
-"""
-    Tokenize swda transcript into topical sections using TextTiling.
-
-    Converts Transcript object into SegmentedTranscript object (description below). 
-                
-    Method segmented() of SegmentedTranscript returns a chronologically sorted list of
-    the topic segments of the original Transcript object, where topic segment == 
-    Topic object; sentence == Sentence object. 
-
-"""
-
 
 class Sentence():
     """
