@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE025,005111,0,,A,1,1,"Hello my pet, I don't like to see you like this.","hello/ITJ i/DPS pet/NN1 ,/PUN i/PNP do/VDB not/XX0 like/VVI to/TO0 see/VVI you/PNP like/VVI this/DT0 ./PUN",
+K/KC/KCD.xml,KCDRE025,005111,1,,A,1,2,I say it's a good job we're not going to Joseph's tonight.,i/PNP say/VVB it/PNP be/VBZ a/AT0 good/AJ0 job/NN1 we/PNP be/VBB not/XX0 go/VVG to/PRP joseph/NP0 be/VBZ tonight/AV0 ./PUN,
+K/KC/KCD.xml,KCDRE025,005111,2,,B,2,1,Mhm.(()) .,mhm/ITJ ./PUN ./PUN,
+K/KC/KCD.xml,KCDRE025,005111,3,,A,3,1,"Mm  I think you're a bit, think you're a bit hot, that's probably what's wakening you up (()) .","mm/ITJ i/PNP think/VVB you/PNP be/VBB [a/AT0 bit/NN1]/AV0 ,/PUN think/VVB you/PNP be/VBB [a/AT0 bit/NN1]/AV0 hot/AJ0 ,/PUN that/DT0 be/VBZ probably/AV0 what/DTQ be/VBZ waken/VVG you/PNP up/AVP ./PUN",
+K/KC/KCD.xml,KCDRE025,005111,4,,B,4,1,Mm.,mm/ITJ ./PUN,
+K/KC/KCD.xml,KCDRE025,005111,5,,A,5,1,"I think you've got a slight temperature, not a lot, but, just a little bit, do you think you can manage a drink of orange?","i/PNP think/VVB you/PNP have/VHB get/VVN a/AT0 slight/AJ0 temperature/NN1 ,/PUN not/XX0 a/AT0 lot/NN1 ,/PUN but/CJC ,/PUN just/AV0 a/AT0 little/AJ0 bit/NN1 ,/PUN do/VDB you/PNP think/VVI you/PNP can/VM0 manage/VVI a/AT0 drink/NN1 of/PRF orange/NN1 ?/PUN",
+K/KC/KCD.xml,KCDRE025,005111,6,,A,5,2,"Well you ought to drink something, it'll bring your temperature down and it'll help make you feel better.","well/AV0 you/PNP ought/VM0 to/TO0 drink/VVI something/PNI ,/PUN it/PNP will/VM0 bring/VVI you/DPS temperature/NN1 down/AVP and/CJC it/PNP will/VM0 help/VVI make/VVI you/PNP feel/VVI good/AJC ./PUN",
+K/KC/KCD.xml,KCDRE025,005111,7,,A,5,3,The only thing is to drink.,the/AT0 only/AJ0 thing/NN1 be/VBZ to/TO0 drink/VVI ./PUN,
+K/KC/KCD.xml,KCDRE025,005111,8,,B,6,1,Can I a little bit of orange?,can/VM0 i/PNP a/AT0 little/AJ0 bit/NN1 of/PRF orange/NN1 ?/PUN,

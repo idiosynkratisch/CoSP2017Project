@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE002,000408,0,,A,1,1,I'll put this order in with erm Fred.,,
+K/KD/KDP.xml,KDPRE002,000408,1,,B,2,1,"Yes, I won't bother taking it upstairs er mine.",,
+K/KD/KDP.xml,KDPRE002,000408,2,,A,3,1,"No, this I'll go straight down there.",,
+K/KD/KDP.xml,KDPRE002,000408,3,,B,4,1,Yeah (()) .,,
+K/KD/KDP.xml,KDPRE002,000408,4,,B,4,2,So if he wants to leave it  (()) I'll can come (()) .,,
+K/KD/KDP.xml,KDPRE002,000408,5,,A,5,1,I (()) .,,
+K/KD/KDP.xml,KDPRE002,000408,6,,B,6,1,(()) .,,
+K/KD/KDP.xml,KDPRE002,000408,7,,A,7,1,Great.,,
+K/KD/KDP.xml,KDPRE002,000408,8,,B,8,1,(()) .,,
+K/KD/KDP.xml,KDPRE002,000408,9,,A,9,1,"Yeah, it's on my er notice board.",,
+K/KD/KDP.xml,KDPRE002,000408,10,,B,10,1,Ta.,,

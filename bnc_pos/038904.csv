@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01X,038904,0,,A,1,1,But is he (()) ?,but/CJC be/VBZ he/PNP ?/PUN,
+K/KE/KE2.xml,KE2RE01X,038904,1,,B,2,1,Yeah  but the top two went through you see.,yeah/ITJ but/CJC the/AT0 top/AJ0 two/CRD go/VVD through/PRP-AVP you/PNP see/VVB ./PUN,
+K/KE/KE2.xml,KE2RE01X,038904,2,,A,3,1,Oh I see.,oh/ITJ i/PNP see/VVB ./PUN,
+K/KE/KE2.xml,KE2RE01X,038904,3,,B,4,1,You see?,you/PNP see/VVB ?/PUN,
+K/KE/KE2.xml,KE2RE01X,038904,4,,A,5,1,Oh yes!,oh/ITJ yes/ITJ !/PUN,
+K/KE/KE2.xml,KE2RE01X,038904,5,,A,5,2,"I must know how, I've been looking at  at the (()) .","i/PNP must/VM0 know/VVI how/AVQ ,/PUN i/PNP have/VHB be/VBN look/VVG at/PRP at/PRP the/AT0 ./PUN",

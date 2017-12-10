@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC3.xml,KC3RE00B,051904,0,,A,1,1,"They said to me now do you know anybody who's got a clear accent or anything like that so I thought yes, I'll er, I'll, I'll pop in.",,
+K/KC/KC3.xml,KC3RE00B,051904,1,,B,2,1,(()) ,,
+K/KC/KC3.xml,KC3RE00B,051904,2,,B,2,2,<laugh> ,,
+K/KC/KC3.xml,KC3RE00B,051904,3,,A,3,1,Well,,
+K/KC/KC3.xml,KC3RE00B,051904,4,,B,4,1,(()) ,,
+K/KC/KC3.xml,KC3RE00B,051904,5,,B,4,2,<laugh> ,,
+K/KC/KC3.xml,KC3RE00B,051904,6,,A,5,1,Are you making me a coffee then?,,
+K/KC/KC3.xml,KC3RE00B,051904,7,,B,6,1,"Oh yeah,(())",,
+K/KC/KC3.xml,KC3RE00B,051904,8,,A,7,1,(()) yeah do you want to read that?,,
+K/KC/KC3.xml,KC3RE00B,051904,9,,A,7,2,Can you read?,,
+K/KC/KC3.xml,KC3RE00B,051904,10,,B,8,1,Yeah.,,

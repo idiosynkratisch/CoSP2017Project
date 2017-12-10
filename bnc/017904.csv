@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD0.xml,KD0RE026,017904,0,,A,1,1,You want the papers  (()) you've yet to find someone with a painting and (()),,
+K/KD/KD0.xml,KD0RE026,017904,1,,B,2,1,(()) He is fast  (()) quick off the mark  (()) when he gets going,,
+K/KD/KD0.xml,KD0RE026,017904,2,,A,3,1,"That's what he says, I really have seen the place, the man in the  (()) pass him (())",,
+K/KD/KD0.xml,KD0RE026,017904,3,,B,4,1,Why?,,

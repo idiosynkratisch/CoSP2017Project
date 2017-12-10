@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05A,002719,0,,A,1,1,I think you've got to move the yellow near one of my hoops.,i/PNP think/VVB you/PNP have/VHB get/VVN to/TO0 move/VVI the/AT0 yellow/NN1 near/PRP one/CRD of/PRF i/DPS hoop/NN2 ./PUN,
+K/KB/KBK.xml,KBKRE05A,002719,1,,B,2,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE05A,002719,2,,A,3,1,(()) ,,
+K/KB/KBK.xml,KBKRE05A,002719,3,,B,4,1,Now that's your next hoop isn't it?,now/AV0 that/DT0 be/VBZ you/DPS next/ORD hoop/NN1 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE05A,002719,4,,A,5,1,Yes.(()),yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE05A,002719,5,,B,6,1,"I am, I am indeed, yes, yes, I  I've got to deal with it some way, somehow.","i/PNP be/VBB ,/PUN i/PNP be/VBB indeed/AV0 ,/PUN yes/ITJ ,/PUN yes/ITJ ,/PUN i/PNP i/PNP have/VHB get/VVN to/TO0 deal/VVI with/PRP it/PNP some/DT0 way/NN1 ,/PUN somehow/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE05A,002719,6,,A,7,1,(()) ,,
+K/KB/KBK.xml,KBKRE05A,002719,7,,B,8,1,Move yellow onto red.,move/VVB yellow/AJ0 onto/PRP red/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE05A,002719,8,,A,9,1,(()) ,,
+K/KB/KBK.xml,KBKRE05A,002719,9,,B,10,1,"Yes, yes, O K.","yes/ITJ ,/PUN yes/ITJ ,/PUN o/ZZ0 k./ZZ0",

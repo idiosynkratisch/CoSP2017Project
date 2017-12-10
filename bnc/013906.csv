@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE040,013906,0,,A,1,1,See old Sarah's been kidnapped on Emmerdale Farm?,,
+K/KD/KDA.xml,KDARE040,013906,1,,B,2,1,Don't watch it.,,
+K/KD/KDA.xml,KDARE040,013906,2,,A,3,1,Do you watch it Cherub?,,
+K/KD/KDA.xml,KDARE040,013906,3,,A,3,2,No you wouldn't.,,
+K/KD/KDA.xml,KDARE040,013906,4,,A,3,3,You'd be down the pub wouldn't you?,,

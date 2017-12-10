@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01J,038704,0,,A,1,1,Do you want a coffee?,do/VDB you/PNP want/VVI a/AT0 coffee/NN1 ?/PUN,
+K/KE/KE2.xml,KE2RE01J,038704,1,,B,2,1,Er,er/UNC,
+K/KE/KE2.xml,KE2RE01J,038704,2,,A,3,1,Do you want a coffee?,do/VDB you/PNP want/VVI a/AT0 coffee/NN1 ?/PUN,
+K/KE/KE2.xml,KE2RE01J,038704,3,,B,4,1,"No, I don't want one just now, I may have one later, not just now cos I'll  just have mineral water again.","no/ITJ ,/PUN i/PNP do/VDB not/XX0 want/VVI one/PNI just/AV0 now/AV0 ,/PUN i/PNP may/VM0 have/VHI one/PNI-CRD late/AJC ,/PUN not/XX0 just/AV0 now/AV0 cos/CJS i/PNP will/VM0 just/AV0 have/VHI mineral/NN1 water/NN1 again/AV0 ./PUN",
+K/KE/KE2.xml,KE2RE01J,038704,4,,B,4,2,Just water this time not  erm  (()) .,just/AV0 water/VVB-NN1 this/DT0 time/NN1 not/XX0 erm/UNC ./PUN,
+K/KE/KE2.xml,KE2RE01J,038704,5,,B,4,3,Erm  (()) .,erm/UNC ./PUN,
+K/KE/KE2.xml,KE2RE01J,038704,6,,B,4,4,Is it  is it boiled?,be/VBZ it/PNP be/VBZ it/PNP boil/VVN ?/PUN,
+K/KE/KE2.xml,KE2RE01J,038704,7,,A,5,1,Mm mm.,mm/ITJ mm/ITJ ./PUN,
+K/KE/KE2.xml,KE2RE01J,038704,8,,B,6,1,I get used to it.,i/PNP get/VVB used/AJ0 to/PRP it/PNP ./PUN,
+K/KE/KE2.xml,KE2RE01J,038704,9,,B,6,2,Oh you've got your (()) .,oh/ITJ you/PNP have/VHB get/VVN you/DPS ./PUN,
+K/KE/KE2.xml,KE2RE01J,038704,10,,B,6,3,I might go for something.,i/PNP might/VM0 go/VVI for/PRP something/PNI ./PUN,
+K/KE/KE2.xml,KE2RE01J,038704,11,,A,7,1,Here are.,here/AV0 be/VBB ./PUN,

@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD7.xml,KD7RE00C,035606,0,,A,1,1,What I want to know is just what did it take to get him to do that?,what/DTQ i/PNP want/VVB to/TO0 know/VVI be/VBZ just/AV0 what/DTQ do/VDD it/PNP take/VVI to/TO0 get/VVI he/PNP to/TO0 do/VDI that/DT0 ?/PUN,
+K/KD/KD7.xml,KD7RE00C,035606,1,,B,2,1,Patience.,patience/NN1 ./PUN,
+K/KD/KD7.xml,KD7RE00C,035606,2,,B,2,2,Just keep trying Laura.,just/AV0 keep/VVB try/VVG laura/NP0 ./PUN,
+K/KD/KD7.xml,KD7RE00C,035606,3,,B,2,3,Perseverance.,perseverance/NN1-NP0 ./PUN,
+K/KD/KD7.xml,KD7RE00C,035606,4,,B,2,4,Something that seems to be sadly lacking in this house.,something/PNI that/CJT seem/VVZ to/TO0 be/VBI sadly/AV0 lack/VVG in/PRP this/DT0 house/NN1 ./PUN,

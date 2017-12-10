@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE018,002208,0,,A,1,1,Is the office still being occupied?,be/VBZ the/AT0 office/NN1 still/AV0 be/VBG occupy/VVN ?/PUN,
+K/KB/KBK.xml,KBKRE018,002208,1,,B,2,1,"No, not  (()) occupied.","no/ITJ ,/PUN not/XX0 occupy/VVN ./PUN",
+K/KB/KBK.xml,KBKRE018,002208,2,,B,2,2,"No it's not actually, busy.","no/ITJ it/PNP be/VBZ not/XX0 actually/AV0 ,/PUN busy/AJ0 ./PUN",
+K/KB/KBK.xml,KBKRE018,002208,3,,A,3,1,(()) pouring in here.,pour/VVG-AJ0 in/PRP here/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE018,002208,4,,B,4,1,"Well we had one or two earlier this week, I must say.","well/AV0 we/PNP have/VHD one/CRD or/CJC two/CRD early/AV0 this/DT0 week/NN1 ,/PUN i/PNP must/VM0 say/VVI ./PUN",
+K/KB/KBK.xml,KBKRE018,002208,5,,B,4,2,Nothing today.,nothing/PNI today/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE018,002208,6,,A,5,1,Still  still (()) .,still/AV0 still/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE018,002208,7,,B,6,1,No.,no/ITJ ./PUN,

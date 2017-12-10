@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE03L,039505,0,,A,1,1,"Yes, it'll be nice to have a cup of tea.","yes/ITJ ,/PUN it/PNP will/VM0 be/VBI nice/AJ0 to/TO0 have/VHI a/AT0 cup/NN1 of/PRF tea/NN1 ./PUN",
+K/KE/KE2.xml,KE2RE03L,039505,1,,A,1,2,Shall I carry it through?,shall/VM0 i/PNP carry/VVI it/PNP through/AVP-PRP ?/PUN,
+K/KE/KE2.xml,KE2RE03L,039505,2,,B,2,1,Please.,please/AV0 ./PUN,
+K/KE/KE2.xml,KE2RE03L,039505,3,,B,2,2,"Now is there going to be enough there, salad- wise?","now/AV0 be/VBZ there/EX0 go/VVG to/TO0 be/VBI enough/DT0 there/AV0 ,/PUN salad-/AJ0 wise/AJ0 ?/PUN",
+K/KE/KE2.xml,KE2RE03L,039505,4,,B,2,3,I mean are you going to  (()),i/PNP mean/VVB be/VBB you/PNP go/VVG to/PRP,
+K/KE/KE2.xml,KE2RE03L,039505,5,,A,3,1,Oh I would think so yes.,oh/ITJ i/PNP would/VM0 think/VVI so/AV0 yes/ITJ ./PUN,
+K/KE/KE2.xml,KE2RE03L,039505,6,,B,4,1,"Cos I got that other meat, the red meat to do for a supper but I can do that for tomorrow  (())","cos/CJS i/PNP get/VVD that/DT0 other/AJ0 meat/NN1 ,/PUN the/AT0 red/AJ0 meat/NN1 to/TO0 do/VDI for/PRP a/AT0 supper/NN1 but/CJC i/PNP can/VM0 do/VDI that/DT0 for/PRP tomorrow/AV0",
+K/KE/KE2.xml,KE2RE03L,039505,7,,A,5,1,Well that's fine isn't it?,well/AV0 that/DT0 be/VBZ fine/AJ0 be/VBZ not/XX0 it/PNP ?/PUN,

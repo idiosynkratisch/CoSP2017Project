@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE028,002307,0,,A,1,1,Thank you for all that Lynda that's great.,thank/VVB you/PNP for/PRP all/DT0 that/DT0-CJT lynda/NP0 that/DT0-CJT be/VBZ great/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE028,002307,1,,B,2,1,"I'm, I, well I have to put  (()) this really ought to go in.","i/PNP be/VBB ,/PUN i/PNP ,/PUN well/AV0 i/PNP have/VHB to/TO0 put/VVI this/DT0 really/AV0 ought/VM0 to/TO0 go/VVI in/AVP-PRP ./PUN",
+K/KB/KBK.xml,KBKRE028,002307,2,,A,3,1,"Well erm, ha ha ha ha may I, may I have a look at it?","well/AV0 erm/UNC ,/PUN ha/ITJ ha/ITJ ha/ITJ ha/ITJ may/VM0 i/PNP ,/PUN may/VM0 i/PNP have/VHI a/AT0 look/NN1 at/PRP it/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE028,002307,3,,B,4,1,"Mm, don't forget the (()) .","mm/ITJ ,/PUN do/VDB not/XX0 forget/VVI the/AT0 ./PUN",

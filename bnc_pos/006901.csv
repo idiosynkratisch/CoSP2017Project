@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE00H,006901,0,,A,1,1,Read this one.,read/VVB this/DT0 one/PNI ./PUN,
+K/KD/KDE.xml,KDERE00H,006901,1,,B,2,1,Well hang on cos I have to phone Emma.,well/AV0 hang/VVB on/AVP cos/CJS i/PNP have/VHB to/TO0 phone/VVI emma/NP0 ./PUN,
+K/KD/KDE.xml,KDERE00H,006901,2,,B,2,2,We're going out in a minute anyway.,we/PNP be/VBB go/VVG out/AVP in/PRP a/AT0 minute/NN1 anyway/AV0 ./PUN,

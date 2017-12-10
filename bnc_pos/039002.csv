@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE026,039002,0,,A,1,1,"Makes you wonder how much erm ours is worth, not as much as that obviously but er","make/VVZ you/PNP wonder/VVI how/AVQ much/AV0 erm/UNC ours/PNP be/VBZ worth/PRP ,/PUN not/XX0 as/AV0 much/DT0 as/CJS that/DT0 obviously/AV0 but/CJC er/UNC",
+K/KE/KE2.xml,KE2RE026,039002,1,,B,2,1,Cos ours is eighteen something or other isn't it?,cos/CJS ours/PNP be/VBZ eighteen/CRD something/PNI or/CJC other/AJ0-NN1 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KE/KE2.xml,KE2RE026,039002,2,,A,3,1,Is it?,be/VBZ it/PNP ?/PUN,
+K/KE/KE2.xml,KE2RE026,039002,3,,B,4,1,(()) ,,
+K/KE/KE2.xml,KE2RE026,039002,4,,A,5,1,Mm.,mm/ITJ ./PUN,
+K/KE/KE2.xml,KE2RE026,039002,5,,B,6,1,(()) Ours looks homemade to me.,ours/PNP look/VVZ homemade/AJ0 to/PRP i/PNP ./PUN,
+K/KE/KE2.xml,KE2RE026,039002,6,,A,7,1,<laugh> No I don't think it is.,no/ITJ i/PNP do/VDB not/XX0 think/VVI it/PNP be/VBZ ./PUN,

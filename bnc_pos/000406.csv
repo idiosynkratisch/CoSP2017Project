@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE000,000406,0,,A,1,1,"Right, then I'll just put it down here  Nine teas  Your not actually shooting till Tuesday are you?","right/AV0 ,/PUN then/AV0 i/PNP will/VM0 just/AV0 put/VVI it/PNP down/AVP here/AV0 nine/CRD tea/NN2 you/DPS not/XX0 actually/AV0 shoot/VVG till/PRP tuesday/NP0 be/VBB you/PNP ?/PUN",
+K/KD/KDP.xml,KDPRE000,000406,1,,B,2,1,"No,(()) .","no/ITJ ,/PUN ./PUN",
+K/KD/KDP.xml,KDPRE000,000406,2,,B,2,2,What time does he (()) .,what/DTQ time/NN1 do/VDZ he/PNP ./PUN,
+K/KD/KDP.xml,KDPRE000,000406,3,,A,3,1,Twelve ninety till three.,twelve/CRD ninety/CRD till/PRP three/CRD ./PUN,

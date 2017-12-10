@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE02R,005216,0,,A,1,1,Oh it's quite pretty.,oh/ITJ it/PNP be/VBZ quite/AV0 pretty/AJ0 ./PUN,
+K/KC/KCD.xml,KCDRE02R,005216,1,,A,1,2,That's about right cos you wouldn't want a big pattern in a room this size would you?,that/DT0 be/VBZ about/AV0 right/AJ0-AV0 cos/CJS you/PNP would/VM0 not/XX0 want/VVI a/AT0 big/AJ0 pattern/NN1 in/PRP a/AT0 room/NN1 this/DT0 size/NN1 would/VM0 you/PNP ?/PUN,
+K/KC/KCD.xml,KCDRE02R,005216,2,,B,2,1,No.,no/ITJ ./PUN,
+K/KC/KCD.xml,KCDRE02R,005216,3,,A,3,1,<cough> .,./PUN,
+K/KC/KCD.xml,KCDRE02R,005216,4,,A,3,2,"I tell you what, eh you wouldn't get any.","i/PNP tell/VVB you/PNP what/DTQ ,/PUN eh/ITJ you/PNP would/VM0 not/XX0 get/VVI any/DT0 ./PUN",
+K/KC/KCD.xml,KCDRE02R,005216,5,,B,4,1,(()) twenty.,twenty/CRD ./PUN,
+K/KC/KCD.xml,KCDRE02R,005216,6,,A,5,1,Yes  Steven's not having a particularly good week for his holidays is he?,yes/ITJ steven/NP0 be/VBZ not/XX0 have/VHG a/AT0 particularly/AV0 good/AJ0 week/NN1 for/PRP he/DPS holiday/NN2 be/VBZ he/PNP ?/PUN,
+K/KC/KCD.xml,KCDRE02R,005216,7,,B,6,1,No he isn't.(()) .,no/ITJ he/PNP be/VBZ not/XX0 ./PUN ./PUN,
+K/KC/KCD.xml,KCDRE02R,005216,8,,A,7,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KCD.xml,KCDRE02R,005216,9,,A,7,2,I wouldn't be at all impressed with it.,i/PNP would/VM0 not/XX0 be/VBI [at/PRP all/DT0]/AV0 impressed/AJ0 with/PRP it/PNP ./PUN,

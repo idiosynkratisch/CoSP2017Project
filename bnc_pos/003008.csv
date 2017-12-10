@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE070,003008,0,,A,1,1,"Blowing awfully quickly, that's the second out of the sixth that you bought yesterday.","blow/VVG awfully/AV0 quickly/AV0 ,/PUN that/DT0 be/VBZ the/AT0 second/NN1 [out/AVP of/PRF]/PRP the/AT0 sixth/ORD that/DT0 you/PNP buy/VVD-VVN yesterday/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE070,003008,1,,B,2,1,Yes  I bought them in Sainsbury's they are Sainsbury's bulbs aren't they?,yes/ITJ i/PNP buy/VVD they/PNP in/PRP sainsbury/NP0 's/POS they/PNP be/VBB sainsbury/NP0 's/POS bulb/NN2 be/VBB not/XX0 they/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE070,003008,2,,A,3,1,Philip's bulbs.,philip/NP0 's/POS bulb/NN2 ./PUN,
+K/KB/KBK.xml,KBKRE070,003008,3,,B,4,1,"I mean that was a new bulb, well that's the second one you've used.","i/PNP mean/VVB that/DT0 be/VBD a/AT0 new/AJ0 bulb/NN1 ,/PUN well/AV0 that/DT0 be/VBZ the/AT0 second/ORD one/PNI you/PNP have/VHB use/VVN ./PUN",
+K/KB/KBK.xml,KBKRE070,003008,4,,A,5,1,Second one I've used.,second/ORD one/PNI i/PNP have/VHB use/VVN ./PUN,
+K/KB/KBK.xml,KBKRE070,003008,5,,B,6,1,(()) ,,
+K/KB/KBK.xml,KBKRE070,003008,6,,A,7,1,"No, not yet  What's on television?","no/ITJ ,/PUN not/XX0 yet/AV0 what/DTQ be/VBZ on/PRP television/NN1 ?/PUN",
+K/KB/KBK.xml,KBKRE070,003008,7,,B,8,1,"Well there's only look like two that are anything  (()) discussing that film about the lambs  whatever it's called with Jodie Foster, the rest didn't look very interesting but you may feel differently.","well/AV0 there/EX0 be/VBZ only/AV0 look/VVB like/PRP two/CRD that/CJT be/VBB anything/PNI discuss/VVG that/DT0 film/NN1 about/PRP the/AT0 lamb/NN2 whatever/DTQ it/PNP be/VBZ call/VVN with/PRP jodie/NP0 foster/NP0 ,/PUN the/AT0 rest/NN1 do/VDD not/XX0 look/VVI very/AV0 interesting/AJ0 but/CJC you/PNP may/VM0 feel/VVI differently/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE070,003008,8,,A,9,1,"Yes, a bit forgettable isn't it?","yes/ITJ ,/PUN [a/AT0 bit/NN1]/AV0 forgettable/AJ0 be/VBZ not/XX0 it/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE070,003008,9,,A,9,2,I put my specs outside.,i/PNP put/VVB i/DPS spec/NN2 outside/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE070,003008,10,,B,10,1,They're in  (()),they/PNP be/VBB in/PRP-AVP,
+K/KB/KBK.xml,KBKRE070,003008,11,,B,10,2,Oh here they are,oh/ITJ here/AV0 they/PNP be/VBB,

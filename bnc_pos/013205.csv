@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02V,013205,0,,A,1,1,"Who's that twit who does the old erm racing for Channel four, bloke with the side burns and funny hat?","who/PNQ be/VBZ that/DT0 twit/NN1 who/PNQ do/VDZ the/AT0 old/AJ0 erm/UNC racing/NN1-VVG for/PRP channel/NN1 four/CRD ,/PUN bloke/NN1 with/PRP the/AT0 side/NN1 burn/NN2 and/CJC funny/AJ0 hat/NN1 ?/PUN",
+K/KD/KDA.xml,KDARE02V,013205,1,,B,2,1,(()) ,,
+K/KD/KDA.xml,KDARE02V,013205,2,,A,3,1,Yeah something like that.,yeah/ITJ something/PNI like/PRP that/DT0 ./PUN,
+K/KD/KDA.xml,KDARE02V,013205,3,,A,3,2,He goes everybody hates  (()) nobody wants  (()) and all that,he/PNP go/VVZ everybody/PNI hate/VVZ nobody/PNI want/VVZ and/CJC all/DT0 that/DT0,
+K/KD/KDA.xml,KDARE02V,013205,4,,B,4,1,They fucking brilliant,they/PNP fucking/AV0 brilliant/AJ0,
+K/KD/KDA.xml,KDARE02V,013205,5,,B,4,2,(()) ,,
+K/KD/KDA.xml,KDARE02V,013205,6,,B,4,3,"Don Revie, Don Revie he's er manager, Leeds playing  (()) brilliant","don/NP0 revie/NP0 ,/PUN don/NP0 revie/NP0 he/PNP be/VBZ er/UNC manager/NN1 ,/PUN leeds/NP0 play/VVG brilliant/AJ0",
+K/KD/KDA.xml,KDARE02V,013205,7,,B,4,4,"Yeah, they still hold two records","yeah/ITJ ,/PUN they/PNP still/AV0 hold/VVB-NN1 two/CRD record/NN2",
+K/KD/KDA.xml,KDARE02V,013205,8,,B,4,5,Only two straight first division wins.,only/AV0 two/CRD straight/AJ0-AV0 first/ORD division/NN1 win/NN2-VVZ ./PUN,

@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB2.xml,KB2RE003,061004,0,,A,1,1,It's not done yet,it/PNP be/VBZ not/XX0 do/VDN yet/AV0,
+K/KB/KB2.xml,KB2RE003,061004,1,,B,2,1,Eh?,eh/ITJ ?/PUN,
+K/KB/KB2.xml,KB2RE003,061004,2,,A,3,1,It's not done yet,it/PNP be/VBZ not/XX0 do/VDN yet/AV0,
+K/KB/KB2.xml,KB2RE003,061004,3,,B,4,1,"Oh, can't have it then can I?see now","oh/ITJ ,/PUN can/VM0 not/XX0 have/VHI it/PNP then/AV0 can/VM0 i/PNP ?/PUN see/VVB now/AV0",
+K/KB/KB2.xml,KB2RE003,061004,4,,A,5,1,Well,well/AV0,

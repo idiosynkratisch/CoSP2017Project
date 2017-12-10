@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE027,039003,0,,A,1,1,I bet the local shop sold out of helmets.,i/PNP bet/VVB the/AT0 local/AJ0 shop/NN1 sell/VVN-VVD [out/AVP of/PRF]/PRP helmet/NN2 ./PUN,
+K/KE/KE2.xml,KE2RE027,039003,1,,B,2,1,Mm?,mm/ITJ ?/PUN,
+K/KE/KE2.xml,KE2RE027,039003,2,,A,3,1,Bet the local shop sold out of helmets.,bet/VVB the/AT0 local/AJ0 shop/NN1 sell/VVN-VVD [out/AVP of/PRF]/PRP helmet/NN2 ./PUN,
+K/KE/KE2.xml,KE2RE027,039003,3,,B,4,1,Mm.,mm/ITJ ./PUN,
+K/KE/KE2.xml,KE2RE027,039003,4,,B,4,2,You couldn't get them actually.,you/PNP could/VM0 not/XX0 get/VVI they/PNP actually/AV0 ./PUN,
+K/KE/KE2.xml,KE2RE027,039003,5,,A,5,1,Mm.,mm/ITJ ./PUN,

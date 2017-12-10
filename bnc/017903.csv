@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD0.xml,KD0RE025,017903,0,,A,1,1,Got the  (()) car things going through.,,
+K/KD/KD0.xml,KD0RE025,017903,1,,B,2,1,(()) ,,
+K/KD/KD0.xml,KD0RE025,017903,2,,A,3,1,"Mm,(()) got them, on Monks Lane the (())",,
+K/KD/KD0.xml,KD0RE025,017903,3,,B,4,1,But he's injured.,,
+K/KD/KD0.xml,KD0RE025,017903,4,,A,5,1,"Yes, and its not through yet, presumably they'll have another look at it at the end of the month.",,

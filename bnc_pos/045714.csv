@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE011,045714,0,,A,1,1,What Jean?,what/DTQ jean/NP0 ?/PUN,
+K/KD/KDN.xml,KDNRE011,045714,1,,A,1,2,Jean!,jean/NP0 !/PUN,
+K/KD/KDN.xml,KDNRE011,045714,2,,B,2,1,Aye.,aye/ITJ ./PUN,
+K/KD/KDN.xml,KDNRE011,045714,3,,A,3,1,What did you say?,what/DTQ do/VDD you/PNP say/VVI ?/PUN,
+K/KD/KDN.xml,KDNRE011,045714,4,,B,4,1,(()) ,,
+K/KD/KDN.xml,KDNRE011,045714,5,,A,5,1,No it's the best er  medicine for you.,no/ITJ it/PNP be/VBZ the/AT0 good/AJS er/UNC medicine/NN1 for/PRP you/PNP ./PUN,
+K/KD/KDN.xml,KDNRE011,045714,6,,A,5,2,You come in and I'll do it.<alarm ringing>,you/PNP come/VVB in/AVP and/CJC i/PNP will/VM0 do/VDI it/PNP ./PUN,
+K/KD/KDN.xml,KDNRE011,045714,7,,A,5,3,<belch> Excuse me!,excuse/VVB i/PNP !/PUN,

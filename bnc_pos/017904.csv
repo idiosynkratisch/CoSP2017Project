@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD0.xml,KD0RE026,017904,0,,A,1,1,You want the papers  (()) you've yet to find someone with a painting and (()),you/PNP want/VVB the/AT0 paper/NN2 you/PNP have/VHB yet/AV0 to/TO0 find/VVI someone/PNI with/PRP a/AT0 painting/NN1 and/CJC,
+K/KD/KD0.xml,KD0RE026,017904,1,,B,2,1,(()) He is fast  (()) quick off the mark  (()) when he gets going,he/PNP be/VBZ fast/AV0 quick/AJ0 off/PRP the/AT0 mark/NN1 when/CJS he/PNP get/VVZ go/VVG,
+K/KD/KD0.xml,KD0RE026,017904,2,,A,3,1,"That's what he says, I really have seen the place, the man in the  (()) pass him (())","that/DT0 be/VBZ what/DTQ he/PNP say/VVZ ,/PUN i/PNP really/AV0 have/VHB see/VVN the/AT0 place/NN1 ,/PUN the/AT0 man/NN1 in/PRP the/AT0 pass/VVB-NN1 he/PNP",
+K/KD/KD0.xml,KD0RE026,017904,3,,B,4,1,Why?,why/AVQ ?/PUN,

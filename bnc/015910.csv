@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBF.xml,KBFRE032,015910,0,,A,1,1,You looking forward to Greece?,,
+K/KB/KBF.xml,KBFRE032,015910,1,,B,2,1,Yeah.,,
+K/KB/KBF.xml,KBFRE032,015910,2,,A,3,1,Who's going then?,,
+K/KB/KBF.xml,KBFRE032,015910,3,,A,3,2,Just  year seven?,,
+K/KB/KBF.xml,KBFRE032,015910,4,,A,3,3,Carla?,,
+K/KB/KBF.xml,KBFRE032,015910,5,,B,4,1,Yeah.,,
+K/KB/KBF.xml,KBFRE032,015910,6,,A,5,1,Carla.,,
+K/KB/KBF.xml,KBFRE032,015910,7,,A,5,2,Can you talk.,,
+K/KB/KBF.xml,KBFRE032,015910,8,,B,6,1,I am talking.,,
+K/KB/KBF.xml,KBFRE032,015910,9,,A,7,1,Is it just year seven.,,
+K/KB/KBF.xml,KBFRE032,015910,10,,B,8,1,Yeah.,,

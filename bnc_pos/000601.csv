@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE00U,000601,0,,A,1,1,It was a good film that  very good.,it/PNP be/VBD a/AT0 good/AJ0 film/NN1 that/DT0 very/AV0 good/AJ0 ./PUN,
+K/KD/KDP.xml,KDPRE00U,000601,1,,B,2,1,Yes?,yes/ITJ ?/PUN,
+K/KD/KDP.xml,KDPRE00U,000601,2,,A,3,1,Mm,mm/ITJ,
+K/KD/KDP.xml,KDPRE00U,000601,3,,B,4,1,It's just a more and more  (()) I I think was just a (()),it/PNP be/VBZ just/AV0 a/AT0 more/AV0 and/CJC more/AV0 i/PNP i/PNP think/VVB be/VBD just/AV0 a/AT0,
+K/KD/KDP.xml,KDPRE00U,000601,4,,A,5,1,Yeah.,yeah/ITJ ./PUN,
+K/KD/KDP.xml,KDPRE00U,000601,5,,A,5,2,It's worse it is.  yeah we need to we need to get busy again we do.,it/PNP be/VBZ bad/AJC it/PNP is./NN0 yeah/ITJ we/PNP need/VVB to/TO0 we/PNP need/VVB to/TO0 get/VVI busy/AJ0 again/AV0 we/PNP do/VDB ./PUN,
+K/KD/KDP.xml,KDPRE00U,000601,6,,A,5,3,Oh!,oh/ITJ !/PUN,
+K/KD/KDP.xml,KDPRE00U,000601,7,,A,5,4,Ho!,ho/ITJ !/PUN,
+K/KD/KDP.xml,KDPRE00U,000601,8,,A,5,5,Tut!,tut/ITJ !/PUN,
+K/KD/KDP.xml,KDPRE00U,000601,9,,A,5,6,Tut!,tut/ITJ !/PUN,

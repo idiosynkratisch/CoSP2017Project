@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE055,002714,0,,A,1,1,"Putting the red, thank you, erm somewhere here.","put/VVG the/AT0 red/NN1 ,/PUN thank/VVB you/PNP ,/PUN erm/UNC somewhere/AV0 here/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE055,002714,1,,B,2,1,"That's it, isn't it (()) .","that/DT0 be/VBZ it/PNP ,/PUN be/VBZ not/XX0 it/PNP ./PUN",
+K/KB/KBK.xml,KBKRE055,002714,2,,A,3,1,"Yes, right, right, yep.<hits ball>","yes/ITJ ,/PUN right/AV0 ,/PUN right/AV0 ,/PUN yep/ITJ ./PUN",
+K/KB/KBK.xml,KBKRE055,002714,3,,B,4,1,You've got to get (()),you/PNP have/VHB get/VVN to/TO0 get/VVI,
+K/KB/KBK.xml,KBKRE055,002714,4,,A,5,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE055,002714,5,,B,6,1,"cos the red goes straight line always, doesn't matter whether you hit it like that, that, that, that, that red ball will always  (())","cos/CJS the/AT0 red/NN1 go/VVZ straight/AJ0 line/NN1 always/AV0 ,/PUN do/VDZ not/XX0 matter/VVI whether/CJS you/PNP hit/VVD it/PNP like/PRP that/DT0 ,/PUN that/DT0-CJT ,/PUN that/DT0-CJT ,/PUN that/DT0-CJT ,/PUN that/DT0 red/AJ0 ball/NN1 will/VM0 always/AV0",
+K/KB/KBK.xml,KBKRE055,002714,6,,A,7,1,"It'll move away on all through the line of contact, right.","it/PNP will/VM0 move/VVI away/AV0 on/PRP all/DT0 through/PRP the/AT0 line/NN1 of/PRF contact/NN1 ,/PUN right/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE055,002714,7,,B,8,1,O K?,o/ZZ0 k/ZZ0 ?/PUN,
+K/KB/KBK.xml,KBKRE055,002714,8,,A,9,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE055,002714,9,,B,10,1,"The one that does take reflection (()) , but I think you've got to aim really for that wire.","the/AT0 one/PNI that/CJT do/VDZ take/VVI reflection/NN1 ,/PUN but/CJC i/PNP think/VVB you/PNP have/VHB get/VVN to/TO0 aim/VVI really/AV0 for/PRP that/DT0 wire/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE055,002714,10,,A,11,1,"Yes, yes, good.","yes/ITJ ,/PUN yes/ITJ ,/PUN good/AJ0 ./PUN",

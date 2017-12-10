@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE00M,038203,0,,A,1,1,"Just sugar and eggs in there, and the card  why did you come back for?",,
+K/KE/KE2.xml,KE2RE00M,038203,1,,B,2,1,Eh?,,
+K/KE/KE2.xml,KE2RE00M,038203,2,,A,3,1,Why did you come back for?,,
+K/KE/KE2.xml,KE2RE00M,038203,3,,B,4,1,"Well I, I turned round and backed in so that you could see me here",,
+K/KE/KE2.xml,KE2RE00M,038203,4,,A,5,1,Oh,,

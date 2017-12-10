@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE00R,004812,0,,A,1,1,I don't need to take scissors or any thing (()) .,i/PNP do/VDB not/XX0 need/VVI to/TO0 take/VVI scissors/NN2 or/CJC any/DT0 thing/NN1 ./PUN,
+K/KC/KCD.xml,KCDRE00R,004812,1,,B,2,1,"No, no.","no/ITJ ,/PUN no/ITJ ./PUN",
+K/KC/KCD.xml,KCDRE00R,004812,2,,A,3,1,What about some (()) .,what/DTQ about/PRP some/DT0 ./PUN,
+K/KC/KCD.xml,KCDRE00R,004812,3,,B,4,1,"No, don't think, don't give you any of the.","no/ITJ ,/PUN do/VDB not/XX0 think/VVI ,/PUN do/VDB not/XX0 give/VVI you/PNP any/DT0 of/PRF the/AT0 ./PUN",
+K/KC/KCD.xml,KCDRE00R,004812,4,,A,5,1,You got my erm.,you/PNP get/VVD i/DPS erm/UNC ./PUN,
+K/KC/KCD.xml,KCDRE00R,004812,5,,B,6,1,"I think you'll need a  coat hanger for that, oh, any down here.","i/PNP think/VVB you/PNP will/VM0 need/VVI a/AT0 coat/NN1 hanger/NN1 for/PRP that/DT0 ,/PUN oh/ITJ ,/PUN any/DT0 down/AVP here/AV0 ./PUN",
+K/KC/KCD.xml,KCDRE00R,004812,6,,B,6,2,I'll go upstairs and get a coat hanger when you.,i/PNP will/VM0 go/VVI upstairs/AV0 and/CJC get/VVI a/AT0 coat/NN1 hanger/NN1 when/CJS you/PNP ./PUN,
+K/KC/KCD.xml,KCDRE00R,004812,7,,A,7,1,"Haven't got, I haven't got any.","have/VHB not/XX0 get/VVN ,/PUN i/PNP have/VHB not/XX0 get/VVN any/DT0 ./PUN",
+K/KC/KCD.xml,KCDRE00R,004812,8,,B,8,1,On the spare bedroom bed I should think there's some.,on/PRP the/AT0 spare/AJ0 bedroom/NN1 bed/NN1 i/PNP should/VM0 think/VVI there/EX0 be/VBZ some/DT0 ./PUN,

@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDY.xml,KDYRE004,006205,0,,A,1,1,I went up to the  get the paper this morning.,i/PNP go/VVD [up/AVP to/PRP]/PRP the/AT0 get/VVB the/AT0 paper/NN1 this/DT0 morning/NN1 ./PUN,
+K/KD/KDY.xml,KDYRE004,006205,1,,A,1,2,The er bloke in there said did I know who owned the  I noticed there was this little long haired sort of black and white or grey dog that was er tethered to a oh a lamp post or something outside.,the/AT0 er/UNC bloke/NN1 in/PRP there/AV0 say/VVD do/VDD i/PNP know/VVI who/PNQ own/VVD the/AT0 i/PNP notice/VVD there/EX0 be/VBD this/DT0 little/AJ0 long/AJ0-AV0 haired/AJ0 sort/NN1 of/PRF black/AJ0-NN1 and/CJC white/AJ0 or/CJC grey/AJ0 dog/NN1 that/CJT-DT0 be/VBD er/UNC tether/VVN-AJ0 to/PRP a/AT0 oh/ITJ a/AT0 lamp/NN1 post/NN1 or/CJC something/PNI outside/AV0 ./PUN,
+K/KD/KDY.xml,KDYRE004,006205,2,,B,2,1,Outside where?,outside/AV0 where/AVQ ?/PUN,
+K/KD/KDY.xml,KDYRE004,006205,3,,A,3,1,Outside the er newsagents.,outside/PRP the/AT0 er/UNC newsagent/NN2 ./PUN,
+K/KD/KDY.xml,KDYRE004,006205,4,,A,3,2,"And apparently erm  the bloke had gone up to get his paper, tethered the dog outside and then walked off and forgotten the poor little thing.","and/CJC apparently/AV0 erm/UNC the/AT0 bloke/NN1 have/VHD go/VVN up/AVP to/TO0 get/VVI he/DPS paper/NN1 ,/PUN tether/VVN-AJ0 the/AT0 dog/NN1 outside/AV0 and/CJC then/AV0 walk/VVD off/AVP and/CJC forget/VVN the/AT0 poor/AJ0 little/AJ0 thing/NN1 ./PUN",
+K/KD/KDY.xml,KDYRE004,006205,5,,B,4,1,Oh dear.,oh/ITJ dear/ITJ ./PUN,
+K/KD/KDY.xml,KDYRE004,006205,6,,B,4,2,What happened?,what/DTQ happen/VVD ?/PUN,
+K/KD/KDY.xml,KDYRE004,006205,7,,A,5,1,So he said,so/AV0 he/PNP say/VVD,
+K/KD/KDY.xml,KDYRE004,006205,8,,B,6,1,Did he come back for it?,do/VDD he/PNP come/VVI back/AVP for/PRP it/PNP ?/PUN,
+K/KD/KDY.xml,KDYRE004,006205,9,,A,7,1,Well I presume so because it wasn't there when I came out.,well/AV0 i/PNP presume/VVB so/AV0 because/CJS it/PNP be/VBD not/XX0 there/AV0 when/CJS i/PNP come/VVD out/AVP ./PUN,
+K/KD/KDY.xml,KDYRE004,006205,10,,A,7,2,But he said he thought it was an Irish fellow you know and I said well where does he live?,but/CJC he/PNP say/VVD he/PNP think/VVD it/PNP be/VBD an/AT0 irish/AJ0 fellow/NN1 you/PNP know/VVB and/CJC i/PNP say/VVD well/AV0 where/AVQ do/VDZ he/PNP live/VVI ?/PUN,
+K/KD/KDY.xml,KDYRE004,006205,11,,A,7,3,He said well I don't really know but I know he lives local somewhere.,he/PNP say/VVD well/AV0 i/PNP do/VDB not/XX0 really/AV0 know/VVI but/CJC i/PNP know/VVB he/PNP live/VVZ local/AJ0 somewhere/AV0 ./PUN,

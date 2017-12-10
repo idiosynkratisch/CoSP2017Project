@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE02K,005211,0,,A,1,1,Well it doesn't like vinyl paper for some reason.,well/AV0 it/PNP do/VDZ not/XX0 like/VVI vinyl/NN1 paper/NN1 for/PRP some/DT0 reason/NN1 ./PUN,
+K/KC/KCD.xml,KCDRE02K,005211,1,,B,2,1,"No, it'll dry out (()) .","no/ITJ ,/PUN it/PNP will/VM0 dry/VVI out/AVP ./PUN",
+K/KC/KCD.xml,KCDRE02K,005211,2,,A,3,1,"Yeah  It wasn't that  it wasn't the lumps that bothered me it was the uhum, the fact that the edges just doesn't stay down.","yeah/ITJ it/PNP be/VBD not/XX0 that/CJT it/PNP be/VBD not/XX0 the/AT0 lump/NN2 that/CJT bother/VVD i/PNP it/PNP be/VBD the/AT0 uhum/NN1 ,/PUN the/AT0 fact/NN1 that/CJT the/AT0 edge/NN2 just/AV0 do/VDZ not/XX0 stay/VVI down/AVP ./PUN",
+K/KC/KCD.xml,KCDRE02K,005211,3,,B,4,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KCD.xml,KCDRE02K,005211,4,,A,5,1,"I think I might cut another piece of paper, the side won't stay flat.","i/PNP think/VVB i/PNP might/VM0 cut/VVI another/DT0 piece/NN1 of/PRF paper/NN1 ,/PUN the/AT0 side/NN1 will/VM0 not/XX0 stay/VVI flat/AJ0-NN1 ./PUN",

@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05C,002721,0,,A,1,1,"The ball, I've got a ball near my next two anyway",,
+K/KB/KBK.xml,KBKRE05C,002721,1,,B,2,1,Mm mm.,,
+K/KB/KBK.xml,KBKRE05C,002721,2,,A,3,1,"and I've got to <hits ball> , another out of, in play, which is always useful.",,
+K/KB/KBK.xml,KBKRE05C,002721,3,,A,3,2,<hits ball> Right (()) .,,
+K/KB/KBK.xml,KBKRE05C,002721,4,,B,4,1,Right.,,

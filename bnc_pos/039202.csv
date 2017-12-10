@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE02K,039202,0,,A,1,1,Gosh   <reading> police who found nineteen thousand five hundred pounds at  <<REDACTED (name)>> 's tool repair business in Newark yesterday,gosh/ITJ police/NN2 who/PNQ find/VVD nineteen/CRD thousand/CRD five/CRD hundred/CRD pound/NN2 at/PRP 's/POS tool/NN1 repair/NN1 business/NN1 in/PRP newark/NP0 yesterday/AV0,
+K/KE/KE2.xml,KE2RE02K,039202,1,,B,2,1,Did they?,do/VDD they/PNP ?/PUN,
+K/KE/KE2.xml,KE2RE02K,039202,2,,A,3,1,<clears throat> dug up the garden of his cottage home.,dig/VVD up/AVP-PRP the/AT0 garden/NN1 of/PRF he/DPS cottage/NN1 home/AV0 ./PUN,
+K/KE/KE2.xml,KE2RE02K,039202,3,,B,4,1,Oh,oh/ITJ,
+K/KE/KE2.xml,KE2RE02K,039202,4,,A,5,1,We believe it had been buried in tin cans and hidden in walls,we/PNP believe/VVB it/PNP have/VHD be/VBN bury/VVN in/PRP tin/NN1 can/NN2 and/CJC hide/VVN in/PRP wall/NN2,
+K/KE/KE2.xml,KE2RE02K,039202,5,,B,6,1,Cos I was thinking  (()),cos/CJS i/PNP be/VBD think/VVG,
+K/KE/KE2.xml,KE2RE02K,039202,6,,A,7,1,"all over the place, it could take months to trace and it is possible we will never find all of it .","all/AV0 over/PRP the/AT0 place/NN1 ,/PUN it/PNP could/VM0 take/VVI month/NN2 to/TO0 trace/VVI and/CJC it/PNP be/VBZ possible/AJ0 we/PNP will/VM0 never/AV0 find/VVI all/DT0 of/PRF it/PNP ./PUN",

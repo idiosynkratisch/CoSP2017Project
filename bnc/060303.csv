@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBT.xml,KBTRE002,060303,0,,A,1,1,What?,,
+K/KB/KBT.xml,KBTRE002,060303,1,,B,2,1,Eh?,,
+K/KB/KBT.xml,KBTRE002,060303,2,,B,2,2,What time's dinner at?,,
+K/KB/KBT.xml,KBTRE002,060303,3,,A,3,1,I don't know.,,
+K/KB/KBT.xml,KBTRE002,060303,4,,A,3,2,About  three.,,
+K/KB/KBT.xml,KBTRE002,060303,5,,B,4,1,"Half two, three o'clock?",,
+K/KB/KBT.xml,KBTRE002,060303,6,,A,5,1,Yeah.,,
+K/KB/KBT.xml,KBTRE002,060303,7,,A,5,2,(()) alright?,,
+K/KB/KBT.xml,KBTRE002,060303,8,,A,5,3,No.,,
+K/KB/KBT.xml,KBTRE002,060303,9,,B,6,1,Yeah.,,
+K/KB/KBT.xml,KBTRE002,060303,10,,A,7,1,About that.,,

@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC4.xml,KC4RE001,006402,0,,A,1,1,Ah how's the old prep going eh?,ah/ITJ how/AVQ be/VBZ the/AT0 old/AJ0 prep/NN1 go/VVG eh/ITJ ?/PUN,
+K/KC/KC4.xml,KC4RE001,006402,1,,B,2,1,Well I've finished it.,well/AV0 i/PNP have/VHB finish/VVN it/PNP ./PUN,
+K/KC/KC4.xml,KC4RE001,006402,2,,A,3,1,"Oh you've finished it, oh good.","oh/ITJ you/PNP have/VHB finish/VVN it/PNP ,/PUN oh/ITJ good/AJ0 ./PUN",
+K/KC/KC4.xml,KC4RE001,006402,3,,A,3,2,Alright?,alright/AV0 ?/PUN,
+K/KC/KC4.xml,KC4RE001,006402,4,,B,4,1,Mhm.,mhm/ITJ ./PUN,
+K/KC/KC4.xml,KC4RE001,006402,5,,A,5,1,Well I hope you get on well with  what you're doing for your scenery.,well/AV0 i/PNP hope/VVB you/PNP get/VVB on/AVP-PRP well/AV0-AJ0 with/PRP what/DTQ you/PNP be/VBB do/VDG for/PRP you/DPS scenery/NN1 ./PUN,
+K/KC/KC4.xml,KC4RE001,006402,6,,B,6,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KC4.xml,KC4RE001,006402,7,,A,7,1,Alright?,alright/AV0 ?/PUN,
+K/KC/KC4.xml,KC4RE001,006402,8,,B,8,1,O K.,o/ZZ0 k./ZZ0,
+K/KC/KC4.xml,KC4RE001,006402,9,,A,9,1,See you later.,see/VVB you/PNP later/AV0 ./PUN,
+K/KC/KC4.xml,KC4RE001,006402,10,,B,10,1,Yeah.,yeah/ITJ ./PUN,

@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02G,002315,0,,A,1,1,Are you ready Chris?,,
+K/KB/KBK.xml,KBKRE02G,002315,1,,B,2,1,Any second now.,,
+K/KB/KBK.xml,KBKRE02G,002315,2,,B,2,2,"Leave it all till Monday Lynda, it's been a long hard week.",,

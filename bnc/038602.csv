@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01A,038602,0,,A,1,1,They're not doing bad are they?,,
+K/KE/KE2.xml,KE2RE01A,038602,1,,B,2,1,Well no!,,
+K/KE/KE2.xml,KE2RE01A,038602,2,,B,2,2,Doing very well.,,
+K/KE/KE2.xml,KE2RE01A,038602,3,,B,2,3,I thought there is  but I mean before (()) .,,
+K/KE/KE2.xml,KE2RE01A,038602,4,,A,3,1,Yep!,,
+K/KE/KE2.xml,KE2RE01A,038602,5,,B,4,1,(()) ,,
+K/KE/KE2.xml,KE2RE01A,038602,6,,A,5,1,Yep!,,

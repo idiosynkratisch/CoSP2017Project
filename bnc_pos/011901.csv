@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE00S,011901,0,,A,1,1,Will he be thinking of us when he spends his gold mancho (()) that's what he'll get.,will/VM0 he/PNP be/VBI think/VVG-NN1 of/PRF we/PNP when/CJS he/PNP spend/VVZ he/DPS gold/NN1 mancho/NN1 that/DT0 be/VBZ what/DTQ he/PNP will/VM0 get/VVI ./PUN,
+K/KD/KDA.xml,KDARE00S,011901,1,,B,2,1,Yep.,yep/ITJ ./PUN,
+K/KD/KDA.xml,KDARE00S,011901,2,,A,3,1,"Will he still be thinking about us poor  (()) working (()) , no I don't think so.","will/VM0 he/PNP still/AV0 be/VBI think/VVG about/PRP we/PNP poor/AJ0 work/VVG-AJ0 ,/PUN no/ITJ i/PNP do/VDB not/XX0 think/VVI so/AV0 ./PUN",

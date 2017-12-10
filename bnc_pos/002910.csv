@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE069,002910,0,,A,1,1,What's inside that?,what/DTQ be/VBZ inside/PRP that/DT0 ?/PUN,
+K/KB/KBK.xml,KBKRE069,002910,1,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE069,002910,2,,A,3,1,Little dumplings.,little/AJ0 dumpling/NN2 ./PUN,
+K/KB/KBK.xml,KBKRE069,002910,3,,B,4,1,Little dumplings such as you've never come across other than in a Chinese Restaurant.,little/AJ0 dumpling/NN2 [such/DT0 as/PRP]/PRP you/PNP have/VHB never/AV0 come/VVN across/AV0 [other/AJ0 than/CJS]/PRP in/PRP a/AT0 chinese/AJ0-NN1 restaurant/NN1 ./PUN,

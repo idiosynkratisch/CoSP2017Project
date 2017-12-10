@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE6.xml,KE6RE00N,037005,0,,A,1,1,I'll try her again and this time  (()) let it all come out.,i/PNP will/VM0 try/VVI she/PNP again/AV0 and/CJC this/DT0 time/NN1 let/VVB it/PNP all/DT0 come/VVI out/AVP ./PUN,
+K/KE/KE6.xml,KE6RE00N,037005,1,,A,1,2,Impress on them that you don't wanna come out with it short.,impress/VVB on/PRP they/PNP that/CJT you/PNP do/VDB not/XX0 wan/VVI na/TO0 come/VVI out/AVP with/PRP it/PNP short/AJ0-AV0 ./PUN,
+K/KE/KE6.xml,KE6RE00N,037005,2,,A,1,3,Can you?,can/VM0 you/PNP ?/PUN,
+K/KE/KE6.xml,KE6RE00N,037005,3,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KE/KE6.xml,KE6RE00N,037005,4,,A,3,1,Lorna or somebody.,lorna/NP0 or/CJC somebody/PNI ./PUN,
+K/KE/KE6.xml,KE6RE00N,037005,5,,A,3,2,"Well we know, we know Lorna.","well/AV0 we/PNP know/VVB ,/PUN we/PNP know/VVB lorna/NP0 ./PUN",
+K/KE/KE6.xml,KE6RE00N,037005,6,,A,3,3,But it seems to me that Gwendoline and Margarite that  are scissor happy.,but/CJC it/PNP seem/VVZ to/PRP i/PNP that/CJT gwendoline/NP0 and/CJC margarite/NP0 that/CJT be/VBB scissor/VVB happy/AJ0 ./PUN,
+K/KE/KE6.xml,KE6RE00N,037005,7,,A,3,4,Don't go in there (()) .,do/VDB not/XX0 go/VVI in/PRP there/AV0 ./PUN,

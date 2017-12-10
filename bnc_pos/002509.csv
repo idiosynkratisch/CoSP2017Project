@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE042,002509,0,,A,1,1,Did you ever decide whether you were going to go and do that course (()) .,do/VDD you/PNP ever/AV0 decide/VVI whether/CJS you/PNP be/VBD go/VVG to/TO0 go/VVI and/CJC do/VDI that/DT0 course/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE042,002509,1,,B,2,1,"I've said no, hang on what's that?","i/PNP have/VHB say/VVN no/ITJ ,/PUN hang/VVB on/PRP-AVP what/DTQ be/VBZ that/DT0 ?/PUN",
+K/KB/KBK.xml,KBKRE042,002509,2,,A,3,1,Why did you decide no?,why/AVQ do/VDD you/PNP decide/VVI no/ITJ ?/PUN,
+K/KB/KBK.xml,KBKRE042,002509,3,,B,4,1,"What, no, nothing to do with the Open University.","what/DTQ ,/PUN no/ITJ ,/PUN nothing/PNI to/TO0 do/VDI with/PRP the/AT0 open/AJ0 university/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE042,002509,4,,A,5,1,Why did you decide not?,why/AVQ do/VDD you/PNP decide/VVI not/XX0 ?/PUN,
+K/KB/KBK.xml,KBKRE042,002509,5,,B,6,1,"I decided it was jolly expensive and eh, wasn't going to do what I felt I wanted it to do.","i/PNP decide/VVD it/PNP be/VBD jolly/AV0 expensive/AJ0 and/CJC eh/ITJ ,/PUN be/VBD not/XX0 go/VVG to/TO0 do/VDI what/DTQ i/PNP feel/VVD i/PNP want/VVD it/PNP to/TO0 do/VDI ./PUN",
+K/KB/KBK.xml,KBKRE042,002509,6,,A,7,1,What was it?,what/DTQ be/VBD it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE042,002509,7,,A,7,2,What were you aiming to achieve?,what/DTQ be/VBD you/PNP aim/VVG to/TO0 achieve/VVI ?/PUN,
+K/KB/KBK.xml,KBKRE042,002509,8,,B,8,1,"Confidence, public speaking, capability.","confidence/NN1 ,/PUN public/AJ0-AV0 speaking/NN1-VVG ,/PUN capability/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE042,002509,9,,A,9,1,(()) to look for something else then?,to/TO0 look/VVI for/PRP something/PNI else/AV0 then/AV0 ?/PUN,

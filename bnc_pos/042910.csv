@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDD.xml,KDDRE009,042910,0,,A,1,1,Who was that speaking then?,who/PNQ be/VBD that/DT0 speaking/NN1-VVG then/AV0 ?/PUN,
+K/KD/KDD.xml,KDDRE009,042910,1,,B,2,1,The announcer.,the/AT0 announcer/NN1 ./PUN,
+K/KD/KDD.xml,KDDRE009,042910,2,,A,3,1,Well ha!,well/AV0 ha/ITJ !/PUN,
+K/KD/KDD.xml,KDDRE009,042910,3,,A,3,2,I meant who was it that was saying that it doesn't matter?,i/PNP mean/VVD who/PNQ be/VBD it/PNP that/DT0-CJT be/VBD say/VVG that/CJT it/PNP do/VDZ not/XX0 matter/VVI ?/PUN,
+K/KD/KDD.xml,KDDRE009,042910,4,,B,4,1,The priest.,the/AT0 priest/NN1 ./PUN,
+K/KD/KDD.xml,KDDRE009,042910,5,,A,5,1,"So it  he said it didn't matter even if it was rape, she's still got to have the baby, that it?","so/AV0 it/PNP he/PNP say/VVD it/PNP do/VDD not/XX0 matter/VVI [even/AV0 if/CJS]/CJS it/PNP be/VBD rape/NN1 ,/PUN she/PNP have/VHZ still/AV0 get/VVN to/TO0 have/VHI the/AT0 baby/NN1 ,/PUN that/DT0 it/PNP ?/PUN",
+K/KD/KDD.xml,KDDRE009,042910,6,,B,6,1,Yeah.,yeah/ITJ ./PUN,
+K/KD/KDD.xml,KDDRE009,042910,7,,A,7,1,It's terrible isn't it?,it/PNP be/VBZ terrible/AJ0 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KD/KDD.xml,KDDRE009,042910,8,,A,7,2,Oh  You switched it off did you?,oh/ITJ you/PNP switch/VVD it/PNP off/AVP do/VDD you/PNP ?/PUN,
+K/KD/KDD.xml,KDDRE009,042910,9,,B,8,1,Never touched it.,never/AV0 touch/VVD-VVN it/PNP ./PUN,
+K/KD/KDD.xml,KDDRE009,042910,10,,A,9,1,Oh.,oh/ITJ ./PUN,

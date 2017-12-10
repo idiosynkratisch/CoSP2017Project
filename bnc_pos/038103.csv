@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE009,038103,0,,A,1,1,"Do you know, I don't think I've ever seen that before where the robin has gone up onto the seeds","do/VDB you/PNP know/VVI ,/PUN i/PNP do/VDB not/XX0 think/VVI i/PNP have/VHB ever/AV0 see/VVN that/CJT-DT0 before/CJS where/CJS-AVQ the/AT0 robin/NN1 have/VHZ go/VVN up/AVP onto/PRP the/AT0 seed/NN2",
+K/KE/KE2.xml,KE2RE009,038103,1,,B,2,1,Oh,oh/ITJ,
+K/KE/KE2.xml,KE2RE009,038103,2,,A,3,1,they don't often do that,they/PNP do/VDB not/XX0 often/AV0 do/VDI that/DT0,
+K/KE/KE2.xml,KE2RE009,038103,3,,B,4,1,no,no/ITJ,

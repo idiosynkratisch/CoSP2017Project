@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE01M,002221,0,,A,1,1,"Whose purse is that one, it isn't Susan's is it?","whose/DTQ purse/NN1 be/VBZ that/DT0 one/PNI ,/PUN it/PNP be/VBZ not/XX0 susan/NP0 's/POS be/VBZ it/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE01M,002221,1,,B,2,1,"No, that's mine.","no/ITJ ,/PUN that/DT0 be/VBZ mine/PNP ./PUN",
+K/KB/KBK.xml,KBKRE01M,002221,2,,B,2,2,"Containers, spare tapes.","container/NN2 ,/PUN spare/AJ0 tape/NN2 ./PUN",
+K/KB/KBK.xml,KBKRE01M,002221,3,,A,3,1,Quite costly doing that?,quite/AV0 costly/AJ0 do/VDG that/DT0 ?/PUN,
+K/KB/KBK.xml,KBKRE01M,002221,4,,B,4,1,Yes indeed.,yes/ITJ indeed/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE01M,002221,5,,B,4,2,Yes.,yes/ITJ ./PUN,

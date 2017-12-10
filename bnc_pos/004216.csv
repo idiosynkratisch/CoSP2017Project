@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBH.xml,KBHRE01A,004216,0,,A,1,1,"Right, now, will you climb into your seat for me?","right/AV0 ,/PUN now/AV0 ,/PUN will/VM0 you/PNP climb/VVI into/PRP you/DPS seat/NN1 for/PRP i/PNP ?/PUN",
+K/KB/KBH.xml,KBHRE01A,004216,1,,B,2,1,Oh.,oh/ITJ ./PUN,
+K/KB/KBH.xml,KBHRE01A,004216,2,,A,3,1,"Get into your seat lovey, come on quick, quick.","get/VVB into/PRP you/DPS seat/NN1 lovey/NN1 ,/PUN come/VVB on/PRP-AVP quick/AJ0 ,/PUN quick/AJ0 ./PUN",
+K/KB/KBH.xml,KBHRE01A,004216,3,,A,3,2,"There's a good girl, up you go, mummy","there/EX0 be/VBZ a/AT0 good/AJ0 girl/NN1 ,/PUN up/AVP you/PNP go/VVB ,/PUN mummy/NN1",
+K/KB/KBH.xml,KBHRE01A,004216,4,,B,4,1,Mum I'll do it.,mum/NN1 i/PNP will/VM0 do/VDI it/PNP ./PUN,
+K/KB/KBH.xml,KBHRE01A,004216,5,,A,5,1,mummy do the straps for you.,mummy/NN1 do/VDB the/AT0 strap/NN2 for/PRP you/PNP ./PUN,
+K/KB/KBH.xml,KBHRE01A,004216,6,,B,6,1,I do my straps.,i/PNP do/VDB i/DPS strap/NN2 ./PUN,
+K/KB/KBH.xml,KBHRE01A,004216,7,,A,7,1,"I don't think you can, can you?","i/PNP do/VDB not/XX0 think/VVI you/PNP can/VM0 ,/PUN can/VM0 you/PNP ?/PUN",
+K/KB/KBH.xml,KBHRE01A,004216,8,,A,7,2,"Go on you try, you start and I'll see if I can plug it in.","go/VVB on/AVP you/PNP try/VVB ,/PUN you/PNP start/VVB and/CJC i/PNP will/VM0 see/VVI if/CJS i/PNP can/VM0 plug/VVI it/PNP in/AVP ./PUN",
+K/KB/KBH.xml,KBHRE01A,004216,9,,B,8,1,I plugged it.,i/PNP plug/VVD it/PNP ./PUN,
+K/KB/KBH.xml,KBHRE01A,004216,10,,A,9,1,You gonna plugged it are you?,you/PNP gon/VVG na/TO0 plug/VVN it/PNP be/VBB you/PNP ?/PUN,
+K/KB/KBH.xml,KBHRE01A,004216,11,,A,9,2,"Alright there's the other bit, see if you can do that, I'll put the shopping in the boot.","alright/AV0 there/EX0 be/VBZ the/AT0 other/AJ0 bit/NN1 ,/PUN see/VVB if/CJS you/PNP can/VM0 do/VDI that/DT0 ,/PUN i/PNP will/VM0 put/VVI the/AT0 shopping/NN1 in/PRP the/AT0 boot/NN1 ./PUN",

@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB2.xml,KB2RE00K,061505,0,,A,1,1,We'll have a look at today's paper and make sure it's  what that time it's on.,we/PNP will/VM0 have/VHI a/AT0 look/NN1 at/PRP today/AV0 's/POS paper/NN1 and/CJC make/VVB sure/AJ0 it/PNP be/VBZ what/DTQ that/DT0 time/NN1 it/PNP be/VBZ on/AVP-PRP ./PUN,
+K/KB/KB2.xml,KB2RE00K,061505,1,,B,2,1,Are you gonna have a bit of this stuff on some toast Alec?,be/VBB you/PNP gon/VVG na/TO0 have/VHI a/AT0 bit/NN1 of/PRF this/DT0 stuff/NN1 on/PRP some/DT0 toast/NN1-VVB alec/NP0 ?/PUN,
+K/KB/KB2.xml,KB2RE00K,061505,2,,A,3,1,No thanks love.<clears throat>,no/ITJ thanks/NN2 love/NN1-VVB ./PUN,
+K/KB/KB2.xml,KB2RE00K,061505,3,,B,4,1,No?,no/ITJ ?/PUN,
+K/KB/KB2.xml,KB2RE00K,061505,4,,A,5,1,No.,no/ITJ ./PUN,
+K/KB/KB2.xml,KB2RE00K,061505,5,,B,6,1,Do you want a  (()) then or something (()) ?,do/VDB you/PNP want/VVI a/AT0 then/AJ0 or/CJC something/PNI ?/PUN,
+K/KB/KB2.xml,KB2RE00K,061505,6,,A,7,1,No thanks Joyce I'm  I'll have a cheese sandwich.,no/ITJ thanks/NN2 joyce/NP0 i/PNP be/VBB i/PNP will/VM0 have/VHI a/AT0 cheese/NN1 sandwich/NN1 ./PUN,
+K/KB/KB2.xml,KB2RE00K,061505,7,,B,8,1,You want a cheese sandwich?,you/PNP want/VVB a/AT0 cheese/NN1 sandwich/NN1 ?/PUN,
+K/KB/KB2.xml,KB2RE00K,061505,8,,A,9,1,Yeah.,yeah/ITJ ./PUN,

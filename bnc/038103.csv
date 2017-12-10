@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE009,038103,0,,A,1,1,"Do you know, I don't think I've ever seen that before where the robin has gone up onto the seeds",,
+K/KE/KE2.xml,KE2RE009,038103,1,,B,2,1,Oh,,
+K/KE/KE2.xml,KE2RE009,038103,2,,A,3,1,they don't often do that,,
+K/KE/KE2.xml,KE2RE009,038103,3,,B,4,1,no,,

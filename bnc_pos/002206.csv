@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE016,002206,0,,A,1,1,Quite amazing how the Queen Mother  keeps on doing her so many public engagements.,quite/AV0 amazing/AJ0 how/AVQ the/AT0 queen/NN1 mother/NN1 keep/VVZ on/AVP do/VDG she/PNP so/AV0 many/DT0 public/AJ0 engagement/NN2 ./PUN,
+K/KB/KBK.xml,KBKRE016,002206,1,,B,2,1,"Yes, she ninety now?","yes/ITJ ,/PUN she/PNP ninety/CRD now/AV0 ?/PUN",
+K/KB/KBK.xml,KBKRE016,002206,2,,A,3,1,"Ooh over, yes, mm, ninety last year, had a special parade didn't they?","ooh/ITJ over/AVP-PRP ,/PUN yes/ITJ ,/PUN mm/ITJ ,/PUN ninety/CRD last/ORD year/NN1 ,/PUN have/VHD a/AT0 special/AJ0 parade/NN1 do/VDD not/XX0 they/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE016,002206,3,,B,4,1,(()) must be advantage of getting ready and being prepared for her and,must/VM0 be/VBI advantage/NN1 of/PRF get/VVG ready/AJ0 and/CJC be/VBG prepare/VVN for/PRP she/PNP and/CJC,
+K/KB/KBK.xml,KBKRE016,002206,4,,A,5,1,Mm.,mm/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE016,002206,5,,A,5,2,"Yes, she's waited on,(())","yes/ITJ ,/PUN she/PNP have/VHZ wait/VVN on/AVP-PRP ,/PUN",
+K/KB/KBK.xml,KBKRE016,002206,6,,B,6,1,Taxi-ing from door to door or you know,taxi-ing/NN1-AJ0 from/PRP door/NN1 to/PRP door/NN1 or/CJC you/PNP know/VVB,
+K/KB/KBK.xml,KBKRE016,002206,7,,A,7,1,Mm,mm/ITJ,
+K/KB/KBK.xml,KBKRE016,002206,8,,B,8,1,your plans made up and your meals laid on.,you/DPS plan/NN2 make/VVN-VVD up/AVP and/CJC you/DPS meal/NN2 lay/VVN-VVD on/AVP ./PUN,

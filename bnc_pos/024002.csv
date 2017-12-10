@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCP.xml,KCPRE007,024002,0,,A,1,1,"I said cos I shall phone the bank first thing Monday and I shall say right, he's took the car so you can run to him for the money cos you'll be getting none out of me.","i/PNP say/VVD cos/CJS i/PNP shall/VM0 phone/VVI the/AT0 bank/NN1 first/ORD thing/NN1 monday/NP0 and/CJC i/PNP shall/VM0 say/VVI right/AV0-AJ0 ,/PUN he/PNP be/VBZ take/VVN the/AT0 car/NN1 so/CJS you/PNP can/VM0 run/VVI to/PRP he/PNP for/PRP the/AT0 money/NN1 cos/CJS you/PNP will/VM0 be/VBI get/VVG none/PNI [out/AVP of/PRF]/PRP i/PNP ./PUN",
+K/KC/KCP.xml,KCPRE007,024002,1,,A,1,2,Then I had a letter from the social  security.,then/AV0 i/PNP have/VHD a/AT0 letter/NN1 from/PRP the/AT0 social/AJ0 security/NN1 ./PUN,
+K/KC/KCP.xml,KCPRE007,024002,2,,A,1,3,They've been paying me thirty nine pound sixty haven't they?,they/PNP have/VHB be/VBN pay/VVG i/PNP thirty/CRD nine/CRD pound/NN1 sixty/CRD have/VHB not/XX0 they/PNP ?/PUN,
+K/KC/KCP.xml,KCPRE007,024002,3,,A,1,4,"And I've been, been  (()) to fifty five pound  seventy five every week.","and/CJC i/PNP have/VHB be/VBN ,/PUN be/VBN to/PRP fifty/CRD five/CRD pound/NN1 seventy/CRD five/CRD every/AT0 week/NN1 ./PUN",
+K/KC/KCP.xml,KCPRE007,024002,4,,B,2,1,Oh.,oh/ITJ ./PUN,
+K/KC/KCP.xml,KCPRE007,024002,5,,B,2,2,So you'll get a bit back then?,so/AV0 you/PNP will/VM0 get/VVI [a/AT0 bit/NN1]/AV0 back/AVP then/AV0 ?/PUN,
+K/KC/KCP.xml,KCPRE007,024002,6,,A,3,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KCP.xml,KCPRE007,024002,7,,A,3,2,So I think,so/AV0 i/PNP think/VVB,
+K/KC/KCP.xml,KCPRE007,024002,8,,B,4,1,(()) it's better  (()),it/PNP be/VBZ good/AJC,
+K/KC/KCP.xml,KCPRE007,024002,9,,A,5,1,Well they're on about backdating it to the third.,well/AV0 they/PNP be/VBB on/AVP-PRP about/PRP backdate/VVG it/PNP to/PRP the/AT0 third/ORD ./PUN,
+K/KC/KCP.xml,KCPRE007,024002,10,,A,5,2,But if I write back and say I haven't actually had any wages since the seventeenth of January  I might get it backdated from then.,but/CJC if/CJS i/PNP write/VVB back/AVP and/CJC say/VVB i/PNP have/VHB not/XX0 actually/AV0 have/VHN any/DT0 wage/NN2 since/PRP-CJS the/AT0 seventeenth/ORD of/PRF january/NP0 i/PNP might/VM0 get/VVI it/PNP backdate/VVN from/PRP then/AV0 ./PUN,
+K/KC/KCP.xml,KCPRE007,024002,11,,A,5,3,What's that?,what/DTQ be/VBZ that/DT0 ?/PUN,

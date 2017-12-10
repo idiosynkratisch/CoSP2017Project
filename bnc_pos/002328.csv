@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02W,002328,0,,A,1,1,(()) ,,
+K/KB/KBK.xml,KBKRE02W,002328,1,,B,2,1,Sorry.,sorry/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE02W,002328,2,,A,3,1,What river would that be?,what/DTQ river/NN1 would/VM0 that/DT0 be/VBI ?/PUN,
+K/KB/KBK.xml,KBKRE02W,002328,3,,B,4,1,Would be Kidbrook I suppose would it?,would/VM0 be/VBI kidbrook/NP0 i/PNP suppose/VVB would/VM0 it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE02W,002328,4,,A,5,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE02W,002328,5,,B,6,1,"Oh yes, yes.","oh/ITJ yes/ITJ ,/PUN yes/ITJ ./PUN",
+K/KB/KBK.xml,KBKRE02W,002328,6,,B,6,2,"Fine looking bird, is that a female?","fine/AJ0-AV0 look/VVG-AJ0 bird/NN1 ,/PUN be/VBZ that/DT0 a/AT0 female/NN1-AJ0 ?/PUN",
+K/KB/KBK.xml,KBKRE02W,002328,7,,A,7,1,"A female usually very (()) , but, I don't know, it looks a young bird to me.","a/AT0 female/NN1-AJ0 usually/AV0 very/AV0 ,/PUN but/CJC ,/PUN i/PNP do/VDB not/XX0 know/VVI ,/PUN it/PNP look/VVZ a/AT0 young/AJ0 bird/NN1 to/PRP i/PNP ./PUN",
+K/KB/KBK.xml,KBKRE02W,002328,8,,B,8,1,Good colouring anyway.,good/AJ0 colouring/NN1 anyway/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE02W,002328,9,,A,9,1,"You   (()) <yawn> excuse me looking old fashion (()) , it's not like black bird or (()) .","you/PNP excuse/VVB i/PNP look/VVG old/AJ0 fashion/NN1 ,/PUN it/PNP be/VBZ not/XX0 like/AV0 black/AJ0 bird/NN1 or/CJC ./PUN",

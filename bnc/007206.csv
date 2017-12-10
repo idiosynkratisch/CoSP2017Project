@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE01W,007206,0,,A,1,1,Who who bought this?,,
+K/KD/KDE.xml,KDERE01W,007206,1,,B,2,1,Mummy and daddy bought it.,,
+K/KD/KDE.xml,KDERE01W,007206,2,,A,3,1,Where did it came from?,,
+K/KD/KDE.xml,KDERE01W,007206,3,,B,4,1,It comes from the Gap,,
+K/KD/KDE.xml,KDERE01W,007206,4,,A,5,1,It came from  one boy's garden.,,
+K/KD/KDE.xml,KDERE01W,007206,5,,B,6,1,Don't be silly.,,
+K/KD/KDE.xml,KDERE01W,007206,6,,B,6,2,How can a sweat shirt come from a garden?,,
+K/KD/KDE.xml,KDERE01W,007206,7,,A,7,1,It came from some boy's garden.,,
+K/KD/KDE.xml,KDERE01W,007206,8,,A,7,2,I told you that.,,

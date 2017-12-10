@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE00T,000513,0,,A,1,1,"It's unbelievable, they sent that by special despatch.",,
+K/KD/KDP.xml,KDPRE00T,000513,1,,A,1,2,"Frank Cooper's, special messenger just to deliver that, in a great big box.",,
+K/KD/KDP.xml,KDPRE00T,000513,2,,A,1,3,It's a sauce dispenser  Well madam have you got any comments?,,
+K/KD/KDP.xml,KDPRE00T,000513,3,,B,2,1,No (()) .,,

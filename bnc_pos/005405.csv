@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE03A,005405,0,,A,1,1,(()) ,,
+K/KC/KCD.xml,KCDRE03A,005405,1,,B,2,1,Oh it was quite useful to find Half a Sixpence (()) .,oh/ITJ it/PNP be/VBD quite/AV0 useful/AJ0 to/TO0 find/VVI half/DT0 a/AT0 sixpence/NN0 ./PUN,
+K/KC/KCD.xml,KCDRE03A,005405,2,,A,3,1,No.,no/ITJ ./PUN,
+K/KC/KCD.xml,KCDRE03A,005405,3,,B,4,1,"she's not really a, sick for long.","she/PNP be/VBZ not/XX0 really/AV0 a/AT0 ,/PUN sick/AJ0 [for/PRP long/AV0]/AV0 ./PUN",
+K/KC/KCD.xml,KCDRE03A,005405,4,,A,5,1,Give her any thing else?,give/VVB she/PNP any/DT0 thing/NN1 else/AV0 ?/PUN,
+K/KC/KCD.xml,KCDRE03A,005405,5,,B,6,1,No she's (()) .,no/ITJ she/PNP be/VBZ ./PUN,
+K/KC/KCD.xml,KCDRE03A,005405,6,,B,6,2,I thought for ten pence a week that was not bad rubbish.,i/PNP think/VVD for/PRP ten/CRD pence/NN0 a/AT0 week/NN1 that/CJT-DT0 be/VBD not/XX0 bad/AJ0 rubbish/NN1 ./PUN,
+K/KC/KCD.xml,KCDRE03A,005405,7,,B,6,3,"Wouldn't say a lot for it, but I don't think ten pence out of the way  (()) any way.","would/VM0 not/XX0 say/VVI a/AT0 lot/NN1 for/PRP it/PNP ,/PUN but/CJC i/PNP do/VDB not/XX0 think/VVI ten/CRD pence/NN0 [out/AVP of/PRF]/PRP the/AT0 way/NN1 any/DT0 way/NN1 ./PUN",
+K/KC/KCD.xml,KCDRE03A,005405,8,,A,7,1,Hm.,hm/ITJ ./PUN,

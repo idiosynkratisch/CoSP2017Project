@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE038,039407,0,,A,1,1,Hello there you are,,
+K/KE/KE2.xml,KE2RE038,039407,1,,B,2,1,How are you today?,,
+K/KE/KE2.xml,KE2RE038,039407,2,,B,2,2,Thank you very much,,
+K/KE/KE2.xml,KE2RE038,039407,3,,A,3,1,Thank you,,
+K/KE/KE2.xml,KE2RE038,039407,4,,B,4,1,Thank you,,
+K/KE/KE2.xml,KE2RE038,039407,5,,A,5,1,A bit thick isn't it?,,
+K/KE/KE2.xml,KE2RE038,039407,6,,B,6,1,Isn't it just?,,
+K/KE/KE2.xml,KE2RE038,039407,7,,A,7,1,"Yeah, okay",,

@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE01L,002220,0,,A,1,1,I don't really think that I should get a lot of pleasure out of going to watch croquet tomorrow.,,
+K/KB/KBK.xml,KBKRE01L,002220,1,,B,2,1,"Oh, alright.",,
+K/KB/KBK.xml,KBKRE01L,002220,2,,A,3,1,Probably a lot of standing about.,,
+K/KB/KBK.xml,KBKRE01L,002220,3,,A,3,2,What do you think?,,
+K/KB/KBK.xml,KBKRE01L,002220,4,,B,4,1,I don't think the two of you will find it particularly entertaining.,,
+K/KB/KBK.xml,KBKRE01L,002220,5,,A,5,1,No.,,

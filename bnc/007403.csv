@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE02F,007403,0,,A,1,1,I hurt my shoulder when I was having a shower.,,
+K/KD/KDE.xml,KDERE02F,007403,1,,B,2,1,Did you?,,
+K/KD/KDE.xml,KDERE02F,007403,2,,B,2,2,How did you do that?,,
+K/KD/KDE.xml,KDERE02F,007403,3,,A,3,1,I don't know.,,
+K/KD/KDE.xml,KDERE02F,007403,4,,A,3,2,I think I must have  twisted round to get the shampoo awkward (()) .,,
+K/KD/KDE.xml,KDERE02F,007403,5,,B,4,1,Is the heating on?,,
+K/KD/KDE.xml,KDERE02F,007403,6,,A,5,1,"No, I haven't put it on.",,
+K/KD/KDE.xml,KDERE02F,007403,7,,A,5,2,You cold?,,
+K/KD/KDE.xml,KDERE02F,007403,8,,B,6,1,"No but it's gonna get, it's getting cold now cos the temperatures are really gonna drop tonight.",,
+K/KD/KDE.xml,KDERE02F,007403,9,,B,6,2,Dropping down about two or three degrees.,,
+K/KD/KDE.xml,KDERE02F,007403,10,,A,7,1,I don't think it's cold at all.,,

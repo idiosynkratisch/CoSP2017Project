@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE01S,045909,0,,A,1,1,<<REDACTED (telephone number)>> .,,
+K/KD/KDN.xml,KDNRE01S,045909,1,,A,1,2,<<REDACTED (telephone number)>> isn't it?<<REDACTED (telephone number)>>,,
+K/KD/KDN.xml,KDNRE01S,045909,2,,B,2,1,(()) ,,
+K/KD/KDN.xml,KDNRE01S,045909,3,,A,3,1,(()) love.,,
+K/KD/KDN.xml,KDNRE01S,045909,4,,B,4,1,(()) ,,
+K/KD/KDN.xml,KDNRE01S,045909,5,,B,4,2,,,
+K/KD/KDN.xml,KDNRE01S,045909,6,,A,5,1,Where's Stephen?,,
+K/KD/KDN.xml,KDNRE01S,045909,7,,B,6,1,(()) ,,
+K/KD/KDN.xml,KDNRE01S,045909,8,,B,6,2,,,

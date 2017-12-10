@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE03V,039604,0,,A,1,1,Well yeah I su- I suppose there must be!,well/AV0 yeah/ITJ i/PNP su/UNC i/PNP suppose/VVB there/EX0 must/VM0 be/VBI !/PUN,
+K/KE/KE2.xml,KE2RE03V,039604,1,,B,2,1,(()) ,,
+K/KE/KE2.xml,KE2RE03V,039604,2,,A,3,1,Mm.,mm/ITJ ./PUN,

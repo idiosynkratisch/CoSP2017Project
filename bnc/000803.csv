@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE01D,000803,0,,A,1,1,Right well if I get tidy then before I wash up then you can start baking.,,
+K/KD/KDP.xml,KDPRE01D,000803,1,,B,2,1,Yeah.,,
+K/KD/KDP.xml,KDPRE01D,000803,2,,B,2,2,And ice the cake.,,
+K/KD/KDP.xml,KDPRE01D,000803,3,,A,3,1,I'll put your cake in there  (()) while I'm clearing up.,,
+K/KD/KDP.xml,KDPRE01D,000803,4,,B,4,1,So that's all right.,,
+K/KD/KDP.xml,KDPRE01D,000803,5,,B,4,2,I need the mixer to make the icing.,,
+K/KD/KDP.xml,KDPRE01D,000803,6,,A,5,1,(()) in here?,,
+K/KD/KDP.xml,KDPRE01D,000803,7,,B,6,1,Yeah put the (()),,

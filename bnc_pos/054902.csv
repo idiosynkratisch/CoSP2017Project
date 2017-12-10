@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBS.xml,KBSRE007,054902,0,,A,1,1,I entered Whacker in the book  and  (()),i/PNP enter/VVD whacker/NP0-NN1 in/PRP the/AT0 book/NN1 and/CJC,
+K/KB/KBS.xml,KBSRE007,054902,1,,B,2,1,,,
+K/KB/KBS.xml,KBSRE007,054902,2,,B,2,2,(()) ,,
+K/KB/KBS.xml,KBSRE007,054902,3,,B,2,3,,,
+K/KB/KBS.xml,KBSRE007,054902,4,,A,3,1,Well you have to make a list you see.,well/AV0 you/PNP have/VHB to/TO0 make/VVI a/AT0 list/NN1 you/PNP see/VVB ./PUN,
+K/KB/KBS.xml,KBSRE007,054902,5,,B,4,1,Oh I see.,oh/ITJ i/PNP see/VVB ./PUN,
+K/KB/KBS.xml,KBSRE007,054902,6,,A,5,1,I put him down as a schoolboy.,i/PNP put/VVB he/PNP down/AVP as/PRP a/AT0 schoolboy/NN1 ./PUN,
+K/KB/KBS.xml,KBSRE007,054902,7,,A,5,2,(()) You know if you want to darling you,you/PNP know/VVB if/CJS you/PNP want/VVB to/TO0 darling/NN1-AJ0 you/PNP,
+K/KB/KBS.xml,KBSRE007,054902,8,,B,6,1,No I don't.,no/ITJ i/PNP do/VDB not/XX0 ./PUN,
+K/KB/KBS.xml,KBSRE007,054902,9,,A,7,1,cos I might look through there for a job you see.,cos/CJS i/PNP might/VM0 look/VVI through/PRP-AVP there/AV0 for/PRP a/AT0 job/NN1 you/PNP see/VVB ./PUN,
+K/KB/KBS.xml,KBSRE007,054902,10,,B,8,1,Oh yes?,oh/ITJ yes/ITJ ?/PUN,
+K/KB/KBS.xml,KBSRE007,054902,11,,A,9,1,(()) ,,

@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03C,002409,0,,A,1,1,Oh your orange bit's looking very good isn't it?,oh/ITJ you/DPS orange/AJ0-NN1 bit/NN1 be/VBZ look/VVG very/AV0 good/AJ0 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE03C,002409,1,,B,2,1,Best (()) .,best/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE03C,002409,2,,B,2,2,I think (()) .,i/PNP think/VVB ./PUN,
+K/KB/KBK.xml,KBKRE03C,002409,3,,A,3,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE03C,002409,4,,B,4,1,Can you shut the door (()) ?,can/VM0 you/PNP shut/VVI the/AT0 door/NN1 ?/PUN,
+K/KB/KBK.xml,KBKRE03C,002409,5,,A,5,1,Hardly when we  (()) steamed up like this.,hardly/AV0 when/CJS we/PNP steam/VVD up/AVP like/PRP this/DT0 ./PUN,
+K/KB/KBK.xml,KBKRE03C,002409,6,,B,6,1,(()) ,,

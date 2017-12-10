@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE02B,005203,0,,A,1,1,I said the putty knife.,,
+K/KC/KCD.xml,KCDRE02B,005203,1,,B,2,1,What's the putty knife?,,
+K/KC/KCD.xml,KCDRE02B,005203,2,,A,3,1,(()) flat (()) .,,
+K/KC/KCD.xml,KCDRE02B,005203,3,,B,4,1,"What, that one?",,
+K/KC/KCD.xml,KCDRE02B,005203,4,,A,5,1,(()) .,,
+K/KC/KCD.xml,KCDRE02B,005203,5,,B,6,1,"Well I don't know, I don't know where your putty knife is.",,
+K/KC/KCD.xml,KCDRE02B,005203,6,,A,7,1,It's (()) .,,
+K/KC/KCD.xml,KCDRE02B,005203,7,,B,8,1,It's the what?,,
+K/KC/KCD.xml,KCDRE02B,005203,8,,A,9,1,Have too guess.,,
+K/KC/KCD.xml,KCDRE02B,005203,9,,B,10,1,"Well I don't know, they all look the same to me.",,

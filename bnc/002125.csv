@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE00T,002125,0,,A,1,1,Three of the people listed are in Exeter.,,
+K/KB/KBK.xml,KBKRE00T,002125,1,,B,2,1,That's strange.,,
+K/KB/KBK.xml,KBKRE00T,002125,2,,A,3,1,Hm  Gracious nearly half past twelve.,,
+K/KB/KBK.xml,KBKRE00T,002125,3,,B,4,1,(()) .,,

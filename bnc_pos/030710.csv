@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDM.xml,KDMRE02C,030710,0,,A,1,1,Oh dear!,oh/ITJ dear/ITJ !/PUN,
+K/KD/KDM.xml,KDMRE02C,030710,1,,B,2,1,You know?,you/PNP know/VVB ?/PUN,
+K/KD/KDM.xml,KDMRE02C,030710,2,,A,3,1,Thirsty yes?,thirsty/AJ0 yes/ITJ ?/PUN,
+K/KD/KDM.xml,KDMRE02C,030710,3,,B,4,1,"Lots, lots, lots of (()) !","lots/PNI ,/PUN lots/PNI ,/PUN lots/PNI of/PRF !/PUN",
+K/KD/KDM.xml,KDMRE02C,030710,4,,A,5,1,,,
+K/KD/KDM.xml,KDMRE02C,030710,5,,A,5,2,(()) ,,
+K/KD/KDM.xml,KDMRE02C,030710,6,,A,5,3,,,
+K/KD/KDM.xml,KDMRE02C,030710,7,,B,6,1,"What d'you think,(()) ?","what/DTQ do/VDB you/PNP think/VVI ,/PUN ?/PUN",
+K/KD/KDM.xml,KDMRE02C,030710,8,,A,7,1,Mhm.,mhm/ITJ ./PUN,
+K/KD/KDM.xml,KDMRE02C,030710,9,,A,7,2,"Lovely colour, but I like it.","lovely/AJ0 colour/NN1 ,/PUN but/CJC i/PNP like/VVB it/PNP ./PUN",
+K/KD/KDM.xml,KDMRE02C,030710,10,,A,7,3,"Nice and old fashioned, ha?","nice/AJ0 and/CJC [old/AJ0 fashion/VVN]/AJ0 ,/PUN ha/ITJ ?/PUN",
+K/KD/KDM.xml,KDMRE02C,030710,11,,B,8,1,Mm.,mm/ITJ ./PUN,

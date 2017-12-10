@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE045,002603,0,,A,1,1,"We've just had half an hour in Jubilee park, extremely brisk walk, I feel ext- jolly toasty now.","we/PNP have/VHB just/AV0 have/VHN half/DT0 an/AT0 hour/NN1 in/PRP jubilee/NN1 park/NN1 ,/PUN extremely/AV0 brisk/AJ0 walk/NN1 ,/PUN i/PNP feel/VVB ext/UNC jolly/AV0 toasty/AJ0 now/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE045,002603,1,,A,1,2,How was your outing?,how/AVQ be/VBD you/DPS outing/NN1 ?/PUN,
+K/KB/KBK.xml,KBKRE045,002603,2,,B,2,1,Oh.,oh/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE045,002603,3,,A,3,1,Good looking buds on there aren't they?,good/AJ0 look/VVG bud/NN2 on/PRP-AVP there/AV0 be/VBB not/XX0 they/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE045,002603,4,,B,4,1,I do miss  (()) that pole sticking up there (()) .,i/PNP do/VDB miss/VVI that/DT0 pole/NN1 stick/VVG up/AVP there/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE045,002603,5,,A,5,1,Don't worry about it.,do/VDB not/XX0 worry/VVI about/PRP it/PNP ./PUN,
+K/KB/KBK.xml,KBKRE045,002603,6,,B,6,1,"(()) not quite right, but if I go  (()) it'll break back off.(())","not/XX0 quite/AV0 right/AV0 ,/PUN but/CJC if/CJS i/PNP go/VVB it/PNP will/VM0 break/VVI back/AVP off/AVP ./PUN",
+K/KB/KBK.xml,KBKRE045,002603,7,,A,7,1,A well exercised beast there I think.,a/AT0 well/AV0 exercise/VVN beast/NN1 there/AV0 i/PNP think/VVB ./PUN,

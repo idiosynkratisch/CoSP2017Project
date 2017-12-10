@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB7.xml,KB7RE010,018901,0,,A,1,1,No it doesn't look very important does it?,,
+K/KB/KB7.xml,KB7RE010,018901,1,,A,1,2,"Er er  no  no, no no no  very  (()) me thinks  Lloyds Bank.",,
+K/KB/KB7.xml,KB7RE010,018901,2,,B,2,1,"Wrote to Lloyds Bank telling them, that if they try and keep (())",,
+K/KB/KB7.xml,KB7RE010,018901,3,,A,3,1,Dear customer,,
+K/KB/KB7.xml,KB7RE010,018901,4,,B,4,1,"You're usually sir, madam and esquire on the bank things.",,
+K/KB/KB7.xml,KB7RE010,018901,5,,A,5,1,I don't what,,
+K/KB/KB7.xml,KB7RE010,018901,6,,B,6,1,Are you satisfied with their  service?,,
+K/KB/KB7.xml,KB7RE010,018901,7,,A,7,1,Yes  that sort of thing.,,

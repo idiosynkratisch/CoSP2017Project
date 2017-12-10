@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE3.xml,KE3RE02D,010613,0,,A,1,1,Determined he's gonna have what's in that bucket isn't he?,determined/AJ0-VVN he/PNP be/VBZ gon/VVG na/TO0 have/VHI what/DTQ be/VBZ in/PRP that/DT0 bucket/NN1 be/VBZ not/XX0 he/PNP ?/PUN,
+K/KE/KE3.xml,KE3RE02D,010613,1,,B,2,1,"(()) looks so matted and knotted up, you can't ever imagine him being","look/VVZ so/AV0 matted/AJ0-VVD and/CJC knot/VVD up/AVP ,/PUN you/PNP can/VM0 not/XX0 ever/AV0 imagine/VVI he/PNP be/VBG",
+K/KE/KE3.xml,KE3RE02D,010613,2,,A,3,1,No.,no/ITJ ./PUN,
+K/KE/KE3.xml,KE3RE02D,010613,3,,B,4,1,able to be  (()) .,able/AJ0 to/TO0 be/VBI ./PUN,
+K/KE/KE3.xml,KE3RE02D,010613,4,,A,5,1,"I'll er, get us a cup of tea.","i/PNP will/VM0 er/UNC ,/PUN get/VVB we/PNP a/AT0 cup/NN1 of/PRF tea/NN1 ./PUN",

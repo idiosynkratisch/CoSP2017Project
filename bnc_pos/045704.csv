@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE00P,045704,0,,A,1,1,Are you going down to John's tomorrow  or Friday?,be/VBB you/PNP go/VVG down/AVP to/PRP john/NP0 be/VBZ tomorrow/AV0 or/CJC friday/NP0 ?/PUN,
+K/KD/KDN.xml,KDNRE00P,045704,1,,B,2,1,Friday.,friday/NP0 ./PUN,
+K/KD/KDN.xml,KDNRE00P,045704,2,,A,3,1,I told him Friday.,i/PNP tell/VVD he/PNP friday/NP0 ./PUN,
+K/KD/KDN.xml,KDNRE00P,045704,3,,B,4,1,Yeah.(()),yeah/ITJ ./PUN,
+K/KD/KDN.xml,KDNRE00P,045704,4,,A,5,1,Say no.,say/VVB no/ITJ ./PUN,
+K/KD/KDN.xml,KDNRE00P,045704,5,,B,6,1,I think I can.,i/PNP think/VVB i/PNP can/VM0 ./PUN,
+K/KD/KDN.xml,KDNRE00P,045704,6,,B,6,2,She'll just stay.,she/PNP will/VM0 just/AV0 stay/VVI ./PUN,
+K/KD/KDN.xml,KDNRE00P,045704,7,,B,6,3,"Is she very happy, Jan?","be/VBZ she/PNP very/AV0 happy/AJ0 ,/PUN jan/NP0 ?/PUN",

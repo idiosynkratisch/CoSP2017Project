@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE03D,039412,0,,A,1,1,Ooh it's a load of rubbish isn't it?,ooh/ITJ it/PNP be/VBZ a/AT0 load/NN1 of/PRF rubbish/NN1 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KE/KE2.xml,KE2RE03D,039412,1,,A,1,2,"I think if I take this lot to the tip now, I'll come back","i/PNP think/VVB if/CJS i/PNP take/VVB this/DT0 lot/NN1 to/PRP the/AT0 tip/NN1 now/AV0 ,/PUN i/PNP will/VM0 come/VVI back/AVP",
+K/KE/KE2.xml,KE2RE03D,039412,2,,B,2,1,Alright,alright/AV0,
+K/KE/KE2.xml,KE2RE03D,039412,3,,A,3,1,then perhaps we can dispose of,then/AV0 perhaps/AV0 we/PNP can/VM0 dispose/VVI of/PRF,
+K/KE/KE2.xml,KE2RE03D,039412,4,,B,4,1,"Yes, there won't be a lot left","yes/ITJ ,/PUN there/EX0 will/VM0 not/XX0 be/VBI a/AT0 lot/NN1 leave/VVN",
+K/KE/KE2.xml,KE2RE03D,039412,5,,A,5,1,the rest of the stuff,the/AT0 rest/NN1 of/PRF the/AT0 stuff/NN1,
+K/KE/KE2.xml,KE2RE03D,039412,6,,B,6,1,That's right,that/DT0 be/VBZ right/AJ0,
+K/KE/KE2.xml,KE2RE03D,039412,7,,A,7,1,Okay?,okay/AV0 ?/PUN,
+K/KE/KE2.xml,KE2RE03D,039412,8,,B,8,1,Yep,yep/ITJ,

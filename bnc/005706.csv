@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB5.xml,KB5RE005,005706,0,,A,1,1,"When we were in the room it smelled (()) , cos Si, Dave, Jolly (()) .",,
+K/KB/KB5.xml,KB5RE005,005706,1,,B,2,1,Mm.,,
+K/KB/KB5.xml,KB5RE005,005706,2,,A,3,1,"(()) , Colin, someone else, Johnny <<REDACTED (name)>> .",,
+K/KB/KB5.xml,KB5RE005,005706,3,,B,4,1,(()) ,,
+K/KB/KB5.xml,KB5RE005,005706,4,,A,5,1,(()) ,,
+K/KB/KB5.xml,KB5RE005,005706,5,,B,6,1,(()) ,,
+K/KB/KB5.xml,KB5RE005,005706,6,,A,7,1,There's her poxy car keys.,,
+K/KB/KB5.xml,KB5RE005,005706,7,,A,7,2,(()) Is he alright there?,,
+K/KB/KB5.xml,KB5RE005,005706,8,,B,8,1,Yeah (()) .,,
+K/KB/KB5.xml,KB5RE005,005706,9,,A,9,1,Right  (()),,
+K/KB/KB5.xml,KB5RE005,005706,10,,B,10,1,(()) ,,

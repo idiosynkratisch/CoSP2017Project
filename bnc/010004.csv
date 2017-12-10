@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBA.xml,KBARE00E,010004,0,,A,1,1,It either is or it ain't.,,
+K/KB/KBA.xml,KBARE00E,010004,1,,B,2,1,"Make sure you've got, you've got your tickets.",,
+K/KB/KBA.xml,KBARE00E,010004,2,,A,3,1,Alright.,,
+K/KB/KBA.xml,KBARE00E,010004,3,,B,4,1,February the fifteenth you were out a lot  (()) .,,
+K/KB/KBA.xml,KBARE00E,010004,4,,A,5,1,I got two.,,
+K/KB/KBA.xml,KBARE00E,010004,5,,B,6,1,"Yes, make sure they're planned.",,
+K/KB/KBA.xml,KBARE00E,010004,6,,A,7,1,Yeah  it is  I wonder if I should find it (()) ?,,
+K/KB/KBA.xml,KBARE00E,010004,7,,B,8,1,Hello cat!,,

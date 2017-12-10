@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE04U,002704,0,,A,1,1,"Your balls are well separated,(()) I mean, the best I can do is  (()) take off the yellow, then I can make the (()) .","you/DPS ball/NN2 be/VBB well/AV0 separate/VVN-AJ0 ,/PUN i/PNP mean/VVB ,/PUN the/AT0 good/AJS i/PNP can/VM0 do/VDI be/VBZ take/VVI off/PRP-AVP the/AT0 yellow/NN1 ,/PUN then/AV0 i/PNP can/VM0 make/VVI the/AT0 ./PUN",
+K/KB/KBK.xml,KBKRE04U,002704,1,,A,1,2,"Put it on the one we're going to go through, or the one we've been through?","put/VVB it/PNP on/PRP-AVP the/AT0 one/PNI we/PNP be/VBB go/VVG to/TO0 go/VVI through/AVP ,/PUN or/CJC the/AT0 one/PNI we/PNP have/VHB be/VBN through/PRP-AVP ?/PUN",
+K/KB/KBK.xml,KBKRE04U,002704,2,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE04U,002704,3,,A,3,1,(()) ,,
+K/KB/KBK.xml,KBKRE04U,002704,4,,B,4,1,"Oh I see, normally (()) .","oh/ITJ i/PNP see/VVB ,/PUN normally/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE04U,002704,5,,B,4,2,Right.,right/AV0 ./PUN,

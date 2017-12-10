@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02G,012903,0,,A,1,1,"What time is it chaps, please?",,
+K/KD/KDA.xml,KDARE02G,012903,1,,B,2,1,About half eleven.,,
+K/KD/KDA.xml,KDARE02G,012903,2,,B,2,2,Yeah.,,
+K/KD/KDA.xml,KDARE02G,012903,3,,B,2,3,Something like that.,,
+K/KD/KDA.xml,KDARE02G,012903,4,,B,2,4,(()) ,,
+K/KD/KDA.xml,KDARE02G,012903,5,,B,2,5,Eh?,,
+K/KD/KDA.xml,KDARE02G,012903,6,,B,2,6,(()) ,,
+K/KD/KDA.xml,KDARE02G,012903,7,,A,3,1,Seven thirty seven?,,
+K/KD/KDA.xml,KDARE02G,012903,8,,B,4,1,(()) ,,
+K/KD/KDA.xml,KDARE02G,012903,9,,A,5,1,It's a happy (()) !,,

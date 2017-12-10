@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBL.xml,KBLRE00K,040505,0,,A,1,1,Well speak Jessica!,,
+K/KB/KBL.xml,KBLRE00K,040505,1,,A,1,2,Is that beetroot nice?,,
+K/KB/KBL.xml,KBLRE00K,040505,2,,B,2,1,Don't know.,,
+K/KB/KBL.xml,KBLRE00K,040505,3,,A,3,1,What's wrong with it?,,
+K/KB/KBL.xml,KBLRE00K,040505,4,,A,3,2,Why aren't you using a spoon?(()) !,,
+K/KB/KBL.xml,KBLRE00K,040505,5,,B,4,1,I'll spoon it in!,,
+K/KB/KBL.xml,KBLRE00K,040505,6,,A,5,1,Don't be funny!,,

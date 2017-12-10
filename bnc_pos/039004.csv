@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE028,039004,0,,A,1,1,and many more wearing them.,and/CJC many/DT0 more/AV0 wear/VVG they/PNP ./PUN,
+K/KE/KE2.xml,KE2RE028,039004,1,,B,2,1,Yes   (()) (()),yes/ITJ,
+K/KE/KE2.xml,KE2RE028,039004,2,,A,3,1,"Yes she did, yeah, mhm.","yes/ITJ she/PNP do/VDD ,/PUN yeah/ITJ ,/PUN mhm/ITJ ./PUN",
+K/KE/KE2.xml,KE2RE028,039004,3,,A,3,2,Yeah  <clears throat>,yeah/ITJ,

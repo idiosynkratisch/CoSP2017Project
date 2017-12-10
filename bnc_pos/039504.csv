@@ -1,0 +1,3 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE03K,039504,0,,A,1,1,Well I mean we've still got two bottles there.,well/AV0 i/PNP mean/VVB we/PNP have/VHB still/AV0 get/VVN two/CRD bottle/NN2 there/AV0 ./PUN,
+K/KE/KE2.xml,KE2RE03K,039504,1,,B,2,1,Even so I mean  we might not be so lucky.,[even/AV0 so/AV0]/AV0 i/PNP mean/VVB we/PNP might/VM0 not/XX0 be/VBI so/AV0 lucky/AJ0 ./PUN,

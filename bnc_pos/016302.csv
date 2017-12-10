@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDL.xml,KDLRE00T,016302,0,,A,1,1,It's French next.,it/PNP be/VBZ french/AJ0 next/ORD ./PUN,
+K/KD/KDL.xml,KDLRE00T,016302,1,,B,2,1,I haven't got French next.,i/PNP have/VHB not/XX0 get/VVN french/NN1-AJ0 next/ORD ./PUN,
+K/KD/KDL.xml,KDLRE00T,016302,2,,A,3,1,I hate French.,i/PNP hate/VVB french/AJ0-NN1 ./PUN,
+K/KD/KDL.xml,KDLRE00T,016302,3,,B,4,1,Why?,why/AVQ ?/PUN,
+K/KD/KDL.xml,KDLRE00T,016302,4,,A,5,1,Cos I have to speak to her.,cos/CJS i/PNP have/VHB to/TO0 speak/VVI to/PRP she/PNP ./PUN,
+K/KD/KDL.xml,KDLRE00T,016302,5,,B,6,1,(()) about a conversation then?,about/PRP a/AT0 conversation/NN1 then/AV0 ?/PUN,
+K/KD/KDL.xml,KDLRE00T,016302,6,,A,7,1,"What about it, that's worse isn't it?","what/DTQ about/PRP it/PNP ,/PUN that/DT0 be/VBZ bad/AJC be/VBZ not/XX0 it/PNP ?/PUN",
+K/KD/KDL.xml,KDLRE00T,016302,7,,B,8,1,"Yeah, well it's the same thing.","yeah/ITJ ,/PUN well/AV0 it/PNP be/VBZ the/AT0 same/DT0 thing/NN1 ./PUN",
+K/KD/KDL.xml,KDLRE00T,016302,8,,A,9,1,I mean you don't (()) .,i/PNP mean/VVB you/PNP do/VDB not/XX0 ./PUN,
+K/KD/KDL.xml,KDLRE00T,016302,9,,B,10,1,But not to her.,but/CJC not/XX0 to/PRP she/PNP ./PUN,
+K/KD/KDL.xml,KDLRE00T,016302,10,,A,11,1,"No,(()) .","no/ITJ ,/PUN ./PUN",

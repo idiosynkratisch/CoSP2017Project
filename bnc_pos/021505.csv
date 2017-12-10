@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBV.xml,KBVRE006,021505,0,,A,1,1,"It's okay, just keep it for now, that's it","it/PNP be/VBZ okay/AJ0 ,/PUN just/AV0 keep/VVB it/PNP for/PRP now/AV0 ,/PUN that/DT0 be/VBZ it/PNP",
+K/KB/KBV.xml,KBVRE006,021505,1,,B,2,1,"I'm just  (()) wait  (()) top gear, you can go to  (()) can't you just by the side of Worcester","i/PNP be/VBB just/AV0 wait/VVB top/AJ0-NN1 gear/NN1 ,/PUN you/PNP can/VM0 go/VVI to/TO0 can/VM0 not/XX0 you/PNP just/AV0 by/PRP the/AT0 side/NN1 of/PRF worcester/NP0",
+K/KB/KBV.xml,KBVRE006,021505,2,,A,3,1,How can you?,how/AVQ can/VM0 you/PNP ?/PUN,
+K/KB/KBV.xml,KBVRE006,021505,3,,B,4,1,(()) ,,
+K/KB/KBV.xml,KBVRE006,021505,4,,A,5,1,(()) ,,
+K/KB/KBV.xml,KBVRE006,021505,5,,B,6,1,one minute (()),one/CRD minute/NN1,
+K/KB/KBV.xml,KBVRE006,021505,6,,A,7,1,Oh,oh/ITJ,

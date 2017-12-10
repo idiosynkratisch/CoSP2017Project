@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03J,002415,0,,A,1,1,I'm coming.,i/PNP be/VBB come/VVG ./PUN,
+K/KB/KBK.xml,KBKRE03J,002415,1,,B,2,1,(()) residential if you don't (()) .,residential/AJ0 if/CJS you/PNP do/VDB not/XX0 ./PUN,
+K/KB/KBK.xml,KBKRE03J,002415,2,,B,2,2,Bill's lilac is dead.,bill/NP0 's/POS lilac/NN1 be/VBZ dead/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE03J,002415,3,,A,3,1,"(()) Philip <<REDACTED (name)>> , left hand column there","philip/NP0 ,/PUN left/AJ0 hand/NN1 column/NN1 there/AV0",
+K/KB/KBK.xml,KBKRE03J,002415,4,,B,4,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE03J,002415,5,,A,5,1,Never heard of that .,never/AV0 hear/VVN of/PRF that/DT0 ./PUN,
+K/KB/KBK.xml,KBKRE03J,002415,6,,A,5,2,Doesn't sound worth bothering really.,do/VDZ not/XX0 sound/VVI worth/PRP bother/VVG really/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE03J,002415,7,,B,6,1,(()) ,,
+K/KB/KBK.xml,KBKRE03J,002415,8,,A,7,1,"Very short cutting, low  (()) .","very/AV0 short/AJ0 cutting/NN1 ,/PUN low/AJ0-AV0 ./PUN",
+K/KB/KBK.xml,KBKRE03J,002415,9,,A,7,2,They're a bit skinny aren't they?,they/PNP be/VBB [a/AT0 bit/NN1]/AV0 skinny/AJ0 be/VBB not/XX0 they/PNP ?/PUN,

@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE011,007008,0,,A,1,1,Pardon?,pardon/NN1 ?/PUN,
+K/KD/KDE.xml,KDERE011,007008,1,,B,2,1,(()) do one of them.,do/VDB one/CRD of/PRF they/PNP ./PUN,
+K/KD/KDE.xml,KDERE011,007008,2,,B,2,2,(()) called.,call/VVN ./PUN,
+K/KD/KDE.xml,KDERE011,007008,3,,A,3,1,Tape recorder.,tape/NN1 recorder/NN1 ./PUN,
+K/KD/KDE.xml,KDERE011,007008,4,,B,4,1,(()) ,,
+K/KD/KDE.xml,KDERE011,007008,5,,A,5,1,You turn it on and it tapes people singing or talking.,you/PNP turn/VVB it/PNP on/AVP and/CJC it/PNP tape/VVZ people/NN0 sing/VVG or/CJC talk/VVG ./PUN,
+K/KD/KDE.xml,KDERE011,007008,6,,A,5,2,And then when you turn it off you can replay it and you can hear yourself talk or sing.,and/CJC then/AV0 when/CJS you/PNP turn/VVB it/PNP off/AVP-PRP you/PNP can/VM0 replay/VVI it/PNP and/CJC you/PNP can/VM0 hear/VVI yourself/PNX talk/NN1 or/CJC sing/VVB ./PUN,
+K/KD/KDE.xml,KDERE011,007008,7,,B,6,1,I want you to switch it on.,i/PNP want/VVB you/PNP to/TO0 switch/VVI it/PNP on/AVP ./PUN,
+K/KD/KDE.xml,KDERE011,007008,8,,B,6,2,And you can press the button like that.,and/CJC you/PNP can/VM0 press/VVI the/AT0 button/NN1 like/PRP that/DT0 ./PUN,
+K/KD/KDE.xml,KDERE011,007008,9,,A,7,1,That's right.,that/DT0 be/VBZ right/AJ0 ./PUN,
+K/KD/KDE.xml,KDERE011,007008,10,,B,8,1,(()) go.,go/VVB ./PUN,

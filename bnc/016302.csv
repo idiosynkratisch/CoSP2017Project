@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDL.xml,KDLRE00T,016302,0,,A,1,1,It's French next.,,
+K/KD/KDL.xml,KDLRE00T,016302,1,,B,2,1,I haven't got French next.,,
+K/KD/KDL.xml,KDLRE00T,016302,2,,A,3,1,I hate French.,,
+K/KD/KDL.xml,KDLRE00T,016302,3,,B,4,1,Why?,,
+K/KD/KDL.xml,KDLRE00T,016302,4,,A,5,1,Cos I have to speak to her.,,
+K/KD/KDL.xml,KDLRE00T,016302,5,,B,6,1,(()) about a conversation then?,,
+K/KD/KDL.xml,KDLRE00T,016302,6,,A,7,1,"What about it, that's worse isn't it?",,
+K/KD/KDL.xml,KDLRE00T,016302,7,,B,8,1,"Yeah, well it's the same thing.",,
+K/KD/KDL.xml,KDLRE00T,016302,8,,A,9,1,I mean you don't (()) .,,
+K/KD/KDL.xml,KDLRE00T,016302,9,,B,10,1,But not to her.,,
+K/KD/KDL.xml,KDLRE00T,016302,10,,A,11,1,"No,(()) .",,

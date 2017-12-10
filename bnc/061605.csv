@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD2.xml,KD2RE002,061605,0,,A,1,1,Disgusting!,,
+K/KD/KD2.xml,KD2RE002,061605,1,,A,1,2,Shut up yourself!,,
+K/KD/KD2.xml,KD2RE002,061605,2,,B,2,1,I'm trying to watch this!,,
+K/KD/KD2.xml,KD2RE002,061605,3,,B,2,2,Shut up!,,
+K/KD/KD2.xml,KD2RE002,061605,4,,A,3,1,"No, I can't do your homework!",,
+K/KD/KD2.xml,KD2RE002,061605,5,,A,3,2,You could do my homework please!,,
+K/KD/KD2.xml,KD2RE002,061605,6,,B,4,1,(()) !,,

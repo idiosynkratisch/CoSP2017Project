@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03T,002501,0,,A,1,1,You know we was talking about  <tv on> (()) ?,you/PNP know/VVB we/PNP be/VBD talk/VVG about/PRP ?/PUN,
+K/KB/KBK.xml,KBKRE03T,002501,1,,B,2,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE03T,002501,2,,A,3,1,There's the (()) .,there/EX0 be/VBZ the/AT0 ./PUN,
+K/KB/KBK.xml,KBKRE03T,002501,3,,A,3,2,"Technology use, use the purest water.","technology/NN1 use/VVB-NN1 ,/PUN use/VVB-NN1 the/AT0 pure/AJS water/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE03T,002501,4,,B,4,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE03T,002501,5,,A,5,1,(()) ,,
+K/KB/KBK.xml,KBKRE03T,002501,6,,B,6,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE03T,002501,7,,B,6,2,It's the basis of redial dialysis.,it/PNP be/VBZ the/AT0 basis/NN1 of/PRF redial/AJ0 dialysis/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE03T,002501,8,,A,7,1,"Boiling water removes bacteria and not removes, dissolves (()) .","boiling/AJ0 water/NN1 remove/VVZ bacterium/NN2 and/CJC not/XX0 remove/VVZ ,/PUN dissolve/VVZ ./PUN",
+K/KB/KBK.xml,KBKRE03T,002501,9,,B,8,1,"Well there's a signifi- the, the osmosis really is a membrane which allows water to go through, but nothing else.","well/AV0 there/EX0 be/VBZ a/AT0 signifi/UNC the/AT0 ,/PUN the/AT0 osmosis/NN1 really/AV0 be/VBZ a/AT0 membrane/NN1 which/DTQ allow/VVZ water/NN1 to/TO0 go/VVI through/AVP-PRP ,/PUN but/CJC nothing/PNI else/AV0 ./PUN",

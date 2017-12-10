@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE013,002203,0,,A,1,1,Gherkin for you?,,
+K/KB/KBK.xml,KBKRE013,002203,1,,B,2,1,Get out a small one.,,
+K/KB/KBK.xml,KBKRE013,002203,2,,A,3,1,"That one isn't, but there are, I'll get you one.",,
+K/KB/KBK.xml,KBKRE013,002203,3,,B,4,1,(()) half a one.,,

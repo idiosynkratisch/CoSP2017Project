@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE032,039401,0,,A,1,1,Oh haven't we?,,
+K/KE/KE2.xml,KE2RE032,039401,1,,B,2,1,That one we had first so,,
+K/KE/KE2.xml,KE2RE032,039401,2,,A,3,1,"Oh finish that yeah, yeah",,
+K/KE/KE2.xml,KE2RE032,039401,3,,B,4,1,just find it in the fridge,,

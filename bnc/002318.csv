@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02K,002318,0,,A,1,1,(()) by prescription (()) .,,
+K/KB/KBK.xml,KBKRE02K,002318,1,,B,2,1,For anything?,,
+K/KB/KBK.xml,KBKRE02K,002318,2,,A,3,1,Well for all the (()) .,,
+K/KB/KBK.xml,KBKRE02K,002318,3,,B,4,1,Yes.,,
+K/KB/KBK.xml,KBKRE02K,002318,4,,A,5,1,"Geraniums for one forty five each there, dear.",,
+K/KB/KBK.xml,KBKRE02K,002318,5,,B,6,1,"Incredibly expensive, yes.",,
+K/KB/KBK.xml,KBKRE02K,002318,6,,A,7,1,(()) .,,
+K/KB/KBK.xml,KBKRE02K,002318,7,,B,8,1,These aren't (()),,

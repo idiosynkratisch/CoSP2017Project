@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02V,002327,0,,A,1,1,Must investigate this Mottingham garden club.,,
+K/KB/KBK.xml,KBKRE02V,002327,1,,B,2,1,I think it (()) .,,
+K/KB/KBK.xml,KBKRE02V,002327,2,,A,3,1,"Well fifty pence a year, I think I might even be able to afford to belong to it.",,

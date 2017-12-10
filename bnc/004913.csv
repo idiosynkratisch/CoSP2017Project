@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE01D,004913,0,,A,1,1,Oh I've seen this one.,,
+K/KC/KCD.xml,KCDRE01D,004913,1,,B,2,1,"Have you, is it good?",,
+K/KC/KCD.xml,KCDRE01D,004913,2,,B,2,2,"Oh, what you doing?",,
+K/KC/KCD.xml,KCDRE01D,004913,3,,A,3,1,"Well nobody can see if you sit right in front of it, can they?",,
+K/KC/KCD.xml,KCDRE01D,004913,4,,B,4,1,Well where you going to sit.,,
+K/KC/KCD.xml,KCDRE01D,004913,5,,B,4,2,I'll sit here.,,
+K/KC/KCD.xml,KCDRE01D,004913,6,,A,5,1,Can you tell me why your song book has to be on the floor and the music on the floor behind it?,,

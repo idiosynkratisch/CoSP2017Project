@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE00U,004815,0,,A,1,1,We can probably leave packing till next weekend can't we?,,
+K/KC/KCD.xml,KCDRE00U,004815,1,,A,1,2,We can probably leave packing until next week end.<music> .,,
+K/KC/KCD.xml,KCDRE00U,004815,2,,B,2,1,(()) .,,
+K/KC/KCD.xml,KCDRE00U,004815,3,,A,3,1,"Well I'll should take, I mean hopefully you won't have a cold.",,
+K/KC/KCD.xml,KCDRE00U,004815,4,,B,4,1,What?,,
+K/KC/KCD.xml,KCDRE00U,004815,5,,A,5,1,"I should take a couple with you out of your box and erm, just take those ones.",,
+K/KC/KCD.xml,KCDRE00U,004815,6,,A,5,2,"I mean I hope you won't have a cold, so you shouldn't do.",,

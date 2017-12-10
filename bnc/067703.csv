@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KP/KPJ.xml,KPJRE002,067703,0,,A,1,1,I was just looking at some of the prices they want for the property.,,
+K/KP/KPJ.xml,KPJRE002,067703,1,,A,1,2,It's ridiculous!,,
+K/KP/KPJ.xml,KPJRE002,067703,2,,B,2,1,Yeah.,,
+K/KP/KPJ.xml,KPJRE002,067703,3,,A,3,1,For a leasehold  just the offers over eighty five thousand.,,

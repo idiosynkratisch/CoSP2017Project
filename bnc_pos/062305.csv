@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB9.xml,KB9RE00G,062305,0,,A,1,1,Oh well!,oh/ITJ well/AV0 !/PUN,
+K/KB/KB9.xml,KB9RE00G,062305,1,,A,1,2,At least I've got a skirt.,[at/PRP least/AV0]/AV0 i/PNP have/VHB get/VVN a/AT0 skirt/NN1 ./PUN,
+K/KB/KB9.xml,KB9RE00G,062305,2,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KB/KB9.xml,KB9RE00G,062305,3,,B,2,2,Well go back and get those other things.,well/AV0 go/VVB back/AVP and/CJC get/VVB those/DT0 other/AJ0 thing/NN2 ./PUN,
+K/KB/KB9.xml,KB9RE00G,062305,4,,A,3,1,"Erm  well even if I get, well if I get  erm  ski pants","erm/UNC well/AV0 [even/AV0 if/CJS]/CJS i/PNP get/VVB ,/PUN well/AV0 if/CJS i/PNP get/VVB erm/UNC ski/NN1-VVB pants/NN2",
+K/KB/KB9.xml,KB9RE00G,062305,5,,B,4,1,Yeah!,yeah/ITJ !/PUN,
+K/KB/KB9.xml,KB9RE00G,062305,6,,A,5,1,well how much will I have spent then?,well/AV0 how/AVQ much/DT0 will/VM0 i/PNP have/VHI spend/VVN then/AV0 ?/PUN,
+K/KB/KB9.xml,KB9RE00G,062305,7,,B,6,1,Well you've got eighty,well/AV0 you/PNP have/VHB get/VVN eighty/CRD,
+K/KB/KB9.xml,KB9RE00G,062305,8,,A,7,1,Just spent twenty two pound haven't I?,just/AV0 spend/VVN twenty/CRD two/CRD pound/NN1 have/VHB not/XX0 i/PNP ?/PUN,
+K/KB/KB9.xml,KB9RE00G,062305,9,,B,8,1,Yeah.,yeah/ITJ ./PUN,
+K/KB/KB9.xml,KB9RE00G,062305,10,,A,9,1,There.,there/AV0 ./PUN,
+K/KB/KB9.xml,KB9RE00G,062305,11,,A,9,2,"And  erm  and the ski pants were twenty five pound  so, if I spent twenty two there, and twenty five that's forty seven.","and/CJC erm/UNC and/CJC the/AT0 ski/NN1 pants/NN2 be/VBD twenty/CRD five/CRD pound/NN1 so/AV0 ,/PUN if/CJS i/PNP spend/VVD twenty/CRD two/CRD there/AV0 ,/PUN and/CJC twenty/CRD five/CRD that/DT0 be/VBZ forty/CRD seven/CRD ./PUN",

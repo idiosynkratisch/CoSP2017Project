@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE00R,006908,0,,A,1,1,Don't hit the flowers mummy.,do/VDB not/XX0 hit/VVI the/AT0 flower/NN2 mummy/NN1 ./PUN,
+K/KD/KDE.xml,KDERE00R,006908,1,,B,2,1,"I'm not, darling.","i/PNP be/VBB not/XX0 ,/PUN darling/NN1 ./PUN",
+K/KD/KDE.xml,KDERE00R,006908,2,,B,2,2,There we are.,there/AV0 we/PNP be/VBB ./PUN,
+K/KD/KDE.xml,KDERE00R,006908,3,,A,3,1,What did we do it for?,what/DTQ do/VDD we/PNP do/VDI it/PNP for/PRP ?/PUN,
+K/KD/KDE.xml,KDERE00R,006908,4,,B,4,1,Mm.,mm/ITJ ./PUN,
+K/KD/KDE.xml,KDERE00R,006908,5,,B,4,2,What we had to do was pop out to buy daddy a card  and we got a paper and we got some biscuits and cake for tea for tomorrow.,what/DTQ we/PNP have/VHD to/TO0 do/VDI be/VBD pop/NN1-VVB out/AVP to/TO0 buy/VVI daddy/NN1 a/AT0 card/NN1 and/CJC we/PNP get/VVD a/AT0 paper/NN1 and/CJC we/PNP get/VVD some/DT0 biscuit/NN2 and/CJC cake/NN1 for/PRP tea/NN1 for/PRP tomorrow/AV0 ./PUN,

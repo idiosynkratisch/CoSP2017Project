@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03T,002501,0,,A,1,1,You know we was talking about  <tv on> (()) ?,,
+K/KB/KBK.xml,KBKRE03T,002501,1,,B,2,1,Yes.,,
+K/KB/KBK.xml,KBKRE03T,002501,2,,A,3,1,There's the (()) .,,
+K/KB/KBK.xml,KBKRE03T,002501,3,,A,3,2,"Technology use, use the purest water.",,
+K/KB/KBK.xml,KBKRE03T,002501,4,,B,4,1,Yes.,,
+K/KB/KBK.xml,KBKRE03T,002501,5,,A,5,1,(()) ,,
+K/KB/KBK.xml,KBKRE03T,002501,6,,B,6,1,(()) .,,
+K/KB/KBK.xml,KBKRE03T,002501,7,,B,6,2,It's the basis of redial dialysis.,,
+K/KB/KBK.xml,KBKRE03T,002501,8,,A,7,1,"Boiling water removes bacteria and not removes, dissolves (()) .",,
+K/KB/KBK.xml,KBKRE03T,002501,9,,B,8,1,"Well there's a signifi- the, the osmosis really is a membrane which allows water to go through, but nothing else.",,

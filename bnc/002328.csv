@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02W,002328,0,,A,1,1,(()) ,,
+K/KB/KBK.xml,KBKRE02W,002328,1,,B,2,1,Sorry.,,
+K/KB/KBK.xml,KBKRE02W,002328,2,,A,3,1,What river would that be?,,
+K/KB/KBK.xml,KBKRE02W,002328,3,,B,4,1,Would be Kidbrook I suppose would it?,,
+K/KB/KBK.xml,KBKRE02W,002328,4,,A,5,1,(()) .,,
+K/KB/KBK.xml,KBKRE02W,002328,5,,B,6,1,"Oh yes, yes.",,
+K/KB/KBK.xml,KBKRE02W,002328,6,,B,6,2,"Fine looking bird, is that a female?",,
+K/KB/KBK.xml,KBKRE02W,002328,7,,A,7,1,"A female usually very (()) , but, I don't know, it looks a young bird to me.",,
+K/KB/KBK.xml,KBKRE02W,002328,8,,B,8,1,Good colouring anyway.,,
+K/KB/KBK.xml,KBKRE02W,002328,9,,A,9,1,"You   (()) <yawn> excuse me looking old fashion (()) , it's not like black bird or (()) .",,

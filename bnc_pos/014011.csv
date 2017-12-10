@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC9.xml,KC9RE00A,014011,0,,A,1,1,"Thank you Turan, very much.","thank/VVB you/PNP turan/NP0-NN1 ,/PUN very/AV0 much/DT0 ./PUN",
+K/KC/KC9.xml,KC9RE00A,014011,1,,B,2,1,Okay.,okay/AV0 ./PUN,
+K/KC/KC9.xml,KC9RE00A,014011,2,,A,3,1,"Don't know what, don't know what they'll make of all that gobbledegook.   (()) bye bye love.","do/VDB not/XX0 know/VVI what/DTQ ,/PUN do/VDB not/XX0 know/VVI what/DTQ they/PNP will/VM0 make/VVI of/PRF all/DT0 that/DT0 gobbledegook./NN0 bye/ITJ bye/ITJ love/NN1-VVB ./PUN",
+K/KC/KC9.xml,KC9RE00A,014011,3,,A,3,2,Have a good weekend.,have/VHB a/AT0 good/AJ0 weekend/NN1 ./PUN,
+K/KC/KC9.xml,KC9RE00A,014011,4,,B,4,1,See you soon (()) .,see/VVB you/PNP soon/AV0 ./PUN,
+K/KC/KC9.xml,KC9RE00A,014011,5,,A,5,1,See you next week.,see/VVB you/PNP next/ORD week/NN1 ./PUN,

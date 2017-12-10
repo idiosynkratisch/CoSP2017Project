@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KR/KR0.xml,KR0RE006,059601,0,,A,1,1,<singing> My palace  if I were a king it's more than a palace it's my everything.,,
+K/KR/KR0.xml,KR0RE006,059601,1,,A,1,2,As a Queen waiting there with the silvery hair.,,
+K/KR/KR0.xml,KR0RE006,059601,2,,A,1,3,"In a shanty, in old Shanty Town.</singing>",,
+K/KR/KR0.xml,KR0RE006,059601,3,,B,2,1,<singing> a king it's more than a palace it's my everything.,,
+K/KR/KR0.xml,KR0RE006,059601,4,,B,2,2,As a Queen waiting there with the silvery hair.,,
+K/KR/KR0.xml,KR0RE006,059601,5,,B,2,3,"In a shanty, in old Shanty Town.",,
+K/KR/KR0.xml,KR0RE006,059601,6,,B,2,4,Yes sir!</singing>,,

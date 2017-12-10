@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02S,002324,0,,A,1,1,There's  (()) fallen tree in the park.,,
+K/KB/KBK.xml,KBKRE02S,002324,1,,B,2,1,(()) .,,
+K/KB/KBK.xml,KBKRE02S,002324,2,,B,2,2,Relatively recently.,,
+K/KB/KBK.xml,KBKRE02S,002324,3,,A,3,1,(()) .,,
+K/KB/KBK.xml,KBKRE02S,002324,4,,A,3,2,They seemed to keep (()) .,,
+K/KB/KBK.xml,KBKRE02S,002324,5,,B,4,1,"Yeah  yeah it's fascinating to think why that particular tree actually keeled over, and all the others around, it's no bigger than the others is it?",,
+K/KB/KBK.xml,KBKRE02S,002324,6,,A,5,1,(()) don't know (()) .,,
+K/KB/KBK.xml,KBKRE02S,002324,7,,B,6,1,Well look at the size of it's trunk.,,
+K/KB/KBK.xml,KBKRE02S,002324,8,,A,7,1,It might have been (()) .,,
+K/KB/KBK.xml,KBKRE02S,002324,9,,B,8,1,"It might have been, yeah, just a  (()) one.",,

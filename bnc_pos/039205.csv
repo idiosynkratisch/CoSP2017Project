@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE02N,039205,0,,A,1,1,I couldn't hear you then?,i/PNP could/VM0 not/XX0 hear/VVI you/PNP then/AV0 ?/PUN,
+K/KE/KE2.xml,KE2RE02N,039205,1,,B,2,1,"No it's alright I, I answered myself.","no/ITJ it/PNP be/VBZ alright/AJ0 i/PNP ,/PUN i/PNP answer/VVD myself/PNX ./PUN",
+K/KE/KE2.xml,KE2RE02N,039205,2,,B,2,2,I said yes you did.,i/PNP say/VVD yes/ITJ you/PNP do/VDD ./PUN,
+K/KE/KE2.xml,KE2RE02N,039205,3,,A,3,1,What?,what/DTQ ?/PUN,
+K/KE/KE2.xml,KE2RE02N,039205,4,,B,4,1,<laughing> Bring out knives </laughing> .,bring/VVB out/AVP knife/NN2 ./PUN,
+K/KE/KE2.xml,KE2RE02N,039205,5,,A,5,1,Yes.,yes/ITJ ./PUN,

@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBF.xml,KBFRE011,015206,0,,A,1,1,"What's your regional accent, Jean  London?","what/DTQ be/VBZ you/DPS regional/AJ0 accent/NN1 ,/PUN jean/NP0 london/NP0 ?/PUN",
+K/KB/KBF.xml,KBFRE011,015206,1,,B,2,1,"No erm  su- er no  hang on, hang on  my regional, they want my regional accent  er  well I would have said it's standard received northern.","no/ITJ erm/UNC su/UNC er/UNC no/ITJ hang/VVB on/AVP ,/PUN hang/VVB on/AVP i/DPS regional/AJ0 ,/PUN they/PNP want/VVB i/DPS regional/AJ0 accent/NN1 er/UNC well/AV0 i/PNP would/VM0 have/VHI say/VVN it/PNP be/VBZ standard/AJ0-NN1 received/AJ0-VVN northern/AJ0 ./PUN",
+K/KB/KBF.xml,KBFRE011,015206,2,,A,3,1,Northern?,northern/AJ0 ?/PUN,
+K/KB/KBF.xml,KBFRE011,015206,3,,B,4,1,"Mm  standard received, S R.","mm/ITJ standard/NN1 receive/VVD-VVN ,/PUN s/ZZ0 r./ZZ0",
+K/KB/KBF.xml,KBFRE011,015206,4,,A,5,1,"How do you spell friend, F R I","how/AVQ do/VDB you/PNP spell/VVI friend/NN1 ,/PUN f/ZZ0 r/ZZ0 i/ZZ0",
+K/KB/KBF.xml,KBFRE011,015206,5,,B,6,1,"That's right, I before E except after C.","that/DT0 be/VBZ right/AJ0 ,/PUN i/PNP before/AV0 e/ZZ0 except/CJS after/PRP c./ZZ0",
+K/KB/KBF.xml,KBFRE011,015206,6,,A,7,1,(()) forgets don't you?,forget/VVZ do/VDB not/XX0 you/PNP ?/PUN,

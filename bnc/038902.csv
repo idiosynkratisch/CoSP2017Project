@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01V,038902,0,,A,1,1,Tuesday.,,
+K/KE/KE2.xml,KE2RE01V,038902,1,,B,2,1,"It's Tuesday, yeah.",,
+K/KE/KE2.xml,KE2RE01V,038902,2,,B,2,2,I've got this  you know (()) .,,

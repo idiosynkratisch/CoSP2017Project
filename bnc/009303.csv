@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBE.xml,KBERE00G,009303,0,,A,1,1,Can you turn that radio off?,,
+K/KB/KBE.xml,KBERE00G,009303,1,,A,1,2,I want to listen to the phone in.,,
+K/KB/KBE.xml,KBERE00G,009303,2,,B,2,1,I got the whatsname on.,,
+K/KB/KBE.xml,KBERE00G,009303,3,,A,3,1,What?,,
+K/KB/KBE.xml,KBERE00G,009303,4,,A,3,2,What?,,
+K/KB/KBE.xml,KBERE00G,009303,5,,B,4,1,The whatsname.,,
+K/KB/KBE.xml,KBERE00G,009303,6,,B,4,2,Don't ask me.,,
+K/KB/KBE.xml,KBERE00G,009303,7,,B,4,3,I dunno what it's called.,,
+K/KB/KBE.xml,KBERE00G,009303,8,,A,5,1,What do you want that on for?,,
+K/KB/KBE.xml,KBERE00G,009303,9,,A,5,2,I'm trying to listen to the radio.,,
+K/KB/KBE.xml,KBERE00G,009303,10,,A,5,3,I want to listen to the  phone in.,,

@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBA.xml,KBARE00A,009911,0,,A,1,1,I didn't put it over there anyway.,i/PNP do/VDD not/XX0 put/VVI it/PNP [over/PRP there/AV0]/AV0 anyway/AV0 ./PUN,
+K/KB/KBA.xml,KBARE00A,009911,1,,B,2,1,Eh?,eh/ITJ ?/PUN,
+K/KB/KBA.xml,KBARE00A,009911,2,,A,3,1,I didn't put it over there anyway.,i/PNP do/VDD not/XX0 put/VVI it/PNP [over/PRP there/AV0]/AV0 anyway/AV0 ./PUN,
+K/KB/KBA.xml,KBARE00A,009911,3,,B,4,1,No.,no/ITJ ./PUN,
+K/KB/KBA.xml,KBARE00A,009911,4,,B,4,2,<banging> That's what I said.,that/DT0 be/VBZ what/DTQ i/PNP say/VVD ./PUN,
+K/KB/KBA.xml,KBARE00A,009911,5,,B,4,3,Miles away.,mile/NN2 away/AV0 ./PUN,

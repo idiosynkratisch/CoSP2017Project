@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02S,013202,0,,A,1,1,How can you miss a mouth that fucking big?,how/AVQ can/VM0 you/PNP miss/VVI a/AT0 mouth/NN1 that/DT0 fucking/AV0-AJ0 big/AJ0 ?/PUN,
+K/KD/KDA.xml,KDARE02S,013202,1,,B,2,1,Well  (()) mouth,well/AV0 mouth/NN1-VVB,
+K/KD/KDA.xml,KDARE02S,013202,2,,A,3,1,Here are,here/AV0 be/VBB,
+K/KD/KDA.xml,KDARE02S,013202,3,,B,4,1,like that,like/AV0 that/DT0,
+K/KD/KDA.xml,KDARE02S,013202,4,,A,5,1,I got     (()) <singing> (()) </singing>,i/PNP get/VVD,

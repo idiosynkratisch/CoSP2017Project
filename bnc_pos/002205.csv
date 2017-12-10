@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE015,002205,0,,A,1,1,Is there any oil and vinegar on here?,be/VBZ there/EX0 any/DT0 oil/NN1 and/CJC vinegar/NN1 on/PRP-AVP here/AV0 ?/PUN,
+K/KB/KBK.xml,KBKRE015,002205,1,,B,2,1,"No, cos there's  (()) sauce of","no/ITJ ,/PUN cos/CJS there/EX0 be/VBZ sauce/NN1 of/PRF",
+K/KB/KBK.xml,KBKRE015,002205,2,,A,3,1,(()) meat.,meat/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE015,002205,3,,B,4,1,No (()) .,no/ITJ ./PUN,

@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBM.xml,KBMRE002,072303,0,,A,1,1,What doesn't taste,what/DTQ do/VDZ not/XX0 taste/VVI,
+K/KB/KBM.xml,KBMRE002,072303,1,,B,2,1,Chips,chip/NN2,
+K/KB/KBM.xml,KBMRE002,072303,2,,A,3,1,nice?,nice/AJ0 ?/PUN,
+K/KB/KBM.xml,KBMRE002,072303,3,,B,4,1,No.,no/ITJ ./PUN,
+K/KB/KBM.xml,KBMRE002,072303,4,,B,4,2,Chips when they're overdone.,chip/NN2 when/CJS they/PNP be/VBB overdone/AJ0-VVN ./PUN,
+K/KB/KBM.xml,KBMRE002,072303,5,,B,4,3,Brown.,brown/NP0 ./PUN,
+K/KB/KBM.xml,KBMRE002,072303,6,,B,4,4,Too brown.,too/AV0 brown/AJ0 ./PUN,
+K/KB/KBM.xml,KBMRE002,072303,7,,A,5,1,Yeah I know.,yeah/ITJ i/PNP know/VVB ./PUN,
+K/KB/KBM.xml,KBMRE002,072303,8,,A,5,2,So?,so/AV0 ?/PUN,

@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB7.xml,KB7RE011,018902,0,,A,1,1,"No Stuey, it's not very exciting by the sound of it.","no/ITJ stuey/NP0 ,/PUN it/PNP be/VBZ not/XX0 very/AV0 exciting/AJ0 by/PRP the/AT0 sound/NN1 of/PRF it/PNP ./PUN",
+K/KB/KB7.xml,KB7RE011,018902,1,,B,2,1,Well it could have been a cheque for a,well/AV0 it/PNP could/VM0 have/VHI be/VBN a/AT0 cheque/NN1 for/PRP a/AT0,
+K/KB/KB7.xml,KB7RE011,018902,2,,A,3,1,"Yeah, could of been, yes.","yeah/ITJ ,/PUN could/VM0 have/VHI be/VBN ,/PUN yes/ITJ ./PUN",
+K/KB/KB7.xml,KB7RE011,018902,3,,B,4,1,"cheque for a few thousand or something, that would have   (()) but it weren't.","cheque/NN1 for/PRP a/AT0 few/DT0 thousand/CRD or/CJC something/PNI ,/PUN that/DT0-CJT would/VM0 have/VHI but/CJC it/PNP be/VBD not/XX0 ./PUN",
+K/KB/KB7.xml,KB7RE011,018902,4,,A,5,1,I thought it was just a  (()) or something  which I'd a  owed   (()) stodge   (()),i/PNP think/VVD it/PNP be/VBD just/AV0 a/AT0 or/CJC something/PNI which/DTQ i/PNP have/VHD a/AT0 owe/VVN-VVD stodge/NN1-VVB,
+K/KB/KB7.xml,KB7RE011,018902,5,,B,6,1,Look at that.,look/VVB at/PRP that/DT0 ./PUN,
+K/KB/KB7.xml,KB7RE011,018902,6,,A,7,1,(()) god knows why you're at,god/NN1 know/VVZ why/AVQ you/PNP be/VBB at/PRP,
+K/KB/KB7.xml,KB7RE011,018902,7,,B,8,1,In here.,in/PRP here/AV0 ./PUN,
+K/KB/KB7.xml,KB7RE011,018902,8,,A,9,1,When did you go and get that (()) ?,when/AVQ do/VDD you/PNP go/VVI and/CJC get/VVI that/DT0 ?/PUN,
+K/KB/KB7.xml,KB7RE011,018902,9,,B,10,1,Last week it was   <sneeze> Bless me.,last/ORD week/NN1 it/PNP be/VBD bless/VVB i/PNP ./PUN,

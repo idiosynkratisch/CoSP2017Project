@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCB.xml,KCBRE004,043005,0,,A,1,1,It seems ages since we've driven down this road.,,
+K/KC/KCB.xml,KCBRE004,043005,1,,B,2,1,I haven't been here for ages and ages!,,
+K/KC/KCB.xml,KCBRE004,043005,2,,A,3,1,No!,,
+K/KC/KCB.xml,KCBRE004,043005,3,,A,3,2,Normally use the bypass when we come out at the,,

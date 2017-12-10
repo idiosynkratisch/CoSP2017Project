@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02P,002322,0,,A,1,1,"Oh, you had a good day today?",,
+K/KB/KBK.xml,KBKRE02P,002322,1,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE02P,002322,2,,A,3,1,Mm.,,
+K/KB/KBK.xml,KBKRE02P,002322,3,,B,4,1,"(()) bring a, I knew there was something else I had to bring fabric (()) .",,
+K/KB/KBK.xml,KBKRE02P,002322,4,,A,5,1,Did you get the library books back?,,
+K/KB/KBK.xml,KBKRE02P,002322,5,,B,6,1,Not really warm is it?,,
+K/KB/KBK.xml,KBKRE02P,002322,6,,A,7,1,It isn't warm at all.,,

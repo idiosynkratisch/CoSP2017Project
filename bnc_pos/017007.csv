@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD0.xml,KD0RE00J,017007,0,,A,1,1,Recording commences at three past two.,recording/NN1 commence/VVZ at/PRP three/CRD past/PRP two/CRD ./PUN,
+K/KD/KD0.xml,KD0RE00J,017007,1,,A,1,2,With   <laughing> (()) </laughing> .,with/PRP ./PUN,
+K/KD/KD0.xml,KD0RE00J,017007,2,,B,2,1,Got a Palace  picture on.,get/VVN a/AT0 palace/NN1 picture/NN1 on/AVP-PRP ./PUN,
+K/KD/KD0.xml,KD0RE00J,017007,3,,A,3,1,Man United!,man/NP0 united/AJ0 !/PUN,
+K/KD/KD0.xml,KD0RE00J,017007,4,,B,4,1,Oh.,oh/ITJ ./PUN,
+K/KD/KD0.xml,KD0RE00J,017007,5,,B,4,2,Don't let them out.,do/VDB not/XX0 let/VVI they/PNP out/AVP ./PUN,
+K/KD/KD0.xml,KD0RE00J,017007,6,,B,4,3,They can stay there.,they/PNP can/VM0 stay/VVI there/AV0 ./PUN,
+K/KD/KD0.xml,KD0RE00J,017007,7,,B,4,4,We hate United.,we/PNP hate/VVB united/AJ0-VVN ./PUN,

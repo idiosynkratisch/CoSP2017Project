@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE01F,000805,0,,A,1,1,Da .,,
+K/KD/KDP.xml,KDPRE01F,000805,1,,B,2,1,Da da,,
+K/KD/KDP.xml,KDPRE01F,000805,2,,A,3,1,da da da da da da,,
+K/KD/KDP.xml,KDPRE01F,000805,3,,B,4,1,Yes darling .,,
+K/KD/KDP.xml,KDPRE01F,000805,4,,B,4,2,There's a clever boy.,,
+K/KD/KDP.xml,KDPRE01F,000805,5,,B,4,3,There's a clever boy.,,
+K/KD/KDP.xml,KDPRE01F,000805,6,,A,5,1,Yaya yaya da da da,,
+K/KD/KDP.xml,KDPRE01F,000805,7,,B,6,1,Let's get that one first.,,
+K/KD/KDP.xml,KDPRE01F,000805,8,,B,6,2,Alright.,,

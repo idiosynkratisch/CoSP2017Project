@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE00T,011902,0,,A,1,1,What do you think the public  (()) are  (()) still,what/DTQ do/VDB you/PNP think/VVI the/AT0 public/NN1-AJ0 be/VBB still/AJ0,
+K/KD/KDA.xml,KDARE00T,011902,1,,B,2,1,"I know its mild, but I feel its particularly (())","i/PNP know/VVB it/DPS mild/AJ0-NN1 ,/PUN but/CJC i/PNP feel/VVB it/DPS particularly/AV0",
+K/KD/KDA.xml,KDARE00T,011902,2,,A,3,1,"how you feel then, if I put you on (()) .","how/AVQ you/PNP feel/VVB then/AV0 ,/PUN if/CJS i/PNP put/VVB you/PNP on/AVP ./PUN",

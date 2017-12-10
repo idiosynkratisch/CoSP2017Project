@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE01K,002219,0,,A,1,1,You really need a ha- ha- hammock to lie between those two pine trees.,,
+K/KB/KBK.xml,KBKRE01K,002219,1,,B,2,1,"So you can lie in the shade, and be dripped on.",,
+K/KB/KBK.xml,KBKRE01K,002219,2,,B,2,2,Ah <sigh>,,

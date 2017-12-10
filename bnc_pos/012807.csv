@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02B,012807,0,,A,1,1,,,
+K/KD/KDA.xml,KDARE02B,012807,1,,A,1,2,<singing> ,,
+K/KD/KDA.xml,KDARE02B,012807,2,,A,1,3,(()) ,,
+K/KD/KDA.xml,KDARE02B,012807,3,,A,1,4,</singing> ,,
+K/KD/KDA.xml,KDARE02B,012807,4,,A,1,5,,,
+K/KD/KDA.xml,KDARE02B,012807,5,,B,2,1,"I Didn't have time to fucking cut the beef this morning,<laughing> in the butchers </laughing> .","i/PNP do/VDD not/XX0 have/VHI time/NN1 to/TO0 fucking/AV0-AJ0 cut/VVN the/AT0 beef/NN1 this/DT0 morning/NN1 ,/PUN in/PRP the/AT0 butchers/NN0 ./PUN",
+K/KD/KDA.xml,KDARE02B,012807,6,,A,3,1,<singing> the sun go down  </singing>,the/AT0 sun/NN1 go/VVB-NN1 down/AVP,
+K/KD/KDA.xml,KDARE02B,012807,7,,B,4,1,Just  bread and butter and fucking  a big slab of beef.,just/AV0 bread/NN1 and/CJC butter/NN1 and/CJC fucking/AV0 a/AT0 big/AJ0 slab/NN1 of/PRF beef/NN1 ./PUN,
+K/KD/KDA.xml,KDARE02B,012807,8,,A,5,1,That's alright.,that/DT0 be/VBZ alright/AJ0 ./PUN,
+K/KD/KDA.xml,KDARE02B,012807,9,,B,6,1,"Go for it mate, fuck it!","go/VVB for/PRP it/PNP mate/NN1-VVB ,/PUN fuck/VVB it/PNP !/PUN",

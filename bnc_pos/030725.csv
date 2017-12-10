@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDM.xml,KDMRE02U,030725,0,,A,1,1,"Get the stuff done well  er   (()) terrible, and he said yes it, why not!","get/VVB the/AT0 stuff/NN1 do/VDN well/AV0 er/UNC terrible/AJ0 ,/PUN and/CJC he/PNP say/VVD yes/ITJ it/PNP ,/PUN why/AVQ not/XX0 !/PUN",
+K/KD/KDM.xml,KDMRE02U,030725,1,,B,2,1,Mm.,mm/ITJ ./PUN,
+K/KD/KDM.xml,KDMRE02U,030725,2,,B,2,2,Might go and ask him about that ammonia.,might/VM0 go/VVI and/CJC ask/VVI he/PNP about/PRP that/DT0 ammonia/NN1 ./PUN,
+K/KD/KDM.xml,KDMRE02U,030725,3,,A,3,1,Yes  you're ammonia is heated downstairs.,yes/ITJ you/PNP be/VBB ammonia/NN1 be/VBZ heat/VVN-AJ0 downstairs/AV0 ./PUN,

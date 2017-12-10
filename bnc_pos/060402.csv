@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCX.xml,KCXRE001,060402,0,,A,1,1,You know Linda <<REDACTED (name)>> ?,you/PNP know/VVB linda/NP0 ?/PUN,
+K/KC/KCX.xml,KCXRE001,060402,1,,B,2,1,Linda <<REDACTED (name)>> ?,linda/NP0 ?/PUN,
+K/KC/KCX.xml,KCXRE001,060402,2,,B,2,2,Yeah.,yeah/ITJ ./PUN,
+K/KC/KCX.xml,KCXRE001,060402,3,,B,2,3,Oh I know who you're on about.,oh/ITJ i/PNP know/VVB who/PNQ you/PNP be/VBB on/AVP-PRP about/PRP-AVP ./PUN,
+K/KC/KCX.xml,KCXRE001,060402,4,,B,2,4,Yeah.,yeah/ITJ ./PUN,
+K/KC/KCX.xml,KCXRE001,060402,5,,A,3,1,It's out,it/PNP be/VBZ out/AVP,
+K/KC/KCX.xml,KCXRE001,060402,6,,B,4,1,I never ever call her that.,i/PNP never/AV0 ever/AV0 call/VVB she/PNP that/DT0 ./PUN,
+K/KC/KCX.xml,KCXRE001,060402,7,,A,5,1,Yeah well  that's the name anyway.,yeah/ITJ well/AV0 that/DT0 be/VBZ the/AT0 name/NN1 anyway/AV0 ./PUN,
+K/KC/KCX.xml,KCXRE001,060402,8,,A,5,2,"And er  anyway, I forgot you wouldn't know her as that.","and/CJC er/UNC anyway/AV0 ,/PUN i/PNP forget/VVD you/PNP would/VM0 not/XX0 know/VVI she/PNP as/PRP that/DT0 ./PUN",
+K/KC/KCX.xml,KCXRE001,060402,9,,A,5,3,"But, you see I called her that because  everybody else called her that.","but/CJC ,/PUN you/PNP see/VVB i/PNP call/VVD she/PNP that/CJT because/CJS everybody/PNI else/AV0 call/VVN she/PNP that/DT0 ./PUN",
+K/KC/KCX.xml,KCXRE001,060402,10,,B,6,1,Mm.,mm/ITJ ./PUN,
+K/KC/KCX.xml,KCXRE001,060402,11,,B,6,2,Well,well/AV0,

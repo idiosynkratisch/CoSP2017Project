@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDB.xml,KDBRE00H,014809,0,,A,1,1,You're gonna come on Saturday aren't you Michelle?,you/PNP be/VBB gon/VVG na/TO0 come/VVI on/PRP-AVP saturday/NP0 be/VBB not/XX0 you/PNP michelle/NP0 ?/PUN,
+K/KD/KDB.xml,KDBRE00H,014809,1,,A,1,2,Yeah I'm  (()) Thursday Friday and Saturday I've got it so  it means that,yeah/ITJ i/PNP be/VBB thursday/NP0 friday/NP0 and/CJC saturday/NP0 i/PNP have/VHB get/VVN it/PNP so/AV0 it/PNP mean/VVZ that/DT0,
+K/KD/KDB.xml,KDBRE00H,014809,2,,B,2,1,"Er  is that too big, that spike?","er/UNC be/VBZ that/DT0-CJT too/AV0 big/AJ0 ,/PUN that/DT0 spike/NN1 ?/PUN",
+K/KD/KDB.xml,KDBRE00H,014809,3,,A,3,1,"What colour's frog's eyes, black?","what/DTQ colour/NN1 's/POS frog/NN1 's/POS eye/NN2 ,/PUN black/AJ0 ?/PUN",
+K/KD/KDB.xml,KDBRE00H,014809,4,,A,3,2,Last time Roger was outside waiting for me for an hour and a half,last/ORD time/NN1 roger/NP0 be/VBD outside/PRP wait/VVG for/PRP i/PNP for/PRP an/AT0 hour/NN1 and/CJC a/AT0 half/NN1,
+K/KD/KDB.xml,KDBRE00H,014809,5,,A,3,3,"Suppose so, yeah.","suppose/VVB so/AV0 ,/PUN yeah/ITJ ./PUN",

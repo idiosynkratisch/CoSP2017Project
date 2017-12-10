@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05K,002803,0,,A,1,1,If you kind of drop down behind the blue if you use the blue first and the bat's up there you gotta go sort of near to it to get behind you're going to rush down to your hoop.,if/CJS you/PNP [kind/NN1 of/PRF]/AV0 drop/VVB-NN1 down/AVP behind/PRP the/AT0 blue/AJ0 if/CJS you/PNP use/VVB the/AT0 blue/AJ0-NN1 first/ORD and/CJC the/AT0 bat/NN1 be/VBZ up/AVP there/AV0 you/PNP get/VVN ta/TO0 go/VVI [sort/NN1 of/PRF]/AV0 [near/AJ0 to/PRP]/PRP it/PNP to/TO0 get/VVI behind/PRP you/PNP be/VBB go/VVG to/TO0 rush/VVI down/AVP to/PRP you/DPS hoop/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE05K,002803,1,,A,1,2,Now you've got a much easier shot haven't you?,now/AV0 you/PNP have/VHB get/VVN a/AT0 much/AV0 easy/AJC shot/NN1 have/VHB not/XX0 you/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE05K,002803,2,,B,2,1,Yes,yes/ITJ,
+K/KB/KBK.xml,KBKRE05K,002803,3,,A,3,1,"You can just push blue back over there and and, or if you are not happy about that just a little take up.","you/PNP can/VM0 just/AV0 push/VVI blue/AJ0-NN1 back/NN1 [over/PRP there/AV0]/AV0 and/CJC and/CJC ,/PUN or/CJC if/CJS you/PNP be/VBB not/XX0 happy/AJ0 about/PRP that/DT0 just/AV0 [a/AT0 little/AV0]/AV0 take/VVB up/AVP ./PUN",
+K/KB/KBK.xml,KBKRE05K,002803,4,,A,3,2,"Bearing in mind that a take up is always a much more accurate shot, specially for beginners.","bear/VVG in/PRP mind/NN1 that/CJT a/AT0 take/VVB-NN1 up/AVP be/VBZ always/AV0 a/AT0 much/AV0 more/AV0 accurate/AJ0 shot/NN1 ,/PUN specially/AV0 for/PRP beginner/NN2 ./PUN",
+K/KB/KBK.xml,KBKRE05K,002803,5,,A,3,3,It's just a little tiny tap and you're gonna,it/PNP be/VBZ just/AV0 a/AT0 little/AJ0 tiny/AJ0 tap/NN1 and/CJC you/PNP be/VBB gon/VVG na/TO0,
+K/KB/KBK.xml,KBKRE05K,002803,6,,B,4,1,That's it,that/DT0 be/VBZ it/PNP,
+K/KB/KBK.xml,KBKRE05K,002803,7,,A,5,1,get right about there aren't you?,get/VVB right/AV0-AJ0 about/PRP there/AV0 be/VBB not/XX0 you/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE05K,002803,8,,B,6,1,Yep.,yep/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE05K,002803,9,,B,6,2,Fine.,fine/AJ0 ./PUN,

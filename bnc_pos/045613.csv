@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE00J,045613,0,,A,1,1,When?,when/AVQ ?/PUN,
+K/KD/KDN.xml,KDNRE00J,045613,1,,B,2,1,Now.,now/AV0 ./PUN,
+K/KD/KDN.xml,KDNRE00J,045613,2,,A,3,1,Who?,who/PNQ ?/PUN,
+K/KD/KDN.xml,KDNRE00J,045613,3,,B,4,1,It's over.,it/PNP be/VBZ over/AVP-PRP ./PUN,
+K/KD/KDN.xml,KDNRE00J,045613,4,,A,5,1,Right.,right/AV0 ./PUN,
+K/KD/KDN.xml,KDNRE00J,045613,5,,A,5,2,You better get up the stairs and tell Johnny what's happening.,you/PNP well/AV0 get/VVI up/PRP the/AT0 stairs/NN2 and/CJC tell/VVB johnny/NP0 what/DTQ be/VBZ happen/VVG ./PUN,

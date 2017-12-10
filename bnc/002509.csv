@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE042,002509,0,,A,1,1,Did you ever decide whether you were going to go and do that course (()) .,,
+K/KB/KBK.xml,KBKRE042,002509,1,,B,2,1,"I've said no, hang on what's that?",,
+K/KB/KBK.xml,KBKRE042,002509,2,,A,3,1,Why did you decide no?,,
+K/KB/KBK.xml,KBKRE042,002509,3,,B,4,1,"What, no, nothing to do with the Open University.",,
+K/KB/KBK.xml,KBKRE042,002509,4,,A,5,1,Why did you decide not?,,
+K/KB/KBK.xml,KBKRE042,002509,5,,B,6,1,"I decided it was jolly expensive and eh, wasn't going to do what I felt I wanted it to do.",,
+K/KB/KBK.xml,KBKRE042,002509,6,,A,7,1,What was it?,,
+K/KB/KBK.xml,KBKRE042,002509,7,,A,7,2,What were you aiming to achieve?,,
+K/KB/KBK.xml,KBKRE042,002509,8,,B,8,1,"Confidence, public speaking, capability.",,
+K/KB/KBK.xml,KBKRE042,002509,9,,A,9,1,(()) to look for something else then?,,

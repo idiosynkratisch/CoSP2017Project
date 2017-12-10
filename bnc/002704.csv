@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE04U,002704,0,,A,1,1,"Your balls are well separated,(()) I mean, the best I can do is  (()) take off the yellow, then I can make the (()) .",,
+K/KB/KBK.xml,KBKRE04U,002704,1,,A,1,2,"Put it on the one we're going to go through, or the one we've been through?",,
+K/KB/KBK.xml,KBKRE04U,002704,2,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE04U,002704,3,,A,3,1,(()) ,,
+K/KB/KBK.xml,KBKRE04U,002704,4,,B,4,1,"Oh I see, normally (()) .",,
+K/KB/KBK.xml,KBKRE04U,002704,5,,B,4,2,Right.,,

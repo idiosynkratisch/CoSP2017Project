@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDB.xml,KDBRE009,014801,0,,A,1,1,I think a light green actually.,i/PNP think/VVB a/AT0 light/AJ0 green/NN1-AJ0 actually/AV0 ./PUN,
+K/KD/KDB.xml,KDBRE009,014801,1,,A,1,2,Very pale I think.,very/AV0 pale/AJ0 i/PNP think/VVB ./PUN,
+K/KD/KDB.xml,KDBRE009,014801,2,,A,1,3,Actually that's a sort of a murky green.,actually/AV0 that/DT0 be/VBZ a/AT0 sort/NN1 of/PRF a/AT0 murky/AJ0 green/NN1 ./PUN,
+K/KD/KDB.xml,KDBRE009,014801,3,,A,1,4,That'll do.,that/DT0 will/VM0 do/VDI ./PUN,
+K/KD/KDB.xml,KDBRE009,014801,4,,A,1,5,Oh god I think that's gonna look really good.,oh/ITJ god/NN1 i/PNP think/VVB that/DT0 be/VBZ gon/VVG na/TO0 look/VVI really/AV0 good/AJ0 ./PUN,
+K/KD/KDB.xml,KDBRE009,014801,5,,A,1,6,I wanna varnish it as well cos I  (()),i/PNP wan/VVB na/TO0 varnish/VVI it/PNP [as/CJS well/AV0]/AV0 cos/CJS i/PNP,
+K/KD/KDB.xml,KDBRE009,014801,6,,B,2,1,Oh look at that red!<laugh>,oh/ITJ look/VVB at/PRP that/AV0 red/AJ0 !/PUN,
+K/KD/KDB.xml,KDBRE009,014801,7,,A,3,1,Yeah.,yeah/ITJ ./PUN,
+K/KD/KDB.xml,KDBRE009,014801,8,,A,3,2,That's good actually.,that/DT0 be/VBZ good/AJ0 actually/AV0 ./PUN,

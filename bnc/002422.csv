@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03S,002422,0,,A,1,1,Derek's picking you up about two tomorrow.,,
+K/KB/KBK.xml,KBKRE03S,002422,1,,B,2,1,"Right, after lunch.",,
+K/KB/KBK.xml,KBKRE03S,002422,2,,A,3,1,Yep.,,
+K/KB/KBK.xml,KBKRE03S,002422,3,,B,4,1,Do you have any indication when (()) ?,,
+K/KB/KBK.xml,KBKRE03S,002422,4,,A,5,1,No.,,
+K/KB/KBK.xml,KBKRE03S,002422,5,,B,6,1,(()) pretty well.,,
+K/KB/KBK.xml,KBKRE03S,002422,6,,A,7,1,Mm.,,
+K/KB/KBK.xml,KBKRE03S,002422,7,,B,8,1,Before you go,,
+K/KB/KBK.xml,KBKRE03S,002422,8,,A,9,1,"I don't suppose we'll be there for more than two, three hours.",,
+K/KB/KBK.xml,KBKRE03S,002422,9,,B,10,1,"Oh, you might as well.",,

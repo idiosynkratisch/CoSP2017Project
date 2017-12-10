@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBA.xml,KBARE007,009908,0,,A,1,1,Shut myself out?,shut/VVB myself/PNX out/AVP ?/PUN,
+K/KB/KBA.xml,KBARE007,009908,1,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KB/KBA.xml,KBARE007,009908,2,,B,2,2,"Right, that brings you down now within the grant with those three over  (()) right.","right/AV0 ,/PUN that/DT0 bring/VVZ you/PNP down/AVP now/AV0 within/PRP the/AT0 grant/NN1 with/PRP those/DT0 three/CRD over/PRP-AVP right/AV0 ./PUN",
+K/KB/KBA.xml,KBARE007,009908,3,,A,3,1,Mm,mm/ITJ,
+K/KB/KBA.xml,KBARE007,009908,4,,B,4,1,"Yeah, so you only pay the fifteen.","yeah/ITJ ,/PUN so/CJS you/PNP only/AV0 pay/VVB the/AT0 fifteen/CRD ./PUN",
+K/KB/KBA.xml,KBARE007,009908,5,,B,4,2,"Okay, is that alright?","okay/AV0 ,/PUN be/VBZ that/DT0 alright/AV0 ?/PUN",
+K/KB/KBA.xml,KBARE007,009908,6,,B,4,3,That brings you right down now.,that/DT0-CJT bring/VVZ you/PNP right/AV0-AJ0 down/AVP now/AV0 ./PUN,
+K/KB/KBA.xml,KBARE007,009908,7,,B,4,4,So all you pay is the fifteen for the lock and (()) .,so/AV0 all/DT0 you/PNP pay/VVB be/VBZ the/AT0 fifteen/CRD for/PRP the/AT0 lock/NN1 and/CJC ./PUN,
+K/KB/KBA.xml,KBARE007,009908,8,,B,4,5,I suppose.,i/PNP suppose/VVB ./PUN,

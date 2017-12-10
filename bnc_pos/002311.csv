@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02C,002311,0,,A,1,1,"The number of bulldog clips on that order tray seems to  (()) Lynda, are they breeding?","the/AT0 number/NN1 of/PRF bulldog/NN1 clip/NN2 on/PRP that/DT0 order/NN1 tray/NN1 seem/VVZ to/PRP lynda/NP0 ,/PUN be/VBB they/PNP breeding/NN1-VVG ?/PUN",
+K/KB/KBK.xml,KBKRE02C,002311,1,,B,2,1,<laugh> well (()) .,well/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE02C,002311,2,,B,2,2,Who am I to say.,who/PNQ be/VBB i/PNP to/TO0 say/VVI ./PUN,
+K/KB/KBK.xml,KBKRE02C,002311,3,,A,3,1,"Do you think we can  can , yes do you think we can  (()) not get any more orders this month?","do/VDB you/PNP think/VVI we/PNP can/VM0 can/VM0 ,/PUN yes/ITJ do/VDB you/PNP think/VVI we/PNP can/VM0 not/XX0 get/VVI any/DT0 more/DT0 order/NN2 this/DT0 month/NN1 ?/PUN",
+K/KB/KBK.xml,KBKRE02C,002311,4,,B,4,1,(()) ,,
+K/KB/KBK.xml,KBKRE02C,002311,5,,A,5,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE02C,002311,6,,B,6,1,(()) ,,
+K/KB/KBK.xml,KBKRE02C,002311,7,,A,7,1,They said they're going to take ten days to make up their mind Lynda so we'll give them the benefit of the doubt.,they/PNP say/VVD they/PNP be/VBB go/VVG to/TO0 take/VVI ten/CRD day/NN2 to/TO0 make/VVI up/AVP-PRP they/DPS mind/NN1 lynda/NP0 so/AV0 we/PNP will/VM0 give/VVI they/PNP the/AT0 benefit/NN1 of/PRF the/AT0 doubt/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE02C,002311,8,,B,8,1,(()) I think (()) .,i/PNP think/VVB ./PUN,
+K/KB/KBK.xml,KBKRE02C,002311,9,,A,9,1,"No, I can, I can just about bear the  (()) in June not a","no/ITJ ,/PUN i/PNP can/VM0 ,/PUN i/PNP can/VM0 [just/AV0 about/AV0]/AV0 bear/VVI the/AT0 in/PRP june/NP0 not/XX0 a/AT0",

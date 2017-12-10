@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02G,002315,0,,A,1,1,Are you ready Chris?,be/VBB you/PNP ready/AJ0 chris/NP0 ?/PUN,
+K/KB/KBK.xml,KBKRE02G,002315,1,,B,2,1,Any second now.,any/DT0 second/NN1 now/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE02G,002315,2,,B,2,2,"Leave it all till Monday Lynda, it's been a long hard week.","leave/VVB it/PNP all/DT0 till/PRP monday/NP0 lynda/NP0 ,/PUN it/PNP have/VHZ be/VBN a/AT0 long/AJ0 hard/AJ0 week/NN1 ./PUN",

@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE019,012105,0,,A,1,1,"After Christmas we won't have any work, but we'll have plenty of  spare benches in, we'll be laughing!","after/PRP christmas/NN1 we/PNP will/VM0 not/XX0 have/VHI any/DT0 work/NN1 ,/PUN but/CJC we/PNP will/VM0 have/VHI plenty/PNI of/PRF spare/AJ0 bench/NN2 in/PRP-AVP ,/PUN we/PNP will/VM0 be/VBI laugh/VVG-AJ0 !/PUN",
+K/KD/KDA.xml,KDARE019,012105,1,,A,1,2,Spread ourselves around a bit.,spread/VVB ourselves/PNX around/PRP-AVP a/AT0 bit/NN1 ./PUN,
+K/KD/KDA.xml,KDARE019,012105,2,,B,2,1,Why who else is going?,why/AVQ who/PNQ else/AV0 be/VBZ go/VVG ?/PUN,
+K/KD/KDA.xml,KDARE019,012105,3,,A,3,1,Got Stuart  (()),get/VVN stuart/NP0,
+K/KD/KDA.xml,KDARE019,012105,4,,B,4,1,and Alec.,and/CJC alec/NP0 ./PUN,
+K/KD/KDA.xml,KDARE019,012105,5,,A,5,1,(()) Actually that'll be quite good cos you won't be on anybody's bench wherever  vi-,actually/AV0 that/DT0 will/VM0 be/VBI quite/AV0 good/AJ0 cos/CJS you/PNP will/VM0 not/XX0 be/VBI on/PRP-AVP anybody/PNI 's/POS bench/NN1 wherever/AVQ vi/UNC,

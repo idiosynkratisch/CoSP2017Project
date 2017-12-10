@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02M,002320,0,,A,1,1,"Thank you guv, care to pay for it?","thank/VVB you/PNP guv/NN1 ,/PUN care/VVB-NN1 to/TO0 pay/VVI for/PRP it/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE02M,002320,1,,B,2,1,Yes I've paid for it (()) .,yes/ITJ i/PNP have/VHB pay/VVN for/PRP it/PNP ./PUN,
+K/KB/KBK.xml,KBKRE02M,002320,2,,B,2,2,Have to have (()) .,have/VHB to/TO0 have/VHI ./PUN,
+K/KB/KBK.xml,KBKRE02M,002320,3,,A,3,1,I didn't get anything.,i/PNP do/VDD not/XX0 get/VVI anything/PNI ./PUN,
+K/KB/KBK.xml,KBKRE02M,002320,4,,B,4,1,(()) ,,
+K/KB/KBK.xml,KBKRE02M,002320,5,,A,5,1,No.,no/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE02M,002320,6,,A,5,2,"They  they've got a free nylon bag in, in those where they (()) .","they/PNP they/PNP have/VHB get/VVN a/AT0 free/AJ0 nylon/NN1 bag/NN1 in/PRP ,/PUN in/PRP those/DT0 where/AVQ they/PNP ./PUN",
+K/KB/KBK.xml,KBKRE02M,002320,7,,B,6,1,(()) ,,
+K/KB/KBK.xml,KBKRE02M,002320,8,,A,7,1,"Right, shall we get in the car then?","right/AV0 ,/PUN shall/VM0 we/PNP get/VVI in/PRP the/AT0 car/NN1 then/AV0 ?/PUN",

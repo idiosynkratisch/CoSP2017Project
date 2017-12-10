@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE024,002303,0,,A,1,1,Is that making sense Lynda?,,
+K/KB/KBK.xml,KBKRE024,002303,1,,B,2,1,(()) that doesn't (()) .,,
+K/KB/KBK.xml,KBKRE024,002303,2,,A,3,1,Yeah.,,
+K/KB/KBK.xml,KBKRE024,002303,3,,B,4,1,"(()) Very, very (()) .",,
+K/KB/KBK.xml,KBKRE024,002303,4,,A,5,1,"I agree with you, yes, I agree with you, but eh, it's surprising how much more competitive it is.",,

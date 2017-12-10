@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC4.xml,KC4RE00D,006507,0,,A,1,1,"I should've got a day return, it wouldn't, it'll been cheaper.","i/PNP should/VM0 have/VHI get/VVN a/AT0 day/NN1 return/NN1-VVB ,/PUN it/PNP would/VM0 not/XX0 ,/PUN it/PNP will/VM0 be/VBN cheap/AJC ./PUN",
+K/KC/KC4.xml,KC4RE00D,006507,1,,B,2,1,"I did, but, how much for a single, two pound sixty and return two pound seventy.","i/PNP do/VDD ,/PUN but/CJC ,/PUN how/AVQ much/DT0 for/PRP a/AT0 single/AJ0 ,/PUN two/CRD pound/NN1 sixty/CRD and/CJC return/VVB-NN1 two/CRD pound/NN1 seventy/CRD ./PUN",
+K/KC/KC4.xml,KC4RE00D,006507,2,,A,3,1,"Yeah, ten pence difference.<noise - train>","yeah/ITJ ,/PUN ten/CRD pence/NN0 difference/NN1 ./PUN",
+K/KC/KC4.xml,KC4RE00D,006507,3,,B,4,1,(()) .,./PUN,
+K/KC/KC4.xml,KC4RE00D,006507,4,,B,4,2,"What, a day return you see, is usually cheaper than a single, well it use to be.","what/DTQ ,/PUN a/AT0 day/NN1 return/VVB-NN1 you/PNP see/VVB ,/PUN be/VBZ usually/AV0 cheap/AJC than/CJS a/AT0 single/AJ0 ,/PUN well/AV0 it/PNP use/VVB-NN1 to/TO0 be/VBI ./PUN",
+K/KC/KC4.xml,KC4RE00D,006507,5,,A,5,1,"Yeah, I think it might be now.","yeah/ITJ ,/PUN i/PNP think/VVB it/PNP might/VM0 be/VBI now/AV0 ./PUN",
+K/KC/KC4.xml,KC4RE00D,006507,6,,B,6,1,"You see, he  (()) pay the proper fare, if you only have a single.","you/PNP see/VVB ,/PUN he/PNP pay/VVB the/AT0 proper/AJ0 fare/NN1 ,/PUN if/CJS you/PNP only/AV0 have/VHB a/AT0 single/NN1 ./PUN",
+K/KC/KC4.xml,KC4RE00D,006507,7,,A,7,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KC4.xml,KC4RE00D,006507,8,,B,8,1,Pay the normal fare.,pay/VVB the/AT0 normal/AJ0 fare/NN1 ./PUN,

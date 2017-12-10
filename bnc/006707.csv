@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE006,006707,0,,A,1,1,What is  this?,,
+K/KD/KDE.xml,KDERE006,006707,1,,B,2,1,Well it's the  fishing net for the goldfish.,,
+K/KD/KDE.xml,KDERE006,006707,2,,A,3,1,(()) ,,
+K/KD/KDE.xml,KDERE006,006707,3,,B,4,1,Well when we clean out the er thing with the big fishing net for the pond but it's a small one when we clean out the fish tank.,,
+K/KD/KDE.xml,KDERE006,006707,4,,A,5,1,(()) can I?,,

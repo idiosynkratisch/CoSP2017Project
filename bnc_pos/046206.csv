@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE02G,046206,0,,A,1,1,Who's up?,who/PNQ be/VBZ up/AVP ?/PUN,
+K/KD/KDN.xml,KDNRE02G,046206,1,,A,1,2,Good it's er twenty past eight.,good/AJ0-AV0 it/PNP be/VBZ er/UNC twenty/CRD past/PRP eight/CRD ./PUN,
+K/KD/KDN.xml,KDNRE02G,046206,2,,B,2,1,I've got diarrhoea again.,i/PNP have/VHB get/VVN diarrhoea/NN1 again/AV0 ./PUN,
+K/KD/KDN.xml,KDNRE02G,046206,3,,A,3,1,Oh.,oh/ITJ ./PUN,
+K/KD/KDN.xml,KDNRE02G,046206,4,,A,3,2,Come on Patch.,come/VVB on/AVP patch/NN1-VVB ./PUN,
+K/KD/KDN.xml,KDNRE02G,046206,5,,A,3,3,Patch.,patch/NN1-VVB ./PUN,
+K/KD/KDN.xml,KDNRE02G,046206,6,,A,3,4,<whistling> Do you want an egg?,do/VDB you/PNP want/VVI an/AT0 egg/NN1 ?/PUN,
+K/KD/KDN.xml,KDNRE02G,046206,7,,B,4,1,No.,no/ITJ ./PUN,
+K/KD/KDN.xml,KDNRE02G,046206,8,,A,5,1,"Right, Patch  Get him down here Jean.","right/AV0 ,/PUN patch/NN1-VVB get/VVB he/PNP down/AVP here/AV0 jean/NP0 ./PUN",
+K/KD/KDN.xml,KDNRE02G,046206,9,,A,5,2,Alright love.,alright/AV0 love/VVB-NN1 ./PUN,
+K/KD/KDN.xml,KDNRE02G,046206,10,,A,5,3,<sneeze> Ye gods.<cough> <cough>,you/PNP god/NN2 ./PUN,

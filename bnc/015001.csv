@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBF.xml,KBFRE000,015001,0,,A,1,1,"What time do you get there   (()) what, what time did you get there?",,
+K/KB/KBF.xml,KBFRE000,015001,1,,B,2,1,(()) .,,
+K/KB/KBF.xml,KBFRE000,015001,2,,A,3,1,(()) .,,
+K/KB/KBF.xml,KBFRE000,015001,3,,B,4,1,"No,(()) .",,
+K/KB/KBF.xml,KBFRE000,015001,4,,A,5,1,You said this morning  (()) didn't ya?,,

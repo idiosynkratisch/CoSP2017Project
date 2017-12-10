@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC1.xml,KC1RE00U,041102,0,,A,1,1,Mm.,mm/ITJ ./PUN,
+K/KC/KC1.xml,KC1RE00U,041102,1,,B,2,1,Oh no!,oh/ITJ no/ITJ !/PUN,
+K/KC/KC1.xml,KC1RE00U,041102,2,,B,2,2,"That's just, no isn't it?","that/DT0 be/VBZ just/AV0 ,/PUN no/ITJ be/VBZ not/XX0 it/PNP ?/PUN",
+K/KC/KC1.xml,KC1RE00U,041102,3,,B,2,3,Erm  de- depends whether it's path or not.,erm/UNC de/UNC depend/VVZ whether/CJS it/PNP be/VBZ path/NN1 or/CJC not/XX0 ./PUN,
+K/KC/KC1.xml,KC1RE00U,041102,4,,B,2,4,If it was path it would point one five wouldn't it?,if/CJS it/PNP be/VBD path/NN1 it/PNP would/VM0 point/VVI one/CRD five/CRD would/VM0 not/XX0 it/PNP ?/PUN,
+K/KC/KC1.xml,KC1RE00U,041102,5,,A,3,1,Mm.,mm/ITJ ./PUN,
+K/KC/KC1.xml,KC1RE00U,041102,6,,A,3,2,"Point one will do, thousand volts then won't it?","point/VVB-NN1 one/PNI will/VM0 do/VDI ,/PUN thousand/CRD volt/NN2 then/AV0 will/VM0 not/XX0 it/PNP ?/PUN",
+K/KC/KC1.xml,KC1RE00U,041102,7,,B,4,1,Mm.,mm/ITJ ./PUN,
+K/KC/KC1.xml,KC1RE00U,041102,8,,A,5,1,I'll see if I've got one out in the van.,i/PNP will/VM0 see/VVI if/CJS i/PNP have/VHB get/VVN one/PNI-CRD out/AVP in/PRP the/AT0 van/NN1 ./PUN,

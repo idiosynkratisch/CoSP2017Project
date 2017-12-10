@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KR/KR0.xml,KR0RE006,059601,0,,A,1,1,<singing> My palace  if I were a king it's more than a palace it's my everything.,i/DPS palace/NN1 if/CJS i/PNP be/VBD a/AT0 king/NN1 it/PNP be/VBZ more/DT0 than/CJS a/AT0 palace/NN1 it/PNP be/VBZ i/DPS everything/PNI ./PUN,
+K/KR/KR0.xml,KR0RE006,059601,1,,A,1,2,As a Queen waiting there with the silvery hair.,as/PRP-CJS a/AT0 queen/NN1 wait/VVG there/AV0 with/PRP the/AT0 silvery/AJ0 hair/NN1 ./PUN,
+K/KR/KR0.xml,KR0RE006,059601,2,,A,1,3,"In a shanty, in old Shanty Town.</singing>","in/PRP a/AT0 shanty/NN1 ,/PUN in/PRP old/AJ0 shanty/NN1 town/NN1 ./PUN",
+K/KR/KR0.xml,KR0RE006,059601,3,,B,2,1,<singing> a king it's more than a palace it's my everything.,a/AT0 king/NN1 it/PNP be/VBZ more/DT0 than/CJS a/AT0 palace/NN1 it/PNP be/VBZ i/DPS everything/PNI ./PUN,
+K/KR/KR0.xml,KR0RE006,059601,4,,B,2,2,As a Queen waiting there with the silvery hair.,as/PRP-CJS a/AT0 queen/NN1 wait/VVG there/AV0 with/PRP the/AT0 silvery/AJ0 hair/NN1 ./PUN,
+K/KR/KR0.xml,KR0RE006,059601,5,,B,2,3,"In a shanty, in old Shanty Town.","in/PRP a/AT0 shanty/NN1 ,/PUN in/PRP old/AJ0 shanty/NN1 town/NN1 ./PUN",
+K/KR/KR0.xml,KR0RE006,059601,6,,B,2,4,Yes sir!</singing>,yes/ITJ sir/NN1 !/PUN,

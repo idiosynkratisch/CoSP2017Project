@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE01D,004913,0,,A,1,1,Oh I've seen this one.,oh/ITJ i/PNP have/VHB see/VVN this/DT0 one/PNI ./PUN,
+K/KC/KCD.xml,KCDRE01D,004913,1,,B,2,1,"Have you, is it good?","have/VHB you/PNP ,/PUN be/VBZ it/PNP good/AJ0 ?/PUN",
+K/KC/KCD.xml,KCDRE01D,004913,2,,B,2,2,"Oh, what you doing?","oh/ITJ ,/PUN what/DTQ you/PNP do/VDG ?/PUN",
+K/KC/KCD.xml,KCDRE01D,004913,3,,A,3,1,"Well nobody can see if you sit right in front of it, can they?","well/AV0 nobody/PNI can/VM0 see/VVI if/CJS you/PNP sit/VVB right/AV0-AJ0 [in/PRP front/NN1 of/PRF]/PRP it/PNP ,/PUN can/VM0 they/PNP ?/PUN",
+K/KC/KCD.xml,KCDRE01D,004913,4,,B,4,1,Well where you going to sit.,well/AV0 where/AVQ you/PNP go/VVG to/TO0 sit/VVI ./PUN,
+K/KC/KCD.xml,KCDRE01D,004913,5,,B,4,2,I'll sit here.,i/PNP will/VM0 sit/VVI here/AV0 ./PUN,
+K/KC/KCD.xml,KCDRE01D,004913,6,,A,5,1,Can you tell me why your song book has to be on the floor and the music on the floor behind it?,can/VM0 you/PNP tell/VVI i/PNP why/AVQ you/DPS song/NN1 book/NN1 have/VHZ to/TO0 be/VBI on/PRP the/AT0 floor/NN1 and/CJC the/AT0 music/NN1 on/PRP the/AT0 floor/NN1 behind/PRP it/PNP ?/PUN,

@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE054,002713,0,,A,1,1,What you really want to do is to get together through to there don't you?,what/DTQ you/PNP really/AV0 want/VVB to/TO0 do/VDI be/VBZ to/TO0 get/VVI together/AV0 through/PRP-AVP to/PRP there/AV0 do/VDB not/XX0 you/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE054,002713,1,,B,2,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE054,002713,2,,A,3,1,"Or there, so you can rush,(()) across to there.","or/CJC there/AV0 ,/PUN so/CJS you/PNP can/VM0 rush/VVI ,/PUN across/PRP to/PRP there/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE054,002713,3,,B,4,1,"Fine  Oh twit,<laugh>","fine/AJ0 oh/ITJ twit/NN1 ,/PUN",
+K/KB/KBK.xml,KBKRE054,002713,4,,A,5,1,Put it back where it was and then (()) .,put/VVB it/PNP back/AVP where/AVQ-CJS it/PNP be/VBD and/CJC then/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE054,002713,5,,B,6,1,"Yes, quite, quite, out, I think I thought it was going to shudder against the post and the hoop and","yes/ITJ ,/PUN quite/AV0 ,/PUN quite/AV0 ,/PUN out/AVP ,/PUN i/PNP think/VVB i/PNP think/VVD it/PNP be/VBD go/VVG to/TO0 shudder/VVI against/PRP the/AT0 post/NN1 and/CJC the/AT0 hoop/NN1 and/CJC",
+K/KB/KBK.xml,KBKRE054,002713,6,,A,7,1,(()) ,,
+K/KB/KBK.xml,KBKRE054,002713,7,,B,8,1,Yes.<hits ball>,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE054,002713,8,,A,9,1,"Lovely, great (()) .","lovely/AJ0 ,/PUN great/AJ0 ./PUN",
+K/KB/KBK.xml,KBKRE054,002713,9,,B,10,1,"Right, yep.","right/AV0 ,/PUN yep/ITJ ./PUN",

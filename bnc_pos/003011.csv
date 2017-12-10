@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE072,003011,0,,A,1,1,Marvellous  (()) skull of a Viking here.,marvellous/AJ0 skull/NN1 of/PRF a/AT0 viking/NN1 here/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE072,003011,1,,B,2,1,"Really, what was that then?","really/AV0 ,/PUN what/DTQ be/VBD that/DT0-CJT then/AV0 ?/PUN",
+K/KB/KBK.xml,KBKRE072,003011,2,,A,3,1,This eight hundred year old  skull of a Viking found off the northern coast of Scotland (()),this/DT0 eight/CRD hundred/CRD year/NN1 old/AJ0 skull/NN1 of/PRF a/AT0 viking/NN1 find/VVD-VVN off/PRP-AVP the/AT0 northern/AJ0 coast/NN1 of/PRF scotland/NP0,
+K/KB/KBK.xml,KBKRE072,003011,3,,B,4,1,Oh.,oh/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE072,003011,4,,A,5,1,"and old other bones and possessions including shield,(()) comb, brooch  last weekend it was found.","and/CJC old/AJ0 other/AJ0 bone/NN2 and/CJC possession/NN2 including/PRP shield/NN1 ,/PUN comb/VVB-NN1 ,/PUN brooch/NN1 last/ORD weekend/NN1 it/PNP be/VBD find/VVN ./PUN",
+K/KB/KBK.xml,KBKRE072,003011,5,,B,6,1,Mhm.,mhm/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE072,003011,6,,A,7,1,"The two people who found it are expected to receive the value of the brooch   (()) but it's a very well preserved skull, I suppose it was all in mud an-","the/AT0 two/CRD people/NN0 who/PNQ find/VVD it/PNP be/VBB expect/VVN-AJ0 to/TO0 receive/VVI the/AT0 value/NN1 of/PRF the/AT0 brooch/NN1 but/CJC it/PNP be/VBZ a/AT0 very/AV0 well/AV0 preserve/VVN-AJ0 skull/NN1 ,/PUN i/PNP suppose/VVB it/PNP be/VBD all/DT0 in/PRP mud/NN1 an/UNC",

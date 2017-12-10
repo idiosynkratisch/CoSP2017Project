@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE04C,039705,0,,A,1,1,Good morning,,
+K/KE/KE2.xml,KE2RE04C,039705,1,,B,2,1,"Hi, alright?",,
+K/KE/KE2.xml,KE2RE04C,039705,2,,A,3,1,Yes thanks,,
+K/KE/KE2.xml,KE2RE04C,039705,3,,B,4,1,"A fifty and a thirty, eighty pence today for you my love",,
+K/KE/KE2.xml,KE2RE04C,039705,4,,A,5,1,"That's right, yeah",,
+K/KE/KE2.xml,KE2RE04C,039705,5,,B,6,1,"Thank you, breezy this morning isn't it?",,
+K/KE/KE2.xml,KE2RE04C,039705,6,,A,7,1,It is breezy yes it's surprising how breezy it is,,
+K/KE/KE2.xml,KE2RE04C,039705,7,,B,8,1,Twenty five,,
+K/KE/KE2.xml,KE2RE04C,039705,8,,A,9,1,"Lovely , okay thanks a lot",,
+K/KE/KE2.xml,KE2RE04C,039705,9,,B,10,1,"Thank you very much, thanks a lot",,
+K/KE/KE2.xml,KE2RE04C,039705,10,,A,11,1,Thank you bye,,
+K/KE/KE2.xml,KE2RE04C,039705,11,,B,12,1,Bye,,

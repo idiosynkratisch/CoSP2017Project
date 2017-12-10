@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02V,013205,0,,A,1,1,"Who's that twit who does the old erm racing for Channel four, bloke with the side burns and funny hat?",,
+K/KD/KDA.xml,KDARE02V,013205,1,,B,2,1,(()) ,,
+K/KD/KDA.xml,KDARE02V,013205,2,,A,3,1,Yeah something like that.,,
+K/KD/KDA.xml,KDARE02V,013205,3,,A,3,2,He goes everybody hates  (()) nobody wants  (()) and all that,,
+K/KD/KDA.xml,KDARE02V,013205,4,,B,4,1,They fucking brilliant,,
+K/KD/KDA.xml,KDARE02V,013205,5,,B,4,2,(()) ,,
+K/KD/KDA.xml,KDARE02V,013205,6,,B,4,3,"Don Revie, Don Revie he's er manager, Leeds playing  (()) brilliant",,
+K/KD/KDA.xml,KDARE02V,013205,7,,B,4,4,"Yeah, they still hold two records",,
+K/KD/KDA.xml,KDARE02V,013205,8,,B,4,5,Only two straight first division wins.,,

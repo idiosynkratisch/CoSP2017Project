@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE02F,005207,0,,A,1,1,Well it's certainly different paper.,well/AV0 it/PNP be/VBZ certainly/AV0 different/AJ0 paper/NN1 ./PUN,
+K/KC/KCD.xml,KCDRE02F,005207,1,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KCD.xml,KCDRE02F,005207,2,,A,3,1,Hm  But it's quite good paper because it's got all the colours in it so you could put any thing with it can't you?,hm/ITJ but/CJC it/PNP be/VBZ quite/AV0 good/AJ0 paper/NN1 because/CJS it/PNP have/VHZ get/VVN all/DT0 the/AT0 colour/NN2 in/PRP it/PNP so/CJS you/PNP could/VM0 put/VVI any/DT0 thing/NN1 with/PRP it/PNP can/VM0 not/XX0 you/PNP ?/PUN,
+K/KC/KCD.xml,KCDRE02F,005207,3,,B,4,1,Yeah (()) .,yeah/ITJ ./PUN,
+K/KC/KCD.xml,KCDRE02F,005207,4,,A,5,1,I didn't think (()) .,i/PNP do/VDD not/XX0 think/VVI ./PUN,

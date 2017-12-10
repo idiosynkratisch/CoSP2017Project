@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCA.xml,KCARE009,054110,0,,A,1,1,<singing> always look on the bright side of life   <whistling> bright side of life  </singing>,,
+K/KC/KCA.xml,KCARE009,054110,1,,B,2,1,I was drawing and I read and  and I played with toys and I read  this game,,
+K/KC/KCA.xml,KCARE009,054110,2,,A,3,1,Who'd you play with in school then?,,
+K/KC/KCA.xml,KCARE009,054110,3,,B,4,1,and I played with David.,,
+K/KC/KCA.xml,KCARE009,054110,4,,A,5,1,Did you?,,

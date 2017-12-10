@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE011,007008,0,,A,1,1,Pardon?,,
+K/KD/KDE.xml,KDERE011,007008,1,,B,2,1,(()) do one of them.,,
+K/KD/KDE.xml,KDERE011,007008,2,,B,2,2,(()) called.,,
+K/KD/KDE.xml,KDERE011,007008,3,,A,3,1,Tape recorder.,,
+K/KD/KDE.xml,KDERE011,007008,4,,B,4,1,(()) ,,
+K/KD/KDE.xml,KDERE011,007008,5,,A,5,1,You turn it on and it tapes people singing or talking.,,
+K/KD/KDE.xml,KDERE011,007008,6,,A,5,2,And then when you turn it off you can replay it and you can hear yourself talk or sing.,,
+K/KD/KDE.xml,KDERE011,007008,7,,B,6,1,I want you to switch it on.,,
+K/KD/KDE.xml,KDERE011,007008,8,,B,6,2,And you can press the button like that.,,
+K/KD/KDE.xml,KDERE011,007008,9,,A,7,1,That's right.,,
+K/KD/KDE.xml,KDERE011,007008,10,,B,8,1,(()) go.,,

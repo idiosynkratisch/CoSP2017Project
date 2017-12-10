@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD9.xml,KD9RE009,044410,0,,A,1,1,See you later.,see/VVB you/PNP later/AV0 ./PUN,
+K/KD/KD9.xml,KD9RE009,044410,1,,A,1,2,(()) How long will you be?,how/AVQ long/AV0-AJ0 will/VM0 you/PNP be/VBI ?/PUN,
+K/KD/KD9.xml,KD9RE009,044410,2,,B,2,1,(()) I'll phone you.,i/PNP will/VM0 phone/VVI you/PNP ./PUN,
+K/KD/KD9.xml,KD9RE009,044410,3,,A,3,1,"Aye, how long?","aye/ITJ ,/PUN how/AVQ long/AV0-AJ0 ?/PUN",
+K/KD/KD9.xml,KD9RE009,044410,4,,B,4,1,Ten minutes?,ten/CRD minute/NN2 ?/PUN,
+K/KD/KD9.xml,KD9RE009,044410,5,,A,5,1,Aye.,aye/ITJ ./PUN,

@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE6.xml,KE6RE004,036405,0,,A,1,1,"That doesn't matter, whatever",,
+K/KE/KE6.xml,KE6RE004,036405,1,,B,2,1,Right thanks a lot me dear for your trouble,,
+K/KE/KE6.xml,KE6RE004,036405,2,,B,2,2,(()) ,,
+K/KE/KE6.xml,KE6RE004,036405,3,,B,2,3,yeah ta ta,,
+K/KE/KE6.xml,KE6RE004,036405,4,,A,3,1,Have you got another pen?,,
+K/KE/KE6.xml,KE6RE004,036405,5,,B,4,1,"Yeah, sorry, sorry",,
+K/KE/KE6.xml,KE6RE004,036405,6,,A,5,1,<laugh> That's alright don't worry,,

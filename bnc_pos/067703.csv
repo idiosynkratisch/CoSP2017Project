@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KP/KPJ.xml,KPJRE002,067703,0,,A,1,1,I was just looking at some of the prices they want for the property.,i/PNP be/VBD just/AV0 look/VVG at/PRP some/DT0 of/PRF the/AT0 price/NN2 they/PNP want/VVB for/PRP the/AT0 property/NN1 ./PUN,
+K/KP/KPJ.xml,KPJRE002,067703,1,,A,1,2,It's ridiculous!,it/PNP be/VBZ ridiculous/AJ0 !/PUN,
+K/KP/KPJ.xml,KPJRE002,067703,2,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KP/KPJ.xml,KPJRE002,067703,3,,A,3,1,For a leasehold  just the offers over eighty five thousand.,for/PRP a/AT0 leasehold/NN1 just/AV0 the/AT0 offer/NN2 over/AV0 eighty/CRD five/CRD thousand/CRD ./PUN,

@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE00K,011703,0,,A,1,1,Do you wanna tell me what number it is?,do/VDB you/PNP wan/VVB na/TO0 tell/VVI i/PNP what/DTQ number/NN1-VVB it/PNP be/VBZ ?/PUN,
+K/KD/KDA.xml,KDARE00K,011703,1,,B,2,1,(()) .,./PUN,
+K/KD/KDA.xml,KDARE00K,011703,2,,B,2,2,I could be what number it is (()) .,i/PNP could/VM0 be/VBI what/DTQ number/NN1-VVB it/PNP be/VBZ ./PUN,
+K/KD/KDA.xml,KDARE00K,011703,3,,B,2,3,"It is two, five, one, one, O it.","it/PNP be/VBZ two/CRD ,/PUN five/CRD ,/PUN one/CRD ,/PUN one/CRD ,/PUN o/ZZ0 it/PNP ./PUN",
+K/KD/KDA.xml,KDARE00K,011703,4,,B,2,4,"C, seven, eight, three","c/ZZ0 ,/PUN seven/CRD ,/PUN eight/CRD ,/PUN three/CRD",
+K/KD/KDA.xml,KDARE00K,011703,5,,B,2,5,"Hold up, hold up  what, seven, eight, three, seven","hold/VVB up/AVP ,/PUN hold/VVB up/AVP what/DTQ ,/PUN seven/CRD ,/PUN eight/CRD ,/PUN three/CRD ,/PUN seven/CRD",
+K/KD/KDA.xml,KDARE00K,011703,6,,B,2,6,"Seven, four, nine  (())","seven/CRD ,/PUN four/CRD ,/PUN nine/CRD",
+K/KD/KDA.xml,KDARE00K,011703,7,,B,2,7,Got that on Monday morning  (()) I thought that was the worst time of the week.,get/VVN-VVD that/DT0 on/PRP-AVP monday/NP0 morning/NN1 i/PNP think/VVD that/DT0-CJT be/VBD the/AT0 bad/AJS time/NN1 of/PRF the/AT0 week/NN1 ./PUN,
+K/KD/KDA.xml,KDARE00K,011703,8,,B,2,8,"No it's alright, you fucking annoy me.","no/ITJ it/PNP be/VBZ alright/AJ0 ,/PUN you/PNP fucking/AV0 annoy/VVB i/PNP ./PUN",
+K/KD/KDA.xml,KDARE00K,011703,9,,B,2,9,That's what makes Monday worth warming his smile.,that/DT0 be/VBZ what/DTQ make/VVZ monday/NP0 worth/PRP warm/VVG he/DPS smile/NN1 ./PUN,

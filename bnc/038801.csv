@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01M,038801,0,,A,1,1,They reckon the driver of that car fell asleep!,,
+K/KE/KE2.xml,KE2RE01M,038801,1,,B,2,1,Gosh!,,
+K/KE/KE2.xml,KE2RE01M,038801,2,,A,3,1,Because apparently there was no brake marks on the road at all!,,
+K/KE/KE2.xml,KE2RE01M,038801,3,,A,3,2,Just swerved off into the erm,,
+K/KE/KE2.xml,KE2RE01M,038801,4,,B,4,1,Probably  (()),,
+K/KE/KE2.xml,KE2RE01M,038801,5,,A,5,1,hard shoulder.,,
+K/KE/KE2.xml,KE2RE01M,038801,6,,B,6,1,safely.,,
+K/KE/KE2.xml,KE2RE01M,038801,7,,B,6,2,Yo- mean you know cos of,,
+K/KE/KE2.xml,KE2RE01M,038801,8,,A,7,1,Yeah that's right.,,
+K/KE/KE2.xml,KE2RE01M,038801,9,,B,8,1,Been a nasty accident happening to us.,,

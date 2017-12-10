@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE02E,007402,0,,A,1,1,Always makes me laugh the way he sounds so surprised that   (()) announcing record profits and asking customers to pay more.,,
+K/KD/KDE.xml,KDERE02E,007402,1,,A,1,2,How are they making record profits?,,
+K/KD/KDE.xml,KDERE02E,007402,2,,A,1,3,By customers paying more.,,
+K/KD/KDE.xml,KDERE02E,007402,3,,B,2,1,(()) ,,
+K/KD/KDE.xml,KDERE02E,007402,4,,A,3,1,Mm?,,
+K/KD/KDE.xml,KDERE02E,007402,5,,B,4,1,(()) profits on?,,
+K/KD/KDE.xml,KDERE02E,007402,6,,A,5,1,Water board.,,
+K/KD/KDE.xml,KDERE02E,007402,7,,B,6,1,Oh.,,
+K/KD/KDE.xml,KDERE02E,007402,8,,A,7,1,Oh do wake up!,,
+K/KD/KDE.xml,KDERE02E,007402,9,,B,8,1,Well I didn't know you know!,,
+K/KD/KDE.xml,KDERE02E,007402,10,,A,9,1,Well I only just heard it on the news.,,

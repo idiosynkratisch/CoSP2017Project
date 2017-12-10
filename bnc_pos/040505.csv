@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBL.xml,KBLRE00K,040505,0,,A,1,1,Well speak Jessica!,well/AV0 speak/VVB jessica/NP0 !/PUN,
+K/KB/KBL.xml,KBLRE00K,040505,1,,A,1,2,Is that beetroot nice?,be/VBZ that/DT0 beetroot/NN1 nice/AJ0 ?/PUN,
+K/KB/KBL.xml,KBLRE00K,040505,2,,B,2,1,Don't know.,do/VDB not/XX0 know/VVI ./PUN,
+K/KB/KBL.xml,KBLRE00K,040505,3,,A,3,1,What's wrong with it?,what/DTQ be/VBZ wrong/AJ0 with/PRP it/PNP ?/PUN,
+K/KB/KBL.xml,KBLRE00K,040505,4,,A,3,2,Why aren't you using a spoon?(()) !,why/AVQ be/VBB not/XX0 you/PNP use/VVG a/AT0 spoon/NN1 ?/PUN !/PUN,
+K/KB/KBL.xml,KBLRE00K,040505,5,,B,4,1,I'll spoon it in!,i/PNP will/VM0 spoon/VVI it/PNP in/AVP !/PUN,
+K/KB/KBL.xml,KBLRE00K,040505,6,,A,5,1,Don't be funny!,do/VDB not/XX0 be/VBI funny/AJ0 !/PUN,

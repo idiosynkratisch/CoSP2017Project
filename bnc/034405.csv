@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD5.xml,KD5RE01K,034405,0,,A,1,1,"Oy, slaphead!",,
+K/KD/KD5.xml,KD5RE01K,034405,1,,B,2,1,Me?,,
+K/KD/KD5.xml,KD5RE01K,034405,2,,A,3,1,"Yeah, the chap from  Arkworth Generation for you.",,
+K/KD/KD5.xml,KD5RE01K,034405,3,,B,4,1,Excellent!,,

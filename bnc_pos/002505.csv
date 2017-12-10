@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03X,002505,0,,A,1,1,How are you this morning?,how/AVQ be/VBB you/PNP this/DT0 morning/NN1 ?/PUN,
+K/KB/KBK.xml,KBKRE03X,002505,1,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE03X,002505,2,,A,3,1,O K,o/ZZ0 k/ZZ0,

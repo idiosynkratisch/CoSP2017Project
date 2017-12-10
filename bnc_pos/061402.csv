@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB2.xml,KB2RE00B,061402,0,,A,1,1,Are you gonna go and have a look then?,be/VBB you/PNP gon/VVG na/TO0 go/VVI and/CJC have/VHI a/AT0 look/NN1 then/AV0 ?/PUN,
+K/KB/KB2.xml,KB2RE00B,061402,1,,A,1,2,"What about looking at back and me bulbs, our Michael might be there mind, I doubt it though I think it's his day off","what/DTQ about/PRP look/VVG at/PRP back/NN1 and/CJC i/DPS bulb/NN2 ,/PUN we/DPS michael/NP0 might/VM0 be/VBI there/AV0 mind/VVB-NN1 ,/PUN i/PNP doubt/VVB it/PNP though/AV0 i/PNP think/VVB it/PNP be/VBZ he/DPS day/NN1 off/AVP-PRP",
+K/KB/KB2.xml,KB2RE00B,061402,2,,B,2,1,Oh I wonder if you,oh/ITJ i/PNP wonder/VVB if/CJS you/PNP,
+K/KB/KB2.xml,KB2RE00B,061402,3,,A,3,1,"Just er cut er, stop that, turn that iron off love","just/AV0 er/UNC cut/VVB er/UNC ,/PUN stop/VVB-NN1 that/DT0-CJT ,/PUN turn/VVB-NN1 that/DT0-CJT iron/NN1-VVB off/PRP-AVP love/NN1-VVB",
+K/KB/KB2.xml,KB2RE00B,061402,4,,B,4,1,"He just wants to er, just want to go and get your groceries don't you?","he/PNP just/AV0 want/VVZ to/TO0 er/UNC ,/PUN just/AV0 want/VVB to/TO0 go/VVI and/CJC get/VVI you/DPS grocery/NN2 do/VDB not/XX0 you/PNP ?/PUN",
+K/KB/KB2.xml,KB2RE00B,061402,5,,B,4,2,We can do that love    <humming> You having a go at this when you come back?,we/PNP can/VM0 do/VDI that/DT0 love/NN1-VVB you/PNP have/VHG a/AT0 go/NN1 at/PRP this/DT0 when/CJS you/PNP come/VVB back/AVP ?/PUN,
+K/KB/KB2.xml,KB2RE00B,061402,6,,A,5,1,"Probably, yeah","probably/AV0 ,/PUN yeah/ITJ",
+K/KB/KB2.xml,KB2RE00B,061402,7,,B,6,1,Gonna put them on top don't it?,gon/VVG na/TO0 put/VVI they/PNP on/PRP-AVP top/NN1 do/VDB not/XX0 it/PNP ?/PUN,
+K/KB/KB2.xml,KB2RE00B,061402,8,,A,7,1,"I don't need the iron, I don't need, I don't need this out though  just the, leave that  just leave them on there like that","i/PNP do/VDB not/XX0 need/VVI the/AT0 iron/NN1 ,/PUN i/PNP do/VDB not/XX0 need/VVI ,/PUN i/PNP do/VDB not/XX0 need/VVI this/DT0 out/AVP though/AV0 just/AV0 the/AT0 ,/PUN leave/VVB-NN1 that/DT0-CJT just/AJ0 leave/VVB-NN1 they/PNP on/AVP-PRP there/AV0 like/PRP that/DT0",

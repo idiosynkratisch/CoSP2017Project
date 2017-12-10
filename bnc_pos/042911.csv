@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDD.xml,KDDRE00A,042911,0,,A,1,1,Oh sport  winter Olympics  <reading> the first two runs on the four man bobsleigh which represents one of Britain's brightest medal hopes </reading> .,oh/ITJ sport/NN1 winter/NN1 olympic/NN2 the/AT0 first/ORD two/CRD run/NN2 on/PRP the/AT0 four/CRD man/NN1 bobsleigh/NN1-VVB which/DTQ represent/VVZ one/CRD of/PRF britain/NP0 's/POS bright/AJS medal/NN1 hope/NN2 ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,1,,A,1,2,I think tonight though it's got to  the women's figure skating championship.,i/PNP think/VVB tonight/AV0 though/AV0 it/PNP have/VHZ get/VVN to/PRP the/AT0 woman/NN2 's/POS figure/NN1 skate/VVG-NN1 championship/NN1 ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,2,,A,1,3,Joanne Conway's gone back to  to take part in it.,joanne/NP0 conway/NP0 have/VHZ go/VVN back/AVP to/TO0 to/TO0 take/VVI part/NN1 in/PRP it/PNP ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,3,,A,1,4,She came back home didn't she?,she/PNP come/VVD back/AVP home/AV0 do/VDD not/XX0 she/PNP ?/PUN,
+K/KD/KDD.xml,KDDRE00A,042911,4,,A,1,5,To be with her boyfriend.,to/TO0 be/VBI with/PRP she/DPS boyfriend/NN1 ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,5,,B,2,1,Yes.,yes/ITJ ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,6,,A,3,1,Catchword tonight is on at five O five  instead of four o'clock  because they've got sport on all afternoon.,catchword/NN1 tonight/AV0 be/VBZ on/AVP-PRP at/PRP five/CRD o/ZZ0 five/CRD [instead/AV0 of/PRF]/PRP four/CRD o'clock/AV0 because/CJS they/PNP have/VHB get/VVN sport/NN1 on/PRP-AVP all/DT0 afternoon/NN1 ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,7,,B,4,1,Catchword?,catchword/NN1 ?/PUN,
+K/KD/KDD.xml,KDDRE00A,042911,8,,A,5,1,Catchword's on at five O five  it follows Countdown,catchword/NN1 be/VBZ on/AVP-PRP at/PRP five/CRD o/ZZ0 five/CRD it/PNP follow/VVZ countdown/NN1,
+K/KD/KDD.xml,KDDRE00A,042911,9,,B,6,1,Mm.,mm/ITJ ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,10,,A,7,1,on a different station of course.,on/PRP a/AT0 different/AJ0 station/NN1 [of/PRF course/NN1]/AV0 ./PUN,
+K/KD/KDD.xml,KDDRE00A,042911,11,,A,7,2,"Yeah mustn't forget that, changed the time of that.","yeah/ITJ must/VM0 not/XX0 forget/VVI that/DT0-CJT ,/PUN change/VVD-VVN the/AT0 time/NN1 of/PRF that/DT0 ./PUN",

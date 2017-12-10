@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE02N,039205,0,,A,1,1,I couldn't hear you then?,,
+K/KE/KE2.xml,KE2RE02N,039205,1,,B,2,1,"No it's alright I, I answered myself.",,
+K/KE/KE2.xml,KE2RE02N,039205,2,,B,2,2,I said yes you did.,,
+K/KE/KE2.xml,KE2RE02N,039205,3,,A,3,1,What?,,
+K/KE/KE2.xml,KE2RE02N,039205,4,,B,4,1,<laughing> Bring out knives </laughing> .,,
+K/KE/KE2.xml,KE2RE02N,039205,5,,A,5,1,Yes.,,

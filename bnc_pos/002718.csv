@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE059,002718,0,,A,1,1,I've got to get up to that next (()) .,i/PNP have/VHB get/VVN to/TO0 get/VVI [up/AVP to/PRP]/PRP that/DT0 next/ORD ./PUN,
+K/KB/KBK.xml,KBKRE059,002718,1,,A,1,2,"<hits ball> I put the yellow up onto hoop three,(()) <hits ball> Gone the wrong side.","i/PNP put/VVB the/AT0 yellow/NN1-AJ0 up/AVP onto/PRP hoop/NN1 three/CRD ,/PUN go/VVN the/AT0 wrong/AJ0 side/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE059,002718,2,,B,2,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE059,002718,3,,B,2,2,"Yellow's nice, yeah, ah.","yellow/AJ0-NN1 be/VBZ nice/AJ0 ,/PUN yeah/ITJ ,/PUN ah/ITJ ./PUN",
+K/KB/KBK.xml,KBKRE059,002718,4,,A,3,1,I don't think I'll have a chance (()) .,i/PNP do/VDB not/XX0 think/VVI i/PNP will/VM0 have/VHI a/AT0 chance/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE059,002718,5,,B,4,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE059,002718,6,,B,4,2,Can you change your own ball during a go?,can/VM0 you/PNP change/VVI you/DPS own/DT0 ball/NN1 during/PRP a/AT0 go/NN1 ?/PUN,
+K/KB/KBK.xml,KBKRE059,002718,7,,A,5,1,(()) ,,
+K/KB/KBK.xml,KBKRE059,002718,8,,B,6,1,Right.<hits ball>,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE059,002718,9,,A,7,1,(()) ,,
+K/KB/KBK.xml,KBKRE059,002718,10,,B,8,1,"Right, right.","right/AV0 ,/PUN right/AV0 ./PUN",

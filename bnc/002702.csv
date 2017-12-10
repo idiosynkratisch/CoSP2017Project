@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE04S,002702,0,,A,1,1,"Yes, that's the, that's the sort of problem I'm in for isn't it?",,
+K/KB/KBK.xml,KBKRE04S,002702,1,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE04S,002702,2,,A,3,1,Yes.,,
+K/KB/KBK.xml,KBKRE04S,002702,3,,B,4,1,(()) ,,

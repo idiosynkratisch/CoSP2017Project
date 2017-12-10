@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KP/KPG.xml,KPGRE003,132604,0,,A,1,1,<laughing> I'm going </laughing> .,,
+K/KP/KPG.xml,KPGRE003,132604,1,,B,2,1,(()) ,,
+K/KP/KPG.xml,KPGRE003,132604,2,,A,3,1,Yeah.,,
+K/KP/KPG.xml,KPGRE003,132604,3,,A,3,2,"I'm going, you lot are  you lot are mad!",,

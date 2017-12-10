@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE01E,002214,0,,A,1,1,"Lynda seems to be staying on a bit, oh no, no, she does have to stay till two sometimes.","lynda/NP0 seem/VVZ to/TO0 be/VBI stay/VVG on/PRP-AVP a/AT0 bit/NN1 ,/PUN oh/ITJ no/ITJ ,/PUN no/ITJ ,/PUN she/PNP do/VDZ have/VHI to/TO0 stay/VVI till/PRP two/CRD sometimes/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE01E,002214,1,,B,2,1,She's been quite late lately.,she/PNP have/VHZ be/VBN quite/AV0 late/AJ0-AV0 lately/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE01E,002214,2,,B,2,2,(()) four o'clock (()) .,four/CRD o'clock/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE01E,002214,3,,A,3,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE01E,002214,4,,B,4,1,She said if we didn't get stuck at the (()) .,she/PNP say/VVD if/CJS we/PNP do/VDD not/XX0 get/VVI stuck/AJ0 at/PRP the/AT0 ./PUN,

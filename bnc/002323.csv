@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02R,002323,0,,A,1,1,Suzannah said that she might be going up tomorrow evening.,,
+K/KB/KBK.xml,KBKRE02R,002323,1,,B,2,1,Aha.,,
+K/KB/KBK.xml,KBKRE02R,002323,2,,A,3,1,Not definitely.,,
+K/KB/KBK.xml,KBKRE02R,002323,3,,B,4,1,Right.,,

@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE02S,046307,0,,A,1,1,You ready for this?,you/PNP ready/AJ0 for/PRP this/DT0 ?/PUN,
+K/KD/KDN.xml,KDNRE02S,046307,1,,B,2,1,Yes,yes/ITJ,
+K/KD/KDN.xml,KDNRE02S,046307,2,,A,3,1,"Well up, well I've only got about er, we're only on ninth one just","well/AV0 up/AVP ,/PUN well/AV0 i/PNP have/VHB only/AV0 get/VVN about/PRP-AVP er/UNC ,/PUN we/PNP be/VBB only/AV0 on/PRP-AVP ninth/ORD one/PNI just/AV0",
+K/KD/KDN.xml,KDNRE02S,046307,3,,B,4,1,"That's great, that's great, sure, sure you only got it","that/DT0 be/VBZ great/AJ0 ,/PUN that/DT0 be/VBZ great/AJ0 ,/PUN sure/AJ0 ,/PUN sure/AJ0 you/PNP only/AV0 get/VVD-VVN it/PNP",
+K/KD/KDN.xml,KDNRE02S,046307,4,,A,5,1,and now there all full up,and/CJC now/AV0 there/AV0 all/DT0 full/AJ0 up/AVP-PRP,
+K/KD/KDN.xml,KDNRE02S,046307,5,,B,6,1,on Wednesday,on/PRP wednesday/NP0,
+K/KD/KDN.xml,KDNRE02S,046307,6,,A,7,1,"Aha , I put it er","aha/ITJ ,/PUN i/PNP put/VVB it/PNP er/UNC",
+K/KD/KDN.xml,KDNRE02S,046307,7,,B,8,1,that's marvellous,that/DT0 be/VBZ marvellous/AJ0,
+K/KD/KDN.xml,KDNRE02S,046307,8,,A,9,1,"I put it everywhere, see Jean didn't I?","i/PNP put/VVB it/PNP everywhere/AV0 ,/PUN see/VVB jean/NP0 do/VDD not/XX0 i/PNP ?/PUN",
+K/KD/KDN.xml,KDNRE02S,046307,9,,B,10,1,I take it now and give you your,i/PNP take/VVB it/PNP now/AV0 and/CJC give/VVB you/PNP you/DPS,

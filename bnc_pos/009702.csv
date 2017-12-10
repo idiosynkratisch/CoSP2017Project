@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC5.xml,KC5RE001,009702,0,,A,1,1,"That's what I do with his football boots I bought him,(()) .","that/DT0 be/VBZ what/DTQ i/PNP do/VDB with/PRP he/DPS football/NN1 boot/NN2 i/PNP buy/VVD he/PNP ,/PUN ./PUN",
+K/KC/KC5.xml,KC5RE001,009702,1,,A,1,2,"I, I  (()) looking at them (()) .","i/PNP ,/PUN i/PNP look/VVG at/PRP they/PNP ./PUN",
+K/KC/KC5.xml,KC5RE001,009702,2,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KC5.xml,KC5RE001,009702,3,,A,3,1,They look big enough don't they?,they/PNP look/VVB big/AJ0 enough/AV0 do/VDB not/XX0 they/PNP ?/PUN,
+K/KC/KC5.xml,KC5RE001,009702,4,,B,4,1,Yeah,yeah/ITJ,
+K/KC/KC5.xml,KC5RE001,009702,5,,A,5,1,(()) ,,
+K/KC/KC5.xml,KC5RE001,009702,6,,B,6,1,"Yeah, alright then.","yeah/ITJ ,/PUN alright/AV0 then/AV0 ./PUN",
+K/KC/KC5.xml,KC5RE001,009702,7,,A,7,1,I'll see you later on.,i/PNP will/VM0 see/VVI you/PNP later/AV0 on/AVP ./PUN,

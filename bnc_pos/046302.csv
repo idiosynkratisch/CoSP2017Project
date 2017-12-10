@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE02L,046302,0,,A,1,1,Those pictures are awful on T V Jean  what have you found Jean?,those/DT0 picture/NN2 be/VBB awful/AJ0 on/PRP t/ZZ0 v/ZZ0 jean/NP0 what/DTQ have/VHB you/PNP find/VVN jean/NP0 ?/PUN,
+K/KD/KDN.xml,KDNRE02L,046302,1,,A,1,2,"Jean, what?","jean/NP0 ,/PUN what/DTQ ?/PUN",
+K/KD/KDN.xml,KDNRE02L,046302,2,,A,1,3,"Come away from your mouth, take it away from your mouth, you feel what?","come/VVB [away/AV0 from/PRP]/PRP you/DPS mouth/NN1 ,/PUN take/VVB it/PNP [away/AV0 from/PRP]/PRP you/DPS mouth/NN1 ,/PUN you/PNP feel/VVB what/DTQ ?/PUN",
+K/KD/KDN.xml,KDNRE02L,046302,3,,B,2,1,Sick,sick/AJ0,
+K/KD/KDN.xml,KDNRE02L,046302,4,,A,3,1,"Sick, Jesus   <cough>","sick/AJ0 ,/PUN jesus/NP0",
+K/KD/KDN.xml,KDNRE02L,046302,5,,B,4,1,<cough> ,,
+K/KD/KDN.xml,KDNRE02L,046302,6,,B,4,2,,,
+K/KD/KDN.xml,KDNRE02L,046302,7,,A,5,1,"You know that fella that Maurice er that plays Tarzan Johnny Weismuller, whatever you call him, I met his  what do I say, a girl who, who was a cousin to him, aha, she was a yank of course","you/PNP know/VVB that/DT0 fella/NN1 that/CJT maurice/NP0 er/UNC that/CJT play/VVZ tarzan/NP0 johnny/NP0 weismuller/NP0 ,/PUN whatever/DTQ you/PNP call/VVB he/PNP ,/PUN i/PNP meet/VVD he/DPS what/DTQ do/VDB i/PNP say/VVI ,/PUN a/AT0 girl/NN1 who/PNQ ,/PUN who/PNQ be/VBD a/AT0 cousin/NN1 to/PRP he/PNP ,/PUN aha/ITJ ,/PUN she/PNP be/VBD a/AT0 yank/NN1 [of/PRF course/NN1]/AV0",
+K/KD/KDN.xml,KDNRE02L,046302,8,,B,6,1,<cough> ,,
+K/KD/KDN.xml,KDNRE02L,046302,9,,B,6,2,,,
+K/KD/KDN.xml,KDNRE02L,046302,10,,B,6,3,<cough> ,,

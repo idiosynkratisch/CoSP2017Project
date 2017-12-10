@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE000,000406,0,,A,1,1,"Right, then I'll just put it down here  Nine teas  Your not actually shooting till Tuesday are you?",,
+K/KD/KDP.xml,KDPRE000,000406,1,,B,2,1,"No,(()) .",,
+K/KD/KDP.xml,KDPRE000,000406,2,,B,2,2,What time does he (()) .,,
+K/KD/KDP.xml,KDPRE000,000406,3,,A,3,1,Twelve ninety till three.,,

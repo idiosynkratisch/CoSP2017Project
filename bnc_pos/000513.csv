@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE00T,000513,0,,A,1,1,"It's unbelievable, they sent that by special despatch.","it/PNP be/VBZ unbelievable/AJ0 ,/PUN they/PNP send/VVD that/DT0 by/PRP special/AJ0 despatch/NN1 ./PUN",
+K/KD/KDP.xml,KDPRE00T,000513,1,,A,1,2,"Frank Cooper's, special messenger just to deliver that, in a great big box.","frank/NP0 cooper/NP0 's/POS ,/PUN special/AJ0 messenger/NN1 just/AV0 to/TO0 deliver/VVI that/DT0-CJT ,/PUN in/PRP a/AT0 great/AJ0 big/AJ0 box/NN1 ./PUN",
+K/KD/KDP.xml,KDPRE00T,000513,2,,A,1,3,It's a sauce dispenser  Well madam have you got any comments?,it/PNP be/VBZ a/AT0 sauce/NN1 dispenser/NN1 well/AJ0-AV0 madam/NN1 have/VHB you/PNP get/VVN any/DT0 comment/NN2 ?/PUN,
+K/KD/KDP.xml,KDPRE00T,000513,3,,B,2,1,No (()) .,no/ITJ ./PUN,

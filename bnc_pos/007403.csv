@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE02F,007403,0,,A,1,1,I hurt my shoulder when I was having a shower.,i/PNP hurt/VVB i/DPS shoulder/NN1 when/CJS i/PNP be/VBD have/VHG a/AT0 shower/NN1 ./PUN,
+K/KD/KDE.xml,KDERE02F,007403,1,,B,2,1,Did you?,do/VDD you/PNP ?/PUN,
+K/KD/KDE.xml,KDERE02F,007403,2,,B,2,2,How did you do that?,how/AVQ do/VDD you/PNP do/VDI that/DT0 ?/PUN,
+K/KD/KDE.xml,KDERE02F,007403,3,,A,3,1,I don't know.,i/PNP do/VDB not/XX0 know/VVI ./PUN,
+K/KD/KDE.xml,KDERE02F,007403,4,,A,3,2,I think I must have  twisted round to get the shampoo awkward (()) .,i/PNP think/VVB i/PNP must/VM0 have/VHI twist/VVN round/AVP to/TO0 get/VVI the/AT0 shampoo/NN1 awkward/AJ0 ./PUN,
+K/KD/KDE.xml,KDERE02F,007403,5,,B,4,1,Is the heating on?,be/VBZ the/AT0 heating/NN1 on/PRP-AVP ?/PUN,
+K/KD/KDE.xml,KDERE02F,007403,6,,A,5,1,"No, I haven't put it on.","no/ITJ ,/PUN i/PNP have/VHB not/XX0 put/VVN it/PNP on/AVP ./PUN",
+K/KD/KDE.xml,KDERE02F,007403,7,,A,5,2,You cold?,you/PNP cold/AJ0-NN1 ?/PUN,
+K/KD/KDE.xml,KDERE02F,007403,8,,B,6,1,"No but it's gonna get, it's getting cold now cos the temperatures are really gonna drop tonight.","no/ITJ but/CJC it/PNP be/VBZ gon/VVG na/TO0 get/VVI ,/PUN it/PNP be/VBZ get/VVG cold/AJ0 now/AV0 cos/CJS the/AT0 temperature/NN2 be/VBB really/AV0 gon/VVG na/TO0 drop/VVI tonight/AV0 ./PUN",
+K/KD/KDE.xml,KDERE02F,007403,9,,B,6,2,Dropping down about two or three degrees.,drop/VVG down/AVP about/AV0 two/CRD or/CJC three/CRD degree/NN2 ./PUN,
+K/KD/KDE.xml,KDERE02F,007403,10,,A,7,1,I don't think it's cold at all.,i/PNP do/VDB not/XX0 think/VVI it/PNP be/VBZ cold/AJ0 [at/PRP all/DT0]/AV0 ./PUN,

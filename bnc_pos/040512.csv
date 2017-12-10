@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBL.xml,KBLRE00T,040512,0,,A,1,1,Oh that's Jack's towel.,oh/ITJ that/DT0 be/VBZ jack/NP0 's/POS towel/NN1 ./PUN,
+K/KB/KBL.xml,KBLRE00T,040512,1,,B,2,1,Oh!,oh/ITJ !/PUN,
+K/KB/KBL.xml,KBLRE00T,040512,2,,A,3,1,He takes it out into the  (()) so I put it out,he/PNP take/VVZ it/PNP out/AVP into/PRP the/AT0 so/AV0 i/PNP put/VVB it/PNP out/AVP,
+K/KB/KBL.xml,KBLRE00T,040512,3,,B,4,1,"Mm, yeah.","mm/ITJ ,/PUN yeah/ITJ ./PUN",
+K/KB/KBL.xml,KBLRE00T,040512,4,,A,5,1,so he can't get up onto the  There's a hole in Matt's stuff!,so/AV0 he/PNP can/VM0 not/XX0 get/VVI up/AVP onto/PRP the/AT0 there/EX0 be/VBZ a/AT0 hole/NN1 in/PRP matt/NP0 's/POS stuff/NN1 !/PUN,

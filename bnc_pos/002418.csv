@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03M,002418,0,,A,1,1,<music in background> Do you know if there's a soil in our garden  (()) to come up?,do/VDB you/PNP know/VVI if/CJS there/EX0 be/VBZ a/AT0 soil/NN1 in/PRP we/DPS garden/NN1 to/TO0 come/VVI up/AVP ?/PUN,
+K/KB/KBK.xml,KBKRE03M,002418,1,,B,2,1,No.,no/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE03M,002418,2,,B,2,2,I'm afraid I don't.,i/PNP be/VBB afraid/AJ0 i/PNP do/VDB not/XX0 ./PUN,
+K/KB/KBK.xml,KBKRE03M,002418,3,,A,3,1,Buy a little kit can't you?(()) shops   (()) if it's worth growing  (()) for them.,buy/VVB a/AT0 little/AJ0 kit/NN1 can/VM0 not/XX0 you/PNP ?/PUN shop/NN2 if/CJS it/PNP be/VBZ worth/PRP grow/VVG-AJ0 for/PRP they/PNP ./PUN,
+K/KB/KBK.xml,KBKRE03M,002418,4,,B,4,1,(()) ,,
+K/KB/KBK.xml,KBKRE03M,002418,5,,A,5,1,It means that they (()) .,it/PNP mean/VVZ that/DT0 they/PNP ./PUN,
+K/KB/KBK.xml,KBKRE03M,002418,6,,B,6,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE03M,002418,7,,B,6,2,"Extraordinary colouring, extraordinary, now's the time one ought to be out and about, seeing that sort of thing.","extraordinary/AJ0 colouring/NN1 ,/PUN extraordinary/AJ0 ,/PUN now/AV0 be/VBZ the/AT0 time/NN1 one/PNI-CRD ought/VM0 to/TO0 be/VBI out/AVP and/CJC about/AVP ,/PUN [see/VVG that/CJT]/CJS sort/NN1 of/PRF thing/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE03M,002418,8,,B,6,3,This is,this/DT0 be/VBZ,
+K/KB/KBK.xml,KBKRE03M,002418,9,,A,7,1,Things like Saville Garden.,thing/NN2 like/PRP saville/NP0 garden/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE03M,002418,10,,B,8,1,"this is the season, yes.","this/DT0 be/VBZ the/AT0 season/NN1 ,/PUN yes/ITJ ./PUN",
+K/KB/KBK.xml,KBKRE03M,002418,11,,B,8,2,"Linda loved it at Saville Garden last weekend, weekend before.(()) .","linda/NP0 love/VVD it/PNP at/PRP saville/NP0 garden/NN1 last/ORD weekend/NN1 ,/PUN weekend/NN1 before/AV0 ./PUN ./PUN",

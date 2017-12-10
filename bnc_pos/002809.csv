@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05S,002809,0,,A,1,1,No I didn't.,no/ITJ i/PNP do/VDD not/XX0 ./PUN,
+K/KB/KBK.xml,KBKRE05S,002809,1,,A,1,2,No!,no/ITJ !/PUN,
+K/KB/KBK.xml,KBKRE05S,002809,2,,A,1,3,I was just thinking should,i/PNP be/VBD just/AV0 think/VVG-NN1 should/VM0,
+K/KB/KBK.xml,KBKRE05S,002809,3,,B,2,1,Join up?,join/VVB up/AVP ?/PUN,
+K/KB/KBK.xml,KBKRE05S,002809,4,,A,3,1,Should I be?,should/VM0 i/PNP be/VBI ?/PUN,
+K/KB/KBK.xml,KBKRE05S,002809,5,,B,4,1,"Well I think you should join up because something's put  <<REDACTED (name)>> in the middle but depends  in a game  (()) If I was playing against a level player you might just have a very hard crack together, but just to join up gently in the middle.","well/AV0 i/PNP think/VVB you/PNP should/VM0 join/VVI up/AVP because/CJS something/PNI have/VHZ put/VVN in/PRP the/AT0 middle/NN1-AJ0 but/CJC depend/VVZ in/PRP a/AT0 game/NN1 if/CJS i/PNP be/VBD play/VVG against/PRP a/AT0 level/AJ0-NN1 player/NN1 you/PNP might/VM0 just/AV0 have/VHI a/AT0 very/AV0 hard/AJ0 crack/NN1-VVB together/AV0 ,/PUN but/CJC just/AV0 to/TO0 join/VVI up/AVP gently/AV0 in/PRP the/AT0 middle/NN1-AJ0 ./PUN",
+K/KB/KBK.xml,KBKRE05S,002809,6,,A,5,1,Right right fine.,right/AV0 right/AV0 fine/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE05S,002809,7,,B,6,1,"If you miss <<REDACTED (name)>> , you're still playing (())","if/CJS you/PNP miss/VVB ,/PUN you/PNP be/VBB still/AV0 play/VVG",
+K/KB/KBK.xml,KBKRE05S,002809,8,,A,7,1,Yes,yes/ITJ,

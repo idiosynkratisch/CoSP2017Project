@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBS.xml,KBSRE008,054903,0,,A,1,1,Is that on or off?,,
+K/KB/KBS.xml,KBSRE008,054903,1,,B,2,1,On.,,
+K/KB/KBS.xml,KBSRE008,054903,2,,A,3,1,Oh.,,
+K/KB/KBS.xml,KBSRE008,054903,3,,B,4,1,Got to find something for it.,,
+K/KB/KBS.xml,KBSRE008,054903,4,,A,5,1,<laugh> ,,
+K/KB/KBS.xml,KBSRE008,054903,5,,B,6,1,Now look you should be pleased about that!,,
+K/KB/KBS.xml,KBSRE008,054903,6,,A,7,1,"Yes I am, I'll go and stick them in in a minute.",,
+K/KB/KBS.xml,KBSRE008,054903,7,,B,8,1,"Look at that, I tell you  that's cos I   (()) <laugh>",,
+K/KB/KBS.xml,KBSRE008,054903,8,,A,9,1,<sigh> There's still a nice fresh smell of (()),,
+K/KB/KBS.xml,KBSRE008,054903,9,,B,10,1,(()) ,,
+K/KB/KBS.xml,KBSRE008,054903,10,,A,11,1,<laugh> ,,
+K/KB/KBS.xml,KBSRE008,054903,11,,B,12,1,There's a lot of rain  (()),,

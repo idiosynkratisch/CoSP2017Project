@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE02H,039104,0,,A,1,1,(()) the bank?,the/AT0 bank/NN1 ?/PUN,
+K/KE/KE2.xml,KE2RE02H,039104,1,,B,2,1,I don't want to go to the bank but what I want to do is to go to erm,i/PNP do/VDB not/XX0 want/VVI to/TO0 go/VVI to/PRP the/AT0 bank/NN1 but/CJC what/DTQ i/PNP want/VVB to/TO0 do/VDI be/VBZ to/TO0 go/VVI to/PRP erm/UNC,
+K/KE/KE2.xml,KE2RE02H,039104,2,,A,3,1,Oh Tony's?,oh/ITJ tony/NP0 's/POS ?/PUN,
+K/KE/KE2.xml,KE2RE02H,039104,3,,B,4,1,Tony's.,tony/NP0 's/POS ./PUN,
+K/KE/KE2.xml,KE2RE02H,039104,4,,A,5,1,Yes  (()),yes/ITJ,
+K/KE/KE2.xml,KE2RE02H,039104,5,,B,6,1,"Erm  yes I, I've got to go back with  the money to","erm/UNC yes/ITJ i/PNP ,/PUN i/PNP have/VHB get/VVN to/TO0 go/VVI back/AVP with/PRP the/AT0 money/NN1 to/PRP",
+K/KE/KE2.xml,KE2RE02H,039104,6,,A,7,1,"You've got to bring  (()) money first, yes.","you/PNP have/VHB get/VVN to/TO0 bring/VVI money/NN1 first/ORD ,/PUN yes/ITJ ./PUN",
+K/KE/KE2.xml,KE2RE02H,039104,7,,B,8,1,So if you want to go anywhere  I will  I'll see you back at the car shall I?,so/AV0 if/CJS you/PNP want/VVB to/TO0 go/VVI anywhere/AV0 i/PNP will/VM0 i/PNP will/VM0 see/VVI you/PNP back/AVP at/PRP the/AT0 car/NN1 shall/VM0 i/PNP ?/PUN,

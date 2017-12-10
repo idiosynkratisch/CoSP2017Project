@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB7.xml,KB7RE017,018908,0,,A,1,1,That smells  mm mm.,that/DT0 smell/VVZ mm/ITJ mm/ITJ ./PUN,
+K/KB/KB7.xml,KB7RE017,018908,1,,B,2,1,(()) ,,
+K/KB/KB7.xml,KB7RE017,018908,2,,A,3,1,Mm mm!,mm/ITJ mm/ITJ !/PUN,
+K/KB/KB7.xml,KB7RE017,018908,3,,A,3,2,Well that's gonna be alright  I don't understand  why every time (()),well/AV0 that/DT0 be/VBZ gon/VVG na/TO0 be/VBI alright/AJ0 i/PNP do/VDB not/XX0 understand/VVI why/AVQ every/AT0 time/NN1,
+K/KB/KB7.xml,KB7RE017,018908,4,,B,4,1,You,you/PNP,
+K/KB/KB7.xml,KB7RE017,018908,5,,A,5,1,"Give it another ten minutes, make sure the top  the bacon","give/VVB it/PNP another/DT0 ten/CRD minute/NN2 ,/PUN make/VVB sure/AJ0 the/AT0 top/NN1 the/AT0 bacon/NN1",
+K/KB/KB7.xml,KB7RE017,018908,6,,B,6,1,Yeah.,yeah/ITJ ./PUN,
+K/KB/KB7.xml,KB7RE017,018908,7,,A,7,1,Nice.,nice/AJ0 ./PUN,
+K/KB/KB7.xml,KB7RE017,018908,8,,B,8,1,I've gotta nip upstairs.,i/PNP have/VHB get/VVN ta/TO0 nip/VVI upstairs/AV0 ./PUN,
+K/KB/KB7.xml,KB7RE017,018908,9,,A,9,1,Er  yes.<laugh>,er/UNC yes/ITJ ./PUN,
+K/KB/KB7.xml,KB7RE017,018908,10,,B,10,1,Cos I  wouldn't know  I've done enough   (()) okay?,cos/CJS i/PNP would/VM0 not/XX0 know/VVI i/PNP have/VHB do/VDN enough/AV0 okay/AV0-AJ0 ?/PUN,
+K/KB/KB7.xml,KB7RE017,018908,11,,A,11,1,Yep  that's fine.,yep/ITJ that/DT0 be/VBZ fine/AJ0 ./PUN,

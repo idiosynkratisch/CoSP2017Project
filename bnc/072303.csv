@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBM.xml,KBMRE002,072303,0,,A,1,1,What doesn't taste,,
+K/KB/KBM.xml,KBMRE002,072303,1,,B,2,1,Chips,,
+K/KB/KBM.xml,KBMRE002,072303,2,,A,3,1,nice?,,
+K/KB/KBM.xml,KBMRE002,072303,3,,B,4,1,No.,,
+K/KB/KBM.xml,KBMRE002,072303,4,,B,4,2,Chips when they're overdone.,,
+K/KB/KBM.xml,KBMRE002,072303,5,,B,4,3,Brown.,,
+K/KB/KBM.xml,KBMRE002,072303,6,,B,4,4,Too brown.,,
+K/KB/KBM.xml,KBMRE002,072303,7,,A,5,1,Yeah I know.,,
+K/KB/KBM.xml,KBMRE002,072303,8,,A,5,2,So?,,

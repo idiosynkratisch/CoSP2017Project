@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE02B,005203,0,,A,1,1,I said the putty knife.,i/PNP say/VVD the/AT0 putty/NN1 knife/NN1 ./PUN,
+K/KC/KCD.xml,KCDRE02B,005203,1,,B,2,1,What's the putty knife?,what/DTQ be/VBZ the/AT0 putty/NN1 knife/NN1 ?/PUN,
+K/KC/KCD.xml,KCDRE02B,005203,2,,A,3,1,(()) flat (()) .,flat/AJ0-NN1 ./PUN,
+K/KC/KCD.xml,KCDRE02B,005203,3,,B,4,1,"What, that one?","what/DTQ ,/PUN that/DT0 one/PNI ?/PUN",
+K/KC/KCD.xml,KCDRE02B,005203,4,,A,5,1,(()) .,./PUN,
+K/KC/KCD.xml,KCDRE02B,005203,5,,B,6,1,"Well I don't know, I don't know where your putty knife is.","well/AV0 i/PNP do/VDB not/XX0 know/VVI ,/PUN i/PNP do/VDB not/XX0 know/VVI where/AVQ you/DPS putty/NN1 knife/NN1 be/VBZ ./PUN",
+K/KC/KCD.xml,KCDRE02B,005203,6,,A,7,1,It's (()) .,it/PNP be/VBZ ./PUN,
+K/KC/KCD.xml,KCDRE02B,005203,7,,B,8,1,It's the what?,it/PNP be/VBZ the/AT0 what/DTQ ?/PUN,
+K/KC/KCD.xml,KCDRE02B,005203,8,,A,9,1,Have too guess.,have/VHB too/AV0 guess/VVB ./PUN,
+K/KC/KCD.xml,KCDRE02B,005203,9,,B,10,1,"Well I don't know, they all look the same to me.","well/AV0 i/PNP do/VDB not/XX0 know/VVI ,/PUN they/PNP all/DT0 look/VVB the/AT0 same/DT0 to/PRP i/PNP ./PUN",

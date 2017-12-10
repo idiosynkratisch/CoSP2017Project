@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE06E,002915,0,,A,1,1,No no don't push any more on me!,no/ITJ no/ITJ do/VDB not/XX0 push/VVI any/DT0 more/DT0 on/PRP i/PNP !/PUN,
+K/KB/KBK.xml,KBKRE06E,002915,1,,B,2,1,Sorry.,sorry/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,2,,A,3,1,Thank you.,thank/VVB you/PNP ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,3,,B,4,1,Hang on hang on.,hang/VVB on/AVP hang/VVB on/AVP ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,4,,A,5,1,It's alright.,it/PNP be/VBZ alright/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,5,,A,5,2,Move it up to the edge of your tray.,move/VVB it/PNP [up/AVP to/PRP]/PRP the/AT0 edge/NN1 of/PRF you/DPS tray/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,6,,B,6,1,Oh bad luck.,oh/ITJ bad/AJ0 luck/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,7,,A,7,1,Do you want some more chicken?,do/VDB you/PNP want/VVI some/DT0 more/DT0 chicken/NN1 ?/PUN,
+K/KB/KBK.xml,KBKRE06E,002915,8,,B,8,1,Thank you.,thank/VVB you/PNP ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,9,,B,8,2,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE06E,002915,10,,A,9,1,(()) ,,
+K/KB/KBK.xml,KBKRE06E,002915,11,,B,10,1,I was holding it in such an awkward way that fingers eventually protested.,i/PNP be/VBD hold/VVG it/PNP in/PRP such/DT0 an/AT0 awkward/AJ0 way/NN1 that/CJT finger/NN2 eventually/AV0 protest/VVN ./PUN,

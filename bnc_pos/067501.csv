@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE4.xml,KE4RE00D,067501,0,,A,1,1,"In that, in  in that  in  you know","in/PRP that/DT0 ,/PUN in/PRP in/PRP that/DT0 in/PRP-AVP you/PNP know/VVB",
+K/KE/KE4.xml,KE4RE00D,067501,1,,B,2,1,Favourite T V programme  (()) Neighbours.,favourite/AJ0-NN1 t/ZZ0 v/ZZ0 programme/NN1 neighbour/NN2 ./PUN,
+K/KE/KE4.xml,KE4RE00D,067501,2,,A,3,1,But look.,but/CJC look/VVB-NN1 ./PUN,
+K/KE/KE4.xml,KE4RE00D,067501,3,,A,3,2,"Look here and it  and it  come here, over there my favourite one at the minute innit?","look/VVB here/AV0 and/CJC it/PNP and/CJC it/PNP come/VVB here/AV0 ,/PUN [over/PRP there/AV0]/AV0 i/DPS favourite/AJ0 one/PNI at/PRP the/AT0 minute/NN1 in/VBZ n/XX0 it/PNP ?/PUN",
+K/KE/KE4.xml,KE4RE00D,067501,4,,B,4,1,Mhm.,mhm/ITJ ./PUN,
+K/KE/KE4.xml,KE4RE00D,067501,5,,A,5,1,"(()) Yeah, I'll put Neighbours.","yeah/ITJ ,/PUN i/PNP will/VM0 put/VVI neighbour/NN2 ./PUN",
+K/KE/KE4.xml,KE4RE00D,067501,6,,A,5,2,Ha!,ha/ITJ !/PUN,
+K/KE/KE4.xml,KE4RE00D,067501,7,,B,6,1,Oh well.,oh/ITJ well/AV0 ./PUN,
+K/KE/KE4.xml,KE4RE00D,067501,8,,A,7,1,This is (()) .,this/DT0 be/VBZ ./PUN,
+K/KE/KE4.xml,KE4RE00D,067501,9,,A,7,2,The other ones are horrible.,the/AT0 other/AJ0 one/NN2 be/VBB horrible/AJ0 ./PUN,
+K/KE/KE4.xml,KE4RE00D,067501,10,,A,7,3,<singing> Doo da doo doo doo </singing> .,doo/UNC da/UNC doo/UNC doo/UNC doo/UNC ./PUN,

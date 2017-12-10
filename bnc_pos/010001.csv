@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBA.xml,KBARE00B,010001,0,,A,1,1,What was the date Friday?,what/DTQ be/VBD the/AT0 date/NN1 friday/NP0 ?/PUN,
+K/KB/KBA.xml,KBARE00B,010001,1,,B,2,1,Twenty fourth today.,twenty/CRD fourth/ORD today/AV0 ./PUN,
+K/KB/KBA.xml,KBARE00B,010001,2,,A,3,1,"That's Wednesday  twenty four, twenty three, two, one, twenty, Tuesday the seventeenth  Thursday  I've got it on there, look.","that/DT0 be/VBZ wednesday/NP0 twenty/CRD four/CRD ,/PUN twenty/CRD three/CRD ,/PUN two/CRD ,/PUN one/CRD ,/PUN twenty/CRD ,/PUN tuesday/NP0 the/AT0 seventeenth/ORD thursday/NP0 i/PNP have/VHB get/VVN it/PNP on/AVP-PRP there/AV0 ,/PUN look/VVB ./PUN",
+K/KB/KBA.xml,KBARE00B,010001,3,,B,4,1,What?,what/DTQ ?/PUN,
+K/KB/KBA.xml,KBARE00B,010001,4,,A,5,1,Mm  What time?,mm/ITJ what/DTQ time/NN1 ?/PUN,
+K/KB/KBA.xml,KBARE00B,010001,5,,B,6,1,(()) ,,
+K/KB/KBA.xml,KBARE00B,010001,6,,A,7,1,Oh  four o'clock on there.,oh/ITJ four/CRD o'clock/AV0 on/PRP there/AV0 ./PUN,
+K/KB/KBA.xml,KBARE00B,010001,7,,B,8,1,Mm.,mm/ITJ ./PUN,

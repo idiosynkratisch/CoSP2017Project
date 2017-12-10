@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE3.xml,KE3RE03X,011116,0,,A,1,1,There's less in the jars than in the tins or although the,there/EX0 be/VBZ less/DT0 in/PRP the/AT0 jar/NN2 than/CJS in/PRP the/AT0 tin/NN2 or/CJC although/CJS the/AT0,
+K/KE/KE3.xml,KE3RE03X,011116,1,,B,2,1,Yeah,yeah/ITJ,
+K/KE/KE3.xml,KE3RE03X,011116,2,,A,3,1,tins look look smaller.,tin/NN2 look/VVB look/VVB small/AJC ./PUN,
+K/KE/KE3.xml,KE3RE03X,011116,3,,B,4,1,Yeah  yeah  that's a cold,yeah/ITJ yeah/ITJ that/DT0 be/VBZ a/AT0 cold/AJ0-NN1,
+K/KE/KE3.xml,KE3RE03X,011116,4,,A,5,1,Yeah.,yeah/ITJ ./PUN,
+K/KE/KE3.xml,KE3RE03X,011116,5,,B,6,1,Frosty you li- you like these chips don't you and there's more in it so  that's a mild one.,frosty/AJ0 you/PNP li/UNC you/PNP like/VVB these/DT0 chip/NN2 do/VDB not/XX0 you/PNP and/CJC there/EX0 be/VBZ more/DT0 in/PRP it/PNP so/AV0 that/DT0 be/VBZ a/AT0 mild/AJ0 one/PNI ./PUN,
+K/KE/KE3.xml,KE3RE03X,011116,6,,A,7,1,If that's alright?,if/CJS that/DT0 be/VBZ alright/AJ0 ?/PUN,
+K/KE/KE3.xml,KE3RE03X,011116,7,,B,8,1,Yeah it is  they're with,yeah/ITJ it/PNP be/VBZ they/PNP be/VBB with/PRP,
+K/KE/KE3.xml,KE3RE03X,011116,8,,A,9,1,Mm,mm/ITJ,
+K/KE/KE3.xml,KE3RE03X,011116,9,,B,10,1,the other ones.,the/AT0 other/AJ0 one/NN2 ./PUN,
+K/KE/KE3.xml,KE3RE03X,011116,10,,A,11,1,That's the other one.,that/DT0 be/VBZ the/AT0 other/AJ0 one/PNI ./PUN,
+K/KE/KE3.xml,KE3RE03X,011116,11,,B,12,1,Yeah.,yeah/ITJ ./PUN,

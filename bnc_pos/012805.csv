@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02A,012805,0,,A,1,1,"What tape number is it, in there now Mark?","what/DTQ tape/NN1 number/NN1 be/VBZ it/PNP ,/PUN in/PRP there/AV0 now/AV0 mark/NP0 ?/PUN",
+K/KD/KDA.xml,KDARE02A,012805,1,,B,2,1,"Er  thirteen I think, thirteen.","er/UNC thirteen/CRD i/PNP think/VVB ,/PUN thirteen/CRD ./PUN",
+K/KD/KDA.xml,KDARE02A,012805,2,,A,3,1,Fourteen.,fourteen/CRD ./PUN,
+K/KD/KDA.xml,KDARE02A,012805,3,,B,4,1,Fourteen.,fourteen/CRD ./PUN,

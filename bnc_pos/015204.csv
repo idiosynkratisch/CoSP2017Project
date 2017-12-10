@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBF.xml,KBFRE00Y,015204,0,,A,1,1,Jolly interesting!,jolly/AV0 interesting/AJ0 !/PUN,
+K/KB/KBF.xml,KBFRE00Y,015204,1,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KB/KBF.xml,KBFRE00Y,015204,2,,A,3,1,(()) ,,
+K/KB/KBF.xml,KBFRE00Y,015204,3,,B,4,1,"Just gotta fill in  fill in this  today's the   (()) ooh that one there, I'll let you just have a look at the Debs book  and that Marks and Sparks.","just/AV0 get/VVD ta/TO0 fill/VVI in/AVP fill/VVI in/AVP this/DT0 today/AV0 be/VBZ the/AT0 ooh/ITJ that/DT0 one/PNI there/AV0 ,/PUN i/PNP will/VM0 let/VVI you/PNP just/AV0 have/VHB a/AT0 look/NN1 at/PRP the/AT0 debs/NP0 book/NN1 and/CJC that/DT0 marks/NP0 and/CJC sparks/NP0 ./PUN",
+K/KB/KBF.xml,KBFRE00Y,015204,4,,A,5,1,Mm.,mm/ITJ ./PUN,
+K/KB/KBF.xml,KBFRE00Y,015204,5,,B,6,1,But these are W H Smith's a- Woolworth's.,but/CJC these/DT0 be/VBB w/ZZ0 h/ZZ0 smith/NP0 's/POS a/UNC woolworth/NP0 's/POS ./PUN,
+K/KB/KBF.xml,KBFRE00Y,015204,6,,A,7,1,Aha.,aha/ITJ ./PUN,
+K/KB/KBF.xml,KBFRE00Y,015204,7,,B,8,1,"Oh that what I was gonna show you  that's Peter  he bought it and didn't want it, you look at this month's Prima  for Christmas.","oh/ITJ that/DT0 what/DTQ i/PNP be/VBD gon/VVG na/TO0 show/VVI you/PNP that/DT0-CJT be/VBZ peter/NP0 he/PNP buy/VVD it/PNP and/CJC do/VDD not/XX0 want/VVI it/PNP ,/PUN you/PNP look/VVB at/PRP this/DT0 month/NN1 's/POS prima/NN1-NP0 for/PRP christmas/NN1 ./PUN",
+K/KB/KBF.xml,KBFRE00Y,015204,8,,A,9,1,Ooh tough!,ooh/ITJ tough/AJ0 !/PUN,

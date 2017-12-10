@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE017,002207,0,,A,1,1,"I, Susan's thinking of","i/PNP ,/PUN susan/NP0 's/POS thinking/NN1 of/PRF",
+K/KB/KBK.xml,KBKRE017,002207,1,,B,2,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE017,002207,2,,A,3,1,(()) ,,
+K/KB/KBK.xml,KBKRE017,002207,3,,B,4,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE017,002207,4,,B,4,2,I think Joyce has got one up.,i/PNP think/VVB joyce/NP0 have/VHZ get/VVN one/PNI-CRD up/AVP ./PUN,
+K/KB/KBK.xml,KBKRE017,002207,5,,A,5,1,She's got what?,she/PNP have/VHZ get/VVN what/DTQ ?/PUN,
+K/KB/KBK.xml,KBKRE017,002207,6,,B,6,1,"Planning application, notice, for her first floor extension over the garage.","planning/NN1-VVG application/NN1 ,/PUN notice/VVB-NN1 ,/PUN for/PRP she/PNP first/ORD floor/NN1 extension/NN1 over/PRP the/AT0 garage/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE017,002207,7,,B,6,2,That wall,that/DT0 wall/NN1,
+K/KB/KBK.xml,KBKRE017,002207,8,,A,7,1,(()) downstairs.,downstairs/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE017,002207,9,,B,8,1,over their downstairs loo (()) .,over/PRP they/DPS downstairs/AJ0 loo/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE017,002207,10,,A,9,1,Oh .,oh/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE017,002207,11,,B,10,1,More for you?,more/DT0 for/PRP you/PNP ?/PUN,

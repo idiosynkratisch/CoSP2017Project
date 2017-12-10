@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02Y,002330,0,,A,1,1,I'm gonna ask Suzanna how Sarah's getting on tonight (()) .(()),i/PNP be/VBB gon/VVG na/TO0 ask/VVI suzanna/NP0 how/AVQ sarah/NP0 be/VBZ get/VVG on/AVP-PRP tonight/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE02Y,002330,1,,B,2,1,(()) the same time.,the/AT0 same/DT0 time/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE02Y,002330,2,,A,3,1,(()) ,,
+K/KB/KBK.xml,KBKRE02Y,002330,3,,B,4,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE02Y,002330,4,,A,5,1,Not (()) .,not/XX0 ./PUN,
+K/KB/KBK.xml,KBKRE02Y,002330,5,,B,6,1,Whoops (()) .,whoops/ITJ ./PUN,

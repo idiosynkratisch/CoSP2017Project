@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KN/KNV.xml,KNVRE001,137801,0,,A,1,1,I get pretty unavailable its a  really good time for you to get in an argument with me.,i/PNP get/VVB pretty/AV0 unavailable/AJ0 it/DPS a/AT0 really/AV0 good/AJ0 time/NN1 for/PRP you/PNP to/TO0 get/VVI in/PRP an/AT0 argument/NN1 with/PRP i/PNP ./PUN,
+K/KN/KNV.xml,KNVRE001,137801,1,,B,2,1,Mm?,mm/ITJ ?/PUN,
+K/KN/KNV.xml,KNVRE001,137801,2,,A,3,1,I'm doing my homework while I'm  erm  whilst I'm doing my homework which I'm getting pretty frustrated about.,i/PNP be/VBB do/VDG i/DPS homework/NN1 while/CJS i/PNP be/VBB erm/UNC whilst/CJS i/PNP be/VBB do/VDG i/DPS homework/NN1 which/DTQ i/PNP be/VBB get/VVG pretty/AV0 frustrated/AJ0-VVN about/PRP-AVP ./PUN,
+K/KN/KNV.xml,KNVRE001,137801,3,,A,3,2,<sigh> I'm going to bed now erm it's ten past ten  (()),i/PNP be/VBB go/VVG to/PRP bed/NN1 now/AV0 erm/UNC it/PNP be/VBZ ten/CRD past/PRP ten/CRD,
+K/KN/KNV.xml,KNVRE001,137801,4,,B,4,1,,,
+K/KN/KNV.xml,KNVRE001,137801,5,,B,4,2,(()) ,,
+K/KN/KNV.xml,KNVRE001,137801,6,,B,4,3,,,
+K/KN/KNV.xml,KNVRE001,137801,7,,A,5,1,Yes Mum.,yes/ITJ mum/NN1 ./PUN,
+K/KN/KNV.xml,KNVRE001,137801,8,,B,6,1,<shouting> ,,
+K/KN/KNV.xml,KNVRE001,137801,9,,B,6,2,(()) ,,

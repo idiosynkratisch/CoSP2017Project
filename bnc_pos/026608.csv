@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBP.xml,KBPRE00B,026608,0,,A,1,1,Right.,right/AV0 ./PUN,
+K/KB/KBP.xml,KBPRE00B,026608,1,,B,2,1,(()) ,,
+K/KB/KBP.xml,KBPRE00B,026608,2,,B,2,2,,,
+K/KB/KBP.xml,KBPRE00B,026608,3,,A,3,1,Can I borrow your writing device?,can/VM0 i/PNP borrow/VVI you/DPS writing/NN1 device/NN1 ?/PUN,
+K/KB/KBP.xml,KBPRE00B,026608,4,,A,3,2,"Lovely, thank you.","lovely/AJ0 ,/PUN thank/VVB you/PNP ./PUN",
+K/KB/KBP.xml,KBPRE00B,026608,5,,B,4,1,Twenty one twenty three please.,twenty/CRD one/CRD twenty/CRD three/CRD please/AV0 ./PUN,
+K/KB/KBP.xml,KBPRE00B,026608,6,,A,5,1,"Right, thank you.","right/AV0 ,/PUN thank/VVB you/PNP ./PUN",

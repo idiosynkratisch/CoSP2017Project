@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCH.xml,KCHRE00J,076406,0,,A,1,1,This is Thunderbird Four David.,,
+K/KC/KCH.xml,KCHRE00J,076406,1,,B,2,1,Yeah.,,
+K/KC/KCH.xml,KCHRE00J,076406,2,,A,3,1,"Right, come on.",,
+K/KC/KCH.xml,KCHRE00J,076406,3,,A,3,2,Let's go!,,

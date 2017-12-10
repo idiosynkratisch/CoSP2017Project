@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE069,002910,0,,A,1,1,What's inside that?,,
+K/KB/KBK.xml,KBKRE069,002910,1,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE069,002910,2,,A,3,1,Little dumplings.,,
+K/KB/KBK.xml,KBKRE069,002910,3,,B,4,1,Little dumplings such as you've never come across other than in a Chinese Restaurant.,,

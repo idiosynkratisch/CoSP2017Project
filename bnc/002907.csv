@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE066,002907,0,,A,1,1,I see this restaurant allows smoking.,,
+K/KB/KBK.xml,KBKRE066,002907,1,,B,2,1,What sorry?,,
+K/KB/KBK.xml,KBKRE066,002907,2,,A,3,1,This restaurant allows smoking.,,
+K/KB/KBK.xml,KBKRE066,002907,3,,B,4,1,Restaurants local restaurants can't afford not to dear.,,
+K/KB/KBK.xml,KBKRE066,002907,4,,B,4,2,I think if you're talking about a very exclusive one up in town they might well say no smoking.,,
+K/KB/KBK.xml,KBKRE066,002907,5,,A,5,1,(()) ,,
+K/KB/KBK.xml,KBKRE066,002907,6,,B,6,1,Oh we have to share a finger bowl.,,
+K/KB/KBK.xml,KBKRE066,002907,7,,A,7,1,(()) ,,
+K/KB/KBK.xml,KBKRE066,002907,8,,B,8,1,(()) isn't it?,,
+K/KB/KBK.xml,KBKRE066,002907,9,,A,9,1,(()) ,,

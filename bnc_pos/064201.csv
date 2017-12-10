@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBD.xml,KBDRE00C,064201,0,,A,1,1,Was Alistair ringing you yesterday?,be/VBD alistair/NP0 ring/VVG-NN1 you/PNP yesterday/AV0 ?/PUN,
+K/KB/KBD.xml,KBDRE00C,064201,1,,B,2,1,Me?,i/PNP ?/PUN,
+K/KB/KBD.xml,KBDRE00C,064201,2,,B,2,2,Well he rang Peter.,well/AV0 he/PNP ring/VVD peter/NP0 ./PUN,
+K/KB/KBD.xml,KBDRE00C,064201,3,,B,2,3,Oh God!,oh/ITJ god/NP0 !/PUN,
+K/KB/KBD.xml,KBDRE00C,064201,4,,B,2,4,Well he must have been trying (()) .,well/AV0 he/PNP must/VM0 have/VHI be/VBN try/VVG ./PUN,
+K/KB/KBD.xml,KBDRE00C,064201,5,,B,2,5,"(()) and they told me  it was (()) , very, very urgent!","and/CJC they/PNP tell/VVD i/PNP it/PNP be/VBD ,/PUN very/AV0 ,/PUN very/AV0 urgent/AJ0 !/PUN",
+K/KB/KBD.xml,KBDRE00C,064201,6,,B,2,6,"So I said, oh!","so/AV0 i/PNP say/VVD ,/PUN oh/ITJ !/PUN",
+K/KB/KBD.xml,KBDRE00C,064201,7,,B,2,7,"Well, come and speak to him.","well/AV0 ,/PUN come/VVB and/CJC speak/VVB to/PRP he/PNP ./PUN",
+K/KB/KBD.xml,KBDRE00C,064201,8,,B,2,8,"But, so  I went, and he said oh!","but/CJC ,/PUN so/AV0 i/PNP go/VVD ,/PUN and/CJC he/PNP say/VVD oh/ITJ !/PUN",
+K/KB/KBD.xml,KBDRE00C,064201,9,,B,2,9,Barry's dad's been on the phone he wants to you to urgently book a bus  so he co-,barry/NP0 's/POS dad/NN1 have/VHZ be/VBN on/PRP the/AT0 phone/NN1 he/PNP want/VVZ to/TO0 you/PNP to/TO0 urgently/AV0 book/VVI a/AT0 bus/NN1 so/CJS he/PNP co/UNC,

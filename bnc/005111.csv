@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE025,005111,0,,A,1,1,"Hello my pet, I don't like to see you like this.",,
+K/KC/KCD.xml,KCDRE025,005111,1,,A,1,2,I say it's a good job we're not going to Joseph's tonight.,,
+K/KC/KCD.xml,KCDRE025,005111,2,,B,2,1,Mhm.(()) .,,
+K/KC/KCD.xml,KCDRE025,005111,3,,A,3,1,"Mm  I think you're a bit, think you're a bit hot, that's probably what's wakening you up (()) .",,
+K/KC/KCD.xml,KCDRE025,005111,4,,B,4,1,Mm.,,
+K/KC/KCD.xml,KCDRE025,005111,5,,A,5,1,"I think you've got a slight temperature, not a lot, but, just a little bit, do you think you can manage a drink of orange?",,
+K/KC/KCD.xml,KCDRE025,005111,6,,A,5,2,"Well you ought to drink something, it'll bring your temperature down and it'll help make you feel better.",,
+K/KC/KCD.xml,KCDRE025,005111,7,,A,5,3,The only thing is to drink.,,
+K/KC/KCD.xml,KCDRE025,005111,8,,B,6,1,Can I a little bit of orange?,,

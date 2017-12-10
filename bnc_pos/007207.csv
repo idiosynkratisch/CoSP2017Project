@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE01X,007207,0,,A,1,1,And she's bringing Alia and Adem to play with you  We're just going to Beckenham because we have to go to a shop there.,and/CJC she/PNP be/VBZ bring/VVG alia/NP0 and/CJC adem/NP0 to/TO0 play/VVI with/PRP you/PNP we/PNP be/VBB just/AV0 go/VVG to/PRP beckenham/NP0 because/CJS we/PNP have/VHB to/TO0 go/VVI to/PRP a/AT0 shop/NN1 there/AV0 ./PUN,
+K/KD/KDE.xml,KDERE01X,007207,1,,B,2,1,What shop?,what/DTQ shop/NN1 ?/PUN,
+K/KD/KDE.xml,KDERE01X,007207,2,,A,3,1,A clothes shop.,a/ZZ0 clothes/NN2 shop/NN1-VVB ./PUN,
+K/KD/KDE.xml,KDERE01X,007207,3,,A,3,2,and we need to go to the bank too.,and/CJC we/PNP need/VVB to/TO0 go/VVI to/PRP the/AT0 bank/NN1 too/AV0 ./PUN,

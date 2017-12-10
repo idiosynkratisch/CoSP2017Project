@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03R,002421,0,,A,1,1,Go and live there.,go/VVB and/CJC live/VVB there/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE03R,002421,1,,B,2,1,Don't seem to have any homes.,do/VDB not/XX0 seem/VVI to/TO0 have/VHI any/DT0 home/NN2 ./PUN,
+K/KB/KBK.xml,KBKRE03R,002421,2,,A,3,1,They're doing away from their homes.,they/PNP be/VBB do/VDG [away/AV0 from/PRP]/PRP they/DPS home/NN2 ./PUN,
+K/KB/KBK.xml,KBKRE03R,002421,3,,B,4,1,You're driven away by the army.,you/PNP be/VBB drive/VVN-AJ0 away/AV0 by/PRP the/AT0 army/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE03R,002421,4,,A,5,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE03R,002421,5,,B,6,1,"Famine, the Army, I mean lack of rain and all that sort of thing.","famine/NN1 ,/PUN the/AT0 army/NN1 ,/PUN i/PNP mean/VVB lack/NN1 of/PRF rain/NN1 and/CJC all/DT0 that/DT0 sort/NN1 of/PRF thing/NN1 ./PUN",

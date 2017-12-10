@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE02D,005205,0,,A,1,1,(()) have we got the  we haven't got the thing to draw a straight line have we?,have/VHB we/PNP get/VVN the/AT0 we/PNP have/VHB not/XX0 get/VVN the/AT0 thing/NN1 to/TO0 draw/VVI a/AT0 straight/AJ0 line/NN1 have/VHB we/PNP ?/PUN,
+K/KC/KCD.xml,KCDRE02D,005205,1,,A,1,2,Is that.,be/VBZ that/DT0 ./PUN,
+K/KC/KCD.xml,KCDRE02D,005205,2,,B,2,1,"That's in the, that's in the box in the corner.","that/DT0 be/VBZ in/PRP the/AT0 ,/PUN that/DT0 be/VBZ in/PRP the/AT0 box/NN1 in/PRP the/AT0 corner/NN1 ./PUN",
+K/KC/KCD.xml,KCDRE02D,005205,3,,A,3,1,What in that bluey  what the box  a box or uhum in your little cupboard.,what/DTQ in/PRP that/DT0 bluey/AJ0 what/DTQ the/AT0 box/NN1 a/AT0 box/NN1 or/CJC uhum/NN1 in/PRP you/DPS little/AJ0 cupboard/NN1 ./PUN,
+K/KC/KCD.xml,KCDRE02D,005205,4,,B,4,1,Hm in the kitchen cupboard.,hm/ITJ in/PRP the/AT0 kitchen/NN1 cupboard/NN1 ./PUN,
+K/KC/KCD.xml,KCDRE02D,005205,5,,A,5,1,Yeah.,yeah/ITJ ./PUN,

@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE04H,002616,0,,A,1,1,"In the States they have particularly small apertures to the petrol tanks for unleaded, do they here?","in/PRP the/AT0 states/NP0 they/PNP have/VHB particularly/AV0 small/AJ0 aperture/NN2 to/PRP the/AT0 petrol/NN1 tank/NN2 for/PRP unleaded/AJ0 ,/PUN do/VDB they/PNP here/AV0 ?/PUN",
+K/KB/KBK.xml,KBKRE04H,002616,1,,B,2,1,"Mm, Yes , yes, the  (()) different size.","mm/ITJ ,/PUN yes/ITJ ,/PUN yes/ITJ ,/PUN the/AT0 different/AJ0 size/NN1 ./PUN",
+K/KB/KBK.xml,KBKRE04H,002616,2,,A,3,1,"Are right, yes.","be/VBB right/AJ0 ,/PUN yes/ITJ ./PUN",
+K/KB/KBK.xml,KBKRE04H,002616,3,,B,4,1,"I don't know, a car like this you could pick either of them.","i/PNP do/VDB not/XX0 know/VVI ,/PUN a/AT0 car/NN1 like/PRP this/DT0 you/PNP could/VM0 pick/VVI either/DT0 of/PRF they/PNP ./PUN",
+K/KB/KBK.xml,KBKRE04H,002616,4,,A,5,1,Sure.,sure/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE04H,002616,5,,B,6,1,"(()) , cheaper, where the one gets quite (()) .",",/PUN cheap/AJC ,/PUN where/AVQ the/AT0 one/PNI get/VVZ quite/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE04H,002616,6,,A,7,1,"No, no, quite performance is not what counts is it?","no/ITJ ,/PUN no/ITJ ,/PUN quite/AV0 performance/NN1 be/VBZ not/XX0 what/DTQ count/VVZ be/VBZ it/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE04H,002616,7,,B,8,1,No.,no/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE04H,002616,8,,A,9,1,(()) ,,

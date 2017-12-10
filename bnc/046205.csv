@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE02F,046205,0,,A,1,1,"Good dog Patch, good dog.",,
+K/KD/KDN.xml,KDNRE02F,046205,1,,A,1,2,Raymond  Raymond,,
+K/KD/KDN.xml,KDNRE02F,046205,2,,B,2,1,What?,,
+K/KD/KDN.xml,KDNRE02F,046205,3,,A,3,1,Come on and get your breakfast.,,
+K/KD/KDN.xml,KDNRE02F,046205,4,,A,3,2,Hurry up.,,
+K/KD/KDN.xml,KDNRE02F,046205,5,,A,3,3,Oh no!,,
+K/KD/KDN.xml,KDNRE02F,046205,6,,A,3,4,<belch> Patch get out of there.,,
+K/KD/KDN.xml,KDNRE02F,046205,7,,A,3,5,Patch  stop eating that.,,
+K/KD/KDN.xml,KDNRE02F,046205,8,,A,3,6,Lovely.,,

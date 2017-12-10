@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDL.xml,KDLRE00L,016202,0,,A,1,1,Always smells funny in here  just the colour we need isn't it?,always/AV0 smell/VVZ funny/AJ0 in/PRP here/AV0 just/AV0 the/AT0 colour/NN1 we/PNP need/VVB be/VBZ not/XX0 it/PNP ?/PUN,
+K/KD/KDL.xml,KDLRE00L,016202,1,,B,2,1,(()) ,,
+K/KD/KDL.xml,KDLRE00L,016202,2,,B,2,2,(()) somebody farts in assembly.,somebody/PNI fart/VVZ in/PRP assembly/NN1 ./PUN,
+K/KD/KDL.xml,KDLRE00L,016202,3,,A,3,1,No I think they did  so dull and boring  I think I've gotta fart!,no/ITJ i/PNP think/VVB they/PNP do/VDD so/AV0 dull/VVI and/CJC boring/AJ0 i/PNP think/VVB i/PNP have/VHB get/VVN ta/TO0 fart/VVI !/PUN,
+K/KD/KDL.xml,KDLRE00L,016202,4,,B,4,1,(()) was you!,be/VBD you/PNP !/PUN,

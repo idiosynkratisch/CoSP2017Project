@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE04L,039805,0,,A,1,1,"I've got a funny hat on, ah that's fair enough isn't it?","i/PNP have/VHB get/VVN a/AT0 funny/AJ0 hat/NN1 on/AVP-PRP ,/PUN ah/ITJ that/DT0 be/VBZ fair/AJ0 enough/AV0 be/VBZ not/XX0 it/PNP ?/PUN",
+K/KE/KE2.xml,KE2RE04L,039805,1,,A,1,2,<laugh> Some people like it.,some/DT0 people/NN0 like/PRP it/PNP ./PUN,
+K/KE/KE2.xml,KE2RE04L,039805,2,,B,2,1,It keeps  (()),it/PNP keep/VVZ,
+K/KE/KE2.xml,KE2RE04L,039805,3,,A,3,1,<laugh> That's right.,that/DT0 be/VBZ right/AJ0 ./PUN,
+K/KE/KE2.xml,KE2RE04L,039805,4,,A,3,2,It needs to.,it/PNP need/VVZ to/TO0 ./PUN,
+K/KE/KE2.xml,KE2RE04L,039805,5,,B,4,1,(()) ,,
+K/KE/KE2.xml,KE2RE04L,039805,6,,B,4,2,<baby talking> ,,
+K/KE/KE2.xml,KE2RE04L,039805,7,,A,5,1,<laugh> ,,
+K/KE/KE2.xml,KE2RE04L,039805,8,,B,6,1,<laugh> (()) funny hat (()),funny/AJ0 hat/NN1,

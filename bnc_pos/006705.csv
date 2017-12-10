@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE004,006705,0,,A,1,1,Oliver  like to feed the birds with the toast you didn't eat?,oliver/NP0 like/AV0 to/TO0 feed/VVI the/AT0 bird/NN2 with/PRP the/AT0 toast/NN1 you/PNP do/VDD not/XX0 eat/VVI ?/PUN,
+K/KD/KDE.xml,KDERE004,006705,1,,B,2,1,No I not going to feed them.,no/ITJ i/PNP not/XX0 go/VVG to/TO0 feed/VVI they/PNP ./PUN,
+K/KD/KDE.xml,KDERE004,006705,2,,A,3,1,No I say would you like to feed the birds?,no/ITJ i/PNP say/VVB would/VM0 you/PNP like/VVI to/TO0 feed/VVI the/AT0 bird/NN2 ?/PUN,
+K/KD/KDE.xml,KDERE004,006705,3,,B,4,1,(()) ,,
+K/KD/KDE.xml,KDERE004,006705,4,,A,5,1,Erm,erm/UNC,
+K/KD/KDE.xml,KDERE004,006705,5,,B,6,1,I want to feed the birds.,i/PNP want/VVB to/TO0 feed/VVI the/AT0 bird/NN2 ./PUN,
+K/KD/KDE.xml,KDERE004,006705,6,,A,7,1,Okay.,okay/AV0 ./PUN,
+K/KD/KDE.xml,KDERE004,006705,7,,A,7,2,It's all ready just got to open the door.,it/PNP be/VBZ all/DT0 ready/AJ0 just/AV0 get/VVN to/TO0 open/VVI the/AT0 door/NN1 ./PUN,

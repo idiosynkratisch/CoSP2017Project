@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03G,002413,0,,A,1,1,What's this plant?,,
+K/KB/KBK.xml,KBKRE03G,002413,1,,B,2,1,(()) in the arrangement  (()) I had on my birthday.,,
+K/KB/KBK.xml,KBKRE03G,002413,2,,A,3,1,Oh.,,
+K/KB/KBK.xml,KBKRE03G,002413,3,,A,3,2,Do you want me to take cuttings of it?(()) .,,
+K/KB/KBK.xml,KBKRE03G,002413,4,,B,4,1,"No, no, it's just  (()) root.",,
+K/KB/KBK.xml,KBKRE03G,002413,5,,A,5,1,Oh.,,
+K/KB/KBK.xml,KBKRE03G,002413,6,,B,6,1,I just thought I might put some more flowers in it.(()) .,,

@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC3.xml,KC3RE00A,051903,0,,A,1,1,Is Eileen in?,be/VBZ eileen/NP0 in/PRP-AVP ?/PUN,
+K/KC/KC3.xml,KC3RE00A,051903,1,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KC/KC3.xml,KC3RE00A,051903,2,,A,3,1,Could I get  I'd like to get an Irish accent on the   <laugh> Where would she be?,could/VM0 i/PNP get/VVI i/PNP would/VM0 like/VVI to/TO0 get/VVI an/AT0 irish/AJ0 accent/NN1 on/PRP the/AT0 where/AVQ would/VM0 she/PNP be/VBI ?/PUN,
+K/KC/KC3.xml,KC3RE00A,051903,3,,B,4,1,I'll er go and counsel Yvonne where she is and see if she's (()),i/PNP will/VM0 er/UNC go/VVI and/CJC counsel/VVI yvonne/NP0 where/AVQ she/PNP be/VBZ and/CJC see/VVB if/CJS she/PNP be/VBZ,
+K/KC/KC3.xml,KC3RE00A,051903,4,,A,5,1,"Tell her, yes, yes.","tell/VVB she/PNP ,/PUN yes/ITJ ,/PUN yes/ITJ ./PUN",

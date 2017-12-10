@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB8.xml,KB8RE00M,070002,0,,A,1,1,Oh!,oh/ITJ !/PUN,
+K/KB/KB8.xml,KB8RE00M,070002,1,,A,1,2,Where's your mum?,where/AVQ be/VBZ you/DPS mum/NN1 ?/PUN,
+K/KB/KB8.xml,KB8RE00M,070002,2,,B,2,1,(()) parked over there.,park/VVD-VVN [over/PRP there/AV0]/AV0 ./PUN,
+K/KB/KB8.xml,KB8RE00M,070002,3,,A,3,1,"Alright, I've gotta go and see her.","alright/AV0 ,/PUN i/PNP have/VHB get/VVN ta/TO0 go/VVI and/CJC see/VVI she/PNP ./PUN",
+K/KB/KB8.xml,KB8RE00M,070002,4,,A,3,2,Right pet.,right/AV0-AJ0 pet/NN1-AJ0 ./PUN,
+K/KB/KB8.xml,KB8RE00M,070002,5,,A,3,3,Your Granny Iris get here?,you/DPS granny/NN1 iris/NP0-NN1 get/VVB here/AV0 ?/PUN,
+K/KB/KB8.xml,KB8RE00M,070002,6,,B,4,1,Yeah she doesn't come here (()),yeah/ITJ she/PNP do/VDZ not/XX0 come/VVI here/AV0,
+K/KB/KB8.xml,KB8RE00M,070002,7,,A,5,1,"No but she, she came, she's come to stay with you.","no/ITJ but/CJC she/PNP ,/PUN she/PNP come/VVD ,/PUN she/PNP have/VHZ come/VVN to/TO0 stay/VVI with/PRP you/PNP ./PUN",
+K/KB/KB8.xml,KB8RE00M,070002,8,,B,6,1,Yes.,yes/ITJ ./PUN,
+K/KB/KB8.xml,KB8RE00M,070002,9,,A,7,1,"Yes, alright pet.","yes/ITJ ,/PUN alright/AV0 pet/NN1-AJ0 ./PUN",
+K/KB/KB8.xml,KB8RE00M,070002,10,,A,7,2,See you  Bye!,see/VVB you/PNP bye/ITJ !/PUN,
+K/KB/KB8.xml,KB8RE00M,070002,11,,A,7,3,Whoops!,whoops/ITJ !/PUN,

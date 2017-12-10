@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05J,002802,0,,A,1,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE05J,002802,1,,A,1,2,I could actually feel that in in my wrists yes,i/PNP could/VM0 actually/AV0 feel/VVI that/CJT-DT0 in/PRP in/PRP i/DPS wrist/NN2 yes/ITJ,
+K/KB/KBK.xml,KBKRE05J,002802,2,,B,2,1,Soon as you think you're going to tense up too much you try the swing of the mallet.,soon/AV0 as/CJS you/PNP think/VVB you/PNP be/VBB go/VVG to/TO0 tense/VVI up/AVP too/AV0 much/DT0 you/PNP try/VVB the/AT0 swing/NN1 of/PRF the/AT0 mallet/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE05J,002802,3,,A,3,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE05J,002802,4,,A,3,2,Right so that's,right/AV0 so/AV0 that/DT0 be/VBZ,
+K/KB/KBK.xml,KBKRE05J,002802,5,,B,4,1,Well I think what you do is push the yellow somewhere towards the peg in the middle.,well/AV0 i/PNP think/VVB what/DTQ you/PNP do/VDB be/VBZ push/VVI the/AT0 yellow/AJ0-NN1 somewhere/AV0 towards/PRP the/AT0 peg/NN1 in/PRP the/AT0 middle/NN1-AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE05J,002802,6,,B,4,2,"Probably just the right  (()) you know, run.","probably/AV0 just/AV0 the/AT0 right/AJ0-NN1 you/PNP know/VVB ,/PUN run/VVB-NN1 ./PUN",
+K/KB/KBK.xml,KBKRE05J,002802,7,,A,5,1,Yes,yes/ITJ,
+K/KB/KBK.xml,KBKRE05J,002802,8,,B,6,1,Get the yellow to the right of the peg.,get/VVB the/AT0 yellow/NN1 to/PRP the/AT0 right/NN1-AJ0 of/PRF the/AT0 peg/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE05J,002802,9,,A,7,1,Fine.,fine/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE05J,002802,10,,B,8,1,Doesn't matter if you don't.,do/VDZ not/XX0 matter/VVI if/CJS you/PNP do/VDB not/XX0 ./PUN,

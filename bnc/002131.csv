@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE010,002131,0,,A,1,1,I'll take my radio.,,
+K/KB/KBK.xml,KBKRE010,002131,1,,B,2,1,"Oh right, yes.",,
+K/KB/KBK.xml,KBKRE010,002131,2,,A,3,1,(()) .,,
+K/KB/KBK.xml,KBKRE010,002131,3,,B,4,1,Ciao.,,
+K/KB/KBK.xml,KBKRE010,002131,4,,A,5,1,(()) .,,
+K/KB/KBK.xml,KBKRE010,002131,5,,B,6,1,Oh dear.,,

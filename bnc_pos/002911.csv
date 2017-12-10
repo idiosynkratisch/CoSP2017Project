@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE06A,002911,0,,A,1,1,Her birthday's the fourteenth.,she/DPS birthday/NN1 be/VBZ the/AT0 fourteenth/ORD ./PUN,
+K/KB/KBK.xml,KBKRE06A,002911,1,,A,1,2,Do you know which day of the week that is?,do/VDB you/PNP know/VVI which/DTQ day/NN1 of/PRF the/AT0 week/NN1 that/DT0-CJT be/VBZ ?/PUN,
+K/KB/KBK.xml,KBKRE06A,002911,2,,B,2,1,I know the first is a Monday.,i/PNP know/VVB the/AT0 first/ORD be/VBZ a/AT0 monday/NP0 ./PUN,
+K/KB/KBK.xml,KBKRE06A,002911,3,,A,3,1,So the fifteenth will be a Monday.,so/AV0 the/AT0 fifteenth/ORD will/VM0 be/VBI a/AT0 monday/NP0 ./PUN,
+K/KB/KBK.xml,KBKRE06A,002911,4,,A,3,2,So the fourteenth will be a Sunday.,so/AV0 the/AT0 fourteenth/ORD will/VM0 be/VBI a/AT0 sunday/NP0 ./PUN,
+K/KB/KBK.xml,KBKRE06A,002911,5,,B,4,1,How long have you been working on that?,how/AVQ long/AV0 have/VHB you/PNP be/VBN work/VVG on/PRP that/DT0 ?/PUN,
+K/KB/KBK.xml,KBKRE06A,002911,6,,A,5,1,Saturday.,saturday/NP0 ./PUN,
+K/KB/KBK.xml,KBKRE06A,002911,7,,A,5,2,She finishes in August did you say?,she/PNP finish/VVZ in/PRP august/NP0 do/VDD you/PNP say/VVI ?/PUN,
+K/KB/KBK.xml,KBKRE06A,002911,8,,B,6,1,(()) ,,
+K/KB/KBK.xml,KBKRE06A,002911,9,,A,7,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE06A,002911,10,,A,7,2,Thank you.,thank/VVB you/PNP ./PUN,
+K/KB/KBK.xml,KBKRE06A,002911,11,,A,7,3,Thank you.(()),thank/VVB you/PNP ./PUN,

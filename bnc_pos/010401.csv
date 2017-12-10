@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE3.xml,KE3RE00Y,010401,0,,A,1,1,I haven't done the dusting.,i/PNP have/VHB not/XX0 do/VDN the/AT0 dusting/NN1-AJ0 ./PUN,
+K/KE/KE3.xml,KE3RE00Y,010401,1,,B,2,1,"Oh, terrible.","oh/ITJ ,/PUN terrible/AJ0 ./PUN",
+K/KE/KE3.xml,KE3RE00Y,010401,2,,A,3,1,"But, huh.","but/CJC ,/PUN huh/ITJ ./PUN",
+K/KE/KE3.xml,KE3RE00Y,010401,3,,B,4,1,<laugh> .,./PUN,
+K/KE/KE3.xml,KE3RE00Y,010401,4,,A,5,1,"But, erm, I have done the hoovering.","but/CJC ,/PUN erm/UNC ,/PUN i/PNP have/VHB do/VDN the/AT0 hoovering/NN1 ./PUN",

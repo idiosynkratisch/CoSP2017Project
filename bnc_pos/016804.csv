@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDK.xml,KDKRE00H,016804,0,,A,1,1,"Paul  <<REDACTED (name)>> had asked me to do a swap  to do his early next  Wednesday  so yeah, put the form in and everything  the form came back today saying he's already on a late  and the day that he's supposed to be repaying me he's already on shift  (())","paul/NP0 have/VHD ask/VVN i/PNP to/TO0 do/VDI a/AT0 swap/NN1-VVB to/TO0 do/VDI he/DPS early/AJ0 next/ORD wednesday/NP0 so/AV0 yeah/ITJ ,/PUN put/VVB the/AT0 form/NN1 in/AVP-PRP and/CJC everything/PNI the/AT0 form/NN1 come/VVD back/AVP today/AV0 say/VVG he/PNP be/VBZ already/AV0 on/PRP a/AT0 late/AJ0 and/CJC the/AT0 day/NN1 that/CJT he/PNP be/VBZ supposed/AJ0 to/TO0 be/VBI repay/VVG i/PNP he/PNP be/VBZ already/AV0 on/PRP-AVP shift/NN1-VVB",
+K/KD/KDK.xml,KDKRE00H,016804,1,,B,2,1,(()) the six o'clock news (()),the/AT0 six/CRD o'clock/AV0 news/NN1,
+K/KD/KDK.xml,KDKRE00H,016804,2,,A,3,1,He (()) .,he/PNP ./PUN,
+K/KD/KDK.xml,KDKRE00H,016804,3,,B,4,1,"He loses control, I tell you.","he/PNP lose/VVZ control/NN1-VVB ,/PUN i/PNP tell/VVB you/PNP ./PUN",
+K/KD/KDK.xml,KDKRE00H,016804,4,,A,5,1,He hasn't got a clue what he's lost!,he/PNP have/VHZ not/XX0 get/VVN a/AT0 clue/NN1 what/DTQ he/PNP have/VHZ lose/VVN-AJ0 !/PUN,
+K/KD/KDK.xml,KDKRE00H,016804,5,,B,6,1,(()) .,./PUN,

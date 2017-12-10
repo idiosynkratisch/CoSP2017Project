@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE014,002204,0,,A,1,1,"So, do you feel your shopping was successful this morning?",,
+K/KB/KBK.xml,KBKRE014,002204,1,,B,2,1,"Quite successful, yeah,(()) .",,
+K/KB/KBK.xml,KBKRE014,002204,2,,B,2,2,Delivered to Veronica.,,
+K/KB/KBK.xml,KBKRE014,002204,3,,A,3,1,Ah yes.,,

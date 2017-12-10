@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE022,007211,0,,A,1,1,Why we going home?,why/AVQ we/PNP go/VVG home/AV0 ?/PUN,
+K/KD/KDE.xml,KDERE022,007211,1,,B,2,1,Why we going home?,why/AVQ we/PNP go/VVG home/AV0 ?/PUN,
+K/KD/KDE.xml,KDERE022,007211,2,,A,3,1,Yeah.,yeah/ITJ ./PUN,
+K/KD/KDE.xml,KDERE022,007211,3,,B,4,1,Alia and Aden are coming around to play with you this afternoon.,alia/NN1-NP0 and/CJC aden/NP0 be/VBB come/VVG around/AVP to/TO0 play/VVI with/PRP you/PNP this/DT0 afternoon/NN1 ./PUN,
+K/KD/KDE.xml,KDERE022,007211,4,,A,5,1,Are they coming now?,be/VBB they/PNP come/VVG now/AV0 ?/PUN,
+K/KD/KDE.xml,KDERE022,007211,5,,B,6,1,In a minute.,in/PRP a/AT0 minute/NN1 ./PUN,
+K/KD/KDE.xml,KDERE022,007211,6,,A,7,1,In a minute?,in/PRP a/AT0 minute/NN1 ?/PUN,
+K/KD/KDE.xml,KDERE022,007211,7,,B,8,1,Hm hm.,hm/ITJ hm/ITJ ./PUN,
+K/KD/KDE.xml,KDERE022,007211,8,,A,9,1,Look at all those clouds.,look/VVB at/PRP all/DT0 those/DT0 cloud/NN2 ./PUN,
+K/KD/KDE.xml,KDERE022,007211,9,,B,10,1,I know it's a nasty day isn't it?,i/PNP know/VVB it/PNP be/VBZ a/AT0 nasty/AJ0 day/NN1 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KD/KDE.xml,KDERE022,007211,10,,A,11,1,Hm.,hm/ITJ ./PUN,
+K/KD/KDE.xml,KDERE022,007211,11,,A,11,2,It burns your eyes.,it/PNP burn/VVZ you/DPS eye/NN2 ./PUN,

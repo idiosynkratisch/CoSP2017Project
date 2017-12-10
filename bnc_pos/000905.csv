@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE01T,000905,0,,A,1,1,You'll just have to remind me.,you/PNP will/VM0 just/AV0 have/VHI to/TO0 remind/VVI i/PNP ./PUN,
+K/KD/KDP.xml,KDPRE01T,000905,1,,A,1,2,I haven't  haven't come from it.,i/PNP have/VHB not/XX0 have/VHB not/XX0 come/VVN from/PRP it/PNP ./PUN,
+K/KD/KDP.xml,KDPRE01T,000905,2,,A,1,3,I'm not used to coming from this direction so just remind me where the turning is.,i/PNP be/VBB not/XX0 used/AJ0 to/PRP come/VVG from/PRP this/DT0 direction/NN1 so/AV0 just/AV0 remind/VVB i/PNP where/CJS the/AT0 turning/NN1 be/VBZ ./PUN,
+K/KD/KDP.xml,KDPRE01T,000905,3,,B,2,1,Oh alright then.,oh/ITJ alright/AV0 then/AV0 ./PUN,
+K/KD/KDP.xml,KDPRE01T,000905,4,,A,3,1,Oh there's that new building on the corner isn't there?,oh/ITJ there/EX0 be/VBZ that/DT0 new/AJ0 building/NN1 on/PRP the/AT0 corner/NN1 be/VBZ not/XX0 there/EX0 ?/PUN,

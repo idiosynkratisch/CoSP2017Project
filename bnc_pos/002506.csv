@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03Y,002506,0,,A,1,1,Nothing in the mail this morning.,nothing/PNI in/PRP the/AT0 mail/NN1 this/DT0 morning/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE03Y,002506,1,,A,1,2,(()) Hello  (()) I'll have a look.,hello/ITJ i/PNP will/VM0 have/VHI a/AT0 look/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE03Y,002506,2,,A,1,3,"There's only a bag of peat on the doorstep, here it is look, indoors","there/EX0 be/VBZ only/AV0 a/AT0 bag/NN1 of/PRF peat/NN1 on/PRP the/AT0 doorstep/NN1 ,/PUN here/AV0 it/PNP be/VBZ look/VVB-NN1 ,/PUN indoors/AV0",
+K/KB/KBK.xml,KBKRE03Y,002506,3,,B,2,1,Have you had some breakfast?,have/VHB you/PNP have/VHN some/DT0 breakfast/NN1 ?/PUN,
+K/KB/KBK.xml,KBKRE03Y,002506,4,,A,3,1,No.,no/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE03Y,002506,5,,B,4,1,(()) ,,
+K/KB/KBK.xml,KBKRE03Y,002506,6,,A,5,1,(()) ,,
+K/KB/KBK.xml,KBKRE03Y,002506,7,,A,5,2,Take it off  (()) the yoghurt pot (()) .,take/VVB it/PNP off/PRP-AVP the/AT0 yoghurt/NN1 pot/NN1 ./PUN,

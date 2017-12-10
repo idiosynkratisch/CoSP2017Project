@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03F,002412,0,,A,1,1,How do you recognize Jasmine?,how/AVQ do/VDB you/PNP recognize/VVI jasmine/NP0 ?/PUN,
+K/KB/KBK.xml,KBKRE03F,002412,1,,A,1,2,A tiny leaf isn't it?,a/AT0 tiny/AJ0 leaf/NN1 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE03F,002412,2,,B,2,1,"Right, right.","right/AV0 ,/PUN right/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE03F,002412,3,,A,3,1,"It's not been fed for two years has it, so","it/PNP have/VHZ not/XX0 be/VBN feed/VVN for/PRP two/CRD year/NN2 have/VHZ it/PNP ,/PUN so/AV0",
+K/KB/KBK.xml,KBKRE03F,002412,4,,B,4,1,Oh don't (()) .,oh/ITJ do/VDB not/XX0 ./PUN,
+K/KB/KBK.xml,KBKRE03F,002412,5,,B,4,2,"You can always tell when you've had a glass of sherry (()) , come all (()) .","you/PNP can/VM0 always/AV0 tell/VVI when/CJS you/PNP have/VHB have/VHN a/AT0 glass/NN1 of/PRF sherry/NN1 ,/PUN come/VVB all/DT0 ./PUN",
+K/KB/KBK.xml,KBKRE03F,002412,6,,A,5,1,Well it's true isn't it?,well/AV0 it/PNP be/VBZ true/AJ0 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE03F,002412,7,,A,5,2,I mean it hasn't actually had any grow,i/PNP mean/VVB it/PNP have/VHZ not/XX0 actually/AV0 have/VHN any/DT0 grow/VVI,
+K/KB/KBK.xml,KBKRE03F,002412,8,,B,6,1,Had it   (()) instead of taking (()) .,have/VHD it/PNP [instead/AV0 of/PRF]/PRP take/VVG ./PUN,
+K/KB/KBK.xml,KBKRE03F,002412,9,,A,7,1,Super.,super/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE03F,002412,10,,A,7,2,It's probably why I can actually see it peeping out over the top.,it/PNP be/VBZ probably/AV0 why/AVQ i/PNP can/VM0 actually/AV0 see/VVI it/PNP peep/VVG out/AVP over/PRP the/AT0 top/NN1 ./PUN,

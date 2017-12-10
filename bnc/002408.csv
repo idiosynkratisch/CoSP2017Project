@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03B,002408,0,,A,1,1,Please don't burn the paintwork.,,
+K/KB/KBK.xml,KBKRE03B,002408,1,,B,2,1,I won't.,,
+K/KB/KBK.xml,KBKRE03B,002408,2,,A,3,1,Incidently,,
+K/KB/KBK.xml,KBKRE03B,002408,3,,B,4,1,Sorry.,,
+K/KB/KBK.xml,KBKRE03B,002408,4,,A,5,1,"incidently it's not a good idea to leave the double glazing bit swinging, erm, or, or the other one.",,
+K/KB/KBK.xml,KBKRE03B,002408,5,,A,5,2,The other one come  come  come crashing through the double glazing.,,
+K/KB/KBK.xml,KBKRE03B,002408,6,,B,6,1,(()) ,,
+K/KB/KBK.xml,KBKRE03B,002408,7,,A,7,1,"Yes, exactly.",,

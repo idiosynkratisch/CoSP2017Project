@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE06A,002911,0,,A,1,1,Her birthday's the fourteenth.,,
+K/KB/KBK.xml,KBKRE06A,002911,1,,A,1,2,Do you know which day of the week that is?,,
+K/KB/KBK.xml,KBKRE06A,002911,2,,B,2,1,I know the first is a Monday.,,
+K/KB/KBK.xml,KBKRE06A,002911,3,,A,3,1,So the fifteenth will be a Monday.,,
+K/KB/KBK.xml,KBKRE06A,002911,4,,A,3,2,So the fourteenth will be a Sunday.,,
+K/KB/KBK.xml,KBKRE06A,002911,5,,B,4,1,How long have you been working on that?,,
+K/KB/KBK.xml,KBKRE06A,002911,6,,A,5,1,Saturday.,,
+K/KB/KBK.xml,KBKRE06A,002911,7,,A,5,2,She finishes in August did you say?,,
+K/KB/KBK.xml,KBKRE06A,002911,8,,B,6,1,(()) ,,
+K/KB/KBK.xml,KBKRE06A,002911,9,,A,7,1,Right.,,
+K/KB/KBK.xml,KBKRE06A,002911,10,,A,7,2,Thank you.,,
+K/KB/KBK.xml,KBKRE06A,002911,11,,A,7,3,Thank you.(()),,

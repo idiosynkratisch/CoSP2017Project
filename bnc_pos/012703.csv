@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE023,012703,0,,A,1,1,Come on then sunshine  let's boogie!,come/VVB on/AVP then/AV0 sunshine/NN1 let's/VM0 boogie/VVI !/PUN,
+K/KD/KDA.xml,KDARE023,012703,1,,A,1,2,Let's fucking boogie!,let's/VM0 fucking/AV0 boogie/VVI !/PUN,
+K/KD/KDA.xml,KDARE023,012703,2,,B,2,1,"I ain't dancing with you, you twit!(()) chocolate star fish hunter!","i/PNP ai/UNC not/XX0 dance/VVG with/PRP you/PNP ,/PUN you/PNP twit/NN1 !/PUN chocolate/NN1 star/NN1 fish/NN0 hunter/NN1 !/PUN",
+K/KD/KDA.xml,KDARE023,012703,3,,A,3,1,Fuck off!,fuck/VVB-NN1 off/AVP !/PUN,
+K/KD/KDA.xml,KDARE023,012703,4,,B,4,1,Got a (()) ?<whistling>,get/VVN a/AT0 ?/PUN,
+K/KD/KDA.xml,KDARE023,012703,5,,A,5,1,<singing> Waterloo  how can  (()) my Waterloo </singing>,waterloo/NP0 how/AVQ can/VM0 i/DPS waterloo/NP0,
+K/KD/KDA.xml,KDARE023,012703,6,,B,6,1,Shitty fucking shit!,shitty/AJ0 fucking/AJ0 shit/NN1 !/PUN,
+K/KD/KDA.xml,KDARE023,012703,7,,A,7,1,<singing> De de de deddle deddle de da da da da da da da </singing> .,de/NP0 de/NP0 de/NP0 deddle/VVB-NN1 deddle/VVB-NN1 de/NP0 da/NN1 da/NN1 da/NN1 da/NN1 da/NN1 da/NN1 da/NN1 ./PUN,

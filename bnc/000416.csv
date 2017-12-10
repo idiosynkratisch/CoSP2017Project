@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE009,000416,0,,A,1,1,"Great, thanks.",,
+K/KD/KDP.xml,KDPRE009,000416,1,,B,2,1,What was it?,,
+K/KD/KDP.xml,KDPRE009,000416,2,,A,3,1,"Twenty two, you were paying for all the teas weren't ya?",,
+K/KD/KDP.xml,KDPRE009,000416,3,,B,4,1,Yeah.,,
+K/KD/KDP.xml,KDPRE009,000416,4,,B,4,2,Thank you.,,
+K/KD/KDP.xml,KDPRE009,000416,5,,A,5,1,Great.,,
+K/KD/KDP.xml,KDPRE009,000416,6,,A,5,2,Coffee to go.(()) .,,
+K/KD/KDP.xml,KDPRE009,000416,7,,A,5,3,Lovely jubbly.,,
+K/KD/KDP.xml,KDPRE009,000416,8,,B,6,1,What are they twenty?,,
+K/KD/KDP.xml,KDPRE009,000416,9,,A,7,1,"Do, what?",,

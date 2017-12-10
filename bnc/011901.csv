@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE00S,011901,0,,A,1,1,Will he be thinking of us when he spends his gold mancho (()) that's what he'll get.,,
+K/KD/KDA.xml,KDARE00S,011901,1,,B,2,1,Yep.,,
+K/KD/KDA.xml,KDARE00S,011901,2,,A,3,1,"Will he still be thinking about us poor  (()) working (()) , no I don't think so.",,

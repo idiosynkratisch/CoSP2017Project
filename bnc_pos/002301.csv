@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE022,002301,0,,A,1,1,"Oh, can't get the bag open.<laugh>","oh/ITJ ,/PUN can/VM0 not/XX0 get/VVI the/AT0 bag/NN1 open/AJ0 ./PUN",
+K/KB/KBK.xml,KBKRE022,002301,1,,B,2,1,<laugh> ,,
+K/KB/KBK.xml,KBKRE022,002301,2,,A,3,1,Ah  <sigh> Would you like to record a song for posterity Lynda?,ah/ITJ would/VM0 you/PNP like/VVI to/TO0 record/VVI a/AT0 song/NN1 for/PRP posterity/NN1 lynda/NP0 ?/PUN,
+K/KB/KBK.xml,KBKRE022,002301,3,,B,4,1,<laugh> .,./PUN,
+K/KB/KBK.xml,KBKRE022,002301,4,,B,4,2,"Er, I (()) .","er/UNC ,/PUN i/PNP ./PUN",
+K/KB/KBK.xml,KBKRE022,002301,5,,A,5,1,"Yeah, well I'll enjoy it (()) .","yeah/ITJ ,/PUN well/AV0 i/PNP will/VM0 enjoy/VVI it/PNP ./PUN",
+K/KB/KBK.xml,KBKRE022,002301,6,,B,6,1,<laugh> ,,

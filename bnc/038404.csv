@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE00W,038404,0,,A,1,1,"You just, you know speaking to Chris then?",,
+K/KE/KE2.xml,KE2RE00W,038404,1,,B,2,1,"Yeah, she was just sort of coming down the stairs yeah it's alright, you know, had a word with her",,
+K/KE/KE2.xml,KE2RE00W,038404,2,,A,3,1,Do you know that,,

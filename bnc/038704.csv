@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01J,038704,0,,A,1,1,Do you want a coffee?,,
+K/KE/KE2.xml,KE2RE01J,038704,1,,B,2,1,Er,,
+K/KE/KE2.xml,KE2RE01J,038704,2,,A,3,1,Do you want a coffee?,,
+K/KE/KE2.xml,KE2RE01J,038704,3,,B,4,1,"No, I don't want one just now, I may have one later, not just now cos I'll  just have mineral water again.",,
+K/KE/KE2.xml,KE2RE01J,038704,4,,B,4,2,Just water this time not  erm  (()) .,,
+K/KE/KE2.xml,KE2RE01J,038704,5,,B,4,3,Erm  (()) .,,
+K/KE/KE2.xml,KE2RE01J,038704,6,,B,4,4,Is it  is it boiled?,,
+K/KE/KE2.xml,KE2RE01J,038704,7,,A,5,1,Mm mm.,,
+K/KE/KE2.xml,KE2RE01J,038704,8,,B,6,1,I get used to it.,,
+K/KE/KE2.xml,KE2RE01J,038704,9,,B,6,2,Oh you've got your (()) .,,
+K/KE/KE2.xml,KE2RE01J,038704,10,,B,6,3,I might go for something.,,
+K/KE/KE2.xml,KE2RE01J,038704,11,,A,7,1,Here are.,,

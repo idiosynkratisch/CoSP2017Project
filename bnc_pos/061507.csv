@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB2.xml,KB2RE00M,061507,0,,A,1,1,Cos I'm taping aren't I?,cos/CJS i/PNP be/VBB tape/VVG be/VBB not/XX0 i/PNP ?/PUN,
+K/KB/KB2.xml,KB2RE00M,061507,1,,B,2,1,Oh another one?,oh/ITJ another/DT0 one/PNI ?/PUN,
+K/KB/KB2.xml,KB2RE00M,061507,2,,B,2,2,Oh!,oh/ITJ !/PUN,
+K/KB/KB2.xml,KB2RE00M,061507,3,,B,2,3,How many tapes is that then?,how/AVQ many/DT0 tape/NN2 be/VBZ that/DT0 then/AV0 ?/PUN,
+K/KB/KB2.xml,KB2RE00M,061507,4,,B,2,4,Six?,six/CRD ?/PUN,
+K/KB/KB2.xml,KB2RE00M,061507,5,,A,3,1,Mm.,mm/ITJ ./PUN,
+K/KB/KB2.xml,KB2RE00M,061507,6,,B,4,1,Six?,six/CRD ?/PUN,
+K/KB/KB2.xml,KB2RE00M,061507,7,,B,4,2,You can smell them onions can't you?,you/PNP can/VM0 smell/VVI they/PNP onion/NN2 can/VM0 not/XX0 you/PNP ?/PUN,
+K/KB/KB2.xml,KB2RE00M,061507,8,,A,5,1,Mm mm.,mm/ITJ mm/ITJ ./PUN,
+K/KB/KB2.xml,KB2RE00M,061507,9,,A,5,2,Mm mm.,mm/ITJ mm/ITJ ./PUN,

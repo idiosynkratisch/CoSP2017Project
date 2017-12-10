@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE01L,002220,0,,A,1,1,I don't really think that I should get a lot of pleasure out of going to watch croquet tomorrow.,i/PNP do/VDB not/XX0 really/AV0 think/VVI that/CJT i/PNP should/VM0 get/VVI a/AT0 lot/NN1 of/PRF pleasure/NN1 [out/AVP of/PRF]/PRP go/VVG to/TO0 watch/VVI croquet/NN1 tomorrow/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE01L,002220,1,,B,2,1,"Oh, alright.","oh/ITJ ,/PUN alright/AV0 ./PUN",
+K/KB/KBK.xml,KBKRE01L,002220,2,,A,3,1,Probably a lot of standing about.,probably/AV0 a/AT0 lot/NN1 of/PRF stand/VVG-NN1 about/AVP-PRP ./PUN,
+K/KB/KBK.xml,KBKRE01L,002220,3,,A,3,2,What do you think?,what/DTQ do/VDB you/PNP think/VVI ?/PUN,
+K/KB/KBK.xml,KBKRE01L,002220,4,,B,4,1,I don't think the two of you will find it particularly entertaining.,i/PNP do/VDB not/XX0 think/VVI the/AT0 two/CRD of/PRF you/PNP will/VM0 find/VVI it/PNP particularly/AV0 entertaining/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE01L,002220,5,,A,5,1,No.,no/ITJ ./PUN,

@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE03M,039506,0,,A,1,1,Does she  (()),do/VDZ she/PNP,
+K/KE/KE2.xml,KE2RE03M,039506,1,,B,2,1,Oh you've taken the bread out have you?,oh/ITJ you/PNP have/VHB take/VVN the/AT0 bread/NN1 out/AVP have/VHB you/PNP ?/PUN,
+K/KE/KE2.xml,KE2RE03M,039506,2,,A,3,1,Oh these bits?,oh/ITJ these/DT0 bit/NN2 ?/PUN,
+K/KE/KE2.xml,KE2RE03M,039506,3,,B,4,1,Yeah I was just gonna have that,yeah/ITJ i/PNP be/VBD just/AV0 gon/VVG na/TO0 have/VHI that/DT0,
+K/KE/KE2.xml,KE2RE03M,039506,4,,A,5,1,Oh you were?,oh/ITJ you/PNP be/VBD ?/PUN,
+K/KE/KE2.xml,KE2RE03M,039506,5,,B,6,1,Yeah.,yeah/ITJ ./PUN,
+K/KE/KE2.xml,KE2RE03M,039506,6,,A,7,1,Sorry.,sorry/AJ0 ./PUN,
+K/KE/KE2.xml,KE2RE03M,039506,7,,B,8,1,I don't know whether sh- I shouldn't think so.,i/PNP do/VDB not/XX0 know/VVI whether/CJS sh/UNC i/PNP should/VM0 not/XX0 think/VVI so/AV0 ./PUN,
+K/KE/KE2.xml,KE2RE03M,039506,8,,B,8,2,"I don't know ho- they're gonna do, well I mean I don't know how they, how they work it.","i/PNP do/VDB not/XX0 know/VVI ho/UNC they/PNP be/VBB gon/VVG na/TO0 do/VDI ,/PUN well/AV0 i/PNP mean/VVB i/PNP do/VDB not/XX0 know/VVI how/AVQ they/PNP ,/PUN how/AVQ they/PNP work/VVB it/PNP ./PUN",
+K/KE/KE2.xml,KE2RE03M,039506,9,,B,8,3,It must be quite a job I should think.,it/PNP must/VM0 be/VBI quite/AV0 a/AT0 job/NN1 i/PNP should/VM0 think/VVI ./PUN,
+K/KE/KE2.xml,KE2RE03M,039506,10,,A,9,1,(()) ,,

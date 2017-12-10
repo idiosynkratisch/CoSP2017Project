@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE002,045503,0,,A,1,1,Well there's one tape completed Jean  oh it's only the side of one.,well/AV0 there/EX0 be/VBZ one/CRD tape/NN1 complete/VVD-VVN jean/NP0 oh/ITJ it/PNP be/VBZ only/AV0 the/AT0 side/NN1 of/PRF one/PNI-CRD ./PUN,
+K/KD/KDN.xml,KDNRE002,045503,1,,B,2,1,Right.,right/AV0 ./PUN,
+K/KD/KDN.xml,KDNRE002,045503,2,,A,3,1,We- this  the first side of the,we/UNC this/DT0 the/AT0 first/ORD side/NN1 of/PRF the/AT0,
+K/KD/KDN.xml,KDNRE002,045503,3,,B,4,1,Right.,right/AV0 ./PUN,
+K/KD/KDN.xml,KDNRE002,045503,4,,A,5,1,first tape.,first/ORD tape/NN1 ./PUN,
+K/KD/KDN.xml,KDNRE002,045503,5,,A,5,2,Well paint thinners or  white spirits doesn't light as well as petrol in these lighters    <sigh> (()) !,well/AV0 paint/VVB-NN1 thinner/NN2 or/CJC white/AJ0 spirit/NN2 do/VDZ not/XX0 light/VVI [as/CJS well/AV0 as/CJS]/PRP petrol/NN1 in/PRP these/DT0 lighter/NN2 !/PUN,
+K/KD/KDN.xml,KDNRE002,045503,6,,A,5,3,What?,what/DTQ ?/PUN,
+K/KD/KDN.xml,KDNRE002,045503,7,,A,5,4,I saw one on top of the bed  I don't know where I put the other one    (()) It's down here Jean.,i/PNP see/VVD one/PNI-CRD [on/PRP top/NN1 of/PRF]/PRP the/AT0 bed/NN1 i/PNP do/VDB not/XX0 know/VVI where/AVQ i/PNP put/VVB the/AT0 other/AJ0 one/PNI it/PNP be/VBZ down/AVP here/AV0 jean/NP0 ./PUN,
+K/KD/KDN.xml,KDNRE002,045503,8,,A,5,5,God!,god/NP0 !/PUN,

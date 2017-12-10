@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE01G,045809,0,,A,1,1,"Jean, did I ask you if you were going to John's tomorrow?",,
+K/KD/KDN.xml,KDNRE01G,045809,1,,B,2,1,I said no.,,
+K/KD/KDN.xml,KDNRE01G,045809,2,,A,3,1,That's good!,,
+K/KD/KDN.xml,KDNRE01G,045809,3,,B,4,1,"Friday, I'm going.",,
+K/KD/KDN.xml,KDNRE01G,045809,4,,A,5,1,That's good!,,
+K/KD/KDN.xml,KDNRE01G,045809,5,,B,6,1,Are you going to an early on Friday?,,

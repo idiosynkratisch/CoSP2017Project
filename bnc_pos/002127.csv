@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE00V,002127,0,,A,1,1,That there looks familiar in with the (()) .,that/CJT-DT0 there/EX0 look/VVZ familiar/AJ0 in/AVP-PRP with/PRP the/AT0 ./PUN,
+K/KB/KBK.xml,KBKRE00V,002127,1,,B,2,1,Was in where?,be/VBD in/PRP-AVP where/AVQ ?/PUN,
+K/KB/KBK.xml,KBKRE00V,002127,2,,A,3,1,It was in a (()) .,it/PNP be/VBD in/PRP a/AT0 ./PUN,
+K/KB/KBK.xml,KBKRE00V,002127,3,,B,4,1,Has that got it's own file still?,have/VHZ that/DT0 get/VVN it/PNP 's/POS own/DT0 file/NN1 still/AV0 ?/PUN,
+K/KB/KBK.xml,KBKRE00V,002127,4,,A,5,1,Yes.,yes/ITJ ./PUN,
+K/KB/KBK.xml,KBKRE00V,002127,5,,B,6,1,Good heavens.,good/AJ0 heaven/NN2 ./PUN,
+K/KB/KBK.xml,KBKRE00V,002127,6,,B,6,2,It's rather a long time isn't it?,it/PNP be/VBZ rather/AV0 a/AT0 long/AJ0 time/NN1 be/VBZ not/XX0 it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE00V,002127,7,,A,7,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE00V,002127,8,,B,8,1,"Well a, yes, of course were clear out the file drawer, but then with got to find somewhere else to put the blessed stuff haven't we ?","well/AV0 a/AT0 ,/PUN yes/ITJ ,/PUN [of/PRF course/NN1]/AV0 be/VBD clear/AJ0 out/PRP-AVP the/AT0 file/NN1 drawer/NN1 ,/PUN but/CJC then/AV0 with/PRP get/VVD to/TO0 find/VVI somewhere/AV0 else/AV0 to/TO0 put/VVI the/AT0 blessed/AJ0 stuff/NN1 have/VHB not/XX0 we/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE00V,002127,9,,A,9,1,(()) .,./PUN,

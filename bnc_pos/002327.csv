@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02V,002327,0,,A,1,1,Must investigate this Mottingham garden club.,must/VM0 investigate/VVI this/DT0 mottingham/NP0 garden/NN1 club/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE02V,002327,1,,B,2,1,I think it (()) .,i/PNP think/VVB it/PNP ./PUN,
+K/KB/KBK.xml,KBKRE02V,002327,2,,A,3,1,"Well fifty pence a year, I think I might even be able to afford to belong to it.","well/AV0 fifty/CRD pence/NN0 a/AT0 year/NN1 ,/PUN i/PNP think/VVB i/PNP might/VM0 even/AV0 be/VBI able/AJ0 to/TO0 afford/VVI to/TO0 belong/VVI to/PRP it/PNP ./PUN",

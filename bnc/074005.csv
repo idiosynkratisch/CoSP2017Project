@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCG.xml,KCGRE00J,074005,0,,A,1,1,"Deana, pass us a chair from out of the whatsit please?",,
+K/KC/KCG.xml,KCGRE00J,074005,1,,B,2,1,Eastenders are on.,,
+K/KC/KCG.xml,KCGRE00J,074005,2,,A,3,1,Pardon?,,
+K/KC/KCG.xml,KCGRE00J,074005,3,,B,4,1,Eastenders.,,
+K/KC/KCG.xml,KCGRE00J,074005,4,,A,5,1,Right.,,
+K/KC/KCG.xml,KCGRE00J,074005,5,,B,6,1,Pardon?,,
+K/KC/KCG.xml,KCGRE00J,074005,6,,A,7,1,"Alright, no Michael don't go out you've got nothing on your, come on you'll get cold, come here",,

@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB7.xml,KB7RE015,018906,0,,A,1,1,<shouting> Hey Ann </shouting> !,,
+K/KB/KB7.xml,KB7RE015,018906,1,,B,2,1,What?,,
+K/KB/KB7.xml,KB7RE015,018906,2,,A,3,1,Did you read your stars today?,,
+K/KB/KB7.xml,KB7RE015,018906,3,,B,4,1,No.,,
+K/KB/KB7.xml,KB7RE015,018906,4,,A,5,1,You didn't?,,
+K/KB/KB7.xml,KB7RE015,018906,5,,B,6,1,What's it say?,,
+K/KB/KB7.xml,KB7RE015,018906,6,,A,7,1,<reading+shouting> Saturn your ruler is in exceptionally  (()) mood now  so it is likely that you will have to put up with rather spartan conditions  but you know how much is at stake for the future so you are happy to do without   </reading+shouting> <laugh>,,
+K/KB/KB7.xml,KB7RE015,018906,7,,B,8,1,That was (()) .,,
+K/KB/KB7.xml,KB7RE015,018906,8,,A,9,1,How about that darling?,,

@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE020,038906,0,,A,1,1,Is this the pairs?,be/VBZ this/DT0 the/AT0 pair/NN2 ?/PUN,
+K/KE/KE2.xml,KE2RE020,038906,1,,A,1,2,"He's playing with er  oh no it's not, it's not it's singles.","he/PNP be/VBZ play/VVG with/PRP er/UNC oh/ITJ no/ITJ it/PNP be/VBZ not/XX0 ,/PUN it/PNP be/VBZ not/XX0 it/PNP be/VBZ single/NN2 ./PUN",
+K/KE/KE2.xml,KE2RE020,038906,2,,B,2,1,Oh does he usually with the chair?,oh/ITJ do/VDZ he/PNP usually/AV0 with/PRP the/AT0 chair/NN1 ?/PUN,
+K/KE/KE2.xml,KE2RE020,038906,3,,A,3,1,<sighing> Oh yeah </sighing> .,oh/ITJ yeah/ITJ ./PUN,
+K/KE/KE2.xml,KE2RE020,038906,4,,B,4,1,Well this is (()) .,well/AV0 this/DT0 be/VBZ ./PUN,

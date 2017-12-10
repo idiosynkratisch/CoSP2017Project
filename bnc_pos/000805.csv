@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE01F,000805,0,,A,1,1,Da .,da/NN1 ./PUN,
+K/KD/KDP.xml,KDPRE01F,000805,1,,B,2,1,Da da,da/UNC da/UNC,
+K/KD/KDP.xml,KDPRE01F,000805,2,,A,3,1,da da da da da da,da/UNC da/UNC da/UNC da/UNC da/UNC da/UNC,
+K/KD/KDP.xml,KDPRE01F,000805,3,,B,4,1,Yes darling .,yes/ITJ darling/NN1 ./PUN,
+K/KD/KDP.xml,KDPRE01F,000805,4,,B,4,2,There's a clever boy.,there/EX0 be/VBZ a/AT0 clever/AJ0 boy/NN1 ./PUN,
+K/KD/KDP.xml,KDPRE01F,000805,5,,B,4,3,There's a clever boy.,there/EX0 be/VBZ a/AT0 clever/AJ0 boy/NN1 ./PUN,
+K/KD/KDP.xml,KDPRE01F,000805,6,,A,5,1,Yaya yaya da da da,yaya/NP0 yaya/NP0 da/UNC da/UNC da/UNC,
+K/KD/KDP.xml,KDPRE01F,000805,7,,B,6,1,Let's get that one first.,let's/VM0 get/VVI that/DT0 one/PNI first/ORD ./PUN,
+K/KD/KDP.xml,KDPRE01F,000805,8,,B,6,2,Alright.,alright/AV0 ./PUN,

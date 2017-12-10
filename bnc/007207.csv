@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE01X,007207,0,,A,1,1,And she's bringing Alia and Adem to play with you  We're just going to Beckenham because we have to go to a shop there.,,
+K/KD/KDE.xml,KDERE01X,007207,1,,B,2,1,What shop?,,
+K/KD/KDE.xml,KDERE01X,007207,2,,A,3,1,A clothes shop.,,
+K/KD/KDE.xml,KDERE01X,007207,3,,A,3,2,and we need to go to the bank too.,,

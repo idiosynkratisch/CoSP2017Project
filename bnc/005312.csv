@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE033,005312,0,,A,1,1,Is that alright?,,
+K/KC/KCD.xml,KCDRE033,005312,1,,B,2,1,It's not far out is it?,,
+K/KC/KCD.xml,KCDRE033,005312,2,,A,3,1,What  (()) that lot out I think.,,
+K/KC/KCD.xml,KCDRE033,005312,3,,A,3,2,(()) . Alright.,,
+K/KC/KCD.xml,KCDRE033,005312,4,,A,3,3,There's too many fingers in the way isn't there?,,
+K/KC/KCD.xml,KCDRE033,005312,5,,B,4,1,Well if we put a cut in here that might (()) .,,
+K/KC/KCD.xml,KCDRE033,005312,6,,A,5,1,(()) .,,
+K/KC/KCD.xml,KCDRE033,005312,7,,A,5,2,"Oh no, I want these,(()) .",,
+K/KC/KCD.xml,KCDRE033,005312,8,,B,6,1,Just cut it (()) .,,

@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03A,002407,0,,A,1,1,"Smells delicious, have some more wine, sherry?",,
+K/KB/KBK.xml,KBKRE03A,002407,1,,B,2,1,"Erm,(()) .",,
+K/KB/KBK.xml,KBKRE03A,002407,2,,A,3,1,Good.,,
+K/KB/KBK.xml,KBKRE03A,002407,3,,A,3,2,"I think smoked haddock has a really good flavour, aroma, aroma, as well as flavour.",,
+K/KB/KBK.xml,KBKRE03A,002407,4,,B,4,1,Thank you.,,
+K/KB/KBK.xml,KBKRE03A,002407,5,,A,5,1,You're welcome.,,

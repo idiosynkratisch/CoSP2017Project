@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05B,002720,0,,A,1,1,What would've happened if the red ball had gone through?,what/DTQ would/VM0 have/VHI happen/VVN if/CJS the/AT0 red/AJ0 ball/NN1 have/VHD go/VVN through/AVP ?/PUN,
+K/KB/KBK.xml,KBKRE05B,002720,1,,B,2,1,Nothing.,nothing/PNI ./PUN,
+K/KB/KBK.xml,KBKRE05B,002720,2,,A,3,1,Nothing.,nothing/PNI ./PUN,
+K/KB/KBK.xml,KBKRE05B,002720,3,,B,4,1,"If it had been your hoop, it would've count.","if/CJS it/PNP have/VHD be/VBN you/DPS hoop/NN1 ,/PUN it/PNP would/VM0 have/VHI count/NN1-VVB ./PUN",
+K/KB/KBK.xml,KBKRE05B,002720,4,,A,5,1,"<laugh> , yes, yes, you  you would of (()) .",",/PUN yes/ITJ ,/PUN yes/ITJ ,/PUN you/PNP you/PNP would/VM0 of/PRF ./PUN",
+K/KB/KBK.xml,KBKRE05B,002720,5,,A,5,2,"Yep, good.","yep/ITJ ,/PUN good/AJ0 ./PUN",
+K/KB/KBK.xml,KBKRE05B,002720,6,,B,6,1,(()) ,,

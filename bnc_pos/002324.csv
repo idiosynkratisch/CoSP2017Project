@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02S,002324,0,,A,1,1,There's  (()) fallen tree in the park.,there/EX0 be/VBZ fall/VVN-AJ0 tree/NN1 in/PRP the/AT0 park/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,1,,B,2,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,2,,B,2,2,Relatively recently.,relatively/AV0 recently/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,3,,A,3,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,4,,A,3,2,They seemed to keep (()) .,they/PNP seem/VVD to/TO0 keep/VVI ./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,5,,B,4,1,"Yeah  yeah it's fascinating to think why that particular tree actually keeled over, and all the others around, it's no bigger than the others is it?","yeah/ITJ yeah/ITJ it/PNP be/VBZ fascinating/AJ0 to/TO0 think/VVI why/AVQ that/DT0 particular/AJ0 tree/NN1 actually/AV0 keel/VVD over/AVP ,/PUN and/CJC all/DT0 the/AT0 other/NN2 around/AVP-PRP ,/PUN it/PNP be/VBZ no/AT0 big/AJC than/CJS the/AT0 other/NN2 be/VBZ it/PNP ?/PUN",
+K/KB/KBK.xml,KBKRE02S,002324,6,,A,5,1,(()) don't know (()) .,do/VDB not/XX0 know/VVI ./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,7,,B,6,1,Well look at the size of it's trunk.,well/AV0 look/VVB at/PRP the/AT0 size/NN1 of/PRF it/PNP be/VBZ trunk/NN1 ./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,8,,A,7,1,It might have been (()) .,it/PNP might/VM0 have/VHI be/VBN ./PUN,
+K/KB/KBK.xml,KBKRE02S,002324,9,,B,8,1,"It might have been, yeah, just a  (()) one.","it/PNP might/VM0 have/VHI be/VBN ,/PUN yeah/ITJ ,/PUN just/AV0 a/AT0 one/PNI ./PUN",

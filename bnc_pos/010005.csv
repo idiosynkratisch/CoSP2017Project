@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBA.xml,KBARE00F,010005,0,,A,1,1,"Somebody had a load of boilers away like we got down our house, central heating boilers.","somebody/PNI have/VHD a/AT0 load/NN1 of/PRF boiler/NN2 away/AV0 like/AV0 we/PNP get/VVD down/AVP-PRP we/DPS house/NN1 ,/PUN central/AJ0 heating/NN1 boiler/NN2 ./PUN",
+K/KB/KBA.xml,KBARE00F,010005,1,,B,2,1,Yeah.,yeah/ITJ ./PUN,
+K/KB/KBA.xml,KBARE00F,010005,2,,A,3,1,"Forty three, thirty nine thousand quids worth.","forty/CRD three/CRD ,/PUN thirty/CRD nine/CRD thousand/CRD quid/NN2 worth/PRP ./PUN",
+K/KB/KBA.xml,KBARE00F,010005,3,,B,4,1,Oh.,oh/ITJ ./PUN,

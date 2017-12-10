@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE035,002402,0,,A,1,1,"Madame, may I  pour you, have the pleasure of pouring you",,
+K/KB/KBK.xml,KBKRE035,002402,1,,B,2,1,(()) ,,
+K/KB/KBK.xml,KBKRE035,002402,2,,A,3,1,hot (()) .,,
+K/KB/KBK.xml,KBKRE035,002402,3,,B,4,1,(()) .,,
+K/KB/KBK.xml,KBKRE035,002402,4,,A,5,1,"Right, by all means.",,
+K/KB/KBK.xml,KBKRE035,002402,5,,A,5,2,Dry or middling?,,
+K/KB/KBK.xml,KBKRE035,002402,6,,B,6,1,I'm middling.,,
+K/KB/KBK.xml,KBKRE035,002402,7,,A,7,1,"Middling, I hope I've got some middling, I'll go and have a look.",,
+K/KB/KBK.xml,KBKRE035,002402,8,,B,8,1,,,
+K/KB/KBK.xml,KBKRE035,002402,9,,B,8,2,(()) ,,
+K/KB/KBK.xml,KBKRE035,002402,10,,B,8,3,,,
+K/KB/KBK.xml,KBKRE035,002402,11,,A,9,1,"Right, I see what's what.",,

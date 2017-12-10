@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05S,002809,0,,A,1,1,No I didn't.,,
+K/KB/KBK.xml,KBKRE05S,002809,1,,A,1,2,No!,,
+K/KB/KBK.xml,KBKRE05S,002809,2,,A,1,3,I was just thinking should,,
+K/KB/KBK.xml,KBKRE05S,002809,3,,B,2,1,Join up?,,
+K/KB/KBK.xml,KBKRE05S,002809,4,,A,3,1,Should I be?,,
+K/KB/KBK.xml,KBKRE05S,002809,5,,B,4,1,"Well I think you should join up because something's put  <<REDACTED (name)>> in the middle but depends  in a game  (()) If I was playing against a level player you might just have a very hard crack together, but just to join up gently in the middle.",,
+K/KB/KBK.xml,KBKRE05S,002809,6,,A,5,1,Right right fine.,,
+K/KB/KBK.xml,KBKRE05S,002809,7,,B,6,1,"If you miss <<REDACTED (name)>> , you're still playing (())",,
+K/KB/KBK.xml,KBKRE05S,002809,8,,A,7,1,Yes,,
