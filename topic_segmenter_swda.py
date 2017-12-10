@@ -32,7 +32,7 @@ tt = texttiling.TextTilingTokenizer(demo_mode=False)
 class Sentence():
     """
     Utterance-like object with additional attributes for
-        - lenght (number of words),
+        - length (number of words),
         - topic index ("within-topic position")
         
     To be added:
