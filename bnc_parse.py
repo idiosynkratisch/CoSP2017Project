@@ -30,14 +30,19 @@ def _process_pauses(sent):
     while True:
         try:
             i = [w[0] for w in rest].index('--')
-            split.append(rest[:(i+1)])
-            rest = rest[(i+1):]
+            if i == len(rest) - 1:
+                split.append(rest[:i])
+                rest = []
+            else:
+                split.append(rest[:(i+1)])
+                rest = rest[(i+1):]
         except ValueError:
             split.append(rest)
             if len(split) > 1:
                 newsplit = [split[0]]
                 for sub in split[1:]:
-                    newsplit.append([('--', '')] + sub)
+                    if sub != []:
+                        newsplit.append([('--', '')] + sub)
                 split = newsplit
             return split
         
