@@ -18,15 +18,39 @@ from collections import defaultdict
 corpus = BNCCorpusReader(root='BNC XML/Texts/', 
                          fileids=r'[A-K]/\w*/\w*\.xml')
 
-def get_data(item, last_shifts=[]):
-    """ Constructs text and pos-tag for the item supplied
-        Arguments:
-        item (xml.etree.Element): The item to be converted
-        last_shifts (list of str): description of last <shift> events
+def _process_pauses(sent):
+    """
+    Helper function to split a sentence containing pauses
+    Argument: sent (list of (text, pos)): The sentence to be split
+    
+    Returns: List of list of (text, pos) corresponding to subcomponents
+    """
+    split = []
+    rest = sent
+    while True:
+        try:
+            i = [w[0] for w in rest].index('--')
+            split.append(rest[:(i+1)])
+            rest = rest[(i+1):]
+        except ValueError:
+            split.append(rest)
+            if len(split) > 1:
+                newsplit = [split[0]]
+                for sub in split[1:]:
+                    newsplit.append([('--', '')] + sub)
+                split = newsplit
+            return split
         
-        Returns:
-        text (str): Text for item
-        pos (str): Pos-tagged version of item
+def get_data(item, last_shifts=[]):
+    """ 
+    Constructs text and pos-tag for the item supplied
+    Arguments:
+    item (xml.etree.Element): The item to be converted
+    last_shifts (list of str): description of last <shift> events
+        
+    Returns:
+    text (str): Text for item
+    pos (str): Pos-tagged version of item
     """
     
     if item.tag in {'w', 'c'}:
@@ -44,8 +68,11 @@ def get_data(item, last_shifts=[]):
     elif item.tag in {'event', 'vocal'}:
         text = '<{}> '.format(item.attrib['desc'])
         pos = ''
-    elif item.tag in {'pause', 'align'}:
+    elif item.tag == 'align':
         text = ''
+        pos = ''
+    elif item.tag == 'pause':
+        text = '--'
         pos = ''
     elif item.tag == 'gap':
         text = '<<REDACTED ({})>> '.format(item.attrib['desc'])
@@ -181,26 +208,37 @@ def write_transcript(conv, doc, directory, doPos=False):
                 if subutt.tag == 's':
                     # generate text and pos-tag recursively
                     l = [get_data(it, last_shifts) for it in subutt]
-                    # concatenate text
-                    text = ''.join([i[0] for i in l]).rstrip()
-                    # concatenate available pos-tags
-                    pos = ''.join([i[1] for i in l]).rstrip()
+                    # process pauses
+                    split = _process_pauses(l)
+                    for sub in split:
+                        text = ''.join([w[0] for w in sub])
+                        pos = ''.join([w[1] for w in sub])
+                        if text == '':
+                            continue
+                        d['transcript_index'] = transcript_index
+                        d['subutterance_index'] = subutterance_index
+                        d['text'] = text
+                        if doPos:
+                            d['pos'] = pos
+                        writer.writerow(d)
+                        transcript_index += 1
+                        subutterance_index += 1      
                 else:
                     text, pos = get_data(subutt, last_shifts)
-                
-                # ignore subutterances without text
-                if text == '':
-                    continue
-                d['transcript_index'] = transcript_index
-                d['subutterance_index'] = subutterance_index
-                d['text'] = text
-                # throw away pos if pos-flag is not set
-                # (TODO: prevent pos from even being computed if not necessary)
-                if doPos:
-                    d['pos'] = pos
-                writer.writerow(d)
-                transcript_index += 1
-                subutterance_index += 1
+                    # ignore subutterances without text or that are just
+                    # (unfilled) pauses
+                    if text in {'', '--'}:
+                        continue
+                    d['transcript_index'] = transcript_index
+                    d['subutterance_index'] = subutterance_index
+                    d['text'] = text
+                    # throw away pos if pos-flag is not set
+                    # (TODO: prevent pos from even being computed if not necessary)
+                    if doPos:
+                        d['pos'] = pos
+                    writer.writerow(d)
+                    transcript_index += 1
+                    subutterance_index += 1
             prev_speaker = d['caller']
     
     return n, A, B, recording, setting
