@@ -1,0 +1,3 @@
+The conversations in the demographically sampled part of the BNC are actually unique, but there is a clash in the data, which appears to be due to confusing the recordings of two participants named Robert.
+
+Based on the fact that only one of the files (KPW.xml, that of Robert2 (PS58H)) lists the recordings these conversations were transcribed from, we are assuming that he's the person who actually had these conversations, and deleting them from the other Robert's (PS1CE) list of conversations (KDT.xml).
