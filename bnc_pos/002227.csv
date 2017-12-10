@@ -1,4 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE01U,002227,0,,A,1,1,"Bingo  what  what, what, what, what, what, what.","bingo/NN1 what/DTQ what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ./PUN",
-K/KB/KBK.xml,KBKRE01U,002227,1,,B,2,1,Wasn't what you were expecting was it?,be/VBD not/XX0 what/DTQ you/PNP be/VBD expect/VVG be/VBD it/PNP ?/PUN,
-K/KB/KBK.xml,KBKRE01U,002227,2,,A,3,1,"No, I think that might be because it doesn't include the welding grants, but even so, let's have a look at, down here (())","no/ITJ ,/PUN i/PNP think/VVB that/DT0 might/VM0 be/VBI because/CJS it/PNP do/VDZ not/XX0 include/VVI the/AT0 welding/NN1 grant/NN2-VVZ ,/PUN but/CJC [even/AV0 so/AV0]/AV0 ,/PUN let's/VM0 have/VHI a/AT0 look/NN1 at/PRP ,/PUN down/AVP-PRP here/AV0",
+K/KB/KBK.xml,KBKRE01U,002227,0,,A,1,1,Bingo  --,bingo/NN1 ,
+K/KB/KBK.xml,KBKRE01U,002227,1,,A,1,2,--what  --,what/DTQ ,
+K/KB/KBK.xml,KBKRE01U,002227,2,,A,1,3,"--what, what, what, what, what, what.","what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ,/PUN what/DTQ ./PUN ",
+K/KB/KBK.xml,KBKRE01U,002227,3,,B,2,1,Wasn't what you were expecting was it?,be/VBD not/XX0 what/DTQ you/PNP be/VBD expect/VVG be/VBD it/PNP ?/PUN ,
+K/KB/KBK.xml,KBKRE01U,002227,4,,A,3,1,"No, I think that might be because it doesn't include the welding grants, but even so, let's have a look at, down here (()) ","no/ITJ ,/PUN i/PNP think/VVB that/DT0 might/VM0 be/VBI because/CJS it/PNP do/VDZ not/XX0 include/VVI the/AT0 welding/NN1 grant/NN2-VVZ ,/PUN but/CJC [even/AV0 so/AV0]/AV0 ,/PUN let's/VM0 have/VHI a/AT0 look/NN1 at/PRP ,/PUN down/AVP-PRP here/AV0 ",

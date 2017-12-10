@@ -1,4 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KC/KCF.xml,KCFRE00W,028606,0,,A,1,1,"Awfully sorry love, have to er dash off a bit","awfully/AV0 sorry/AJ0 love/NN1 ,/PUN have/VHB to/TO0 er/UNC dash/VVI off/PRP-AVP a/AT0 bit/NN1",
+K/KC/KCF.xml,KCFRE00W,028606,0,,A,1,1,"Awfully sorry love, have to er dash off a bit","awfully/AV0 sorry/AJ0 love/NN1 ,/PUN have/VHB to/TO0 er/UNC dash/VVI off/PRP-AVP a/AT0 bit/NN1 ",
 K/KC/KCF.xml,KCFRE00W,028606,1,,B,2,1,(()) ,,
 K/KC/KCF.xml,KCFRE00W,028606,2,,B,2,2,<music> ,,

@@ -1,4 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE026,002305,0,,A,1,1,Bill's really enjoying himself out there isn't he?,bill/NP0-NN1 be/VBZ really/AV0 enjoy/VVG himself/PNX out/AVP there/AV0 be/VBZ not/XX0 he/PNP ?/PUN,
-K/KB/KBK.xml,KBKRE026,002305,1,,B,2,1,(()) .,./PUN,
-K/KB/KBK.xml,KBKRE026,002305,2,,A,3,1,"Goodness knows, demolishing by the sound of it.<sigh>","goodness/NN1 know/VVZ ,/PUN demolish/VVG by/PRP the/AT0 sound/NN1 of/PRF it/PNP ./PUN",
+K/KB/KBK.xml,KBKRE026,002305,0,,A,1,1,Bill's really enjoying himself out there isn't he?,bill/NP0-NN1 be/VBZ really/AV0 enjoy/VVG himself/PNX out/AVP there/AV0 be/VBZ not/XX0 he/PNP ?/PUN ,
+K/KB/KBK.xml,KBKRE026,002305,1,,B,2,1,(()) .,./PUN ,
+K/KB/KBK.xml,KBKRE026,002305,2,,A,3,1,"Goodness knows, demolishing by the sound of it.<sigh> ","goodness/NN1 know/VVZ ,/PUN demolish/VVG by/PRP the/AT0 sound/NN1 of/PRF it/PNP ./PUN ",

@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE01G,002216,0,,A,1,1,"Come on Emma,(()) .","come/VVB on/AVP emma/NP0 ,/PUN ./PUN",
-K/KB/KBK.xml,KBKRE01G,002216,1,,B,2,1,"Did she, aha.","do/VDD she/PNP ,/PUN aha/ITJ ./PUN",
-K/KB/KBK.xml,KBKRE01G,002216,2,,A,3,1,(()) a little drink because she's licked a lot of mud when she came in (()) .,a/AT0 little/AJ0 drink/NN1 because/CJS she/PNP have/VHZ lick/VVN a/AT0 lot/NN1 of/PRF mud/NN1 when/CJS she/PNP come/VVD in/AVP-PRP ./PUN,
-K/KB/KBK.xml,KBKRE01G,002216,3,,A,3,2,"Goodness me, you realize there's a water shortage Emma.","goodness/NN1 i/PNP ,/PUN you/PNP realize/VVB there/EX0 be/VBZ a/AT0 water/NN1 shortage/NN1 emma/NP0 ./PUN",
+K/KB/KBK.xml,KBKRE01G,002216,0,,A,1,1,"Come on Emma,(()) .","come/VVB on/AVP emma/NP0 ,/PUN ./PUN ",
+K/KB/KBK.xml,KBKRE01G,002216,1,,B,2,1,"Did she, aha.","do/VDD she/PNP ,/PUN aha/ITJ ./PUN ",
+K/KB/KBK.xml,KBKRE01G,002216,2,,A,3,1,(()) a little drink because she's licked a lot of mud when she came in (()) .,a/AT0 little/AJ0 drink/NN1 because/CJS she/PNP have/VHZ lick/VVN a/AT0 lot/NN1 of/PRF mud/NN1 when/CJS she/PNP come/VVD in/AVP-PRP ./PUN ,
+K/KB/KBK.xml,KBKRE01G,002216,3,,A,3,2,"Goodness me, you realize there's a water shortage Emma.","goodness/NN1 i/PNP ,/PUN you/PNP realize/VVB there/EX0 be/VBZ a/AT0 water/NN1 shortage/NN1 emma/NP0 ./PUN ",

@@ -1,4 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE00W,038404,0,,A,1,1,"You just, you know speaking to Chris then?","you/PNP just/AV0 ,/PUN you/PNP know/VVB speak/VVG to/PRP chris/NP0 then/AV0 ?/PUN",
-K/KE/KE2.xml,KE2RE00W,038404,1,,B,2,1,"Yeah, she was just sort of coming down the stairs yeah it's alright, you know, had a word with her","yeah/ITJ ,/PUN she/PNP be/VBD just/AV0 [sort/NN1 of/PRF]/AV0 come/VVG down/PRP the/AT0 stairs/NN2 yeah/ITJ it/PNP be/VBZ alright/AJ0 ,/PUN you/PNP know/VVB ,/PUN have/VHD a/AT0 word/NN1 with/PRP she/PNP",
-K/KE/KE2.xml,KE2RE00W,038404,2,,A,3,1,Do you know that,do/VDB you/PNP know/VVI that/DT0,
+K/KE/KE2.xml,KE2RE00W,038404,0,,A,1,1,"You just, you know speaking to Chris then?","you/PNP just/AV0 ,/PUN you/PNP know/VVB speak/VVG to/PRP chris/NP0 then/AV0 ?/PUN ",
+K/KE/KE2.xml,KE2RE00W,038404,1,,B,2,1,"Yeah, she was just sort of coming down the stairs yeah it's alright, you know, had a word with her","yeah/ITJ ,/PUN she/PNP be/VBD just/AV0 [sort/NN1 of/PRF]/AV0 come/VVG down/PRP the/AT0 stairs/NN2 yeah/ITJ it/PNP be/VBZ alright/AJ0 ,/PUN you/PNP know/VVB ,/PUN have/VHD a/AT0 word/NN1 with/PRP she/PNP ",
+K/KE/KE2.xml,KE2RE00W,038404,2,,A,3,1,Do you know that,do/VDB you/PNP know/VVI that/DT0 ,

@@ -1,5 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE024,038910,0,,A,1,1,Fancy going to the supermarket like that?,fancy/VVB go/VVG to/PRP the/AT0 supermarket/NN1 like/PRP that/DT0 ?/PUN,
-K/KE/KE2.xml,KE2RE024,038910,1,,B,2,1,"I'll put these on for erm  I bet erm  Bryant  <<REDACTED (name)>> was sort of he wasn't feeling he's hard done by and i- in fact he, you know went","i/PNP will/VM0 put/VVI these/DT0 on/AVP for/CJS erm/UNC i/PNP bet/VVB erm/UNC bryant/NP0 be/VBD [sort/NN1 of/PRF]/AV0 he/PNP be/VBD not/XX0 feel/VVG he/PNP be/VBZ hard/AV0 do/VDN by/AVP and/CJC i/UNC in/PRP fact/NN1 he/PNP ,/PUN you/PNP know/VVB go/VVD",
-K/KE/KE2.xml,KE2RE024,038910,2,,A,3,1,Yeah.,yeah/ITJ ./PUN,
-K/KE/KE2.xml,KE2RE024,038910,3,,B,4,1,He's always  pleasant.,he/PNP be/VBZ always/AV0 pleasant/AJ0 ./PUN,
+K/KE/KE2.xml,KE2RE024,038910,0,,A,1,1,Fancy going to the supermarket like that?,fancy/VVB go/VVG to/PRP the/AT0 supermarket/NN1 like/PRP that/DT0 ?/PUN ,
+K/KE/KE2.xml,KE2RE024,038910,1,,B,2,1,I'll put these on for erm  --,i/PNP will/VM0 put/VVI these/DT0 on/AVP for/CJS erm/UNC ,
+K/KE/KE2.xml,KE2RE024,038910,2,,B,2,2,--I bet erm  --,i/PNP bet/VVB erm/UNC ,
+K/KE/KE2.xml,KE2RE024,038910,3,,B,2,3,"--Bryant  <<REDACTED (name)>> was sort of he wasn't feeling he's hard done by and i- in fact he, you know went ","bryant/NP0 be/VBD [sort/NN1 of/PRF]/AV0 he/PNP be/VBD not/XX0 feel/VVG he/PNP be/VBZ hard/AV0 do/VDN by/AVP and/CJC i/UNC in/PRP fact/NN1 he/PNP ,/PUN you/PNP know/VVB go/VVD ",
+K/KE/KE2.xml,KE2RE024,038910,4,,A,3,1,Yeah.,yeah/ITJ ./PUN ,
+K/KE/KE2.xml,KE2RE024,038910,5,,B,4,1,He's always  --,he/PNP be/VBZ always/AV0 ,
+K/KE/KE2.xml,KE2RE024,038910,6,,B,4,2,--pleasant.,pleasant/AJ0 ./PUN ,

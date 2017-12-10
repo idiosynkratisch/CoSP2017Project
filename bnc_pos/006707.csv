@@ -1,6 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDE.xml,KDERE006,006707,0,,A,1,1,What is  this?,what/DTQ be/VBZ this/DT0 ?/PUN,
-K/KD/KDE.xml,KDERE006,006707,1,,B,2,1,Well it's the  fishing net for the goldfish.,well/AV0 it/PNP be/VBZ the/AT0 fishing/NN1 net/NN1 for/PRP the/AT0 goldfish/NN0 ./PUN,
-K/KD/KDE.xml,KDERE006,006707,2,,A,3,1,(()) ,,
-K/KD/KDE.xml,KDERE006,006707,3,,B,4,1,Well when we clean out the er thing with the big fishing net for the pond but it's a small one when we clean out the fish tank.,well/AV0 when/CJS we/PNP clean/VVB out/AVP-PRP the/AT0 er/UNC thing/NN1 with/PRP the/AT0 big/AJ0 fishing/NN1 net/NN1 for/PRP the/AT0 pond/NN1 but/CJC it/PNP be/VBZ a/AT0 small/AJ0 one/PNI when/CJS we/PNP clean/VVB out/AVP-PRP the/AT0 fish/NN0 tank/NN1-VVB ./PUN,
-K/KD/KDE.xml,KDERE006,006707,4,,A,5,1,(()) can I?,can/VM0 i/PNP ?/PUN,
+K/KD/KDE.xml,KDERE006,006707,0,,A,1,1,What is  --,what/DTQ be/VBZ ,
+K/KD/KDE.xml,KDERE006,006707,1,,A,1,2,--this?,this/DT0 ?/PUN ,
+K/KD/KDE.xml,KDERE006,006707,2,,B,2,1,Well it's the  --,well/AV0 it/PNP be/VBZ the/AT0 ,
+K/KD/KDE.xml,KDERE006,006707,3,,B,2,2,--fishing net for the goldfish.,fishing/NN1 net/NN1 for/PRP the/AT0 goldfish/NN0 ./PUN ,
+K/KD/KDE.xml,KDERE006,006707,4,,A,3,1,(()) ,,
+K/KD/KDE.xml,KDERE006,006707,5,,B,4,1,Well when we clean out the er thing with the big fishing net for the pond but it's a small one when we clean out the fish tank.,well/AV0 when/CJS we/PNP clean/VVB out/AVP-PRP the/AT0 er/UNC thing/NN1 with/PRP the/AT0 big/AJ0 fishing/NN1 net/NN1 for/PRP the/AT0 pond/NN1 but/CJC it/PNP be/VBZ a/AT0 small/AJ0 one/PNI when/CJS we/PNP clean/VVB out/AVP-PRP the/AT0 fish/NN0 tank/NN1-VVB ./PUN ,
+K/KD/KDE.xml,KDERE006,006707,6,,A,5,1,(()) can I?,can/VM0 i/PNP ?/PUN ,

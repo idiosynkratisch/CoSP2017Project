@@ -1,3 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KC/KC1.xml,KC1RE00E,040902,0,,A,1,1,"Dad, how did you catch the shelf  when er it was just about to fall?",,
-K/KC/KC1.xml,KC1RE00E,040902,1,,B,2,1,(()) shelf,,
+K/KC/KC1.xml,KC1RE00E,040902,0,,A,1,1,"Dad, how did you catch the shelf  --",,
+K/KC/KC1.xml,KC1RE00E,040902,1,,A,1,2,--when er it was just about to fall?,,
+K/KC/KC1.xml,KC1RE00E,040902,2,,B,2,1,(()) shelf ,,

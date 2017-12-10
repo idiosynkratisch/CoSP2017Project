@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE032,039401,0,,A,1,1,Oh haven't we?,oh/ITJ have/VHB not/XX0 we/PNP ?/PUN,
-K/KE/KE2.xml,KE2RE032,039401,1,,B,2,1,That one we had first so,that/DT0 one/PNI we/PNP have/VHD first/ORD so/AV0,
-K/KE/KE2.xml,KE2RE032,039401,2,,A,3,1,"Oh finish that yeah, yeah","oh/ITJ finish/VVB-NN1 that/CJT-DT0 yeah/ITJ ,/PUN yeah/ITJ",
-K/KE/KE2.xml,KE2RE032,039401,3,,B,4,1,just find it in the fridge,just/AV0 find/VVB it/PNP in/PRP the/AT0 fridge/NN1,
+K/KE/KE2.xml,KE2RE032,039401,0,,A,1,1,Oh haven't we?,oh/ITJ have/VHB not/XX0 we/PNP ?/PUN ,
+K/KE/KE2.xml,KE2RE032,039401,1,,B,2,1,That one we had first so,that/DT0 one/PNI we/PNP have/VHD first/ORD so/AV0 ,
+K/KE/KE2.xml,KE2RE032,039401,2,,A,3,1,"Oh finish that yeah, yeah","oh/ITJ finish/VVB-NN1 that/CJT-DT0 yeah/ITJ ,/PUN yeah/ITJ ",
+K/KE/KE2.xml,KE2RE032,039401,3,,B,4,1,just find it in the fridge,just/AV0 find/VVB it/PNP in/PRP the/AT0 fridge/NN1 ,

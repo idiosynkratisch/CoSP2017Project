@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBF.xml,KBFRE00B,015012,0,,A,1,1,Her dad said he lives there and erm.,she/DPS dad/NN1 say/VVD he/PNP live/VVZ there/AV0 and/CJC erm/UNC ./PUN,
-K/KB/KBF.xml,KBFRE00B,015012,1,,B,2,1,"Pick that one up now,(()) the bits.","pick/VVB that/DT0 one/PNI up/AVP now/AV0 ,/PUN the/AT0 bit/NN2 ./PUN",
-K/KB/KBF.xml,KBFRE00B,015012,2,,A,3,1,"and erm,(()) .","and/CJC erm/UNC ,/PUN ./PUN",
-K/KB/KBF.xml,KBFRE00B,015012,3,,B,4,1,"Won't hurt, spying on them in it?","will/VM0 not/XX0 hurt/VVI ,/PUN spy/VVG on/PRP they/PNP in/PRP it/PNP ?/PUN",
+K/KB/KBF.xml,KBFRE00B,015012,0,,A,1,1,Her dad said he lives there and erm.,she/DPS dad/NN1 say/VVD he/PNP live/VVZ there/AV0 and/CJC erm/UNC ./PUN ,
+K/KB/KBF.xml,KBFRE00B,015012,1,,B,2,1,"Pick that one up now,(()) the bits.","pick/VVB that/DT0 one/PNI up/AVP now/AV0 ,/PUN the/AT0 bit/NN2 ./PUN ",
+K/KB/KBF.xml,KBFRE00B,015012,2,,A,3,1,"and erm,(()) .","and/CJC erm/UNC ,/PUN ./PUN ",
+K/KB/KBF.xml,KBFRE00B,015012,3,,B,4,1,"Won't hurt, spying on them in it?","will/VM0 not/XX0 hurt/VVI ,/PUN spy/VVG on/PRP they/PNP in/PRP it/PNP ?/PUN ",

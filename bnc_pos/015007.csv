@@ -1,6 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBF.xml,KBFRE006,015007,0,,A,1,1,"Some of those  Kim's, women she work's with the teacher, he daughter's in this, doesn't half get paid a lot of money","some/DT0 of/PRF those/DT0 kim/NP0 's/POS ,/PUN woman/NN2 she/PNP work/VVB-NN1 be/VBZ with/PRP the/AT0 teacher/NN1 ,/PUN he/PNP daughter/NN1 be/VBZ in/PRP this/DT0 ,/PUN do/VDZ not/XX0 half/AV0 get/VVI pay/VVN a/AT0 lot/NN1 of/PRF money/NN1",
-K/KB/KBF.xml,KBFRE006,015007,1,,B,2,1,"Not for doing this though, ah?","not/XX0 for/PRP do/VDG this/DT0 though/AV0 ,/PUN ah/ITJ ?/PUN",
-K/KB/KBF.xml,KBFRE006,015007,2,,A,3,1,"It is, yeah, something like that, I  (()) it's quite a lot of money though.","it/PNP be/VBZ ,/PUN yeah/ITJ ,/PUN something/PNI like/PRP that/DT0 ,/PUN i/PNP it/PNP be/VBZ quite/AV0 a/AT0 lot/NN1 of/PRF money/NN1 though/AV0 ./PUN",
-K/KB/KBF.xml,KBFRE006,015007,3,,B,4,1,(()) you might be doing it?<laugh> .<cough> .,you/PNP might/VM0 be/VBI do/VDG it/PNP ?/PUN ./PUN ./PUN,
-K/KB/KBF.xml,KBFRE006,015007,4,,A,5,1,"The kid's love it, Carla would love it wouldn't she?","the/AT0 kid/NN1 's/POS love/NN1-VVB it/PNP ,/PUN carla/NP0 would/VM0 love/VVI it/PNP would/VM0 not/XX0 she/PNP ?/PUN",
+K/KB/KBF.xml,KBFRE006,015007,0,,A,1,1,Some of those  --,some/DT0 of/PRF those/DT0 ,
+K/KB/KBF.xml,KBFRE006,015007,1,,A,1,2,"--Kim's, women she work's with the teacher, he daughter's in this, doesn't half get paid a lot of money ","kim/NP0 's/POS ,/PUN woman/NN2 she/PNP work/VVB-NN1 be/VBZ with/PRP the/AT0 teacher/NN1 ,/PUN he/PNP daughter/NN1 be/VBZ in/PRP this/DT0 ,/PUN do/VDZ not/XX0 half/AV0 get/VVI pay/VVN a/AT0 lot/NN1 of/PRF money/NN1 ",
+K/KB/KBF.xml,KBFRE006,015007,2,,B,2,1,"Not for doing this though, ah?","not/XX0 for/PRP do/VDG this/DT0 though/AV0 ,/PUN ah/ITJ ?/PUN ",
+K/KB/KBF.xml,KBFRE006,015007,3,,A,3,1,"It is, yeah, something like that, I  (()) it's quite a lot of money though.","it/PNP be/VBZ ,/PUN yeah/ITJ ,/PUN something/PNI like/PRP that/DT0 ,/PUN i/PNP it/PNP be/VBZ quite/AV0 a/AT0 lot/NN1 of/PRF money/NN1 though/AV0 ./PUN ",
+K/KB/KBF.xml,KBFRE006,015007,4,,B,4,1,(()) you might be doing it?<laugh> .<cough> .,you/PNP might/VM0 be/VBI do/VDG it/PNP ?/PUN ./PUN ./PUN ,
+K/KB/KBF.xml,KBFRE006,015007,5,,A,5,1,"The kid's love it, Carla would love it wouldn't she?","the/AT0 kid/NN1 's/POS love/NN1-VVB it/PNP ,/PUN carla/NP0 would/VM0 love/VVI it/PNP would/VM0 not/XX0 she/PNP ?/PUN ",

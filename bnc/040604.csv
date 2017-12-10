@@ -1,5 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBL.xml,KBLRE012,040604,0,,A,1,1,Where's the old  Shake and Vac mum?,,
-K/KB/KBL.xml,KBLRE012,040604,1,,B,2,1,Oh I dunno!,,
-K/KB/KBL.xml,KBLRE012,040604,2,,B,2,2,Erm  in the bedroom?,,
-K/KB/KBL.xml,KBLRE012,040604,3,,B,2,3,Is it in there?,,
+K/KB/KBL.xml,KBLRE012,040604,0,,A,1,1,Where's the old  --,,
+K/KB/KBL.xml,KBLRE012,040604,1,,A,1,2,--Shake and Vac mum?,,
+K/KB/KBL.xml,KBLRE012,040604,2,,B,2,1,Oh I dunno!,,
+K/KB/KBL.xml,KBLRE012,040604,3,,B,2,2,Erm  --,,
+K/KB/KBL.xml,KBLRE012,040604,4,,B,2,3,--in the bedroom?,,
+K/KB/KBL.xml,KBLRE012,040604,5,,B,2,4,Is it in there?,,

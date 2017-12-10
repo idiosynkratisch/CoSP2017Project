@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE03A,002407,0,,A,1,1,"Smells delicious, have some more wine, sherry?","smell/VVZ delicious/AJ0 ,/PUN have/VHB some/DT0 more/DT0 wine/NN1 ,/PUN sherry/NN1 ?/PUN",
-K/KB/KBK.xml,KBKRE03A,002407,1,,B,2,1,"Erm,(()) .","erm/UNC ,/PUN ./PUN",
-K/KB/KBK.xml,KBKRE03A,002407,2,,A,3,1,Good.,good/AJ0 ./PUN,
-K/KB/KBK.xml,KBKRE03A,002407,3,,A,3,2,"I think smoked haddock has a really good flavour, aroma, aroma, as well as flavour.","i/PNP think/VVB smoked/AJ0 haddock/NN0 have/VHZ a/AT0 really/AV0 good/AJ0 flavour/NN1 ,/PUN aroma/NN1 ,/PUN aroma/NN1 ,/PUN [as/CJS well/AV0 as/CJS]/PRP flavour/NN1 ./PUN",
-K/KB/KBK.xml,KBKRE03A,002407,4,,B,4,1,Thank you.,thank/VVB you/PNP ./PUN,
-K/KB/KBK.xml,KBKRE03A,002407,5,,A,5,1,You're welcome.,you/PNP be/VBB welcome/AJ0 ./PUN,
+K/KB/KBK.xml,KBKRE03A,002407,0,,A,1,1,"Smells delicious, have some more wine, sherry?","smell/VVZ delicious/AJ0 ,/PUN have/VHB some/DT0 more/DT0 wine/NN1 ,/PUN sherry/NN1 ?/PUN ",
+K/KB/KBK.xml,KBKRE03A,002407,1,,B,2,1,"Erm,(()) .","erm/UNC ,/PUN ./PUN ",
+K/KB/KBK.xml,KBKRE03A,002407,2,,A,3,1,Good.,good/AJ0 ./PUN ,
+K/KB/KBK.xml,KBKRE03A,002407,3,,A,3,2,"I think smoked haddock has a really good flavour, aroma, aroma, as well as flavour.","i/PNP think/VVB smoked/AJ0 haddock/NN0 have/VHZ a/AT0 really/AV0 good/AJ0 flavour/NN1 ,/PUN aroma/NN1 ,/PUN aroma/NN1 ,/PUN [as/CJS well/AV0 as/CJS]/PRP flavour/NN1 ./PUN ",
+K/KB/KBK.xml,KBKRE03A,002407,4,,B,4,1,Thank you.,thank/VVB you/PNP ./PUN ,
+K/KB/KBK.xml,KBKRE03A,002407,5,,A,5,1,You're welcome.,you/PNP be/VBB welcome/AJ0 ./PUN ,

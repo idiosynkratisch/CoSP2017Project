@@ -1,4 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDP.xml,KDPRE01X,000909,0,,A,1,1,"To set up that sort of operation  (()) twenty four hours trucks rolling in and out, you've got to be on an industrial estate (())","to/TO0 set/VVI up/AVP that/DT0 sort/NN1 of/PRF operation/NN1 twenty/CRD four/CRD hour/NN2 truck/NN2 roll/VVG in/AVP and/CJC out/AVP ,/PUN you/PNP have/VHB get/VVN to/TO0 be/VBI on/PRP an/AT0 industrial/AJ0 estate/NN1",
-K/KD/KDP.xml,KDPRE01X,000909,1,,B,2,1,Mm.,mm/ITJ ./PUN,
-K/KD/KDP.xml,KDPRE01X,000909,2,,A,3,1,There's no way you're gonna get round  (()) whatsoever.,there/EX0 be/VBZ no/AT0 way/NN1 you/PNP be/VBB gon/VVG na/TO0 get/VVI round/AVP-PRP whatsoever/DTQ ./PUN,
+K/KD/KDP.xml,KDPRE01X,000909,0,,A,1,1,"To set up that sort of operation  (()) twenty four hours trucks rolling in and out, you've got to be on an industrial estate (()) ","to/TO0 set/VVI up/AVP that/DT0 sort/NN1 of/PRF operation/NN1 twenty/CRD four/CRD hour/NN2 truck/NN2 roll/VVG in/AVP and/CJC out/AVP ,/PUN you/PNP have/VHB get/VVN to/TO0 be/VBI on/PRP an/AT0 industrial/AJ0 estate/NN1 ",
+K/KD/KDP.xml,KDPRE01X,000909,1,,B,2,1,Mm.,mm/ITJ ./PUN ,
+K/KD/KDP.xml,KDPRE01X,000909,2,,A,3,1,There's no way you're gonna get round  (()) whatsoever.,there/EX0 be/VBZ no/AT0 way/NN1 you/PNP be/VBB gon/VVG na/TO0 get/VVI round/AVP-PRP whatsoever/DTQ ./PUN ,

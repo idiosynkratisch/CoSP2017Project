@@ -1,6 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KC3.xml,KC3RE00A,051903,0,,A,1,1,Is Eileen in?,,
 K/KC/KC3.xml,KC3RE00A,051903,1,,B,2,1,Yeah.,,
-K/KC/KC3.xml,KC3RE00A,051903,2,,A,3,1,Could I get  I'd like to get an Irish accent on the   <laugh> Where would she be?,,
-K/KC/KC3.xml,KC3RE00A,051903,3,,B,4,1,I'll er go and counsel Yvonne where she is and see if she's (()),,
-K/KC/KC3.xml,KC3RE00A,051903,4,,A,5,1,"Tell her, yes, yes.",,
+K/KC/KC3.xml,KC3RE00A,051903,2,,A,3,1,Could I get  --,,
+K/KC/KC3.xml,KC3RE00A,051903,3,,A,3,2,--I'd like to get an Irish accent on the   --,,
+K/KC/KC3.xml,KC3RE00A,051903,4,,A,3,3,--<laugh> Where would she be?,,
+K/KC/KC3.xml,KC3RE00A,051903,5,,B,4,1,I'll er go and counsel Yvonne where she is and see if she's (()) ,,
+K/KC/KC3.xml,KC3RE00A,051903,6,,A,5,1,"Tell her, yes, yes.",,

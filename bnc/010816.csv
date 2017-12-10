@@ -1,4 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE3.xml,KE3RE036,010816,0,,A,1,1,I'll see this little bit then I'll go and finish that ironing and  would you record er Watchdog for me?,,
-K/KE/KE3.xml,KE3RE036,010816,1,,B,2,1,Yeah.,,
-K/KE/KE3.xml,KE3RE036,010816,2,,A,3,1,On car safety (()),,
+K/KE/KE3.xml,KE3RE036,010816,0,,A,1,1,I'll see this little bit then I'll go and finish that ironing and  --,,
+K/KE/KE3.xml,KE3RE036,010816,1,,A,1,2,--would you record er Watchdog for me?,,
+K/KE/KE3.xml,KE3RE036,010816,2,,B,2,1,Yeah.,,
+K/KE/KE3.xml,KE3RE036,010816,3,,A,3,1,On car safety (()) ,,

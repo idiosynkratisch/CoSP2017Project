@@ -1,6 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDP.xml,KDPRE01P,000902,0,,A,1,1,Do you need anything from the house?,do/VDB you/PNP need/VVI anything/PNI from/PRP the/AT0 house/NN1 ?/PUN,
-K/KD/KDP.xml,KDPRE01P,000902,1,,B,2,1,No.,no/ITJ ./PUN,
-K/KD/KDP.xml,KDPRE01P,000902,2,,B,2,2,You got the bottle?,you/PNP get/VVD the/AT0 bottle/NN1 ?/PUN,
-K/KD/KDP.xml,KDPRE01P,000902,3,,A,3,1,Yeah.,yeah/ITJ ./PUN,
-K/KD/KDP.xml,KDPRE01P,000902,4,,A,3,2,There's the bottle.,there/EX0 be/VBZ the/AT0 bottle/NN1 ./PUN,
+K/KD/KDP.xml,KDPRE01P,000902,0,,A,1,1,Do you need anything from the house?,do/VDB you/PNP need/VVI anything/PNI from/PRP the/AT0 house/NN1 ?/PUN ,
+K/KD/KDP.xml,KDPRE01P,000902,1,,B,2,1,No.,no/ITJ ./PUN ,
+K/KD/KDP.xml,KDPRE01P,000902,2,,B,2,2,You got the bottle?,you/PNP get/VVD the/AT0 bottle/NN1 ?/PUN ,
+K/KD/KDP.xml,KDPRE01P,000902,3,,A,3,1,Yeah.,yeah/ITJ ./PUN ,
+K/KD/KDP.xml,KDPRE01P,000902,4,,A,3,2,--,,
+K/KD/KDP.xml,KDPRE01P,000902,5,,A,3,3,--There's the bottle.,there/EX0 be/VBZ the/AT0 bottle/NN1 ./PUN ,

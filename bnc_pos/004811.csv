@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KC/KCD.xml,KCDRE00P,004811,0,,A,1,1,"I was just thinking that the dinner's probably only just come on, I didn't quite know how long, how late we be huh.","i/PNP be/VBD just/AV0 think/VVG that/CJT the/AT0 dinner/NN1 be/VBZ probably/AV0 only/AV0-AJ0 just/AV0 come/VVB on/AVP ,/PUN i/PNP do/VDD not/XX0 quite/AV0 know/VVI how/AVQ long/AV0-AJ0 ,/PUN how/AVQ late/AJ0 we/PNP be/VBB huh/ITJ ./PUN",
-K/KC/KCD.xml,KCDRE00P,004811,1,,A,1,2,"Nice cup of tea any way, do my ironing I suppose","nice/AJ0 cup/NN1 of/PRF tea/NN1 any/DT0 way/NN1 ,/PUN do/VDB i/DPS ironing/NN1 i/PNP suppose/VVB",
-K/KC/KCD.xml,KCDRE00P,004811,2,,B,2,1,Shall I ask daddy to get me a label for my (()) .,shall/VM0 i/PNP ask/VVI daddy/NN1 to/TO0 get/VVI i/PNP a/AT0 label/NN1 for/PRP i/DPS ./PUN,
-K/KC/KCD.xml,KCDRE00P,004811,3,,A,3,1,"Huh, you can try.","huh/ITJ ,/PUN you/PNP can/VM0 try/VVI ./PUN",
-K/KC/KCD.xml,KCDRE00P,004811,4,,A,3,2,"Well you can do one with the erm, with the little thing.","well/AV0 you/PNP can/VM0 do/VDI one/PNI with/PRP the/AT0 erm/UNC ,/PUN with/PRP the/AT0 little/AJ0 thing/NN1 ./PUN",
+K/KC/KCD.xml,KCDRE00P,004811,0,,A,1,1,"I was just thinking that the dinner's probably only just come on, I didn't quite know how long, how late we be huh.","i/PNP be/VBD just/AV0 think/VVG that/CJT the/AT0 dinner/NN1 be/VBZ probably/AV0 only/AV0-AJ0 just/AV0 come/VVB on/AVP ,/PUN i/PNP do/VDD not/XX0 quite/AV0 know/VVI how/AVQ long/AV0-AJ0 ,/PUN how/AVQ late/AJ0 we/PNP be/VBB huh/ITJ ./PUN ",
+K/KC/KCD.xml,KCDRE00P,004811,1,,A,1,2,"Nice cup of tea any way, do my ironing I suppose ","nice/AJ0 cup/NN1 of/PRF tea/NN1 any/DT0 way/NN1 ,/PUN do/VDB i/DPS ironing/NN1 i/PNP suppose/VVB ",
+K/KC/KCD.xml,KCDRE00P,004811,2,,B,2,1,Shall I ask daddy to get me a label for my (()) .,shall/VM0 i/PNP ask/VVI daddy/NN1 to/TO0 get/VVI i/PNP a/AT0 label/NN1 for/PRP i/DPS ./PUN ,
+K/KC/KCD.xml,KCDRE00P,004811,3,,A,3,1,"Huh, you can try.","huh/ITJ ,/PUN you/PNP can/VM0 try/VVI ./PUN ",
+K/KC/KCD.xml,KCDRE00P,004811,4,,A,3,2,"Well you can do one with the erm, with the little thing.","well/AV0 you/PNP can/VM0 do/VDI one/PNI with/PRP the/AT0 erm/UNC ,/PUN with/PRP the/AT0 little/AJ0 thing/NN1 ./PUN ",

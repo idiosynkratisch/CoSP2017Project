@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KC4.xml,KC4RE00K,006606,0,,A,1,1,That's not whisky.,,
 K/KC/KC4.xml,KC4RE00K,006606,1,,B,2,1,Oh.,,
-K/KC/KC4.xml,KC4RE00K,006606,2,,A,3,1,Bloody sweat it is.<laugh>,,
+K/KC/KC4.xml,KC4RE00K,006606,2,,A,3,1,Bloody sweat it is.<laugh> ,,
 K/KC/KC4.xml,KC4RE00K,006606,3,,B,4,1,(()) ,,
 K/KC/KC4.xml,KC4RE00K,006606,4,,A,5,1,"Kathleen, Kathleen.",,
 K/KC/KC4.xml,KC4RE00K,006606,5,,B,6,1,That's me.,,

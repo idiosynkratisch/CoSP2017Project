@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE02R,002323,0,,A,1,1,Suzannah said that she might be going up tomorrow evening.,suzannah/NP0 say/VVD that/CJT she/PNP might/VM0 be/VBI go/VVG up/AVP tomorrow/AV0 evening/NN1 ./PUN,
-K/KB/KBK.xml,KBKRE02R,002323,1,,B,2,1,Aha.,aha/ITJ ./PUN,
-K/KB/KBK.xml,KBKRE02R,002323,2,,A,3,1,Not definitely.,not/XX0 definitely/AV0 ./PUN,
-K/KB/KBK.xml,KBKRE02R,002323,3,,B,4,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE02R,002323,0,,A,1,1,Suzannah said that she might be going up tomorrow evening.,suzannah/NP0 say/VVD that/CJT she/PNP might/VM0 be/VBI go/VVG up/AVP tomorrow/AV0 evening/NN1 ./PUN ,
+K/KB/KBK.xml,KBKRE02R,002323,1,,B,2,1,Aha.,aha/ITJ ./PUN ,
+K/KB/KBK.xml,KBKRE02R,002323,2,,A,3,1,Not definitely.,not/XX0 definitely/AV0 ./PUN ,
+K/KB/KBK.xml,KBKRE02R,002323,3,,B,4,1,Right.,right/AV0 ./PUN ,

@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE041,002508,0,,A,1,1,Shall I cut you some toast?,shall/VM0 i/PNP cut/VVI you/PNP some/DT0 toast/NN1 ?/PUN,
+K/KB/KBK.xml,KBKRE041,002508,0,,A,1,1,Shall I cut you some toast?,shall/VM0 i/PNP cut/VVI you/PNP some/DT0 toast/NN1 ?/PUN ,
 K/KB/KBK.xml,KBKRE041,002508,1,,B,2,1,(()) ,,
-K/KB/KBK.xml,KBKRE041,002508,2,,A,3,1,Couple of pieces?,couple/NN1-VVB of/PRF piece/NN2 ?/PUN,
-K/KB/KBK.xml,KBKRE041,002508,3,,B,4,1,(()) one.,one/CRD ./PUN,
-K/KB/KBK.xml,KBKRE041,002508,4,,A,5,1,O K.,o/ZZ0 k./ZZ0,
+K/KB/KBK.xml,KBKRE041,002508,2,,A,3,1,Couple of pieces?,couple/NN1-VVB of/PRF piece/NN2 ?/PUN ,
+K/KB/KBK.xml,KBKRE041,002508,3,,B,4,1,(()) one.,one/CRD ./PUN ,
+K/KB/KBK.xml,KBKRE041,002508,4,,A,5,1,O K.,o/ZZ0 k./ZZ0 ,

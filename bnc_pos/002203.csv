@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE013,002203,0,,A,1,1,Gherkin for you?,gherkin/NN1-NP0 for/PRP you/PNP ?/PUN,
-K/KB/KBK.xml,KBKRE013,002203,1,,B,2,1,Get out a small one.,get/VVB out/AVP a/AT0 small/AJ0 one/PNI ./PUN,
-K/KB/KBK.xml,KBKRE013,002203,2,,A,3,1,"That one isn't, but there are, I'll get you one.","that/DT0 one/PNI be/VBZ not/XX0 ,/PUN but/CJC there/EX0 be/VBB ,/PUN i/PNP will/VM0 get/VVI you/PNP one/PNI-CRD ./PUN",
-K/KB/KBK.xml,KBKRE013,002203,3,,B,4,1,(()) half a one.,half/DT0 a/AT0 one/PNI ./PUN,
+K/KB/KBK.xml,KBKRE013,002203,0,,A,1,1,Gherkin for you?,gherkin/NN1-NP0 for/PRP you/PNP ?/PUN ,
+K/KB/KBK.xml,KBKRE013,002203,1,,B,2,1,Get out a small one.,get/VVB out/AVP a/AT0 small/AJ0 one/PNI ./PUN ,
+K/KB/KBK.xml,KBKRE013,002203,2,,A,3,1,"That one isn't, but there are, I'll get you one.","that/DT0 one/PNI be/VBZ not/XX0 ,/PUN but/CJC there/EX0 be/VBB ,/PUN i/PNP will/VM0 get/VVI you/PNP one/PNI-CRD ./PUN ",
+K/KB/KBK.xml,KBKRE013,002203,3,,B,4,1,(()) half a one.,half/DT0 a/AT0 one/PNI ./PUN ,

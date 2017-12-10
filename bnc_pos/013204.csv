@@ -1,3 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDA.xml,KDARE02U,013204,0,,A,1,1,"Stupid, but  quite amazing  what time you here till half five?","stupid/AJ0 ,/PUN but/CJC quite/AV0 amazing/AJ0 what/DTQ time/NN1 you/PNP here/AV0 till/PRP-CJS half/DT0 five/CRD ?/PUN",
-K/KD/KDA.xml,KDARE02U,013204,1,,B,2,1,No just five.,no/ITJ just/AV0 five/CRD ./PUN,
+K/KD/KDA.xml,KDARE02U,013204,0,,A,1,1,"Stupid, but  --","stupid/AJ0 ,/PUN but/CJC ",
+K/KD/KDA.xml,KDARE02U,013204,1,,A,1,2,--quite amazing  --,quite/AV0 amazing/AJ0 ,
+K/KD/KDA.xml,KDARE02U,013204,2,,A,1,3,--what time you here till half five?,what/DTQ time/NN1 you/PNP here/AV0 till/PRP-CJS half/DT0 five/CRD ?/PUN ,
+K/KD/KDA.xml,KDARE02U,013204,3,,B,2,1,No just five.,no/ITJ just/AV0 five/CRD ./PUN ,

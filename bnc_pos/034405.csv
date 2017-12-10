@@ -1,5 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KD5.xml,KD5RE01K,034405,0,,A,1,1,"Oy, slaphead!","oy/ITJ ,/PUN slaphead/NN1 !/PUN",
-K/KD/KD5.xml,KD5RE01K,034405,1,,B,2,1,Me?,i/PNP ?/PUN,
-K/KD/KD5.xml,KD5RE01K,034405,2,,A,3,1,"Yeah, the chap from  Arkworth Generation for you.","yeah/ITJ ,/PUN the/AT0 chap/NN1 from/PRP arkworth/NP0 generation/NN1 for/PRP you/PNP ./PUN",
-K/KD/KD5.xml,KD5RE01K,034405,3,,B,4,1,Excellent!,excellent/AJ0 !/PUN,
+K/KD/KD5.xml,KD5RE01K,034405,0,,A,1,1,"Oy, slaphead!","oy/ITJ ,/PUN slaphead/NN1 !/PUN ",
+K/KD/KD5.xml,KD5RE01K,034405,1,,B,2,1,Me?,i/PNP ?/PUN ,
+K/KD/KD5.xml,KD5RE01K,034405,2,,A,3,1,"Yeah, the chap from  --","yeah/ITJ ,/PUN the/AT0 chap/NN1 from/PRP ",
+K/KD/KD5.xml,KD5RE01K,034405,3,,A,3,2,--Arkworth Generation for you.,arkworth/NP0 generation/NN1 for/PRP you/PNP ./PUN ,
+K/KD/KD5.xml,KD5RE01K,034405,4,,B,4,1,Excellent!,excellent/AJ0 !/PUN ,

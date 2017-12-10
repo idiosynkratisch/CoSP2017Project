@@ -1,5 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE00T,002125,0,,A,1,1,Three of the people listed are in Exeter.,three/CRD of/PRF the/AT0 people/NN0 list/VVN-AJ0 be/VBB in/PRP exeter/NP0 ./PUN,
-K/KB/KBK.xml,KBKRE00T,002125,1,,B,2,1,That's strange.,that/DT0 be/VBZ strange/AJ0 ./PUN,
-K/KB/KBK.xml,KBKRE00T,002125,2,,A,3,1,Hm  Gracious nearly half past twelve.,hm/ITJ gracious/AJ0 nearly/AV0 half/DT0 past/PRP twelve/CRD ./PUN,
-K/KB/KBK.xml,KBKRE00T,002125,3,,B,4,1,(()) .,./PUN,
+K/KB/KBK.xml,KBKRE00T,002125,0,,A,1,1,Three of the people listed are in Exeter.,three/CRD of/PRF the/AT0 people/NN0 list/VVN-AJ0 be/VBB in/PRP exeter/NP0 ./PUN ,
+K/KB/KBK.xml,KBKRE00T,002125,1,,B,2,1,That's strange.,that/DT0 be/VBZ strange/AJ0 ./PUN ,
+K/KB/KBK.xml,KBKRE00T,002125,2,,A,3,1,Hm  --,hm/ITJ ,
+K/KB/KBK.xml,KBKRE00T,002125,3,,A,3,2,--Gracious nearly half past twelve.,gracious/AJ0 nearly/AV0 half/DT0 past/PRP twelve/CRD ./PUN ,
+K/KB/KBK.xml,KBKRE00T,002125,4,,B,4,1,(()) .,./PUN ,

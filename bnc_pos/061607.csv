@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KD2.xml,KD2RE004,061607,0,,A,1,1,(()) ?,?/PUN,
-K/KD/KD2.xml,KD2RE004,061607,1,,B,2,1,Mrs <<REDACTED (name)>> .,mrs/NP0 ./PUN,
-K/KD/KD2.xml,KD2RE004,061607,2,,A,3,1,Is it?,be/VBZ it/PNP ?/PUN,
-K/KD/KD2.xml,KD2RE004,061607,3,,B,4,1,Oh I know them.,oh/ITJ i/PNP know/VVB they/PNP ./PUN,
+K/KD/KD2.xml,KD2RE004,061607,0,,A,1,1,(()) ?,?/PUN ,
+K/KD/KD2.xml,KD2RE004,061607,1,,B,2,1,Mrs <<REDACTED (name)>> .,mrs/NP0 ./PUN ,
+K/KD/KD2.xml,KD2RE004,061607,2,,A,3,1,Is it?,be/VBZ it/PNP ?/PUN ,
+K/KD/KD2.xml,KD2RE004,061607,3,,B,4,1,Oh I know them.,oh/ITJ i/PNP know/VVB they/PNP ./PUN ,

@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KC4.xml,KC4RE00D,006507,0,,A,1,1,"I should've got a day return, it wouldn't, it'll been cheaper.",,
 K/KC/KC4.xml,KC4RE00D,006507,1,,B,2,1,"I did, but, how much for a single, two pound sixty and return two pound seventy.",,
-K/KC/KC4.xml,KC4RE00D,006507,2,,A,3,1,"Yeah, ten pence difference.<noise - train>",,
+K/KC/KC4.xml,KC4RE00D,006507,2,,A,3,1,"Yeah, ten pence difference.<noise - train> ",,
 K/KC/KC4.xml,KC4RE00D,006507,3,,B,4,1,(()) .,,
 K/KC/KC4.xml,KC4RE00D,006507,4,,B,4,2,"What, a day return you see, is usually cheaper than a single, well it use to be.",,
 K/KC/KC4.xml,KC4RE00D,006507,5,,A,5,1,"Yeah, I think it might be now.",,

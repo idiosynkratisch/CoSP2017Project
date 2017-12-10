@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KS/KSS.xml,KSSRE00E,074306,0,,A,1,1,But mum I haven't,but/CJC mum/NN1 i/PNP have/VHB not/XX0,
-K/KS/KSS.xml,KSSRE00E,074306,1,,B,2,1,You like a  (()) don't ya?,you/PNP like/VVB a/AT0 do/VDB not/XX0 you/PNP ?/PUN,
-K/KS/KSS.xml,KSSRE00E,074306,2,,A,3,1,yes please mum,yes/ITJ please/AV0 mum/NN1,
-K/KS/KSS.xml,KSSRE00E,074306,3,,B,4,1,"right, er","right/AV0 ,/PUN er/UNC",
+K/KS/KSS.xml,KSSRE00E,074306,0,,A,1,1,But mum I haven't ,but/CJC mum/NN1 i/PNP have/VHB not/XX0 ,
+K/KS/KSS.xml,KSSRE00E,074306,1,,B,2,1,You like a  (()) don't ya?,you/PNP like/VVB a/AT0 do/VDB not/XX0 you/PNP ?/PUN ,
+K/KS/KSS.xml,KSSRE00E,074306,2,,A,3,1,yes please mum ,yes/ITJ please/AV0 mum/NN1 ,
+K/KS/KSS.xml,KSSRE00E,074306,3,,B,4,1,"right, er","right/AV0 ,/PUN er/UNC ",

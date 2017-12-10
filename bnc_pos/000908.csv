@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDP.xml,KDPRE01W,000908,0,,A,1,1,Straight over?,straight/AV0-AJ0 over/AVP-PRP ?/PUN,
-K/KD/KDP.xml,KDPRE01W,000908,1,,B,2,1,Haven't been down here for a while.,have/VHB not/XX0 be/VBN down/AVP here/AV0 for/PRP a/AT0 while/NN1 ./PUN,
-K/KD/KDP.xml,KDPRE01W,000908,2,,B,2,2,It's all  (()) new to me.,it/PNP be/VBZ all/DT0 new/AJ0 to/PRP i/PNP ./PUN,
-K/KD/KDP.xml,KDPRE01W,000908,3,,B,2,3,(()) . I've not been down here (()),./PUN i/PNP have/VHB not/XX0 be/VBN down/AVP here/AV0,
+K/KD/KDP.xml,KDPRE01W,000908,0,,A,1,1,Straight over?,straight/AV0-AJ0 over/AVP-PRP ?/PUN ,
+K/KD/KDP.xml,KDPRE01W,000908,1,,B,2,1,Haven't been down here for a while.,have/VHB not/XX0 be/VBN down/AVP here/AV0 for/PRP a/AT0 while/NN1 ./PUN ,
+K/KD/KDP.xml,KDPRE01W,000908,2,,B,2,2,It's all  (()) new to me.,it/PNP be/VBZ all/DT0 new/AJ0 to/PRP i/PNP ./PUN ,
+K/KD/KDP.xml,KDPRE01W,000908,3,,B,2,3,(()) . I've not been down here (()) ,./PUN i/PNP have/VHB not/XX0 be/VBN down/AVP here/AV0 ,

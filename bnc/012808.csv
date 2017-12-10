@@ -1,6 +1,9 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDA.xml,KDARE02C,012808,0,,A,1,1,What does Sud Milsch mean?,,
-K/KD/KDA.xml,KDARE02C,012808,1,,B,2,1,Fresh milk  fresh milk.,,
-K/KD/KDA.xml,KDARE02C,012808,2,,A,3,1,Could be.,,
-K/KD/KDA.xml,KDARE02C,012808,3,,B,4,1,Ask Graham.,,
-K/KD/KDA.xml,KDARE02C,012808,4,,A,5,1,No  not that bothered ha  next time.,,
+K/KD/KDA.xml,KDARE02C,012808,1,,B,2,1,Fresh milk  --,,
+K/KD/KDA.xml,KDARE02C,012808,2,,B,2,2,--fresh milk.,,
+K/KD/KDA.xml,KDARE02C,012808,3,,A,3,1,Could be.,,
+K/KD/KDA.xml,KDARE02C,012808,4,,B,4,1,Ask Graham.,,
+K/KD/KDA.xml,KDARE02C,012808,5,,A,5,1,No  --,,
+K/KD/KDA.xml,KDARE02C,012808,6,,A,5,2,--not that bothered ha  --,,
+K/KD/KDA.xml,KDARE02C,012808,7,,A,5,3,--next time.,,

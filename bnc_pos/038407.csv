@@ -1,4 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE010,038407,0,,A,1,1,"That's very nice, yeah","that/DT0 be/VBZ very/AV0 nice/AJ0 ,/PUN yeah/ITJ",
-K/KE/KE2.xml,KE2RE010,038407,1,,B,2,1,"The strawberry can be a bit, you know, can really be could be like thaw","the/AT0 strawberry/NN1 can/VM0 be/VBI [a/AT0 bit/NN1]/AV0 ,/PUN you/PNP know/VVB ,/PUN can/VM0 really/AV0 be/VBI could/VM0 be/VBI like/PRP thaw/NN1-VVB",
-K/KE/KE2.xml,KE2RE010,038407,2,,A,3,1,"Thaw a little bit, right","thaw/VVB a/AT0 little/AJ0 bit/NN1 ,/PUN right/AV0",
+K/KE/KE2.xml,KE2RE010,038407,0,,A,1,1,"That's very nice, yeah","that/DT0 be/VBZ very/AV0 nice/AJ0 ,/PUN yeah/ITJ ",
+K/KE/KE2.xml,KE2RE010,038407,1,,B,2,1,"The strawberry can be a bit, you know, can really be could be like thaw ","the/AT0 strawberry/NN1 can/VM0 be/VBI [a/AT0 bit/NN1]/AV0 ,/PUN you/PNP know/VVB ,/PUN can/VM0 really/AV0 be/VBI could/VM0 be/VBI like/PRP thaw/NN1-VVB ",
+K/KE/KE2.xml,KE2RE010,038407,2,,A,3,1,"Thaw a little bit, right","thaw/VVB a/AT0 little/AJ0 bit/NN1 ,/PUN right/AV0 ",

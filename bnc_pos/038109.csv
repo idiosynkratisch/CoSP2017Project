@@ -1,4 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE00F,038109,0,,A,1,1,Is this the new marmalade?,be/VBZ this/DT0 the/AT0 new/AJ0 marmalade/NN1 ?/PUN,
-K/KE/KE2.xml,KE2RE00F,038109,1,,B,2,1,No,no/ITJ,
-K/KE/KE2.xml,KE2RE00F,038109,2,,A,3,1,No it's  mm,no/ITJ it/PNP be/VBZ mm/ITJ,
+K/KE/KE2.xml,KE2RE00F,038109,0,,A,1,1,Is this the new marmalade?,be/VBZ this/DT0 the/AT0 new/AJ0 marmalade/NN1 ?/PUN ,
+K/KE/KE2.xml,KE2RE00F,038109,1,,B,2,1,No,no/ITJ ,
+K/KE/KE2.xml,KE2RE00F,038109,2,,A,3,1,No it's  --,no/ITJ it/PNP be/VBZ ,
+K/KE/KE2.xml,KE2RE00F,038109,3,,A,3,2,--mm ,mm/ITJ ,

@@ -1,5 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBL.xml,KBLRE012,040604,0,,A,1,1,Where's the old  Shake and Vac mum?,where/AVQ be/VBZ the/AT0 old/AJ0 shake/NN1-VVB and/CJC vac/NN1 mum/NN1 ?/PUN,
-K/KB/KBL.xml,KBLRE012,040604,1,,B,2,1,Oh I dunno!,oh/ITJ i/PNP do/VDB n/XX0 no/VVI !/PUN,
-K/KB/KBL.xml,KBLRE012,040604,2,,B,2,2,Erm  in the bedroom?,erm/UNC in/PRP the/AT0 bedroom/NN1 ?/PUN,
-K/KB/KBL.xml,KBLRE012,040604,3,,B,2,3,Is it in there?,be/VBZ it/PNP in/PRP there/AV0 ?/PUN,
+K/KB/KBL.xml,KBLRE012,040604,0,,A,1,1,Where's the old  --,where/AVQ be/VBZ the/AT0 old/AJ0 ,
+K/KB/KBL.xml,KBLRE012,040604,1,,A,1,2,--Shake and Vac mum?,shake/NN1-VVB and/CJC vac/NN1 mum/NN1 ?/PUN ,
+K/KB/KBL.xml,KBLRE012,040604,2,,B,2,1,Oh I dunno!,oh/ITJ i/PNP do/VDB n/XX0 no/VVI !/PUN ,
+K/KB/KBL.xml,KBLRE012,040604,3,,B,2,2,Erm  --,erm/UNC ,
+K/KB/KBL.xml,KBLRE012,040604,4,,B,2,3,--in the bedroom?,in/PRP the/AT0 bedroom/NN1 ?/PUN ,
+K/KB/KBL.xml,KBLRE012,040604,5,,B,2,4,Is it in there?,be/VBZ it/PNP in/PRP there/AV0 ?/PUN ,

@@ -1,6 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE003,002004,0,,A,1,1,"Did you see that erm letter in the paper the other day about  the, the introduction of sliced bread because there's been a bit of a correspondence about it?","do/VDD you/PNP see/VVI that/DT0 erm/UNC letter/NN1 in/PRP the/AT0 paper/NN1 the/AT0 other/AJ0 day/NN1 about/PRP the/AT0 ,/PUN the/AT0 introduction/NN1 of/PRF sliced/AJ0 bread/NN1 because/CJS there/EX0 have/VHZ be/VBN a/AT0 bit/NN1 of/PRF a/AT0 correspondence/NN1 about/PRP it/PNP ?/PUN",
-K/KB/KBK.xml,KBKRE003,002004,1,,B,2,1,Yes  (()) sixty years ago or something.,yes/ITJ sixty/CRD year/NN2 ago/AV0 or/CJC something/PNI ./PUN,
-K/KB/KBK.xml,KBKRE003,002004,2,,A,3,1,Yes.,yes/ITJ ./PUN,
-K/KB/KBK.xml,KBKRE003,002004,3,,A,3,2,And it's five sixteenths of an inch thick by  ordinary buttering and half an inch thick for toast.,and/CJC it/PNP be/VBZ five/CRD sixteenths/CRD of/PRF an/AT0 inch/NN1 thick/AJ0 by/PRP ordinary/AJ0 buttering/NN1 and/CJC half/DT0 an/AT0 inch/NN1 thick/AJ0 for/PRP toast/NN1 ./PUN,
-K/KB/KBK.xml,KBKRE003,002004,4,,A,3,3,And  (()) about nineteen twenty eight or something wasn't it?,and/CJC about/AV0 nineteen/CRD twenty/CRD eight/CRD or/CJC something/PNI be/VBD not/XX0 it/PNP ?/PUN,
+K/KB/KBK.xml,KBKRE003,002004,0,,A,1,1,Did you see that erm letter in the paper the other day about  --,do/VDD you/PNP see/VVI that/DT0 erm/UNC letter/NN1 in/PRP the/AT0 paper/NN1 the/AT0 other/AJ0 day/NN1 about/PRP ,
+K/KB/KBK.xml,KBKRE003,002004,1,,A,1,2,"--the, the introduction of sliced bread because there's been a bit of a correspondence about it?","the/AT0 ,/PUN the/AT0 introduction/NN1 of/PRF sliced/AJ0 bread/NN1 because/CJS there/EX0 have/VHZ be/VBN a/AT0 bit/NN1 of/PRF a/AT0 correspondence/NN1 about/PRP it/PNP ?/PUN ",
+K/KB/KBK.xml,KBKRE003,002004,2,,B,2,1,Yes  (()) sixty years ago or something.,yes/ITJ sixty/CRD year/NN2 ago/AV0 or/CJC something/PNI ./PUN ,
+K/KB/KBK.xml,KBKRE003,002004,3,,A,3,1,Yes.,yes/ITJ ./PUN ,
+K/KB/KBK.xml,KBKRE003,002004,4,,A,3,2,And it's five sixteenths of an inch thick by  --,and/CJC it/PNP be/VBZ five/CRD sixteenths/CRD of/PRF an/AT0 inch/NN1 thick/AJ0 by/PRP ,
+K/KB/KBK.xml,KBKRE003,002004,5,,A,3,3,--ordinary buttering and half an inch thick for toast.,ordinary/AJ0 buttering/NN1 and/CJC half/DT0 an/AT0 inch/NN1 thick/AJ0 for/PRP toast/NN1 ./PUN ,
+K/KB/KBK.xml,KBKRE003,002004,6,,A,3,4,And  (()) about nineteen twenty eight or something wasn't it?,and/CJC about/AV0 nineteen/CRD twenty/CRD eight/CRD or/CJC something/PNI be/VBD not/XX0 it/PNP ?/PUN ,

@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDB.xml,KDBRE00E,014806,0,,A,1,1,He was nearly a dead hedgehog then because he nearly fell off the table.<laugh>,he/PNP be/VBD nearly/AV0 a/AT0 dead/AJ0 hedgehog/NN1 then/AV0 because/CJS he/PNP nearly/AV0 fall/VVD off/PRP-AVP the/AT0 table/NN1 ./PUN,
-K/KD/KDB.xml,KDBRE00E,014806,1,,B,2,1,Yeah do him as an old hedgehog.,yeah/ITJ do/VDB he/PNP as/PRP an/AT0 old/AJ0 hedgehog/NN1 ./PUN,
-K/KD/KDB.xml,KDBRE00E,014806,2,,B,2,2,We got a hippie hippo.,we/PNP get/VVD a/AT0 hippie/NN1 hippo/NN1 ./PUN,
-K/KD/KDB.xml,KDBRE00E,014806,3,,B,2,3,<laugh> An old hedgehog.,an/AT0 old/AJ0 hedgehog/NN1 ./PUN,
+K/KD/KDB.xml,KDBRE00E,014806,0,,A,1,1,He was nearly a dead hedgehog then because he nearly fell off the table.<laugh> ,he/PNP be/VBD nearly/AV0 a/AT0 dead/AJ0 hedgehog/NN1 then/AV0 because/CJS he/PNP nearly/AV0 fall/VVD off/PRP-AVP the/AT0 table/NN1 ./PUN ,
+K/KD/KDB.xml,KDBRE00E,014806,1,,B,2,1,Yeah do him as an old hedgehog.,yeah/ITJ do/VDB he/PNP as/PRP an/AT0 old/AJ0 hedgehog/NN1 ./PUN ,
+K/KD/KDB.xml,KDBRE00E,014806,2,,B,2,2,We got a hippie hippo.,we/PNP get/VVD a/AT0 hippie/NN1 hippo/NN1 ./PUN ,
+K/KD/KDB.xml,KDBRE00E,014806,3,,B,2,3,<laugh> An old hedgehog.,an/AT0 old/AJ0 hedgehog/NN1 ./PUN ,

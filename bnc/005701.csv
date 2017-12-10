@@ -1,10 +1,10 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KB5.xml,KB5RE000,005701,0,,A,1,1,Regur- regurgitate-arianism,,
+K/KB/KB5.xml,KB5RE000,005701,0,,A,1,1,Regur- regurgitate-arianism ,,
 K/KB/KB5.xml,KB5RE000,005701,1,,B,2,1,(()) ,,
 K/KB/KB5.xml,KB5RE000,005701,2,,A,3,1,(()) ,,
 K/KB/KB5.xml,KB5RE000,005701,3,,B,4,1,(()) ,,
 K/KB/KB5.xml,KB5RE000,005701,4,,A,5,1,(()) you watch.,,
-K/KB/KB5.xml,KB5RE000,005701,5,,B,6,1,Can't find it.(()),,
+K/KB/KB5.xml,KB5RE000,005701,5,,B,6,1,Can't find it.(()) ,,
 K/KB/KB5.xml,KB5RE000,005701,6,,A,7,1,(()) .,,
 K/KB/KB5.xml,KB5RE000,005701,7,,A,7,2,They're probably looked out or something  (()) the key.,,
 K/KB/KB5.xml,KB5RE000,005701,8,,B,8,1,(()) ,,

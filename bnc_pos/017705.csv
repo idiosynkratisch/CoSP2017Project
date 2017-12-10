@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KD0.xml,KD0RE01M,017705,0,,A,1,1,Ridiculous!,ridiculous/AJ0 !/PUN,
-K/KD/KD0.xml,KD0RE01M,017705,1,,A,1,2,We're having a whole  (()) day next term to sort out testing for the eleven year olds.,we/PNP be/VBB have/VHG a/AT0 whole/AJ0 day/NN1 next/ORD term/NN1 to/TO0 sort/VVI out/AVP test/VVG for/PRP the/AT0 eleven/CRD year/NN1 old/NN2 ./PUN,
-K/KD/KD0.xml,KD0RE01M,017705,2,,A,1,3,Which is a total waste of time cos they'll rewrite it all in a year's time.,which/DTQ be/VBZ a/AT0 total/AJ0 waste/NN1 of/PRF time/NN1 cos/CJS they/PNP will/VM0 rewrite/VVI it/PNP all/DT0 in/PRP a/AT0 year/NN1 's/POS time/NN1 ./PUN,
-K/KD/KD0.xml,KD0RE01M,017705,3,,B,2,1,Oh I'll go and (()) .,oh/ITJ i/PNP will/VM0 go/VVI and/CJC ./PUN,
-K/KD/KD0.xml,KD0RE01M,017705,4,,B,2,2,We're having Christmas dinner.,we/PNP be/VBB have/VHG christmas/NN1 dinner/NN1 ./PUN,
-K/KD/KD0.xml,KD0RE01M,017705,5,,A,3,1,Oh thank you Paul.,oh/ITJ thank/VVB you/PNP paul/NP0 ./PUN,
+K/KD/KD0.xml,KD0RE01M,017705,0,,A,1,1,Ridiculous!,ridiculous/AJ0 !/PUN ,
+K/KD/KD0.xml,KD0RE01M,017705,1,,A,1,2,We're having a whole  (()) day next term to sort out testing for the eleven year olds.,we/PNP be/VBB have/VHG a/AT0 whole/AJ0 day/NN1 next/ORD term/NN1 to/TO0 sort/VVI out/AVP test/VVG for/PRP the/AT0 eleven/CRD year/NN1 old/NN2 ./PUN ,
+K/KD/KD0.xml,KD0RE01M,017705,2,,A,1,3,Which is a total waste of time cos they'll rewrite it all in a year's time.,which/DTQ be/VBZ a/AT0 total/AJ0 waste/NN1 of/PRF time/NN1 cos/CJS they/PNP will/VM0 rewrite/VVI it/PNP all/DT0 in/PRP a/AT0 year/NN1 's/POS time/NN1 ./PUN ,
+K/KD/KD0.xml,KD0RE01M,017705,3,,B,2,1,Oh I'll go and (()) .,oh/ITJ i/PNP will/VM0 go/VVI and/CJC ./PUN ,
+K/KD/KD0.xml,KD0RE01M,017705,4,,B,2,2,We're having Christmas dinner.,we/PNP be/VBB have/VHG christmas/NN1 dinner/NN1 ./PUN ,
+K/KD/KD0.xml,KD0RE01M,017705,5,,A,3,1,Oh thank you Paul.,oh/ITJ thank/VVB you/PNP paul/NP0 ./PUN ,

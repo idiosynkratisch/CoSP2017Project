@@ -1,3 +1,3 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE03E,039413,0,,A,1,1,You'll be here for as I come back won't you?,you/PNP will/VM0 be/VBI here/AV0 for/CJS as/CJS i/PNP come/VVB back/AVP will/VM0 not/XX0 you/PNP ?/PUN,
-K/KE/KE2.xml,KE2RE03E,039413,1,,B,2,1,Er yeah I'll be here,er/UNC yeah/ITJ i/PNP will/VM0 be/VBI here/AV0,
+K/KE/KE2.xml,KE2RE03E,039413,0,,A,1,1,You'll be here for as I come back won't you?,you/PNP will/VM0 be/VBI here/AV0 for/CJS as/CJS i/PNP come/VVB back/AVP will/VM0 not/XX0 you/PNP ?/PUN ,
+K/KE/KE2.xml,KE2RE03E,039413,1,,B,2,1,Er yeah I'll be here ,er/UNC yeah/ITJ i/PNP will/VM0 be/VBI here/AV0 ,

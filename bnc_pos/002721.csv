@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE05C,002721,0,,A,1,1,"The ball, I've got a ball near my next two anyway","the/AT0 ball/NN1 ,/PUN i/PNP have/VHB get/VVN a/AT0 ball/NN1 near/PRP i/DPS next/ORD two/CRD anyway/AV0",
-K/KB/KBK.xml,KBKRE05C,002721,1,,B,2,1,Mm mm.,mm/ITJ mm/ITJ ./PUN,
-K/KB/KBK.xml,KBKRE05C,002721,2,,A,3,1,"and I've got to <hits ball> , another out of, in play, which is always useful.","and/CJC i/PNP have/VHB get/VVN to/TO0 ,/PUN another/DT0 [out/AVP of/PRF]/PRP ,/PUN in/PRP play/NN1 ,/PUN which/DTQ be/VBZ always/AV0 useful/AJ0 ./PUN",
-K/KB/KBK.xml,KBKRE05C,002721,3,,A,3,2,<hits ball> Right (()) .,right/AV0 ./PUN,
-K/KB/KBK.xml,KBKRE05C,002721,4,,B,4,1,Right.,right/AV0 ./PUN,
+K/KB/KBK.xml,KBKRE05C,002721,0,,A,1,1,"The ball, I've got a ball near my next two anyway","the/AT0 ball/NN1 ,/PUN i/PNP have/VHB get/VVN a/AT0 ball/NN1 near/PRP i/DPS next/ORD two/CRD anyway/AV0 ",
+K/KB/KBK.xml,KBKRE05C,002721,1,,B,2,1,Mm mm.,mm/ITJ mm/ITJ ./PUN ,
+K/KB/KBK.xml,KBKRE05C,002721,2,,A,3,1,"and I've got to <hits ball> , another out of, in play, which is always useful.","and/CJC i/PNP have/VHB get/VVN to/TO0 ,/PUN another/DT0 [out/AVP of/PRF]/PRP ,/PUN in/PRP play/NN1 ,/PUN which/DTQ be/VBZ always/AV0 useful/AJ0 ./PUN ",
+K/KB/KBK.xml,KBKRE05C,002721,3,,A,3,2,<hits ball> Right (()) .,right/AV0 ./PUN ,
+K/KB/KBK.xml,KBKRE05C,002721,4,,B,4,1,Right.,right/AV0 ./PUN ,

@@ -1,4 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE3.xml,KE3RE036,010816,0,,A,1,1,I'll see this little bit then I'll go and finish that ironing and  would you record er Watchdog for me?,i/PNP will/VM0 see/VVI this/DT0 little/AJ0 bit/NN1 then/AV0 i/PNP will/VM0 go/VVI and/CJC finish/VVI that/DT0 ironing/NN1 and/CJC would/VM0 you/PNP record/VVI er/UNC watchdog/NN1 for/PRP i/PNP ?/PUN,
-K/KE/KE3.xml,KE3RE036,010816,1,,B,2,1,Yeah.,yeah/ITJ ./PUN,
-K/KE/KE3.xml,KE3RE036,010816,2,,A,3,1,On car safety (()),on/PRP car/NN1 safety/NN1,
+K/KE/KE3.xml,KE3RE036,010816,0,,A,1,1,I'll see this little bit then I'll go and finish that ironing and  --,i/PNP will/VM0 see/VVI this/DT0 little/AJ0 bit/NN1 then/AV0 i/PNP will/VM0 go/VVI and/CJC finish/VVI that/DT0 ironing/NN1 and/CJC ,
+K/KE/KE3.xml,KE3RE036,010816,1,,A,1,2,--would you record er Watchdog for me?,would/VM0 you/PNP record/VVI er/UNC watchdog/NN1 for/PRP i/PNP ?/PUN ,
+K/KE/KE3.xml,KE3RE036,010816,2,,B,2,1,Yeah.,yeah/ITJ ./PUN ,
+K/KE/KE3.xml,KE3RE036,010816,3,,A,3,1,On car safety (()) ,on/PRP car/NN1 safety/NN1 ,

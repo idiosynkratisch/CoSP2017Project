@@ -1,4 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE02P,039206,0,,A,1,1,Those erm  erm  fuchsias that we bought  I reckon they've doubled in size.,those/DT0 erm/UNC erm/UNC fuchsia/NN2 that/CJT we/PNP buy/VVD i/PNP reckon/VVB they/PNP have/VHB double/VVN in/PRP size/NN1 ./PUN,
-K/KE/KE2.xml,KE2RE02P,039206,1,,B,2,1,Mm.,mm/ITJ ./PUN,
-K/KE/KE2.xml,KE2RE02P,039206,2,,B,2,2,I thought that,i/PNP think/VVD that/DT0,
+K/KE/KE2.xml,KE2RE02P,039206,0,,A,1,1,Those erm  --,those/DT0 erm/UNC ,
+K/KE/KE2.xml,KE2RE02P,039206,1,,A,1,2,--erm  --,erm/UNC ,
+K/KE/KE2.xml,KE2RE02P,039206,2,,A,1,3,--fuchsias that we bought  --,fuchsia/NN2 that/CJT we/PNP buy/VVD ,
+K/KE/KE2.xml,KE2RE02P,039206,3,,A,1,4,--I reckon they've doubled in size.,i/PNP reckon/VVB they/PNP have/VHB double/VVN in/PRP size/NN1 ./PUN ,
+K/KE/KE2.xml,KE2RE02P,039206,4,,B,2,1,Mm.,mm/ITJ ./PUN ,
+K/KE/KE2.xml,KE2RE02P,039206,5,,B,2,2,I thought that,i/PNP think/VVD that/DT0 ,

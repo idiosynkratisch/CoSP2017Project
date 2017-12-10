@@ -1,3 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDA.xml,KDARE02X,013207,0,,A,1,1,"Saw that Joe verses the Volcano last night and I thought it was absolutely fucking shit   (()) mind you  (()) was (()) , huh","see/VVD that/CJT joe/NP0 verse/NN2-VVZ the/AT0 volcano/NN1 last/ORD night/NN1 and/CJC i/PNP think/VVD it/PNP be/VBD absolutely/AV0 fucking/AJ0 shit/NN1 mind/NN1-VVB you/PNP be/VBD ,/PUN huh/ITJ",
-K/KD/KDA.xml,KDARE02X,013207,1,,B,2,1,(()) .,./PUN,
+K/KD/KDA.xml,KDARE02X,013207,0,,A,1,1,Saw that Joe verses the Volcano last night and I thought it was absolutely fucking shit   --,see/VVD that/CJT joe/NP0 verse/NN2-VVZ the/AT0 volcano/NN1 last/ORD night/NN1 and/CJC i/PNP think/VVD it/PNP be/VBD absolutely/AV0 fucking/AJ0 shit/NN1 ,
+K/KD/KDA.xml,KDARE02X,013207,1,,A,1,2,"--(()) mind you  (()) was (()) , huh","mind/NN1-VVB you/PNP be/VBD ,/PUN huh/ITJ ",
+K/KD/KDA.xml,KDARE02X,013207,2,,B,2,1,(()) .,./PUN ,

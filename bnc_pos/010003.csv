@@ -1,5 +1,9 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBA.xml,KBARE00D,010003,0,,A,1,1,"Never mind, he said.","never/AV0 mind/VVB ,/PUN he/PNP say/VVD ./PUN",
-K/KB/KBA.xml,KBARE00D,010003,1,,B,2,1,Somewhere red   (()) red Albert  you've got plenty of ties in there!,somewhere/AV0 red/AJ0 red/AJ0 albert/NP0 you/PNP have/VHB get/VVN plenty/PNI of/PRF tie/NN2 in/PRP there/AV0 !/PUN,
-K/KB/KBA.xml,KBARE00D,010003,2,,B,2,2,Wear a  (()) somewhere will be bloody red!,wear/VVB a/AT0 somewhere/AV0 will/VM0 be/VBI bloody/AJ0-AV0 red/AJ0-NN1 !/PUN,
-K/KB/KBA.xml,KBARE00D,010003,3,,B,2,3,Bloody coat!,bloody/AJ0 coat/NN1-VVB !/PUN,
+K/KB/KBA.xml,KBARE00D,010003,0,,A,1,1,"Never mind, he said.","never/AV0 mind/VVB ,/PUN he/PNP say/VVD ./PUN ",
+K/KB/KBA.xml,KBARE00D,010003,1,,B,2,1,Somewhere red   --,somewhere/AV0 red/AJ0 ,
+K/KB/KBA.xml,KBARE00D,010003,2,,B,2,2,--(()) red Albert  --,red/AJ0 albert/NP0 ,
+K/KB/KBA.xml,KBARE00D,010003,3,,B,2,3,--you've got plenty of ties in there!,you/PNP have/VHB get/VVN plenty/PNI of/PRF tie/NN2 in/PRP there/AV0 !/PUN ,
+K/KB/KBA.xml,KBARE00D,010003,4,,B,2,4,--,,
+K/KB/KBA.xml,KBARE00D,010003,5,,B,2,5,--Wear a  (()) somewhere will be bloody red!,wear/VVB a/AT0 somewhere/AV0 will/VM0 be/VBI bloody/AJ0-AV0 red/AJ0-NN1 !/PUN ,
+K/KB/KBA.xml,KBARE00D,010003,6,,B,2,6,--,,
+K/KB/KBA.xml,KBARE00D,010003,7,,B,2,7,--Bloody coat!,bloody/AJ0 coat/NN1-VVB !/PUN ,

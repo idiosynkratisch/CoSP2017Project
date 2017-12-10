@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE021,038907,0,,A,1,1,He's now up five four.,he/PNP be/VBZ now/AV0 up/PRP-AVP five/CRD four/CRD ./PUN,
-K/KE/KE2.xml,KE2RE021,038907,1,,A,1,2,<laughing> Ooh ooh ooh ooh </laughing> !,ooh/ITJ ooh/ITJ ooh/ITJ ooh/ITJ !/PUN,
-K/KE/KE2.xml,KE2RE021,038907,2,,B,2,1,Do you think you could just sweep that up,do/VDB you/PNP think/VVI you/PNP could/VM0 just/AV0 sweep/VVI that/DT0 up/AVP,
-K/KE/KE2.xml,KE2RE021,038907,3,,A,3,1,Yeah.,yeah/ITJ ./PUN,
-K/KE/KE2.xml,KE2RE021,038907,4,,B,4,1,"for me, to save me bending down there.","for/PRP i/PNP ,/PUN to/TO0 save/VVI i/PNP bend/VVG down/AVP there/AV0 ./PUN",
-K/KE/KE2.xml,KE2RE021,038907,5,,A,5,1,Mm.,mm/ITJ ./PUN,
+K/KE/KE2.xml,KE2RE021,038907,0,,A,1,1,He's now up five four.,he/PNP be/VBZ now/AV0 up/PRP-AVP five/CRD four/CRD ./PUN ,
+K/KE/KE2.xml,KE2RE021,038907,1,,A,1,2,<laughing> Ooh ooh ooh ooh </laughing> !,ooh/ITJ ooh/ITJ ooh/ITJ ooh/ITJ !/PUN ,
+K/KE/KE2.xml,KE2RE021,038907,2,,B,2,1,Do you think you could just sweep that up,do/VDB you/PNP think/VVI you/PNP could/VM0 just/AV0 sweep/VVI that/DT0 up/AVP ,
+K/KE/KE2.xml,KE2RE021,038907,3,,A,3,1,Yeah.,yeah/ITJ ./PUN ,
+K/KE/KE2.xml,KE2RE021,038907,4,,B,4,1,"for me, to save me bending down there.","for/PRP i/PNP ,/PUN to/TO0 save/VVI i/PNP bend/VVG down/AVP there/AV0 ./PUN ",
+K/KE/KE2.xml,KE2RE021,038907,5,,A,5,1,Mm.,mm/ITJ ./PUN ,

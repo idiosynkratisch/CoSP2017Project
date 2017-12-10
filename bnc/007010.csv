@@ -1,8 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDE.xml,KDERE013,007010,0,,A,1,1,Are you my friend now?,,
 K/KD/KDE.xml,KDERE013,007010,1,,A,1,2,Yes you are.,,
-K/KD/KDE.xml,KDERE013,007010,2,,A,1,3,Shall we be friends,,
-K/KD/KDE.xml,KDERE013,007010,3,,B,2,1,Don't want  (()),,
+K/KD/KDE.xml,KDERE013,007010,2,,A,1,3,Shall we be friends ,,
+K/KD/KDE.xml,KDERE013,007010,3,,B,2,1,Don't want  (()) ,,
 K/KD/KDE.xml,KDERE013,007010,4,,A,3,1,kiss and make up?,,
 K/KD/KDE.xml,KDERE013,007010,5,,B,4,1,No.,,
 K/KD/KDE.xml,KDERE013,007010,6,,B,4,2,No.,,

@@ -1,10 +1,10 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDE.xml,KDERE00L,006904,0,,A,1,1,Mu who's that?,,
 K/KD/KDE.xml,KDERE00L,006904,1,,B,2,1,Mhm?,,
-K/KD/KDE.xml,KDERE00L,006904,2,,A,3,1,Who (()),,
+K/KD/KDE.xml,KDERE00L,006904,2,,A,3,1,Who (()) ,,
 K/KD/KDE.xml,KDERE00L,006904,3,,B,4,1,Who's what?,,
 K/KD/KDE.xml,KDERE00L,006904,4,,A,5,1,Who's in that car.,,
 K/KD/KDE.xml,KDERE00L,006904,5,,B,6,1,Well they're just people.,,
 K/KD/KDE.xml,KDERE00L,006904,6,,B,6,2,"<car horn> Go on, out the way for god's sake.",,
-K/KD/KDE.xml,KDERE00L,006904,7,,A,7,1,Why (()),,
+K/KD/KDE.xml,KDERE00L,006904,7,,A,7,1,Why (()) ,,
 K/KD/KDE.xml,KDERE00L,006904,8,,B,8,1,Well it's just a stupid person who can't drive properly.,,

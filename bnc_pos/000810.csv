@@ -1,5 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDP.xml,KDPRE01L,000810,0,,A,1,1,Oh up we come  Let's take this one off.,oh/ITJ up/AVP we/PNP come/VVB let's/VM0 take/VVI this/DT0 one/PNI off/AVP ./PUN,
-K/KD/KDP.xml,KDPRE01L,000810,1,,B,2,1,Da,da/UNC,
-K/KD/KDP.xml,KDPRE01L,000810,2,,A,3,1,Here we go.,here/AV0 we/PNP go/VVB ./PUN,
-K/KD/KDP.xml,KDPRE01L,000810,3,,A,3,2,Sit up.,sit/VVB up/AVP ./PUN,
+K/KD/KDP.xml,KDPRE01L,000810,0,,A,1,1,Oh up we come  --,oh/ITJ up/AVP we/PNP come/VVB ,
+K/KD/KDP.xml,KDPRE01L,000810,1,,A,1,2,--Let's take this one off.,let's/VM0 take/VVI this/DT0 one/PNI off/AVP ./PUN ,
+K/KD/KDP.xml,KDPRE01L,000810,2,,B,2,1,Da,da/UNC ,
+K/KD/KDP.xml,KDPRE01L,000810,3,,A,3,1,Here we go.,here/AV0 we/PNP go/VVB ./PUN ,
+K/KD/KDP.xml,KDPRE01L,000810,4,,A,3,2,Sit up.,sit/VVB up/AVP ./PUN ,

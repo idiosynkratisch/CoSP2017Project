@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KE/KE6.xml,KE6RE00S,037102,0,,A,1,1,Is it a telephone?,,
-K/KE/KE6.xml,KE6RE00S,037102,1,,A,1,2,It's gotta be,,
-K/KE/KE6.xml,KE6RE00S,037102,2,,B,2,1,Yeah,,
+K/KE/KE6.xml,KE6RE00S,037102,1,,A,1,2,It's gotta be ,,
+K/KE/KE6.xml,KE6RE00S,037102,2,,B,2,1,Yeah ,,
 K/KE/KE6.xml,KE6RE00S,037102,3,,A,3,1,"a telephone, what the hell's going on?",,
 K/KE/KE6.xml,KE6RE00S,037102,4,,B,4,1,Oh I don't know,,
 K/KE/KE6.xml,KE6RE00S,037102,5,,A,5,1,"I reckon it's been brought into the front room because erm, if she shut that door for them, cos she shuts the animal in a, a room here there and bloody everywhere, it's stopped again now ain't it?",,

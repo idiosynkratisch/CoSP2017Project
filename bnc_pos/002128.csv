@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE00W,002128,0,,A,1,1,"WARM, the Wood Burning Association of Retailers and Manufacturers.","warm/AJ0 ,/PUN the/AT0 wood/NP0-NN1 burning/AJ0-VVG association/NN1 of/PRF retailer/NN2 and/CJC manufacturer/NN2 ./PUN",
-K/KB/KBK.xml,KBKRE00W,002128,1,,B,2,1,Oh.,oh/ITJ ./PUN,
-K/KB/KBK.xml,KBKRE00W,002128,2,,A,3,1,<laugh> .,./PUN,
-K/KB/KBK.xml,KBKRE00W,002128,3,,A,3,2,It's all so obvious isn't it!,it/PNP be/VBZ all/DT0 so/AV0 obvious/AJ0 be/VBZ not/XX0 it/PNP !/PUN,
+K/KB/KBK.xml,KBKRE00W,002128,0,,A,1,1,"WARM, the Wood Burning Association of Retailers and Manufacturers.","warm/AJ0 ,/PUN the/AT0 wood/NP0-NN1 burning/AJ0-VVG association/NN1 of/PRF retailer/NN2 and/CJC manufacturer/NN2 ./PUN ",
+K/KB/KBK.xml,KBKRE00W,002128,1,,B,2,1,Oh.,oh/ITJ ./PUN ,
+K/KB/KBK.xml,KBKRE00W,002128,2,,A,3,1,<laugh> .,./PUN ,
+K/KB/KBK.xml,KBKRE00W,002128,3,,A,3,2,It's all so obvious isn't it!,it/PNP be/VBZ all/DT0 so/AV0 obvious/AJ0 be/VBZ not/XX0 it/PNP !/PUN ,

@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE00S,002124,0,,A,1,1,"Gracious, makes you wonder doesn't it?","gracious/AJ0 ,/PUN make/VVZ you/PNP wonder/VVI do/VDZ not/XX0 it/PNP ?/PUN",
-K/KB/KBK.xml,KBKRE00S,002124,1,,A,1,2,Green Tom Products Limited.,green/NP0 tom/NP0 product/NN2 limited/AJ0-VVN ./PUN,
-K/KB/KBK.xml,KBKRE00S,002124,2,,B,2,1,Green Tom?,green/NP0 tom/NP0 ?/PUN,
-K/KB/KBK.xml,KBKRE00S,002124,3,,A,3,1,Fume extraction engineers.,fume/NN1-VVB extraction/NN1 engineer/NN2 ./PUN,
-K/KB/KBK.xml,KBKRE00S,002124,4,,B,4,1,<laugh> .,./PUN,
-K/KB/KBK.xml,KBKRE00S,002124,5,,A,5,1,<laugh> .,./PUN,
+K/KB/KBK.xml,KBKRE00S,002124,0,,A,1,1,"Gracious, makes you wonder doesn't it?","gracious/AJ0 ,/PUN make/VVZ you/PNP wonder/VVI do/VDZ not/XX0 it/PNP ?/PUN ",
+K/KB/KBK.xml,KBKRE00S,002124,1,,A,1,2,Green Tom Products Limited.,green/NP0 tom/NP0 product/NN2 limited/AJ0-VVN ./PUN ,
+K/KB/KBK.xml,KBKRE00S,002124,2,,B,2,1,Green Tom?,green/NP0 tom/NP0 ?/PUN ,
+K/KB/KBK.xml,KBKRE00S,002124,3,,A,3,1,Fume extraction engineers.,fume/NN1-VVB extraction/NN1 engineer/NN2 ./PUN ,
+K/KB/KBK.xml,KBKRE00S,002124,4,,B,4,1,<laugh> .,./PUN ,
+K/KB/KBK.xml,KBKRE00S,002124,5,,A,5,1,<laugh> .,./PUN ,
