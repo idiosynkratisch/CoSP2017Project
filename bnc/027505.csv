@@ -1,6 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KCN.xml,KCNRE01F,027505,0,,A,1,1,Three pound and three please?,,
-K/KC/KCN.xml,KCNRE01F,027505,1,,A,1,2,--,,
-K/KC/KCN.xml,KCNRE01F,027505,2,,A,1,3,"--Three's five ten, and ten is twenty.",,
-K/KC/KCN.xml,KCNRE01F,027505,3,,A,1,4,Thank you.,,
-K/KC/KCN.xml,KCNRE01F,027505,4,,B,2,1,Thank you.,,
+K/KC/KCN.xml,KCNRE01F,027505,1,,A,1,2,"Three's five ten, and ten is twenty.",,
+K/KC/KCN.xml,KCNRE01F,027505,2,,A,1,3,Thank you.,,
+K/KC/KCN.xml,KCNRE01F,027505,3,,B,2,1,Thank you.,,

@@ -1,8 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KD0.xml,KD0RE021,017805,0,,A,1,1,<shouting> Paulie I want my back scratched.,,
-K/KD/KD0.xml,KD0RE021,017805,1,,A,1,2,--,,
-K/KD/KD0.xml,KD0RE021,017805,2,,A,1,3,--Come on!</shouting> ,,
-K/KD/KD0.xml,KD0RE021,017805,3,,B,2,1,Get out of it!,,
-K/KD/KD0.xml,KD0RE021,017805,4,,A,3,1,Means money.,,
-K/KD/KD0.xml,KD0RE021,017805,5,,B,4,1,Not a chance.,,
-K/KD/KD0.xml,KD0RE021,017805,6,,B,4,2,Not a chance in a million.,,
+K/KD/KD0.xml,KD0RE021,017805,1,,A,1,2,Come on!</shouting> ,,
+K/KD/KD0.xml,KD0RE021,017805,2,,B,2,1,Get out of it!,,
+K/KD/KD0.xml,KD0RE021,017805,3,,A,3,1,Means money.,,
+K/KD/KD0.xml,KD0RE021,017805,4,,B,4,1,Not a chance.,,
+K/KD/KD0.xml,KD0RE021,017805,5,,B,4,2,Not a chance in a million.,,
