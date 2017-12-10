@@ -1,7 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KB7.xml,KB7RE01S,019502,0,,A,1,1,very sharp frost tonight.,,
-K/KB/KB7.xml,KB7RE01S,019502,1,,B,2,1,(()) blooming cold (()),,
-K/KB/KB7.xml,KB7RE01S,019502,2,,A,3,1,Think it's supposed to be going to be a cold  more  (()) tomorrow.,,
-K/KB/KB7.xml,KB7RE01S,019502,3,,B,4,1,"Aha,",,
-K/KB/KB7.xml,KB7RE01S,019502,4,,A,5,1,Well that's what the weather forecast was.,,
-K/KB/KB7.xml,KB7RE01S,019502,5,,B,6,1,Was it?,,
+K/KB/KB7.xml,KB7RE01S,019502,1,,B,2,1,(()) blooming cold (()) ,,
+K/KB/KB7.xml,KB7RE01S,019502,2,,A,3,1,Think it's supposed to be going to be a cold  --,,
+K/KB/KB7.xml,KB7RE01S,019502,3,,A,3,2,--more  (()) tomorrow.,,
+K/KB/KB7.xml,KB7RE01S,019502,4,,B,4,1,"Aha,",,
+K/KB/KB7.xml,KB7RE01S,019502,5,,A,5,1,Well that's what the weather forecast was.,,
+K/KB/KB7.xml,KB7RE01S,019502,6,,B,6,1,Was it?,,

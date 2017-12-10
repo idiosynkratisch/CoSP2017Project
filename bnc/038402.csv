@@ -1,7 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KE/KE2.xml,KE2RE00U,038402,0,,A,1,1,"Be awful for erm, you know an ex wife and son, to take the decision to phone in they",,
 K/KE/KE2.xml,KE2RE00U,038402,1,,B,2,1,Yeah,,
-K/KE/KE2.xml,KE2RE00U,038402,2,,A,3,1,they're very brave  Can dry them off on that,,
-K/KE/KE2.xml,KE2RE00U,038402,3,,B,4,1,"I wonder if we've got enough forensic evidence, you know, to erm",,
-K/KE/KE2.xml,KE2RE00U,038402,4,,A,5,1,Well I should think there's probably a whole lot more there that we didn't move,,
-K/KE/KE2.xml,KE2RE00U,038402,5,,B,6,1,"Oh, I would of thought so",,
+K/KE/KE2.xml,KE2RE00U,038402,2,,A,3,1,they're very brave  --,,
+K/KE/KE2.xml,KE2RE00U,038402,3,,A,3,2,--Can dry them off on that ,,
+K/KE/KE2.xml,KE2RE00U,038402,4,,B,4,1,"I wonder if we've got enough forensic evidence, you know, to erm",,
+K/KE/KE2.xml,KE2RE00U,038402,5,,A,5,1,Well I should think there's probably a whole lot more there that we didn't move ,,
+K/KE/KE2.xml,KE2RE00U,038402,6,,B,6,1,"Oh, I would of thought so ",,

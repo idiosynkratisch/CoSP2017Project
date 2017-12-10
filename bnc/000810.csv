@@ -1,5 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KDP.xml,KDPRE01L,000810,0,,A,1,1,Oh up we come  Let's take this one off.,,
-K/KD/KDP.xml,KDPRE01L,000810,1,,B,2,1,Da,,
-K/KD/KDP.xml,KDPRE01L,000810,2,,A,3,1,Here we go.,,
-K/KD/KDP.xml,KDPRE01L,000810,3,,A,3,2,Sit up.,,
+K/KD/KDP.xml,KDPRE01L,000810,0,,A,1,1,Oh up we come  --,,
+K/KD/KDP.xml,KDPRE01L,000810,1,,A,1,2,--Let's take this one off.,,
+K/KD/KDP.xml,KDPRE01L,000810,2,,B,2,1,Da,,
+K/KD/KDP.xml,KDPRE01L,000810,3,,A,3,1,Here we go.,,
+K/KD/KDP.xml,KDPRE01L,000810,4,,A,3,2,Sit up.,,

@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE03P,002420,0,,A,1,1,The only comment on the rhododendron came first (()),,
+K/KB/KBK.xml,KBKRE03P,002420,0,,A,1,1,The only comment on the rhododendron came first (()) ,,
 K/KB/KBK.xml,KBKRE03P,002420,1,,B,2,1,On how it'll grow them you mean?,,
 K/KB/KBK.xml,KBKRE03P,002420,2,,A,3,1,Yes.,,
 K/KB/KBK.xml,KBKRE03P,002420,3,,B,4,1,Plenty of comments otherwise on them.,,

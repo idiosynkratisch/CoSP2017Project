@@ -1,6 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBF.xml,KBFRE006,015007,0,,A,1,1,"Some of those  Kim's, women she work's with the teacher, he daughter's in this, doesn't half get paid a lot of money",,
-K/KB/KBF.xml,KBFRE006,015007,1,,B,2,1,"Not for doing this though, ah?",,
-K/KB/KBF.xml,KBFRE006,015007,2,,A,3,1,"It is, yeah, something like that, I  (()) it's quite a lot of money though.",,
-K/KB/KBF.xml,KBFRE006,015007,3,,B,4,1,(()) you might be doing it?<laugh> .<cough> .,,
-K/KB/KBF.xml,KBFRE006,015007,4,,A,5,1,"The kid's love it, Carla would love it wouldn't she?",,
+K/KB/KBF.xml,KBFRE006,015007,0,,A,1,1,Some of those  --,,
+K/KB/KBF.xml,KBFRE006,015007,1,,A,1,2,"--Kim's, women she work's with the teacher, he daughter's in this, doesn't half get paid a lot of money ",,
+K/KB/KBF.xml,KBFRE006,015007,2,,B,2,1,"Not for doing this though, ah?",,
+K/KB/KBF.xml,KBFRE006,015007,3,,A,3,1,"It is, yeah, something like that, I  (()) it's quite a lot of money though.",,
+K/KB/KBF.xml,KBFRE006,015007,4,,B,4,1,(()) you might be doing it?<laugh> .<cough> .,,
+K/KB/KBF.xml,KBFRE006,015007,5,,A,5,1,"The kid's love it, Carla would love it wouldn't she?",,

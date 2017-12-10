@@ -1,6 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE003,002004,0,,A,1,1,"Did you see that erm letter in the paper the other day about  the, the introduction of sliced bread because there's been a bit of a correspondence about it?",,
-K/KB/KBK.xml,KBKRE003,002004,1,,B,2,1,Yes  (()) sixty years ago or something.,,
-K/KB/KBK.xml,KBKRE003,002004,2,,A,3,1,Yes.,,
-K/KB/KBK.xml,KBKRE003,002004,3,,A,3,2,And it's five sixteenths of an inch thick by  ordinary buttering and half an inch thick for toast.,,
-K/KB/KBK.xml,KBKRE003,002004,4,,A,3,3,And  (()) about nineteen twenty eight or something wasn't it?,,
+K/KB/KBK.xml,KBKRE003,002004,0,,A,1,1,Did you see that erm letter in the paper the other day about  --,,
+K/KB/KBK.xml,KBKRE003,002004,1,,A,1,2,"--the, the introduction of sliced bread because there's been a bit of a correspondence about it?",,
+K/KB/KBK.xml,KBKRE003,002004,2,,B,2,1,Yes  (()) sixty years ago or something.,,
+K/KB/KBK.xml,KBKRE003,002004,3,,A,3,1,Yes.,,
+K/KB/KBK.xml,KBKRE003,002004,4,,A,3,2,And it's five sixteenths of an inch thick by  --,,
+K/KB/KBK.xml,KBKRE003,002004,5,,A,3,3,--ordinary buttering and half an inch thick for toast.,,
+K/KB/KBK.xml,KBKRE003,002004,6,,A,3,4,And  (()) about nineteen twenty eight or something wasn't it?,,

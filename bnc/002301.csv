@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE022,002301,0,,A,1,1,"Oh, can't get the bag open.<laugh>",,
+K/KB/KBK.xml,KBKRE022,002301,0,,A,1,1,"Oh, can't get the bag open.<laugh> ",,
 K/KB/KBK.xml,KBKRE022,002301,1,,B,2,1,<laugh> ,,
 K/KB/KBK.xml,KBKRE022,002301,2,,A,3,1,Ah  <sigh> Would you like to record a song for posterity Lynda?,,
 K/KB/KBK.xml,KBKRE022,002301,3,,B,4,1,<laugh> .,,

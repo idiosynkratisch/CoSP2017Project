@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE06M,002922,0,,A,1,1,By Gosh!,,
 K/KB/KBK.xml,KBKRE06M,002922,1,,A,1,2,Hot stuff.,,
-K/KB/KBK.xml,KBKRE06M,002922,2,,B,2,1,Presumably they're awfully (()),,
+K/KB/KBK.xml,KBKRE06M,002922,2,,B,2,1,Presumably they're awfully (()) ,,
 K/KB/KBK.xml,KBKRE06M,002922,3,,A,3,1,Yes.,,
 K/KB/KBK.xml,KBKRE06M,002922,4,,A,3,2,Hubbling bubbling oil.,,
 K/KB/KBK.xml,KBKRE06M,002922,5,,B,4,1,Whenever we come here we see somebody we know don't we?,,
@@ -35,6 +35,6 @@ K/KB/KBK.xml,KBKRE06M,002922,32,,B,18,3,I bet Lynda's in for a lark for the next
 K/KB/KBK.xml,KBKRE06M,002922,33,,B,18,4,She's  (()) round the corner when Raymond (()) .,,
 K/KB/KBK.xml,KBKRE06M,002922,34,,B,18,5,And then she'll come home some days and discover the place chockablock with students or three birds in bed with him or something.,,
 K/KB/KBK.xml,KBKRE06M,002922,35,,B,18,6,That's unlikely.,,
-K/KB/KBK.xml,KBKRE06M,002922,36,,B,18,7,I agree they are  (()),,
+K/KB/KBK.xml,KBKRE06M,002922,36,,B,18,7,I agree they are  (()) ,,
 K/KB/KBK.xml,KBKRE06M,002922,37,,A,19,1,Sorry?,,
 K/KB/KBK.xml,KBKRE06M,002922,38,,B,20,1,(()) school again already.,,

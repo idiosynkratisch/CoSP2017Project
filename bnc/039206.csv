@@ -1,4 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE02P,039206,0,,A,1,1,Those erm  erm  fuchsias that we bought  I reckon they've doubled in size.,,
-K/KE/KE2.xml,KE2RE02P,039206,1,,B,2,1,Mm.,,
-K/KE/KE2.xml,KE2RE02P,039206,2,,B,2,2,I thought that,,
+K/KE/KE2.xml,KE2RE02P,039206,0,,A,1,1,Those erm  --,,
+K/KE/KE2.xml,KE2RE02P,039206,1,,A,1,2,--erm  --,,
+K/KE/KE2.xml,KE2RE02P,039206,2,,A,1,3,--fuchsias that we bought  --,,
+K/KE/KE2.xml,KE2RE02P,039206,3,,A,1,4,--I reckon they've doubled in size.,,
+K/KE/KE2.xml,KE2RE02P,039206,4,,B,2,1,Mm.,,
+K/KE/KE2.xml,KE2RE02P,039206,5,,B,2,2,I thought that,,

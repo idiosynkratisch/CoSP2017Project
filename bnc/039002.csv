@@ -1,8 +1,10 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE026,039002,0,,A,1,1,"Makes you wonder how much erm ours is worth, not as much as that obviously but er",,
+K/KE/KE2.xml,KE2RE026,039002,0,,A,1,1,"Makes you wonder how much erm ours is worth, not as much as that obviously but er ",,
 K/KE/KE2.xml,KE2RE026,039002,1,,B,2,1,Cos ours is eighteen something or other isn't it?,,
 K/KE/KE2.xml,KE2RE026,039002,2,,A,3,1,Is it?,,
 K/KE/KE2.xml,KE2RE026,039002,3,,B,4,1,(()) ,,
 K/KE/KE2.xml,KE2RE026,039002,4,,A,5,1,Mm.,,
-K/KE/KE2.xml,KE2RE026,039002,5,,B,6,1,(()) Ours looks homemade to me.,,
-K/KE/KE2.xml,KE2RE026,039002,6,,A,7,1,<laugh> No I don't think it is.,,
+K/KE/KE2.xml,KE2RE026,039002,5,,B,6,1,(()) --,,
+K/KE/KE2.xml,KE2RE026,039002,6,,B,6,2,--Ours looks homemade to me.,,
+K/KE/KE2.xml,KE2RE026,039002,7,,A,7,1,<laugh> --,,
+K/KE/KE2.xml,KE2RE026,039002,8,,A,7,2,--No I don't think it is.,,

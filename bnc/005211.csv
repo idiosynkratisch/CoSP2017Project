@@ -1,6 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KCD.xml,KCDRE02K,005211,0,,A,1,1,Well it doesn't like vinyl paper for some reason.,,
 K/KC/KCD.xml,KCDRE02K,005211,1,,B,2,1,"No, it'll dry out (()) .",,
-K/KC/KCD.xml,KCDRE02K,005211,2,,A,3,1,"Yeah  It wasn't that  it wasn't the lumps that bothered me it was the uhum, the fact that the edges just doesn't stay down.",,
-K/KC/KCD.xml,KCDRE02K,005211,3,,B,4,1,Yeah.,,
-K/KC/KCD.xml,KCDRE02K,005211,4,,A,5,1,"I think I might cut another piece of paper, the side won't stay flat.",,
+K/KC/KCD.xml,KCDRE02K,005211,2,,A,3,1,Yeah  --,,
+K/KC/KCD.xml,KCDRE02K,005211,3,,A,3,2,--It wasn't that  --,,
+K/KC/KCD.xml,KCDRE02K,005211,4,,A,3,3,"--it wasn't the lumps that bothered me it was the uhum, the fact that the edges just doesn't stay down.",,
+K/KC/KCD.xml,KCDRE02K,005211,5,,B,4,1,Yeah.,,
+K/KC/KCD.xml,KCDRE02K,005211,6,,A,5,1,"I think I might cut another piece of paper, the side won't stay flat.",,

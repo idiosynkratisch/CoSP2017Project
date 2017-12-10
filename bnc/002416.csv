@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE03K,002416,0,,A,1,1,That's quite a good idea.<tv on>,,
+K/KB/KBK.xml,KBKRE03K,002416,0,,A,1,1,That's quite a good idea.<tv on> ,,
 K/KB/KBK.xml,KBKRE03K,002416,1,,B,2,1,Mm.,,
 K/KB/KBK.xml,KBKRE03K,002416,2,,B,2,2,Well we can do that from the oak container out there.,,
 K/KB/KBK.xml,KBKRE03K,002416,3,,A,3,1,That's nice.,,

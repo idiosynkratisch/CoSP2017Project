@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE04A,002608,0,,A,1,1,I thought you might be going going (()) .,,
 K/KB/KBK.xml,KBKRE04A,002608,1,,B,2,1,No.,,
-K/KB/KBK.xml,KBKRE04A,002608,2,,A,3,1,A good thing,,
+K/KB/KBK.xml,KBKRE04A,002608,2,,A,3,1,A good thing ,,
 K/KB/KBK.xml,KBKRE04A,002608,3,,B,4,1,I hope not.,,
 K/KB/KBK.xml,KBKRE04A,002608,4,,A,5,1,It's a good thing I'm not going to go because you might end up  (()) oh look at that?,,
 K/KB/KBK.xml,KBKRE04A,002608,5,,B,6,1,"Oh that looks good, yes.",,

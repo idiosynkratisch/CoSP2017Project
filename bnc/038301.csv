@@ -1,4 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE00N,038301,0,,A,1,1,"The sugar was only fifty nine in the market as I came past at Charlie's you know, I thought well I'll get some of that and I got those jumbo eggs there, only a pound a dozen big ones, you know  You done?",,
-K/KE/KE2.xml,KE2RE00N,038301,1,,B,2,1,Well I'm looking for my glasses really,,
-K/KE/KE2.xml,KE2RE00N,038301,2,,A,3,1,"Oh I see, they're probably under the paper, yeah",,
+K/KE/KE2.xml,KE2RE00N,038301,0,,A,1,1,"The sugar was only fifty nine in the market as I came past at Charlie's you know, I thought well I'll get some of that and I got those jumbo eggs there, only a pound a dozen big ones, you know  --",,
+K/KE/KE2.xml,KE2RE00N,038301,1,,A,1,2,--You done?,,
+K/KE/KE2.xml,KE2RE00N,038301,2,,B,2,1,Well I'm looking for my glasses really,,
+K/KE/KE2.xml,KE2RE00N,038301,3,,A,3,1,"Oh I see, they're probably under the paper, yeah",,

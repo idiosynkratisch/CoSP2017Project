@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBF.xml,KBFRE01X,015604,0,,A,1,1,"No, I don't like that, mm so you obviously help each other",,
+K/KB/KBF.xml,KBFRE01X,015604,0,,A,1,1,"No, I don't like that, mm so you obviously help each other ",,
 K/KB/KBF.xml,KBFRE01X,015604,1,,B,2,1,Yeah.,,
 K/KB/KBF.xml,KBFRE01X,015604,2,,A,3,1,sort of what you want and what you don't want,,
 K/KB/KBF.xml,KBFRE01X,015604,3,,B,4,1,Yeah.,,
@@ -15,5 +15,5 @@ K/KB/KBF.xml,KBFRE01X,015604,12,,B,12,1,"Oh plenty, plenty.",,
 K/KB/KBF.xml,KBFRE01X,015604,13,,A,13,1,"Right that's got to go on top then, if you'll un-zip it, that's right (()) , didn't I?",,
 K/KB/KBF.xml,KBFRE01X,015604,14,,B,14,1,Oh this has got two zips.,,
 K/KB/KBF.xml,KBFRE01X,015604,15,,A,15,1,Oh that's good.,,
-K/KB/KBF.xml,KBFRE01X,015604,16,,B,16,1,Mm,,
+K/KB/KBF.xml,KBFRE01X,015604,16,,B,16,1,Mm ,,
 K/KB/KBF.xml,KBFRE01X,015604,17,,A,17,1,Bought a (()) .,,

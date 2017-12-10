@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE03Y,002506,0,,A,1,1,Nothing in the mail this morning.,,
 K/KB/KBK.xml,KBKRE03Y,002506,1,,A,1,2,(()) Hello  (()) I'll have a look.,,
-K/KB/KBK.xml,KBKRE03Y,002506,2,,A,1,3,"There's only a bag of peat on the doorstep, here it is look, indoors",,
+K/KB/KBK.xml,KBKRE03Y,002506,2,,A,1,3,"There's only a bag of peat on the doorstep, here it is look, indoors ",,
 K/KB/KBK.xml,KBKRE03Y,002506,3,,B,2,1,Have you had some breakfast?,,
 K/KB/KBK.xml,KBKRE03Y,002506,4,,A,3,1,No.,,
 K/KB/KBK.xml,KBKRE03Y,002506,5,,B,4,1,(()) ,,

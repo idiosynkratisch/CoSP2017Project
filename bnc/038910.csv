@@ -1,5 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KE/KE2.xml,KE2RE024,038910,0,,A,1,1,Fancy going to the supermarket like that?,,
-K/KE/KE2.xml,KE2RE024,038910,1,,B,2,1,"I'll put these on for erm  I bet erm  Bryant  <<REDACTED (name)>> was sort of he wasn't feeling he's hard done by and i- in fact he, you know went",,
-K/KE/KE2.xml,KE2RE024,038910,2,,A,3,1,Yeah.,,
-K/KE/KE2.xml,KE2RE024,038910,3,,B,4,1,He's always  pleasant.,,
+K/KE/KE2.xml,KE2RE024,038910,1,,B,2,1,I'll put these on for erm  --,,
+K/KE/KE2.xml,KE2RE024,038910,2,,B,2,2,--I bet erm  --,,
+K/KE/KE2.xml,KE2RE024,038910,3,,B,2,3,"--Bryant  <<REDACTED (name)>> was sort of he wasn't feeling he's hard done by and i- in fact he, you know went ",,
+K/KE/KE2.xml,KE2RE024,038910,4,,A,3,1,Yeah.,,
+K/KE/KE2.xml,KE2RE024,038910,5,,B,4,1,He's always  --,,
+K/KE/KE2.xml,KE2RE024,038910,6,,B,4,2,--pleasant.,,

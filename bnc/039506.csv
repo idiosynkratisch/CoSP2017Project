@@ -1,8 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KE/KE2.xml,KE2RE03M,039506,0,,A,1,1,Does she  (()),,
+K/KE/KE2.xml,KE2RE03M,039506,0,,A,1,1,Does she  (()) ,,
 K/KE/KE2.xml,KE2RE03M,039506,1,,B,2,1,Oh you've taken the bread out have you?,,
 K/KE/KE2.xml,KE2RE03M,039506,2,,A,3,1,Oh these bits?,,
-K/KE/KE2.xml,KE2RE03M,039506,3,,B,4,1,Yeah I was just gonna have that,,
+K/KE/KE2.xml,KE2RE03M,039506,3,,B,4,1,Yeah I was just gonna have that ,,
 K/KE/KE2.xml,KE2RE03M,039506,4,,A,5,1,Oh you were?,,
 K/KE/KE2.xml,KE2RE03M,039506,5,,B,6,1,Yeah.,,
 K/KE/KE2.xml,KE2RE03M,039506,6,,A,7,1,Sorry.,,
