@@ -1,8 +1,8 @@
 #!/usr/bin/env python 
 
 """
-Functions to convert dialogues from the BNC XML into transcripts and metadata
-in a format compatible with swda.py
+Functions to convert dialogues from the BNC XML into transcripts and 
+metadata in a format compatible with swda.py
 
 When run as a script it will automatically look for dialogues from the
 demographically-sampled portion of the BNC in the local copy of BNC XML
@@ -15,7 +15,8 @@ from csv import DictWriter
 from nltk.corpus.reader.bnc import BNCCorpusReader
 from collections import defaultdict
 
-corpus = BNCCorpusReader(root='BNC XML/Texts/', fileids=r'[A-K]/\w*/\w*\.xml')
+corpus = BNCCorpusReader(root='BNC XML/Texts/', 
+                         fileids=r'[A-K]/\w*/\w*\.xml')
 
 def get_data(item, last_shifts=[]):
     """ Constructs text and pos-tag for the item supplied
@@ -38,18 +39,16 @@ def get_data(item, last_shifts=[]):
         #generate text and pos-tag recursively
         l = [get_data(it, last_shifts) for it in item]
         text = ''.join([i[0] for i in l])
-        pos = '[{}]/{} '.format(''.join([i[1] for i in l]).rstrip(), item.attrib['c5'])
+        pos = '[{}]/{} '.format(''.join([i[1] for i in l]).rstrip(),
+                                item.attrib['c5'])
     elif item.tag in {'event', 'vocal'}:
         text = '<{}> '.format(item.attrib['desc'])
         pos = ''
-    elif item.tag == 'align':
+    elif item.tag in {'pause', 'align'}:
         text = ''
         pos = ''
     elif item.tag == 'gap':
         text = '<<REDACTED ({})>> '.format(item.attrib['desc'])
-        pos = ''
-    elif item.tag == 'pause':
-        text = ''
         pos = ''
     elif item.tag == 'shift':
         if 'new' in item.attrib:
@@ -94,23 +93,26 @@ def write_transcript(conv, doc, directory, doPos=False):
     header = ['swda_filename',       #original BNC XML file
               'ptb_basename',        #id of the recording
               'conversation_no',     #id of the div
-              'transcript_index',    #index of subutterance (corresponds to <s>) in the transcript
+              'transcript_index',    #index of subutterance 
               'act_tag',             #unused
-              'caller',              #A (first speaker) or B (second speaker)
-              'turn_index',          #index of utterance (corresponds to <u> or top-level <unclear>)
-                                     #in the transcript
-              'subutterance_index',  #index of subutterance within utterance (<s> within <u>)
+              'caller',              #A (first speaker) or 
+                                     #B (second speaker)
+              'turn_index',          #index of turn
+              'subutterance_index',  #index of subutterance within turn
               'text',                #text of subutterance (<s>)
               'pos',                 #POS-tags of subutterance
-              'trees',               #field for trees to be added by the Stanford Parser
+              'trees',               #field for trees to be added
+                                     #by the Stanford Parser
              ]
     
     n = conv.attrib['n']
-    #try finding recording and setting id as attributes of the conversation
+    #try finding recording and setting id as attributes of the  
+    #conversation
     try:
         recording, setting = conv.attrib['decls'].split()[:2]
     except KeyError:
-        # if this fails try finding the corresponding recording and setting 'manually'
+        # if this fails try finding the corresponding recording and
+        # setting 'manually'
         xml = corpus.xml(doc)
         rec = xml.find(".//recording[@n='{}']".format(n))
         se = xml.find(".//setting[@n='{}']".format(n))
@@ -118,12 +120,14 @@ def write_transcript(conv, doc, directory, doPos=False):
             print 'Failed to find recording ID, skipping'
             return None
         else:
-            recording = rec.attrib['{http://www.w3.org/XML/1998/namespace}id']
+            recording = \
+            rec.attrib['{http://www.w3.org/XML/1998/namespace}id']
         if se == None:
             print 'Failed to find setting ID, skipping'
             return None
         else:
-            setting = se.attrib['{http://www.w3.org/XML/1998/namespace}id']
+            setting = \
+            se.attrib['{http://www.w3.org/XML/1998/namespace}id']
     
     with open(filename, 'w') as f:
         writer = DictWriter(f, header)
@@ -137,7 +141,8 @@ def write_transcript(conv, doc, directory, doPos=False):
         prev_speaker = None
         
         for utt in conv.findall('*[@who]'):
-            #set values that are the same for all utterances in a conversation
+            #set values that are the same for all utterances in a 
+            #conversation
             d = {'swda_filename': doc,
                  'ptb_basename': recording,
                  'conversation_no': n}
@@ -153,9 +158,10 @@ def write_transcript(conv, doc, directory, doPos=False):
                 B = utt.attrib['who']
                 d['caller'] = 'B'
             else:
-                print 'Something went wrong: Could not identify speaker'
+                print 'Error: Could not identify speaker'
                 raise KeyboardInterrupt
-            #if speaker has changed update and write turn_index, reset subutterance_index
+            #if speaker has changed update and write turn_index, reset 
+            #subutterance_index
             if prev_speaker != d['caller']:
                 turn_index += 1
                 subutterance_index = 1
@@ -181,6 +187,10 @@ def write_transcript(conv, doc, directory, doPos=False):
                     pos = ''.join([i[1] for i in l]).rstrip()
                 else:
                     text, pos = get_data(subutt, last_shifts)
+                
+                # ignore subutterances without text
+                if text == '':
+                    continue
                 d['transcript_index'] = transcript_index
                 d['subutterance_index'] = subutterance_index
                 d['text'] = text
@@ -200,18 +210,20 @@ def write_metadata(doc, ids, writer):
     """ Compiles metadata for conv and writes it using writer
     
         Argument:
-        doc (xml.etree.Element): The XML-tree containing the conversation for which the metadata
+        doc (xml.etree.Element): The XML-tree containing the 
+                                 conversation for which the metadata
                                  is to be written
         ids (iterable): Contains ids for conversation, caller A and B,
                         as well as recording and setting IDs
-        writer (csv.DictWriter): DictWriter object to the metadata file.
+        writer (csv.DictWriter): DictWriter object for metadata file.
     """
     
     # helper dicts to translate from BNC metadata to SWBD-like metadata
     sex = {'m': 'MALE', 'f': 'FEMALE', 'u': 'UNKNOWN'}
     # since exact birth dates are not always available in BNC, we choose the midpoint of each
     # age group and substract it from the date of recording to obtain an estimate, if possible.
-    age_groups = {'Ag0': 10, 'Ag1': 20, 'Ag2': 30, 'Ag3': 40, 'Ag4': 52, 'Ag5': 75}
+    age_groups = {'Ag0': 10, 'Ag1': 20, 'Ag2': 30, 'Ag3': 40,
+                  'Ag4': 52, 'Ag5': 75}
     dialect_areas = {'CAN': 'Canadian',
                      'NONE': 'UNK',
                      'XDE': 'German',
@@ -296,7 +308,8 @@ def write_metadata(doc, ids, writer):
                 pass
         # compute birth_year if possible
         if files[person]['age'] != '' and date:
-            files[person]['birth_year'] = int(date[0]) - int(files[person]['age'])
+            files[person]['birth_year'] =\
+                int(date[0]) - int(files[person]['age'])
         else:
             # swda_time expects birth year to be set, so we set it to 1789 if unknown
             files[person]['birth_year'] = 1789
@@ -337,8 +350,8 @@ def write_metadata(doc, ids, writer):
             
     
 def convert_bnc(dialogues, directory='bnc', doPos=False):
-    """ Iterates over fileids and converts all contained conversations to csv-files
-        writing metadata in the process
+    """ Iterates over fileids and converts all contained conversations
+        to csv-files writing metadata in the process
         
         Arguments:
         dialogues(dict of [str, list of str]):
@@ -393,8 +406,8 @@ if __name__ == '__main__':
         if xml.findall('stext') != []:
             spoken.append(text)
         
-    # find subset of files containing spoken text that form the demographically sampled part
-    # indicated by type 'CONVRSN'
+    # find subset of files containing spoken text that form the 
+    # demographically sampled part indicated by type 'CONVRSN'
     dem = []
 
     for doc in spoken:
@@ -405,7 +418,8 @@ if __name__ == '__main__':
             
     dialogues = defaultdict(list)
 
-    #find files containing dialogues and compile a list of their indices per file
+    #find files containing dialogues and compile a list of their 
+    #indices per file
     for doc in dem:
         xml = corpus.xml(doc)
         for conv in xml.iter('div'):
@@ -415,7 +429,8 @@ if __name__ == '__main__':
             if len(speakers) == 2:
                 dialogues[doc].append(conv.attrib['n'])
             
-    #clean up the Robert/Robert2 confusion (see roberts.txt for an explanation)
+    #clean up the Robert/Robert2 confusion (see roberts.txt for an 
+    #explanation)
     dialogues['K/KD/KDT.xml'].remove('133401')
     dialogues['K/KD/KDT.xml'].remove('133501')
     dialogues['K/KD/KDT.xml'].remove('133502')
