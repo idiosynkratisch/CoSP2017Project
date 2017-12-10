@@ -34,7 +34,6 @@ class Sentence():
     Utterance-like object with additional attributes for
         - lenght (number of words),
         - topic index ("within-topic position")
-        - speaker role
         
     To be added:
         - width
@@ -61,8 +60,6 @@ class Sentence():
         self.text = self.utterance.text
         self.pos = self.utterance.pos
         self.trees = self.utterance.trees
-
-# test_sentence = Sentence(test_topic.segment[0], test_topic.segment)
 
 class Topic:
     """
@@ -96,20 +93,17 @@ class Topic:
         """
         Define the leader of the topic episode by Rule I and Rule II.
         
-        Return 'A'/'B'/'NO ROLES'
+        Return 'A'/'B'
         """
         
         def utt_length_leader(n):
             """
             Define leader by Rule II: the speaker with the first 
-            > 5 word utterance in topic segment.
-            
-            If topic contains a > 5 word utterance, 
-            return speaker with leader role/'NO ROLES'
+            >= n word utterance in topic segment.
             
             """
             for i in range(self.length):
-                if self.sentences()[i].length > n-1:
+                if self.sentences()[i].length >= n:
                     leader = self.segment[i].caller
                     return leader
         
