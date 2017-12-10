@@ -30,7 +30,10 @@ def _process_pauses(sent):
     while True:
         try:
             i = [w[0] for w in rest].index('--')
-            if i == len(rest) - 1:
+            #disregard pauses at the beginning of a sentence
+            if i == 0:
+                rest = rest[1:]
+            elif i == len(rest) - 1:
                 split.append(rest[:i])
                 rest = []
             else:
