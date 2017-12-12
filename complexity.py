@@ -8,10 +8,13 @@ from swda_time import CorpusReader
 corpus = CorpusReader('swda', 'swda/swda-metadata.csv')
 
 # list of names of functions to be used as measures
-measures = ['depth', 'width', 'balanced', 'avdepth']
+measures = ['depth', 'width', 'balanced', 'avdepth', 'balanced2']
 
 #dict for holding average measures per length
 averages = dict([(measure, defaultdict(list)) for measure in measures])
+
+computed_ranges = False
+ran = {'depth': {}, 'width': {}}
 
 def length(tree):
     """
@@ -36,6 +39,48 @@ def balanced(tree):
     Computes branching factor multiplied with the depth of tree
     """
     return depth(tree) * width(tree)
+    
+def balanced2(tree, corpus=corpus):
+    """
+    Computes branching factor mapped to (0, 1) with depth mapped
+    to (0, 1) so they are weighted equally
+    """
+    # check if value ranges have been computed, else do it
+    
+    global computed_ranges
+    
+    if not computed_ranges:
+        values = dict([(measure, defaultdict(list))
+                       for measure in ran])
+        for utt in corpus.iter_utterances(display_progress=False):
+            for tree in utt.trees:
+                for measure in values:
+                    values[measure][length(tree)].append(
+                        float(eval(measure)(tree))
+                    )
+        for measure in values:
+            for le in values[measure]:
+                ran[measure][le] = (max(values[measure][le]),
+                                    min(values[measure][le]))
+        computed_ranges = True
+    
+    le = length(tree)
+    #normalize depth
+    if ran['depth'][le][0] == ran['depth'][le][1]:
+    #if max and min a are equal, then all depths are average
+        norm_depth = 0.5
+    else:
+    #compute range and normalize with it
+        r_depth = ran['depth'][le][0] - ran['depth'][le][1]
+        norm_depth = depth(tree)/r_depth - (ran['depth'][le][1]/r_depth)
+    #do the same for width
+    if ran['width'][le][0] == ran['width'][le][1]:
+        norm_width = 0.5
+    else:
+        r_width = ran['width'][le][0] - ran['width'][le][1]
+        norm_width = width(tree)/r_width - (ran['width'][le][1]/r_width)
+        
+    return norm_depth * norm_width
     
 def _find_lengths(tree):
     """
@@ -101,6 +146,15 @@ def nbalanced(tree, corpus=corpus):
     if not averages['balanced']:
         compute_averages(corpus=corpus)
     return balanced(tree)/averages['balanced'][length(tree)]
+
+def nbalanced2(tree, corpus=corpus):
+    """
+    Computes the normalized balanced measure
+    of tree (using averages from corpus)
+    """
+    if not averages['balanced2']:
+        compute_averages(corpus=corpus)
+    return balanced2(tree)/averages['balanced2'][length(tree)]
     
 def n_avdepth(tree, corpus=corpus):
     """
