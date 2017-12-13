@@ -1,0 +1,19 @@
+810,"(0, 1)",Oh up we come  Let 's take this one off .,"[(u'Oh', u'UH'), (u'up', u'IN'), (u'we', u'PRP'), (u'come', u'VBP'), (u'Let', u'NNP'), (u""'s"", u'POS'), (u'take', u'VB'), (u'this', u'DT'), (u'one', u'CD'), (u'off', u'RB'), (u'.', u'.')]","(ROOT
+  (INTJ
+    (UH Oh)
+    (PP
+      (IN up)
+      (S
+        (NP (PRP we))
+        (VP
+          (VBP come)
+          (S
+            (NP (NNP Let) (POS 's))
+            (VP
+              (VB take)
+              (NP (DT this))
+              (ADVP (NP (CD one)) (RB off)))))))
+    (. .)))"
+810,"(2,)",Da,"[(u'Da', u'NN')]",(ROOT (NP (NN Da)))
+810,"(3,)",Here we go .,"[(u'Here', u'RB'), (u'we', u'PRP'), (u'go', u'VBP'), (u'.', u'.')]",(ROOT (S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP go)) (. .)))
+810,"(4,)",Sit up .,"[(u'Sit', u'VB'), (u'up', u'RP'), (u'.', u'.')]",(ROOT (S (VP (VB Sit) (PRT (RP up))) (. .)))

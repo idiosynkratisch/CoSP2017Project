@@ -1,0 +1,41 @@
+701,"(0, 1)",There  there 's my good boy .,"[(u'There', u'EX'), (u'there', u'EX'), (u""'s"", u'VBZ'), (u'my', u'PRP$'), (u'good', u'JJ'), (u'boy', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (EX There))
+    (NP (EX there))
+    (VP (VBZ 's) (NP (PRP$ my) (JJ good) (NN boy)))
+    (. .)))"
+701,"(2,)",There 's my good boy .,"[(u'There', u'EX'), (u""'s"", u'VBZ'), (u'my', u'PRP$'), (u'good', u'JJ'), (u'boy', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's) (NP (PRP$ my) (JJ good) (NN boy)))
+    (. .)))"
+701,"(3,)",Oh !,"[(u'Oh', u'UH'), (u'!', u'.')]",(ROOT (INTJ (UH Oh) (. !)))
+701,"(4, 5)", deh !,"[(u'deh', u'NN'), (u'!', u'.')]",(ROOT (NP (NN deh) (. !)))
+701,"(6,)",Deh ?,"[(u'Deh', u'NN'), (u'?', u'.')]",(ROOT (FRAG (NP (NN Deh)) (. ?)))
+701,"(7,)",Deh !,"[(u'Deh', u'NN'), (u'!', u'.')]",(ROOT (NP (NN Deh) (. !)))
+701,"(8,)",Deh !,"[(u'Deh', u'NN'), (u'!', u'.')]",(ROOT (NP (NN Deh) (. !)))
+701,"(9,)",Deh ! .,"[(u'Deh', u'NN'), (u'!', u'.'), (u'.', u'.')]",(ROOT (FRAG (ADJP (NN Deh) (. !)) (. .)))
+701,"(10,)",Hello !,"[(u'Hello', u'UH'), (u'!', u'.')]",(ROOT (INTJ (UH Hello) (. !)))
+701,"(11,)",Who 's this Guy ?,"[(u'Who', u'WP'), (u""'s"", u'VBZ'), (u'this', u'DT'), (u'Guy', u'NNP'), (u'?', u'.')]","(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBZ 's) (NP (DT this) (NNP Guy)))
+    (. ?)))"
+701,"(12,)",Who 's this ?,"[(u'Who', u'WP'), (u""'s"", u'VBZ'), (u'this', u'DT'), (u'?', u'.')]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (NP (DT this))) (. ?)))
+701,"(13,)",Hello !,"[(u'Hello', u'UH'), (u'!', u'.')]",(ROOT (INTJ (UH Hello) (. !)))
+701,"(14,)",Ah !,"[(u'Ah', u'UH'), (u'!', u'.')]",(ROOT (INTJ (UH Ah) (. !)))
+701,"(15,)",Hello !,"[(u'Hello', u'UH'), (u'!', u'.')]",(ROOT (INTJ (UH Hello) (. !)))
+701,"(16,)",Ah !,"[(u'Ah', u'UH'), (u'!', u'.')]",(ROOT (INTJ (UH Ah) (. !)))
+701,"(17,)",There,"[(u'There', u'EX')]",(ROOT (NP (EX There)))
+701,"(18,)",Eh .,"[(u'Eh', u'NN'), (u'.', u'.')]",(ROOT (NP (NN Eh) (. .)))
+701,"(19,)",Hello .,"[(u'Hello', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Hello) (. .)))
+701,"(20,)",Eh !,"[(u'Eh', u'NN'), (u'!', u'.')]",(ROOT (NP (NN Eh) (. !)))
+701,"(21,)",Yes .,"[(u'Yes', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Yes) (. .)))
+701,"(22,)",Eh .,"[(u'Eh', u'NN'), (u'.', u'.')]",(ROOT (NP (NN Eh) (. .)))
+701,"(23,)",Yeah .,"[(u'Yeah', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Yeah) (. .)))
+701,"(24,)",Hello .,"[(u'Hello', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Hello) (. .)))
+701,"(25,)",Hello turkey .,"[(u'Hello', u'UH'), (u'turkey', u'NN'), (u'.', u'.')]",(ROOT (S (VP (NP (INTJ (UH Hello)) (NP (NN turkey)))) (. .)))
+701,"(26,)",Eh .,"[(u'Eh', u'NN'), (u'.', u'.')]",(ROOT (NP (NN Eh) (. .)))
+701,"(27,)",Hello .,"[(u'Hello', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Hello) (. .)))
+701,"(28,)",Hello .,"[(u'Hello', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Hello) (. .)))
+701,"(29,)",Eh .,"[(u'Eh', u'NN'), (u'.', u'.')]",(ROOT (NP (NN Eh) (. .)))

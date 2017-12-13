@@ -1,0 +1,33 @@
+611,"(0,)",Oh !,"[(u'Oh', u'UH'), (u'!', u'.')]",(ROOT (INTJ (UH Oh) (. !)))
+611,"(1,)",Is that any way to treat your bottle ?,"[(u'Is', u'VBZ'), (u'that', u'IN'), (u'any', u'DT'), (u'way', u'NN'), (u'to', u'TO'), (u'treat', u'VB'), (u'your', u'PRP$'), (u'bottle', u'NN'), (u'?', u'.')]","(ROOT
+  (S
+    (VP
+      (VBZ Is)
+      (SBAR
+        (IN that)
+        (S
+          (NP (DT any) (NN way))
+          (VP (TO to) (VP (VB treat) (NP (PRP$ your) (NN bottle)))))))
+    (. ?)))"
+611,"(2,)",Want any more of this ?,"[(u'Want', u'VB'), (u'any', u'DT'), (u'more', u'JJR'), (u'of', u'IN'), (u'this', u'DT'), (u'?', u'.')]","(ROOT
+  (SQ
+    (VP
+      (VB Want)
+      (NP (NP (DT any) (JJR more)) (PP (IN of) (NP (DT this)))))
+    (. ?)))"
+611,"(3,)",No .,"[(u'No', u'DT'), (u'.', u'.')]",(ROOT (FRAG (NP (DT No)) (. .)))
+611,"(4,)",You ready to go down ?,"[(u'You', u'PRP'), (u'ready', u'JJ'), (u'to', u'TO'), (u'go', u'VB'), (u'down', u'RP'), (u'?', u'.')]","(ROOT
+  (FRAG
+    (ADJP (NP (PRP You)) (JJ ready))
+    (S (VP (TO to) (VP (VB go) (PRT (RP down)))))
+    (. ?)))"
+611,"(5,)",Okey dokey .,"[(u'Okey', u'NN'), (u'dokey', u'NN'), (u'.', u'.')]",(ROOT (NP (NP (NN Okey)) (NP (NN dokey)) (. .)))
+611,"(6,)",There we go tiger .,"[(u'There', u'EX'), (u'we', u'PRP'), (u'go', u'VBP'), (u'tiger', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (EX There))
+    (NP (PRP we))
+    (VP (VBP go) (NP (NN tiger)))
+    (. .)))"
+611,"(7,)",There we go .,"[(u'There', u'EX'), (u'we', u'PRP'), (u'go', u'VBP'), (u'.', u'.')]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
+611,"(8,)",,[]
+611,"(9,)",,[]
