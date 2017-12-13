@@ -1,0 +1,290 @@
+801,"(0,)",Oh when did you get this one then ?,"[(u'Oh', u'UH'), (u'when', u'WRB'), (u'did', u'VBD'), (u'you', u'PRP'), (u'get', u'VB'), (u'this', u'DT'), (u'one', u'CD'), (u'then', u'RB'), (u'?', u'.')]","(ROOT
+  (SBARQ
+    (UH Oh)
+    (WHADVP (WRB when))
+    (SQ
+      (VBD did)
+      (NP (PRP you))
+      (VP (VB get) (NP (DT this) (CD one)) (ADVP (RB then))))
+    (. ?)))"
+801,"(1,)",Indian shop,"[(u'Indian', u'JJ'), (u'shop', u'NN')]",(ROOT (NP (JJ Indian) (NN shop)))
+801,"(2,)",That 's where I went,"[(u'That', u'DT'), (u""'s"", u'VBZ'), (u'where', u'WRB'), (u'I', u'PRP'), (u'went', u'VBD')]","(ROOT
+  (S
+    (NP (DT That))
+    (VP
+      (VBZ 's)
+      (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBD went)))))))"
+801,"(3,)",Sorry ?,"[(u'Sorry', u'JJ'), (u'?', u'.')]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
+801,"(4,)",That 's where I went they didn 't have any .,"[(u'That', u'DT'), (u""'s"", u'VBZ'), (u'where', u'WRB'), (u'I', u'PRP'), (u'went', u'VBD'), (u'they', u'PRP'), (u'didn', u'VBP'), (u""'t"", u'NN'), (u'have', u'VBP'), (u'any', u'DT'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (DT That))
+    (VP
+      (VBZ 's)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP I))
+          (VP
+            (VBD went)
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP
+                  (VBP didn)
+                  (SBAR
+                    (S (NP (NN 't)) (VP (VBP have) (NP (DT any))))))))))))
+    (. .)))"
+801,"(5,)",No the Indian up at Sudbury,"[(u'No', u'DT'), (u'the', u'DT'), (u'Indian', u'NNP'), (u'up', u'RP'), (u'at', u'IN'), (u'Sudbury', u'NNP')]","(ROOT
+  (NP
+    (NP (DT No) (DT the))
+    (NP
+      (NP (NNP Indian))
+      (ADVP (RP up))
+      (PP (IN at) (NP (NNP Sudbury))))))"
+801,"(6,)",Oh is that where you went ?,"[(u'Oh', u'UH'), (u'is', u'VBZ'), (u'that', u'IN'), (u'where', u'WRB'), (u'you', u'PRP'), (u'went', u'VBD'), (u'?', u'.')]","(ROOT
+  (S
+    (NP (UH Oh))
+    (VP
+      (VBZ is)
+      (SBAR
+        (IN that)
+        (WHADVP (WRB where))
+        (S (NP (PRP you)) (VP (VBD went)))))
+    (. ?)))"
+801,"(7,)",Yeah .,"[(u'Yeah', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Yeah) (. .)))
+801,"(8,)",I knew I 'd get icing sugar there you see .,"[(u'I', u'PRP'), (u'knew', u'VBD'), (u'I', u'PRP'), (u""'d"", u'MD'), (u'get', u'VB'), (u'icing', u'NN'), (u'sugar', u'NN'), (u'there', u'RB'), (u'you', u'PRP'), (u'see', u'VBP'), (u'.', u'.')]","(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VBD knew)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP
+              (MD 'd)
+              (VP
+                (VB get)
+                (NP (NN icing) (NN sugar))
+                (ADVP (RB there))))))))
+    (NP (PRP you))
+    (VP (VBP see))
+    (. .)))"
+801,"(9,)",That 's cheaper look .,"[(u'That', u'DT'), (u""'s"", u'VBZ'), (u'cheaper', u'JJR'), (u'look', u'NN'), (u'.', u'.')]","(ROOT
+  (S (NP (DT That)) (VP (VBZ 's) (NP (JJR cheaper) (NN look))) (. .)))"
+801,"(10,)",Oh yeah there 's a bit of a difference isn 't there ?,"[(u'Oh', u'UH'), (u'yeah', u'VB'), (u'there', u'EX'), (u""'s"", u'VBZ'), (u'a', u'DT'), (u'bit', u'NN'), (u'of', u'IN'), (u'a', u'DT'), (u'difference', u'NN'), (u'isn', u'FW'), (u""'t"", u'FW'), (u'there', u'EX'), (u'?', u'.')]","(ROOT
+  (S
+    (INTJ (UH Oh))
+    (VP
+      (VB yeah)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP
+            (VBZ 's)
+            (NP
+              (NP (DT a) (NN bit))
+              (PP
+                (IN of)
+                (NP
+                  (NP (DT a) (NN difference) (FW isn) (FW 't))
+                  (SBAR (S (NP (EX there)))))))))))
+    (. ?)))"
+801,"(11,)",Hm .,"[(u'Hm', u'NN'), (u'.', u'.')]",(ROOT (NP (NN Hm) (. .)))
+801,"(12,)",We didn 't get any did we ?,"[(u'We', u'PRP'), (u'didn', u'VBP'), (u""'t"", u'NN'), (u'get', u'VB'), (u'any', u'DT'), (u'did', u'VBD'), (u'we', u'PRP'), (u'?', u'.')]","(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VBP didn)
+      (S
+        (NP (NN 't))
+        (VP
+          (VB get)
+          (SBAR (S (NP (DT any)) (VP (VBD did) (NP (PRP we))))))))
+    (. ?)))"
+801,"(13,)",I tried to get some pizza things as well .,"[(u'I', u'PRP'), (u'tried', u'VBD'), (u'to', u'TO'), (u'get', u'VB'), (u'some', u'DT'), (u'pizza', u'NN'), (u'things', u'NNS'), (u'as', u'RB'), (u'well', u'RB'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VBD tried)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB get)
+            (NP (DT some) (NN pizza) (NNS things))
+            (ADVP (RB as) (RB well))))))
+    (. .)))"
+801,"(14,)",I couldn 't get er I couldn 't get any .,"[(u'I', u'PRP'), (u'couldn', u'VBP'), (u""'t"", u'NN'), (u'get', u'VB'), (u'er', u'IN'), (u'I', u'PRP'), (u'couldn', u'VBP'), (u""'t"", u'NN'), (u'get', u'VB'), (u'any', u'DT'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP couldn)
+      (S
+        (NP (NN 't))
+        (VP
+          (VB get)
+          (SBAR
+            (IN er)
+            (S
+              (NP (PRP I))
+              (VP
+                (VBP couldn)
+                (S (NP (NN 't)) (VP (VB get) (NP (DT any))))))))))
+    (. .)))"
+801,"(15,)",There 's your Bombay mix .,"[(u'There', u'EX'), (u""'s"", u'VBZ'), (u'your', u'PRP$'), (u'Bombay', u'NNP'), (u'mix', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's) (NP (PRP$ your) (NNP Bombay) (NN mix)))
+    (. .)))"
+801,"(16,)",What I thought was er what were those er,"[(u'What', u'WP'), (u'I', u'PRP'), (u'thought', u'VBD'), (u'was', u'VBD'), (u'er', u'IN'), (u'what', u'WP'), (u'were', u'VBD'), (u'those', u'DT'), (u'er', u'IN')]","(ROOT
+  (SBAR
+    (WHNP (WP What))
+    (S
+      (NP (PRP I))
+      (VP
+        (VBD thought)
+        (SBAR
+          (S
+            (VP
+              (VBD was)
+              (PP
+                (IN er)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP
+                      (VBD were)
+                      (NP (NP (DT those)) (ADJP (IN er))))))))))))))"
+801,"(17,)",Those,"[(u'Those', u'DT')]",(ROOT (FRAG (NP (DT Those))))
+801,"(18,)",You 're going to use those avocados ?,"[(u'You', u'PRP'), (u""'re"", u'VBP'), (u'going', u'VBG'), (u'to', u'TO'), (u'use', u'VB'), (u'those', u'DT'), (u'avocados', u'NNS'), (u'?', u'.')]","(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP 're)
+      (VP
+        (VBG going)
+        (S (VP (TO to) (VP (VB use) (NP (DT those) (NNS avocados)))))))
+    (. ?)))"
+801,"(19,)",You gonna do those avocado and prawn dip probably ?,"[(u'You', u'PRP'), (u'gonna', u'RB'), (u'do', u'VBP'), (u'those', u'DT'), (u'avocado', u'JJ'), (u'and', u'CC'), (u'prawn', u'JJ'), (u'dip', u'NN'), (u'probably', u'RB'), (u'?', u'.')]","(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB gonna))
+    (VP
+      (VBP do)
+      (NP (DT those) (JJ avocado) (CC and) (JJ prawn) (NN dip))
+      (ADVP (RB probably)))
+    (. ?)))"
+801,"(20,)",What for the mums ?,"[(u'What', u'WP'), (u'for', u'IN'), (u'the', u'DT'), (u'mums', u'NNS'), (u'?', u'.')]","(ROOT
+  (FRAG
+    (WHNP (WP What))
+    (PP (IN for) (NP (DT the) (NNS mums)))
+    (. ?)))"
+801,"(21,)",Yeah for the mums .,"[(u'Yeah', u'UH'), (u'for', u'IN'), (u'the', u'DT'), (u'mums', u'NNS'), (u'.', u'.')]","(ROOT
+  (FRAG
+    (PP (NP (INTJ (UH Yeah))) (IN for) (NP (DT the) (NNS mums)))
+    (. .)))"
+801,"(22,)",Mm,"[(u'Mm', u'NN')]",(ROOT (NP (NN Mm)))
+801,"(23,)",Is it difficult ?,"[(u'Is', u'VBZ'), (u'it', u'PRP'), (u'difficult', u'JJ'), (u'?', u'.')]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (ADJP (JJ difficult)) (. ?)))
+801,"(24,)",No .,"[(u'No', u'DT'), (u'.', u'.')]",(ROOT (FRAG (NP (DT No)) (. .)))
+801,"(25,)",Not so long as we 've got the stuff .,"[(u'Not', u'RB'), (u'so', u'RB'), (u'long', u'RB'), (u'as', u'IN'), (u'we', u'PRP'), (u""'ve"", u'VBP'), (u'got', u'VBN'), (u'the', u'DT'), (u'stuff', u'NN'), (u'.', u'.')]","(ROOT
+  (FRAG
+    (ADVP (RB Not) (RB so) (RB long))
+    (SBAR
+      (IN as)
+      (S
+        (NP (PRP we))
+        (VP (VBP 've) (VP (VBN got) (NP (DT the) (NN stuff))))))
+    (. .)))"
+801,"(26,)",We 've got the prawns and the avocados .,"[(u'We', u'PRP'), (u""'ve"", u'VBP'), (u'got', u'VBN'), (u'the', u'DT'), (u'prawns', u'NNS'), (u'and', u'CC'), (u'the', u'DT'), (u'avocados', u'NNS'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VBP 've)
+      (VP
+        (VBN got)
+        (NP
+          (NP (DT the) (NNS prawns))
+          (CC and)
+          (NP (DT the) (NNS avocados)))))
+    (. .)))"
+801,"(27,)",I don 't know what else you need .,"[(u'I', u'PRP'), (u'don', u'VBP'), (u""'t"", u'NN'), (u'know', u'VBP'), (u'what', u'WP'), (u'else', u'RB'), (u'you', u'PRP'), (u'need', u'VBP'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP don)
+      (SBAR
+        (S
+          (NP (NN 't))
+          (VP
+            (VBP know)
+            (SBAR
+              (WHNP (WP what))
+              (S (NP (RB else) (PRP you)) (VP (VBP need))))))))
+    (. .)))"
+801,"(28, 29)",Lemon juice  I want to know what did you mean .,"[(u'Lemon', u'NNP'), (u'juice', u'NN'), (u'I', u'PRP'), (u'want', u'VBP'), (u'to', u'TO'), (u'know', u'VB'), (u'what', u'WP'), (u'did', u'VBD'), (u'you', u'PRP'), (u'mean', u'VB'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (NNP Lemon))
+    (VP
+      (NN juice)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP
+            (VBP want)
+            (S
+              (VP
+                (TO to)
+                (VP
+                  (VB know)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP
+                        (VBD did)
+                        (S (NP (PRP you)) (VP (VB mean)))))))))))))
+    (. .)))"
+801,"(30,)",Do you mean   ?,"[(u'Do', u'VBP'), (u'you', u'PRP'), (u'mean', u'VB'), (u'?', u'.')]",(ROOT (SQ (VBP Do) (NP (PRP you)) (VP (VB mean)) (. ?)))
+801,"(31,)",Yes some of that   prawn and ,"[(u'Yes', u'RB'), (u'some', u'DT'), (u'of', u'IN'), (u'that', u'DT'), (u'prawn', u'NN'), (u'and', u'CC')]","(ROOT
+  (NP
+    (NP (RB Yes) (DT some))
+    (PP (IN of) (NP (NP (DT that) (NN prawn)) (ADVP (CC and))))))"
+801,"(32,)",,[]
+801,"(33,)",and er prawn and avocado and a little bit of mayonnaise just mixed together,"[(u'and', u'CC'), (u'er', u'FW'), (u'prawn', u'FW'), (u'and', u'CC'), (u'avocado', u'NN'), (u'and', u'CC'), (u'a', u'DT'), (u'little', u'JJ'), (u'bit', u'NN'), (u'of', u'IN'), (u'mayonnaise', u'NN'), (u'just', u'RB'), (u'mixed', u'VBN'), (u'together', u'RB')]","(ROOT
+  (UCP
+    (PP
+      (CC and)
+      (NP (NP (FW er) (FW prawn)) (CC and) (NP (NN avocado))))
+    (CC and)
+    (NP
+      (NP (DT a) (JJ little) (NN bit))
+      (PP
+        (IN of)
+        (NP (NP (NN mayonnaise)) (ADJP (RB just) (VBN mixed)))
+        (ADVP (RB together))))))"
+801,"(34,)",,[]
+801,"(35,)",You want to use those avocados up ?,"[(u'You', u'PRP'), (u'want', u'VBP'), (u'to', u'TO'), (u'use', u'VB'), (u'those', u'DT'), (u'avocados', u'NNS'), (u'up', u'RP'), (u'?', u'.')]","(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP want)
+      (S
+        (VP
+          (TO to)
+          (VP (VB use) (NP (DT those) (NNS avocados)) (PRT (RP up))))))
+    (. ?)))"
+801,"(36,)",Oh yeah .,"[(u'Oh', u'UH'), (u'yeah', u'JJ'), (u'.', u'.')]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ yeah)))) (. .)))
+801,"(37,)",I didn 't get round to it did I ?,"[(u'I', u'PRP'), (u'didn', u'VBP'), (u""'t"", u'NN'), (u'get', u'VB'), (u'round', u'JJ'), (u'to', u'TO'), (u'it', u'PRP'), (u'did', u'VBD'), (u'I', u'PRP'), (u'?', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP didn)
+      (S
+        (NP (NN 't))
+        (VP
+          (VB get)
+          (SBAR
+            (S
+              (NP (NP (JJ round)) (PP (TO to) (NP (PRP it))))
+              (VP (VBD did) (NP (PRP I))))))))
+    (. ?)))"

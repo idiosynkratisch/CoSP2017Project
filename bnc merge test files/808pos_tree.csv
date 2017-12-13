@@ -1,0 +1,255 @@
+808,"(0,)",Right we 're in business,"[(u'Right', u'RB'), (u'we', u'PRP'), (u""'re"", u'VBP'), (u'in', u'IN'), (u'business', u'NN')]","(ROOT
+  (ADJP
+    (RB Right)
+    (SBAR
+      (S
+        (NP (PRP we))
+        (VP (VBP 're) (PP (IN in) (NP (NN business))))))))"
+808,"(1,)",What time do you want this cooked for ?,"[(u'What', u'WDT'), (u'time', u'NN'), (u'do', u'VBP'), (u'you', u'PRP'), (u'want', u'VB'), (u'this', u'DT'), (u'cooked', u'VBN'), (u'for', u'IN'), (u'?', u'.')]","(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN time))
+    (SQ
+      (VBP do)
+      (NP (PRP you))
+      (VP
+        (VB want)
+        (NP (NP (DT this)) (VP (VBN cooked) (PP (IN for))))))
+    (. ?)))"
+808,"(2,)",Er,"[(u'Er', u'NN')]",(ROOT (NP (NN Er)))
+808,"(3,)",Do you want this stuffing with it so that it 's all cooked together ?,"[(u'Do', u'VBP'), (u'you', u'PRP'), (u'want', u'VB'), (u'this', u'DT'), (u'stuffing', u'NN'), (u'with', u'IN'), (u'it', u'PRP'), (u'so', u'RB'), (u'that', u'IN'), (u'it', u'PRP'), (u""'s"", u'VBZ'), (u'all', u'DT'), (u'cooked', u'VBN'), (u'together', u'RB'), (u'?', u'.')]","(ROOT
+  (SQ
+    (VBP Do)
+    (NP (PRP you))
+    (VP
+      (VB want)
+      (NP (DT this) (NN stuffing))
+      (PP (IN with) (NP (PRP it)))
+      (SBAR
+        (RB so)
+        (IN that)
+        (S
+          (NP (PRP it))
+          (VP
+            (VBZ 's)
+            (NP (NP (DT all)) (VP (VBN cooked) (ADVP (RB together))))))))
+    (. ?)))"
+808,"(4,)",Yes that 's a good idea ?,"[(u'Yes', u'NNP'), (u'that', u'WDT'), (u""'s"", u'VBZ'), (u'a', u'DT'), (u'good', u'JJ'), (u'idea', u'NN'), (u'?', u'.')]","(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Yes))
+      (SBAR
+        (WHNP (WDT that))
+        (S (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea))))))
+    (. ?)))"
+808,"(5,)",Watch it !,"[(u'Watch', u'VB'), (u'it', u'PRP'), (u'!', u'.')]",(ROOT (S (VP (VB Watch) (NP (PRP it))) (. !)))
+808,"(6,)",Er what time do we want it for ?,"[(u'Er', u'NNP'), (u'what', u'WDT'), (u'time', u'NN'), (u'do', u'VBP'), (u'we', u'PRP'), (u'want', u'VB'), (u'it', u'PRP'), (u'for', u'IN'), (u'?', u'.')]","(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Er))
+      (SBAR
+        (WHNP (WDT what) (NN time))
+        (S
+          (VP
+            (VBP do)
+            (S
+              (NP (PRP we))
+              (VP (VB want) (NP (PRP it)) (PP (IN for))))))))
+    (. ?)))"
+808,"(7,)",,[]
+808,"(8,)",About six ?,"[(u'About', u'IN'), (u'six', u'CD'), (u'?', u'.')]",(ROOT (FRAG (PP (IN About) (NP (CD six))) (. ?)))
+808,"(9,)",Oh no we have to come back to feed Guy haven 't we ?,"[(u'Oh', u'UH'), (u'no', u'DT'), (u'we', u'PRP'), (u'have', u'VBP'), (u'to', u'TO'), (u'come', u'VB'), (u'back', u'RB'), (u'to', u'TO'), (u'feed', u'VB'), (u'Guy', u'NNP'), (u'haven', u'NN'), (u""'t"", u'NN'), (u'we', u'PRP'), (u'?', u'.')]","(ROOT
+  (S
+    (S
+      (INTJ (UH Oh))
+      (NP (DT no) (PRP we))
+      (VP
+        (VBP have)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB come)
+              (ADVP (RB back))
+              (S
+                (VP
+                  (TO to)
+                  (VP
+                    (VB feed)
+                    (S
+                      (NP (NNP Guy) (NN haven) (NN 't))
+                      (NP (PRP we)))))))))))
+    (. ?)))"
+808,"(10,)",So it means being back here for five do we,"[(u'So', u'IN'), (u'it', u'PRP'), (u'means', u'VBZ'), (u'being', u'VBG'), (u'back', u'RB'), (u'here', u'RB'), (u'for', u'IN'), (u'five', u'CD'), (u'do', u'VBP'), (u'we', u'PRP')]","(ROOT
+  (SINV
+    (S
+      (ADVP (IN So))
+      (NP (PRP it))
+      (VP
+        (VBZ means)
+        (S
+          (VP
+            (VBG being)
+            (ADVP
+              (ADVP (RB back) (RB here))
+              (PP (IN for) (NP (CD five))))))))
+    (VP (VBP do))
+    (NP (PRP we))))"
+808,"(11,)",I 'm sure they 'll do him a sandwich box .,"[(u'I', u'PRP'), (u""'m"", u'VBP'), (u'sure', u'JJ'), (u'they', u'PRP'), (u""'ll"", u'MD'), (u'do', u'VB'), (u'him', u'PRP'), (u'a', u'DT'), (u'sandwich', u'NN'), (u'box', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP 'm)
+      (ADJP
+        (JJ sure)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP
+              (MD 'll)
+              (VP
+                (VB do)
+                (S (NP (PRP him)) (NP (DT a) (NN sandwich) (NN box)))))))))
+    (. .)))"
+808,"(12,)",Oh I don 't want to throw his routine too much .,"[(u'Oh', u'UH'), (u'I', u'PRP'), (u'don', u'VBP'), (u""'t"", u'NN'), (u'want', u'VBP'), (u'to', u'TO'), (u'throw', u'VB'), (u'his', u'PRP$'), (u'routine', u'NN'), (u'too', u'RB'), (u'much', u'RB'), (u'.', u'.')]","(ROOT
+  (S
+    (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP don)))
+    (NP (NN 't))
+    (VP
+      (VBP want)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB throw)
+            (NP (PRP$ his) (NN routine))
+            (ADVP (RB too) (RB much))))))
+    (. .)))"
+808,"(13,)",His sleep pattern going again .,"[(u'His', u'PRP$'), (u'sleep', u'NN'), (u'pattern', u'NN'), (u'going', u'VBG'), (u'again', u'RB'), (u'.', u'.')]","(ROOT
+  (NP
+    (NP (PRP$ His) (NN sleep) (NN pattern))
+    (VP (VBG going) (ADVP (RB again)))
+    (. .)))"
+808,"(14,)",Jack was talking about it .,"[(u'Jack', u'NNP'), (u'was', u'VBD'), (u'talking', u'VBG'), (u'about', u'IN'), (u'it', u'PRP'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (NNP Jack))
+    (VP (VBD was) (VP (VBG talking) (PP (IN about) (NP (PRP it)))))
+    (. .)))"
+808,"(15,)",Said Guy 's been playing up a bit lately hasn 't he ?,"[(u'Said', u'NNP'), (u'Guy', u'NNP'), (u""'s"", u'POS'), (u'been', u'VBN'), (u'playing', u'VBG'), (u'up', u'RP'), (u'a', u'DT'), (u'bit', u'NN'), (u'lately', u'RB'), (u'hasn', u'FW'), (u""'t"", u'FW'), (u'he', u'PRP'), (u'?', u'.')]","(ROOT
+  (NP
+    (NP (NNP Said) (NP (NNP Guy) (POS 's)))
+    (VP
+      (VBN been)
+      (VP
+        (VBG playing)
+        (PRT (RP up))
+        (NP
+          (NP (DT a) (NN bit))
+          (ADVP (RB lately))
+          (SBAR (S (NP (NP (FW hasn) (FW 't)) (NP (PRP he))))))))
+    (. ?)))"
+808,"(16,)",Was sad was he ?,"[(u'Was', u'VBD'), (u'sad', u'JJ'), (u'was', u'VBD'), (u'he', u'PRP'), (u'?', u'.')]","(ROOT
+  (S
+    (S (VP (VBD Was) (ADJP (JJ sad))))
+    (VP (VBD was) (NP (PRP he)))
+    (. ?)))"
+808,"(17,)",Oh yeah he heard him he said it 's alright I wake up with the birds myself anyway .,"[(u'Oh', u'UH'), (u'yeah', u'VB'), (u'he', u'PRP'), (u'heard', u'VBD'), (u'him', u'PRP'), (u'he', u'PRP'), (u'said', u'VBD'), (u'it', u'PRP'), (u""'s"", u'VBZ'), (u'alright', u'JJ'), (u'I', u'PRP'), (u'wake', u'VBP'), (u'up', u'RP'), (u'with', u'IN'), (u'the', u'DT'), (u'birds', u'NNS'), (u'myself', u'PRP'), (u'anyway', u'RB'), (u'.', u'.')]","(ROOT
+  (S
+    (INTJ (UH Oh))
+    (VP
+      (VB yeah)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP
+            (VBD heard)
+            (NP (PRP him))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP
+                  (VBD said)
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP
+                        (VBZ 's)
+                        (ADJP
+                          (JJ alright)
+                          (SBAR
+                            (S
+                              (NP (PRP I))
+                              (VP
+                                (VBP wake)
+                                (ADVP
+                                  (RP up)
+                                  (PP
+                                    (IN with)
+                                    (NP (DT the) (NNS birds))))
+                                (NP (PRP myself))
+                                (ADVP (RB anyway))))))))))))))))
+    (. .)))"
+808,"(18,)",Not much choice now .,"[(u'Not', u'RB'), (u'much', u'JJ'), (u'choice', u'NN'), (u'now', u'RB'), (u'.', u'.')]","(ROOT
+  (S (NP (RB Not) (JJ much) (NN choice)) (VP (ADVP (RB now))) (. .)))"
+808,"(19,)",Yeah I know .,"[(u'Yeah', u'UH'), (u'I', u'PRP'), (u'know', u'VBP'), (u'.', u'.')]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP know))) (. .)))
+808,"(20,)",He was alright this morning .,"[(u'He', u'PRP'), (u'was', u'VBD'), (u'alright', u'JJ'), (u'this', u'DT'), (u'morning', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was) (ADJP (JJ alright)) (NP (DT this) (NN morning)))
+    (. .)))"
+808,"(21,)",Yeah he wasn 't so bad but er,"[(u'Yeah', u'UH'), (u'he', u'PRP'), (u'wasn', u'FW'), (u""'t"", u'FW'), (u'so', u'RB'), (u'bad', u'JJ'), (u'but', u'CC'), (u'er', u'FW')]","(ROOT
+  (FRAG
+    (PP (UH Yeah) (NP (PRP he)))
+    (NP
+      (NP (FW wasn) (FW 't))
+      (ADJP (RB so) (JJ bad))
+      (PP (CC but) (NP (FW er))))))"
+808,"(22,)",What time do you want it ready ,"[(u'What', u'WDT'), (u'time', u'NN'), (u'do', u'VBP'), (u'you', u'PRP'), (u'want', u'VB'), (u'it', u'PRP'), (u'ready', u'JJ')]","(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NN time))
+    (SQ
+      (VBP do)
+      (NP (PRP you))
+      (VP (VB want) (S (NP (PRP it)) (ADJP (JJ ready)))))))"
+808,"(23,)",Five,"[(u'Five', u'CD')]",(ROOT (FRAG (NP (CD Five))))
+808,"(24,)",Five are we going to be back by five ?,"[(u'Five', u'CD'), (u'are', u'VBP'), (u'we', u'PRP'), (u'going', u'VBG'), (u'to', u'TO'), (u'be', u'VB'), (u'back', u'RB'), (u'by', u'IN'), (u'five', u'CD'), (u'?', u'.')]","(ROOT
+  (S
+    (NP (CD Five))
+    (VP
+      (VBP are)
+      (NP
+        (NP (PRP we))
+        (VP
+          (VBG going)
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB be)
+                (ADVP (RB back))
+                (PP (IN by) (NP (CD five)))))))))
+    (. ?)))"
+808,"(25,)",Oh no we 're going to give Guy,"[(u'Oh', u'UH'), (u'no', u'DT'), (u'we', u'PRP'), (u""'re"", u'VBP'), (u'going', u'VBG'), (u'to', u'TO'), (u'give', u'VB'), (u'Guy', u'NNP')]","(ROOT
+  (SINV
+    (FRAG (INTJ (UH Oh)))
+    (VP
+      (ADVP (DT no))
+      (VP
+        (ADVP (PRP we))
+        (VBP 're)
+        (VP (VBG going) (S (VP (TO to) (VP (VB give)))))))
+    (NP (NNP Guy))))"
+808,"(26,)",I 'll put ours for six .,"[(u'I', u'PRP'), (u""'ll"", u'MD'), (u'put', u'VB'), (u'ours', u'PRP'), (u'for', u'IN'), (u'six', u'CD'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (MD 'll)
+      (VP (VB put) (NP (PRP ours)) (PP (IN for) (NP (CD six)))))
+    (. .)))"
+808,"(27,)",If we come back we come back .,"[(u'If', u'IN'), (u'we', u'PRP'), (u'come', u'VBP'), (u'back', u'RB'), (u'we', u'PRP'), (u'come', u'VBP'), (u'back', u'RB'), (u'.', u'.')]","(ROOT
+  (S
+    (SBAR (IN If) (S (NP (PRP we)) (VP (VBP come) (ADVP (RB back)))))
+    (NP (PRP we))
+    (VP (VBP come) (ADVP (RB back)))
+    (. .)))"
+808,"(28,)",Yes fine .,"[(u'Yes', u'NNP'), (u'fine', u'NN'), (u'.', u'.')]",(ROOT (NP (NP (NNP Yes)) (NP (NN fine)) (. .)))
+808,"(29,)",Lovely .,"[(u'Lovely', u'RB'), (u'.', u'.')]",(ROOT (FRAG (ADVP (RB Lovely)) (. .)))

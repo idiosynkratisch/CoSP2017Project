@@ -1,0 +1,24 @@
+805,"(0, 1)",Da  .,"[(u'Da', u'NN'), (u'.', u'.')]",(ROOT (NP (NN Da) (. .)))
+805,"(2,)",Da da,"[(u'Da', u'NN'), (u'da', u'NN')]",(ROOT (NP (NN Da) (NN da)))
+805,"(3,)",da da da da da da,"[(u'da', u'NN'), (u'da', u'NN'), (u'da', u'NN'), (u'da', u'NN'), (u'da', u'NN'), (u'da', u'NN')]","(ROOT
+  (FRAG (NP (NN da) (NN da)) (NP (NN da) (NN da) (NN da) (NN da))))"
+805,"(4, 5)",Yes darling  .,"[(u'Yes', u'NNP'), (u'darling', u'NN'), (u'.', u'.')]",(ROOT (NP (NP (NNP Yes)) (NP (NN darling)) (. .)))
+805,"(6,)",There 's a clever boy .,"[(u'There', u'EX'), (u""'s"", u'VBZ'), (u'a', u'DT'), (u'clever', u'JJ'), (u'boy', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's) (NP (DT a) (JJ clever) (NN boy)))
+    (. .)))"
+805,"(7,)",There 's a clever boy .,"[(u'There', u'EX'), (u""'s"", u'VBZ'), (u'a', u'DT'), (u'clever', u'JJ'), (u'boy', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's) (NP (DT a) (JJ clever) (NN boy)))
+    (. .)))"
+805,"(8,)",Yaya yaya da da da,"[(u'Yaya', u'FW'), (u'yaya', u'FW'), (u'da', u'NN'), (u'da', u'NN'), (u'da', u'NN')]",(ROOT (NP (NP (FW Yaya) (FW yaya) (NN da) (NN da)) (NP (NN da))))
+805,"(9,)",Let 's get that one first .,"[(u'Let', u'NNP'), (u""'s"", u'POS'), (u'get', u'VB'), (u'that', u'IN'), (u'one', u'CD'), (u'first', u'RB'), (u'.', u'.')]","(ROOT
+  (S
+    (VP
+      (NP
+        (NP (NNP Let) (POS 's))
+        (PP (NP (VB get)) (PP (IN that) (NP (CD one) (RB first))))))
+    (. .)))"
+805,"(10,)",Alright .,"[(u'Alright', u'NNP'), (u'.', u'.')]",(ROOT (FRAG (NP (NNP Alright)) (. .)))

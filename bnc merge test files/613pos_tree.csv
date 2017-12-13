@@ -1,0 +1,103 @@
+613,"(0,)",Bet you Perivale 's no good to us is it ?,"[(u'Bet', u'VB'), (u'you', u'PRP'), (u'Perivale', u'NNP'), (u""'s"", u'POS'), (u'no', u'DT'), (u'good', u'JJ'), (u'to', u'TO'), (u'us', u'PRP'), (u'is', u'VBZ'), (u'it', u'PRP'), (u'?', u'.')]","(ROOT
+  (S
+    (S
+      (VP
+        (VB Bet)
+        (S
+          (NP (PRP you))
+          (NP
+            (NP (NNP Perivale) (POS 's))
+            (NP (DT no) (JJ good))
+            (PP (TO to) (NP (PRP us)))))))
+    (VP (VBZ is) (NP (PRP it)))
+    (. ?)))"
+613,"(1, 2)", it was er  good night .,"[(u'it', u'PRP'), (u'was', u'VBD'), (u'er', u'RB'), (u'good', u'JJ'), (u'night', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was) (ADJP (RB er) (JJ good)) (NP (NN night)))
+    (. .)))"
+613,"(3,)",I 'll see what if we come up with anything with Trevor if I go over this weekend .,"[(u'I', u'PRP'), (u""'ll"", u'MD'), (u'see', u'VB'), (u'what', u'WP'), (u'if', u'IN'), (u'we', u'PRP'), (u'come', u'VBP'), (u'up', u'RP'), (u'with', u'IN'), (u'anything', u'NN'), (u'with', u'IN'), (u'Trevor', u'NNP'), (u'if', u'IN'), (u'I', u'PRP'), (u'go', u'VBP'), (u'over', u'IN'), (u'this', u'DT'), (u'weekend', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (MD 'll)
+      (VP
+        (VB see)
+        (NP (WP what))
+        (SBAR
+          (IN if)
+          (S
+            (NP (PRP we))
+            (VP
+              (VBP come)
+              (PRT (RP up))
+              (PP (IN with) (NP (NN anything)))
+              (PP (IN with) (NP (NNP Trevor)))
+              (SBAR
+                (IN if)
+                (S
+                  (NP (PRP I))
+                  (VP
+                    (VBP go)
+                    (PP (IN over) (NP (DT this) (NN weekend)))))))))))
+    (. .)))"
+613,"(4,)",Yeah ,"[(u'Yeah', u'UH')]",(ROOT (INTJ (UH Yeah)))
+613,"(5,)",I can always take Guy with us .,"[(u'I', u'PRP'), (u'can', u'MD'), (u'always', u'RB'), (u'take', u'VB'), (u'Guy', u'NNP'), (u'with', u'IN'), (u'us', u'PRP'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (MD can)
+      (ADVP (RB always))
+      (VP (VB take) (NP (NP (NNP Guy)) (PP (IN with) (NP (PRP us))))))
+    (. .)))"
+613,"(6,)",Be alright won 't it ?,"[(u'Be', u'VB'), (u'alright', u'RB'), (u'won', u'VBD'), (u""'t"", u'NN'), (u'it', u'PRP'), (u'?', u'.')]","(ROOT
+  (SQ
+    (VP
+      (VB Be)
+      (VP
+        (ADVP (RB alright))
+        (VBD won)
+        (S (NP (NN 't)) (NP (PRP it)))))
+    (. ?)))"
+613,"(7,)",Ride you round in the car .,"[(u'Ride', u'NN'), (u'you', u'PRP'), (u'round', u'VBP'), (u'in', u'IN'), (u'the', u'DT'), (u'car', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (NN Ride))
+    (NP (PRP you))
+    (VP (VBP round) (PP (IN in) (NP (DT the) (NN car))))
+    (. .)))"
+613,"(8,)",,[]
+613,"(9,)",,[]
+613,"(10,)",Yeah .,"[(u'Yeah', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Yeah) (. .)))
+613,"(11,)", sixty-five thousand now .,"[(u'sixty-five', u'CD'), (u'thousand', u'CD'), (u'now', u'RB'), (u'.', u'.')]","(ROOT
+  (FRAG (NP (CD sixty-five) (CD thousand)) (ADVP (RB now)) (. .)))"
+613,"(12,)",What ?,"[(u'What', u'WP'), (u'?', u'.')]",(ROOT (FRAG (WHNP (WP What)) (. ?)))
+613,"(13,)",Barbara and Ian ,"[(u'Barbara', u'NNP'), (u'and', u'CC'), (u'Ian', u'NNP')]",(ROOT (NP (NP (NNP Barbara)) (CC and) (NP (NNP Ian))))
+613,"(14,)",Increasing it ?,"[(u'Increasing', u'VBG'), (u'it', u'PRP'), (u'?', u'.')]",(ROOT (S (VP (VBG Increasing) (NP (PRP it))) (. ?)))
+613,"(15,)",Mm .,"[(u'Mm', u'NN'), (u'.', u'.')]",(ROOT (NP (NN Mm) (. .)))
+613,"(16,)",What ?,"[(u'What', u'WP'), (u'?', u'.')]",(ROOT (FRAG (WHNP (WP What)) (. ?)))
+613,"(17,)",To sixty-five thousand .,"[(u'To', u'TO'), (u'sixty-five', u'CD'), (u'thousand', u'CD'), (u'.', u'.')]",(ROOT (FRAG (PP (TO To) (NP (CD sixty-five) (CD thousand))) (. .)))
+613,"(18,)",I don 't know what is now ,"[(u'I', u'PRP'), (u'don', u'VBP'), (u""'t"", u'NN'), (u'know', u'VBP'), (u'what', u'WP'), (u'is', u'VBZ'), (u'now', u'RB')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP don)
+      (SBAR
+        (S
+          (NP (NN 't))
+          (VP
+            (VBP know)
+            (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADVP (RB now)))))))))))"
+613,"(19,)",Then he,"[(u'Then', u'RB'), (u'he', u'PRP')]",(ROOT (FRAG (ADVP (RB Then)) (NP (PRP he))))
+613,"(20,)",,[]
+613,"(21,)",then he 's been put on a short week ?,"[(u'then', u'RB'), (u'he', u'PRP'), (u""'s"", u'VBZ'), (u'been', u'VBN'), (u'put', u'VBN'), (u'on', u'IN'), (u'a', u'DT'), (u'short', u'JJ'), (u'week', u'NN'), (u'?', u'.')]","(ROOT
+  (S
+    (ADVP (RB then))
+    (NP (PRP he))
+    (VP
+      (VBZ 's)
+      (VP
+        (VBN been)
+        (VP (VBN put) (PP (IN on) (NP (DT a) (JJ short) (NN week))))))
+    (. ?)))"
+613,"(22,)",Yes .,"[(u'Yes', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Yes) (. .)))
+613,"(23,)",They 're crazy ?,"[(u'They', u'PRP'), (u""'re"", u'VBP'), (u'crazy', u'JJ'), (u'?', u'.')]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ crazy))) (. ?)))

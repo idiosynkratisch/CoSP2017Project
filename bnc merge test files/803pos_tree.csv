@@ -1,0 +1,56 @@
+803,"(0,)",Right well if I get tidy then before I wash up then you can start baking .,"[(u'Right', u'RB'), (u'well', u'RB'), (u'if', u'IN'), (u'I', u'PRP'), (u'get', u'VBP'), (u'tidy', u'JJ'), (u'then', u'RB'), (u'before', u'IN'), (u'I', u'PRP'), (u'wash', u'VBP'), (u'up', u'RP'), (u'then', u'RB'), (u'you', u'PRP'), (u'can', u'MD'), (u'start', u'VB'), (u'baking', u'VBG'), (u'.', u'.')]","(ROOT
+  (S
+    (ADVP
+      (RB Right)
+      (RB well)
+      (SBAR
+        (IN if)
+        (S
+          (NP (PRP I))
+          (VP
+            (VBP get)
+            (NP (JJ tidy))
+            (ADVP (RB then))
+            (SBAR
+              (IN before)
+              (S
+                (NP (PRP I))
+                (VP (VBP wash) (PRT (RP up)) (ADVP (RB then)))))))))
+    (NP (PRP you))
+    (VP (MD can) (VP (VB start) (NP (VBG baking))))
+    (. .)))"
+803,"(1,)",Yeah .,"[(u'Yeah', u'UH'), (u'.', u'.')]",(ROOT (INTJ (UH Yeah) (. .)))
+803,"(2,)",And ice the cake .,"[(u'And', u'CC'), (u'ice', u'NN'), (u'the', u'DT'), (u'cake', u'NN'), (u'.', u'.')]","(ROOT
+  (FRAG (CC And) (NP (NP (NN ice)) (NP (DT the) (NN cake))) (. .)))"
+803,"(3,)",I 'll put your cake in there   while I 'm clearing up .,"[(u'I', u'PRP'), (u""'ll"", u'MD'), (u'put', u'VB'), (u'your', u'PRP$'), (u'cake', u'NN'), (u'in', u'IN'), (u'there', u'RB'), (u'while', u'IN'), (u'I', u'PRP'), (u""'m"", u'VBP'), (u'clearing', u'VBG'), (u'up', u'RP'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (MD 'll)
+      (VP
+        (VB put)
+        (NP (PRP$ your) (NN cake))
+        (PP (IN in) (NP (RB there)))
+        (SBAR
+          (IN while)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm) (VP (VBG clearing) (PRT (RP up))))))))
+    (. .)))"
+803,"(4,)",So that 's all right .,"[(u'So', u'IN'), (u'that', u'DT'), (u""'s"", u'VBZ'), (u'all', u'DT'), (u'right', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (IN So)
+    (NP (DT that))
+    (VP (VBZ 's) (NP (DT all) (NN right)))
+    (. .)))"
+803,"(5,)",I need the mixer to make the icing .,"[(u'I', u'PRP'), (u'need', u'VBP'), (u'the', u'DT'), (u'mixer', u'NN'), (u'to', u'TO'), (u'make', u'VB'), (u'the', u'DT'), (u'icing', u'NN'), (u'.', u'.')]","(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP need)
+      (S
+        (NP (DT the) (NN mixer))
+        (VP (TO to) (VP (VB make) (NP (DT the) (NN icing))))))
+    (. .)))"
+803,"(6,)", in here ?,"[(u'in', u'IN'), (u'here', u'RB'), (u'?', u'.')]",(ROOT (FRAG (PP (IN in) (NP (RB here))) (. ?)))
+803,"(7,)",Yeah put the ,"[(u'Yeah', u'UH'), (u'put', u'VBD'), (u'the', u'DT')]",(ROOT (SINV (FRAG (INTJ (UH Yeah))) (VP (VBD put)) (NP (DT the))))
