@@ -1,0 +1,15 @@
+7202,"(0,)",What are these Mummy ?,"[What/WP, are/VBP, these/DT, Mummy/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (DT these) (NN Mummy))) (. ?)))
+7202,"(1,)",They 're biscuits .,"[They/PRP, 're/VBP, biscuits/NNS, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NNS biscuits))) (. .)))
+7202,"(2,)",What biscuits are they ?,"[What/WDT, biscuits/NNS, are/VBP, they/PRP, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NNS biscuits)) (SQ (VBP are) (NP (PRP they))) (. ?)))
+7202,"(3,)",They 're chocolate .,"[They/PRP, 're/VBP, chocolate/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NN chocolate))) (. .)))
+7202,"(4,)",I like these ones,"[I/PRP, like/VBP, these/DT, ones/NNS]",(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (DT these) (NNS ones)))))
+7202,"(5,)",I 'm sure you do but they 're for later .,"[I/PRP, 'm/VBP, sure/JJ, you/PRP, do/VBP, but/CC, they/PRP, 're/VBP, for/IN, later/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (PRP you)) (VP (VBP do) (SBAR (CC but) (S (NP (PRP they)) (VP (VBP 're) (PP (IN for) (ADVP (RB later))))))))))) (. .)))
+7202,"(6,)",,[],X
+7202,"(7,)",Marching .,"[Marching/VBG, ./.]",(ROOT (S (VP (VBG Marching)) (. .)))
+7202,"(8,)",Hm .,"[Hm/NNS, ./.]",(ROOT (NP (NNS Hm) (. .)))
+7202,"(9,)",Right are you going to sit down now .,"[Right/NN, are/VBP, you/PRP, going/VBG, to/TO, sit/VB, down/RB, now/RB, ./.]",(ROOT (S (NP (NN Right)) (VP (VBP are) (NP (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB sit) (ADVP (RB down) (RB now)))))))) (. .)))
+7202,"(10,)",,[],X
+7202,"(11,)",You 're going to have your cereal now and then you 're going to get dressed .,"[You/PRP, 're/VBP, going/VBG, to/TO, have/VB, your/PRP$, cereal/NN, now/RB, and/CC, then/RB, you/PRP, 're/VBP, going/VBG, to/TO, get/VB, dressed/VBN, ./.]",(ROOT (S (S (NP (PRP You)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (NP (PRP$ your) (NN cereal)) (ADVP (RB now)))))))) (CC and) (RB then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN dressed)))))))) (. .)))
+7202,"(12,)",Okay ?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
+7202,"(13,)",,[],X
+7202,"(14,)",I 'm not going to,"[I/PRP, 'm/VBP, not/RB, going/VBG, to/TO]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG going) (PP (TO to))))))

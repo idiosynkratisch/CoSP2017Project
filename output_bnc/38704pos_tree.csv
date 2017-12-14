@@ -1,0 +1,12 @@
+38704,"(0,)",Do you want a coffee ?,"[Do/VB, you/PRP, want/VBP, a/DT, coffee/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (DT a) (NN coffee)))))) (. ?)))
+38704,"(1,)",Er,[Er/NN],(ROOT (NP (NN Er)))
+38704,"(2,)",Do you want a coffee ?,"[Do/VB, you/PRP, want/VBP, a/DT, coffee/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (DT a) (NN coffee)))))) (. ?)))
+38704,"(3, 4)","No , I don 't want one just now , I may have one later , not just now cos I 'll  just have mineral water again .","[No/DT, ,/,, I/PRP, don/VBP, 't/PRP, want/VB, one/CD, just/RB, now/RB, ,/,, I/PRP, may/MD, have/VB, one/CD, later/RB, ,/,, not/RB, just/RB, now/RB, cos/NN, I/PRP, 'll/MD, just/RB, have/VB, mineral/JJ, water/NN, again/RB, ./.]","(ROOT (S (S (S (NP (DT No)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (NP (CD one)) (ADVP (RB just) (RB now)))))) (, ,)) (NP (PRP I)) (VP (MD may) (VP (VB have) (NP (CD one)) (ADVP (RB later))))) (, ,) (RB not) (S (ADVP (RB just) (RB now)) (NP (NN cos)))) (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB have) (NP (JJ mineral) (NN water)) (ADVP (RB again)))) (. .)))"
+38704,"(5, 6, 7)",Just water this time not  erm    .,"[Just/RB, water/NN, this/DT, time/NN, not/RB, erm/NN, ./.]",(ROOT (NP (NP (RB Just) (NN water)) (NP (NP (DT this) (NN time)) (NP (RB not) (NN erm))) (. .)))
+38704,"(8, 9)",Erm    .,"[Erm/NN, ./.]",(ROOT (NP (NN Erm) (. .)))
+38704,"(10, 11)",Is it  is it boiled ?,"[Is/VBZ, it/PRP, is/VBZ, it/PRP, boiled/VBN, ?/.]",(ROOT (S (S (VP (VBZ Is) (NP (PRP it)))) (VP (VBZ is) (S (NP (PRP it)) (VP (VBN boiled)))) (. ?)))
+38704,"(12,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+38704,"(13,)",I get used to it .,"[I/PRP, get/VBP, used/VBN, to/TO, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP get) (VP (VBN used) (PP (TO to) (NP (PRP it))))) (. .)))
+38704,"(14,)",Oh you 've got your   .,"[Oh/UH, you/PRP, 've/VBP, got/VBN, your/PRP$, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (PRP$ your))))) (. .)))
+38704,"(15,)",I might go for something .,"[I/PRP, might/MD, go/VB, for/IN, something/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD might) (VP (VB go) (PP (IN for) (NP (NN something))))) (. .)))
+38704,"(16,)",Here are .,"[Here/RB, are/VBP, ./.]",(ROOT (S (NP (RB Here)) (VP (VBP are)) (. .)))

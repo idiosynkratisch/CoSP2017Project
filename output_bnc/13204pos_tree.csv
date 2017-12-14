@@ -1,0 +1,2 @@
+13204,"(0, 1, 2)","Stupid , but  quite amazing  what time you here till half five ?","[Stupid/JJ, ,/,, but/CC, quite/RB, amazing/JJ, what/WP, time/NN, you/PRP, here/RB, till/IN, half/DT, five/CD, ?/.]","(ROOT (S (NP (ADJP (ADJP (JJ Stupid)) (, ,) (CC but) (ADJP (RB quite) (JJ amazing))) (NP (WP what))) (VP (NN time) (VP (NP (PRP you)) (ADVP (RB here) (PP (IN till) (NP (QP (DT half) (CD five))))))) (. ?)))"
+13204,"(3,)",No just five .,"[No/DT, just/RB, five/CD, ./.]",(ROOT (NP (NP (DT No) (RB just)) (NP (CD five)) (. .)))

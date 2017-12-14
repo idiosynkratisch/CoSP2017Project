@@ -1,0 +1,13 @@
+5215,"(0,)",Are we going that way next ?,"[Are/VBP, we/PRP, going/VBG, that/DT, way/NN, next/IN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP we)) (VP (VBG going) (ADVP (NP (DT that) (NN way)) (IN next))) (. ?)))
+5215,"(1,)",Well I   .,"[Well/RB, I/PRP, ./.]",(ROOT (FRAG (ADVP (RB Well)) (NP (PRP I)) (. .)))
+5215,"(2,)","  , this is when you 'll need a plumb line for that won 't you ?","[,/,, this/DT, is/VBZ, when/WRB, you/PRP, 'll/MD, need/VB, a/DT, plumb/JJ, line/NN, for/IN, that/DT, won/VBD, 't/PRP, you/PRP, ?/.]","(ROOT (PRN (, ,) (S (NP (DT this)) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (MD 'll) (VP (VB need) (NP (DT a) (JJ plumb) (NN line)) (SBAR (IN for) (S (NP (DT that)) (VP (VBD won) (S (NP (PRP 't)) (NP (PRP you))))) (. ?))))))))))"
+5215,"(3,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+5215,"(4,)","Is it a very good plumb , oh you 've got   plumb line for the top and the bottom haven 't you ? and hope .","[Is/VBZ, it/PRP, a/DT, very/RB, good/JJ, plumb/NN, ,/,, oh/UH, you/PRP, 've/VBP, got/VBN, plumb/JJ, line/NN, for/IN, the/DT, top/JJ, and/CC, the/DT, bottom/NN, haven/NN, 't/PRP, you/PRP, ?/., and/CC, hope/NN, ./.]","(ROOT (S (SINV (VP (VBZ Is) (NP (PRP it))) (NP (DT a) (ADJP (RB very) (JJ good)) (NN plumb))) (, ,) (S (INTJ (UH oh)) (NP (PRP you)) (VP (VBP 've) (VP (VP (VBN got) (NP (NP (JJ plumb) (NN line)) (PP (IN for) (X (NP (NP (DT the) (JJ top)) (CC and) (NP (DT the) (NN bottom) (NN haven))) (NP (NP (PRP 't)) (NP (PRP you))) (. ?))))) (CC and) (VP (NN hope))))) (. .)))"
+5215,"(5,)",  .,[./.],(ROOT (NP (. .)))
+5215,"(6,)",Ah and the next piece is going to go over the window .,"[Ah/NN, and/CC, the/DT, next/JJ, piece/NN, is/VBZ, going/VBG, to/TO, go/VB, over/IN, the/DT, window/NN, ./.]",(ROOT (S (NP (NP (NN Ah)) (CC and) (NP (DT the) (JJ next) (NN piece))) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB go) (PP (IN over) (NP (DT the) (NN window)))))))) (. .)))
+5215,"(7,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+5215,"(8,)",So you need it .,"[So/RB, you/PRP, need/VBP, it/PRP, ./.]",(ROOT (S (RB So) (NP (PRP you)) (VP (VBP need) (NP (PRP it))) (. .)))
+5215,"(9,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+5215,"(10,)",It down to get the line at the bottom  .,"[It/PRP, down/RB, to/TO, get/VB, the/DT, line/NN, at/IN, the/DT, bottom/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (ADVP (RB down)) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN line)) (PP (IN at) (NP (DT the) (NN bottom))))))) (. .)))
+5215,"(11,)","Yeah  , yeah .  .","[Yeah/UH, ,/,, yeah/UH, ./., ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (UH yeah) (. .)) (. .)))"
+5215,"(12,)",You won 't   .,"[You/PRP, won/VBD, 't/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD won) (NP (PRP 't))) (. .)))

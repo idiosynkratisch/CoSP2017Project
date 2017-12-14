@@ -1,0 +1,18 @@
+2420,"(0,)",The only comment on the rhododendron came first ,"[The/DT, only/JJ, comment/NN, on/IN, the/DT, rhododendron/NN, came/VBD, first/RB]",(ROOT (S (NP (NP (DT The) (JJ only) (NN comment)) (PP (IN on) (NP (DT the) (NN rhododendron)))) (VP (VBD came) (ADVP (RB first)))))
+2420,"(1,)",On how it 'll grow them you mean ?,"[On/IN, how/WRB, it/PRP, 'll/MD, grow/VB, them/PRP, you/PRP, mean/VB, ?/.]",(ROOT (S (PP (IN On) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (MD 'll) (VP (VB grow) (NP (PRP them))))))) (NP (PRP you)) (VP (VB mean)) (. ?)))
+2420,"(2,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2420,"(3,)",Plenty of comments otherwise on them .,"[Plenty/NN, of/IN, comments/NNS, otherwise/RB, on/IN, them/PRP, ./.]",(ROOT (NP (NP (NN Plenty)) (PP (IN of) (NP (NP (NNS comments)) (ADVP (RB otherwise)))) (PP (IN on) (NP (PRP them))) (. .)))
+2420,"(4,)","Oh yes , how do you get them ?  .","[Oh/UH, yes/UH, ,/,, how/WRB, do/VBP, you/PRP, get/VB, them/PRP, ?/., ./.]","(ROOT (S (INTJ (UH Oh) (UH yes)) (, ,) (ADVP (WRB how)) (VP (VBP do) (S (NP (PRP you)) (VP (VB get) (NP (PRP them))))) (. ?) (. .)))"
+2420,"(5,)", Really ?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
+2420,"(6,)",I let   .,"[I/PRP, let/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP let)) (. .)))
+2420,"(7,)",I 've never heard of it .,"[I/PRP, 've/VBP, never/RB, heard/VBN, of/IN, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN heard) (PP (IN of) (NP (PRP it))))) (. .)))
+2420,"(8,)", Got those pink violets .,"[Got/VBD, those/DT, pink/JJ, violets/NNS, ./.]",(ROOT (S (VP (VBD Got) (NP (DT those) (JJ pink) (NNS violets))) (. .)))
+2420,"(9,)","Yeah , yeah .","[Yeah/UH, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (UH yeah) (. .))))"
+2420,"(10,)","I know it comes in various shapes though , the tail 's very dark .","[I/PRP, know/VBP, it/PRP, comes/VBZ, in/IN, various/JJ, shapes/NNS, though/IN, ,/,, the/DT, tail/NN, 's/POS, very/RB, dark/JJ, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ comes) (PP (IN in) (NP (NP (NP (NP (JJ various) (NNS shapes)) (ADJP (IN though))) (, ,) (NP (DT the) (NN tail) (POS 's))) (ADJP (RB very) (JJ dark)))))))) (. .)))"
+2420,"(11,)",,[],X
+2420,"(12,)",Would you like the news ?,"[Would/MD, you/PRP, like/VB, the/DT, news/NN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (DT the) (NN news))) (. ?)))
+2420,"(13,)","What 's it gonna , follow here ?","[What/WP, 's/VBZ, it/PRP, gonna/NN, ,/,, follow/VB, here/RB, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBZ 's) (NP (NP (PRP it) (NN gonna)) (, ,) (NP (VP (VB follow) (ADVP (RB here))))))) (. ?)))"
+2420,"(14,)",I don 't remember .,"[I/PRP, don/VBP, 't/PRP, remember/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB remember)))) (. .)))
+2420,"(15,)","The Real McCoy , black comedy .","[The/DT, Real/JJ, McCoy/NNP, ,/,, black/JJ, comedy/NN, ./.]","(ROOT (NP (NP (DT The) (JJ Real) (NNP McCoy)) (, ,) (NP (JJ black) (NN comedy)) (. .)))"
+2420,"(16,)",Sounds rather hard .,"[Sounds/NNS, rather/RB, hard/RB, ./.]",(ROOT (NP (NP (NNS Sounds)) (PP (RB rather) (ADVP (RB hard))) (. .)))
+2420,"(17,)","Oh it always is , isn 't it ?","[Oh/UH, it/PRP, always/RB, is/VBZ, ,/,, isn/NNP, 't/PRP, it/PRP, ?/.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (ADVP (RB always)) (VP (VBZ is)))) (, ,) (S (NP (NNP isn) (PRP 't)) (NP (PRP it))) (. ?)))"

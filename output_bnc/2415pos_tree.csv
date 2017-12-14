@@ -1,0 +1,10 @@
+2415,"(0,)",I 'm coming .,"[I/PRP, 'm/VBP, coming/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG coming))) (. .)))
+2415,"(1,)", residential if you don 't   .,"[residential/JJ, if/IN, you/PRP, don/VBP, 't/PRP, ./.]",(ROOT (S (NP (JJ residential)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP don) (NP (PRP 't))))) (. .)))
+2415,"(2,)",Bill 's lilac is dead .,"[Bill/NNP, 's/POS, lilac/NNP, is/VBZ, dead/JJ, ./.]",(ROOT (S (NP (NP (NNP Bill) (POS 's)) (NNP lilac)) (VP (VBZ is) (ADJP (JJ dead))) (. .)))
+2415,"(3,)"," Philip >  , left hand column there","[Philip/NNP, >/JJR, ,/,, left/VBD, hand/NN, column/NN, there/RB]","(ROOT (FRAG (NP (NP (NNP Philip)) (SBAR (S (S (ADJP (JJR >))) (, ,) (VP (VBD left) (NP (NN hand) (NN column)) (ADVP (RB there))))))))"
+2415,"(4,)",  .,[./.],(ROOT (NP (. .)))
+2415,"(5, 6)",Never heard of that  .,"[Never/RB, heard/VBN, of/IN, that/DT, ./.]",(ROOT (S (VP (ADVP (RB Never)) (VBN heard) (PP (IN of) (NP (DT that)))) (. .)))
+2415,"(7,)",Doesn 't sound worth bothering really .,"[Doesn/NNP, 't/PRP, sound/JJ, worth/JJ, bothering/VBG, really/RB, ./.]",(ROOT (FRAG (NP (NP (NNP Doesn)) (ADJP (NP (PRP 't)) (JJ sound))) (ADJP (JJ worth) (S (VP (VBG bothering) (ADVP (RB really))))) (. .)))
+2415,"(8,)",,[],X
+2415,"(9, 10)","Very short cutting , low    .","[Very/RB, short/JJ, cutting/NN, ,/,, low/JJ, ./.]","(ROOT (NP (NP (NP (ADJP (RB Very) (JJ short)) (NN cutting)) (, ,) (ADVP (JJ low))) (. .)))"
+2415,"(11,)",They 're a bit skinny aren 't they ?,"[They/PRP, 're/VBP, a/DT, bit/NN, skinny/JJ, aren/NN, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NP (DT a) (ADJP (NN bit) (JJ skinny)) (NN aren)) (NP (NP (PRP 't)) (NP (PRP they))))) (. ?)))

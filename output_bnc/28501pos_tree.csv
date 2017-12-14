@@ -1,0 +1,2 @@
+28501,"(0,)",Well they all haven 't got a soft mum and dad like you .,"[Well/RB, they/PRP, all/DT, haven/NN, 't/PRP, got/VBD, a/DT, soft/JJ, mum/NN, and/CC, dad/NN, like/IN, you/PRP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (NP (PRP they)) (NP (DT all) (NN haven))) (NP (PRP 't)) (VP (VBD got) (NP (NP (DT a) (JJ soft) (NN mum) (CC and) (NN dad)) (PP (IN like) (NP (PRP you))))) (. .)))
+28501,"(1, 2)", mum ? ,"[mum/NN, ?/.]",(ROOT (FRAG (NP (NN mum)) (. ?)))

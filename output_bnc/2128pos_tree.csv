@@ -1,0 +1,4 @@
+2128,"(0,)","WARM , the Wood Burning Association of Retailers and Manufacturers .","[WARM/JJ, ,/,, the/DT, Wood/NN, Burning/NN, Association/NN, of/IN, Retailers/NNS, and/CC, Manufacturers/NNS, ./.]","(ROOT (NP (NP (JJ WARM)) (, ,) (NP (NP (DT the) (NN Wood) (NN Burning) (NN Association)) (PP (IN of) (NP (NNS Retailers) (CC and) (NNS Manufacturers)))) (. .)))"
+2128,"(1,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+2128,"(2,)",  .,[./.],(ROOT (NP (. .)))
+2128,"(3,)",It 's all so obvious isn 't it !,"[It/PRP, 's/VBZ, all/DT, so/RB, obvious/JJ, isn/NN, 't/PRP, it/PRP, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT all) (ADJP (RB so) (JJ obvious)) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. !)))

@@ -1,0 +1,19 @@
+133501,"(0,)",,[],X
+133501,"(1,)",Well why  ,"[Well/RB, why/WRB]",(ROOT (FRAG (WHADVP (ADVP (RB Well)) (WRB why))))
+133501,"(2,)",,[],X
+133501,"(3,)",,[],X
+133501,"(4,)","Well why do you need it , why do you need a towel ?","[Well/RB, why/WRB, do/VBP, you/PRP, need/VB, it/PRP, ,/,, why/WRB, do/VBP, you/PRP, need/VB, a/DT, towel/NN, ?/.]","(ROOT (SBARQ (WHADVP (ADVP (RB Well)) (WRB why)) (SQ (VBP do) (NP (PRP you)) (VP (VB need) (NP (PRP it)) (, ,) (SBAR (WHADVP (WRB why)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB need) (NP (DT a) (NN towel))))))))) (. ?)))"
+133501,"(5,)",Why do you need a towel .,"[Why/WRB, do/VBP, you/PRP, need/VB, a/DT, towel/NN, ./.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB need) (NP (DT a) (NN towel)))) (. .)))
+133501,"(6,)",Why er why ,"[Why/WRB, er/NN, why/WRB]",(ROOT (FRAG (SBAR (WHNP (WHADVP (WRB Why)) (NN er)) (FRAG (WHADVP (WRB why))))))
+133501,"(7,)", game .,"[game/NN, ./.]",(ROOT (NP (NN game) (. .)))
+133501,"(8,)",Mum and Dad 's got it .,"[Mum/NN, and/CC, Dad/NN, 's/POS, got/VBD, it/PRP, ./.]",(ROOT (S (NP (NP (NN Mum)) (CC and) (NP (NN Dad) (POS 's))) (VP (VBD got) (NP (PRP it))) (. .)))
+133501,"(9,)", Come on Mum .,"[Come/VB, on/IN, Mum/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN Mum)))) (. .)))
+133501,"(10,)",Go get in the blooming bath .,"[Go/VB, get/VB, in/IN, the/DT, blooming/VBG, bath/NN, ./.]",(ROOT (S (VP (VB Go) (VP (VB get) (PP (IN in) (NP (DT the) (VBG blooming) (NN bath))))) (. .)))
+133501,"(11, 12)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+133501,"(13, 14)","I 'll rewi- rewind that actually heard what you say , you must be very naughty and nasty  thing to be to your son .","[I/PRP, 'll/MD, rewi-/VB, rewind/NN, that/IN, actually/RB, heard/VBN, what/WP, you/PRP, say/VBP, ,/,, you/PRP, must/MD, be/VB, very/RB, naughty/JJ, and/CC, nasty/JJ, thing/NN, to/TO, be/VB, to/TO, your/PRP$, son/NN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (MD 'll) (VP (VB rewi-) (NP (NP (NN rewind)) (SBAR (WHNP (IN that)) (S (ADVP (RB actually)) (VP (VBN heard) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP say))))))))))) (, ,) (NP (PRP you)) (VP (MD must) (VP (VB be) (NP (RB very) (ADJP (JJ naughty) (CC and) (JJ nasty)) (NN thing) (S (VP (TO to) (VP (VB be) (PP (TO to) (NP (PRP$ your) (NN son))))))))) (. .)))"
+133501,"(15, 16)", I can 't have a sweet then .,"[I/PRP, can/MD, 't/PRP, have/VB, a/DT, sweet/JJ, then/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB have) (NP (DT a) (JJ sweet)) (ADVP (RB then))))) (. .)))
+133501,"(17,)",,[],X
+133501,"(18,)",Well you 're not give me a sweet an all .,"[Well/RB, you/PRP, 're/VBP, not/RB, give/VB, me/PRP, a/DT, sweet/JJ, an/DT, all/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP 're) (VP (RB not) (S (VP (VB give) (NP (PRP me)) (NP (NP (DT a) (JJ sweet) (DT an)) (NP (RB all))))))) (. .)))
+133501,"(19,)",Should give me a sweet you know .,"[Should/MD, give/VB, me/PRP, a/DT, sweet/JJ, you/PRP, know/VBP, ./.]",(ROOT (S (S (VP (MD Should) (VP (VB give) (NP (PRP me)) (NP (DT a) (JJ sweet))))) (NP (PRP you)) (VP (VBP know)) (. .)))
+133501,"(20,)",You should .,"[You/PRP, should/MD, ./.]",(ROOT (S (NP (PRP You)) (VP (MD should)) (. .)))
+133501,"(21,)",You 're gonna turn it off because I wanna tear you off a strip about something .,"[You/PRP, 're/VBP, gonna/NNS, turn/VB, it/PRP, off/RP, because/IN, I/PRP, wanna/NNP, tear/VB, you/PRP, off/RP, a/DT, strip/NN, about/IN, something/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (S (NP (NNS gonna)) (VP (VB turn) (NP (PRP it)) (PRT (RP off)) (SBAR (IN because) (S (NP (NP (PRP I)) (NP (NNP wanna))) (VP (VB tear) (NP (PRP you)) (PP (RP off) (NP (NP (DT a) (NN strip)) (PP (IN about) (NP (NN something))))))))))) (. .)))

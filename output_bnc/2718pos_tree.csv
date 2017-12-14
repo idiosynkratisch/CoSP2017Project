@@ -1,0 +1,11 @@
+2718,"(0,)",I 've got to get up to that next   .,"[I/PRP, 've/VBP, got/VBN, to/TO, get/VB, up/RP, to/TO, that/DT, next/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB get) (PRT (RP up)) (PP (TO to) (NP (DT that) (JJ next)))))))) (. .)))
+2718,"(1,)"," I put the yellow up onto hoop three ,  Gone the wrong side .","[I/PRP, put/VBD, the/DT, yellow/JJ, up/IN, onto/IN, hoop/NN, three/CD, ,/,, Gone/VBN, the/DT, wrong/JJ, side/NN, ./.]","(ROOT (S (NP (PRP I)) (VP (VBD put) (NP (DT the) (JJ yellow)) (ADVP (IN up) (PP (IN onto) (NP (NP (NN hoop) (CD three)) (, ,) (VP (VBN Gone) (NP (DT the) (JJ wrong) (NN side))))))) (. .)))"
+2718,"(2,)",  .,[./.],(ROOT (NP (. .)))
+2718,"(3,)","Yellow 's nice , yeah , ah .","[Yellow/NNP, 's/POS, nice/JJ, ,/,, yeah/UH, ,/,, ah/NN, ./.]","(ROOT (NP (NP (NP (NNP Yellow) (POS 's)) (NP (NP (ADJP (ADJP (JJ nice)) (PRN (, ,) (INTJ (UH yeah)) (, ,)))) (NP (NN ah)))) (. .)))"
+2718,"(4,)",I don 't think I 'll have a chance   .,"[I/PRP, don/VBP, 't/PRP, think/VB, I/PRP, 'll/MD, have/VB, a/DT, chance/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (DT a) (NN chance))))))))) (. .)))
+2718,"(5,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2718,"(6,)",Can you change your own ball during a go ?,"[Can/MD, you/PRP, change/VB, your/PRP$, own/JJ, ball/NN, during/IN, a/DT, go/NN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB change) (NP (PRP$ your) (JJ own) (NN ball)) (PP (IN during) (NP (DT a) (NN go)))) (. ?)))
+2718,"(7,)",,[],X
+2718,"(8,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2718,"(9,)",,[],X
+2718,"(10,)","Right , right .","[Right/NN, ,/,, right/NN, ./.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NN right)) (. .)))"

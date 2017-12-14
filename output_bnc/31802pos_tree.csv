@@ -1,0 +1,54 @@
+31802,"(0,)",It 's last years .,"[It/PRP, 's/VBZ, last/JJ, years/NNS, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ last) (NNS years))) (. .)))
+31802,"(1,)",I just   .,"[I/PRP, just/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (ADVP (RB just))) (. .)))
+31802,"(2,)",That 's alright .,"[That/DT, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
+31802,"(3,)",Just don 't have an accident !,"[Just/RB, don/NNP, 't/PRP, have/VBP, an/DT, accident/NN, !/.]",(ROOT (S (NP (RB Just) (NNP don)) (NP (PRP 't)) (VP (VBP have) (NP (DT an) (NN accident))) (. !)))
+31802,"(4,)","Right , that 's a good job done there !","[Right/RB, ,/,, that/DT, 's/VBZ, a/DT, good/JJ, job/NN, done/VBN, there/RB, !/.]","(ROOT (S (ADVP (RB Right)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN job)) (VP (VBN done) (ADVP (RB there))))) (. !)))"
+31802,"(5, 6, 7)",Does that mean I gotta phone  Judge   > cap in hand ?,"[Does/VBZ, that/IN, mean/NN, I/PRP, gotta/NNP, phone/NN, Judge/NN, >/JJR, cap/NN, in/IN, hand/NN, ?/.]",(ROOT (S (VP (VBZ Does) (PP (IN that) (NP (NN mean))) (NP (PRP I) (NP (NP (NNP gotta) (NN phone) (NN Judge)) (NP (NP (JJR >) (NN cap)) (PP (IN in) (NP (NN hand))))))) (. ?)))
+31802,"(8,)",Well it could be   .,"[Well/RB, it/PRP, could/MD, be/VB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (MD could) (VP (VB be))) (. .)))
+31802,"(9, 10)",I 'll  see him  ,"[I/PRP, 'll/MD, see/VB, him/PRP]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (PRP him))))))
+31802,"(11,)",Wait until I 've seen if Will 's got his .,"[Wait/VB, until/IN, I/PRP, 've/VBP, seen/VBN, if/IN, Will/NN, 's/POS, got/VBD, his/PRP$, ./.]",(ROOT (S (S (VP (VB Wait) (SBAR (IN until) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN seen) (PP (IN if) (NP (NN Will) (POS 's))))))))) (VP (VBD got) (NP (PRP$ his))) (. .)))
+31802,"(12,)",Well I 'll see if I can the te- telly I must have a   .,"[Well/RB, I/PRP, 'll/MD, see/VB, if/IN, I/PRP, can/MD, the/DT, te-/JJ, telly/NN, I/PRP, must/MD, have/VB, a/DT, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB see) (SBAR (IN if) (S (NP (PRP I)) (VP (MD can) (S (NP (NP (DT the) (JJ te-) (NN telly)) (SBAR (S (NP (PRP I)) (VP (MD must) (VP (VB have) (NP (DT a))))))))))))) (. .)))
+31802,"(13,)",Well if Will hasn 't got his it means they haven 't been issued .,"[Well/RB, if/IN, Will/MD, hasn/VB, 't/PRP, got/VBD, his/PRP$, it/PRP, means/VBZ, they/PRP, haven/NN, 't/PRP, been/VBN, issued/VBN, ./.]",(ROOT (S (ADVP (ADVP (RB Well)) (SBAR (IN if) (S (VP (MD Will) (VP (VB hasn) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (PRP$ his)))))))))) (NP (PRP it)) (VP (VBZ means) (NP (PRP they)) (NP (NP (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBN been) (VP (VBN issued))))))) (. .)))
+31802,"(14,)","I think they were , were .","[I/PRP, think/VBP, they/PRP, were/VBD, ,/,, were/VBD, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VP (VBD were)) (, ,) (VP (VBD were)))))) (. .)))"
+31802,"(15, 16)",I 'll see er  I 'll see to   .,"[I/PRP, 'll/MD, see/VB, er/NN, I/PRP, 'll/MD, see/VB, to/TO, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (NP (NN er)) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (PP (TO to))))))))) (. .)))
+31802,"(17, 18)", Have you sent a letter of confirmation to Mr >  ?,"[Have/VB, you/PRP, sent/VBD, a/DT, letter/NN, of/IN, confirmation/NN, to/TO, Mr/NN, >/JJR, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD sent) (S (NP (NP (DT a) (NN letter)) (PP (IN of) (NP (NP (NN confirmation)) (PP (TO to) (NP (NN Mr)))))) (ADJP (JJR >)))))) (. ?)))
+31802,"(19,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+31802,"(20,)",That 's on the list here .,"[That/DT, 's/VBZ, on/IN, the/DT, list/NN, here/RB, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (PP (IN on) (NP (DT the) (NN list))) (ADVP (RB here))) (. .)))
+31802,"(21,)", Good morning !,"[Good/JJ, morning/NN, !/.]",(ROOT (INTJ (JJ Good) (NN morning) (. !)))
+31802,"(22,)",Can I speak to   please ?,"[Can/MD, I/PRP, speak/VB, to/TO, please/VB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB speak) (S (VP (TO to) (VP (VB please))))) (. ?)))
+31802,"(23,)",I 'll ring him today and tell him .,"[I/PRP, 'll/MD, ring/VB, him/PRP, today/NN, and/CC, tell/VB, him/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VP (VB ring) (NP (PRP him)) (NP (NN today))) (CC and) (VP (VB tell) (NP (PRP him))))) (. .)))
+31802,"(24,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+31802,"(25, 26)",And er  he can wait if you haven 't done,"[And/CC, er/NN, he/PRP, can/MD, wait/VB, if/IN, you/PRP, haven/NN, 't/PRP, done/VBN]",(ROOT (FRAG (NP (NP (CC And) (NN er)) (SBAR (S (NP (PRP he)) (VP (MD can) (VP (VB wait) (SBAR (IN if) (S (NP (PRP you)) (VP (NN haven) (S (NP (PRP 't)) (VP (VBN done)))))))))))))
+31802,"(27,)","Hello , is that Tammy ?","[Hello/UH, ,/,, is/VBZ, that/IN, Tammy/NNP, ?/.]","(ROOT (SINV (FRAG (INTJ (UH Hello))) (, ,) (VP (VBZ is) (ADJP (IN that))) (NP (NNP Tammy)) (. ?)))"
+31802,"(28,)",no,[no/DT],(ROOT (FRAG (DT no)))
+31802,"(29,)","Hi ! ,","[Hi/UH, !/., ,/,]","(ROOT (FRAG (PP (NP (UH Hi)) (PP (. !))) (, ,)))"
+31802,"(30,)",,[],X
+31802,"(31,)","hi , it 's Rob  > from the Moore office .","[hi/UH, ,/,, it/PRP, 's/VBZ, Rob/NNP, >/JJR, from/IN, the/DT, Moore/NNP, office/NNP, ./.]","(ROOT (S (INTJ (UH hi)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NNP Rob)) (ADJP (JJR >) (PP (IN from) (NP (DT the) (NNP Moore) (NNP office)))))) (. .)))"
+31802,"(32, 33, 34)",Erm  I 'm of- er  I 'm been asked   your,"[Erm/NN, I/PRP, 'm/VBP, of-/JJ, er/NN, I/PRP, 'm/VBP, been/VBN, asked/VBN, your/PRP$]",(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (JJ of-) (NN er)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBN been) (VP (VBN asked) (NP (PRP$ your))))))))))))))
+31802,"(35,)",Does he have to give him a quote before you,"[Does/VBZ, he/PRP, have/VB, to/TO, give/VB, him/PRP, a/DT, quote/NN, before/IN, you/PRP]",(ROOT (SINV (VBZ Does) (NP (PRP he)) (VP (VB have) (S (VP (TO to) (VP (VB give) (NP (PRP him)) (NP (NP (DT a) (NN quote)) (PP (IN before) (NP (PRP you))))))))))
+31802,"(36, 37)",insurance  er,"[insurance/NN, er/NN]",(ROOT (NP (NN insurance) (NN er)))
+31802,"(38,)",ay ?,"[ay/NN, ?/.]",(ROOT (FRAG (NP (NN ay)) (. ?)))
+31802,"(39,)",certificate .,"[certificate/NN, ./.]",(ROOT (NP (NN certificate) (. .)))
+31802,"(40,)",Does he have to give you a quote ?,"[Does/VBZ, he/PRP, have/VB, to/TO, give/VB, you/PRP, a/DT, quote/NN, ?/.]",(ROOT (SQ (VBZ Does) (NP (PRP he)) (VP (VB have) (S (VP (TO to) (VP (VB give) (NP (PRP you)) (NP (DT a) (NN quote)))))) (. ?)))
+31802,"(41,)","No , cos we know his  ","[No/DT, ,/,, cos/NN, we/PRP, know/VBP, his/PRP$]","(ROOT (FRAG (NP (NP (DT No)) (, ,) (NP (NP (NN cos)) (SBAR (S (NP (PRP we)) (VP (VBP know) (NP (PRP$ his)))))))))"
+31802,"(42,)",,[],X
+31802,"(43,)",,[],X
+31802,"(44,)",The R A C book,"[The/DT, R/NN, A/DT, C/NN, book/NN]",(ROOT (NP (NP (DT The) (NN R)) (NP (DT A) (NN C) (NN book))))
+31802,"(45,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+31802,"(46,)",of   .,"[of/IN, ./.]",(ROOT (FRAG (PP (IN of)) (. .)))
+31802,"(47,)",What about the er,"[What/WP, about/IN, the/DT, er/NN]",(ROOT (FRAG (X (WP What)) (PP (IN about) (NP (DT the) (NN er)))))
+31802,"(48,)",Not got a   as well .,"[Not/RB, got/VB, a/DT, as/RB, well/RB, ./.]",(ROOT (S (RB Not) (VP (VB got) (ADVP (NP (DT a) (RB as)) (RB well))) (. .)))
+31802,"(49,)",certificate and it 's last year .,"[certificate/NN, and/CC, it/PRP, 's/VBZ, last/JJ, year/NN, ./.]",(ROOT (S (NP (NP (NN certificate)) (CC and) (NP (PRP it))) (VP (VBZ 's) (NP (JJ last) (NN year))) (. .)))
+31802,"(50,)","We 'll know more about er , to it .","[We/PRP, 'll/MD, know/VB, more/RBR, about/IN, er/NN, ,/,, to/TO, it/PRP, ./.]","(ROOT (S (NP (PRP We)) (VP (MD 'll) (VP (VB know) (NP (RBR more)) (PP (IN about) (NP (NN er))) (, ,) (PP (TO to) (NP (PRP it))))) (. .)))"
+31802,"(51, 52)","Yeah , I 'm sure  I 'm I 've","[Yeah/UH, ,/,, I/PRP, 'm/VBP, sure/JJ, I/PRP, 'm/VBP, I/PRP, 've/VBP]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (PRP I))))))) (VBP 've)))"
+31802,"(53,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+31802,"(54,)",I 've gotta try and do my figures .,"[I/PRP, 've/VBP, gotta/NNP, try/VB, and/CC, do/VB, my/PRP$, figures/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (S (NP (NNP gotta)) (VP (VB try) (CC and) (VB do) (NP (PRP$ my) (NNS figures))))) (. .)))
+31802,"(55, 56)","I think  , I 'm fairly sure you 've er  sent me one previously .","[I/PRP, think/VBP, ,/,, I/PRP, 'm/VBP, fairly/RB, sure/JJ, you/PRP, 've/VBP, er/NN, sent/VBD, me/PRP, one/CD, previously/RB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP think))) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADJP (RB fairly) (JJ sure) (SBAR (S (NP (PRP you)) (VP (VBP 've) (NP (NP (NN er)) (SBAR (S (VP (VBD sent) (NP (PRP me)) (NP (CD one)) (ADVP (RB previously))))))))))) (. .)))"
+31802,"(57,)","Yeah , if you could send me I 'd appreciate it .","[Yeah/UH, ,/,, if/IN, you/PRP, could/MD, send/VB, me/PRP, I/PRP, 'd/MD, appreciate/VB, it/PRP, ./.]","(ROOT (S (S (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (IN if))) (NP (PRP you)) (VP (MD could) (VP (VB send) (NP (PRP me))))) (NP (PRP I)) (VP (MD 'd) (VP (VB appreciate) (NP (PRP it)))) (. .)))"
+31802,"(58,)",Oh no !,"[Oh/UH, no/DT, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. !)))
+31802,"(59,)",Okay ?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
+31802,"(60,)","Lovely , thanks a Tammy , yeah , and you .","[Lovely/JJ, ,/,, thanks/NNS, a/DT, Tammy/NNP, ,/,, yeah/UH, ,/,, and/CC, you/PRP, ./.]","(ROOT (NP (NP (JJ Lovely)) (, ,) (NP (NP (NP (NNS thanks)) (NP (DT a) (NNP Tammy))) (, ,) (INTJ (UH yeah)) (, ,) (PP (CC and) (NP (PRP you)))) (. .)))"
+31802,"(61,)",bye bye !,"[bye/NNP, bye/NNP, !/.]",(ROOT (NP (NNP bye) (NNP bye) (. !)))
+31802,"(62,)", Tell Jan there 's one on the way .,"[Tell/VB, Jan/NNP, there/EX, 's/VBZ, one/CD, on/IN, the/DT, way/NN, ./.]",(ROOT (S (VP (VB Tell) (NP (NP (NNP Jan)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN on) (NP (DT the) (NN way))))))))) (. .)))
+31802,"(63,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+31802,"(64,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

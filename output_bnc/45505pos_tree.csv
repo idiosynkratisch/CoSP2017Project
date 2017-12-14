@@ -1,0 +1,13 @@
+45505,"(0,)","Twenty Barclay please , and a box of Swan ?","[Twenty/CD, Barclay/NNP, please/UH, ,/,, and/CC, a/DT, box/NN, of/IN, Swan/NN, ?/.]","(ROOT (NP (NP (NP (NP (CD Twenty)) (SBAR (S (VP (NNP Barclay) (NP (UH please)))))) (, ,) (CC and) (NP (NP (DT a) (NN box)) (PP (IN of) (NP (NN Swan))))) (. ?)))"
+45505,"(1,)",Swan .,"[Swan/NN, ./.]",(ROOT (INTJ (NN Swan) (. .)))
+45505,"(2,)",Three six .,"[Three/CD, six/CD, ./.]",(ROOT (FRAG (NP (CD Three) (CD six)) (. .)))
+45505,"(3,)",How much is that ?,"[How/WRB, much/JJ, is/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (JJ much)) (SQ (VBZ is) (ADJP (IN that))) (. ?)))
+45505,"(4, 5)",How much ?,"[How/WRB, much/RB, ?/.]",(ROOT (FRAG (WHNP (WRB How) (RB much)) (. ?)))
+45505,"(6,)",Three six .,"[Three/CD, six/CD, ./.]",(ROOT (FRAG (NP (CD Three) (CD six)) (. .)))
+45505,"(7, 8)",Is there any more in there  oh no that 's right there .,"[Is/VBZ, there/EX, any/DT, more/RBR, in/IN, there/EX, oh/UH, no/DT, that/DT, 's/VBZ, right/RB, there/RB, ./.]",(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (DT any)) (NP (NP (RBR more)) (PP (IN in) (NP (EX there))) (SBAR (S (INTJ (UH oh)) (NP (DT no) (DT that)) (VP (VBZ 's) (ADVP (RB right) (RB there)))))) (. .)))
+45505,"(9,)",,[],X
+45505,"(10, 11)",Packet of those Duracell  exactly !,"[Packet/NN, of/IN, those/DT, Duracell/NNP, exactly/RB, !/.]",(ROOT (NP (NP (NN Packet)) (PP (IN of) (NP (DT those) (NNP Duracell))) (ADVP (RB exactly)) (. !)))
+45505,"(12,)",One or two ?,"[One/CD, or/CC, two/CD, ?/.]",(ROOT (NP (NP (CD One)) (QP (CC or) (CD two)) (. ?)))
+45505,"(13,)",One .,"[One/CD, ./.]",(ROOT (FRAG (NP (CD One)) (. .)))
+45505,"(14, 15)",They all come   ready packed  believe it or not !,"[They/PRP, all/DT, come/VBP, ready/JJ, packed/JJ, believe/VBP, it/PRP, or/CC, not/RB, !/.]",(ROOT (S (NP (PRP They)) (ADVP (DT all)) (VP (VBP come) (ADJP (JJ ready) (SBAR (S (NP (JJ packed)) (VP (VBP believe) (NP (NP (PRP it)) (CC or) (NP (RB not)))))))) (. !)))
+45505,"(16, 17, 18)","Oh no , no that 's  more than reasonable  good day , thank you !","[Oh/UH, no/DT, ,/,, no/DT, that/DT, 's/VBZ, more/JJR, than/IN, reasonable/JJ, good/JJ, day/NN, ,/,, thank/VB, you/PRP, !/.]","(ROOT (FRAG (VP (PP (NP (UH Oh)) (NP (NP (DT no)) (, ,) (NP (DT no) (DT that)))) (VBZ 's) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (NP (JJ reasonable) (JJ good) (NN day)) (, ,) (NP (VP (VB thank) (FRAG (NP (PRP you)) (. !))))))))))"

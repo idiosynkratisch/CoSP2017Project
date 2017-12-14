@@ -1,0 +1,12 @@
+11113,"(0, 1)",Daddy  can I have   can I have an apple ?,"[Daddy/NNP, can/MD, I/PRP, have/VB, can/MD, I/PRP, have/VB, an/DT, apple/NN, ?/.]",(ROOT (S (NP (NNP Daddy)) (PRN (SINV (MD can) (NP (PRP I)) (VP (VB have)))) (VP (MD can) (NP (PRP I)) (S (VP (VB have) (NP (DT an) (NN apple))))) (. ?)))
+11113,"(2,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+11113,"(3, 4)",One of those erm crispy ones  what are they called ?,"[One/CD, of/IN, those/DT, erm/NN, crispy/JJ, ones/NNS, what/WP, are/VBP, they/PRP, called/VBN, ?/.]",(ROOT (NP (NP (NP (CD One)) (PP (IN of) (NP (NP (DT those) (NN erm) (JJ crispy) (NNS ones)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (PRP they)))))))) (VP (VBN called)) (. ?)))
+11113,"(5, 6)",I don 't know you tell me  What,"[I/PRP, don/VBP, 't/PRP, know/VB, you/PRP, tell/VB, me/PRP, What/WDT]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (S (NP (PRP you)) (VP (VB tell) (NP (NP (PRP me)) (SBAR (WHNP (WDT What)))))))))))
+11113,"(7,)",Erm,[Erm/NN],(ROOT (NP (NN Erm)))
+11113,"(8,)",colour are they ?,"[colour/NN, are/VBP, they/PRP, ?/.]",(ROOT (S (NP (NN colour)) (VP (VBP are) (NP (PRP they))) (. ?)))
+11113,"(9,)",They 're green .,"[They/PRP, 're/VBP, green/JJ, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ green))) (. .)))
+11113,"(10,)",Oh right I know,"[Oh/UH, right/RB, I/PRP, know/VBP]",(ROOT (SBAR (UH Oh) (S (ADVP (RB right)) (NP (PRP I)) (VP (VBP know)))))
+11113,"(11,)","They 're green but they 're sort of really , really juicy and crunchy .","[They/PRP, 're/VBP, green/JJ, but/CC, they/PRP, 're/VBP, sort/NN, of/IN, really/RB, ,/,, really/RB, juicy/JJ, and/CC, crunchy/JJ, ./.]","(ROOT (S (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ green)))) (CC but) (S (NP (PRP they)) (VP (VBP 're) (ADVP (NN sort) (IN of)) (ADVP (RB really)) (, ,) (ADJP (RB really) (JJ juicy) (CC and) (JJ crunchy)))) (. .)))"
+11113,"(12,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+11113,"(13,)",You know ?,"[You/PRP, know/VB, ?/.]",(ROOT (S (NP (PRP You)) (VP (VB know)) (. ?)))
+11113,"(14,)",Granny Smiths .,"[Granny/NNP, Smiths/NNP, ./.]",(ROOT (NP (NNP Granny) (NNP Smiths) (. .)))

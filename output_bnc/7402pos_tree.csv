@@ -1,0 +1,11 @@
+7402,"(0, 1)",Always makes me laugh the way he sounds so surprised that    announcing record profits and asking customers to pay more .,"[Always/RB, makes/VBZ, me/PRP, laugh/NN, the/DT, way/NN, he/PRP, sounds/VBZ, so/RB, surprised/JJ, that/IN, announcing/VBG, record/NN, profits/NNS, and/CC, asking/VBG, customers/NNS, to/TO, pay/VB, more/JJR, ./.]",(ROOT (SINV (ADVP (RB Always)) (VP (VBZ makes) (S (NP (PRP me)) (VP (NN laugh)))) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP he)) (VP (VBZ sounds) (ADJP (RB so) (JJ surprised)) (SBAR (IN that) (S (S (VP (VBG announcing) (NP (NN record) (NNS profits)))) (CC and) (S (VP (VBG asking) (NP (NNS customers)) (S (VP (TO to) (VP (VB pay) (NP (JJR more))))))))))))) (. .)))
+7402,"(2,)",How are they making record profits ?,"[How/WRB, are/VBP, they/PRP, making/VBG, record/NN, profits/NNS, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (PRP they)) (VP (VBG making) (NP (NN record) (NNS profits)))) (. ?)))
+7402,"(3,)",By customers paying more .,"[By/IN, customers/NNS, paying/VBG, more/RBR, ./.]",(ROOT (FRAG (PP (IN By) (NP (NP (NNS customers)) (VP (VBG paying) (ADVP (RBR more))))) (. .)))
+7402,"(4,)",,[],X
+7402,"(5,)",Mm ?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
+7402,"(6,)", profits on ?,"[profits/NNS, on/IN, ?/.]",(ROOT (NP (NP (NNS profits)) (PP (IN on)) (. ?)))
+7402,"(7,)",Water board .,"[Water/NNP, board/NNP, ./.]",(ROOT (NP (NNP Water) (NNP board) (. .)))
+7402,"(8,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+7402,"(9,)",Oh do wake up !,"[Oh/UH, do/VBP, wake/VB, up/RP, !/.]",(ROOT (S (NP (UH Oh)) (VP (VBP do) (S (VP (VB wake) (PRT (RP up))))) (. !)))
+7402,"(10,)",Well I didn 't know you know !,"[Well/RB, I/PRP, didn/VBP, 't/PRP, know/VB, you/PRP, know/VB, !/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB know) (S (NP (PRP you)) (VP (VB know)))))) (. !)))
+7402,"(11,)",Well I only just heard it on the news .,"[Well/RB, I/PRP, only/RB, just/RB, heard/VBD, it/PRP, on/IN, the/DT, news/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (ADVP (RB only) (RB just)) (VBD heard) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN news)))) (. .)))

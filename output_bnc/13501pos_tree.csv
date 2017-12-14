@@ -1,0 +1,6 @@
+13501,"(0,)",Rocking and rolling,"[Rocking/VBG, and/CC, rolling/VBG]",(ROOT (S (VP (VBG Rocking) (CC and) (VBG rolling))))
+13501,"(1,)",Fucking ,[Fucking/VBG],(ROOT (S (VP (VBG Fucking))))
+13501,"(2,)","No , just said   , well I don 't know she might be , she might turn up and then say  ","[No/DT, ,/,, just/RB, said/VBD, ,/,, well/RB, I/PRP, don/VBP, 't/PRP, know/VB, she/PRP, might/MD, be/VB, ,/,, she/PRP, might/MD, turn/VB, up/RP, and/CC, then/RB, say/VB]","(ROOT (S (NP (DT No)) (, ,) (SBAR (RB just) (S (VP (VBD said) (SBAR (S (, ,) (ADVP (RB well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (S (NP (PRP she)) (VP (MD might) (VP (VB be))))))))))))) (, ,) (NP (PRP she)) (VP (MD might) (VP (VP (VB turn) (PRT (RP up))) (CC and) (ADVP (RB then)) (VP (VB say))))))"
+13501,"(3,)", half past seven,"[half/DT, past/JJ, seven/CD]",(ROOT (X (NP (DT half) (JJ past) (CD seven))))
+13501,"(4, 5)",the time  got up ,"[the/DT, time/NN, got/VBD, up/RP]",(ROOT (S (NP (DT the) (NN time)) (VP (VBD got) (PRT (RP up)))))
+13501,"(6, 7)",half past seven    pardon me .,"[half/DT, past/JJ, seven/CD, pardon/NN, me/PRP, ./.]",(ROOT (NP (NP (DT half) (JJ past) (CD seven) (NN pardon)) (NP (PRP me)) (. .)))

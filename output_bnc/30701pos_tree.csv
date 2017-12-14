@@ -1,0 +1,16 @@
+30701,"(0, 1)",Ten pounds and ten P  please .,"[Ten/CD, pounds/NNS, and/CC, ten/CD, P/NN, please/UH, ./.]",(ROOT (NP (NP (CD Ten) (NNS pounds)) (PP (CC and) (NP (NP (CD ten) (NN P)) (FRAG (INTJ (UH please))))) (. .)))
+30701,"(2,)",How 's that ?,"[How/WRB, 's/POS, that/WDT, ?/.]",(ROOT (SBARQ (WHNP (WRB How)) (SQ (VP (POS 's) (WHNP (WDT that)))) (. ?)))
+30701,"(3,)",It 's there somewhere !,"[It/PRP, 's/VBZ, there/EX, somewhere/RB, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (EX there)) (ADVP (RB somewhere))) (. !)))
+30701,"(4,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+30701,"(5,)","Cards for everything now isn 't it , hey ?","[Cards/NNS, for/IN, everything/NN, now/RB, isn/VBP, 't/PRP, it/PRP, ,/,, hey/UH, ?/.]","(ROOT (S (S (NP (NP (NNS Cards)) (PP (IN for) (NP (NN everything)))) (ADVP (RB now)) (VP (VBP isn) (S (NP (PRP 't)) (NP (PRP it))))) (, ,) (FRAG (INTJ (UH hey))) (. ?)))"
+30701,"(6,)","That 's it , yes .","[That/DT, 's/VBZ, it/PRP, ,/,, yes/UH, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it)))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
+30701,"(7, 8)", Cards and buttons !,"[Cards/NNS, and/CC, buttons/NNS, !/.]",(ROOT (NP (NP (NP (NNS Cards)) (CC and) (NP (NNS buttons))) (. !)))
+30701,"(9,)",Press the wrong button and you 've had it !,"[Press/VB, the/DT, wrong/JJ, button/NN, and/CC, you/PRP, 've/VBP, had/VBD, it/PRP, !/.]",(ROOT (S (S (VP (VB Press) (NP (DT the) (JJ wrong) (NN button)))) (CC and) (S (NP (PRP you)) (VP (VBP 've) (VP (VBD had) (NP (PRP it))))) (. !)))
+30701,"(10,)","Well that 's it , yeah .","[Well/RB, that/DT, 's/VBZ, it/PRP, ,/,, yeah/UH, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (PRP it)))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+30701,"(11,)","After all , it used a be a tenner   for  ","[After/IN, all/DT, ,/,, it/PRP, used/VBD, a/DT, be/VB, a/DT, tenner/NN, for/IN]","(ROOT (S (PP (IN After) (NP (DT all))) (, ,) (NP (PRP it)) (VP (VBD used) (S (NP (DT a)) (VP (VB be) (NP (NP (DT a) (NN tenner)) (PP (IN for))))))))"
+30701,"(12,)","I 'd be no , I 'd be no good !","[I/PRP, 'd/MD, be/VB, no/RB, ,/,, I/PRP, 'd/MD, be/VB, no/DT, good/JJ, !/.]","(ROOT (S (S (NP (PRP I)) (VP (MD 'd) (VP (VB be) (NP (RB no))))) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (VB be) (ADJP (DT no) (JJ good)))) (. !)))"
+30701,"(13,)",  run to town   !,"[run/VB, to/TO, town/NN, !/.]",(ROOT (S (VP (VB run) (PP (TO to) (NP (NN town)))) (. !)))
+30701,"(14,)",I 've no patience me .,"[I/PRP, 've/VBP, no/DT, patience/NN, me/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (S (NP (DT no) (NN patience)) (NP (PRP me)))) (. .)))
+30701,"(15,)",,[],X
+30701,"(16,)"," Okay , love bye   !","[Okay/UH, ,/,, love/VBP, bye/NN, !/.]","(ROOT (SINV (FRAG (INTJ (UH Okay))) (, ,) (VP (VBP love)) (NP (NN bye)) (. !)))"
+30701,"(17,)", thank you .,"[thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB thank) (NP (PRP you))) (. .)))

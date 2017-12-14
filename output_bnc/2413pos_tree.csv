@@ -1,0 +1,7 @@
+2413,"(0,)",What 's this plant ?,"[What/WP, 's/VBZ, this/DT, plant/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (DT this) (NN plant))) (. ?)))
+2413,"(1,)", in the arrangement   I had on my birthday .,"[in/IN, the/DT, arrangement/NN, I/PRP, had/VBD, on/IN, my/PRP$, birthday/NN, ./.]",(ROOT (S (PP (IN in) (NP (DT the) (NN arrangement))) (NP (PRP I)) (VP (VBD had) (PP (IN on) (NP (PRP$ my) (NN birthday)))) (. .)))
+2413,"(2,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+2413,"(3,)",Do you want me to take cuttings of it ?  .,"[Do/VB, you/PRP, want/VB, me/PRP, to/TO, take/VB, cuttings/NNS, of/IN, it/PRP, ?/., ./.]",(ROOT (S (VP (VB Do) (S (NP (PRP you)) (VP (VB want) (S (NP (PRP me)) (VP (TO to) (VP (VB take) (FRAG (NP (NP (NNS cuttings)) (PP (IN of) (NP (PRP it)))) (. ?)))))))) (. .)))
+2413,"(4,)","No , no , it 's just   root .","[No/DT, ,/,, no/DT, ,/,, it/PRP, 's/VBZ, just/RB, root/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (ADVP (DT no)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (NN root))) (. .)))"
+2413,"(5,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+2413,"(6,)",I just thought I might put some more flowers in it .  .,"[I/PRP, just/RB, thought/VBD, I/PRP, might/MD, put/VB, some/DT, more/JJR, flowers/NNS, in/IN, it/PRP, ./., ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD might) (VP (VB put) (NP (NP (DT some) (JJR more) (NNS flowers)) (PP (IN in) (NP (PRP it)))))))) (. .)) (. .)))

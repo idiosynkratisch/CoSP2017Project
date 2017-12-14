@@ -1,0 +1,16 @@
+7505,"(0,)","Mum , what 's that man talking about ?","[Mum/NN, ,/,, what/WP, 's/VBZ, that/DT, man/NN, talking/VBG, about/IN, ?/.]","(ROOT (SBARQ (NP (NN Mum)) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (DT that) (NN man)) (VP (VBG talking) (IN about))) (. ?)))"
+7505,"(1,)",Mummy .,"[Mummy/NN, ./.]",(ROOT (NP (NN Mummy) (. .)))
+7505,"(2,)",Pardon darling .,"[Pardon/NN, darling/NN, ./.]",(ROOT (NP (NP (NN Pardon)) (NP (NN darling)) (. .)))
+7505,"(3,)","Wh- , what 's he talking for .","[Wh-/NNP, ,/,, what/WP, 's/VBZ, he/PRP, talking/VBG, for/IN, ./.]","(ROOT (SBARQ (NP (NNP Wh-)) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBG talking) (PP (IN for)))) (. .)))"
+7505,"(4,)","Well he 's talking to the good man , isn 't he .","[Well/RB, he/PRP, 's/VBZ, talking/VBG, to/TO, the/DT, good/JJ, man/NN, ,/,, isn/NN, 't/PRP, he/PRP, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (PRP he)) (VP (VBZ 's) (VP (VBG talking) (PP (TO to) (NP (DT the) (JJ good) (NN man)))))) (, ,) (S (NP (NP (NN isn)) (NP (PRP 't))) (NP (PRP he))) (. .)))"
+7505,"(5,)",He say .,"[He/PRP, say/VBP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBP say)) (. .)))
+7505,"(6,)",He 's a good man .,"[He/PRP, 's/VBZ, a/DT, good/JJ, man/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN man))) (. .)))
+7505,"(7,)",He 's a good man isn 't he ?,"[He/PRP, 's/VBZ, a/DT, good/JJ, man/NN, isn/NN, 't/PRP, he/PRP, ?/.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (DT a) (JJ good) (NN man) (NN isn)) (NP (NP (PRP 't)) (NP (PRP he))))) (. ?)))
+7505,"(8,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+7505,"(9,)",  .,[./.],(ROOT (NP (. .)))
+7505,"(10,)",Got a gun   .,"[Got/VBD, a/DT, gun/NN, ./.]",(ROOT (S (VP (VBD Got) (NP (DT a) (NN gun))) (. .)))
+7505,"(11,)","Mum , what 's he got on his neck ?","[Mum/NN, ,/,, what/WP, 's/VBZ, he/PRP, got/VBD, on/IN, his/PRP$, neck/NN, ?/.]","(ROOT (SBARQ (NP (NN Mum)) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got) (PP (IN on) (NP (PRP$ his) (NN neck))))) (. ?)))"
+7505,"(12,)",He 's got a scarf .,"[He/PRP, 's/VBZ, got/VBD, a/DT, scarf/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (NN scarf)))) (. .)))
+7505,"(13,)",,[],X
+7505,"(14,)",Yes darling .,"[Yes/UH, darling/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (NN darling)))) (. .)))
+7505,"(15,)",,[],X

@@ -1,0 +1,20 @@
+7406,"(0,)",There we are .,"[There/EX, we/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP are)) (. .)))
+7406,"(1,)",Mummy look .,"[Mummy/NN, look/NN, ./.]",(ROOT (NP (NP (NN Mummy)) (NP (NN look)) (. .)))
+7406,"(2,)",They got saucer in this .,"[They/PRP, got/VBD, saucer/NN, in/IN, this/DT, ./.]",(ROOT (S (NP (PRP They)) (VP (VBD got) (NP (NN saucer)) (PP (IN in) (NP (DT this)))) (. .)))
+7406,"(3,)",The saucer in that one .,"[The/DT, saucer/NN, in/IN, that/DT, one/CD, ./.]",(ROOT (NP (NP (DT The) (NN saucer)) (PP (IN in) (NP (DT that) (CD one))) (. .)))
+7406,"(4,)",You 've got that story already haven 't you ?,"[You/PRP, 've/VBP, got/VBD, that/IN, story/NN, already/RB, haven/NN, 't/PRP, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP You)) (VP (VBP 've))) (VP (VBD got) (SBAR (IN that) (S (NP (NP (NN story)) (ADVP (RB already))) (VP (NN haven) (NP (PRP 't)))))) (NP (PRP you)) (. ?)))
+7406,"(5,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+7406,"(6,)", two ones aren 't I .,"[two/CD, ones/NNS, aren/NNP, 't/PRP, I/PRP, ./.]",(ROOT (NP (NP (CD two) (NNS ones)) (NP (NP (NNP aren)) (NP (PRP 't)) (NP (PRP I))) (. .)))
+7406,"(7,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+7406,"(8,)",There we are .,"[There/EX, we/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP are)) (. .)))
+7406,"(9,)",Sit down in the corner   nice breakfast .,"[Sit/VB, down/RP, in/IN, the/DT, corner/NN, nice/JJ, breakfast/NN, ./.]",(ROOT (S (VP (VB Sit) (PRT (RP down)) (PP (IN in) (NP (DT the) (NN corner) (JJ nice) (NN breakfast)))) (. .)))
+7406,"(10,)",You must be a hungry boy .,"[You/PRP, must/MD, be/VB, a/DT, hungry/JJ, boy/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD must) (VP (VB be) (NP (DT a) (JJ hungry) (NN boy)))) (. .)))
+7406,"(11,)",,[],X
+7406,"(12,)",Well it doesn 't matter you can look at it afterwards .,"[Well/RB, it/PRP, doesn/VB, 't/PRP, matter/VB, you/PRP, can/MD, look/VB, at/IN, it/PRP, afterwards/RB, ./.]",(ROOT (S (SBAR (ADVP (RB Well)) (S (NP (PRP it)) (VP (VB doesn) (S (NP (PRP 't)) (VP (VB matter)))))) (NP (PRP you)) (VP (MD can) (VP (VB look) (PP (IN at) (NP (PRP it))) (ADVP (RB afterwards)))) (. .)))
+7406,"(13,)",  .,[./.],(ROOT (NP (. .)))
+7406,"(14,)",Be careful .,"[Be/VB, careful/JJ, ./.]",(ROOT (S (VP (VB Be) (ADJP (JJ careful))) (. .)))
+7406,"(15,)",Don 't get it in your breakfast .,"[Don/NNP, 't/PRP, get/VB, it/PRP, in/IN, your/PRP$, breakfast/NN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB get) (NP (PRP it)) (PP (IN in) (NP (PRP$ your) (NN breakfast)))) (. .)))
+7406,"(16,)",It 's a new book isn 't it ?,"[It/PRP, 's/VBZ, a/DT, new/JJ, book/NN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ new) (NN book) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+7406,"(17,)","Well look , if we put teddy on there   okay .","[Well/RB, look/VB, ,/,, if/IN, we/PRP, put/VBD, teddy/NNP, on/IN, there/EX, okay/UH, ./.]","(ROOT (S (INTJ (RB Well)) (VP (VB look) (, ,) (SBAR (IN if) (S (NP (PRP we)) (VP (VBD put) (NP (NP (NNP teddy)) (PP (IN on) (NP (NP (EX there)) (FRAG (INTJ (UH okay)))))))))) (. .)))"
+7406,"(18,)",Put teddy like that .,"[Put/VB, teddy/NNP, like/IN, that/DT, ./.]",(ROOT (S (VP (VB Put) (NP (NP (NNP teddy)) (PP (IN like) (NP (DT that))))) (. .)))
+7406,"(19,)"," . Here , have your breakfast then we 'll have a nice bath cos mummy 's got a lady coming to see her today about a job .","[./., Here/RB, ,/,, have/VB, your/PRP$, breakfast/NN, then/RB, we/PRP, 'll/MD, have/VB, a/DT, nice/JJ, bath/NN, cos/NN, mummy/NN, 's/POS, got/VBD, a/DT, lady/NN, coming/VBG, to/TO, see/VB, her/PRP$, today/NN, about/IN, a/DT, job/NN, ./.]","(ROOT (S (. .) (ADVP (RB Here)) (, ,) (VP (VB have) (NP (NP (PRP$ your) (NN breakfast)) (ADVP (RB then)) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB have) (NP (NP (DT a) (JJ nice) (NN bath) (NN cos) (NN mummy)) (SBAR (S (NP (POS 's)) (VP (VBD got) (NP (NP (DT a) (NN lady)) (VP (VBG coming) (S (VP (TO to) (VP (VB see) (NP (PRP$ her) (NN today)) (PP (IN about) (NP (DT a) (NN job)))))))))))))))))) (. .)))"

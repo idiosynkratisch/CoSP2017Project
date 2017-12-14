@@ -1,0 +1,3 @@
+38902,"(0,)",Tuesday .,"[Tuesday/NNP, ./.]",(ROOT (FRAG (NP (NNP Tuesday)) (. .)))
+38902,"(1,)","It 's Tuesday , yeah .","[It/PRP, 's/VBZ, Tuesday/NNP, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (NP (NNP Tuesday)))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+38902,"(2, 3)",I 've got this  you know   .,"[I/PRP, 've/VBP, got/VBN, this/DT, you/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (DT this)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))) (. .)))

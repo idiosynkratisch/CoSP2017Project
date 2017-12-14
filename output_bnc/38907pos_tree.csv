@@ -1,0 +1,6 @@
+38907,"(0,)",He 's now up five four .,"[He/PRP, 's/VBZ, now/RB, up/RB, five/CD, four/CD, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB now) (RB up)) (NP (CD five) (CD four))) (. .)))
+38907,"(1,)", Ooh ooh ooh ooh   !,"[Ooh/NNP, ooh/NNP, ooh/NNP, ooh/NNP, !/.]",(ROOT (NP (NNP Ooh) (NNP ooh) (NNP ooh) (NNP ooh) (. !)))
+38907,"(2,)",Do you think you could just sweep that up,"[Do/VB, you/PRP, think/VBP, you/PRP, could/MD, just/RB, sweep/NN, that/WDT, up/RP]",(ROOT (S (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP think) (SBAR (S (NP (PRP you)) (VP (MD could) (VP (NP (NP (RB just) (NN sweep)) (SBAR (WHNP (WDT that)))) (PP (RP up))))))))))))
+38907,"(3,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+38907,"(4,)","for me , to save me bending down there .","[for/IN, me/PRP, ,/,, to/TO, save/VB, me/PRP, bending/VBG, down/RB, there/RB, ./.]","(ROOT (S (PP (IN for) (NP (PRP me))) (, ,) (NP (TO to)) (VP (VB save) (S (NP (PRP me)) (VP (VBG bending) (ADVP (RB down) (RB there))))) (. .)))"
+38907,"(5,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

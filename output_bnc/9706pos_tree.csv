@@ -1,0 +1,27 @@
+9706,"(0,)",Can you manage it like that ?,"[Can/MD, you/PRP, manage/VB, it/PRP, like/IN, that/IN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB manage) (NP (PRP it)) (SBAR (IN like) (FRAG (WHADVP (IN that))))) (. ?)))
+9706,"(1,)","Yes , that 's alright .","[Yes/UH, ,/,, that/DT, 's/VBZ, alright/JJ, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))"
+9706,"(2,)",Bag isn 't that good .,"[Bag/NN, isn/NN, 't/PRP, that/DT, good/JJ, ./.]",(ROOT (NP (NP (NN Bag) (NN isn)) (NP (NP (PRP 't)) (ADJP (DT that) (JJ good))) (. .)))
+9706,"(3,)","Oh , that 's alright","[Oh/UH, ,/,, that/DT, 's/VBZ, alright/JJ]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (DT that)) (VP (VBZ 's)) (JJ alright)))"
+9706,"(4,)",Six ninety nine please .,"[Six/CD, ninety/CD, nine/CD, please/UH, ./.]",(ROOT (NP (NP (NP (CD Six)) (VP (ADVP (ADVP (CD ninety)) (NP (CD nine))) (NP (UH please)))) (. .)))
+9706,"(5,)",  .,[./.],(ROOT (NP (. .)))
+9706,"(6,)",  .,[./.],(ROOT (NP (. .)))
+9706,"(7,)",There 's another one there .,"[There/EX, 's/VBZ, another/DT, one/CD, there/EX, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (S (NP (DT another) (CD one)) (NP (EX there)))) (. .)))
+9706,"(8, 9)","Yeah , I was gonna say there should be another  six ninety nine , seven , eight , nine , ten .","[Yeah/UH, ,/,, I/PRP, was/VBD, gonna/NNP, say/VB, there/EX, should/MD, be/VB, another/DT, six/CD, ninety/CD, nine/CD, ,/,, seven/CD, ,/,, eight/CD, ,/,, nine/CD, ,/,, ten/CD, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB say) (SBAR (S (NP (EX there)) (VP (MD should) (VP (VB be) (NP (DT another) (NP (NP (QP (CD six) (CD ninety))) (NP (CD nine))) (, ,) (NP (NP (CD seven)) (, ,) (NP (CD eight))) (, ,) (NP (NP (CD nine)) (, ,) (NP (CD ten))))))))))) (. .)))"
+9706,"(10,)","Lovely , alright then .","[Lovely/JJ, ,/,, alright/JJ, then/RB, ./.]","(ROOT (NP (NP (JJ Lovely)) (, ,) (NP (JJ alright) (RB then)) (. .)))"
+9706,"(11,)",  .,[./.],(ROOT (NP (. .)))
+9706,"(12,)","Yes ,li- oh in me handbag .","[Yes/RB, ,li-/JJ, oh/NN, in/IN, me/PRP, handbag/NN, ./.]","(ROOT (FRAG (ADVP (RB Yes) (NP (JJ ,li-) (NN oh)) (PP (IN in) (NP (PRP me)))) (NP (NN handbag)) (. .)))"
+9706,"(13,)",Oh saw it down,"[Oh/UH, saw/VBD, it/PRP, down/RP]",(ROOT (S (NP (UH Oh)) (VP (VBD saw) (NP (PRP it)) (PRT (RP down)))))
+9706,"(14,)",Oh I forgot to bring it down .,"[Oh/UH, I/PRP, forgot/VBD, to/TO, bring/VB, it/PRP, down/RP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBD forgot) (S (VP (TO to) (VP (VB bring) (NP (PRP it)) (PRT (RP down))))))) (. .)))
+9706,"(15,)",What 's the matter with these bloody pens ?,"[What/WP, 's/VBZ, the/DT, matter/NN, with/IN, these/DT, bloody/JJ, pens/NNS, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT the) (NN matter)) (PP (IN with) (NP (DT these) (JJ bloody) (NNS pens))))) (. ?)))
+9706,"(16,)",  .,[./.],(ROOT (NP (. .)))
+9706,"(17,)",God .,"[God/NNP, ./.]",(ROOT (FRAG (NP (NNP God)) (. .)))
+9706,"(18,)","Neither of them do write , oh here he goes , he must of been a bit cold .","[Neither/DT, of/IN, them/PRP, do/VBP, write/VB, ,/,, oh/UH, here/RB, he/PRP, goes/VBZ, ,/,, he/PRP, must/MD, of/IN, been/VBN, a/DT, bit/NN, cold/JJ, ./.]","(ROOT (S (S (NP (NP (DT Neither)) (PP (IN of) (NP (PRP them)))) (VP (VBP do) (VP (VB write)))) (, ,) (S (INTJ (UH oh)) (NP (RB here) (PRP he)) (VP (VBZ goes))) (, ,) (S (NP (PRP he)) (VP (MD must) (PP (IN of)) (VP (VBN been) (ADJP (NP (DT a) (NN bit)) (JJ cold))))) (. .)))"
+9706,"(19,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+9706,"(20,)",It 's cold in it ?,"[It/PRP, 's/VBZ, cold/JJ, in/IN, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ cold) (PP (IN in) (NP (PRP it))))) (. ?)))
+9706,"(21,)",It ain 't cold .,"[It/PRP, ain/FW, 't/PRP, cold/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (NP (NP (FW ain)) (ADJP (NP (PRP 't)) (JJ cold)))) (. .)))
+9706,"(22,)",Thanks then Diane .,"[Thanks/NNS, then/RB, Diane/NNP, ./.]",(ROOT (FRAG (ADVP (NP (NNS Thanks)) (RB then)) (NP (NNP Diane)) (. .)))
+9706,"(23,)", only going to cross it off and use it again   .,"[only/RB, going/VBG, to/TO, cross/VB, it/PRP, off/RP, and/CC, use/VB, it/PRP, again/RB, ./.]",(ROOT (S (VP (ADVP (RB only)) (VBG going) (S (VP (TO to) (VP (VP (VB cross) (NP (PRP it)) (PRT (RP off))) (CC and) (VP (VB use) (NP (PRP it)) (ADVP (RB again))))))) (. .)))
+9706,"(24,)","You ain 't got no men 's slippers have you , not really ?","[You/PRP, ain/VBP, 't/PRP, got/VBD, no/DT, men/NNS, 's/POS, slippers/NNS, have/VBP, you/PRP, ,/,, not/RB, really/RB, ?/.]","(ROOT (S (S (NP (PRP You)) (VP (VBP ain) (SBAR (S (NP (PRP 't)) (VP (VBD got) (SBAR (S (NP (NP (DT no) (NNS men) (POS 's)) (NNS slippers)) (VP (VBP have) (NP (PRP you)))))))))) (, ,) (FRAG (RB not) (ADVP (RB really))) (. ?)))"
+9706,"(25,)","No , no .","[No/DT, ,/,, no/DT, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (DT no)) (. .)))"
+9706,"(26,)","No , oh alright then , don 't mind , alright , never mind , ta la Diane bye  .","[No/DT, ,/,, oh/UH, alright/JJ, then/RB, ,/,, don/NNP, 't/PRP, mind/VB, ,/,, alright/JJ, ,/,, never/RB, mind/VB, ,/,, ta/NNP, la/NNP, Diane/NNP, bye/NNP, ./.]","(ROOT (S (VP (NP (NP (DT No)) (, ,) (VP (NP (INTJ (UH oh)) (NP (JJ alright))) (S (NP (NP (RB then)) (, ,) (NP (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VB mind) (, ,) (S (NP (NP (JJ alright)) (, ,) (ADVP (RB never))) (VP (VB mind))))))) (, ,) (NP (NNP ta) (NNP la) (NNP Diane) (NNP bye)))))))) (. .)))"
+9706,"(27,)",Bye  .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

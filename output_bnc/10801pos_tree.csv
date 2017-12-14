@@ -1,0 +1,6 @@
+10801,"(0,)",Hello .,"[Hello/UH, ./.]",(ROOT (INTJ (UH Hello) (. .)))
+10801,"(1,)",Hello .,"[Hello/UH, ./.]",(ROOT (INTJ (UH Hello) (. .)))
+10801,"(2,)",We haven 't even had a   yet Tony .,"[We/PRP, haven/NN, 't/PRP, even/RB, had/VBD, a/DT, yet/RB, Tony/JJ, ./.]",(ROOT (S (NP (PRP We)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (ADVP (RB even)) (VP (VBD had) (NP (DT a) (ADJP (RB yet) (JJ Tony))))))) (. .)))
+10801,"(3,)",Oh dear .,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
+10801,"(4,)", round there that Pauline brought but  ,"[round/NN, there/RB, that/IN, Pauline/NNP, brought/VBD, but/CC]",(ROOT (FRAG (NP (NN round) (RB there)) (SBAR (IN that) (S (NP (NNP Pauline)) (VP (VBD brought) (ADVP (CC but)))))))
+10801,"(5,)",Glad I came .,"[Glad/JJ, I/PRP, came/VBD, ./.]",(ROOT (S (ADJP (JJ Glad)) (NP (PRP I)) (VP (VBD came)) (. .)))

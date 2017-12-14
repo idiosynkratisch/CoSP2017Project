@@ -1,0 +1,6 @@
+25401,"(0,)",Where are they then ?,"[Where/WRB, are/VBP, they/PRP, then/RB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP are) (NP (PRP they)) (NP (RB then))) (. ?)))
+25401,"(1,)",Where 's Fun in the Sun ?,"[Where/WRB, 's/POS, Fun/NN, in/IN, the/DT, Sun/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NP (NN Fun)) (PP (IN in) (NP (DT the) (NN Sun))))) (. ?)))
+25401,"(2,)",Today ?,"[Today/NN, ?/.]",(ROOT (FRAG (NP (NN Today)) (. ?)))
+25401,"(3,)",Dunno .,"[Dunno/NNP, ./.]",(ROOT (FRAG (NP (NNP Dunno)) (. .)))
+25401,"(4, 5)",Er    ah excuse me !,"[Er/NN, ah/NN, excuse/NN, me/PRP, !/.]",(ROOT (NP (NP (NN Er) (NN ah) (NN excuse)) (NP (PRP me)) (. !)))
+25401,"(6,)",  .,[./.],(ROOT (NP (. .)))

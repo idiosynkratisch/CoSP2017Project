@@ -1,0 +1,26 @@
+10516,"(0, 1)",Oh  could you hang on to that lot a minute .,"[Oh/UH, could/MD, you/PRP, hang/VB, on/IN, to/TO, that/DT, lot/NN, a/DT, minute/NN, ./.]",(ROOT (S (INTJ (UH Oh)) (MD could) (NP (PRP you)) (VP (VB hang) (PP (IN on) (PP (TO to) (NP (NP (DT that) (NN lot)) (NP (DT a) (NN minute)))))) (. .)))
+10516,"(2,)",Mind the carrots doesn 't drop in .,"[Mind/VB, the/DT, carrots/NNP, doesn/NNP, 't/PRP, drop/VB, in/RP, ./.]",(ROOT (S (VP (VB Mind) (NP (NP (DT the) (NNP carrots) (NNP doesn)) (SBAR (S (NP (PRP 't)) (VP (VB drop) (PRT (RP in))))))) (. .)))
+10516,"(3,)","Yep  , ok .","[Yep/NN, ,/,, ok/UH, ./.]","(ROOT (FRAG (PP (NN Yep)) (, ,) (INTJ (UH ok)) (. .)))"
+10516,"(4, 5)","What you been doing stinker , look at the mess  yeah , look at all this ooh .","[What/WP, you/PRP, been/VBN, doing/VBG, stinker/NN, ,/,, look/VB, at/IN, the/DT, mess/NN, yeah/UH, ,/,, look/VB, at/IN, all/PDT, this/DT, ooh/NN, ./.]","(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBN been) (VP (VBG doing) (NP (NN stinker)))))) (, ,) (VP (VP (VB look) (PP (IN at) (NP (DT the) (NN mess))) (NP (UH yeah))) (, ,) (VP (VB look) (PP (IN at) (NP (PDT all) (DT this) (NN ooh))))) (. .)))"
+10516,"(6,)","Yeah , your not supposed to be coming out .","[Yeah/UH, ,/,, your/PRP$, not/RB, supposed/VBN, to/TO, be/VB, coming/VBG, out/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP$ your)) (VP (RB not) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (VP (VBG coming) (ADVP (RB out)))))))) (. .)))"
+10516,"(7,)",  .,[./.],(ROOT (NP (. .)))
+10516,"(8,)",You little stinker .,"[You/PRP, little/RB, stinker/NN, ./.]",(ROOT (FRAG (ADVP (PRP You) (RB little)) (NP (NN stinker)) (. .)))
+10516,"(9,)","Yes you are , your an old stinker , yes you are .","[Yes/UH, you/PRP, are/VBP, ,/,, your/PRP$, an/DT, old/JJ, stinker/NN, ,/,, yes/UH, you/PRP, are/VBP, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (VBP are))) (, ,) (S (NP (PRP$ your)) (NP (DT an) (JJ old) (NN stinker))) (, ,) (S (INTJ (UH yes)) (NP (PRP you)) (VP (VBP are))) (. .)))"
+10516,"(10,)",Shall I put this in there ?,"[Shall/MD, I/PRP, put/VB, this/DT, in/IN, there/EX, ?/.]",(ROOT (SQ (MD Shall) (NP (PRP I)) (VP (VB put) (NP (NP (DT this)) (PP (IN in) (NP (EX there))))) (. ?)))
+10516,"(11,)","Oh , good girl .","[Oh/UH, ,/,, good/JJ, girl/NN, ./.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (NP (JJ good) (NN girl) (. .))))"
+10516,"(12,)","There , ooh   .","[There/RB, ,/,, ooh/NN, ./.]","(ROOT (FRAG (ADVP (RB There)) (, ,) (NP (NN ooh)) (. .)))"
+10516,"(13,)","Oh , there 's a good girl .","[Oh/UH, ,/,, there/EX, 's/VBZ, a/DT, good/JJ, girl/NN, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN girl))) (. .)))"
+10516,"(14,)",  .,[./.],(ROOT (NP (. .)))
+10516,"(15,)","Mm , she 's got a lovely coat .","[Mm/NN, ,/,, she/PRP, 's/VBZ, got/VBD, a/DT, lovely/JJ, coat/NN, ./.]","(ROOT (S (NP (NN Mm)) (, ,) (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ lovely) (NN coat)))) (. .)))"
+10516,"(16,)",Ah cos of the food and the condition she 's kept in isn 't it ?,"[Ah/NN, cos/NN, of/IN, the/DT, food/NN, and/CC, the/DT, condition/NN, she/PRP, 's/VBZ, kept/VBN, in/IN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (NP (NN Ah) (NN cos)) (PP (IN of) (NP (NP (DT the) (NN food)) (CC and) (NP (DT the) (NN condition))))) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN kept) (PP (IN in) (NP (NN isn))) (NP (NP (PRP 't)) (NP (PRP it))))))) (. ?)))
+10516,"(17,)",  .,[./.],(ROOT (NP (. .)))
+10516,"(18,)",What you 've been up to too ?,"[What/WP, you/PRP, 've/VBP, been/VBN, up/RP, to/TO, too/RB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (NP (PRP you)) (VP (VBP 've) (VP (VBN been) (ADVP (RP up) (PP (TO to))) (ADVP (RB too))))) (. ?)))
+10516,"(19,)",Look .,"[Look/VB, ./.]",(ROOT (S (VP (VB Look)) (. .)))
+10516,"(20,)","Oh god ,  , I 've checked , all this has got to be chucked away , has it ? .","[Oh/UH, god/NNP, ,/,, ,/,, I/PRP, 've/VBP, checked/VBN, ,/,, all/PDT, this/DT, has/VBZ, got/VBN, to/TO, be/VB, chucked/VBN, away/RB, ,/,, has/VBZ, it/PRP, ?/., ./.]","(ROOT (S (PP (UH Oh) (NP (NNP god))) (, ,) (PRN (, ,) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN checked)))) (, ,)) (NP (PDT all) (DT this)) (VP (VP (VBZ has) (VP (VBN got) (S (VP (TO to) (VP (VB be) (VP (VBN chucked) (ADVP (RB away)))))))) (, ,) (VP (VBZ has) (NP (PRP it)))) (. ?) (. .)))"
+10516,"(21,)","Actually , I think this   some more hay  , there 's hardly any in there .","[Actually/RB, ,/,, I/PRP, think/VBP, this/DT, some/DT, more/JJR, hay/NN, ,/,, there/EX, 's/VBZ, hardly/RB, any/DT, in/IN, there/RB, ./.]","(ROOT (S (ADVP (RB Actually)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP think) (NP (DT this) (ADJP (DT some) (JJR more)) (NN hay)))) (, ,)) (NP (EX there)) (VP (VBZ 's) (ADVP (RB hardly)) (NP (NP (DT any)) (PP (IN in) (NP (RB there))))) (. .)))"
+10516,"(22,)",Ok .,"[Ok/UH, ./.]",(ROOT (INTJ (UH Ok) (. .)))
+10516,"(23,)",I 'll have that .,"[I/PRP, 'll/MD, have/VB, that/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (DT that)))) (. .)))
+10516,"(24,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+10516,"(25,)",  .,[./.],(ROOT (NP (. .)))
+10516,"(26,)",Oh there .,"[Oh/UH, there/EX, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (EX there)))) (. .)))
+10516,"(27,)",Thanks .,"[Thanks/NNS, ./.]",(ROOT (NP (NNS Thanks) (. .)))

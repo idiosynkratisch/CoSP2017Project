@@ -1,0 +1,49 @@
+23601,"(0, 1, 2)",If you can get rid of that rubbish  tomorrow  and that,"[If/IN, you/PRP, can/MD, get/VB, rid/JJ, of/IN, that/DT, rubbish/JJ, tomorrow/NN, and/CC, that/IN]",(ROOT (SBAR (IN If) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (UCP (ADJP (JJ rid) (PP (IN of) (NP (DT that) (JJ rubbish) (NN tomorrow)))) (CC and) (ADVP (IN that))))))))
+23601,"(3,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+23601,"(4, 5, 6)","there , and the doors  and  that 'll be a good a job really .","[there/RB, ,/,, and/CC, the/DT, doors/NNS, and/CC, that/IN, 'll/MD, be/VB, a/DT, good/JJ, a/DT, job/NN, really/RB, ./.]","(ROOT (S (VP (NP (NP (NP (RB there)) (, ,) (CC and) (NP (DT the) (NNS doors))) (CC and) (SBAR (WHNP (IN that)) (S (VP (MD 'll) (VP (VB be) (NP (NP (DT a) (JJ good) (DT a) (NN job)) (ADVP (RB really))))))))) (. .)))"
+23601,"(7,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+23601,"(8,)",That   up there .,"[That/DT, up/IN, there/RB, ./.]",(ROOT (S (NP (DT That)) (VP (IN up) (NP (RB there))) (. .)))
+23601,"(9,)",I want it to kind of and of course I ended up buying more stuff !,"[I/PRP, want/VBP, it/PRP, to/TO, kind/NN, of/IN, and/CC, of/IN, course/NN, I/PRP, ended/VBD, up/RP, buying/VBG, more/JJR, stuff/NN, !/.]",(ROOT (S (S (NP (PRP I)) (VP (VBP want) (NP (PRP it)) (PP (TO to) (NP (NP (NN kind)) (PP (IN of) (CC and) (IN of) (NP (NN course))))))) (NP (PRP I)) (VP (VBD ended) (PRT (RP up)) (S (VP (VBG buying) (NP (JJR more) (NN stuff))))) (. !)))
+23601,"(10, 11)",So I 'll let  Where 'd I put it ?,"[So/IN, I/PRP, 'll/MD, let/VB, Where/WRB, 'd/MD, I/PRP, put/VB, it/PRP, ?/.]",(ROOT (S (IN So) (NP (PRP I)) (VP (MD 'll) (VP (VB let) (SBAR (SBARQ (WHADVP (WRB Where)) (SQ (MD 'd) (NP (PRP I)) (VP (VB put) (NP (PRP it)))))))) (. ?)))
+23601,"(12,)","In the back , if you take this cupboard   it doesn 't matter .","[In/IN, the/DT, back/NN, ,/,, if/IN, you/PRP, take/VBP, this/DT, cupboard/NN, it/PRP, doesn/VBD, 't/PRP, matter/NN, ./.]","(ROOT (S (PP (IN In) (NP (DT the) (NN back))) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP take) (NP (DT this) (NN cupboard))))) (NP (PRP it)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (NN matter)))) (. .)))"
+23601,"(13,)","Actually , I can eat that tomorrow .","[Actually/RB, ,/,, I/PRP, can/MD, eat/VB, that/IN, tomorrow/NN, ./.]","(ROOT (S (ADVP (RB Actually)) (, ,) (NP (PRP I)) (VP (MD can) (VP (VB eat) (ADVP (IN that)) (NP (NN tomorrow)))) (. .)))"
+23601,"(14,)","Well you 've got them spare ribs here ,  .","[Well/RB, you/PRP, 've/VBP, got/VBD, them/PRP, spare/JJ, ribs/NNS, here/RB, ,/,, ./.]","(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (NP (NP (PRP them)) (NP (NP (JJ spare) (NNS ribs)) (ADVP (RB here)))) (, ,)))) (. .)))"
+23601,"(15,)","Yeah , I 'll eat them tomorrow as well .","[Yeah/UH, ,/,, I/PRP, 'll/MD, eat/VB, them/PRP, tomorrow/NN, as/RB, well/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB eat) (NP (PRP them)) (NP (NN tomorrow)) (PP (RB as) (ADVP (RB well))))) (. .)))"
+23601,"(16,)",Uncanny !,"[Uncanny/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Uncanny)) (. !)))
+23601,"(17,)",Move that !,"[Move/VB, that/IN, !/.]",(ROOT (S (VP (VB Move) (ADVP (IN that))) (. !)))
+23601,"(18,)",,[],X
+23601,"(19,)",I was talking to the gannet !,"[I/PRP, was/VBD, talking/VBG, to/TO, the/DT, gannet/NNP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG talking) (PP (TO to) (NP (DT the) (NNP gannet))))) (. !)))
+23601,"(20,)",The gun ?,"[The/DT, gun/NN, ?/.]",(ROOT (NP (DT The) (NN gun) (. ?)))
+23601,"(21,)",The gannet !,"[The/DT, gannet/NNP, !/.]",(ROOT (FRAG (NP (DT The) (NNP gannet)) (. !)))
+23601,"(22,)",Oh the gannet !,"[Oh/UH, the/DT, gannet/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT the) (NNP gannet)))) (. !)))
+23601,"(23,)",I 'm trying to eat   .,"[I/PRP, 'm/VBP, trying/VBG, to/TO, eat/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG trying) (S (VP (TO to) (VP (VB eat)))))) (. .)))
+23601,"(24,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+23601,"(25,)","I think he , must have   and it sat on the floor again !","[I/PRP, think/VBP, he/PRP, ,/,, must/MD, have/VB, and/CC, it/PRP, sat/VBD, on/IN, the/DT, floor/NN, again/RB, !/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP think) (NP (PRP he)))) (, ,) (VP (MD must) (VP (VB have))) (CC and) (S (NP (PRP it)) (VP (VBD sat) (PP (IN on) (NP (DT the) (NN floor))) (ADVP (RB again)))) (. !)))"
+23601,"(26,)",Did it ?,"[Did/VBD, it/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP it))) (. ?)))
+23601,"(27,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+23601,"(28,)",Aha .,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
+23601,"(29,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+23601,"(30,)",From where you 're standing .,"[From/IN, where/WRB, you/PRP, 're/VBP, standing/VBG, ./.]",(ROOT (FRAG (PP (IN From) (SBAR (WHADVP (WRB where)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG standing)))))) (. .)))
+23601,"(31,)",I wonder where he 's put it then ?,"[I/PRP, wonder/VBP, where/WRB, he/PRP, 's/VBZ, put/VBN, it/PRP, then/RB, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP wonder) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN put) (S (NP (PRP it)) (ADVP (RB then)))))))) (. ?)))
+23601,"(32,)","Oops , and there 's cats everywhere you 're walking !","[Oops/UH, ,/,, and/CC, there/EX, 's/VBZ, cats/NNS, everywhere/RB, you/PRP, 're/VBP, walking/VBG, !/.]","(ROOT (S (S (INTJ (UH Oops)) (, ,) (CC and) (NP (EX there)) (VP (VBZ 's) (NP (NNS cats)) (ADVP (RB everywhere)))) (NP (PRP you)) (VP (VBP 're) (VP (VBG walking))) (. !)))"
+23601,"(33,)",Did I tell you what we had in our cup this morning didn 't I ?,"[Did/VBD, I/PRP, tell/VBP, you/PRP, what/WP, we/PRP, had/VBD, in/IN, our/PRP$, cup/NN, this/DT, morning/NN, didn/NN, 't/PRP, I/PRP, ?/.]",(ROOT (S (VP (VBD Did) (SBAR (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBD had) (NP (PP (IN in) (NP (PRP$ our) (NN cup))) (NP (NP (DT this) (NN morning) (NN didn)) (NP (PRP 't)) (NP (PRP I))))))))))) (. ?)))
+23601,"(34, 35)",This corner  is   .,"[This/DT, corner/NN, is/VBZ, ./.]",(ROOT (S (NP (DT This) (NN corner)) (VP (VBZ is)) (. .)))
+23601,"(36, 37)",Yeah  it has .,"[Yeah/UH, it/PRP, has/VBZ, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP it)) (VP (VBZ has))) (. .)))
+23601,"(38,)",Ha !,"[Ha/NNP, !/.]",(ROOT (FRAG (NP (NNP Ha)) (. !)))
+23601,"(39,)",What about the   then ?,"[What/WP, about/IN, the/DT, then/RB, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about) (NP (DT the) (RB then))) (. ?)))
+23601,"(40,)",Better keep a label on them or else !,"[Better/JJR, keep/VB, a/DT, label/NN, on/IN, them/PRP, or/CC, else/RB, !/.]",(ROOT (FRAG (ADJP (JJR Better)) (S (VP (VB keep) (NP (DT a) (NN label)) (PP (IN on) (NP (NP (PRP them)) (CC or) (NP (RB else)))))) (. !)))
+23601,"(41, 42)","That  have to give it to Ded , she 's got a car .","[That/DT, have/VBP, to/TO, give/VB, it/PRP, to/TO, Ded/VBN, ,/,, she/PRP, 's/VBZ, got/VBD, a/DT, car/NN, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBP have) (S (VP (TO to) (VP (VB give) (S (NP (PRP it)) (VP (TO to) (VP (VBN Ded))))))))) (, ,) (NP (PRP she)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (NN car)))) (. .)))"
+23601,"(43,)",Oh right .,"[Oh/UH, right/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. .)))
+23601,"(44,)",It 's the   for us car tax .,"[It/PRP, 's/VBZ, the/DT, for/IN, us/PRP, car/NN, tax/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the)) (PP (IN for) (NP (NP (PRP us)) (NP (NN car) (NN tax)))))) (. .)))
+23601,"(45,)",Oh is it ?,"[Oh/UH, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+23601,"(46,)","Yeah , that 's what that is , D L V Swansea .","[Yeah/UH, ,/,, that/DT, 's/VBZ, what/WP, that/DT, is/VBZ, ,/,, D/NNP, L/NNP, V/NNP, Swansea/NNP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (DT that)) (VP (VBZ is) (, ,) (NP (NNP D) (NNP L) (NNP V) (NNP Swansea)))))) (. .)))"
+23601,"(47,)",Oh right .,"[Oh/UH, right/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. .)))
+23601,"(48,)", as a reminder .,"[as/IN, a/DT, reminder/NN, ./.]",(ROOT (FRAG (PP (IN as) (NP (DT a) (NN reminder))) (. .)))
+23601,"(49,)",So you 're tax will be up soon then ?,"[So/RB, you/PRP, 're/VBP, tax/NN, will/MD, be/VB, up/RB, soon/RB, then/RB, ?/.]",(ROOT (S (RB So) (NP (PRP you)) (VP (VBP 're) (NP (NP (NN tax)) (SBAR (S (VP (MD will) (VP (VB be) (ADVP (RB up) (RB soon)) (ADVP (RB then)))))))) (. ?)))
+23601,"(50,)",Can 't say that   .,"[Can/MD, 't/PRP, say/VB, that/DT, ./.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB say) (NP (DT that))) (. .)))
+23601,"(51,)","Oh , it has come then ?","[Oh/UH, ,/,, it/PRP, has/VBZ, come/VBN, then/RB, ?/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN come) (ADVP (RB then)))) (. ?)))"
+23601,"(52, 53, 54)",Yester- erm  in the last couple of hours .,"[Yester-/JJ, erm/NN, in/IN, the/DT, last/JJ, couple/NN, of/IN, hours/NNS, ./.]",(ROOT (NP (NP (JJ Yester-) (NN erm)) (PP (IN in) (NP (DT the) (JJ last) (NN couple))) (PP (IN of) (NP (NNS hours))) (. .)))
+23601,"(55,)",I 'm feeling as if there 's a    ,"[I/PRP, 'm/VBP, feeling/VBG, as/IN, if/IN, there/EX, 's/VBZ, a/DT]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG feeling) (SBAR (IN as) (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a)))))))))
+23601,"(56,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+23601,"(57, 58)",I hate that !,"[I/PRP, hate/VBP, that/IN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (ADVP (IN that))) (. !)))
+23601,"(59,)",Puts you right off eating !,"[Puts/VBZ, you/PRP, right/RB, off/RB, eating/VBG, !/.]",(ROOT (S (VP (VBZ Puts) (NP (PRP you)) (ADVP (RB right) (RB off)) (S (VP (VBG eating)))) (. !)))

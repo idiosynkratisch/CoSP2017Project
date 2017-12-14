@@ -1,0 +1,6 @@
+132406,"(0, 1)",Fuck  would be good one .,"[Fuck/NN, would/MD, be/VB, good/JJ, one/CD, ./.]",(ROOT (S (NP (NN Fuck)) (VP (MD would) (VP (VB be) (ADJP (JJ good) (NP (CD one))))) (. .)))
+132406,"(2,)",Everything 's come out my bag .,"[Everything/NN, 's/POS, come/VBN, out/RP, my/PRP$, bag/NN, ./.]",(ROOT (NP (NP (NN Everything)) (SBAR (S (NP (POS 's)) (VP (VBN come) (PRT (RP out)) (NP (PRP$ my) (NN bag))))) (. .)))
+132406,"(3,)",Bloody way !,"[Bloody/JJ, way/NN, !/.]",(ROOT (NP (JJ Bloody) (NN way) (. !)))
+132406,"(4,)",Aargh !,"[Aargh/RB, !/.]",(ROOT (FRAG (ADVP (RB Aargh)) (. !)))
+132406,"(5, 6)",Come on Peter   get  on the bus .,"[Come/VB, on/IN, Peter/NNP, get/VB, on/IN, the/DT, bus/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NNP Peter))) (S (VP (VB get) (PP (IN on) (NP (DT the) (NN bus)))))) (. .)))
+132406,"(7,)",Ah shit !,"[Ah/NN, shit/NN, !/.]",(ROOT (FRAG (NP (NN Ah) (NN shit)) (. !)))

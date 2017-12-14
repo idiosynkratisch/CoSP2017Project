@@ -1,0 +1,10 @@
+416,"(0,)","Great , thanks .","[Great/NNP, ,/,, thanks/NNS, ./.]","(ROOT (NP (NP (NNP Great)) (, ,) (NP (NNS thanks)) (. .)))"
+416,"(1,)",What was it ?,"[What/WP, was/VBD, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (PRP it))) (. ?)))
+416,"(2,)","Twenty two , you were paying for all the teas weren 't ya ?","[Twenty/CD, two/CD, ,/,, you/PRP, were/VBD, paying/VBG, for/IN, all/PDT, the/DT, teas/NNS, weren/VBP, 't/PRP, ya/PRP, ?/.]","(ROOT (S (FRAG (NP (CD Twenty) (CD two))) (, ,) (NP (PRP you)) (VP (VBD were) (VP (VBG paying) (SBAR (IN for) (S (NP (PDT all) (DT the) (NNS teas)) (VP (VBP weren) (S (NP (PRP 't)) (NP (PRP ya)))))))) (. ?)))"
+416,"(3,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+416,"(4,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+416,"(5,)",Great .,"[Great/NNP, ./.]",(ROOT (FRAG (NP (NNP Great)) (. .)))
+416,"(6,)",Coffee to go .  .,"[Coffee/NN, to/TO, go/VB, ./., ./.]",(ROOT (FRAG (ADJP (ADJP (NN Coffee)) (PP (TO to) (S (VP (VB go)))) (. .)) (. .)))
+416,"(7,)",Lovely jubbly .,"[Lovely/JJ, jubbly/RB, ./.]",(ROOT (FRAG (ADJP (JJ Lovely) (RB jubbly)) (. .)))
+416,"(8,)",What are they twenty ?,"[What/WP, are/VBP, they/PRP, twenty/CD, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (NP (PRP they)) (NP (CD twenty)))) (. ?)))
+416,"(9,)","Do , what ?","[Do/VB, ,/,, what/WP, ?/.]","(ROOT (VP (VB Do) (, ,) (FRAG (WHNP (WP what)) (. ?))))"

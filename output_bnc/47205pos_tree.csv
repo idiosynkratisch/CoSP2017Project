@@ -1,0 +1,20 @@
+47205,"(0,)",Hi .,"[Hi/UH, ./.]",(ROOT (INTJ (UH Hi) (. .)))
+47205,"(1,)",Working hard ?,"[Working/VBG, hard/RB, ?/.]",(ROOT (S (VP (VBG Working) (ADVP (RB hard))) (. ?)))
+47205,"(2,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+47205,"(3,)",,[],X
+47205,"(4,)",Ah ah ah !,"[Ah/NN, ah/NN, ah/NN, !/.]",(ROOT (NP (NP (NN Ah)) (NP (NN ah) (NN ah)) (. !)))
+47205,"(5, 6)",Don 't get  cross now .,"[Don/NNP, 't/PRP, get/VB, cross/VB, now/RB, ./.]",(ROOT (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VB get))))) (VP (VB cross) (ADVP (RB now))) (. .)))
+47205,"(7,)",This is your father speaking now so don 't get cross .,"[This/DT, is/VBZ, your/PRP$, father/NN, speaking/VBG, now/RB, so/RB, don/VB, 't/PRP, get/VB, cross/NN, ./.]",(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (PRP$ your) (NN father)) (VP (VBG speaking) (ADVP (RB now) (RB so)) (S (VP (VB don) (S (NP (PRP 't)) (VP (VB get) (NP (NN cross))))))))) (. .)))
+47205,"(8,)",,[],X
+47205,"(9,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+47205,"(10,)",,[],X
+47205,"(11,)","Right , one two ","[Right/NN, ,/,, one/CD, two/CD]","(ROOT (NP (NP (NN Right)) (, ,) (NP (CD one) (CD two))))"
+47205,"(12,)",,[],X
+47205,"(13,)",,[],X
+47205,"(14,)",Who the hell 's that ?,"[Who/WP, the/DT, hell/NN, 's/POS, that/WDT, ?/.]",(ROOT (SBARQ (WHNP (WP Who) (DT the) (NN hell)) (SQ (VP (POS 's) (WHNP (WDT that)))) (. ?)))
+47205,"(15,)","That 's Kink , that singing is Kink .","[That/DT, 's/VBZ, Kink/NN, ,/,, that/WDT, singing/NN, is/VBZ, Kink/NN, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN Kink)) (, ,) (SBAR (WHNP (WDT that) (NN singing)) (S (VP (VBZ is) (NP (NN Kink))))))) (. .)))"
+47205,"(16,)",I never list- I 've never listened to the tape    ,"[I/PRP, never/RB, list-/JJ, I/PRP, 've/VBP, never/RB, listened/VBN, to/TO, the/DT, tape/NN]",(ROOT (S (NP (PRP I)) (VP (ADVP (RB never)) (S (ADJP (JJ list-) (SBAR (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN listened) (PP (TO to) (NP (DT the) (NN tape))))))))))))
+47205,"(17,)",Who 's that ?,"[Who/WP, 's/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (ADJP (IN that))) (. ?)))
+47205,"(18,)",,[],X
+47205,"(19,)",Totally Kink .,"[Totally/RB, Kink/NN, ./.]",(ROOT (FRAG (ADVP (RB Totally)) (NP (NN Kink)) (. .)))
+47205,"(20,)",,[],X

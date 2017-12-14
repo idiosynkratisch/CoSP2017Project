@@ -1,0 +1,9 @@
+2406,"(0,)",Yes Christine was happy enough .,"[Yes/UH, Christine/NNP, was/VBD, happy/JJ, enough/RB, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (NNP Christine)) (VP (VBD was) (ADJP (JJ happy) (RB enough)))) (. .)))
+2406,"(1,)",All is well down in Devon .,"[All/DT, is/VBZ, well/RB, down/RB, in/IN, Devon/NNP, ./.]",(ROOT (S (NP (DT All)) (VP (VBZ is) (ADVP (RB well) (RB down)) (PP (IN in) (NP (NNP Devon)))) (. .)))
+2406,"(2,)",Steven and his numerous family are still on the canal 's somewhere having a hol-  .,"[Steven/NNP, and/CC, his/PRP$, numerous/JJ, family/NN, are/VBP, still/RB, on/IN, the/DT, canal/NN, 's/POS, somewhere/RB, having/VBG, a/DT, hol-/NN, ./.]",(ROOT (S (NP (NP (NNP Steven)) (CC and) (NP (PRP$ his) (JJ numerous) (NN family))) (VP (VBP are) (ADVP (RB still)) (PP (IN on) (NP (NP (DT the) (NN canal) (POS 's)) (VP (ADVP (RB somewhere)) (VBG having) (NP (DT a) (NN hol-)))))) (. .)))
+2406,"(3,)",Did you enjoy that little nonsense .,"[Did/VBD, you/PRP, enjoy/VB, that/DT, little/JJ, nonsense/NN, ./.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB enjoy) (NP (DT that) (JJ little) (NN nonsense))) (. .)))
+2406,"(4,)","Do they go too , Snoopy , or not ?","[Do/VB, they/PRP, go/VB, too/RB, ,/,, Snoopy/NNP, ,/,, or/CC, not/RB, ?/.]","(ROOT (SQ (VP (VB Do) (S (NP (PRP they)) (VP (VB go) (ADVP (RB too)))) (, ,) (NP (NP (NNP Snoopy)) (, ,) (CC or) (ADVP (RB not)))) (. ?)))"
+2406,"(5,)",,[],X
+2406,"(6,)","Yes , yes , yes , yes .","[Yes/UH, ,/,, yes/UH, ,/,, yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (INTJ (UH yes) (, ,) (UH yes)) (, ,) (INTJ (UH yes) (. .)))))"
+2406,"(7,)", darling .,"[darling/NN, ./.]",(ROOT (NP (NN darling) (. .)))
+2406,"(8,)",Too good .,"[Too/RB, good/JJ, ./.]",(ROOT (FRAG (ADJP (RB Too) (JJ good)) (. .)))

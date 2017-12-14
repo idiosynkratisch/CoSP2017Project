@@ -1,0 +1,46 @@
+47302,"(0,)",Yeah we were out last night .,"[Yeah/UH, we/PRP, were/VBD, out/IN, last/JJ, night/NN, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP we)) (VP (VBD were) (ADJP (IN out)) (NP (JJ last) (NN night)))) (. .)))
+47302,"(1,)",,[],X
+47302,"(2,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+47302,"(3, 4)", at least twenty people .,"[at/IN, least/JJS, twenty/CD, people/NNS, ./.]",(ROOT (X (ADVP (IN at) (JJS least)) (NP (CD twenty) (NNS people)) (. .)))
+47302,"(5,)",,[],X
+47302,"(6, 7)","Oh right you got chips , I thought you got    I thought you got gravy and a burger","[Oh/UH, right/RB, you/PRP, got/VBD, chips/NNS, ,/,, I/PRP, thought/VBD, you/PRP, got/VBD, I/PRP, thought/VBD, you/PRP, got/VBD, gravy/NN, and/CC, a/DT, burger/NN]","(ROOT (NP (S (S (INTJ (UH Oh)) (NP (RB right) (PRP you)) (VP (VBD got) (NP (NNS chips)))) (, ,) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP you)) (VP (VBD got) (SBAR (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP you)) (VP (VBD got) (NP (NP (NN gravy)) (CC and) (NP (DT a) (NN burger))))))))))))))))"
+47302,"(8,)",,[],X
+47302,"(9,)",,[],X
+47302,"(10,)",All donations will be accepted .,"[All/DT, donations/NNS, will/MD, be/VB, accepted/VBN, ./.]",(ROOT (S (NP (DT All) (NNS donations)) (VP (MD will) (VP (VB be) (VP (VBN accepted)))) (. .)))
+47302,"(11, 12)",Fuck   ,[Fuck/NN],(ROOT (NP (NN Fuck)))
+47302,"(13,)",,[],X
+47302,"(14,)",Where ?,"[Where/WRB, ?/.]",(ROOT (FRAG (WHADVP (WRB Where) (. ?))))
+47302,"(15,)",,[],X
+47302,"(16,)",No,[No/DT],(ROOT (FRAG (NP (DT No))))
+47302,"(17,)",,[],X
+47302,"(18,)",Never .,"[Never/RB, ./.]",(ROOT (FRAG (ADVP (RB Never)) (. .)))
+47302,"(19, 20)", take your ticket back  sensible people would like .,"[take/VB, your/PRP$, ticket/NN, back/RB, sensible/JJ, people/NNS, would/MD, like/VB, ./.]",(ROOT (S (S (VP (VB take) (NP (PRP$ your) (NN ticket)) (ADVP (RB back)))) (NP (JJ sensible) (NNS people)) (VP (MD would) (VP (VB like))) (. .)))
+47302,"(21, 22)","No I 'm not sensible , I 'm even  I 'm even less sensible than people who didn 't take a ticket back .","[No/DT, I/PRP, 'm/VBP, not/RB, sensible/JJ, ,/,, I/PRP, 'm/VBP, even/RB, I/PRP, 'm/VBP, even/RB, less/RBR, sensible/JJ, than/IN, people/NNS, who/WP, didn/VBP, 't/PRP, take/VB, a/DT, ticket/NN, back/RB, ./.]","(ROOT (S (S (NP (DT No) (PRP I)) (VP (VBP 'm) (RB not) (ADJP (JJ sensible)))) (, ,) (NP (PRP I)) (VP (VBP 'm) (SBAR (RB even) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (ADJP (RB even) (RBR less) (JJ sensible)) (PP (IN than) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP didn) (S (NP (PRP 't)) (VP (VB take) (NP (DT a) (NN ticket)) (ADVP (RB back)))))))))))))) (. .)))"
+47302,"(23,)",,[],X
+47302,"(24,)",Hasn 't he lost it   ?,"[Hasn/NNP, 't/PRP, he/PRP, lost/VBD, it/PRP, ?/.]",(ROOT (S (NP (NNP Hasn) (PRP 't)) (NP (PRP he)) (VP (VBD lost) (NP (PRP it))) (. ?)))
+47302,"(25,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+47302,"(26,)",I lost  ,"[I/PRP, lost/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD lost))))
+47302,"(27,)", Where you there ?,"[Where/WRB, you/PRP, there/EX, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (PRP you) (NP (EX there))) (. ?)))
+47302,"(28,)","Him and Gary , over the fence .","[Him/PRP, and/CC, Gary/NNP, ,/,, over/IN, the/DT, fence/NN, ./.]","(ROOT (FRAG (NP (NP (PRP Him)) (CC and) (NP (NNP Gary))) (, ,) (PP (IN over) (NP (DT the) (NN fence))) (. .)))"
+47302,"(29,)",Was it you went over the fence with Gary ?,"[Was/VBD, it/PRP, you/PRP, went/VBD, over/IN, the/DT, fence/NN, with/IN, Gary/NNP, ?/.]",(ROOT (S (S (VP (VBD Was) (NP (PRP it)))) (NP (PRP you)) (VP (VBD went) (PP (IN over) (NP (DT the) (NN fence))) (PP (IN with) (NP (NNP Gary)))) (. ?)))
+47302,"(30,)",I remember seeing you inside .,"[I/PRP, remember/VBP, seeing/VBG, you/PRP, inside/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP remember) (S (VP (VBG seeing) (NP (PRP you)) (ADVP (RB inside))))) (. .)))
+47302,"(31,)",,[],X
+47302,"(32,)","Well like I , I was with Gary , Gary ","[Well/RB, like/IN, I/PRP, ,/,, I/PRP, was/VBD, with/IN, Gary/NNP, ,/,, Gary/NNP]","(ROOT (S (PP (ADVP (RB Well)) (IN like) (NP (PRP I))) (, ,) (NP (PRP I)) (VP (VBD was) (PP (IN with) (NP (NNP Gary) (, ,) (NNP Gary))))))"
+47302,"(33, 34)",No I went off in the car with   > They climbed over the fence .,"[No/DT, I/PRP, went/VBD, off/RB, in/IN, the/DT, car/NN, with/IN, >/JJR, They/PRP, climbed/VBD, over/IN, the/DT, fence/NN, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBD went) (ADVP (RB off) (PP (IN in) (NP (DT the) (NN car)))) (PP (IN with) (NP (NP (JJR >)) (SBAR (S (NP (PRP They)) (VP (VBD climbed) (PP (IN over) (NP (DT the) (NN fence))))))))) (. .)))
+47302,"(35,)",Posers .,"[Posers/NNS, ./.]",(ROOT (NP (NNS Posers) (. .)))
+47302,"(36,)",,[],X
+47302,"(37,)","No he , he lost the ticket .","[No/DT, he/PRP, ,/,, he/PRP, lost/VBD, the/DT, ticket/NN, ./.]","(ROOT (S (NP (DT No) (PRP he)) (, ,) (NP (PRP he)) (VP (VBD lost) (NP (DT the) (NN ticket))) (. .)))"
+47302,"(38,)",Oh I lost the ticket ,"[Oh/UH, I/PRP, lost/VBD, the/DT, ticket/NN]",(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (ADVP (PRP I)) (VBD lost)) (NP (DT the) (NN ticket))))
+47302,"(39,)",Gary  > definitely got the   like .,"[Gary/NNP, >/JJR, definitely/RB, got/VBD, the/DT, like/JJ, ./.]",(ROOT (S (NP (NP (NNP Gary)) (ADJP (JJR >))) (ADVP (RB definitely)) (VP (VBD got) (NP (DT the) (JJ like))) (. .)))
+47302,"(40,)",,[],X
+47302,"(41,)",Remember he walked out the   lost .,"[Remember/VB, he/PRP, walked/VBD, out/RP, the/DT, lost/VBN, ./.]",(ROOT (S (VP (VB Remember) (SBAR (S (NP (PRP he)) (VP (VBD walked) (PRT (RP out)) (S (NP (DT the) (VBN lost))))))) (. .)))
+47302,"(42,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+47302,"(43,)",Remember he waltzed out in the   ?,"[Remember/VB, he/PRP, waltzed/VBD, out/RP, in/IN, the/DT, ?/.]",(ROOT (SQ (VP (VB Remember) (SBAR (S (NP (PRP he)) (VP (VBD waltzed) (PRT (RP out)) (PP (IN in) (NP (DT the))))))) (. ?)))
+47302,"(44,)",Everybody was laughing .,"[Everybody/NN, was/VBD, laughing/VBG, ./.]",(ROOT (S (NP (NN Everybody)) (VP (VBD was) (VP (VBG laughing))) (. .)))
+47302,"(45,)",Who said I had a chip ?,"[Who/WP, said/VBD, I/PRP, had/VBD, a/DT, chip/NN, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN chip))))))) (. ?)))
+47302,"(46, 47, 48)",I got a pasty    I had a pasty    so I did .,"[I/PRP, got/VBD, a/DT, pasty/JJ, I/PRP, had/VBD, a/DT, pasty/JJ, so/IN, I/PRP, did/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD got) (NP (DT a) (JJ pasty)) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (JJ pasty)) (SBAR (IN so) (S (NP (PRP I)) (VP (VBD did)))))))) (. .)))
+47302,"(49,)",,[],X
+47302,"(50,)","Well I just , I just get my pay and then I go and fucking blow it all .","[Well/RB, I/PRP, just/RB, ,/,, I/PRP, just/RB, get/VB, my/PRP$, pay/NN, and/CC, then/RB, I/PRP, go/VBP, and/CC, fucking/VBG, blow/NN, it/PRP, all/DT, ./.]","(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP I)) (SBAR (S (S (ADVP (RB just)) (, ,) (S (NP (PRP I)) (ADVP (RB just)) (VP (VB get) (NP (PRP$ my) (NN pay)))) (CC and) (S (ADVP (RB then)) (NP (PRP I)) (VP (VBP go)))) (CC and) (S (VP (VBG fucking) (S (NP (NN blow)) (NP (PRP it))) (ADVP (DT all))))))) (. .)))"
+47302,"(51,)",,[],X
+47302,"(52,)",Aye sure they are nice now fuck off .,"[Aye/NNP, sure/RB, they/PRP, are/VBP, nice/JJ, now/RB, fuck/VB, off/RP, ./.]",(ROOT (S (NP (NP (NNP Aye)) (SBAR (S (ADVP (RB sure)) (NP (PRP they)) (VP (VBP are) (ADJP (JJ nice)) (ADVP (RB now)))))) (VP (VB fuck) (PRT (RP off))) (. .)))
+47302,"(53,)",,[],X

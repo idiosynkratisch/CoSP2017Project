@@ -1,0 +1,3 @@
+2305,"(0,)",Bill 's really enjoying himself out there isn 't he ?,"[Bill/NNP, 's/POS, really/RB, enjoying/VBG, himself/PRP, out/RP, there/RB, isn/NN, 't/PRP, he/PRP, ?/.]",(ROOT (S (S (NP (NNP Bill) (POS 's)) (VP (ADVP (RB really)) (VBG enjoying) (NP (PRP himself)) (PRT (RP out)) (ADVP (RB there)) (PP (NP (NN isn)) (NP (NP (PRP 't)) (NP (PRP he)))))) (. ?)))
+2305,"(1,)",  .,[./.],(ROOT (NP (. .)))
+2305,"(2,)","Goodness knows , demolishing by the sound of it .","[Goodness/NN, knows/VBZ, ,/,, demolishing/VBG, by/IN, the/DT, sound/NN, of/IN, it/PRP, ./.]","(ROOT (S (NP (NN Goodness)) (VP (VBZ knows) (, ,) (S (VP (VBG demolishing) (PP (IN by) (NP (NP (DT the) (NN sound)) (PP (IN of) (NP (PRP it)))))))) (. .)))"

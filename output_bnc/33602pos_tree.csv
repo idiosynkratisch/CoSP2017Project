@@ -1,0 +1,49 @@
+33602,"(0,)",You can turn the television on if you want to .,"[You/PRP, can/MD, turn/VB, the/DT, television/NN, on/IN, if/IN, you/PRP, want/VBP, to/TO, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB turn) (NP (DT the) (NN television)) (PP (IN on) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (PP (TO to)))))))) (. .)))
+33602,"(1,)",Can I ?,"[Can/MD, I/PRP, ?/.]",(ROOT (S (VP (MD Can) (VP (NP (PRP I)))) (. ?)))
+33602,"(2,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+33602,"(3,)",It 's not on yet .,"[It/PRP, 's/VBZ, not/RB, on/IN, yet/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (PP (IN on) (ADVP (RB yet)))) (. .)))
+33602,"(4,)",Oh it 'll be on in a minute Sue .,"[Oh/UH, it/PRP, 'll/MD, be/VB, on/IN, in/IN, a/DT, minute/NN, Sue/VB, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (MD 'll) (VP (VB be) (PP (IN on) (IN in) (NP (DT a) (NN minute) (S (VP (VB Sue)))))))) (. .)))
+33602,"(5, 6, 7)","We can do a bit more taping thereon , I 'll be just interested to  hear what    you have been saying all this time , you know   !","[We/PRP, can/MD, do/VB, a/DT, bit/NN, more/RBR, taping/VBG, thereon/NN, ,/,, I/PRP, 'll/MD, be/VB, just/RB, interested/JJ, to/TO, hear/VB, what/WP, you/PRP, have/VBP, been/VBN, saying/VBG, all/PDT, this/DT, time/NN, ,/,, you/PRP, know/VBP, !/.]","(ROOT (S (S (NP (PRP We)) (VP (MD can) (VP (VB do) (ADVP (NP (DT a) (NN bit)) (RBR more)) (S (VP (VBG taping) (NP (NN thereon))))))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB be) (ADJP (RB just) (JJ interested) (S (VP (TO to) (VP (VB hear) (S (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP have) (VP (VBN been) (VP (VBG saying) (NP (PDT all) (DT this) (NN time))))))) (, ,) (NP (PRP you)) (VP (VBP know))))))))) (. !)))"
+33602,"(8,)",,[],X
+33602,"(9,)",So I 'm going to stop it .,"[So/IN, I/PRP, 'm/VBP, going/VBG, to/TO, stop/VB, it/PRP, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB stop) (NP (PRP it))))))) (. .)))
+33602,"(10,)",Well somebody 's gotta talk !,"[Well/RB, somebody/NN, 's/POS, gotta/NNP, talk/NN, !/.]",(ROOT (NP (NP (ADVP (RB Well)) (NP (NP (NN somebody) (POS 's)) (NNP gotta) (NN talk))) (. !)))
+33602,"(11,)", I want that voucher anyway   !,"[I/PRP, want/VBP, that/IN, voucher/NN, anyway/RB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP want) (PP (IN that) (NP (NN voucher))) (ADVP (RB anyway))) (. !)))
+33602,"(12,)",Oh you want that,"[Oh/UH, you/PRP, want/VBP, that/IN]",(ROOT (SBAR (UH Oh) (S (NP (PRP you)) (VP (VBP want) (ADVP (IN that))))))
+33602,"(13,)",,[],X
+33602,"(14,)",yeah .,"[yeah/UH, ./.]",(ROOT (INTJ (UH yeah) (. .)))
+33602,"(15,)",Ooh you,"[Ooh/NNP, you/PRP]",(ROOT (FRAG (NP (NNP Ooh)) (NP (PRP you))))
+33602,"(16,)",If I 'm doing,"[If/IN, I/PRP, 'm/VBP, doing/VBG]",(ROOT (SBAR (IN If) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing))))))
+33602,"(17,)",you,[you/PRP],(ROOT (FRAG (NP (PRP you))))
+33602,"(18,)",all the work for,"[all/PDT, the/DT, work/NN, for/IN]",(ROOT (NP (NP (PDT all) (DT the) (NN work)) (PP (IN for))))
+33602,"(19,)",you,[you/PRP],(ROOT (FRAG (NP (PRP you))))
+33602,"(20,)",it !,"[it/PRP, !/.]",(ROOT (FRAG (NP (PRP it)) (. !)))
+33602,"(21,)",gold digger !,"[gold/NN, digger/NN, !/.]",(ROOT (FRAG (NP (NN gold) (NN digger)) (. !)))
+33602,"(22,)",Yeah !,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
+33602,"(23,)","I know , terrible innit ?","[I/PRP, know/VBP, ,/,, terrible/JJ, innit/NN, ?/.]","(ROOT (UCP (S (NP (PRP I)) (VP (VBP know))) (, ,) (NP (JJ terrible) (NN innit)) (. ?)))"
+33602,"(24,)","I don 't really , to be honest .","[I/PRP, don/VBP, 't/PRP, really/RB, ,/,, to/TO, be/VB, honest/JJ, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (ADVP (RB really)) (, ,) (S (VP (TO to) (VP (VB be) (ADJP (JJ honest)))))) (. .)))"
+33602,"(25, 26)","Mum said  she said , ooh she said tell Carl to put that towards a new suit for himself .","[Mum/NN, said/VBD, she/PRP, said/VBD, ,/,, ooh/NNP, she/PRP, said/VBD, tell/VB, Carl/NNP, to/TO, put/VB, that/DT, towards/IN, a/DT, new/JJ, suit/NN, for/IN, himself/PRP, ./.]","(ROOT (S (S (NP (NN Mum)) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (VBD said)))))) (, ,) (NP (NNP ooh) (PRP she)) (VP (VBD said) (VP (VB tell) (S (NP (NNP Carl)) (VP (TO to) (VP (VB put) (NP (NP (DT that)) (PP (IN towards) (NP (NP (DT a) (JJ new) (NN suit)) (PP (IN for) (NP (PRP himself))))))))))) (. .)))"
+33602,"(27,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+33602,"(28,)",That money .,"[That/DT, money/NN, ./.]",(ROOT (NP (DT That) (NN money) (. .)))
+33602,"(29,)",Wouldn 't buy,"[Wouldn/NNP, 't/PRP, buy/VB]",(ROOT (FRAG (NP (NP (NNP Wouldn)) (SBAR (S (NP (PRP 't)) (VP (VB buy)))))))
+33602,"(30,)",,[],X
+33602,"(31,)", an arm and a leg   !,"[an/DT, arm/NN, and/CC, a/DT, leg/NN, !/.]",(ROOT (NP (NP (NP (DT an) (NN arm)) (CC and) (NP (DT a) (NN leg))) (. !)))
+33602,"(32,)",  and I 'll buy Marks,"[and/CC, I/PRP, 'll/MD, buy/VB, Marks/NNS]",(ROOT (PRN (CC and) (S (NP (PRP I)) (VP (MD 'll) (VP (VB buy) (NP (NNS Marks)))))))
+33602,"(33,)", One,[One/CD],(ROOT (FRAG (NP (CD One))))
+33602,"(34,)",and Spencer  !,"[and/CC, Spencer/NNP, !/.]",(ROOT (FRAG (PP (CC and) (NP (NNP Spencer))) (. !)))
+33602,"(35,)","one , one trouser leg and","[one/CD, ,/,, one/CD, trouser/NN, leg/NN, and/CC]","(ROOT (NP (NP (NP (CD one)) (, ,) (NP (CD one) (NN trouser))) (NP (NP (NN leg)) (ADVP (CC and)))))"
+33602,"(36,)","No , she said Marks and Spencer do nice su-  , actually dad got a nice suit from Marks .","[No/DT, ,/,, she/PRP, said/VBD, Marks/NNS, and/CC, Spencer/NNP, do/VBP, nice/JJ, su-/NN, ,/,, actually/RB, dad/NNP, got/VBD, a/DT, nice/JJ, suit/NN, from/IN, Marks/NNS, ./.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP she)) (VP (VBD said) (SBAR (S (NP (NP (NNS Marks)) (CC and) (NP (NNP Spencer))) (VP (VBP do) (NP (JJ nice) (NN su-))))))) (, ,)) (ADVP (RB actually)) (NP (NNP dad)) (VP (VBD got) (NP (DT a) (JJ nice) (NN suit)) (PP (IN from) (NP (NNS Marks)))) (. .)))"
+33602,"(37,)",Not for twenty five you didn 't !,"[Not/RB, for/IN, twenty/CD, five/CD, you/PRP, didn/VBP, 't/PRP, !/.]",(ROOT (S (RB Not) (PP (IN for) (NP (CD twenty) (CD five))) (NP (PRP you)) (VP (VBP didn) (NP (PRP 't))) (. !)))
+33602,"(38,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+33602,"(39,)",He did !,"[He/PRP, did/VBD, !/.]",(ROOT (S (NP (PRP He)) (VP (VBD did)) (. !)))
+33602,"(40,)","You can ask him , he had , he had mum 's","[You/PRP, can/MD, ask/VB, him/PRP, ,/,, he/PRP, had/VBD, ,/,, he/PRP, had/VBD, mum/NN, 's/POS]","(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB ask) (SBAR (S (NP (PRP him)) (PRN (, ,) (S (NP (PRP he)) (VP (VBD had))) (, ,)) (NP (PRP he)) (VP (VBD had) (NP (NN mum)) (S (NP (POS 's))))))))))"
+33602,"(41,)",Alright .,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
+33602,"(42, 43)",like you know  what she get,"[like/IN, you/PRP, know/VBP, what/WP, she/PRP, get/VB]",(ROOT (SBAR (IN like) (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP she)) (VP (VB get))))))))
+33602,"(44,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+33602,"(45,)",when,[when/WRB],(ROOT (FRAG (WHADVP (WRB when))))
+33602,"(46,)",Discount ?,"[Discount/NN, ?/.]",(ROOT (FRAG (NP (NN Discount)) (. ?)))
+33602,"(47,)","Yeah , that 's the word .","[Yeah/UH, ,/,, that/DT, 's/VBZ, the/DT, word/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN word))) (. .)))"
+33602,"(48, 49)","Wha-  , when she , when she leave  well he had that , plus another twenty five pound voucher and he , he ended up with a seventy five pound suit for twenty five pound !","[Wha-/NN, ,/,, when/WRB, she/PRP, ,/,, when/WRB, she/PRP, leave/VBP, well/RB, he/PRP, had/VBD, that/IN, ,/,, plus/CC, another/DT, twenty/CD, five/CD, pound/NN, voucher/NN, and/CC, he/PRP, ,/,, he/PRP, ended/VBD, up/RP, with/IN, a/DT, seventy/CD, five/CD, pound/NN, suit/NN, for/IN, twenty/CD, five/CD, pound/NN, !/.]","(ROOT (FRAG (NP (NN Wha-)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NP (PRP she)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBP leave) (ADVP (RB well)) (NP (PRP he)))))) (VP (VBD had) (SBAR (IN that) (S (PRN (, ,) (PP (CC plus) (NP (NP (DT another) (ADJP (CD twenty) (CD five)) (NN pound) (NN voucher)) (CC and) (NP (PRP he)))) (, ,)) (NP (PRP he)) (VP (VBD ended) (PRT (RP up)) (PP (IN with) (NP (NP (DT a) (ADJP (QP (CD seventy) (CD five))) (NN pound) (NN suit)) (PP (IN for) (NP (NP (CD twenty)) (NP (CD five) (NN pound)))))))))))) (. !)))"
+33602,"(50,)","You ask him to show it to you , on Monday when we go across .","[You/PRP, ask/VBP, him/PRP, to/TO, show/VB, it/PRP, to/TO, you/PRP, ,/,, on/IN, Monday/NNP, when/WRB, we/PRP, go/VBP, across/IN, ./.]","(ROOT (S (NP (PRP You)) (VP (VBP ask) (S (NP (PRP him)) (VP (TO to) (VP (VB show) (NP (PRP it)) (PP (TO to) (NP (PRP you))) (, ,) (PP (IN on) (NP (NP (NNP Monday)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP go) (ADVP (IN across))))))))))) (. .)))"
+33602,"(51,)",It won 't fit me though .,"[It/PRP, won/VBD, 't/PRP, fit/VB, me/PRP, though/IN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB fit) (S (NP (PRP me)) (ADJP (IN though)))))) (. .)))
+33602,"(52, 53)","No , not your style , what I 'm saying is , yes you can do it  turn that damn thing off !","[No/DT, ,/,, not/RB, your/PRP$, style/NN, ,/,, what/WP, I/PRP, 'm/VBP, saying/VBG, is/VBZ, ,/,, yes/UH, you/PRP, can/MD, do/VB, it/PRP, turn/VB, that/DT, damn/JJ, thing/NN, off/IN, !/.]","(ROOT (S (NP (NP (DT No)) (, ,) (RB not) (NP (NP (PRP$ your) (NN style)) (, ,) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG saying))))))) (VP (VBZ is) (, ,) (SBAR (S (INTJ (UH yes)) (NP (PRP you)) (VP (MD can) (VP (VB do) (S (NP (PRP it)) (VP (VB turn) (NP (DT that) (JJ damn) (NN thing)) (PRT (IN off))))))))) (. !)))"
+33602,"(54,)",Mm !,"[Mm/NN, !/.]",(ROOT (NP (NN Mm) (. !)))

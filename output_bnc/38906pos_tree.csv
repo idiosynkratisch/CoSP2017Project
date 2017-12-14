@@ -1,0 +1,5 @@
+38906,"(0,)",Is this the pairs ?,"[Is/VBZ, this/DT, the/DT, pairs/NNS, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT this)) (NP (DT the) (NNS pairs)) (. ?)))
+38906,"(1, 2)","He 's playing with er  oh no it 's not , it 's not it 's singles .","[He/PRP, 's/VBZ, playing/VBG, with/IN, er/NN, oh/UH, no/DT, it/PRP, 's/VBZ, not/RB, ,/,, it/PRP, 's/VBZ, not/RB, it/PRP, 's/VBZ, singles/NNS, ./.]","(ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG playing) (PP (IN with) (NP (NP (NN er)) (SBAR (S (INTJ (UH oh)) (NP (DT no) (PRP it)) (VP (VBZ 's) (RB not))))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (SBAR (RB not) (S (NP (PRP it)) (VP (VBZ 's) (NP (NNS singles)))))) (. .)))"
+38906,"(3,)",Oh does he usually with the chair ?,"[Oh/UH, does/VBZ, he/PRP, usually/RB, with/IN, the/DT, chair/NN, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VP (VBZ does) (NP (PRP he)) (ADVP (RB usually)) (PP (IN with) (NP (DT the) (NN chair))))) (. ?)))
+38906,"(4,)", Oh yeah   .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+38906,"(5,)",Well this is   .,"[Well/RB, this/DT, is/VBZ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (DT this)) (VP (VBZ is)) (. .)))

@@ -1,0 +1,44 @@
+45709,"(0,)",Here .,"[Here/RB, ./.]",(ROOT (FRAG (ADVP (RB Here)) (. .)))
+45709,"(1,)",Take your time with that .,"[Take/VB, your/PRP$, time/NN, with/IN, that/DT, ./.]",(ROOT (S (VP (VB Take) (NP (PRP$ your) (NN time)) (PP (IN with) (NP (DT that)))) (. .)))
+45709,"(2,)",Give me a cigarette there Jean ?,"[Give/VB, me/PRP, a/DT, cigarette/NN, there/RB, Jean/NNP, ?/.]",(ROOT (SQ (VP (VB Give) (NP (PRP me)) (ADVP (NP (DT a) (NN cigarette)) (RB there)) (NP (NNP Jean))) (. ?)))
+45709,"(3,)",Bloody matches !,"[Bloody/JJ, matches/NNS, !/.]",(ROOT (FRAG (NP (JJ Bloody) (NNS matches)) (. !)))
+45709,"(4,)", I can 't drink without lighting a cigarette .,"[I/PRP, can/MD, 't/PRP, drink/VB, without/IN, lighting/VBG, a/DT, cigarette/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB drink) (PP (IN without) (S (VP (VBG lighting) (NP (DT a) (NN cigarette)))))))) (. .)))
+45709,"(5,)",You can 't drink without a cigarette ?,"[You/PRP, can/MD, 't/PRP, drink/VB, without/IN, a/DT, cigarette/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD can) (NP (PRP 't)) (S (VP (VB drink) (PP (IN without) (NP (DT a) (NN cigarette)))))) (. ?)))
+45709,"(6,)","Sometimes , yeah .","[Sometimes/RB, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (RB Sometimes)) (, ,) (INTJ (UH yeah) (. .))))"
+45709,"(7,)","Yeah , I know .","[Yeah/UH, ,/,, I/PRP, know/VBP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBP know)) (. .)))"
+45709,"(8,)",Here .,"[Here/RB, ./.]",(ROOT (FRAG (ADVP (RB Here)) (. .)))
+45709,"(9,)",Right dog !,"[Right/JJ, dog/NN, !/.]",(ROOT (NP (JJ Right) (NN dog) (. !)))
+45709,"(10,)",Good dog !,"[Good/JJ, dog/NN, !/.]",(ROOT (INTJ (JJ Good) (NN dog) (. !)))
+45709,"(11, 12)",Who 's in that bar in the Rosie erm  who do you see ?,"[Who/WP, 's/VBZ, in/IN, that/DT, bar/NN, in/IN, the/DT, Rosie/NNP, erm/NNP, who/WP, do/VBP, you/PRP, see/VB, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (PP (IN in) (NP (NP (DT that) (NN bar)) (PP (IN in) (NP (DT the) (NNP Rosie) (NNP erm))) (SBAR (WHNP (WP who)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB see))))))))) (. ?)))
+45709,"(13,)",You 'll see the girls .,"[You/PRP, 'll/MD, see/VB, the/DT, girls/NNS, ./.]",(ROOT (S (NP (PRP You)) (VP (MD 'll) (VP (VB see) (NP (DT the) (NNS girls)))) (. .)))
+45709,"(14, 15)","If they did report a rape and they 'd told him  the woman opposite , at the top last night er , next week come back .","[If/IN, they/PRP, did/VBD, report/VB, a/DT, rape/NN, and/CC, they/PRP, 'd/MD, told/VBD, him/PRP, the/DT, woman/NN, opposite/NN, ,/,, at/IN, the/DT, top/NN, last/JJ, night/NN, er/NN, ,/,, next/JJ, week/NN, come/VBN, back/RB, ./.]","(ROOT (S (SBAR (IN If) (S (S (NP (PRP they)) (VP (VBD did) (VP (VB report) (NP (DT a) (NN rape))))) (CC and) (S (NP (PRP they)) (VP (MD 'd))))) (VP (VBD told) (S (NP (PRP him)) (NP (DT the) (NN woman) (NN opposite))) (, ,) (PP (IN at) (NP (NP (DT the) (NN top) (JJ last) (NN night) (NN er)) (, ,) (NP (NP (JJ next) (NN week)) (VP (VBN come) (ADVP (RB back))))))) (. .)))"
+45709,"(16,)",Their walkie talkies break down !,"[Their/PRP$, walkie/NNP, talkies/NNS, break/VBP, down/RP, !/.]",(ROOT (S (NP (PRP$ Their) (NNP walkie) (NNS talkies)) (VP (VBP break) (PRT (RP down))) (. !)))
+45709,"(17,)",Their cars break down !,"[Their/PRP$, cars/NNS, break/VBP, down/RP, !/.]",(ROOT (S (NP (PRP$ Their) (NNS cars)) (VP (VBP break) (PRT (RP down))) (. !)))
+45709,"(18,)",She must be   .,"[She/PRP, must/MD, be/VB, ./.]",(ROOT (S (NP (PRP She)) (VP (MD must) (VP (VB be))) (. .)))
+45709,"(19, 20)", She 's been   crying all night really .,"[She/PRP, 's/VBZ, been/VBN, crying/VBG, all/DT, night/NN, really/RB, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBN been) (VP (VBG crying) (NP (DT all) (NN night)) (ADVP (RB really))))) (. .)))
+45709,"(21,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+45709,"(22,)", arrest him he just kept saying things .,"[arrest/VB, him/PRP, he/PRP, just/RB, kept/VBD, saying/VBG, things/NNS, ./.]",(ROOT (S (VP (VB arrest) (NP (PRP him)) (SBAR (S (NP (PRP he)) (ADVP (RB just)) (VP (VBD kept) (S (VP (VBG saying) (NP (NNS things)))))))) (. .)))
+45709,"(23,)",Need more than that .,"[Need/VB, more/JJR, than/IN, that/DT, ./.]",(ROOT (S (VP (VB Need) (NP (JJR more)) (PP (IN than) (NP (DT that)))) (. .)))
+45709,"(24,)",Not really .,"[Not/RB, really/RB, ./.]",(ROOT (FRAG (RB Not) (ADVP (RB really) (. .))))
+45709,"(25,)",Not once you 're in the  ,"[Not/RB, once/RB, you/PRP, 're/VBP, in/IN, the/DT]",(ROOT (FRAG (NP (NP (RB Not) (RB once)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (IN in) (NP (DT the)))))))))
+45709,"(26,)",How much would you need ,"[How/WRB, much/RB, would/MD, you/PRP, need/VB]",(ROOT (SBARQ (WHADJP (WRB How) (RB much)) (SQ (MD would) (NP (PRP you)) (VP (VB need)))))
+45709,"(27,)",I know !,"[I/PRP, know/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. !)))
+45709,"(28,)",But you 're not gonna do   the other times .,"[But/CC, you/PRP, 're/VBP, not/RB, gonna/NN, do/VBP, the/DT, other/JJ, times/NNS, ./.]",(ROOT (S (CC But) (NP (PRP you)) (VP (VBP 're) (RB not) (NP (NP (NN gonna)) (SBAR (S (VP (VBP do) (NP (DT the) (JJ other) (NNS times))))))) (. .)))
+45709,"(29,)",You 're gonna be away .,"[You/PRP, 're/VBP, gonna/NNP, be/VB, away/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (S (NP (NNP gonna)) (VP (VB be) (ADVP (RB away))))) (. .)))
+45709,"(30,)","Well see , they 're twenty to   three , right ?","[Well/RB, see/VB, ,/,, they/PRP, 're/VBP, twenty/CD, to/TO, three/CD, ,/,, right/RB, ?/.]","(ROOT (S (S (ADVP (RB Well)) (VP (VB see))) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (CD twenty) (PP (TO to) (NP (CD three)))) (, ,) (ADVP (RB right))) (. ?)))"
+45709,"(31, 32)","Well  not especially , you can get a lot of them made .","[Well/RB, not/RB, especially/RB, ,/,, you/PRP, can/MD, get/VB, a/DT, lot/NN, of/IN, them/PRP, made/VBD, ./.]","(ROOT (S (NP (ADVP (RB Well)) (RB not) (RB especially)) (PRN (, ,) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (PRP them)))))))) (VP (VBD made)) (. .)))"
+45709,"(33,)","No , no , no .","[No/DT, ,/,, no/DT, ,/,, no/DT, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NP (DT no)) (, ,) (NP (DT no))) (. .)))"
+45709,"(34,)",I need to give him one .,"[I/PRP, need/VBP, to/TO, give/VB, him/PRP, one/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP need) (S (VP (TO to) (VP (VB give) (NP (PRP him)) (NP (CD one)))))) (. .)))
+45709,"(35,)",Well that 'll leave three !,"[Well/RB, that/IN, 'll/MD, leave/VB, three/CD, !/.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (MD 'll) (VP (VB leave) (NP (CD three)))))) (. !)))
+45709,"(36,)",Aye .,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
+45709,"(37,)",One for ,"[One/CD, for/IN]",(ROOT (FRAG (NP (CD One)) (PP (IN for))))
+45709,"(38,)",,[],X
+45709,"(39,)",Who ?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+45709,"(40,)",Well that 's a terrible thing !,"[Well/RB, that/DT, 's/VBZ, a/DT, terrible/JJ, thing/NN, !/.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ terrible) (NN thing))) (. !)))
+45709,"(41,)",Oh aye !,"[Oh/UH, aye/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP aye)))) (. !)))
+45709,"(42,)",And then   .,"[And/CC, then/RB, ./.]",(ROOT (FRAG (CC And) (ADVP (RB then)) (. .)))
+45709,"(43,)",Some you gave me wi- when I changed .,"[Some/DT, you/PRP, gave/VBD, me/PRP, wi-/NN, when/WRB, I/PRP, changed/VBD, ./.]",(ROOT (S (NP (DT Some) (PRP you)) (VP (VBD gave) (NP (PRP me)) (NP (NP (NN wi-)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD changed)))))) (. .)))
+45709,"(44,)",It was very nice .,"[It/PRP, was/VBD, very/RB, nice/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (RB very) (JJ nice))) (. .)))
+45709,"(45,)",And people were remonsta- demonstrating towards a plea .,"[And/CC, people/NNS, were/VBD, remonsta-/JJ, demonstrating/VBG, towards/IN, a/DT, plea/NN, ./.]",(ROOT (S (CC And) (NP (NNS people)) (VP (VBD were) (ADJP (JJ remonsta-) (S (VP (VBG demonstrating) (PP (IN towards) (NP (DT a) (NN plea))))))) (. .)))
+45709,"(46,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+45709,"(47,)","I saw the fella , no , he 's in your mind .","[I/PRP, saw/VBD, the/DT, fella/NN, ,/,, no/DT, ,/,, he/PRP, 's/VBZ, in/IN, your/PRP$, mind/NN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD saw) (NP (NP (DT the) (NN fella)) (, ,) (NP (DT no))))) (, ,) (NP (PRP he)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN mind)))) (. .)))"

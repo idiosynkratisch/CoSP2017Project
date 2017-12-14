@@ -1,0 +1,9 @@
+52010,"(0,)",It 's not doing anything .,"[It/PRP, 's/VBZ, not/RB, doing/VBG, anything/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VBG doing) (NP (NN anything)))) (. .)))
+52010,"(1,)",Is it the right way round ?,"[Is/VBZ, it/PRP, the/DT, right/JJ, way/NN, round/NN, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (DT the) (JJ right) (NN way) (NN round)) (. ?)))
+52010,"(2,)",The light 's not on .,"[The/DT, light/NN, 's/POS, not/RB, on/IN, ./.]",(ROOT (NP (NP (DT The) (NP (NN light) (POS 's))) (ADJP (RB not) (PP (IN on))) (. .)))
+52010,"(3,)","Oh , the light","[Oh/UH, ,/,, the/DT, light/NN]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (NP (DT the) (NN light))))"
+52010,"(4,)",It is !,"[It/PRP, is/VBZ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ is)) (. !)))
+52010,"(5,)",is on .,"[is/VBZ, on/IN, ./.]",(ROOT (S (VP (VBZ is) (PP (IN on))) (. .)))
+52010,"(6,)",,[],X
+52010,"(7,)",Wait a minute then .,"[Wait/VB, a/DT, minute/NN, then/RB, ./.]",(ROOT (S (VP (VB Wait) (NP (DT a) (NN minute)) (ADVP (RB then))) (. .)))
+52010,"(8,)",Tell me in a bit Emma .,"[Tell/VB, me/PRP, in/IN, a/DT, bit/NN, Emma/NNP, ./.]",(ROOT (S (VP (VB Tell) (NP (PRP me)) (PP (IN in) (NP (DT a) (NN bit) (NNP Emma)))) (. .)))

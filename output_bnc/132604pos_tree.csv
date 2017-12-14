@@ -1,0 +1,4 @@
+132604,"(0,)", I 'm going   .,"[I/PRP, 'm/VBP, going/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going))) (. .)))
+132604,"(1,)",,[],X
+132604,"(2,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+132604,"(3, 4)","I 'm going , you lot are  you lot are mad !","[I/PRP, 'm/VBP, going/VBG, ,/,, you/PRP, lot/RB, are/VBP, you/PRP, lot/NN, are/VBP, mad/JJ, !/.]","(ROOT (S (NP (PRP I)) (VP (VP (VBP 'm) (VP (VBG going))) (, ,) (NP (NP (NP (PRP you)) (RB lot) (SBAR (S (VP (VBP are) (NP (PRP you)))))) (SBAR (S (NP (NN lot)) (VP (VBP are) (ADJP (JJ mad))))))) (. !)))"

@@ -1,0 +1,33 @@
+13101,"(0,)",Its got a bloody tape counter on it,"[Its/PRP$, got/VBD, a/DT, bloody/JJ, tape/NN, counter/NN, on/IN, it/PRP]",(ROOT (S (NP (PRP$ Its)) (VP (VBD got) (NP (DT a) (JJ bloody) (NN tape) (NN counter)) (PP (IN on) (NP (PRP it))))))
+13101,"(1,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+13101,"(2,)",Its right in it ?,"[Its/PRP$, right/NN, in/IN, it/PRP, ?/.]",(ROOT (NP (NP (PRP$ Its) (NN right)) (PP (IN in) (NP (PRP it))) (. ?)))
+13101,"(3,)",Fuck off .,"[Fuck/VB, off/RP, ./.]",(ROOT (S (VP (VB Fuck) (PRT (RP off))) (. .)))
+13101,"(4,)","Yeah , got a bag   super bag ,","[Yeah/UH, ,/,, got/VBD, a/DT, bag/NN, super/JJ, bag/NN, ,/,]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (PP (VBD got) (NP (NP (DT a) (NN bag) (JJ super) (NN bag)) (, ,)))))"
+13101,"(5,)","What 's a super bag , super bag ","[What/WP, 's/VBZ, a/DT, super/JJ, bag/NN, ,/,, super/NNP, bag/NN]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT a) (JJ super) (NN bag)) (, ,) (NP (NNP super) (NN bag))))))"
+13101,"(6,)","Crime heads , of yes it has","[Crime/NN, heads/NNS, ,/,, of/IN, yes/RB, it/PRP, has/VBZ]","(ROOT (NP (NP (NN Crime) (NNS heads)) (, ,) (PP (IN of) (NP (NP (RB yes)) (SBAR (S (NP (PRP it)) (VP (VBZ has))))))))"
+13101,"(7,)",Super bag   its ,"[Super/NNP, bag/NN, its/PRP$]",(ROOT (NP (NP (NNP Super)) (NP (NN bag)) (NP (PRP$ its))))
+13101,"(8,)",Ah ?,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
+13101,"(9,)",The old tape ,"[The/DT, old/JJ, tape/NN]",(ROOT (FRAG (NP (DT The) (JJ old) (NN tape))))
+13101,"(10,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+13101,"(11,)","Oh , cos , they want   recording I suppose .","[Oh/UH, ,/,, cos/NN, ,/,, they/PRP, want/VBP, recording/VBG, I/PRP, suppose/VB, ./.]","(ROOT (S (FRAG (INTJ (UH Oh)) (, ,) (NP (NN cos))) (, ,) (NP (PRP they)) (VP (VBP want) (S (VP (VBG recording) (S (NP (PRP I)) (VP (VB suppose)))))) (. .)))"
+13101,"(12,)","Testing one , two , one , two , yes and the voice ","[Testing/VBG, one/CD, ,/,, two/CD, ,/,, one/CD, ,/,, two/CD, ,/,, yes/RB, and/CC, the/DT, voice/NNP]","(ROOT (S (VP (VBG Testing) (NP (NP (CD one)) (, ,) (NP (CD two)) (, ,) (NP (CD one)) (, ,) (NP (CD two)) (, ,) (NP (RB yes)) (CC and) (NP (DT the) (NNP voice))))))"
+13101,"(13,)",,[],X
+13101,"(14,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+13101,"(15,)","and it picks up here , the erm , tannoy ","[and/CC, it/PRP, picks/VBZ, up/RP, here/RB, ,/,, the/DT, erm/NN, ,/,, tannoy/NNP]","(ROOT (PRN (CC and) (S (NP (PRP it)) (VP (VBZ picks) (PRT (RP up)) (NP (NP (RB here)) (, ,) (NP (NP (DT the) (NN erm)) (, ,) (NP (NNP tannoy))))))))"
+13101,"(16,)",,[],X
+13101,"(17,)",,[],X
+13101,"(18,)"," It 's not unusual oh to be loved by anyone , da , da , da , da , da , da , its not unusual oh to be loved by anyone ","[It/PRP, 's/VBZ, not/RB, unusual/JJ, oh/NN, to/TO, be/VB, loved/VBN, by/IN, anyone/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, its/PRP$, not/RB, unusual/JJ, oh/NN, to/TO, be/VB, loved/VBN, by/IN, anyone/NN]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (JJ unusual) (NN oh) (S (VP (TO to) (VP (VB be) (VP (VBN loved) (PP (IN by) (NP (NP (NN anyone) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da)) (, ,) (NP (PRP$ its) (ADJP (RB not) (JJ unusual)) (NN oh)))) (S (VP (TO to) (VP (VB be) (VP (VBN loved) (PP (IN by) (NP (NN anyone)))))))))))))))"
+13101,"(19,)",Did you see that ?,"[Did/VBD, you/PRP, see/VBP, that/IN, ?/.]",(ROOT (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VBP see) (ADVP (IN that)))))) (. ?)))
+13101,"(20,)",Ah ?,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
+13101,"(21,)",Did you see,"[Did/VBD, you/PRP, see/VB]",(ROOT (SINV (VP (VBD Did) (NP (PRP you))) (NP (VB see))))
+13101,"(22, 23)","No , no  if I ","[No/DT, ,/,, no/DT, if/IN, I/PRP]","(ROOT (NP (NP (NP (DT No)) (, ,) (ADVP (DT no) (IN if))) (NP (PRP I))))"
+13101,"(24,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+13101,"(25,)",What was the chicken like mate ?,"[What/WP, was/VBD, the/DT, chicken/NN, like/IN, mate/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (NP (DT the) (NN chicken)) (PP (IN like) (NP (NN mate))))) (. ?)))
+13101,"(26,)",Well it put me off a little bit  ,"[Well/RB, it/PRP, put/VBD, me/PRP, off/RP, a/DT, little/JJ, bit/NN]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP it)) (SBAR (S (VP (VBD put) (NP (PRP me)) (PP (RP off) (NP (DT a) (JJ little) (NN bit)))))))))
+13101,"(27,)",,[],X
+13101,"(28,)",Just like you ,"[Just/RB, like/IN, you/PRP]",(ROOT (PP (RB Just) (IN like) (NP (PRP you))))
+13101,"(29,)","  , yeah man ","[,/,, yeah/UH, man/NN]","(ROOT (FRAG (, ,) (NP (UH yeah) (NN man))))"
+13101,"(30,)", all over the   a bit .,"[all/DT, over/IN, the/DT, a/DT, bit/NN, ./.]",(ROOT (NP (NP (DT all)) (PP (IN over) (NP (DT the) (DT a) (NN bit))) (. .)))
+13101,"(31,)",,[],X
+13101,"(32,)",,[],X
+13101,"(33,)","You know your , he don 't love   .","[You/PRP, know/VBP, your/PRP$, ,/,, he/PRP, don/VBP, 't/PRP, love/VB, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP$ your)))) (, ,) (NP (PRP he)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB love)))) (. .)))"

@@ -1,0 +1,8 @@
+413,"(0,)","Mushroom roll on brown , apple juice , cheese    .","[Mushroom/NN, roll/NN, on/IN, brown/NNP, ,/,, apple/NNP, juice/NN, ,/,, cheese/NN, ./.]","(ROOT (NP (NP (NN Mushroom) (NN roll)) (PP (IN on) (NP (NNP brown))) (, ,) (NP (NNP apple) (NN juice)) (, ,) (NP (NN cheese)) (. .)))"
+413,"(1,)",Brown toast with what ?,"[Brown/NNP, toast/NN, with/IN, what/WP, ?/.]",(ROOT (FRAG (WHNP (NP (NNP Brown) (NN toast)) (WHPP (IN with) (WHNP (WP what)))) (. ?)))
+413,"(2,)", . Mushroom roll on brown .,"[./., Mushroom/NN, roll/NN, on/IN, brown/NNP, ./.]",(ROOT (NP (NP (. .) (NN Mushroom) (NN roll)) (PP (IN on) (NP (NNP brown))) (. .)))
+413,"(3,)",Just mushroom roll   .,"[Just/RB, mushroom/NN, roll/NN, ./.]",(ROOT (FRAG (ADVP (RB Just)) (NP (NN mushroom) (NN roll)) (. .)))
+413,"(4,)","Mushroom roll , cheese roll , juice and porridge .","[Mushroom/NN, roll/NN, ,/,, cheese/NN, roll/NN, ,/,, juice/NN, and/CC, porridge/NN, ./.]","(ROOT (NP (NP (NN Mushroom) (NN roll)) (, ,) (NP (NP (NN cheese) (NN roll)) (, ,) (NP (NN juice)) (CC and) (NP (NN porridge))) (. .)))"
+413,"(5,)",  .,[./.],(ROOT (NP (. .)))
+413,"(6,)","That 's one , eight , five .","[That/DT, 's/VBZ, one/CD, ,/,, eight/CD, ,/,, five/CD, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (CD one)) (, ,) (NP (NP (CD eight)) (, ,) (NP (CD five))))) (. .)))"
+413,"(7,)","And Beef roll , bacon and mushroom toasted sandwiches , right .","[And/CC, Beef/NN, roll/NN, ,/,, bacon/NNP, and/CC, mushroom/NN, toasted/VBD, sandwiches/NNS, ,/,, right/RB, ./.]","(ROOT (S (CC And) (NP (NP (NN Beef) (NN roll)) (, ,) (NP (NNP bacon)) (CC and) (NP (NN mushroom))) (VP (VBD toasted) (NP (NNS sandwiches)) (, ,) (ADVP (RB right))) (. .)))"

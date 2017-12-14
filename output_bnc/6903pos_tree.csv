@@ -1,0 +1,20 @@
+6903,"(0,)",Oliver please don 't do that to the flowers .,"[Oliver/NNP, please/VB, don/NNP, 't/PRP, do/VBP, that/DT, to/TO, the/DT, flowers/NNS, ./.]",(ROOT (S (NP (NNP Oliver)) (VP (VB please) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP do) (NP (DT that)) (PP (TO to) (NP (DT the) (NNS flowers)))))))) (. .)))
+6903,"(1,)",No ,[No/DT],(ROOT (FRAG (NP (DT No))))
+6903,"(2,)",No I don 't want you to do anything like that to the flowers at all .,"[No/DT, I/PRP, don/VBP, 't/PRP, want/VB, you/PRP, to/TO, do/VB, anything/NN, like/IN, that/DT, to/TO, the/DT, flowers/NNS, at/IN, all/DT, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (S (NP (PRP you)) (VP (TO to) (VP (VB do) (NP (NN anything)) (PP (IN like) (NP (NP (DT that)) (PP (TO to) (NP (DT the) (NNS flowers))))) (ADVP (IN at) (DT all)))))))) (. .)))
+6903,"(3,)",,[],X
+6903,"(4,)",Well I 'm sure they don 't like you if you keep bashing them .,"[Well/RB, I/PRP, 'm/VBP, sure/JJ, they/PRP, don/VBP, 't/PRP, like/IN, you/PRP, if/IN, you/PRP, keep/VBP, bashing/VBG, them/PRP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (PRP they)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP you))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP keep) (S (VP (VBG bashing) (NP (PRP them)))))))))))) (. .)))
+6903,"(5,)","Quickly , in the car .","[Quickly/RB, ,/,, in/IN, the/DT, car/NN, ./.]","(ROOT (FRAG (ADVP (RB Quickly)) (, ,) (ADVP (IN in) (NP (DT the) (NN car))) (. .)))"
+6903,"(6,)",,[],X
+6903,"(7,)","Come on , in you get .","[Come/VB, on/RP, ,/,, in/IN, you/PRP, get/VBP, ./.]","(ROOT (S (VP (VB Come) (ADVP (RP on)) (, ,) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP get))))) (. .)))"
+6903,"(8,)",I make them dead .,"[I/PRP, make/VBP, them/PRP, dead/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP make) (S (NP (PRP them)) (ADJP (JJ dead)))) (. .)))
+6903,"(9,)","Come on , in you get .","[Come/VB, on/RP, ,/,, in/IN, you/PRP, get/VBP, ./.]","(ROOT (S (VP (VB Come) (ADVP (RP on)) (, ,) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP get))))) (. .)))"
+6903,"(10,)",I make them dead .,"[I/PRP, make/VBP, them/PRP, dead/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP make) (S (NP (PRP them)) (ADJP (JJ dead)))) (. .)))
+6903,"(11,)",Go up there further .,"[Go/VB, up/RP, there/EX, further/RBR, ./.]",(ROOT (S (VP (VB Go) (PRT (RP up)) (NP (NP (EX there)) (ADVP (RBR further)))) (. .)))
+6903,"(12,)",Mm ?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
+6903,"(13,)",Go up there further so that you can get in the car properly .,"[Go/VB, up/RP, there/EX, further/RBR, so/IN, that/IN, you/PRP, can/MD, get/VB, in/IN, the/DT, car/NN, properly/RB, ./.]",(ROOT (S (VP (VB Go) (PRT (RP up)) (NP (NP (EX there)) (ADVP (ADVP (RBR further)) (SBAR (IN so) (IN that) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (PP (IN in) (NP (DT the) (NN car))) (ADVP (RB properly))))))))) (. .)))
+6903,"(14,)","Go on , in you get .","[Go/VB, on/IN, ,/,, in/IN, you/PRP, get/VBP, ./.]","(ROOT (S (VP (VB Go) (PP (IN on)) (, ,) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP get))))) (. .)))"
+6903,"(15,)",I can 't .,"[I/PRP, can/MD, 't/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (VP (NP (PRP 't)))) (. .)))
+6903,"(16,)","Yes you can , pull the seat forward .","[Yes/UH, you/PRP, can/MD, ,/,, pull/VB, the/DT, seat/NN, forward/RB, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (VP (MD can)) (, ,) (S (VP (VB pull) (NP (DT the) (NN seat)) (ADVP (RB forward)))))) (. .)))"
+6903,"(17,)","Oh Oliver , go up there .","[Oh/UH, Oliver/NNP, ,/,, go/VB, up/RB, there/RB, ./.]","(ROOT (S (INTJ (UH Oh) (NNP Oliver)) (, ,) (VP (VB go) (ADVP (RB up) (RB there))) (. .)))"
+6903,"(18,)",  . Go on .,"[./., Go/VB, on/IN, ./.]",(ROOT (S (. .) (VP (VB Go) (PP (IN on))) (. .)))
+6903,"(19,)",Put this down and then maybe you 'll be able to get in .,"[Put/VB, this/DT, down/RB, and/CC, then/RB, maybe/RB, you/PRP, 'll/MD, be/VB, able/JJ, to/TO, get/VB, in/IN, ./.]",(ROOT (S (S (VP (VB Put) (ADVP (DT this) (RB down)))) (CC and) (S (ADVP (RB then)) (ADVP (RB maybe)) (NP (PRP you)) (VP (MD 'll) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB get) (PP (IN in))))))))) (. .)))

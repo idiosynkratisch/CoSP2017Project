@@ -1,0 +1,9 @@
+30506,"(0,)",How many K did he say ?,"[How/WRB, many/JJ, K/NN, did/VBD, he/PRP, say/VB, ?/.]",(ROOT (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NN K)) (SQ (VBD did) (NP (PRP he)) (VP (VB say))) (. ?)))
+30506,"(1,)",I 've no idea,"[I/PRP, 've/VBP, no/DT, idea/NN]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (NP (DT no) (NN idea)))))
+30506,"(2,)",A thousand ?,"[A/DT, thousand/CD, ?/.]",(ROOT (S (VP (NP (DT A) (NP (CD thousand)))) (. ?)))
+30506,"(3,)","I 've forgotten what he said now , something like ten K or something was it ?","[I/PRP, 've/VBP, forgotten/VBN, what/WP, he/PRP, said/VBD, now/RB, ,/,, something/NN, like/IN, ten/CD, K/NN, or/CC, something/NN, was/VBD, it/PRP, ?/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBN forgotten) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD said) (ADVP (RB now)))))))) (, ,) (NP (NP (NN something)) (PP (IN like) (NP (NP (CD ten) (NN K)) (CC or) (NP (NN something))))) (VP (VBD was) (NP (PRP it))) (. ?)))"
+30506,"(4,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+30506,"(5, 6)",Can I have this please ?thank you,"[Can/MD, I/PRP, have/VB, this/DT, please/VB, ?thank/VB, you/PRP]",(ROOT (SINV (MD Can) (NP (PRP I)) (VP (VB have) (S (NP (DT this)) (VP (VB please) (VP (VB ?thank) (NP (PRP you))))))))
+30506,"(7,)",,[],X
+30506,"(8,)","Lovely , right","[Lovely/JJ, ,/,, right/JJ]","(ROOT (ADJP (JJ Lovely) (, ,) (JJ right)))"
+30506,"(9,)",OK thank you,"[OK/JJ, thank/VB, you/PRP]",(ROOT (FRAG (ADJP (JJ OK)) (S (VP (VB thank) (NP (PRP you))))))

@@ -1,0 +1,49 @@
+64303,"(0,)",Great !,"[Great/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Great)) (. !)))
+64303,"(1,)",What is it ?,"[What/WP, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+64303,"(2,)",It 's an old ribbon .,"[It/PRP, 's/VBZ, an/DT, old/JJ, ribbon/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (JJ old) (NN ribbon))) (. .)))
+64303,"(3,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+64303,"(4,)",What 's on it ?,"[What/WP, 's/VBZ, on/IN, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (PP (IN on) (NP (PRP it)))) (. ?)))
+64303,"(5,)",I 'll have a look .,"[I/PRP, 'll/MD, have/VB, a/DT, look/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (DT a) (NN look)))) (. .)))
+64303,"(6, 7)"," Brewing up , yeah , no ?","[Brewing/NN, up/RB, ,/,, yeah/UH, ,/,, no/DT, ?/.]","(ROOT (FRAG (NP (NP (NN Brewing)) (NP (ADJP (ADJP (RB up)) (PRN (, ,) (INTJ (UH yeah)) (, ,))) (DT no))) (. ?)))"
+64303,"(8,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+64303,"(9,)","Brewing up , no ?","[Brewing/VBG, up/RP, ,/,, no/DT, ?/.]","(ROOT (S (VP (VBG Brewing) (ADVP (RP up)) (, ,) (ADVP (DT no))) (. ?)))"
+64303,"(10,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+64303,"(11, 12, 13)",The erm  you know that bottle of bleach in the cellar  was it bleach ?,"[The/DT, erm/NN, you/PRP, know/VBP, that/IN, bottle/NN, of/IN, bleach/NN, in/IN, the/DT, cellar/NN, was/VBD, it/PRP, bleach/NN, ?/.]",(ROOT (FRAG (NP (DT The) (NN erm) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (IN that) (S (NP (NP (NN bottle)) (PP (IN of) (NP (NP (NN bleach)) (PP (IN in) (NP (DT the) (NN cellar)))))) (VP (VBD was) (NP (PRP it) (NN bleach))))))))) (. ?)))
+64303,"(14,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+64303,"(15, 16)",Didn 't smell very strong  the top 's been off it .,"[Didn/NN, 't/PRP, smell/VBP, very/RB, strong/JJ, the/DT, top/NN, 's/POS, been/VBN, off/IN, it/PRP, ./.]",(ROOT (NP (NP (NP (NN Didn)) (SBAR (S (NP (PRP 't)) (VP (VBP smell) (ADJP (RB very) (JJ strong)) (S (NP (DT the) (NN top) (POS 's))))))) (VP (VBN been) (PP (IN off) (NP (PRP it)))) (. .)))
+64303,"(17,)","The top 's been , yeah .","[The/DT, top/NN, 's/POS, been/VBN, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (DT The) (NN top) (POS 's)) (VP (VBN been))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+64303,"(18,)","I just brought it up with some er , just in case cos we don 't , we don 't really wanna use that for like these .","[I/PRP, just/RB, brought/VBD, it/PRP, up/RP, with/IN, some/DT, er/NN, ,/,, just/RB, in/IN, case/NN, cos/NN, we/PRP, don/VBP, 't/PRP, ,/,, we/PRP, don/VBP, 't/PRP, really/RB, wanna/NNP, use/NN, that/WDT, for/IN, like/IN, these/DT, ./.]","(ROOT (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD brought) (NP (PRP it)) (PRT (RP up)) (PP (IN with) (NP (DT some) (NN er))) (, ,) (PP (RB just) (IN in) (NP (NP (NN case) (NN cos)) (SBAR (S (NP (PRP we)) (VP (VBP don) (NP (PRP 't))))))))) (, ,) (NP (PRP we)) (VP (VBP don) (S (NP (PRP 't)) (ADVP (RB really)) (PP (NP (NP (NNP wanna) (NN use)) (SBAR (WHNP (WDT that)))) (IN for))) (PP (IN like) (NP (DT these)))) (. .)))"
+64303,"(19,)",Not really .,"[Not/RB, really/RB, ./.]",(ROOT (FRAG (RB Not) (ADVP (RB really) (. .))))
+64303,"(20, 21, 22)",Er  I 've taken  all the rubbish down except for that long box in,"[Er/NN, I/PRP, 've/VBP, taken/VBN, all/PDT, the/DT, rubbish/JJ, down/RP, except/IN, for/IN, that/DT, long/JJ, box/NN, in/IN]",(ROOT (FRAG (NP (NP (NN Er)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN taken) (S (NP (PDT all) (DT the)) (ADJP (JJ rubbish) (ADVP (RP down)) (PP (IN except) (PP (IN for) (NP (DT that) (JJ long) (NN box)))) (PP (IN in)))))))))))
+64303,"(23,)",Do we wanna get any more of the empty cases out today ?,"[Do/VB, we/PRP, wanna/NNP, get/VB, any/DT, more/JJR, of/IN, the/DT, empty/JJ, cases/NNS, out/IN, today/NN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP we)) (NP (NNP wanna)) (S (VP (VB get) (NP (NP (DT any) (JJR more)) (PP (IN of) (NP (DT the) (JJ empty) (NNS cases)))) (PP (IN out) (NP (NN today))))))) (. ?)))
+64303,"(24,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+64303,"(25,)",About forty quid 's worth of empty cases .,"[About/IN, forty/CD, quid/NNP, 's/POS, worth/NN, of/IN, empty/JJ, cases/NNS, ./.]",(ROOT (FRAG (PP (IN About) (NP (NP (CD forty)) (NP (NP (NP (NNP quid) (POS 's)) (NN worth)) (PP (IN of) (NP (JJ empty) (NNS cases)))))) (. .)))
+64303,"(26,)",Cor !,"[Cor/NNP, !/.]",(ROOT (FRAG (NP (NNP Cor)) (. !)))
+64303,"(27,)",It 's amazing what they 're doing with them .,"[It/PRP, 's/VBZ, amazing/JJ, what/WP, they/PRP, 're/VBP, doing/VBG, with/IN, them/PRP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ amazing)) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG doing) (PP (IN with) (NP (PRP them)))))))) (. .)))
+64303,"(28,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+64303,"(29,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+64303,"(30,)",Have you been to put a bet on ?,"[Have/VB, you/PRP, been/VBN, to/TO, put/VB, a/DT, bet/NN, on/IN, ?/.]",(ROOT (SQ (VP (VB Have) (NP (PRP you)) (VP (VBN been) (S (VP (TO to) (VP (VB put) (NP (DT a) (NN bet)) (PP (IN on))))))) (. ?)))
+64303,"(31,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+64303,"(32,)",How did you know ?,"[How/WRB, did/VBD, you/PRP, know/VB, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBD did) (NP (PRP you)) (VP (VB know))) (. ?)))
+64303,"(33,)",I guessed .,"[I/PRP, guessed/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD guessed)) (. .)))
+64303,"(34,)",,[],X
+64303,"(35, 36)", What on one race or,"[What/WDT, on/IN, one/CD, race/NN, or/CC]",(ROOT (FRAG (SBAR (WHNP (WDT What)) (FRAG (PP (IN on) (NP (NP (CD one)) (NX (NX (NN race)) (CC or))))))))
+64303,"(37,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+64303,"(38,)",Just the one .,"[Just/RB, the/DT, one/CD, ./.]",(ROOT (X (ADVP (RB Just)) (NP (DT the) (CD one)) (. .)))
+64303,"(39,)",What time are they coming at ?,"[What/WDT, time/NN, are/VBP, they/PRP, coming/VBG, at/IN, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VBP are) (NP (PRP they)) (VP (VBG coming) (PP (IN at)))) (. ?)))
+64303,"(40,)","Well they said about , what ?","[Well/RB, they/PRP, said/VBD, about/RB, ,/,, what/WP, ?/.]","(ROOT (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBD said) (ADVP (RB about)) (, ,) (S (NP (WP what)))) (. ?)))"
+64303,"(41,)",Who ?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+64303,"(42,)",Elliel ?,"[Elliel/NNP, ?/.]",(ROOT (FRAG (NP (NNP Elliel)) (. ?)))
+64303,"(43,)","Elliel , yeah .","[Elliel/NNP, ,/,, yeah/UH, ./.]","(ROOT (NP (NP (NNP Elliel)) (, ,) (NP (UH yeah)) (. .)))"
+64303,"(44,)",Half past three .,"[Half/DT, past/JJ, three/CD, ./.]",(ROOT (NP (NP (QP (DT Half))) (PP (JJ past) (NP (CD three))) (. .)))
+64303,"(45,)",Has Jean got to be here ?,"[Has/VBZ, Jean/NNP, got/VBD, to/TO, be/VB, here/RB, ?/.]",(ROOT (S (VP (VBZ Has) (SBAR (S (NP (NNP Jean)) (VP (VBD got) (S (VP (TO to) (VP (VB be) (ADVP (RB here))))))))) (. ?)))
+64303,"(46,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+64303,"(47, 48)",She said sh- sh- sh- she said she 'd be here about half two .,"[She/PRP, said/VBD, sh-/JJ, sh-/NN, sh-/NN, she/PRP, said/VBD, she/PRP, 'd/MD, be/VB, here/RB, about/IN, half/NN, two/CD, ./.]",(ROOT (S (NP (PRP She)) (VP (VBD said) (NP (NP (JJ sh-) (NN sh-) (NN sh-)) (SBAR (S (NP (PRP she)) (VP (VBD said) (SBAR (S (NP (PRP she)) (VP (MD 'd) (VP (VB be) (ADVP (RB here)) (PP (IN about) (NP (NN half) (CD two)))))))))))) (. .)))
+64303,"(49, 50)",She 's been to a funeral   ,"[She/PRP, 's/VBZ, been/VBN, to/TO, a/DT, funeral/NN]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBN been) (PP (TO to) (NP (DT a) (NN funeral)))))))
+64303,"(51,)",Who 's dead ?,"[Who/WP, 's/VBZ, dead/JJ, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (ADJP (JJ dead)))) (. ?)))
+64303,"(52,)",I don 't know .,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+64303,"(53,)","Some , somebody on the County Council .","[Some/DT, ,/,, somebody/NN, on/IN, the/DT, County/NNP, Council/NN, ./.]","(ROOT (NP (NP (DT Some)) (, ,) (NP (NP (NN somebody)) (PP (IN on) (NP (DT the) (NNP County) (NN Council)))) (. .)))"
+64303,"(54,)","He 's probably been dead for about two years , they haven 't noticed !","[He/PRP, 's/VBZ, probably/RB, been/VBN, dead/JJ, for/IN, about/IN, two/CD, years/NNS, ,/,, they/PRP, haven/NN, 't/PRP, noticed/VBD, !/.]","(ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB probably)) (VP (VBN been) (ADJP (JJ dead)) (PP (IN for) (PP (IN about) (NP (CD two) (NNS years)))) (, ,) (S (NP (PRP they)) (NP (NN haven)))))) (NP (PRP 't)) (VP (VBD noticed)) (. !)))"
+64303,"(55,)",,[],X
+64303,"(56,)","In that case , if this Thursday ge- get anything like the other Thursdays we 've got enough to last .","[In/IN, that/DT, case/NN, ,/,, if/IN, this/DT, Thursday/NNP, ge-/NNP, get/VB, anything/NN, like/IN, the/DT, other/JJ, Thursdays/NNPS, we/PRP, 've/VBP, got/VBN, enough/RB, to/TO, last/VB, ./.]","(ROOT (S (PP (IN In) (NP (DT that) (NN case))) (, ,) (SBAR (IN if) (S (NP (DT this) (NNP Thursday) (NNP ge-)) (VP (VB get) (NP (NN anything)) (PP (IN like) (NP (DT the) (JJ other) (NNPS Thursdays)))))) (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (ADVP (RB enough)) (S (VP (TO to) (VP (VB last)))))) (. .)))"
+64303,"(57, 58)", Is there a book for that like ?,"[Is/VBZ, there/EX, a/DT, book/NN, for/IN, that/DT, like/IN, ?/.]",(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (NP (DT a) (NN book)) (PP (IN for) (NP (NP (DT that)) (PP (IN like))))) (. ?)))

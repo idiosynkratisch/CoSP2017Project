@@ -1,0 +1,41 @@
+4304,"(0,)", I wander through the     .,"[I/PRP, wander/VBP, through/IN, the/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP wander) (ADVP (IN through) (DT the))) (. .)))
+4304,"(1,)","Oops , careful .","[Oops/UH, ,/,, careful/JJ, ./.]","(ROOT (FRAG (INTJ (UH Oops)) (, ,) (ADVP (JJ careful)) (. .)))"
+4304,"(2,)",I 'm not,"[I/PRP, 'm/VBP, not/RB]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not))))
+4304,"(3,)",Ooh did it go bang on your foot ?,"[Ooh/NNP, did/VBD, it/PRP, go/VB, bang/NN, on/IN, your/PRP$, foot/NN, ?/.]",(ROOT (S (NP (NNP Ooh)) (VP (VBD did) (S (NP (PRP it)) (VP (VB go) (NP (NN bang)) (PP (IN on) (NP (PRP$ your) (NN foot)))))) (. ?)))
+4304,"(4,)",Move it then .,"[Move/VB, it/PRP, then/RB, ./.]",(ROOT (S (VP (VB Move) (NP (PRP it)) (ADVP (RB then))) (. .)))
+4304,"(5,)",Here you are .,"[Here/RB, you/PRP, are/VBP, ./.]",(ROOT (S (ADVP (RB Here)) (NP (PRP you)) (VP (VBP are)) (. .)))
+4304,"(6,)","Here you are , here you are madam , here you are madam , who you calling madam ?","[Here/RB, you/PRP, are/VBP, ,/,, here/RB, you/PRP, are/VBP, madam/NNP, ,/,, here/RB, you/PRP, are/VBP, madam/NNP, ,/,, who/WP, you/PRP, calling/VBG, madam/NNP, ?/.]","(ROOT (S (S (ADVP (RB Here)) (NP (PRP you)) (VP (VBP are))) (, ,) (S (ADVP (RB here)) (NP (PRP you)) (VP (VBP are) (NP (NNP madam)))) (, ,) (S (ADVP (RB here)) (NP (PRP you)) (VP (VBP are) (NP (NP (NNP madam)) (, ,) (SBAR (WHNP (WP who)) (S (NP (PRP you)) (VP (VBG calling) (NP (NNP madam)))))))) (. ?)))"
+4304,"(7,)"," Mummy , shut that   .","[Mummy/NN, ,/,, shut/VBD, that/DT, ./.]","(ROOT (S (NP (NN Mummy)) (, ,) (VP (VBD shut) (NP (DT that))) (. .)))"
+4304,"(8,)",What the handle ?,"[What/WP, the/DT, handle/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (NP (DT the)) (VP (VB handle))) (. ?)))
+4304,"(9,)","I can 't at the moment , I 'll do it in a minute for you .","[I/PRP, can/MD, 't/PRP, at/IN, the/DT, moment/NN, ,/,, I/PRP, 'll/MD, do/VB, it/PRP, in/IN, a/DT, minute/NN, for/IN, you/PRP, ./.]","(ROOT (S (S (NP (PRP I)) (VP (MD can) (VP (NP (PRP 't)) (PP (IN at) (NP (DT the) (NN moment)))))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB do) (NP (PRP it)) (PP (IN in) (NP (NP (DT a) (NN minute)) (PP (IN for) (NP (PRP you))))))) (. .)))"
+4304,"(10,)","Eh , Joelle do it .","[Eh/UH, ,/,, Joelle/NNP, do/VBP, it/PRP, ./.]","(ROOT (S (INTJ (UH Eh)) (, ,) (NP (NNP Joelle)) (VP (VBP do) (NP (PRP it))) (. .)))"
+4304,"(11,)","Well , I think Joelle 's a bit busy too .","[Well/RB, ,/,, I/PRP, think/VBP, Joelle/NNP, 's/POS, a/DT, bit/NN, busy/JJ, too/RB, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (PRP I)) (VP (VBP think) (S (NP (NNP Joelle) (POS 's)) (ADJP (DT a) (NN bit) (JJ busy)) (ADVP (RB too)))) (. .)))"
+4304,"(12,)",Joelle is busy .,"[Joelle/NNP, is/VBZ, busy/JJ, ./.]",(ROOT (S (NP (NNP Joelle)) (VP (VBZ is) (ADJP (JJ busy))) (. .)))
+4304,"(13,)","I think Joelle is busy , oh dear .","[I/PRP, think/VBP, Joelle/NNP, is/VBZ, busy/JJ, ,/,, oh/UH, dear/RB, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP think) (S (NP (NP (NNP Joelle)) (SBAR (S (VP (VBZ is) (ADJP (JJ busy)) (, ,) (INTJ (UH oh)))))) (ADJP (RB dear)))) (. .)))"
+4304,"(14,)",Joelle is put on chair   .,"[Joelle/NNP, is/VBZ, put/VBN, on/IN, chair/NN, ./.]",(ROOT (S (NP (NNP Joelle)) (VP (VBZ is) (VP (VBN put) (PP (IN on) (NP (NN chair))))) (. .)))
+4304,"(15,)","Careful , oh it 's a bit heavy for you .","[Careful/JJ, ,/,, oh/UH, it/PRP, 's/VBZ, a/DT, bit/NN, heavy/JJ, for/IN, you/PRP, ./.]","(ROOT (S (S (ADJP (JJ Careful))) (, ,) (S (INTJ (UH oh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (DT a) (NN bit)) (JJ heavy) (PP (IN for) (NP (PRP you)))))) (. .)))"
+4304,"(16,)",The table   .,"[The/DT, table/NN, ./.]",(ROOT (NP (DT The) (NN table) (. .)))
+4304,"(17,)",A bit heavy for you .,"[A/DT, bit/NN, heavy/JJ, for/IN, you/PRP, ./.]",(ROOT (NP (NP (DT A) (NN bit)) (NP (NP (JJ heavy)) (PP (IN for) (NP (PRP you)))) (. .)))
+4304,"(18,)","You be   , I sit down , put dolls in here .","[You/PRP, be/VB, ,/,, I/PRP, sit/VBP, down/RB, ,/,, put/VBD, dolls/NNS, in/IN, here/RB, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VB be))) (, ,) (NP (PRP I)) (VP (VP (VBP sit) (ADVP (RB down))) (, ,) (VP (VBD put) (NP (NNS dolls)) (PP (IN in) (NP (RB here))))) (. .)))"
+4304,"(19,)", sit up .,"[sit/VB, up/RP, ./.]",(ROOT (S (VP (VB sit) (PRT (RP up))) (. .)))
+4304,"(20,)",What 's the matter   ?,"[What/WP, 's/VBZ, the/DT, matter/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (DT the) (NN matter))) (. ?)))
+4304,"(21,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+4304,"(22,)",Oh doll over there .,"[Oh/UH, doll/NN, over/IN, there/RB, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (NN doll)) (PP (IN over) (NP (RB there)))))) (. .)))
+4304,"(23,)",She 's gonna fall out isn 't she ?,"[She/PRP, 's/VBZ, gonna/NNP, fall/VB, out/RP, isn/NN, 't/PRP, she/PRP, ?/.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VB fall) (PRT (RP out)) (NP (NP (NN isn)) (NP (NP (PRP 't)) (NP (PRP she))))))) (. ?)))
+4304,"(24,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+4304,"(25,)",If you tip the chair up she will .,"[If/IN, you/PRP, tip/VBP, the/DT, chair/NN, up/IN, she/PRP, will/MD, ./.]",(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP tip) (ADVP (NP (DT the) (NN chair)) (IN up))))) (NP (PRP she)) (VP (MD will)) (. .)))
+4304,"(26,)","Oops there she goes , poor dolly .","[Oops/UH, there/EX, she/PRP, goes/VBZ, ,/,, poor/JJ, dolly/RB, ./.]","(ROOT (S (S (INTJ (UH Oops)) (EX there) (NP (PRP she)) (VP (VBZ goes))) (, ,) (FRAG (ADJP (JJ poor) (RB dolly))) (. .)))"
+4304,"(27,)"," falling over   , and I pick her up , oh poor doll , she gets all wet , she 's falling down now .","[falling/VBG, over/RP, ,/,, and/CC, I/PRP, pick/VBP, her/PRP$, up/RP, ,/,, oh/UH, poor/JJ, doll/NN, ,/,, she/PRP, gets/VBZ, all/DT, wet/JJ, ,/,, she/PRP, 's/VBZ, falling/VBG, down/RB, now/RB, ./.]","(ROOT (S (S (S (VP (VBG falling) (PRT (RP over)))) (, ,) (CC and) (S (NP (PRP I)) (VP (VP (VBP pick) (NP (PRP$ her)) (PRT (RP up))) (, ,) (NP (INTJ (UH oh)) (NP (JJ poor) (NN doll)))))) (, ,) (S (NP (PRP she)) (VP (VBZ gets) (S (NP (DT all)) (ADJP (JJ wet))))) (, ,) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG falling) (ADVP (RB down) (RB now))))) (. .)))"
+4304,"(28,)",Oh dear .,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
+4304,"(29,)","Oh poor dolly , oh ","[Oh/UH, poor/JJ, dolly/RB, ,/,, oh/UH]","(ROOT (INTJ (INTJ (UH Oh)) (JJ poor) (INTJ (INTJ (RB dolly)) (, ,) (INTJ (UH oh)))))"
+4304,"(30,)",,[],X
+4304,"(31,)","Ah , ah   .","[Ah/NN, ,/,, ah/NN, ./.]","(ROOT (NP (NP (NN Ah)) (, ,) (NP (NN ah)) (. .)))"
+4304,"(32,)",Oops .,"[Oops/UH, ./.]",(ROOT (INTJ (UH Oops) (. .)))
+4304,"(33,)", I never go .,"[I/PRP, never/RB, go/VBP, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP go)) (. .)))
+4304,"(34,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+4304,"(35,)"," in here , in here .","[in/IN, here/RB, ,/,, in/IN, here/RB, ./.]","(ROOT (FRAG (PP (IN in) (NP (NP (RB here)) (, ,) (PP (IN in) (NP (RB here))))) (. .)))"
+4304,"(36,)",In here .,"[In/IN, here/RB, ./.]",(ROOT (FRAG (PP (IN In) (NP (RB here))) (. .)))
+4304,"(37,)","In here , in here , in here , in here .","[In/IN, here/RB, ,/,, in/IN, here/RB, ,/,, in/IN, here/RB, ,/,, in/IN, here/RB, ./.]","(ROOT (FRAG (PP (IN In) (NP (NP (RB here)) (, ,) (PP (IN in) (NP (RB here))) (, ,) (PP (IN in) (NP (RB here))) (, ,) (PP (IN in) (NP (RB here))))) (. .)))"
+4304,"(38,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+4304,"(39,)", and,[and/CC],(ROOT (NP (CC and)))
+4304,"(40,)","Haven 't you had enough yet little girl , mummy 's getting ever so tired , oh what   doing ?","[Haven/NNP, 't/PRP, you/PRP, had/VBD, enough/RB, yet/RB, little/JJ, girl/NN, ,/,, mummy/NN, 's/POS, getting/VBG, ever/RB, so/RB, tired/JJ, ,/,, oh/UH, what/WDT, doing/VBG, ?/.]","(ROOT (S (NP (NNP Haven) (PRP 't)) (NP (PRP you)) (VP (VBD had) (NP (NP (NP (ADJP (RB enough) (RB yet) (JJ little)) (NN girl)) (, ,) (NP (NN mummy) (POS 's))) (S (VP (VP (VBG getting) (ADJP (RB ever) (RB so) (JJ tired))) (, ,) (VP (NP (UH oh)) (SBAR (WHNP (WDT what)) (S (VP (VBG doing))))))))) (. ?)))"

@@ -1,0 +1,8 @@
+12703,"(0, 1)",Come on then sunshine  let 's boogie !,"[Come/VB, on/IN, then/RB, sunshine/NN, let/VB, 's/POS, boogie/NNP, !/.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NP (RB then) (NN sunshine)) (VP (VB let) (S (NP (POS 's))) (NP (NNP boogie)))))) (. !)))
+12703,"(2,)",Let 's fucking boogie !,"[Let/VB, 's/PRP, fucking/VBG, boogie/NN, !/.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VBG fucking) (NP (NN boogie))))) (. !)))
+12703,"(3, 4, 5)","I ain 't dancing with you , you twit ! chocolate star fish hunter !","[I/PRP, ain/VBP, 't/PRP, dancing/VBG, with/IN, you/PRP, ,/,, you/PRP, twit/VBP, !/., chocolate/NN, star/NN, fish/NN, hunter/NN, !/.]","(ROOT (S (NP (PRP I)) (VP (VBP ain) (S (NP (PRP 't)) (VP (VBG dancing) (PP (IN with) (NP (NP (PRP you)) (, ,) (NP (NP (NP (PRP you)) (SBAR (S (VP (VBP twit))))) (. !) (NP (NP (NN chocolate) (NN star)) (NP (NN fish) (NN hunter))))))))) (. !)))"
+12703,"(6,)",Fuck off !,"[Fuck/VB, off/RP, !/.]",(ROOT (S (VP (VB Fuck) (PRT (RP off))) (. !)))
+12703,"(7,)",Got a   ?,"[Got/VBD, a/DT, ?/.]",(ROOT (S (VP (VBD Got) (NP (DT a))) (. ?)))
+12703,"(8, 9)", Waterloo  how can   my Waterloo ,"[Waterloo/NNP, how/WRB, can/MD, my/PRP$, Waterloo/NNP]",(ROOT (FRAG (NP (NNP Waterloo)) (SBAR (WHADVP (WRB how)) (S (VP (MD can) (VP (NP (PRP$ my) (NNP Waterloo))))))))
+12703,"(10,)",Shitty fucking shit !,"[Shitty/JJ, fucking/VBG, shit/NN, !/.]",(ROOT (FRAG (ADJP (JJ Shitty)) (S (VP (VBG fucking) (NP (NN shit)))) (. !)))
+12703,"(11,)", De de de deddle deddle de da da da da da da da   .,"[De/FW, de/FW, de/FW, deddle/FW, deddle/FW, de/FW, da/NN, da/NN, da/NN, da/NN, da/NN, da/NN, da/NN, ./.]",(ROOT (NP (NP (FW De) (FW de) (FW de) (FW deddle) (FW deddle) (FW de) (NN da) (NN da)) (NP (NN da) (NN da) (NN da) (NN da) (NN da)) (. .)))

@@ -1,0 +1,18 @@
+24703,"(0,)",Oh is Clifford bring the wood round tomorrow ?,"[Oh/UH, is/VBZ, Clifford/NNP, bring/VB, the/DT, wood/NN, round/NN, tomorrow/NN, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VBZ is) (NP (NNP Clifford)) (VP (VB bring) (NP (DT the) (NN wood) (NN round)) (NP (NN tomorrow)))) (. ?)))
+24703,"(1,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+24703,"(2, 3)","What , in the morning or  ?","[What/WP, ,/,, in/IN, the/DT, morning/NN, or/CC, ?/.]","(ROOT (FRAG (WHNP (WHNP (WP What)) (PRN (, ,) (ADVP (IN in)) (NP (DT the) (NX (NX (NN morning)) (CC or))))) (. ?)))"
+24703,"(4,)","Where are you , where do you want it putting ?","[Where/WRB, are/VBP, you/PRP, ,/,, where/WRB, do/VBP, you/PRP, want/VB, it/PRP, putting/VBG, ?/.]","(ROOT (SBARQ (SBAR (WHADVP (WRB Where)) (S (VP (VBP are) (NP (PRP you))))) (, ,) (WHADVP (WRB where)) (SQ (VBP do) (NP (PRP you)) (VP (VB want) (S (NP (PRP it)) (VP (VBG putting))))) (. ?)))"
+24703,"(5,)",Behind the shed .,"[Behind/IN, the/DT, shed/NN, ./.]",(ROOT (FRAG (PP (IN Behind) (NP (DT the) (NN shed))) (. .)))
+24703,"(6,)",What the one that 's up ?,"[What/WP, the/DT, one/CD, that/WDT, 's/VBZ, up/RP, ?/.]",(ROOT (FRAG (WHNP (WP What)) (SBAR (X (X (DT the)) (NP (CD one))) (S (NP (WDT that)) (VP (VBZ 's) (ADVP (RP up))))) (. ?)))
+24703,"(7,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+24703,"(8,)",,[],X
+24703,"(9, 10)","Yeah    yes , alright .","[Yeah/UH, yes/UH, ,/,, alright/JJ, ./.]","(ROOT (FRAG (INTJ (UH Yeah) (UH yes)) (, ,) (ADVP (JJ alright)) (. .)))"
+24703,"(11,)",But away from the fence .,"[But/CC, away/RB, from/IN, the/DT, fence/NN, ./.]",(ROOT (FRAG (CC But) (ADVP (RB away)) (PP (IN from) (NP (DT the) (NN fence))) (. .)))
+24703,"(12,)",Away from the fence ?,"[Away/RB, from/IN, the/DT, fence/NN, ?/.]",(ROOT (FRAG (ADVP (RB Away) (PP (IN from) (NP (DT the) (NN fence)))) (. ?)))
+24703,"(13,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+24703,"(14, 15)",So I can get  that other one up   .,"[So/IN, I/PRP, can/MD, get/VB, that/IN, other/JJ, one/CD, up/RP, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (MD can) (VP (VB get) (PP (IN that) (NP (JJ other) (CD one))) (ADVP (RP up)))) (. .)))
+24703,"(16,)",Ooh .,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
+24703,"(17,)",Suppose I ought to tell him that shouldn 't I ? be out and unlock the gate .,"[Suppose/VB, I/PRP, ought/MD, to/TO, tell/VB, him/PRP, that/IN, shouldn/NN, 't/PRP, I/PRP, ?/., be/VB, out/RB, and/CC, unlock/VB, the/DT, gate/NN, ./.]",(ROOT (S (VP (VB Suppose) (SBAR (S (NP (PRP I)) (VP (MD ought) (S (VP (TO to) (VP (VB tell) (NP (PRP him)) (SBAR (IN that) (S (NP (NN shouldn)) (NP (PRP 't)))) (S (NP (NP (PRP I)) (. ?) (S (VP (VP (VB be) (ADJP (RB out))) (CC and) (VP (VB unlock) (NP (DT the) (NN gate)))))))))))))) (. .)))
+24703,"(18,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+24703,"(19,)",I should be in in the morning .,"[I/PRP, should/MD, be/VB, in/IN, in/IN, the/DT, morning/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD should) (VP (VB be) (PP (IN in) (PP (IN in) (NP (DT the) (NN morning)))))) (. .)))
+24703,"(20,)",Yeah ?,"[Yeah/UH, ?/.]",(ROOT (INTJ (UH Yeah) (. ?)))

@@ -1,0 +1,5 @@
+12808,"(0,)",What does Sud Milsch mean ?,"[What/WP, does/VBZ, Sud/NNP, Milsch/NNP, mean/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (NNP Sud) (NNP Milsch)) (VP (VB mean))) (. ?)))
+12808,"(1, 2)",Fresh milk  fresh milk .,"[Fresh/JJ, milk/NN, fresh/JJ, milk/NN, ./.]",(ROOT (NP (NP (JJ Fresh) (NN milk)) (NP (JJ fresh) (NN milk)) (. .)))
+12808,"(3,)",Could be .,"[Could/MD, be/VB, ./.]",(ROOT (S (VP (MD Could) (VP (VB be))) (. .)))
+12808,"(4,)",Ask Graham .,"[Ask/VB, Graham/NNP, ./.]",(ROOT (S (VP (VB Ask) (NP (NNP Graham))) (. .)))
+12808,"(5, 6, 7)",No  not that bothered ha  next time .,"[No/DT, not/RB, that/IN, bothered/VBN, ha/NNP, next/JJ, time/NN, ./.]",(ROOT (FRAG (NP (NP (DT No) (RB not)) (SBAR (WHNP (IN that)) (S (VP (VBN bothered) (NP (NNP ha)) (NP (JJ next) (NN time)))))) (. .)))

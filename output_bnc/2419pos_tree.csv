@@ -1,0 +1,9 @@
+2419,"(0,)",They certainly plant them quickly .,"[They/PRP, certainly/RB, plant/VBP, them/PRP, quickly/RB, ./.]",(ROOT (S (NP (PRP They)) (ADVP (RB certainly)) (VP (VBP plant) (NP (PRP them)) (ADVP (RB quickly))) (. .)))
+2419,"(1,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2419,"(2,)","Beautifully prepared soil , I mean you try that with our soil you 'll damage your fingers , it 's like a flipping rock .","[Beautifully/RB, prepared/JJ, soil/NN, ,/,, I/PRP, mean/VBP, you/PRP, try/VB, that/DT, with/IN, our/PRP$, soil/NN, you/PRP, 'll/MD, damage/VB, your/PRP$, fingers/NNS, ,/,, it/PRP, 's/VBZ, like/IN, a/DT, flipping/VBG, rock/NN, ./.]","(ROOT (S (S (S (NP (ADJP (RB Beautifully) (JJ prepared)) (NN soil))) (, ,) (NP (PRP I)) (VP (VBP mean) (S (NP (PRP you)) (VP (VB try) (NP (NP (DT that)) (PP (IN with) (NP (PRP$ our) (NN soil))) (SBAR (S (NP (PRP you)) (VP (MD 'll) (VP (VB damage) (NP (PRP$ your) (NNS fingers))))))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (PP (IN like) (NP (DT a) (VBG flipping) (NN rock)))) (. .)))"
+2419,"(3,)",,[],X
+2419,"(4,)",Not with your fingers you didn 't .,"[Not/RB, with/IN, your/PRP$, fingers/NNS, you/PRP, didn/VBP, 't/PRP, ./.]",(ROOT (S (RB Not) (PP (IN with) (NP (PRP$ your) (NNS fingers))) (NP (PRP you)) (VP (VBP didn) (NP (PRP 't))) (. .)))
+2419,"(5,)",Yes I did .,"[Yes/UH, I/PRP, did/VBD, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBD did))) (. .)))
+2419,"(6,)", my fingers   .,"[my/PRP$, fingers/NNS, ./.]",(ROOT (NP (PRP$ my) (NNS fingers) (. .)))
+2419,"(7,)",Do you want to go and have a jazz tonight ?,"[Do/VB, you/PRP, want/VBP, to/TO, go/VB, and/CC, have/VB, a/DT, jazz/NN, tonight/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VP (VB go)) (CC and) (VP (VB have) (NP (DT a) (NN jazz) (NN tonight)))))))))) (. ?)))
+2419,"(8,)",No not really .,"[No/DT, not/RB, really/RB, ./.]",(ROOT (S (NP (DT No) (RB not)) (VP (ADVP (RB really))) (. .)))

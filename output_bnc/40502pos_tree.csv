@@ -1,0 +1,11 @@
+40502,"(0, 1)",I bet you 're absolutely delighted it 's  half term aren 't you ?,"[I/PRP, bet/VBP, you/PRP, 're/VBP, absolutely/RB, delighted/JJ, it/PRP, 's/VBZ, half/JJ, term/NN, aren/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB absolutely) (JJ delighted) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ half) (NN term) (NNP aren)) (NP (NP (PRP 't)) (NP (PRP you)))))))))))) (. ?)))
+40502,"(2,)",Not really .,"[Not/RB, really/RB, ./.]",(ROOT (FRAG (RB Not) (ADVP (RB really) (. .))))
+40502,"(3,)",No ?,"[No/DT, ?/.]",(ROOT (FRAG (NP (DT No)) (. ?)))
+40502,"(4,)",Not really .,"[Not/RB, really/RB, ./.]",(ROOT (FRAG (RB Not) (ADVP (RB really) (. .))))
+40502,"(5,)",Aren 't you ?,"[Aren/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (NP (NP (NNP Aren)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
+40502,"(6,)","School 's alright , it 's the lessons that are sad !","[School/NN, 's/POS, alright/JJ, ,/,, it/PRP, 's/VBZ, the/DT, lessons/NNS, that/WDT, are/VBP, sad/JJ, !/.]","(ROOT (S (S (NP (NP (NN School) (POS 's)) (JJ alright))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT the) (NNS lessons)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADJP (JJ sad))))))) (. !)))"
+40502,"(7,)",Sorry ?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
+40502,"(8,)",School 's alright it 's just the lessons   !,"[School/NN, 's/POS, alright/JJ, it/PRP, 's/VBZ, just/RB, the/DT, lessons/NNS, !/.]",(ROOT (S (S (NP (NP (NN School) (POS 's)) (JJ alright))) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (DT the) (NNS lessons))) (. !)))
+40502,"(9,)",Don 't look very big do they ?,"[Don/NNP, 't/PRP, look/VBP, very/RB, big/JJ, do/VBP, they/PRP, ?/.]",(ROOT (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VBP look) (ADJP (RB very) (JJ big)))))) (VP (VBP do) (NP (PRP they))) (. ?)))
+40502,"(10,)",Don 't worry about them .,"[Don/NNP, 't/PRP, worry/VBP, about/IN, them/PRP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP worry) (PP (IN about) (NP (PRP them)))) (. .)))
+40502,"(11,)",I 'll   .,"[I/PRP, 'll/MD, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll)) (. .)))

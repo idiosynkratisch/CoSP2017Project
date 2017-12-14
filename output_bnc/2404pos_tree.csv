@@ -1,0 +1,31 @@
+2404,"(0,)","Your party fruit sherry my dear , I er","[Your/PRP$, party/NN, fruit/NN, sherry/NNP, my/PRP$, dear/NNP, ,/,, I/PRP, er/NN]","(ROOT (NP (NP (NP (PRP$ Your) (NN party) (NN fruit)) (NP (NNP sherry))) (NP (NP (PRP$ my) (NNP dear)) (, ,) (NP (PRP I) (NN er)))))"
+2404,"(1,)","Sherry 's a food , I 'm not coming this month .","[Sherry/NNP, 's/POS, a/DT, food/NN, ,/,, I/PRP, 'm/VBP, not/RB, coming/VBG, this/DT, month/NN, ./.]","(ROOT (S (NP (NP (NNP Sherry) (POS 's)) (NP (NP (DT a) (NN food)) (, ,) (NP (PRP I)))) (VP (VBP 'm) (RB not) (VP (VBG coming) (NP (DT this) (NN month)))) (. .)))"
+2404,"(2,)",I 'm just doing the dogs though .,"[I/PRP, 'm/VBP, just/RB, doing/VBG, the/DT, dogs/NNS, though/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB just)) (VP (VBG doing) (NP (DT the) (NNS dogs)) (ADVP (IN though)))) (. .)))
+2404,"(3,)",I just had a chat with Christine .,"[I/PRP, just/RB, had/VBD, a/DT, chat/NN, with/IN, Christine/NNP, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD had) (NP (NP (DT a) (NN chat)) (PP (IN with) (NP (NNP Christine))))) (. .)))
+2404,"(4,)", fitted in ?,"[fitted/VBN, in/IN, ?/.]",(ROOT (S (VP (VBN fitted) (PP (IN in))) (. ?)))
+2404,"(5,)",Just fine .,"[Just/RB, fine/NN, ./.]",(ROOT (FRAG (ADVP (RB Just)) (NP (NN fine)) (. .)))
+2404,"(6,)",Colin ?,"[Colin/NNP, ?/.]",(ROOT (FRAG (NP (NNP Colin)) (. ?)))
+2404,"(7,)","Fine , yes , yes , yes   .","[Fine/NN, ,/,, yes/UH, ,/,, yes/UH, ,/,, yes/UH, ./.]","(ROOT (FRAG (SBAR (WHNP (NP (NN Fine)) (PRN (, ,) (INTJ (UH yes) (, ,) (UH yes)) (, ,))) (FRAG (INTJ (UH yes) (. .))))))"
+2404,"(8,)","Oh Shep  , mate , what you treading on me again .","[Oh/UH, Shep/NNP, ,/,, mate/NN, ,/,, what/WP, you/PRP, treading/VBG, on/IN, me/PRP, again/RB, ./.]","(ROOT (S (INTJ (UH Oh)) (VP (NNP Shep) (, ,) (S (NP (NP (NN mate)) (, ,) (SBAR (WHNP (WP what)) (S (NP (PRP you))))) (VP (VBG treading) (PP (IN on) (NP (PRP me))) (ADVP (RB again))))) (. .)))"
+2404,"(9,)","Christine says her blood pressure is O K , all 's well then .","[Christine/NNP, says/VBZ, her/PRP$, blood/NN, pressure/NN, is/VBZ, O/NN, K/NN, ,/,, all/DT, 's/POS, well/RB, then/RB, ./.]","(ROOT (S (NP (NNP Christine)) (VP (VBZ says) (SBAR (S (NP (PRP$ her) (NN blood) (NN pressure)) (VP (VBZ is) (NP (NP (NN O)) (SBAR (S (NP (NP (NN K)) (, ,) (NP (NP (DT all)) (POS 's)))))) (ADVP (RB well) (RB then)))))) (. .)))"
+2404,"(10,)",Been that   has she ?,"[Been/VBN, that/DT, has/VBZ, she/PRP, ?/.]",(ROOT (S (S (VP (VBN Been))) (NP (DT that)) (VP (VBZ has) (NP (PRP she))) (. ?)))
+2404,"(11,)",I think she 's been back to her G P .,"[I/PRP, think/VBP, she/PRP, 's/VBZ, been/VBN, back/RB, to/TO, her/PRP$, G/NN, P/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN been) (ADVP (RB back)) (PP (TO to) (NP (PRP$ her) (NN G) (NN P)))))))) (. .)))
+2404,"(12,)",Do you want anything ?,"[Do/VB, you/PRP, want/VB, anything/NN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB want) (NP (NN anything))))) (. ?)))
+2404,"(13,)",No   .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+2404,"(14,)",Well we 're having prawns and something are we ?,"[Well/RB, we/PRP, 're/VBP, having/VBG, prawns/NNS, and/CC, something/NN, are/VBP, we/PRP, ?/.]",(ROOT (S (S (INTJ (RB Well)) (NP (PRP we)) (VP (VBP 're) (VP (VBG having) (NP (NNS prawns))))) (CC and) (S (NP (NN something)) (VP (VBP are) (NP (PRP we)))) (. ?)))
+2404,"(15,)",,[],X
+2404,"(16,)",I 'll get the nibbles .,"[I/PRP, 'll/MD, get/VB, the/DT, nibbles/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB get) (NP (DT the) (NNS nibbles)))) (. .)))
+2404,"(17,)","  . Oh hello pussy cat , you look cosy .","[./., Oh/UH, hello/UH, pussy/NNP, cat/NNP, ,/,, you/PRP, look/VBP, cosy/JJ, ./.]","(ROOT (S (FRAG (. .) (INTJ (UH Oh) (UH hello)) (NP (NNP pussy) (NNP cat))) (, ,) (NP (PRP you)) (VP (VBP look) (ADJP (JJ cosy))) (. .)))"
+2404,"(18,)","Oh you 've got another pineapple , well done .","[Oh/UH, you/PRP, 've/VBP, got/VBD, another/DT, pineapple/NN, ,/,, well/RB, done/VBN, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT another) (NN pineapple)) (, ,) (ADJP (RB well) (VBN done)))))) (. .)))"
+2404,"(19,)",,[],X
+2404,"(20,)",Great .,"[Great/NNP, ./.]",(ROOT (FRAG (NP (NNP Great)) (. .)))
+2404,"(21,)", next week .,"[next/JJ, week/NN, ./.]",(ROOT (NP (JJ next) (NN week) (. .)))
+2404,"(22,)",Here we are look .,"[Here/RB, we/PRP, are/VBP, look/NN, ./.]",(ROOT (S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP are) (NP (NN look))) (. .)))
+2404,"(23,)",Do we have some serviettes ?,"[Do/VB, we/PRP, have/VBP, some/DT, serviettes/NNS, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP we)) (VP (VBP have) (NP (DT some) (NNS serviettes)))))) (. ?)))
+2404,"(24,)",,[],X
+2404,"(25,)","What 'll we want , fish knives ?","[What/WDT, 'll/MD, we/PRP, want/VB, ,/,, fish/NN, knives/NNS, ?/.]","(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (MD 'll)) (NP (PRP we)) (VP (VB want) (FRAG (, ,) (NP (NN fish) (NNS knives))))) (. ?)))"
+2404,"(26,)",I don 't mind .,"[I/PRP, don/VBP, 't/PRP, mind/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB mind)))) (. .)))
+2404,"(27,)", is it fish pie or what ?,"[is/VBZ, it/PRP, fish/NN, pie/NN, or/CC, what/WP, ?/.]",(ROOT (SQ (VBZ is) (NP (PRP it)) (NP (NP (NN fish) (NN pie)) (CC or) (NP (WP what))) (. ?)))
+2404,"(28,)",,[],X
+2404,"(29,)",Well you don 't like the fish pie .,"[Well/RB, you/PRP, don/VBP, 't/PRP, like/IN, the/DT, fish/NN, pie/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (DT the) (NN fish) (NN pie)))) (. .)))
+2404,"(30,)",,[],X

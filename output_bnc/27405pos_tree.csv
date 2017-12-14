@@ -1,0 +1,22 @@
+27405,"(0,)",Er a small loaf of bread please .,"[Er/NN, a/DT, small/JJ, loaf/NN, of/IN, bread/NN, please/VB, ./.]",(ROOT (S (NP (NP (NP (NN Er)) (NP (DT a) (JJ small) (NN loaf))) (PP (IN of) (NP (NN bread)))) (VP (VB please)) (. .)))
+27405,"(1,)",Erm,[Erm/NN],(ROOT (NP (NN Erm)))
+27405,"(2,)","A tin , a cob or a batch ?","[A/DT, tin/NN, ,/,, a/DT, cob/NN, or/CC, a/DT, batch/NN, ?/.]","(ROOT (NP (NP (DT A) (NN tin)) (, ,) (NP (NP (DT a) (NN cob)) (CC or) (NP (DT a) (NN batch))) (. ?)))"
+27405,"(3,)",Now then,"[Now/RB, then/RB]",(ROOT (FRAG (ADVP (RB Now)) (RB then)))
+27405,"(4,)","Now it 's decision time , your choice .","[Now/RB, it/PRP, 's/VBZ, decision/NN, time/NN, ,/,, your/PRP$, choice/NN, ./.]","(ROOT (S (ADVP (RB Now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN decision) (NN time)) (, ,) (NP (PRP$ your) (NN choice)))) (. .)))"
+27405,"(5,)",Erm batch I think .,"[Erm/NN, batch/NN, I/PRP, think/VBP, ./.]",(ROOT (S (NP (NN Erm) (NN batch)) (NP (PRP I)) (VP (VBP think)) (. .)))
+27405,"(6,)",I haven 't had one of them for a long time .,"[I/PRP, haven/NN, 't/PRP, had/VBD, one/CD, of/IN, them/PRP, for/IN, a/DT, long/JJ, time/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD had) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .)))
+27405,"(7,)",It 's make up your mind time .,"[It/PRP, 's/VBZ, make/VB, up/RP, your/PRP$, mind/NN, time/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VB make) (PRT (RP up)) (NP (PRP$ your) (NN mind) (NN time)))) (. .)))
+27405,"(8,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+27405,"(9,)","Fattening time , that 's the trouble .","[Fattening/NN, time/NN, ,/,, that/DT, 's/VBZ, the/DT, trouble/NN, ./.]","(ROOT (S (NP (NN Fattening) (NN time)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN trouble))) (. .)))"
+27405,"(10,)",When you start you never stop with them .,"[When/WRB, you/PRP, start/VBP, you/PRP, never/RB, stop/VB, with/IN, them/PRP, ./.]",(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP start) (NP (PRP you)) (ADVP (RB never))))) (VP (VB stop) (PP (IN with) (NP (PRP them)))) (. .)))
+27405,"(11,)","Great , thanks .","[Great/NNP, ,/,, thanks/NNS, ./.]","(ROOT (NP (NP (NNP Great)) (, ,) (NP (NNS thanks)) (. .)))"
+27405,"(12,)",Thank you very much .,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
+27405,"(13,)",Weather 's getting better isn 't it ?,"[Weather/NN, 's/POS, getting/VBG, better/JJR, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (VP (NN Weather) (S (NP (POS 's)) (VP (VBG getting) (S (NP (NP (JJR better) (NN isn)) (NP (PRP 't))) (NP (PRP it)))))) (. ?)))
+27405,"(14,)",Yes it is .,"[Yes/UH, it/PRP, is/VBZ, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ is))) (. .)))
+27405,"(15,)",Slowly but surely .,"[Slowly/RB, but/CC, surely/RB, ./.]",(ROOT (S (VP (ADVP (ADVP (RB Slowly)) (PRN (CC but) (ADVP (RB surely))))) (. .)))
+27405,"(16,)","Fine , as long as it comes .","[Fine/NN, ,/,, as/RB, long/RB, as/IN, it/PRP, comes/VBZ, ./.]","(ROOT (FRAG (NP (NN Fine)) (, ,) (SBAR (ADVP (RB as) (RB long)) (IN as) (S (NP (PRP it)) (VP (VBZ comes)))) (. .)))"
+27405,"(17,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+27405,"(18,)",End of the month and it 'll be great .,"[End/NN, of/IN, the/DT, month/NN, and/CC, it/PRP, 'll/MD, be/VB, great/JJ, ./.]",(ROOT (S (NP (NP (NN End)) (PP (IN of) (NP (NP (DT the) (NN month)) (CC and) (NP (PRP it))))) (VP (MD 'll) (VP (VB be) (ADJP (JJ great)))) (. .)))
+27405,"(19,)",,[],X
+27405,"(20,)",Ta ra,"[Ta/NNP, ra/NNP]",(ROOT (NP (NNP Ta) (NNP ra)))
+27405,"(21,)",Bye .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

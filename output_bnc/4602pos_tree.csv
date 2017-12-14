@@ -1,0 +1,22 @@
+4602,"(0,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+4602,"(1,)",,[],X
+4602,"(2,)",I should think you 've missed it haven 't you ?,"[I/PRP, should/MD, think/VB, you/PRP, 've/VBP, missed/VBN, it/PRP, haven/NN, 't/PRP, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP I)) (VP (MD should) (VP (VB think) (NP (PRP you))))) (VP (VBP 've) (VP (VBN missed) (S (NP (PRP it)) (VP (NN haven) (NP (PRP 't)))))) (NP (PRP you)) (. ?)))
+4602,"(3,)",No I haven 't .,"[No/DT, I/PRP, haven/NN, 't/PRP, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (NN haven) (NP (PRP 't))) (. .)))
+4602,"(4,)","Hmm , try it if you like .","[Hmm/NN, ,/,, try/VB, it/PRP, if/IN, you/PRP, like/VBP, ./.]","(ROOT (S (NP (NN Hmm)) (, ,) (VP (VB try) (NP (PRP it)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP like))))) (. .)))"
+4602,"(5,)",I like Penny .,"[I/PRP, like/VBP, Penny/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (NN Penny))) (. .)))
+4602,"(6,)",You like Penny 's house do you ?,"[You/PRP, like/IN, Penny/NN, 's/POS, house/NNP, do/VBP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (PP (IN like) (NP (NP (NN Penny) (POS 's)) (NNP house))) (VP (VBP do) (NP (PRP you))) (. ?)))
+4602,"(7,)",,[],X
+4602,"(8,)",Is that still clean ?,"[Is/VBZ, that/IN, still/RB, clean/JJ, ?/.]",(ROOT (S (VP (VBZ Is) (ADJP (IN that) (RB still) (JJ clean))) (. ?)))
+4602,"(9,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+4602,"(10,)","Is that a- oh no you 've got to , Amy you 've got to press the standby button .","[Is/VBZ, that/IN, a-/NN, oh/UH, no/DT, you/PRP, 've/VBP, got/VBN, to/TO, ,/,, Amy/NNP, you/PRP, 've/VBP, got/VBN, to/TO, press/VB, the/DT, standby/JJ, button/NN, ./.]","(ROOT (S (S (VP (VBZ Is) (SBAR (IN that) (FRAG (NP (NP (NN a-)) (SBAR (S (INTJ (UH oh)) (NP (DT no) (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to)))))))))))) (, ,) (NP (NNP Amy) (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB press) (NP (DT the) (JJ standby) (NN button))))))) (. .)))"
+4602,"(11,)",,[],X
+4602,"(12,)",Ha .,"[Ha/NNP, ./.]",(ROOT (FRAG (NP (NNP Ha)) (. .)))
+4602,"(13,)","Oh , I don 't know where the thing is .","[Oh/UH, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, where/WRB, the/DT, thing/NN, is/VBZ, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN thing)) (VP (VBZ is))))))) (. .)))"
+4602,"(14, 15, 16)",Over by Daddy    There you are it 's finished  ,"[Over/IN, by/IN, Daddy/NNP, There/RB, you/PRP, are/VBP, it/PRP, 's/VBZ, finished/VBN]",(ROOT (S (PP (IN Over) (PP (IN by) (NP (NNP Daddy)) (ADVP (RB There)))) (NP (PRP you)) (VP (VBP are) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN finished))))))))
+4602,"(17,)",,[],X
+4602,"(18, 19)", big snails  or a snake,"[big/JJ, snails/NNS, or/CC, a/DT, snake/NN]",(ROOT (NP (NP (JJ big) (NNS snails)) (CC or) (NP (DT a) (NN snake))))
+4602,"(20,)",He looks like Jason Donovan .,"[He/PRP, looks/VBZ, like/IN, Jason/NNP, Donovan/NNP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ looks) (PP (IN like) (NP (NNP Jason) (NNP Donovan)))) (. .)))
+4602,"(21,)",No it 's a little boy isn 't it ?,"[No/DT, it/PRP, 's/VBZ, a/DT, little/JJ, boy/NN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (JJ little) (NN boy) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+4602,"(22, 23, 24)",Yes  it 's    ,"[Yes/UH, it/PRP, 's/VBZ]",(ROOT (SINV (UH Yes) (NP (PRP it)) (VP (VBZ 's))))
+4602,"(25,)",Is that a snake ?,"[Is/VBZ, that/IN, a/DT, snake/NN, ?/.]",(ROOT (S (VP (VBZ Is) (ADVP (IN that) (DT a)) (VP (NN snake))) (. ?)))
+4602,"(26,)", Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))

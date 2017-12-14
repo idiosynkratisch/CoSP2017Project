@@ -1,0 +1,10 @@
+6906,"(0,)","I got one of those , haven 't I ?","[I/PRP, got/VBD, one/CD, of/IN, those/DT, ,/,, haven/NNP, 't/PRP, I/PRP, ?/.]","(ROOT (S (NP (PRP I)) (VP (VBD got) (NP (CD one)) (PP (IN of) (NP (DT those))) (, ,) (S (VP (NNP haven) (S (NP (PRP 't)) (NP (PRP I)))))) (. ?)))"
+6906,"(1,)",One of those skateboards ?,"[One/CD, of/IN, those/DT, skateboards/NNS, ?/.]",(ROOT (NP (NP (CD One)) (PP (IN of) (NP (DT those) (NNS skateboards))) (. ?)))
+6906,"(2,)",That 's right .,"[That/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right))) (. .)))
+6906,"(3, 4)","You need to put , need to put  one foot on there , one foot on   .","[You/PRP, need/VBP, to/TO, put/VB, ,/,, need/VB, to/TO, put/VB, one/CD, foot/NN, on/IN, there/RB, ,/,, one/CD, foot/NN, on/IN, ./.]","(ROOT (S (NP (PRP You)) (VP (VBP need) (S (VP (TO to) (VP (VP (VB put)) (, ,) (VP (VB need) (S (VP (TO to) (VP (VB put) (NP (NP (CD one) (NN foot)) (PP (IN on) (NP (RB there)))))))) (, ,) (NP (NP (CD one) (NN foot)) (PP (IN on))))))) (. .)))"
+6906,"(5,)",Where you on your skateboard in the garden today ?,"[Where/WRB, you/PRP, on/IN, your/PRP$, skateboard/NN, in/IN, the/DT, garden/NN, today/NN, ?/.]",(ROOT (FRAG (SBARQ (WHADVP (WRB Where)) (SQ (NP (PRP you)) (PP (IN on) (NP (NP (PRP$ your) (NN skateboard)) (PP (IN in) (NP (DT the) (NN garden) (NN today)))))) (. ?))))
+6906,"(6,)",,[],X
+6906,"(7,)","I said , where you on th- on your skateboard in the garden today ?","[I/PRP, said/VBD, ,/,, where/WRB, you/PRP, on/IN, th-/NN, on/IN, your/PRP$, skateboard/NN, in/IN, the/DT, garden/NN, today/NN, ?/.]","(ROOT (S (S (NP (PRP I)) (VP (VBD said))) (, ,) (FRAG (WHADVP (WRB where) (NP (NP (PRP you)) (PP (IN on) (NP (NP (NN th-)) (PP (IN on) (NP (NP (PRP$ your) (NN skateboard)) (PP (IN in) (NP (DT the) (NN garden) (NN today)))))))))) (. ?)))"
+6906,"(8,)",Umm .,"[Umm/NNP, ./.]",(ROOT (FRAG (NP (NNP Umm)) (. .)))
+6906,"(9,)",Umm not today .,"[Umm/NNP, not/RB, today/NN, ./.]",(ROOT (S (NP (NNP Umm)) (VP (RB not) (NP (NN today))) (. .)))
+6906,"(10,)",Yes you were .,"[Yes/UH, you/PRP, were/VBD, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (VBD were))) (. .)))

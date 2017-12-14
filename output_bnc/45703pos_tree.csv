@@ -1,0 +1,2 @@
+45703,"(0,)",What 's he got under there ?,"[What/WP, 's/VBZ, he/PRP, got/VBD, under/IN, there/EX, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got) (PP (IN under) (NP (EX there))))) (. ?)))
+45703,"(1,)", stick it on her .,"[stick/VB, it/PRP, on/IN, her/PRP, ./.]",(ROOT (S (VP (VB stick) (NP (PRP it)) (PP (IN on) (NP (PRP her)))) (. .)))

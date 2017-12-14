@@ -1,0 +1,24 @@
+41104,"(0,)",And he dropped in a twenty seven inch Sony this morning .,"[And/CC, he/PRP, dropped/VBD, in/IN, a/DT, twenty/CD, seven/CD, inch/NN, Sony/NNP, this/DT, morning/NN, ./.]",(ROOT (S (CC And) (NP (PRP he)) (VP (VBD dropped) (PP (IN in) (NP (DT a) (ADJP (NP (CD twenty)) (NP (CD seven) (NN inch))) (NNP Sony))) (NP (DT this) (NN morning))) (. .)))
+41104,"(1, 2)",But it took  should of taken four of us to lift it really but,"[But/CC, it/PRP, took/VBD, should/MD, of/IN, taken/VBN, four/CD, of/IN, us/PRP, to/TO, lift/VB, it/PRP, really/RB, but/CC]",(ROOT (S (CC But) (NP (PRP it)) (VP (VBD took) (SBAR (S (VP (MD should) (PP (IN of)) (VP (VBN taken) (NP (NP (CD four)) (PP (IN of) (NP (PRP us)))) (S (VP (TO to) (VP (VB lift) (NP (PRP it)) (ADVP (RB really)) (ADVP (CC but))))))))))))
+41104,"(3,)",Somebody dropped one of them ?,"[Somebody/NN, dropped/VBD, one/CD, of/IN, them/PRP, ?/.]",(ROOT (S (NP (NN Somebody)) (VP (VBD dropped) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))) (. ?)))
+41104,"(4,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+41104,"(5, 6)",It was a struggle for two of us to get it out of the car and  weigh a ton don 't they those ?,"[It/PRP, was/VBD, a/DT, struggle/NN, for/IN, two/CD, of/IN, us/PRP, to/TO, get/VB, it/PRP, out/IN, of/IN, the/DT, car/NN, and/CC, weigh/VB, a/DT, ton/NN, don/NNP, 't/PRP, they/PRP, those/DT, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (NN struggle)) (PP (IN for) (NP (NP (CD two)) (PP (IN of) (NP (PRP us))))) (S (VP (TO to) (VP (VP (VB get) (NP (PRP it)) (ADVP (IN out) (PP (IN of) (NP (DT the) (NN car))))) (CC and) (VP (VB weigh) (S (NP (DT a) (NN ton)) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP they)))))) (NP (DT those))))))) (. ?)))
+41104,"(7,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+41104,"(8,)","It 's only the tube isn 't it , where the weight is on those ?","[It/PRP, 's/VBZ, only/RB, the/DT, tube/NN, isn/NN, 't/PRP, it/PRP, ,/,, where/WRB, the/DT, weight/NN, is/VBZ, on/IN, those/DT, ?/.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (S (NP (NP (RB only) (DT the) (NN tube) (NN isn)) (NP (PRP 't))) (NP (PRP it))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN weight)) (VP (VBZ is) (PP (IN on) (NP (DT those))))))) (. ?)))"
+41104,"(9, 10)",Well    .,"[Well/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (. .)))
+41104,"(11,)", is a bit whatever .,"[is/VBZ, a/DT, bit/NN, whatever/WDT, ./.]",(ROOT (S (VP (VBZ is) (NP (NP (DT a) (NN bit)) (SBAR (WHNP (WDT whatever))))) (. .)))
+41104,"(12,)",Does it fit there ?,"[Does/VBZ, it/PRP, fit/JJ, there/EX, ?/.]",(ROOT (S (VP (VBZ Does) (S (ADJP (NP (PRP it)) (JJ fit)) (NP (EX there)))) (. ?)))
+41104,"(13,)",These bits,"[These/DT, bits/NNS]",(ROOT (FRAG (NP (DT These) (NNS bits))))
+41104,"(14,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+41104,"(15,)",,[],X
+41104,"(16, 17)","Yeah , it 's like a    crank case innit ?","[Yeah/UH, ,/,, it/PRP, 's/VBZ, like/IN, a/DT, crank/VBP, case/NN, innit/RB, ?/.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP it)) (VP (VBZ 's) (SBAR (IN like) (S (NP (DT a)) (VP (VBP crank) (NP (NN case)) (ADVP (RB innit)))))) (. ?)))"
+41104,"(18,)",Bloody thing 's blown everything in creation !,"[Bloody/JJ, thing/NN, 's/POS, blown/VBN, everything/NN, in/IN, creation/NN, !/.]",(ROOT (NP (NP (NP (NP (JJ Bloody) (NN thing) (POS 's)) (VBN blown) (NN everything)) (PP (IN in) (NP (NN creation)))) (. !)))
+41104,"(19,)",Is it ?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
+41104,"(20,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+41104,"(21,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+41104,"(22, 23, 24)","Blown that  blown  blown that , blown that , that one 's gone .","[Blown/VBN, that/IN, blown/VBN, blown/VBN, that/IN, ,/,, blown/VBN, that/IN, ,/,, that/IN, one/CD, 's/POS, gone/VBN, ./.]","(ROOT (S (S (VP (VBN Blown) (SBAR (IN that) (S (VP (VBN blown)))))) (VP (VBN blown) (ADVP (IN that)) (, ,) (S (VP (VBN blown) (ADVP (IN that)) (, ,) (SBAR (IN that) (S (NP (NP (CD one)) (POS 's)) (VP (VBN gone))))))) (. .)))"
+41104,"(25,)",Sue wrecked it for us !,"[Sue/VB, wrecked/VBD, it/PRP, for/IN, us/PRP, !/.]",(ROOT (S (S (VP (VB Sue))) (VP (VBD wrecked) (NP (PRP it)) (PP (IN for) (NP (PRP us)))) (. !)))
+41104,"(26,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+41104,"(27,)",Oh I 'll do it myself .,"[Oh/UH, I/PRP, 'll/MD, do/VB, it/PRP, myself/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (MD 'll) (VP (VB do) (NP (PRP it)) (NP (PRP myself))))) (. .)))
+41104,"(28,)",Hundred and fifty ohm .,"[Hundred/CD, and/CC, fifty/CD, ohm/NNP, ./.]",(ROOT (NP (NP (CD Hundred) (CC and) (CD fifty)) (NP (NNP ohm)) (. .)))
+41104,"(29,)","Think I 've got one of them , yeah .","[Think/VB, I/PRP, 've/VBP, got/VBD, one/CD, of/IN, them/PRP, ,/,, yeah/UH, ./.]","(ROOT (S (S (S (VP (VB Think) (NP (PRP I)))) (VP (VBP 've) (VP (VBD got) (NP (NP (CD one)) (PP (IN of) (NP (PRP them))))))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"

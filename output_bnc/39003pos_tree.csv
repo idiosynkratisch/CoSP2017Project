@@ -1,0 +1,6 @@
+39003,"(0,)",I bet the local shop sold out of helmets .,"[I/PRP, bet/VBP, the/DT, local/JJ, shop/NN, sold/VBN, out/IN, of/IN, helmets/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (NP (NP (DT the) (JJ local) (NN shop)) (VP (VBN sold) (PRT (IN out)) (PP (IN of) (NP (NNS helmets)))))) (. .)))
+39003,"(1,)",Mm ?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
+39003,"(2,)",Bet the local shop sold out of helmets .,"[Bet/VB, the/DT, local/JJ, shop/NN, sold/VBN, out/IN, of/IN, helmets/NNS, ./.]",(ROOT (S (VP (VB Bet) (NP (NP (DT the) (JJ local) (NN shop)) (VP (VBN sold) (PRT (IN out)) (PP (IN of) (NP (NNS helmets)))))) (. .)))
+39003,"(3,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+39003,"(4,)",You couldn 't get them actually .,"[You/PRP, couldn/VBP, 't/PRP, get/VB, them/PRP, actually/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP couldn) (S (NP (PRP 't)) (VP (VB get) (NP (PRP them)) (ADVP (RB actually))))) (. .)))
+39003,"(5,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

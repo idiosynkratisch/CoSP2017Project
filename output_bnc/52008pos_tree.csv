@@ -1,0 +1,44 @@
+52008,"(0,)",Hello !,"[Hello/UH, !/.]",(ROOT (INTJ (UH Hello) (. !)))
+52008,"(1, 2)","I saw you this morning on erm  Churchill Drive , I were working , and you were .","[I/PRP, saw/VBD, you/PRP, this/DT, morning/NN, on/IN, erm/NN, Churchill/NNP, Drive/NNP, ,/,, I/PRP, were/VBD, working/VBG, ,/,, and/CC, you/PRP, were/VBD, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD saw) (NP (PRP you)) (NP (DT this) (NN morning)) (PP (IN on) (NP (NN erm) (NNP Churchill) (NNP Drive))))) (PRN (, ,) (S (NP (PRP I)) (VP (VBD were) (VP (VBG working)))) (, ,)) (CC and) (S (NP (PRP you)) (VP (VBD were))) (. .)))"
+52008,"(3,)",Churchill Drive .,"[Churchill/NNP, Drive/NNP, ./.]",(ROOT (NP (NNP Churchill) (NNP Drive) (. .)))
+52008,"(4,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+52008,"(5,)",Ruddington .,"[Ruddington/NN, ./.]",(ROOT (NP (NN Ruddington) (. .)))
+52008,"(6,)","Yeah , I 'm opening a shop round Ruddington .","[Yeah/UH, ,/,, I/PRP, 'm/VBP, opening/VBG, a/DT, shop/NN, round/NN, Ruddington/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG opening) (NP (DT a) (NN shop) (NN round) (NN Ruddington)))) (. .)))"
+52008,"(7,)",Oh are you ?,"[Oh/UH, are/VBP, you/PRP, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VBP are) (NP (PRP you))) (. ?)))
+52008,"(8,)",What is it ?,"[What/WP, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+52008,"(9,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+52008,"(10, 11)",Erm  hairdressers .,"[Erm/NN, hairdressers/NNS, ./.]",(ROOT (NP (NN Erm) (NNS hairdressers) (. .)))
+52008,"(12,)",Oh is it ?,"[Oh/UH, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+52008,"(13,)",What 's it called ?,"[What/WP, 's/VBZ, it/PRP, called/VBN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP it)) (VP (VBN called))) (. ?)))
+52008,"(14,)",Well it isn 't at the moment .,"[Well/RB, it/PRP, isn/VBD, 't/PRP, at/IN, the/DT, moment/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBD isn) (NP (PRP 't)) (PP (IN at) (NP (DT the) (NN moment)))) (. .)))
+52008,"(15,)",It 's called the Clothes Peg .,"[It/PRP, 's/VBZ, called/VBN, the/DT, Clothes/NNS, Peg/VBP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN called) (SBAR (S (NP (DT the) (NNS Clothes)) (VP (VBP Peg)))))) (. .)))
+52008,"(16,)",Clothes Peg on the main road ?,"[Clothes/NNS, Peg/VBP, on/IN, the/DT, main/JJ, road/NN, ?/.]",(ROOT (S (NP (NNS Clothes)) (VP (VBP Peg) (PP (IN on) (NP (DT the) (JJ main) (NN road)))) (. ?)))
+52008,"(17,)",The ma- on the main road .,"[The/DT, ma-/NN, on/IN, the/DT, main/JJ, road/NN, ./.]",(ROOT (NP (NP (DT The) (NN ma-)) (PP (IN on) (NP (DT the) (JJ main) (NN road))) (. .)))
+52008,"(18,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+52008,"(19,)",But he 's now closing down ?,"[But/CC, he/PRP, 's/VBZ, now/RB, closing/VBG, down/RB, ?/.]",(ROOT (S (CC But) (NP (PRP he)) (VP (VBZ 's) (ADVP (RB now)) (VP (VBG closing) (ADVP (RB down)))) (. ?)))
+52008,"(20,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+52008,"(21,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+52008,"(22,)","Shop 's been a smashing shop , you know that has !","[Shop/NNP, 's/POS, been/VBN, a/DT, smashing/VBG, shop/NN, ,/,, you/PRP, know/VBP, that/DT, has/VBZ, !/.]","(ROOT (S (S (NP (NNP Shop) (POS 's)) (VP (VBN been) (VP (ADVP (DT a)) (VBG smashing) (NP (NN shop))))) (, ,) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (DT that)) (VP (VBZ has))))) (. !)))"
+52008,"(23,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+52008,"(24,)",Really lovely !,"[Really/RB, lovely/JJ, !/.]",(ROOT (FRAG (ADJP (RB Really) (JJ lovely)) (. !)))
+52008,"(25,)",That 's what everybody says .,"[That/DT, 's/VBZ, what/WP, everybody/NN, says/VBZ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (NN everybody)) (VP (VBZ says))))) (. .)))
+52008,"(26,)",It 's a shame .,"[It/PRP, 's/VBZ, a/DT, shame/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN shame))) (. .)))
+52008,"(27,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+52008,"(28,)",I 've bought some smashing things from them !,"[I/PRP, 've/VBP, bought/VBN, some/DT, smashing/VBG, things/NNS, from/IN, them/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN bought) (S (NP (DT some)) (VP (VBG smashing) (NP (NNS things)) (PP (IN from) (NP (PRP them))))))) (. !)))
+52008,"(29,)",It 'll be in city whe- er th- to- there is a hairdre- all there is is one further down on the corner of Parkin Street .,"[It/PRP, 'll/MD, be/VB, in/IN, city/NN, whe-/JJ, er/NN, th-/NN, to-/NN, there/EX, is/VBZ, a/DT, hairdre-/NN, all/DT, there/EX, is/VBZ, is/VBZ, one/CD, further/RB, down/RB, on/IN, the/DT, corner/NN, of/IN, Parkin/NNP, Street/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (MD 'll) (VP (VB be) (VP (PP (IN in) (NP (NN city))) (NP (NP (JJ whe-) (NN er) (NN th-) (NN to-)) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (NN hairdre-)) (SBAR (WHNP (DT all)) (S (NP (EX there)) (VP (VBZ is) (SQ (VBZ is) (NP (NP (CD one)) (PP (ADVP (RB further) (RB down)) (IN on) (NP (NP (DT the) (NN corner)) (PP (IN of) (NP (NNP Parkin) (NNP Street)))))))))))))))))) (. .)))
+52008,"(30,)","There is , but they 're old fashioned you know .","[There/EX, is/VBZ, ,/,, but/CC, they/PRP, 're/VBP, old/JJ, fashioned/VBN, you/PRP, know/VBP, ./.]","(ROOT (S (S (NP (EX There)) (VP (VBZ is))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ old) (SBAR (S (VP (VBN fashioned) (S (NP (PRP you)) (VP (VBP know))))))))) (. .)))"
+52008,"(31,)","Where 's your er , information then , for us to look at ?","[Where/WRB, 's/POS, your/PRP$, er/NN, ,/,, information/NN, then/RB, ,/,, for/IN, us/PRP, to/TO, look/VB, at/IN, ?/.]","(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NP (NP (PRP$ your) (NN er)) (, ,) (NP (NN information) (RB then)) (, ,)) (PP (IN for) (NP (PRP us)))) (VP (TO to) (VP (VB look) (PP (IN at))))) (. ?)))"
+52008,"(32,)",I know !,"[I/PRP, know/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. !)))
+52008,"(33,)","No , I haven 't got a       !","[No/DT, ,/,, I/PRP, haven/NN, 't/PRP, got/VBD, a/DT, !/.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (DT a)))))) (. !)))"
+52008,"(34,)",Well I want one .,"[Well/RB, I/PRP, want/VBP, one/CD, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP want) (NP (CD one))) (. .)))
+52008,"(35,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+52008,"(36,)",I 'll give some .,"[I/PRP, 'll/MD, give/VB, some/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB give) (NP (DT some)))) (. .)))
+52008,"(37,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+52008,"(38,)",Will you ?,"[Will/MD, you/PRP, ?/.]",(ROOT (S (VP (MD Will) (VP (NP (PRP you)))) (. ?)))
+52008,"(39,)","Yeah , definitely .","[Yeah/UH, ,/,, definitely/RB, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (RB definitely)) (. .)))"
+52008,"(40,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+52008,"(41, 42)","Erm , no Julie 's working with me as well you see , she 's coming from London  and we 're gonna work together .","[Erm/NN, ,/,, no/DT, Julie/NNP, 's/POS, working/VBG, with/IN, me/PRP, as/RB, well/RB, you/PRP, see/VBP, ,/,, she/PRP, 's/VBZ, coming/VBG, from/IN, London/NNP, and/CC, we/PRP, 're/VBP, gonna/JJ, work/NN, together/RB, ./.]","(ROOT (S (S (NP (NP (NN Erm)) (, ,) (NP (NP (NP (DT no) (NNP Julie) (POS 's)) (VBG working)) (PP (IN with) (NP (NP (PRP me)) (CONJP (RB as) (RB well)) (NP (PRP you)))))) (VP (VBP see))) (, ,) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG coming) (PP (IN from) (NP (NNP London)))))) (CC and) (S (NP (PRP we)) (VP (VBP 're) (NP (JJ gonna) (NN work)) (ADVP (RB together)))) (. .)))"
+52008,"(43,)",So,[So/RB],(ROOT (ADVP (RB So)))
+52008,"(44,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+52008,"(45,)",Good !,"[Good/JJ, !/.]",(ROOT (INTJ (JJ Good) (. !)))
+52008,"(46,)",That 's if I,"[That/DT, 's/VBZ, if/IN, I/PRP]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (PP (IN if) (NP (PRP I))))))

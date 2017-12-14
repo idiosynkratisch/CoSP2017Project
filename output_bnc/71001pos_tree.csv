@@ -1,0 +1,785 @@
+71001,"(0,)","As far as I can make out we 're up to , we 're up to the darts competition","[As/IN, far/RB, as/IN, I/PRP, can/MD, make/VB, out/RP, we/PRP, 're/VBP, up/RP, to/TO, ,/,, we/PRP, 're/VBP, up/RP, to/TO, the/DT, darts/NN, competition/NN]","(ROOT (S (SBAR (IN As) (S (S (ADJP (RB far) (SBAR (IN as) (S (NP (PRP I)) (VP (MD can) (VP (VB make) (PRT (RP out)) (NP (PRP we)))))))) (VP (VBP 're) (PRT (RP up)) (PP (TO to))))) (, ,) (NP (PRP we)) (VP (VBP 're) (PRT (RP up)) (PP (TO to) (NP (DT the) (NN darts) (NN competition))))))"
+71001,"(1,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+71001,"(2,)","er , we need to go through every single entry on , alongside darts , call them out to me for example , Elaine  > W one , Mid Northumberland , M N","[er/NN, ,/,, we/PRP, need/VBP, to/TO, go/VB, through/IN, every/DT, single/JJ, entry/NN, on/IN, ,/,, alongside/IN, darts/NN, ,/,, call/VB, them/PRP, out/RP, to/TO, me/PRP, for/IN, example/NN, ,/,, Elaine/NNP, >/JJR, W/NN, one/CD, ,/,, Mid/JJ, Northumberland/NNP, ,/,, M/NN, N/NN]","(ROOT (NP (S (NP (NN er)) (, ,) (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VP (VB go) (PP (IN through) (NP (DT every) (JJ single) (NN entry))) (PP (IN on)) (, ,) (PP (IN alongside) (NP (NN darts)))) (, ,) (VP (VB call) (NP (PRP them)) (PRT (RP out)) (PP (TO to) (NP (NP (PRP me)) (PP (IN for) (NP (NN example)))))) (, ,) (NP (NP (NP (NNP Elaine)) (NP (JJR >) (NN W)) (NP (CD one))) (, ,) (NP (JJ Mid) (NNP Northumberland)) (, ,) (ADJP (NN M) (NN N))))))))))"
+71001,"(3,)","Right , let me have a look at this first before , you pour a cup of tea and I 'll have a look at this form","[Right/NN, ,/,, let/VB, me/PRP, have/VB, a/DT, look/NN, at/IN, this/DT, first/JJ, before/IN, ,/,, you/PRP, pour/VBP, a/DT, cup/NN, of/IN, tea/NN, and/CC, I/PRP, 'll/MD, have/VB, a/DT, look/NN, at/IN, this/DT, form/NN]","(ROOT (NP (NP (NP (NN Right)) (PRN (, ,) (S (VP (VB let) (S (NP (PRP me)) (VP (VB have) (NP (DT a) (NN look)))))))) (PP (IN at) (NP (NP (DT this) (JJ first)) (SBAR (IN before) (, ,) (S (S (NP (PRP you)) (VP (VBP pour) (NP (NP (DT a) (NN cup)) (PP (IN of) (NP (NN tea)))))) (CC and) (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (DT this) (NN form)))))))))))))"
+71001,"(4,)","That 's probably not the best one cos that 's er , that 's not the normal form .","[That/DT, 's/VBZ, probably/RB, not/RB, the/DT, best/JJS, one/CD, cos/NN, that/WDT, 's/VBZ, er/NN, ,/,, that/DT, 's/VBZ, not/RB, the/DT, normal/JJ, form/NN, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB probably) (RB not)) (NP (DT the) (JJS best) (CD one) (NN cos)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NN er))))))) (, ,) (NP (DT that)) (VP (VBZ 's) (RB not) (NP (DT the) (JJ normal) (NN form))) (. .)))"
+71001,"(5,)"," Never mind , aids with that ?","[Never/RB, mind/NN, ,/,, aids/NN, with/IN, that/DT, ?/.]","(ROOT (X (ADVP (RB Never) (NP (NN mind))) (, ,) (NP (NP (NN aids)) (PP (IN with) (NP (DT that)))) (. ?)))"
+71001,"(6,)","Erm , no","[Erm/NN, ,/,, no/DT]","(ROOT (NP (NP (NN Erm)) (, ,) (NP (DT no))))"
+71001,"(7,)",Are they competing if they 've got aids ?,"[Are/VBP, they/PRP, competing/VBG, if/IN, they/PRP, 've/VBP, got/VBN, aids/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP they)) (VP (VBG competing) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN got) (NP (NN aids))))))) (. ?)))
+71001,"(8,)","that 's , yes , hmm , that 's carpet bowls with guttering it 's not","[that/DT, 's/VBZ, ,/,, yes/UH, ,/,, hmm/NN, ,/,, that/DT, 's/VBZ, carpet/NN, bowls/VBZ, with/IN, guttering/VBG, it/PRP, 's/VBZ, not/RB]","(ROOT (S (NP (DT that)) (VP (VBZ 's) (, ,) (S (INTJ (UH yes)) (, ,) (NP (NN hmm)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (NN carpet)) (SBAR (S (VP (VBZ bowls) (PP (IN with) (S (VP (VBG guttering) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not))))))))))))))))"
+71001,"(9,)",,[],X
+71001,"(10,)",it 's not with aids as you said,"[it/PRP, 's/VBZ, not/RB, with/IN, aids/NN, as/IN, you/PRP, said/VBD]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (RB not) (PP (IN with) (NP (NN aids))) (SBAR (IN as) (S (NP (PRP you)) (VP (VBD said)))))))
+71001,"(11,)",Carpet bowls with guttering oh good   so you want for example Elaine  > W one,"[Carpet/NN, bowls/VBZ, with/IN, guttering/VBG, oh/UH, good/JJ, so/IN, you/PRP, want/VBP, for/IN, example/NN, Elaine/NNP, >/JJR, W/NN, one/CD]",(ROOT (SINV (FRAG (NP (NN Carpet))) (VP (VBZ bowls) (PP (IN with) (S (VP (VBG guttering) (NP (INTJ (UH oh)) (NP (JJ good)))))) (SBAR (IN so) (S (NP (PRP you)) (VP (VBP want) (PP (IN for) (NP (NP (NN example) (NNP Elaine)) (ADJP (JJR >) (NN W)))))))) (NP (CD one))))
+71001,"(12,)",and then there 's,"[and/CC, then/RB, there/EX, 's/POS]",(ROOT (FRAG (CC and) (NP (NP (RB then)) (SBAR (S (NP (EX there)) (VP (POS 's)))))))
+71001,"(13,)",this Northumberland ?,"[this/DT, Northumberland/NNP, ?/.]",(ROOT (FRAG (NP (DT this) (NNP Northumberland)) (. ?)))
+71001,"(14,)","Yes er , Mid Northumberland","[Yes/UH, er/NN, ,/,, Mid/JJ, Northumberland/NNP]","(ROOT (FRAG (INTJ (UH Yes) (NN er)) (, ,) (ADVP (JJ Mid)) (NP (NNP Northumberland))))"
+71001,"(15,)",Right,[Right/NN],(ROOT (NP (NN Right)))
+71001,"(16,)",or M N .,"[or/CC, M/NN, N/NN, ./.]",(ROOT (FRAG (PP (CC or) (NP (NN M) (NN N))) (. .)))
+71001,"(17,)",and where 's the darts ?,"[and/CC, where/WRB, 's/VBZ, the/DT, darts/NN, ?/.]",(ROOT (SBARQ (CC and) (WHADVP (WRB where)) (SQ (VBZ 's) (NP (DT the) (NN darts))) (. ?)))
+71001,"(18,)",That 's the darts,"[That/DT, 's/VBZ, the/DT, darts/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT the) (NN darts)))))
+71001,"(19,)",That 's the darts column,"[That/DT, 's/VBZ, the/DT, darts/NN, column/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT the) (NN darts) (NN column)))))
+71001,"(20,)",thing down there,"[thing/NN, down/IN, there/EX]",(ROOT (FRAG (NP (NN thing)) (PP (IN down) (NP (EX there)))))
+71001,"(21,)",on the other ones the darts column is a bit more com- is a bit simpler,"[on/IN, the/DT, other/JJ, ones/NNS, the/DT, darts/NN, column/NN, is/VBZ, a/DT, bit/NN, more/RBR, com-/JJ, is/VBZ, a/DT, bit/NN, simpler/JJR]",(ROOT (S (PP (IN on) (NP (DT the) (JJ other) (NNS ones))) (NP (DT the) (NN darts) (NN column)) (VP (VBZ is) (ADJP (ADJP (NP (DT a) (NN bit)) (RBR more) (JJ com-)) (SBAR (S (VP (VBZ is) (NP (NP (DT a) (NN bit)) (JJR simpler)))))))))
+71001,"(22,)","Oh right , I 'll need room for this , that 's handy","[Oh/UH, right/RB, ,/,, I/PRP, 'll/MD, need/VB, room/NN, for/IN, this/DT, ,/,, that/DT, 's/VBZ, handy/JJ]","(ROOT (SINV (VP (PP (NP (UH Oh)) (NP (NP (ADJP (RB right))) (, ,) (NP (PRP I)))) (MD 'll) (VP (VB need))) (NP (NP (NN room)) (PP (IN for) (NP (DT this))) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (ADJP (JJ handy))))))))"
+71001,"(23,)","but er , but , damn time consuming that 's the only trouble","[but/CC, er/NN, ,/,, but/CC, ,/,, damn/JJ, time/NN, consuming/NN, that/WDT, 's/VBZ, the/DT, only/JJ, trouble/NN]","(ROOT (FRAG (PP (CC but) (NP (NP (NN er)) (, ,) (ADVP (CC but)))) (, ,) (NP (NP (JJ damn) (NN time) (NN consuming)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (JJ only) (NN trouble))))))))"
+71001,"(24,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+71001,"(25, 26)","erm  I think this is the way it 's done anyway , tt , er , they should have done all the rest of them .","[erm/NN, I/PRP, think/VBP, this/DT, is/VBZ, the/DT, way/NN, it/PRP, 's/VBZ, done/VBN, anyway/RB, ,/,, tt/NN, ,/,, er/NN, ,/,, they/PRP, should/MD, have/VB, done/VBN, all/PDT, the/DT, rest/NN, of/IN, them/PRP, ./.]","(ROOT (S (NP (NP (NN erm)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN done) (ADVP (RB anyway)) (, ,) (NP (NP (NN tt)) (, ,) (NP (NN er))))))))))))))) (, ,) (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN done) (NP (NP (PDT all) (DT the) (NN rest)) (PP (IN of) (NP (PRP them))))))) (. .)))"
+71001,"(27,)",Oh got the wrong one,"[Oh/UH, got/VBD, the/DT, wrong/JJ, one/CD]",(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (VBD got) (NP (DT the) (JJ wrong))) (NP (CD one))))
+71001,"(28,)",You 're not the only one .,"[You/PRP, 're/VBP, not/RB, the/DT, only/JJ, one/CD, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (RB not) (NP (DT the) (JJ only) (CD one))) (. .)))
+71001,"(29,)",which one is it ?,"[which/WDT, one/NN, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WDT which) (NN one)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+71001,"(30,)",Which one 's that then ?,"[Which/WDT, one/PRP, 's/VBZ, that/IN, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WDT Which) (NP (PRP one))) (SQ (VBZ 's) (ADJP (IN that) (ADVP (RB then)))) (. ?)))
+71001,"(31,)",,[],X
+71001,"(32, 33, 34, 35)","Oh dear  right , I haven 't put   here 's the darts , darts ambulance  you have , have to give me the name , the classification and  club","[Oh/UH, dear/RB, right/RB, ,/,, I/PRP, haven/NN, 't/PRP, put/VBD, here/RB, 's/VBZ, the/DT, darts/NN, ,/,, darts/NN, ambulance/NN, you/PRP, have/VBP, ,/,, have/VBP, to/TO, give/VB, me/PRP, the/DT, name/NN, ,/,, the/DT, classification/NN, and/CC, club/NN]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (S (ADJP (ADJP (RB dear)) (SBAR (UCP (ADJP (RB right)) (, ,) (NP (NP (PRP I)) (NP (NN haven)))) (S (NP (PRP 't)) (VP (VBD put) (SBAR (S (NP (RB here)) (VP (VBZ 's) (NP (NP (DT the) (NN darts)) (, ,) (NP (NP (NN darts) (NN ambulance)) (SBAR (S (NP (PRP you)) (VP (VBP have)))))))))))))) (, ,) (VP (VBP have) (S (VP (TO to) (VP (VB give) (NP (PRP me)) (NP (NP (DT the) (NN name)) (, ,) (NP (DT the)))))))) (NP (NN classification) (CC and) (NN club))))"
+71001,"(36,)","Mm , mm","[Mm/NN, ,/,, mm/NN]","(ROOT (NP (NP (NN Mm)) (, ,) (NP (NN mm))))"
+71001,"(37,)",er we should stop this thing while we was pouring that out,"[er/NN, we/PRP, should/MD, stop/VB, this/DT, thing/NN, while/IN, we/PRP, was/VBD, pouring/VBG, that/DT, out/RP]",(ROOT (FRAG (NP (NP (NN er)) (SBAR (S (NP (PRP we)) (VP (MD should) (VP (VB stop) (NP (DT this) (NN thing)) (SBAR (IN while) (S (NP (PRP we)) (VP (VBD was) (VP (VBG pouring) (NP (DT that)) (PRT (RP out)))))))))))))
+71001,"(38,)",Too late,"[Too/RB, late/RB]",(ROOT (ADVP (RB Too) (RB late)))
+71001,"(39,)",rattle that through,"[rattle/VB, that/IN, through/IN]",(ROOT (S (VP (VB rattle) (ADJP (IN that) (PP (IN through))))))
+71001,"(40, 41)","mm , thank you  right","[mm/NN, ,/,, thank/VB, you/PRP, right/RB]","(ROOT (S (NP (NP (NN mm)) (VP (, ,) (S (VP (VB thank) (S (NP (PRP you)) (ADJP (RB right)))))))))"
+71001,"(42,)","right , er , I 've got my pad here , is that","[right/NN, ,/,, er/NN, ,/,, I/PRP, 've/VBP, got/VBD, my/PRP$, pad/NN, here/RB, ,/,, is/VBZ, that/IN]","(ROOT (S (NP (NP (NN right)) (, ,) (NP (NN er)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (PRP$ my) (NN pad)) (ADVP (RB here))))) (, ,))) (VP (VBZ is) (ADJP (IN that)))))"
+71001,"(43,)",,[],X
+71001,"(44, 45)",there 's that sheet and there 's all this lot  for each classification,"[there/EX, 's/VBZ, that/DT, sheet/NN, and/CC, there/EX, 's/VBZ, all/PDT, this/DT, lot/NN, for/IN, each/DT, classification/NN]",(ROOT (NP (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sheet)))) (CC and) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (PDT all) (DT this) (NN lot)) (PP (IN for) (NP (DT each) (NN classification)))))))))
+71001,"(46,)", Wonderful,[Wonderful/JJ],(ROOT (FRAG (JJ Wonderful)))
+71001,"(47,)",oh,[oh/UH],(ROOT (INTJ (UH oh)))
+71001,"(48,)",so you 're onto darts ?,"[so/RB, you/PRP, 're/VBP, onto/IN, darts/NN, ?/.]",(ROOT (S (RB so) (NP (PRP you)) (VP (VBP 're) (PP (IN onto) (NP (NN darts)))) (. ?)))
+71001,"(49,)","Right , we 're on darts","[Right/NN, ,/,, we/PRP, 're/VBP, on/IN, darts/NN]","(ROOT (S (ADVP (NN Right)) (, ,) (NP (PRP we)) (VP (VBP 're) (PP (IN on) (NP (NN darts))))))"
+71001,"(50,)",Where you got to ?,"[Where/WRB, you/PRP, got/VBD, to/TO, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (NP (PRP you)) (VP (VBD got) (S (VP (TO to))))) (. ?)))
+71001,"(51, 52)","haven 't started darts  oh that 's funny , that 's ambulance","[haven/NNP, 't/PRP, started/VBD, darts/NN, oh/NN, that/WDT, 's/VBZ, funny/JJ, ,/,, that/DT, 's/VBZ, ambulance/NN]","(ROOT (FRAG (NP (NP (NNP haven)) (SBAR (S (NP (PRP 't)) (VP (VBD started) (NP (NP (NN darts) (NN oh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ funny))))) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (NN ambulance))))))))))))"
+71001,"(53,)",S W five,"[S/NNP, W/NNP, five/CD]",(ROOT (NP (NP (NNP S) (NNP W)) (NP (CD five))))
+71001,"(54,)",er,[er/NN],(ROOT (NP (NN er)))
+71001,"(55,)",you want the number as well ?,"[you/PRP, want/VBP, the/DT, number/NN, as/RB, well/RB, ?/.]",(ROOT (S (NP (PRP you)) (VP (VBP want) (NP (DT the) (NN number)) (ADVP (RB as) (RB well))) (. ?)))
+71001,"(56,)","Yes , I 'm just looking for","[Yes/UH, ,/,, I/PRP, 'm/VBP, just/RB, looking/VBG, for/IN]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB just)) (VP (VBG looking))) (IN for)))"
+71001,"(57,)",What for ?,"[What/WDT, for/IN, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (PP (IN for)) (. ?)))
+71001,"(58, 59, 60, 61)",the other darts  looks as though it 's missing  oh no  ,"[the/DT, other/JJ, darts/NN, looks/VBZ, as/IN, though/IN, it/PRP, 's/VBZ, missing/VBG, oh/UH, no/DT]",(ROOT (S (NP (DT the) (JJ other) (NN darts)) (VP (VBZ looks) (SBAR (IN as) (IN though) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG missing) (NP (INTJ (UH oh)) (NP (DT no))))))))))
+71001,"(62,)",You d- the other darts are not in the bits she 's given you ?,"[You/PRP, d-/VBP, the/DT, other/JJ, darts/NN, are/VBP, not/RB, in/IN, the/DT, bits/NNS, she/PRP, 's/VBZ, given/VBN, you/PRP, ?/.]",(ROOT (S (S (NP (PRP You)) (VP (VBP d-) (SBAR (S (NP (DT the) (JJ other) (NN darts)) (VP (VBP are) (RB not) (PP (IN in) (NP (DT the) (NNS bits)))))))) (NP (PRP she)) (VP (VBZ 's) (VP (VBN given) (NP (PRP you)))) (. ?)))
+71001,"(63, 64)","No , it 's er  oh this is ridiculous","[No/DT, ,/,, it/PRP, 's/VBZ, er/NN, oh/NN, this/DT, is/VBZ, ridiculous/JJ]","(ROOT (NP (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN er) (NN oh)) (SBAR (S (NP (DT this)) (VP (VBZ is) (ADJP (JJ ridiculous))))))))))"
+71001,"(65,)",So you see your Christmas present came in handy,"[So/RB, you/PRP, see/VB, your/PRP$, Christmas/NNP, present/JJ, came/VBD, in/IN, handy/JJ]",(ROOT (ADJP (RB So) (SBAR (S (NP (PRP you)) (VP (VB see) (S (NP (PRP$ your) (NNP Christmas)) (ADJP (JJ present)) (S (VP (VBD came) (PP (IN in) (ADJP (JJ handy)))))))))))
+71001,"(66,)","that 's , look , let 's do another one first , what 's the next one on the list ?","[that/DT, 's/VBZ, ,/,, look/VB, ,/,, let/VB, 's/PRP, do/VB, another/DT, one/CD, first/RB, ,/,, what/WP, 's/VBZ, the/DT, next/JJ, one/CD, on/IN, the/DT, list/NN, ?/.]","(ROOT (SBARQ (SBAR (WHNP (DT that)) (S (VP (VP (VBZ 's)) (, ,) (VP (VB look)) (, ,) (VP (VB let) (S (NP (PRP 's)) (VP (VB do) (NP (DT another) (CD one)) (ADVP (RB first)))))))) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (NP (DT the) (JJ next) (CD one)) (PP (IN on) (NP (DT the) (NN list))))) (. ?)))"
+71001,"(67,)",Er quoits wonderful,"[Er/NN, quoits/NNS, wonderful/JJ]",(ROOT (NP (NP (NN Er) (NNS quoits)) (NP (JJ wonderful))))
+71001,"(68,)",Quoits right,"[Quoits/NNS, right/RB]",(ROOT (ADVP (NP (NNS Quoits)) (RB right)))
+71001,"(69,)","I want to do quoits , I don 't  ","[I/PRP, want/VBP, to/TO, do/VB, quoits/NNS, ,/,, I/PRP, don/VBP, 't/PRP]","(ROOT (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB do) (NP (NNS quoits)) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)))))))))))"
+71001,"(70, 71)","right  okay , quoits","[right/JJ, okay/JJ, ,/,, quoits/NNS]","(ROOT (NP (NP (JJ right) (JJ okay)) (, ,) (NP (NNS quoits))))"
+71001,"(72,)","quoits , they all want to do quoits","[quoits/NNS, ,/,, they/PRP, all/DT, want/VBP, to/TO, do/VB, quoits/NNS]","(ROOT (S (NP (NP (NNS quoits)) (, ,) (NP (NP (PRP they)) (NP (DT all)))) (VP (VBP want) (S (VP (TO to) (VP (VB do) (NP (NNS quoits))))))))"
+71001,"(73,)","Hundreds of them , yes","[Hundreds/NNS, of/IN, them/PRP, ,/,, yes/UH]","(ROOT (FRAG (SBAR (WHNP (WHNP (NNS Hundreds)) (PRN (PP (IN of) (NP (PRP them))) (, ,))) (FRAG (INTJ (UH yes))))))"
+71001,"(74,)","Hundreds of them , wonderful , somebody else can do this one Elizabeth >","[Hundreds/NNS, of/IN, them/PRP, ,/,, wonderful/JJ, ,/,, somebody/NN, else/RB, can/MD, do/VB, this/DT, one/CD, Elizabeth/NNP, >/JJR]","(ROOT (S (NP (NP (NNS Hundreds)) (PP (IN of) (NP (PRP them)))) (, ,) (ADVP (JJ wonderful)) (, ,) (NP (NN somebody) (RB else)) (VP (MD can) (VP (VB do) (NP (NP (DT this) (CD one) (NNP Elizabeth)) (JJR >))))))"
+71001,"(75,)",Well give me the class,"[Well/RB, give/VB, me/PRP, the/DT, class/NN]",(ROOT (S (ADVP (RB Well)) (VP (VB give) (NP (PRP me)) (NP (DT the) (NN class)))))
+71001,"(76,)",W five,"[W/NNP, five/CD]",(ROOT (NP (NP (NNP W)) (NP (CD five))))
+71001,"(77,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(78,)",number ?,"[number/NN, ?/.]",(ROOT (FRAG (NP (NN number)) (. ?)))
+71001,"(79,)","event , no I don 't need the number","[event/NN, ,/,, no/DT, I/PRP, don/VBP, 't/PRP, need/VB, the/DT, number/NN]","(ROOT (S (NP (NP (NN event)) (, ,) (NP (DT no) (PRP I))) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need) (NP (DT the) (NN number)))))))"
+71001,"(80,)",What 's their name ?,"[What/WP, 's/VBZ, their/PRP$, name/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP$ their) (NN name))) (. ?)))
+71001,"(81,)",Mid Northumberland,"[Mid/NNP, Northumberland/NNP]",(ROOT (NP (NNP Mid) (NNP Northumberland)))
+71001,"(82,)","Yeah , Mid Northumberland","[Yeah/UH, ,/,, Mid/JJ, Northumberland/NNP]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (JJ Mid)) (NP (NNP Northumberland))))"
+71001,"(83,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(84,)",these are all Mid Northumberland,"[these/DT, are/VBP, all/DT, Mid/JJ, Northumberland/NN]",(ROOT (S (NP (DT these)) (VP (VBP are) (NP (DT all) (JJ Mid) (NN Northumberland)))))
+71001,"(85,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(86, 87)",er  anything else you want ?,"[er/NN, anything/NN, else/RB, you/PRP, want/VB, ?/.]",(ROOT (NP (NP (NP (NN er) (NN anything)) (ADJP (RB else))) (SBAR (S (NP (PRP you)) (VP (VB want)))) (. ?)))
+71001,"(88,)","No , all I want is the name","[No/DT, ,/,, all/DT, I/PRP, want/VBP, is/VBZ, the/DT, name/NN]","(ROOT (S (NP (DT No)) (, ,) (NP (NP (DT all)) (SBAR (S (NP (PRP I)) (VP (VBP want))))) (VP (VBZ is) (NP (DT the) (NN name)))))"
+71001,"(89,)",Of the class ?,"[Of/IN, the/DT, class/NN, ?/.]",(ROOT (FRAG (PP (IN Of) (NP (DT the) (NN class))) (. ?)))
+71001,"(90,)","the class , yes","[the/DT, class/NN, ,/,, yes/UH]","(ROOT (NP (NP (DT the) (NN class)) (, ,) (NP (UH yes))))"
+71001,"(91,)",Okay Elaine  > W one Mid Northumberland,"[Okay/JJ, Elaine/NNP, >/JJR, W/NN, one/CD, Mid/JJ, Northumberland/NNP]",(ROOT (NP (NP (JJ Okay) (NNP Elaine)) (NP (NP (JJR >) (NN W)) (NP (CD one))) (NP (JJ Mid) (NNP Northumberland))))
+71001,"(92,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(93,)",Peter  >,"[Peter/NNP, >/JJR]",(ROOT (NP (NP (NNP Peter)) (NP (JJR >))))
+71001,"(94,)","ah , ah ah , ah , er Mid Northumberland , that should be , she 's got down ","[ah/NN, ,/,, ah/NN, ah/NN, ,/,, ah/NN, ,/,, er/NN, Mid/JJ, Northumberland/NNP, ,/,, that/WDT, should/MD, be/VB, ,/,, she/PRP, 's/VBZ, got/VBN, down/RP]","(ROOT (FRAG (NP (NP (NN ah)) (, ,) (NP (NN ah) (NN ah)) (, ,) (NP (NP (NN ah)) (, ,) (NP (NP (NN er)) (NP (JJ Mid) (NNP Northumberland))) (, ,) (SBAR (WHNP (WDT that)) (S (VP (MD should) (VP (VB be) (, ,) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (PRT (RP down))))))))))))))"
+71001,"(95,)",Well it says W one here,"[Well/RB, it/PRP, says/VBZ, W/NNP, one/CD, here/RB]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP it)) (SBAR (S (VP (VBZ says) (NP (NNP W) (CD one)) (ADVP (RB here))))))))
+71001,"(96,)","Right , that 's okay","[Right/RB, ,/,, that/DT, 's/VBZ, okay/JJ]","(ROOT (S (ADVP (RB Right)) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ okay)))))"
+71001,"(97,)","Peter  > looks like five , three or S three","[Peter/NNP, >/JJR, looks/NNS, like/IN, five/CD, ,/,, three/CD, or/CC, S/NNS, three/CD]","(ROOT (NP (NP (NNP Peter)) (NP (NP (JJR >) (NNS looks)) (PP (IN like) (NP (NP (CD five)) (, ,) (NP (CD three)) (CC or) (NP (NNS S))))) (NP (CD three))))"
+71001,"(98,)","S three , probably if you give me the class first it 's probably easier Pete , Peter  >","[S/NNS, three/CD, ,/,, probably/RB, if/IN, you/PRP, give/VBP, me/PRP, the/DT, class/NN, first/RB, it/PRP, 's/VBZ, probably/RB, easier/JJR, Pete/NNP, ,/,, Peter/NNP, >/JJR]","(ROOT (FRAG (NP (NP (NNS S)) (NP (NP (CD three)) (, ,) (ADVP (RB probably)))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP give) (NP (PRP me)) (NP (NP (DT the) (NN class)) (ADVP (RB first)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB probably) (JJR easier)) (NP (NP (NNP Pete) (, ,) (NNP Peter)) (JJR >)))))))))))"
+71001,"(99,)","S three  , it just says    >  > ","[S/NNS, three/CD, ,/,, it/PRP, just/RB, says/VBZ, >/JJR, >/JJR]","(ROOT (S (NP (NP (NNS S)) (NP (CD three))) (, ,) (NP (PRP it)) (ADVP (RB just)) (VP (VBZ says) (ADJP (ADJP (JJR >)) (JJR >)))))"
+71001,"(100,)", >  right,"[>/JJR, right/NN]",(ROOT (X (NP (JJR >) (NN right))))
+71001,"(101,)","mm , mm","[mm/NN, ,/,, mm/NN]","(ROOT (NP (NP (NN mm)) (, ,) (NP (NN mm))))"
+71001,"(102,)",okay,[okay/JJ],(ROOT (ADJP (JJ okay)))
+71001,"(103, 104)",Wayne  > W three  W three ?,"[Wayne/NNP, >/JJR, W/NNP, three/CD, W/NNP, three/CD, ?/.]",(ROOT (NP (NP (NP (NNP Wayne)) (JJR >)) (NP (NP (NNP W) (CD three)) (NP (NNP W) (CD three))) (. ?)))
+71001,"(105, 106)","Yes  yes , right","[Yes/UH, yes/UH, ,/,, right/RB]","(ROOT (FRAG (INTJ (UH Yes) (UH yes)) (, ,) (ADVP (RB right))))"
+71001,"(107,)",What 's W stand for ?,"[What/WP, 's/VBZ, W/NNP, stand/VB, for/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (NNP W)) (S (VP (VB stand) (PP (IN for)))))) (. ?)))
+71001,"(108,)",Wheelchairs,[Wheelchairs/NNP],(ROOT (NP (NNP Wheelchairs)))
+71001,"(109,)",Oh right,"[Oh/UH, right/RB]",(ROOT (INTJ (UH Oh) (RB right)))
+71001,"(110,)","Class class three , stand S stand","[Class/NN, class/NN, three/CD, ,/,, stand/VBP, S/NNS, stand/VB]","(ROOT (S (NP (NP (NP (NN Class)) (NN class)) (NP (CD three)) (, ,)) (VP (VBP stand) (S (NP (NNS S)) (VP (VB stand))))))"
+71001,"(111,)",and S is standing,"[and/CC, S/NNS, is/VBZ, standing/VBG]",(ROOT (FRAG (CC and) (NP (NP (NNS S)) (SBAR (S (VP (VBZ is) (VP (VBG standing))))))))
+71001,"(112,)",S is standing,"[S/NNS, is/VBZ, standing/VBG]",(ROOT (S (NP (NNS S)) (VP (VBZ is) (VP (VBG standing)))))
+71001,"(113,)","right , John  > W one","[right/NN, ,/,, John/NNP, >/JJR, W/NN, one/CD]","(ROOT (NP (NP (NP (NN right)) (, ,) (NP (NNP John))) (NP (NP (JJR >) (NN W)) (NP (CD one)))))"
+71001,"(114,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+71001,"(115,)",John  > W one,"[John/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP John)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(116,)","That 's   right , okay","[That/DT, 's/VBZ, right/JJ, ,/,, okay/JJ]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (ADJP (JJ right)) (, ,) (ADJP (JJ okay))))))"
+71001,"(117,)","in Northumberland , another W one Paul >  ,","[in/IN, Northumberland/NNP, ,/,, another/DT, W/NNP, one/CD, Paul/NNP, >/JJR, ,/,]","(ROOT (PP (IN in) (NP (NP (NNP Northumberland)) (, ,) (NP (NP (DT another) (NNP W) (CD one) (NNP Paul)) (NP (JJR >))) (, ,))))"
+71001,"(118,)","Well how have I got , those down , as , these are Mid Northumberland ?","[Well/RB, how/WRB, have/VBP, I/PRP, got/VBD, ,/,, those/DT, down/RB, ,/,, as/IN, ,/,, these/DT, are/VBP, Mid/JJ, Northumberland/NNP, ?/.]","(ROOT (FRAG (ADVP (RB Well)) (SBAR (SBAR (WHADVP (WRB how)) (S (VP (VBP have) (S (NP (PRP I)) (VP (VBD got) (, ,) (S (NP (DT those)) (ADVP (RB down)))))))) (, ,) (SBAR (IN as) (, ,) (S (NP (DT these)) (VP (VBP are) (NP (JJ Mid) (NNP Northumberland)))))) (. ?)))"
+71001,"(119,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+71001,"(120,)","Right , okay","[Right/NN, ,/,, okay/JJ]","(ROOT (FRAG (NP (NP (NN Right)) (, ,) (ADJP (JJ okay)))))"
+71001,"(121,)",Irene  > W two,"[Irene/NNP, >/JJR, W/NN, two/CD]",(ROOT (NP (NP (NNP Irene)) (NP (JJR >) (NN W)) (NP (CD two))))
+71001,"(122,)",th- this is er mid Northumberland isn 't it ?,"[th-/NN, this/DT, is/VBZ, er/NN, mid/JJ, Northumberland/NNP, isn/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (NP (NN th-)) (NP (DT this))) (VP (VBZ is) (NP (NP (NN er)) (NP (NP (JJ mid) (NNP Northumberland) (NNP isn)) (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+71001,"(123,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+71001,"(124,)","I 've got them down as T , L , F that one , okay","[I/PRP, 've/VBP, got/VBD, them/PRP, down/RP, as/IN, T/NN, ,/,, L/NN, ,/,, F/NN, that/WDT, one/CD, ,/,, okay/JJ]","(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (PRP them)) (PRT (RP down)) (PP (IN as) (NP (NP (NN T) (, ,) (NN L) (, ,) (NN F)) (SBAR (WHNP (WDT that)) (S (NP (CD one)))))) (, ,) (S (ADJP (JJ okay)))))))"
+71001,"(125,)",W three Yvonne >,"[W/NNP, three/CD, Yvonne/NNP, >/JJR]",(ROOT (NP (NP (NNP W) (CD three)) (NP (NNP Yvonne)) (NP (JJR >))))
+71001,"(126,)","right , yes","[right/RB, ,/,, yes/UH]","(ROOT (INTJ (INTJ (RB right)) (, ,) (INTJ (UH yes))))"
+71001,"(127,)","W four Millie >  , M I L L I E ","[W/NNP, four/CD, Millie/NNP, >/JJR, ,/,, M/NN, I/NN, L/NN, L/NN, I/PRP, E/NN]","(ROOT (NP (NP (NNP W) (CD four)) (NP (NP (NP (NNP Millie)) (JJR >)) (, ,) (NP (NN M) (NN I) (NN L) (NN L))) (NP (PRP I) (NN E))))"
+71001,"(128,)","Millie , or Lillie ?","[Millie/NNP, ,/,, or/CC, Lillie/NNP, ?/.]","(ROOT (NP (NP (NP (NNP Millie)) (, ,) (CC or) (NP (NNP Lillie))) (. ?)))"
+71001,"(129,)",Millie,[Millie/NNP],(ROOT (NP (NNP Millie)))
+71001,"(130,)",Right,[Right/NN],(ROOT (NP (NN Right)))
+71001,"(131,)","W four , Sheila >","[W/NNP, four/CD, ,/,, Sheila/NNP, >/JJR]","(ROOT (S (NP (NP (NNP W) (CD four)) (, ,) (NP (NNP Sheila))) (ADJP (JJR >))))"
+71001,"(132,)","right , yes","[right/RB, ,/,, yes/UH]","(ROOT (INTJ (INTJ (RB right)) (, ,) (INTJ (UH yes))))"
+71001,"(133,)",Sheila  > W five,"[Sheila/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP Sheila)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(134,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(135,)",Steven  > W five,"[Steven/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP Steven)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(136,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(137,)",oh Veron  >,"[oh/UH, Veron/NNP, >/JJR]",(ROOT (S (VP (NP (INTJ (UH oh)) (NP (NNP Veron)))) (JJR >)))
+71001,"(138,)",there   yes got him,"[there/EX, yes/UH, got/VBD, him/PRP]",(ROOT (S (NP (EX there)) (VP (ADVP (UH yes)) (VBD got) (NP (PRP him)))))
+71001,"(139,)","W five , used to be at our school","[W/NNP, five/CD, ,/,, used/VBN, to/TO, be/VB, at/IN, our/PRP$, school/NN]","(ROOT (FRAG (NP (NP (NNP W) (CD five)) (, ,) (VP (VBN used) (S (VP (TO to) (VP (VB be) (PP (IN at) (NP (PRP$ our) (NN school))))))))))"
+71001,"(140,)",does he ?,"[does/VBZ, he/PRP, ?/.]",(ROOT (S (VP (VBZ does) (NP (PRP he))) (. ?)))
+71001,"(141, 142)",Yes  he 's doing quoits again Robin >,"[Yes/RB, he/PRP, 's/VBZ, doing/VBG, quoits/NNS, again/RB, Robin/NNP, >/JJR]",(ROOT (FRAG (ADVP (RB Yes)) (NP (NP (PRP he)) (SBAR (S (VP (VBZ 's) (VP (VBG doing) (ADJP (NP (NP (NNS quoits)) (ADVP (RB again) (NP (NNP Robin)))) (JJR >)))))))))
+71001,"(143,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(144, 145)",W five  Steven >,"[W/NNP, five/CD, Steven/NNP, >/JJR]",(ROOT (NP (NP (NNP W) (CD five)) (NP (NNP Steven)) (NP (JJR >))))
+71001,"(146,)",who 's he ?,"[who/WP, 's/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP who)) (SQ (VBZ 's) (NP (PRP he))) (. ?)))
+71001,"(147,)",What 's he ?,"[What/WP, 's/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP he))) (. ?)))
+71001,"(148,)",Well it says,"[Well/RB, it/PRP, says/VBZ]",(ROOT (FRAG (X (ADVP (RB Well)) (NP (PRP it))) (VP (VBZ says))))
+71001,"(149,)",V H ?,"[V/NNP, H/NNP, ?/.]",(ROOT (NP (NNP V) (NNP H) (. ?)))
+71001,"(150,)",it hasn 't got anything by him,"[it/PRP, hasn/VBD, 't/PRP, got/VBD, anything/NN, by/IN, him/PRP]",(ROOT (S (NP (PRP it)) (VP (VBD hasn) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (NN anything)) (PP (IN by) (NP (PRP him)))))))))
+71001,"(151,)",It must have something,"[It/PRP, must/MD, have/VB, something/NN]",(ROOT (S (NP (PRP It)) (VP (MD must) (VP (VB have) (NP (NN something))))))
+71001,"(152,)","it 's got O , two , one , his number and then S one A","[it/PRP, 's/VBZ, got/VBN, O/NN, ,/,, two/CD, ,/,, one/CD, ,/,, his/PRP$, number/NN, and/CC, then/RB, S/VBZ, one/CD, A/DT]","(ROOT (S (NP (PRP it)) (VP (VP (VBZ 's) (VP (VBN got) (NP (NP (NN O)) (, ,) (NP (CD two)) (, ,) (NP (CD one)) (, ,) (NP (PRP$ his) (NN number))))) (CC and) (VP (ADVP (RB then)) (VBZ S) (NP (CD one) (DT A))))))"
+71001,"(153, 154, 155)","That 's it S one A , S one A  er  what 's , what 's his name again ?","[That/DT, 's/VBZ, it/PRP, S/VBZ, one/CD, A/DT, ,/,, S/NNS, one/CD, A/DT, er/NN, what/WP, 's/VBZ, ,/,, what/WP, 's/VBZ, his/PRP$, name/NN, again/RB, ?/.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ S) (NP (CD one) (DT A)) (, ,) (S (NP (NP (NNS S)) (NP (CD one))) (NP (NP (DT A) (NN er)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (, ,) (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (NP (NP (PRP$ his) (NN name)) (ADVP (RB again)))) (. ?)))))))))))))"
+71001,"(156,)",Robin >,"[Robin/NNP, >/JJR]",(ROOT (NP (NP (NNP Robin)) (NP (JJR >))))
+71001,"(157,)",Oh we 've got Robin  > he 's er W five,"[Oh/UH, we/PRP, 've/VBP, got/VBN, Robin/NNP, >/JJR, he/PRP, 's/VBZ, er/NN, W/NN, five/CD]",(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (ADVP (PRP we)) (VBP 've) (VP (VBN got) (S (NP (NNP Robin)) (ADJP (JJR >)) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (NP (NN er) (NN W)))))))) (NP (CD five))))
+71001,"(158,)",Oh sorry Steven  >,"[Oh/UH, sorry/JJ, Steven/NNP, >/JJR]",(ROOT (PP (NP (UH Oh)) (PP (ADVP (JJ sorry) (NP (NNP Steven))) (ADJP (JJR >)))))
+71001,"(159,)",Steven >,"[Steven/NNP, >/JJR]",(ROOT (NP (NP (NNP Steven)) (NP (JJR >))))
+71001,"(160,)","Mm , mm","[Mm/NN, ,/,, mm/NN]","(ROOT (NP (NP (NN Mm)) (, ,) (NP (NN mm))))"
+71001,"(161,)","yes , got him","[yes/UH, ,/,, got/VBD, him/PRP]","(ROOT (FRAG (INTJ (UH yes)) (, ,) (PP (VBD got) (NP (PRP him)))))"
+71001,"(162,)",er Kevin  > S two,"[er/NN, Kevin/NNP, >/JJR, S/NNS, two/CD]",(ROOT (NP (NP (NN er) (NNP Kevin)) (NP (JJR >) (NNS S)) (NP (CD two))))
+71001,"(163,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(164,)",Lou  > S three,"[Lou/NNP, >/JJR, S/NNS, three/CD]",(ROOT (NP (NP (NNP Lou)) (NP (JJR >) (NNS S)) (NP (CD three))))
+71001,"(165,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(166,)",David  > S two,"[David/NNP, >/JJR, S/NNS, two/CD]",(ROOT (NP (NP (NNP David)) (NP (JJR >) (NNS S)) (NP (CD two))))
+71001,"(167,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(168,)","Neville  > S one A , what 's the difference between the one As ?","[Neville/NNP, >/JJR, S/NNS, one/CD, A/DT, ,/,, what/WP, 's/VBZ, the/DT, difference/NN, between/IN, the/DT, one/CD, As/IN, ?/.]","(ROOT (SBARQ (FRAG (NP (NNP Neville)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))) (, ,) (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (NP (NP (DT the) (NN difference)) (PP (IN between) (NP (DT the) (CD one)))) (PP (IN As)))) (. ?)))"
+71001,"(169, 170)","Er    standing one ambulance , that 's what it stands for , er it means","[Er/NN, standing/VBG, one/CD, ambulance/NN, ,/,, that/DT, 's/VBZ, what/WP, it/PRP, stands/VBZ, for/IN, ,/,, er/NN, it/PRP, means/VBZ]","(ROOT (FRAG (NP (NN Er)) (S (VP (VBG standing) (NP (NP (CD one) (NN ambulance)) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ stands) (PP (IN for)) (, ,) (NP (NP (NN er)) (SBAR (S (NP (PRP it)) (VP (VBZ means))))))))))))))))"
+71001,"(171,)","Oh what standing not ambulance , I thought he 'd be in a wheelchair","[Oh/UH, what/WDT, standing/NN, not/RB, ambulance/NN, ,/,, I/PRP, thought/VBD, he/PRP, 'd/MD, be/VB, in/IN, a/DT, wheelchair/NN]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (PP (NP (WDT what) (NN standing)) (NP (NP (RB not) (NN ambulance)) (, ,) (NP (PRP I)))) (VBD thought) (NP (NP (PRP he)) (SBAR (S (VP (MD 'd) (VP (VB be) (PP (IN in)))))))) (NP (DT a) (NN wheelchair))))"
+71001,"(172,)","it means that er they 're in a wheelchair most of the time , but they 're , for the , for the activity they 're , they 're standing","[it/PRP, means/VBZ, that/IN, er/NN, they/PRP, 're/VBP, in/IN, a/DT, wheelchair/NN, most/JJS, of/IN, the/DT, time/NN, ,/,, but/CC, they/PRP, 're/VBP, ,/,, for/IN, the/DT, ,/,, for/IN, the/DT, activity/NN, they/PRP, 're/VBP, ,/,, they/PRP, 're/VBP, standing/VBG]","(ROOT (S (NP (PRP it)) (VP (VBZ means) (SBAR (IN that) (S (NP (NP (NN er)) (SBAR (S (S (NP (PRP they)) (VP (VBP 're) (ADVP (IN in) (NP (DT a) (NN wheelchair))) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN time)))))) (, ,) (CC but) (S (NP (PRP they)) (VP (VBP 're) (, ,) (PP (IN for) (NP (DT the))) (, ,) (PP (IN for) (NP (NP (DT the) (NN activity)) (SBAR (S (NP (PRP they)) (VP (VBP 're))))))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (VP (VBG standing))))))))"
+71001,"(173,)","Oh I see , right that 's the lot on this page then","[Oh/UH, I/PRP, see/VBP, ,/,, right/JJ, that/DT, 's/VBZ, the/DT, lot/NN, on/IN, this/DT, page/NN, then/RB]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (, ,) (NP (JJ right)) (ADVP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN lot)) (PP (IN on) (NP (DT this) (NN page)))) (ADVP (RB then)))))"
+71001,"(174,)","Right , okay , so , let 's work our way rest of the roll more or less","[Right/NN, ,/,, okay/JJ, ,/,, so/RB, ,/,, let/VB, 's/POS, work/VB, our/PRP$, way/NN, rest/NN, of/IN, the/DT, roll/NN, more/RBR, or/CC, less/RBR]","(ROOT (FRAG (S (ADJP (ADJP (NN Right)) (, ,) (ADJP (ADJP (JJ okay)) (PRN (, ,) (SBAR (RB so)) (, ,)))) (S (VP (VB let) (S (NP (POS 's)) (VP (VB work) (NP (NP (PRP$ our) (NN way) (NN rest)) (PP (IN of) (NP (DT the) (NN roll)))) (ADVP (RBR more) (CC or) (RBR less)))))))))"
+71001,"(175,)","Right , quoits , what does , that 's erm Q is it ?","[Right/RB, ,/,, quoits/NNS, ,/,, what/WP, does/VBZ, ,/,, that/DT, 's/VBZ, erm/NN, Q/NNP, is/VBZ, it/PRP, ?/.]","(ROOT (S (ADVP (RB Right)) (, ,) (NP (NNS quoits)) (, ,) (SBAR (WHNP (WP what)) (S (VP (VBZ does)))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (NN erm)) (SBAR (S (NP (NNP Q)) (VP (VBZ is) (NP (PRP it))))))) (. ?)))"
+71001,"(176,)",Pardon ?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+71001,"(177,)",Q for quoits on this,"[Q/NNP, for/IN, quoits/NNS, on/IN, this/DT]",(ROOT (NP (NP (NNP Q)) (PP (IN for) (NP (NP (NNS quoits)) (PP (IN on) (NP (DT this)))))))
+71001,"(178,)",Yes Q for quoits,"[Yes/UH, Q/NNP, for/IN, quoits/NNPS]",(ROOT (PP (NP (UH Yes)) (PP (NP (NNP Q)) (IN for) (NP (NNPS quoits)))))
+71001,"(179,)","Q for quoits right , oh , I think one of the disabled secretaries wrote this","[Q/NNP, for/IN, quoits/NNP, right/NNP, ,/,, oh/UH, ,/,, I/PRP, think/VBP, one/CD, of/IN, the/DT, disabled/JJ, secretaries/NNS, wrote/VBD, this/DT]","(ROOT (SINV (S (NP (NNP Q) (IN for) (NNP quoits) (NNP right)) (, ,) (INTJ (UH oh)) (, ,) (NP (PRP I)) (VP (VBP think) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ disabled) (NNS secretaries)))))) (VP (VBD wrote)) (NP (DT this))))"
+71001,"(180,)","Yes I think that 's , that 's the Hexham one is it ?","[Yes/UH, I/PRP, think/VBP, that/DT, 's/VBZ, ,/,, that/DT, 's/VBZ, the/DT, Hexham/NNP, one/CD, is/VBZ, it/PRP, ?/.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's)))))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NNP Hexham) (CD one)) (SBAR (S (VP (VBZ is) (NP (PRP it))))))) (. ?)))"
+71001,"(181,)",That 's the Hexham Spinal Sports Club,"[That/DT, 's/VBZ, the/DT, Hexham/NNP, Spinal/JJ, Sports/NNS, Club/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT the) (NNP Hexham) (JJ Spinal) (NNS Sports) (NN Club)))))
+71001,"(182,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(183,)","erm , for the quoits there 's only two competitors","[erm/NN, ,/,, for/IN, the/DT, quoits/NNS, there/EX, 's/VBZ, only/RB, two/CD, competitors/NNS]","(ROOT (NP (NP (NN erm)) (, ,) (PP (IN for) (NP (NP (DT the) (NNS quoits)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (RB only) (CD two) (NNS competitors)))))))))"
+71001,"(184,)","Right , what are they ?","[Right/NN, ,/,, what/WP, are/VBP, they/PRP, ?/.]","(ROOT (SBARQ (NP (NN Right)) (, ,) (WHNP (WP what)) (SQ (VBP are) (NP (PRP they))) (. ?)))"
+71001,"(185,)",Are they wheelchairs ?,"[Are/VBP, they/PRP, wheelchairs/NNP, ?/.]",(ROOT (SINV (VP (VBP Are)) (NP (NP (PRP they)) (NP (NNP wheelchairs) (. ?)))))
+71001,"(186,)",er John  > W five,"[er/NN, John/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NN er) (NNP John)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(187,)",Who ?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+71001,"(188,)",John  > oh no could be >,"[John/NNP, >/JJR, oh/UH, no/DT, could/MD, be/VB, >/JJR]",(ROOT (S (NP (NP (NP (NNP John)) (JJR >)) (SBAR (S (INTJ (UH oh)) (NP (DT no)) (VP (MD could) (VP (VB be) (ADJP (JJR >)))))))))
+71001,"(189,)",John >,"[John/NNP, >/JJR]",(ROOT (NP (NP (NNP John)) (NP (JJR >))))
+71001,"(190,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(191, 192)",er  wheelchair W five ?,"[er/NN, wheelchair/NN, W/NN, five/CD, ?/.]",(ROOT (NP (NP (NN er) (NN wheelchair) (NN W)) (NP (CD five)) (. ?)))
+71001,"(193,)",mm,[mm/NN],(ROOT (NP (NN mm)))
+71001,"(194, 195)","Oh , he 's not there , John   > right , okay , yes","[Oh/UH, ,/,, he/PRP, 's/VBZ, not/RB, there/RB, ,/,, John/NNP, >/JJR, right/NN, ,/,, okay/JJ, ,/,, yes/UH]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP he)) (VP (VBZ 's) (RB not) (NP (NP (NP (RB there)) (, ,) (NP (NP (NNP John)) (NP (JJR >) (NN right)))) (, ,) (ADJP (JJ okay)) (, ,))) (UH yes)))"
+71001,"(196,)",and the other one is Andrew  > or Andrew  > W four,"[and/CC, the/DT, other/JJ, one/CD, is/VBZ, Andrew/NNP, >/JJR, or/CC, Andrew/NNP, >/JJR, W/NNP, four/CD]",(ROOT (FRAG (CC and) (NP (NP (DT the) (JJ other) (CD one)) (SBAR (S (VP (VBZ is) (NP (NP (NP (NNP Andrew)) (JJR >)) (CC or) (NP (NP (NNP Andrew)) (JJR >)) (NP (NNP W) (CD four)))))))))
+71001,"(197,)","right okay , that 's got them , yes got him , okay , right","[right/JJ, okay/JJ, ,/,, that/DT, 's/VBZ, got/VBD, them/PRP, ,/,, yes/UH, got/VBD, him/PRP, ,/,, okay/JJ, ,/,, right/JJ]","(ROOT (FRAG (ADVP (JJ right)) (NP (NP (JJ okay)) (, ,) (NP (NP (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (VP (VBD got) (NP (PRP them))))))) (PRN (, ,) (SINV (FRAG (INTJ (UH yes))) (VP (VBD got)) (NP (PRP him))) (, ,))) (ADJP (JJ okay) (, ,) (JJ right))))))"
+71001,"(198,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(199, 200)","sometimes there might be two different names on this , on those , on those photocopies  so it might not be the same one at the top and bottom","[sometimes/RB, there/EX, might/MD, be/VB, two/CD, different/JJ, names/NNS, on/IN, this/DT, ,/,, on/IN, those/DT, ,/,, on/IN, those/DT, photocopies/NNS, so/IN, it/PRP, might/MD, not/RB, be/VB, the/DT, same/JJ, one/CD, at/IN, the/DT, top/NN, and/CC, bottom/NN]","(ROOT (ADJP (RB sometimes) (SBAR (S (NP (EX there)) (VP (MD might) (VP (VB be) (NP (NP (CD two) (JJ different) (NNS names)) (PP (IN on) (NP (DT this)))) (, ,) (PP (IN on) (NP (NP (DT those)) (, ,) (PP (IN on) (NP (NP (DT those) (NNS photocopies)) (SBAR (IN so) (S (NP (PRP it)) (VP (MD might) (RB not) (VP (VB be) (NP (NP (DT the) (JJ same) (CD one)) (PP (IN at) (NP (DT the) (NN top) (CC and) (NN bottom))))))))))))))))))"
+71001,"(201,)","Right , this is West Cumbria Disabled Sports Club","[Right/NN, ,/,, this/DT, is/VBZ, West/JJ, Cumbria/NNP, Disabled/JJ, Sports/NNS, Club/NN]","(ROOT (SINV (FRAG (NP (NP (NN Right)) (, ,) (NP (DT this)))) (VP (VBZ is) (ADJP (JJ West))) (NP (NNP Cumbria) (JJ Disabled) (NNS Sports) (NN Club))))"
+71001,"(202,)",Cumb- right,"[Cumb-/JJ, right/NN]",(ROOT (NP (JJ Cumb-) (NN right)))
+71001,"(203, 204)","right ,Cumb- Tom , oh this sports , Tom  > S one","[right/JJ, ,Cumb-/NN, Tom/NNP, ,/,, oh/UH, this/DT, sports/NNS, ,/,, Tom/NNP, >/JJR, S/NNS, one/CD]","(ROOT (NP (NP (NP (NP (JJ right) (NN ,Cumb-)) (VP (NP (NNP Tom)) (, ,) (NP (INTJ (UH oh)) (NP (DT this) (NNS sports))))) (, ,) (NP (NNP Tom))) (NP (NP (JJR >) (NNS S)) (NP (CD one)))))"
+71001,"(205,)",Tom >  ?,"[Tom/NNP, >/JJR, ?/.]",(ROOT (NP (NP (NNP Tom)) (NP (JJR >)) (. ?)))
+71001,"(206,)","oh Tom >  , yes","[oh/UH, Tom/NNP, >/JJR, ,/,, yes/UH]","(ROOT (S (VP (UH oh) (NP (NP (NNP Tom)) (ADJP (JJR >))) (, ,) (NP (UH yes)))))"
+71001,"(207,)",Right,[Right/NN],(ROOT (NP (NN Right)))
+71001,"(208,)","more disabled writing , Mary  > S one","[more/RBR, disabled/JJ, writing/NN, ,/,, Mary/NNP, >/JJR, S/NNS, one/CD]","(ROOT (NP (NP (RBR more)) (NP (NP (JJ disabled) (NN writing)) (, ,) (NP (NP (NNP Mary)) (NP (JJR >) (NNS S)))) (NP (CD one))))"
+71001,"(209,)",> or >  ?,"[>/JJR, or/CC, >/JJR, ?/.]",(ROOT (FRAG (ADJP (ADJP (JJR >)) (CC or) (ADJP (JJR >))) (. ?)))
+71001,"(210,)",Says  > W,"[Says/VBZ, >/JJR, W/NN]",(ROOT (FRAG (VP (VBZ Says) (NP (JJR >) (NN W)))))
+71001,"(211,)",Right,[Right/NN],(ROOT (NP (NN Right)))
+71001,"(212,)",George  > S two,"[George/NNP, >/JJR, S/NNS, two/CD]",(ROOT (NP (NP (NNP George)) (NP (JJR >) (NNS S)) (NP (CD two))))
+71001,"(213,)",yes yes got him,"[yes/UH, yes/UH, got/VBD, him/PRP]",(ROOT (SINV (FRAG (INTJ (UH yes) (UH yes))) (VP (VBD got)) (NP (PRP him))))
+71001,"(214,)",John  > S four,"[John/NNP, >/JJR, S/NNS, four/CD]",(ROOT (NP (NP (NNP John)) (NP (JJR >) (NNS S)) (NP (CD four))))
+71001,"(215,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(216,)",John  > S five,"[John/NNP, >/JJR, S/NNS, five/CD]",(ROOT (NP (NP (NNP John)) (NP (JJR >) (NNS S)) (NP (CD five))))
+71001,"(217, 218)","er    John >  , yes","[er/NN, John/NNP, >/JJR, ,/,, yes/UH]","(ROOT (S (NP (NN er)) (VP (NNP John) (ADJP (JJR >)) (, ,) (INTJ (UH yes)))))"
+71001,"(219, 220, 221)",S five    now  Marilyn or Mary Lyn  > W,"[S/NNS, five/CD, now/RB, Marilyn/NNP, or/CC, Mary/NNP, Lyn/NNP, >/JJR, W/NN]",(ROOT (NP (NP (NNS S)) (NP (NP (CD five) (RB now) (NNP Marilyn)) (CC or) (NP (NNP Mary) (NNP Lyn))) (NP (JJR >) (NN W))))
+71001,"(222,)",Ma-,[Ma-/NN],(ROOT (NP (NN Ma-)))
+71001,"(223,)",one,[one/CD],(ROOT (FRAG (NP (CD one))))
+71001,"(224,)","Marilyn >  , yes","[Marilyn/NNP, >/JJR, ,/,, yes/UH]","(ROOT (S (NP (NNP Marilyn)) (VP (JJR >) (, ,) (NP (UH yes)))))"
+71001,"(225,)",Bernadette >,"[Bernadette/NNP, >/JJR]",(ROOT (NP (NP (NNP Bernadette)) (NP (JJR >))))
+71001,"(226,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(227, 228)",W one  May  > W one,"[W/NNP, one/CD, May/MD, >/JJR, W/NN, one/CD]",(ROOT (S (NP (NNP W) (CD one)) (VP (MD May) (VP (ADJP (JJR >)) (PP (NN W) (NP (CD one)))))))
+71001,"(229,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(230,)",T  > W three,"[T/NN, >/JJR, W/NNP, three/CD]",(ROOT (NP (NP (NN T)) (NP (JJR >)) (NP (NNP W) (CD three))))
+71001,"(231,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(232,)",D 'ya wanna get your tea ?,"[D/NNP, 'ya/NNP, wanna/NNP, get/VB, your/PRP$, tea/NN, ?/.]",(ROOT (S (NP (NNP D) (NNP 'ya) (NNP wanna)) (VP (VB get) (NP (PRP$ your) (NN tea))) (. ?)))
+71001,"(233,)",Er haven 't got time for tea,"[Er/NN, haven/NN, 't/PRP, got/VBD, time/NN, for/IN, tea/NN]",(ROOT (FRAG (NP (NP (NN Er) (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (NN time)) (PP (IN for) (NP (NN tea)))))))))
+71001,"(234,)",You have got time for tea,"[You/PRP, have/VBP, got/VBN, time/NN, for/IN, tea/NN]",(ROOT (S (NP (PRP You)) (VP (VBP have) (VP (VBN got) (NP (NN time)) (PP (IN for) (NP (NN tea)))))))
+71001,"(235,)","the way all good lecturers spend an evening , working","[the/DT, way/NN, all/DT, good/JJ, lecturers/NNS, spend/VBP, an/DT, evening/NN, ,/,, working/VBG]","(ROOT (FRAG (NP (DT the) (NN way) (SBAR (S (NP (DT all) (JJ good) (NNS lecturers)) (VP (VBP spend) (NP (DT an) (NN evening)) (, ,) (S (VP (VBG working)))))))))"
+71001,"(236,)","oh plod , plod , British Polio Fellowship","[oh/UH, plod/NN, ,/,, plod/NN, ,/,, British/JJ, Polio/NNP, Fellowship/NNP]","(ROOT (NP (NP (UH oh) (NN plod)) (, ,) (NP (NN plod) (, ,) (JJ British) (NNP Polio) (NNP Fellowship))))"
+71001,"(237,)","Right B P F , yes","[Right/JJ, B/NN, P/NN, F/NN, ,/,, yes/UH]","(ROOT (NP (NP (JJ Right) (NN B)) (NP (NP (NN P)) (VP (PP (NN F)) (, ,) (NP (UH yes))))))"
+71001,"(238,)","erm , get right list , Dorothy  > W one","[erm/NN, ,/,, get/VB, right/JJ, list/NN, ,/,, Dorothy/NNP, >/JJR, W/NN, one/CD]","(ROOT (NP (NP (NP (NN erm)) (PRN (, ,) (S (VP (VB get) (NP (ADJP (JJ right) (NP (NP (NN list)) (, ,) (NP (NNP Dorothy)))) (JJR >)))))) (PP (NN W) (NP (CD one)))))"
+71001,"(239,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(240,)",Joan  > W five,"[Joan/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP Joan)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(241,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(242,)",Joan  > W five,"[Joan/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP Joan)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(243,)",yes yes,"[yes/UH, yes/UH]",(ROOT (INTJ (UH yes) (UH yes)))
+71001,"(244,)",Emily  > W four,"[Emily/NNP, >/JJR, W/NNP, four/CD]",(ROOT (NP (NP (NNP Emily)) (NP (JJR >)) (NP (NNP W) (CD four))))
+71001,"(245, 246)",er  yes,"[er/NN, yes/RB]",(ROOT (FRAG (NP (NN er) (RB yes))))
+71001,"(247,)",Ivy >,"[Ivy/NNP, >/JJR]",(ROOT (NP (NP (NNP Ivy)) (NP (JJR >))))
+71001,"(248,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(249,)","W four I remember her , Margaret  > W one","[W/NNP, four/CD, I/PRP, remember/VBP, her/PRP, ,/,, Margaret/NNP, >/JJR, W/NN, one/CD]","(ROOT (FRAG (NP (NP (NNP W) (CD four)) (SBAR (S (NP (PRP I)) (VP (VBP remember) (NP (NP (PRP her)) (, ,) (NP (NP (NNP Margaret)) (NP (JJR >) (NN W)) (NP (CD one))))))))))"
+71001,"(250,)","that 's er , that 's  > innit ?","[that/DT, 's/VBZ, er/NN, ,/,, that/DT, 's/VBZ, >/JJR, innit/NN, ?/.]","(ROOT (S (S (NP (DT that)) (VP (VBZ 's) (NP (NN er)))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (JJR >) (NN innit))) (. ?)))"
+71001,"(251,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+71001,"(252,)",Margaret >,"[Margaret/NNP, >/JJR]",(ROOT (NP (NP (NNP Margaret)) (NP (JJR >))))
+71001,"(253,)",yeah,[yeah/UH],(ROOT (INTJ (UH yeah)))
+71001,"(254,)","yes , got her , yes","[yes/UH, ,/,, got/VBD, her/PRP, ,/,, yes/UH]","(ROOT (S (S (INTJ (UH yes)) (, ,) (VP (VBD got) (NP (PRP her))) (, ,)) (UH yes)))"
+71001,"(255,)","right , still the British Polio Fellowship , Maureen  > S five","[right/NN, ,/,, still/RB, the/DT, British/JJ, Polio/NNP, Fellowship/NNP, ,/,, Maureen/NNP, >/JJR, S/NNS, five/CD]","(ROOT (NP (NP (NN right)) (PRN (, ,) (ADVP (RB still)) (NP (NP (NP (DT the) (JJ British) (NNP Polio) (NNP Fellowship)) (, ,) (NP (NNP Maureen))) (NP (JJR >) (NNS S)))) (NP (CD five))))"
+71001,"(256,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(257,)",Fran  > S one,"[Fran/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Fran)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(258,)","well named , yes","[well/RB, named/VBN, ,/,, yes/UH]","(ROOT (VP (ADVP (RB well)) (VP (VBN named) (, ,) (NP (UH yes)))))"
+71001,"(259,)","Liz  > S , S three","[Liz/NNP, >/JJR, S/NNS, ,/,, S/NNS, three/CD]","(ROOT (NP (NP (NNP Liz)) (NP (NP (JJR >) (NNS S)) (, ,) (NP (NNS S))) (NP (CD three))))"
+71001,"(260,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(261,)",Mildred  > S five,"[Mildred/NNP, >/JJR, S/NNS, five/CD]",(ROOT (NP (NP (NNP Mildred)) (NP (JJR >) (NNS S)) (NP (CD five))))
+71001,"(262,)",is that    >   ?,"[is/VBZ, that/IN, >/JJR, ?/.]",(ROOT (S (VP (VBZ is) (ADVP (IN that)) (ADJP (JJR >))) (. ?)))
+71001,"(263,)",,[],X
+71001,"(264,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(265,)",,[],X
+71001,"(266,)",,[],X
+71001,"(267,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(268,)",,[],X
+71001,"(269,)",Mm,[Mm/NN],(ROOT (NP (NN Mm)))
+71001,"(270,)",,[],X
+71001,"(271,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(272,)",,[],X
+71001,"(273,)",,[],X
+71001,"(274,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(275,)",,[],X
+71001,"(276,)",that 's right,"[that/DT, 's/VBZ, right/NN]",(ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NN right)))))
+71001,"(277,)",Cathy  > W one,"[Cathy/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Cathy)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(278, 279)",er  yes,"[er/NN, yes/RB]",(ROOT (FRAG (NP (NN er) (RB yes))))
+71001,"(280,)",Connie  > S four,"[Connie/NNP, >/JJR, S/NNS, four/CD]",(ROOT (NP (NP (NNP Connie)) (NP (JJR >) (NNS S)) (NP (CD four))))
+71001,"(281,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(282,)",Jean  > W five,"[Jean/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP Jean)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(283,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(284,)",Peter >,"[Peter/NNP, >/JJR]",(ROOT (NP (NP (NNP Peter)) (NP (JJR >))))
+71001,"(285,)", >  is that ?,"[>/JJR, is/VBZ, that/IN, ?/.]",(ROOT (S (NP (JJR >)) (VP (VBZ is) (ADJP (IN that))) (. ?)))
+71001,"(286,)",,[],X
+71001,"(287,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(288,)",,[],X
+71001,"(289,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(290,)",S three,"[S/NNS, three/CD]",(ROOT (NP (NP (NNS S)) (NP (CD three))))
+71001,"(291,)",three,[three/CD],(ROOT (FRAG (NP (CD three))))
+71001,"(292,)",Laura  > W two,"[Laura/NNP, >/JJR, W/NN, two/CD]",(ROOT (NP (NP (NNP Laura)) (NP (JJR >) (NN W)) (NP (CD two))))
+71001,"(293,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(294,)",and Jimmy  > S four,"[and/CC, Jimmy/NNP, >/JJR, S/NNS, four/CD]",(ROOT (PRN (CC and) (NP (NP (NNP Jimmy)) (NP (NP (JJR >) (NNS S)) (NP (CD four))))))
+71001,"(295,)","yes is that  > with , without an E isn 't it ?","[yes/UH, is/VBZ, that/IN, >/JJR, with/IN, ,/,, without/IN, an/DT, E/NN, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (SBARQ (WHNP (UH yes)) (SQ (VP (VBZ is) (ADVP (IN that) (NP (NP (JJR >)) (PP (PP (IN with)) (, ,) (PP (IN without) (NP (DT an) (NN E) (NN isn))) (NP (PRP 't))))) (NP (PRP it)))) (. ?)))"
+71001,"(296,)",yeah,[yeah/UH],(ROOT (INTJ (UH yeah)))
+71001,"(297,)",Quoits is about the biggest one,"[Quoits/NNS, is/VBZ, about/IN, the/DT, biggest/JJS, one/CD]",(ROOT (S (NP (NNS Quoits)) (VP (VBZ is) (PP (IN about) (NP (NP (DT the) (JJS biggest)) (NP (CD one)))))))
+71001,"(298, 299)","Yes I know , you can get somebody else to do that , be there for months  and they don 't turn up at once , that was erm , I didn 't realize they had to turn up at once  , so I was letting them throw whenever they wanted","[Yes/UH, I/PRP, know/VBP, ,/,, you/PRP, can/MD, get/VB, somebody/NN, else/RB, to/TO, do/VB, that/DT, ,/,, be/VB, there/RB, for/IN, months/NNS, and/CC, they/PRP, don/VBP, 't/PRP, turn/VB, up/RP, at/IN, once/RB, ,/,, that/DT, was/VBD, erm/NNP, ,/,, I/PRP, didn/VBP, 't/PRP, realize/VB, they/PRP, had/VBD, to/TO, turn/VB, up/RP, at/IN, once/RB, ,/,, so/IN, I/PRP, was/VBD, letting/VBG, them/PRP, throw/VB, whenever/WRB, they/PRP, wanted/VBD]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP know))) (, ,) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (NN somebody) (RB else)) (VP (TO to) (VP (VB do) (NP (DT that)))))) (, ,) (VP (VB be) (ADVP (RB there)) (PP (IN for) (NP (NNS months)))))) (CC and) (S (S (NP (PRP they)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB turn) (PRT (RP up)) (PP (IN at) (NP (RB once))))))) (, ,) (S (NP (DT that)) (VP (VBD was) (NP (NNP erm)))) (, ,) (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB realize) (SBAR (S (NP (PRP they)) (VP (VBD had) (S (VP (TO to) (VP (VB turn) (PRT (RP up)) (PP (IN at) (NP (RB once))))))))))) (, ,) (SBAR (IN so) (S (NP (PRP I)) (VP (VBD was) (VP (VBG letting) (S (NP (PRP them)) (VP (VB throw) (SBAR (WHADVP (WRB whenever)) (S (NP (PRP they)) (VP (VBD wanted)))))))))))))))"
+71001,"(300,)","What do you mean , they throw whenever they want","[What/WP, do/VBP, you/PRP, mean/VB, ,/,, they/PRP, throw/VBP, whenever/WRB, they/PRP, want/VBP]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP you)) (VP (VB mean) (, ,) (SBAR (S (NP (PRP they)) (VP (VBP throw) (SBAR (WHADVP (WRB whenever)) (S (NP (PRP they)) (VP (VBP want)))))))))))"
+71001,"(301, 302)","Yeah , but it makes it very difficult , if you got a play off , it gets , if you get people on the same  same score","[Yeah/UH, ,/,, but/CC, it/PRP, makes/VBZ, it/PRP, very/RB, difficult/JJ, ,/,, if/IN, you/PRP, got/VBD, a/DT, play/NN, off/RP, ,/,, it/PRP, gets/VBZ, ,/,, if/IN, you/PRP, get/VBP, people/NNS, on/IN, the/DT, same/JJ, same/JJ, score/NN]","(ROOT (NP (S (S (INTJ (UH Yeah)) (, ,) (CC but) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (RB very) (JJ difficult))) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBD got) (NP (DT a) (NN play)) (PRT (RP off))))))) (, ,) (NP (PRP it)) (VP (VBZ gets) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP get) (NP (NP (NNS people)) (PP (IN on) (NP (DT the) (JJ same) (JJ same) (NN score)))))))))))"
+71001,"(303,)","Well you have to , you have to call for them then","[Well/RB, you/PRP, have/VBP, to/TO, ,/,, you/PRP, have/VBP, to/TO, call/VB, for/IN, them/PRP, then/RB]","(ROOT (S (SBAR (ADVP (RB Well)) (S (NP (PRP you)) (VP (VBP have) (S (VP (TO to)))))) (, ,) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB call) (PP (IN for) (NP (PRP them))) (ADVP (RB then))))))))"
+71001,"(304, 305)",Yeah I know but they don 't turn up and you get all tangled up  all over the place,"[Yeah/UH, I/PRP, know/VBP, but/CC, they/PRP, don/VBP, 't/PRP, turn/VB, up/RP, and/CC, you/PRP, get/VBP, all/DT, tangled/VBN, up/RP, all/DT, over/IN, the/DT, place/NN]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP know))) (CC but) (S (NP (PRP they)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB turn) (PRT (RP up)))))) (CC and) (S (NP (PRP you)) (VP (VBP get) (S (NP (DT all)) (VP (VBN tangled) (PRT (RP up)) (NP (NP (DT all)) (PP (IN over) (NP (DT the) (NN place))))))))))
+71001,"(306,)","Oh I 'd let them come , I 'd let them come whenever you can get them cos we 've got so many of them it 's","[Oh/UH, I/PRP, 'd/MD, let/VB, them/PRP, come/VB, ,/,, I/PRP, 'd/MD, let/VB, them/PRP, come/VB, whenever/WRB, you/PRP, can/MD, get/VB, them/PRP, cos/NN, we/PRP, 've/VBP, got/VBN, so/RB, many/JJ, of/IN, them/PRP, it/PRP, 's/VBZ]","(ROOT (NP (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (MD 'd) (VP (VB let) (S (NP (PRP them)) (VP (VB come)))))) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (VB let) (S (NP (PRP them)) (VP (VB come) (S (SBAR (WHADVP (WRB whenever)) (S (NP (PRP you)) (VP (MD can) (VP (VB get) (S (NP (PRP them)) (NP (NP (NN cos)) (SBAR (S (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (S (ADJP (RB so) (JJ many))))))) (PP (IN of) (NP (PRP them))))))))) (NP (PRP it)) (VP (VBZ 's))))))))))"
+71001,"(307,)",Well they 're given a time to turn up in a group aren 't they ?,"[Well/RB, they/PRP, 're/VBP, given/VBN, a/DT, time/NN, to/TO, turn/VB, up/RP, in/IN, a/DT, group/NN, aren/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP 're) (VP (VBN given) (NP (DT a) (NN time) (S (VP (TO to) (VP (VB turn) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN group) (NNP aren))) (NP (NP (PRP 't)) (NP (PRP they))))))))) (. ?)))
+71001,"(308,)","They are given a time , but they never do , if you er , there 's no way you 're gonna get them together as a group for that time","[They/PRP, are/VBP, given/VBN, a/DT, time/NN, ,/,, but/CC, they/PRP, never/RB, do/VBP, ,/,, if/IN, you/PRP, er/NN, ,/,, there/EX, 's/VBZ, no/DT, way/NN, you/PRP, 're/VBP, gonna/NNP, get/VB, them/PRP, together/RB, as/IN, a/DT, group/NN, for/IN, that/DT, time/NN]","(ROOT (FRAG (S (S (NP (PRP They)) (VP (VBP are) (VP (VBN given) (NP (DT a) (NN time))))) (, ,) (CC but) (S (NP (PRP they)) (ADVP (RB never)) (VP (VBP do) (SBAR (S (, ,) (SBAR (IN if) (S (NP (PRP you)) (NP (NN er)))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NN way)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (S (NP (NNP gonna)) (VP (VB get) (NP (PRP them)) (ADVP (RB together)) (PP (IN as) (NP (NP (DT a) (NN group)) (PP (IN for) (NP (DT that) (NN time)))))))))))))))))))"
+71001,"(309,)",Mm,[Mm/NN],(ROOT (NP (NN Mm)))
+71001,"(310, 311)","so you might as well fill in the gaps whenever you can  er they 're for a day out that 's the trouble they 're not , they 're not there for a , they 're not","[so/RB, you/PRP, might/MD, as/RB, well/RB, fill/VB, in/IN, the/DT, gaps/NNS, whenever/WRB, you/PRP, can/MD, er/NN, they/PRP, 're/VBP, for/IN, a/DT, day/NN, out/IN, that/DT, 's/VBZ, the/DT, trouble/NN, they/PRP, 're/VBP, not/RB, ,/,, they/PRP, 're/VBP, not/RB, there/RB, for/IN, a/DT, ,/,, they/PRP, 're/VBP, not/RB]","(ROOT (S (SBAR (RB so) (S (NP (PRP you)) (VP (MD might) (ADVP (RB as) (RB well)) (VP (VB fill) (PP (IN in) (NP (DT the) (NNS gaps))) (SBAR (WHADVP (WRB whenever)) (S (NP (PRP you)) (VP (MD can) (S (NP (NP (NN er)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (PP (IN for) (NP (DT a) (NN day))) (PP (IN out) (S (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (NN trouble)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not))))))) (, ,) (S (NP (PRP they)) (VP (VBP 're) (RB not) (ADVP (RB there)))) (PP (IN for) (NP (DT a))))))))))))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (RB not))))"
+71001,"(312,)","You mean they don 't take this test seriously as I do , Ashington Floaters","[You/PRP, mean/VBP, they/PRP, don/VB, 't/PRP, take/VB, this/DT, test/NN, seriously/RB, as/IN, I/PRP, do/VBP, ,/,, Ashington/NNP, Floaters/NNS]","(ROOT (S (NP (PRP You)) (VP (VBP mean) (S (NP (PRP they)) (VP (VB don) (S (NP (PRP 't)) (VP (VB take) (NP (DT this) (NN test)) (ADVP (RB seriously)) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP do) (, ,) (S (NP (NNP Ashington)) (NP (NNS Floaters)))))))))))))"
+71001,"(313,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(314,)","Ashington Floaters , quoits , Cyril  > S one A","[Ashington/NNP, Floaters/NNS, ,/,, quoits/NNS, ,/,, Cyril/NNP, >/JJR, S/NNS, one/CD, A/DT]","(ROOT (NP (NP (NP (NNP Ashington) (NNS Floaters)) (, ,) (NP (NNS quoits)) (, ,) (NP (NNP Cyril))) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))"
+71001,"(315,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(316,)",Doreen  > S one,"[Doreen/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Doreen)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(317,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(318,)",Don  > W three,"[Don/NNP, >/JJR, W/NNP, three/CD]",(ROOT (NP (NP (NNP Don)) (NP (JJR >)) (NP (NNP W) (CD three))))
+71001,"(319,)", >   ?,"[>/JJR, ?/.]",(ROOT (FRAG (ADJP (JJR >)) (. ?)))
+71001,"(320,)",No    > ,"[No/DT, >/JJR]",(ROOT (NP (NP (DT No)) (NP (JJR >))))
+71001,"(321,)", >   ?,"[>/JJR, ?/.]",(ROOT (FRAG (ADJP (JJR >)) (. ?)))
+71001,"(322,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+71001,"(323,)",Oh damn it,"[Oh/UH, damn/UH, it/PRP]",(ROOT (FRAG (INTJ (UH Oh)) (UH damn) (NP (PRP it))))
+71001,"(324,)",What 's wrong ?,"[What/WP, 's/VBZ, wrong/JJ, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBZ 's) (ADJP (JJ wrong)))) (. ?)))
+71001,"(325,)",I 'll swear   in a minute,"[I/PRP, 'll/MD, swear/VB, in/IN, a/DT, minute/NN]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB swear) (PP (IN in) (NP (DT a) (NN minute)))))))
+71001,"(326,)","Yeah , Linda  > S three","[Yeah/UH, ,/,, Linda/NNP, >/JJR, S/NNS, three/CD]","(ROOT (FRAG (FRAG (INTJ (UH Yeah)) (, ,) (NP (NNP Linda))) (JJR >) (FRAG (NP (NNS S)) (NP (CD three)))))"
+71001,"(327, 328)",er  Linda >  ?,"[er/NN, Linda/NNP, >/JJR, ?/.]",(ROOT (NP (NP (NN er)) (NP (NP (NNP Linda)) (NP (JJR >))) (. ?)))
+71001,"(329,)","Yeah , aye yes , got her , yes","[Yeah/UH, ,/,, aye/NNP, yes/NNP, ,/,, got/VBD, her/PRP, ,/,, yes/UH]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (NP (NNP aye) (NNP yes)) (, ,) (VP (VBD got) (NP (PRP her))) (, ,)) (UH yes)))"
+71001,"(330,)",and then Paula    >  > ,"[and/CC, then/RB, Paula/NNP, >/JJR, >/JJR]",(ROOT (FRAG (CC and) (NP (NP (RB then) (NNP Paula)) (ADJP (NP (JJR >)) (JJR >)))))
+71001,"(331,)",Where 's she ?,"[Where/WRB, 's/POS, she/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (PRP she))) (. ?)))
+71001,"(332,)",S one A,"[S/NNS, one/CD, A/DT]",(ROOT (FRAG (NP (NP (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(333,)","Yes , hang on , what , what , Paula    >  >   ?","[Yes/UH, ,/,, hang/NNP, on/IN, ,/,, what/WP, ,/,, what/WP, ,/,, Paula/NNP, >/JJR, >/JJR, ?/.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (NP (NP (NNP hang)) (PP (IN on))) (, ,) (NP (NP (WP what)) (, ,) (NP (WP what)) (, ,) (NP (NP (NNP Paula)) (ADJP (NP (JJR >)) (JJR >)))) (. ?)))"
+71001,"(334,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(335,)",What classifications ?,"[What/WDT, classifications/NNS, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NNS classifications)) (. ?)))
+71001,"(336,)",S one A,"[S/NNS, one/CD, A/DT]",(ROOT (FRAG (NP (NP (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(337,)","What , which , who is she ?","[What/WP, ,/,, which/WDT, ,/,, who/WP, is/VBZ, she/PRP, ?/.]","(ROOT (FRAG (NP (NP (WP What)) (, ,) (SBAR (WHNP (WDT which)) (, ,) (S (NP (WP who)) (VP (VBZ is) (NP (PRP she)))))) (. ?)))"
+71001,"(338,)",Ashington Floaters,"[Ashington/NNP, Floaters/NNS]",(ROOT (NP (NNP Ashington) (NNS Floaters)))
+71001,"(339, 340)","Oh  right , okay","[Oh/UH, right/RB, ,/,, okay/JJ]","(ROOT (VP (UH Oh) (S (ADJP (RB right))) (, ,) (ADJP (JJ okay))))"
+71001,"(341,)","right , erm , we go down to Bedlington Disabled","[right/NN, ,/,, erm/NN, ,/,, we/PRP, go/VBP, down/RB, to/TO, Bedlington/NNP, Disabled/JJ]","(ROOT (S (NP (NP (NN right)) (, ,) (NP (NP (NN erm)) (, ,) (NP (PRP we)))) (VP (VBP go) (ADVP (RB down) (PP (TO to) (NP (NNP Bedlington) (JJ Disabled)))))))"
+71001,"(342,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(343,)",erm Dorothy  > S two,"[erm/NN, Dorothy/NNP, >/JJR, S/NNS, two/CD]",(ROOT (NP (NP (NN erm) (NNP Dorothy)) (NP (JJR >) (NNS S)) (NP (CD two))))
+71001,"(344, 345)",er   > I don 't >,"[er/NN, >/JJR, I/PRP, don/VBP, 't/PRP, >/JJR]",(ROOT (S (NP (NP (NP (NN er)) (JJR >)) (SBAR (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (ADJP (JJR >)))))))))
+71001,"(346,)",there 's     > ,"[there/EX, 's/VBZ, >/JJR]",(ROOT (S (NP (EX there)) (VP (VBZ 's) (ADJP (JJR >)))))
+71001,"(347,)","er , okay","[er/NN, ,/,, okay/JJ]","(ROOT (FRAG (NP (NP (NN er)) (, ,) (ADJP (JJ okay)))))"
+71001,"(348,)",Lillie  > S three,"[Lillie/NNP, >/JJR, S/NNS, three/CD]",(ROOT (NP (NP (NNP Lillie)) (NP (JJR >) (NNS S)) (NP (CD three))))
+71001,"(349,)","right , yes , got her","[right/NN, ,/,, yes/UH, ,/,, got/VBD, her/PRP$]","(ROOT (SBAR (WHNP (NP (NN right)) (PRN (, ,) (INTJ (UH yes)) (, ,))) (S (VP (VBD got) (NP (PRP$ her))))))"
+71001,"(350,)",Cathy  > S one A,"[Cathy/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Cathy)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(351,)","yes , these are all Bedlington aren 't they ?","[yes/UH, ,/,, these/DT, are/VBP, all/DT, Bedlington/NNP, aren/NNP, 't/PRP, they/PRP, ?/.]","(ROOT (S (INTJ (UH yes)) (, ,) (NP (DT these)) (VP (VBP are) (NP (NP (DT all) (NNP Bedlington) (NNP aren)) (NP (NP (PRP 't)) (NP (PRP they))))) (. ?)))"
+71001,"(352,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+71001,"(353,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(354,)",Ina  > W one,"[Ina/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Ina)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(355,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(356, 357)",Pauline   > S three,"[Pauline/NNP, >/JJR, S/NNS, three/CD]",(ROOT (NP (NP (NNP Pauline)) (NP (JJR >) (NNS S)) (NP (CD three))))
+71001,"(358,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(359, 360)",Ann     >  >  S one A  the only one to enter the quoits this lot,"[Ann/NNP, >/JJR, >/JJR, S/NNS, one/CD, A/DT, the/DT, only/RB, one/CD, to/TO, enter/VB, the/DT, quoits/NNS, this/DT, lot/NN]",(ROOT (X (X (NP (NP (NNP Ann)) (NP (JJR >))) (NP (JJR >) (NNS S)) (NP (NP (CD one)) (NP (DT A) (DT the)))) (NP (NP (RB only) (CD one)) (SBAR (S (VP (TO to) (VP (VB enter) (NP (NP (DT the) (NNS quoits)) (NP (DT this) (NN lot))))))))))
+71001,"(361,)",Ann >,"[Ann/NNP, >/JJR]",(ROOT (NP (NP (NNP Ann)) (NP (JJR >))))
+71001,"(362,)",Ann >,"[Ann/NNP, >/JJR]",(ROOT (NP (NP (NNP Ann)) (NP (JJR >))))
+71001,"(363,)","yes , got it","[yes/UH, ,/,, got/VBD, it/PRP]","(ROOT (FRAG (INTJ (UH yes)) (, ,) (PP (VBD got) (NP (PRP it)))))"
+71001,"(364, 365)","Bridgett >  , Bridgett with a double T , S two   ","[Bridgett/NNP, >/JJR, ,/,, Bridgett/NNP, with/IN, a/DT, double/JJ, T/NN, ,/,, S/VBZ, two/CD]","(ROOT (S (NP (NP (NP (NNP Bridgett)) (JJR >)) (, ,) (NP (NP (NNP Bridgett)) (PP (IN with) (NP (DT a) (JJ double) (NN T)))) (, ,)) (VP (VBZ S) (NP (CD two)))))"
+71001,"(366,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(367,)",and Marjorie     >  >  W two,"[and/CC, Marjorie/NNP, >/JJR, >/JJR, W/NN, two/CD]",(ROOT (PRN (CC and) (NP (NP (NNP Marjorie)) (NP (NP (ADJP (JJR >)) (JJR >) (NN W)) (NP (CD two))))))
+71001,"(368,)","er , Bedlington right , yes","[er/NN, ,/,, Bedlington/NNP, right/NNP, ,/,, yes/NNP]","(ROOT (NP (NP (NN er)) (, ,) (NP (NNP Bedlington) (NNP right) (, ,) (NNP yes))))"
+71001,"(369,)",No that 's Ashington Floaters,"[No/DT, that/WDT, 's/VBZ, Ashington/NNP, Floaters/NNS]",(ROOT (FRAG (NP (DT No)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NNP Ashington) (NNS Floaters)))))))
+71001,"(370,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(371,)",Jean  > S one A,"[Jean/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Jean)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(372,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(373,)",Tom  > or >,"[Tom/NNP, >/JJR, or/CC, >/JJR]",(ROOT (FRAG (NP (NP (NNP Tom)) (ADJP (JJR >) (CC or) (JJR >)))))
+71001,"(374,)",S one A yes,"[S/NNS, one/CD, A/DT, yes/RB]",(ROOT (NP (NP (NNS S)) (NP (CD one)) (NP (DT A) (RB yes))))
+71001,"(375,)","S one A ,Norma- > Norman  > S one A","[S/NNS, one/CD, A/DT, ,Norma-/NN, >/JJR, Norman/NNP, >/JJR, S/NNS, one/CD, A/DT]","(ROOT (NP (NP (NP (NNS S) (CD one)) (NP (ADJP (NP (DT A) (NN ,Norma-)) (JJR >)) (NNP Norman))) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))"
+71001,"(376,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(377,)",Nan  > S one A,"[Nan/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Nan)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(378,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(379,)",erm Ken  > W one,"[erm/NN, Ken/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NN erm) (NNP Ken)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(380,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(381,)",right that 's that lot done .,"[right/NN, that/WDT, 's/VBZ, that/DT, lot/NN, done/VBN, ./.]",(ROOT (S (NP (NP (NN right)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT that) (NN lot)))))) (VP (VBN done)) (. .)))
+71001,"(382,)",Is that all the,"[Is/VBZ, that/IN, all/PDT, the/DT]",(ROOT (FRAG (VP (VBZ Is) (PP (IN that) (NP (PDT all) (DT the))))))
+71001,"(383,)",Well that 's been all the Ashington Floaters and the Bedlington Disabled,"[Well/RB, that/DT, 's/VBZ, been/VBN, all/PDT, the/DT, Ashington/NNP, Floaters/NNS, and/CC, the/DT, Bedlington/NNP, Disabled/JJ]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (VP (VBN been) (NP (NP (PDT all) (DT the) (NNP Ashington) (NNS Floaters)) (CC and) (NP (NP (DT the) (NNP Bedlington)) (NP (JJ Disabled))))))))))
+71001,"(384,)",oh,[oh/UH],(ROOT (INTJ (UH oh)))
+71001,"(385,)",and there 's some more here,"[and/CC, there/EX, 's/VBZ, some/DT, more/JJR, here/RB]",(ROOT (PRN (CC and) (S (NP (EX there)) (VP (VBZ 's) (NP (DT some) (JJR more)) (ADVP (RB here))))))
+71001,"(386,)",you haven 't done those sheets yet ?,"[you/PRP, haven/NN, 't/PRP, done/VBD, those/DT, sheets/NNS, yet/RB, ?/.]",(ROOT (S (NP (PRP you)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD done) (NP (DT those) (NNS sheets)) (ADVP (RB yet)))))) (. ?)))
+71001,"(387,)","Mm , mm","[Mm/NN, ,/,, mm/NN]","(ROOT (NP (NP (NN Mm)) (, ,) (NP (NN mm))))"
+71001,"(388,)",Oh so we 've got all those sheets to do yet,"[Oh/UH, so/IN, we/PRP, 've/VBP, got/VBD, all/PDT, those/DT, sheets/NNS, to/TO, do/VB, yet/RB]",(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (ADVP (IN so)) (VP (ADVP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (PDT all) (DT those) (NNS sheets)) (S (VP (TO to) (VP (VB do)))))))) (NP (RB yet))))
+71001,"(389,)","I know , hmm","[I/PRP, know/VBP, ,/,, hmm/VBP]","(ROOT (S (NP (PRP I)) (VP (VP (VBP know)) (, ,) (VP (VBP hmm)))))"
+71001,"(390,)","this is one , one classification ?","[this/DT, is/VBZ, one/CD, ,/,, one/CD, classification/NN, ?/.]","(ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (CD one)) (, ,) (NP (CD one) (NN classification)))) (. ?)))"
+71001,"(391,)",well how far have you got through ?,"[well/RB, how/WRB, far/RB, have/VBP, you/PRP, got/VBD, through/IN, ?/.]",(ROOT (SBARQ (WHADVP (RB well) (WRB how) (RB far)) (SQ (VBP have) (NP (PRP you)) (VP (VBD got) (PP (IN through)))) (. ?)))
+71001,"(392, 393, 394)","Got most of them done  javelin 's done , the shot 's done , this er  er we should do , we 're nearly there actually","[Got/VBD, most/JJS, of/IN, them/PRP, done/VBN, javelin/NN, 's/VBZ, done/VBN, ,/,, the/DT, shot/NN, 's/VBZ, done/VBN, ,/,, this/DT, er/NN, er/NN, we/PRP, should/MD, do/VB, ,/,, we/PRP, 're/VBP, nearly/RB, there/RB, actually/RB]","(ROOT (SINV (VP (VBD Got)) (NP (NP (JJS most)) (PP (IN of) (NP (PRP them))) (VP (VBN done) (SBAR (S (S (NP (NN javelin)) (VP (VBZ 's) (VP (VBN done)))) (, ,) (S (NP (DT the) (NN shot)) (VP (VBZ 's) (VP (VBN done) (, ,) (NP (NP (DT this) (NN er) (NN er)) (SBAR (S (NP (PRP we)) (VP (MD should) (VP (VB do))))))))) (, ,) (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB nearly) (RB there)) (ADVP (RB actually))))))))))"
+71001,"(395,)","How long , the students doing , checking this ?","[How/WRB, long/RB, ,/,, the/DT, students/NNS, doing/VBG, ,/,, checking/VBG, this/DT, ?/.]","(ROOT (SBAR (WHNP (WRB How) (RB long)) (PRN (, ,) (S (NP (DT the) (NNS students)) (VP (VBG doing))) (, ,)) (S (VP (VBG checking) (NP (DT this)))) (. ?)))"
+71001,"(396,)","Well , they haven 't done it , they haven 't finished it have they ?","[Well/RB, ,/,, they/PRP, haven/NN, 't/PRP, done/VBD, it/PRP, ,/,, they/PRP, haven/NN, 't/PRP, finished/VBD, it/PRP, have/VB, they/PRP, ?/.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (NP (PRP they)) (NP (NN haven))) (NP (PRP 't)) (VP (VBD done) (NP (PRP it)) (, ,) (S (NP (PRP they)) (NP (NP (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD finished) (S (NP (PRP it)) (VP (VB have) (NP (PRP they)))))))))) (. ?)))"
+71001,"(397,)",That 's why I 'm having to do it,"[That/DT, 's/VBZ, why/WRB, I/PRP, 'm/VBP, having/VBG, to/TO, do/VB, it/PRP]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG having) (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))))))
+71001,"(398,)","Idle , final","[Idle/JJ, ,/,, final/JJ]","(ROOT (ADJP (JJ Idle) (, ,) (JJ final)))"
+71001,"(399,)",totally idle,"[totally/RB, idle/JJ]",(ROOT (ADJP (RB totally) (JJ idle)))
+71001,"(400,)","a waste , a waste of education , right this is Carlisle Sports for the Disabled","[a/DT, waste/NN, ,/,, a/DT, waste/NN, of/IN, education/NN, ,/,, right/RB, this/DT, is/VBZ, Carlisle/JJ, Sports/NNS, for/IN, the/DT, Disabled/JJ]","(ROOT (S (NP (DT a) (NN waste)) (, ,) (NP (NP (DT a) (NN waste)) (PP (IN of) (NP (NP (NN education)) (, ,) (RB right) (NP (DT this))))) (VP (VBZ is) (NP (NP (JJ Carlisle) (NNS Sports)) (PP (IN for) (NP (DT the) (JJ Disabled)))))))"
+71001,"(401,)",Right,[Right/NN],(ROOT (NP (NN Right)))
+71001,"(402,)",James  > W five,"[James/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP James)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(403,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(404,)","Steven  > of no forget Steven >  , Nicholas  > W two","[Steven/NNP, >/JJR, of/IN, no/DT, forget/VB, Steven/NNP, >/JJR, ,/,, Nicholas/NNP, >/JJR, W/NN, two/CD]","(ROOT (FRAG (NP (NP (NNP Steven)) (SBAR (S (NP (JJR >)) (ADVP (IN of) (DT no)) (VP (VB forget) (S (S (NP (NNP Steven)) (ADJP (JJR >))) (, ,) (S (NP (NNP Nicholas)) (NP (NP (JJR >) (NN W)) (NP (CD two)))))))))))"
+71001,"(405,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(406,)",Robert  > W two,"[Robert/NNP, >/JJR, W/NN, two/CD]",(ROOT (NP (NP (NNP Robert)) (NP (JJR >) (NN W)) (NP (CD two))))
+71001,"(407,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(408,)",Bill >,"[Bill/NNP, >/JJR]",(ROOT (NP (NP (NNP Bill)) (NP (JJR >))))
+71001,"(409,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(410,)",W three Robert  > S three,"[W/NNP, three/CD, Robert/NNP, >/JJR, S/NNS, three/CD]",(ROOT (NP (NP (NNP W) (CD three)) (NP (NP (NNP Robert)) (NP (JJR >) (NNS S))) (NP (CD three))))
+71001,"(411, 412)",er  yes,"[er/NN, yes/RB]",(ROOT (FRAG (NP (NN er) (RB yes))))
+71001,"(413,)",James  > S one,"[James/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP James)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(414,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(415,)", Andrew  > S one,"[Andrew/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Andrew)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(416,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(417,)","Carlisle Sports   Club , John >","[Carlisle/NNP, Sports/NNP, Club/NNP, ,/,, John/NNP, >/JJR]","(ROOT (S (NP (NP (NNP Carlisle) (NNP Sports) (NNP Club)) (, ,) (NP (NNP John))) (ADJP (JJR >))))"
+71001,"(418,)",What is he ?,"[What/WP, is/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (PRP he))) (. ?)))
+71001,"(419,)","V H , what 's V H ?","[V/NNP, H/NNP, ,/,, what/WP, 's/VBZ, V/NNP, H/NN, ?/.]","(ROOT (SBARQ (NP (NNP V) (NNP H)) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (NNP V) (NN H))) (. ?)))"
+71001,"(420,)",Visually handicapped,"[Visually/RB, handicapped/NNP]",(ROOT (FRAG (ADVP (RB Visually)) (NP (NNP handicapped))))
+71001,"(421,)",Very handicapped,"[Very/RB, handicapped/NNP]",(ROOT (FRAG (ADVP (RB Very)) (NP (NNP handicapped))))
+71001,"(422,)","yes , got it","[yes/UH, ,/,, got/VBD, it/PRP]","(ROOT (FRAG (INTJ (UH yes)) (, ,) (PP (VBD got) (NP (PRP it)))))"
+71001,"(423,)","oh visually handicapped , okay , John  > V H","[oh/UH, visually/RB, handicapped/JJ, ,/,, okay/JJ, ,/,, John/NNP, >/JJR, V/NN, H/NN]","(ROOT (PP (NP (UH oh)) (PP (NP (NP (ADJP (ADJP (RB visually) (JJ handicapped)) (, ,) (ADJP (JJ okay)) (, ,)) (NNP John)) (ADJP (JJR >))) (PP (ADVP (NN V)) (ADJP (NN H))))))"
+71001,"(424,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(425,)",Linda  > W four,"[Linda/NNP, >/JJR, W/NNP, four/CD]",(ROOT (NP (NP (NNP Linda)) (NP (JJR >)) (NP (NNP W) (CD four))))
+71001,"(426,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(427,)",Debbie  > W one,"[Debbie/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Debbie)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(428,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(429,)",Margaret  > seem to remember her S three,"[Margaret/NNP, >/JJR, seem/VBP, to/TO, remember/VB, her/PRP$, S/NNS, three/CD]",(ROOT (SINV (FRAG (NP (NP (NNP Margaret)) (ADJP (JJR >)))) (VP (VBP seem) (S (VP (TO to) (VP (VB remember) (NP (PRP$ her) (NNS S)))))) (NP (CD three))))
+71001,"(430,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(431, 432)",Sheila   > W two,"[Sheila/NNP, >/JJR, W/NN, two/CD]",(ROOT (NP (NP (NNP Sheila)) (NP (JJR >) (NN W)) (NP (CD two))))
+71001,"(433,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(434,)",and Pam  > W one,"[and/CC, Pam/NNS, >/JJR, W/NN, one/CD]",(ROOT (PRN (CC and) (NP (NP (NNS Pam)) (NP (NP (JJR >) (NN W)) (NP (CD one))))))
+71001,"(435,)",Pam who ?,"[Pam/NNS, who/WP, ?/.]",(ROOT (NP (NP (NP (NNS Pam)) (SBAR (WHNP (WP who)))) (. ?)))
+71001,"(436,)",">  , looks like Pam , oh no she 's not on it , she 's not doing quoits , I tell you a lie , but somebody here is for the British Polio Linda  > S five","[>/JJR, ,/,, looks/VBZ, like/IN, Pam/NNS, ,/,, oh/UH, no/DT, she/PRP, 's/VBZ, not/RB, on/IN, it/PRP, ,/,, she/PRP, 's/VBZ, not/RB, doing/VBG, quoits/NNS, ,/,, I/PRP, tell/VBP, you/PRP, a/DT, lie/NN, ,/,, but/CC, somebody/NN, here/RB, is/VBZ, for/IN, the/DT, British/JJ, Polio/NNP, Linda/NNP, >/JJR, S/NNS, five/CD]","(ROOT (SINV (ADJP (JJR >)) (, ,) (VP (VBZ looks) (SBAR (S (PP (IN like) (NP (NNS Pam))) (, ,) (S (INTJ (UH oh)) (NP (DT no) (PRP she)) (VP (VBZ 's) (RB not) (PP (IN on) (NP (PRP it))))) (, ,) (S (NP (PRP she)) (VP (VBZ 's) (RB not) (VP (VBG doing) (NP (NNS quoits))))) (, ,) (S (NP (PRP I)) (VP (VBP tell) (S (NP (PRP you)) (NP (DT a) (NN lie))))) (, ,) (CC but) (S (NP (NN somebody)) (ADVP (RB here)) (VP (VBZ is) (PP (IN for) (NP (DT the) (JJ British) (NNP Polio) (NNP Linda)))))))) (NP (NP (JJR >) (NNS S)) (NP (CD five)))))"
+71001,"(437,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(438, 439)","must , gotta ring your mum back some time tonight  when you 've done the quoits , right Hurst Welfare then , quoits Ivy  > S three","[must/MD, ,/,, gotta/NNP, ring/VB, your/PRP$, mum/NN, back/RB, some/DT, time/NN, tonight/NN, when/WRB, you/PRP, 've/VBP, done/VBN, the/DT, quoits/NNS, ,/,, right/RB, Hurst/NNP, Welfare/NNP, then/RB, ,/,, quoits/VBZ, Ivy/NNP, >/JJR, S/NNS, three/CD]","(ROOT (SINV (S (VP (VP (MD must)) (PRN (, ,) (S (NP (NNP gotta)) (VP (VB ring) (NP (PRP$ your) (NN mum)) (PRT (RB back)) (NP (DT some) (NN time) (NN tonight))))) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN done) (NP (NP (DT the) (NNS quoits)) (, ,) (RB right) (NP (NNP Hurst) (NNP Welfare))) (ADVP (RB then)))))))) (, ,) (VP (VBZ quoits) (S (NP (NNP Ivy)) (NP (JJR >) (NNS S)))) (NP (CD three))))"
+71001,"(440,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(441,)",Margaret >,"[Margaret/NNP, >/JJR]",(ROOT (NP (NP (NNP Margaret)) (NP (JJR >))))
+71001,"(442,)",that is here,"[that/DT, is/VBZ, here/RB]",(ROOT (S (NP (DT that)) (VP (VBZ is) (ADVP (RB here)))))
+71001,"(443, 444)",W two  >,"[W/NNP, two/CD, >/JJR]",(ROOT (NP (NP (NNP W) (CD two)) (NP (JJR >))))
+71001,"(445,)",who ?,"[who/WP, ?/.]",(ROOT (FRAG (WHNP (WP who)) (. ?)))
+71001,"(446,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(447,)",">  , , > ","[>/JJR, ,/,, ,/,, >/JJR]","(ROOT (FRAG (S (ADJP (JJR >) (, ,) (, ,) (JJR >)))))"
+71001,"(448,)",no it 's     > ,"[no/DT, it/PRP, 's/VBZ, >/JJR]",(ROOT (S (NP (DT no) (PRP it)) (VP (VBZ 's) (ADJP (JJR >)))))
+71001,"(449,)",right okay,"[right/JJ, okay/JJ]",(ROOT (FRAG (ADJP (JJ right)) (ADJP (JJ okay))))
+71001,"(450,)",Martha >,"[Martha/NNP, >/JJR]",(ROOT (NP (NP (NNP Martha)) (NP (JJR >))))
+71001,"(451,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(452, 453)","W two , Val  > V H visually handicapped  Helen  >","[W/NNP, two/CD, ,/,, Val/NN, >/JJR, V/NN, H/NN, visually/RB, handicapped/JJ, Helen/NNP, >/JJR]","(ROOT (NP (NP (NP (NNP W) (CD two)) (, ,) (NP (NN Val))) (NP (NP (JJR >) (NN V) (NN H)) (ADJP (RB visually) (ADJP (NP (JJ handicapped) (NNP Helen)) (JJR >))))))"
+71001,"(454,)",hang on Val >,"[hang/NNP, on/IN, Val/NN, >/JJR]",(ROOT (S (NP (NP (NNP hang)) (PP (IN on) (NP (NN Val)))) (ADJP (JJR >))))
+71001,"(455,)",mm,[mm/NN],(ROOT (NP (NN mm)))
+71001,"(456,)",visually handicapped,"[visually/RB, handicapped/NNP]",(ROOT (FRAG (ADVP (RB visually)) (NP (NNP handicapped))))
+71001,"(457,)",yeah,[yeah/UH],(ROOT (INTJ (UH yeah)))
+71001,"(458,)","oh , eh , you sure she 's doing it ?","[oh/UH, ,/,, eh/UH, ,/,, you/PRP, sure/RB, she/PRP, 's/VBZ, doing/VBG, it/PRP, ?/.]","(ROOT (S (INTJ (UH oh) (, ,) (UH eh)) (, ,) (NP (NP (PRP you)) (RRC (ADVP (RB sure)) (NP (PRP she)))) (VP (VBZ 's) (VP (VBG doing) (NP (PRP it)))) (. ?)))"
+71001,"(459,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(460,)","Val  > she 's , and she 's visually handicapped ?","[Val/NN, >/JJR, she/PRP, 's/VBZ, ,/,, and/CC, she/PRP, 's/VBZ, visually/RB, handicapped/VBN, ?/.]","(ROOT (S (S (NP (NP (NN Val)) (NP (JJR >))) (NP (PRP she)) (VP (VBZ 's))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ 's) (ADJP (RB visually) (VBN handicapped)))) (. ?)))"
+71001,"(461,)","Says so here , sex , female ,","[Says/VBZ, so/RB, here/RB, ,/,, sex/NN, ,/,, female/NN, ,/,]","(ROOT (SINV (VP (VBZ Says)) (NP (NP (RB so) (RB here)) (, ,) (NP (NP (NN sex)) (, ,) (NP (NN female)) (, ,)))))"
+71001,"(462, 463)","She , see if there 's a Val  > anywhere else  that 's the afternoon ones , right I 'll add her on Val  >","[She/PRP, ,/,, see/VB, if/IN, there/EX, 's/VBZ, a/DT, Val/NN, >/JJR, anywhere/RB, else/RB, that/DT, 's/VBZ, the/DT, afternoon/NN, ones/NNS, ,/,, right/RB, I/PRP, 'll/MD, add/VB, her/PRP$, on/IN, Val/NN, >/JJR]","(ROOT (S (NP (PRP She)) (, ,) (S (VP (VB see) (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (ADJP (ADJP (NP (DT a) (NN Val)) (JJR >)) (ADVP (RB anywhere) (RB else)) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (DT the) (NN afternoon) (NNS ones))))))))))) (, ,) (NP (ADJP (RB right)) (NP (PRP I))) (VP (MD 'll) (VP (VB add) (NP (PRP$ her)) (PP (IN on) (NP (NP (NN Val)) (ADJP (JJR >))))))))"
+71001,"(464,)","Yes , and then it 's Helen >","[Yes/UH, ,/,, and/CC, then/RB, it/PRP, 's/VBZ, Helen/NNP, >/JJR]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (CC and)) (ADVP (RB then)) (VP (ADVP (PRP it)) (VBZ 's) (NP (NP (NNP Helen)) (ADJP (JJR >))))))"
+71001,"(465,)",H W D,"[H/NN, W/NN, D/NN]",(ROOT (NP (NP (NN H)) (NP (NN W) (NN D))))
+71001,"(466,)",,[],X
+71001,"(467,)",what 's she ?,"[what/WP, 's/VBZ, she/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP she))) (. ?)))
+71001,"(468,)",V H,"[V/NNP, H/NNP]",(ROOT (NP (NNP V) (NNP H)))
+71001,"(469,)",And another one ?,"[And/CC, another/DT, one/CD, ?/.]",(ROOT (FRAG (CC And) (NP (NP (DT another)) (NP (CD one))) (. ?)))
+71001,"(470,)","There 's two , two V H there","[There/EX, 's/VBZ, two/CD, ,/,, two/CD, V/NN, H/NN, there/RB]","(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (CD two)) (, ,) (ADVP (NP (CD two) (NN V) (NN H)) (RB there)))))"
+71001,"(471,)","No , erm Helen  > is S one A","[No/DT, ,/,, erm/NN, Helen/NNP, >/JJR, is/VBZ, S/NNS, one/CD, A/DT]","(ROOT (S (NP (DT No)) (, ,) (NP (NP (NN erm) (NNP Helen)) (ADJP (JJR >))) (VP (VBZ is) (NP (NNS S)) (NP (CD one) (DT A)))))"
+71001,"(472,)",er Helen  > or >,"[er/NN, Helen/NNP, >/JJR, or/CC, >/JJR]",(ROOT (NP (NP (NN er)) (NP (NP (NNP Helen)) (ADJP (JJR >) (CC or) (JJR >)))))
+71001,"(473, 474)",> > S one A,"[>/JJR, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (JJR >)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(475,)", >  right,"[>/JJR, right/NN]",(ROOT (X (NP (JJR >) (NN right))))
+71001,"(476,)",Jack  > W one ,"[Jack/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Jack)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(477,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(478, 479)",we 're back to Bedlington Disabled  Keith  > W two,"[we/PRP, 're/VBP, back/RB, to/TO, Bedlington/NNP, Disabled/JJ, Keith/NNP, >/JJR, W/NN, two/CD]",(ROOT (S (NP (PRP we)) (VP (VBP 're) (ADVP (RB back) (PP (TO to) (NP (NNP Bedlington)))) (ADJP (NP (JJ Disabled) (NNP Keith)) (JJR >)) (PP (NN W) (NP (CD two))))))
+71001,"(480,)", >  yes,"[>/JJR, yes/UH]",(ROOT (INTJ (JJR >) (UH yes)))
+71001,"(481,)","mm , mm , Keith  > S one A","[mm/NN, ,/,, mm/NN, ,/,, Keith/NNP, >/JJR, S/NNS, one/CD, A/DT]","(ROOT (NP (NP (NP (NN mm)) (, ,) (NP (NN mm)) (, ,) (NP (NNP Keith))) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))"
+71001,"(482,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(483,)",Joe  > W three,"[Joe/NNP, >/JJR, W/NNP, three/CD]",(ROOT (NP (NP (NNP Joe)) (NP (JJR >)) (NP (NNP W) (CD three))))
+71001,"(484,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(485,)",Sidney >,"[Sidney/NNP, >/JJR]",(ROOT (NP (NP (NNP Sidney)) (NP (JJR >))))
+71001,"(486,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(487,)",,[],X
+71001,"(488,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(489,)",,[],X
+71001,"(490,)",S one A,"[S/NNS, one/CD, A/DT]",(ROOT (FRAG (NP (NP (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(491,)","S one A , there 's a question mark on S one A","[S/NNS, one/CD, A/DT, ,/,, there/EX, 's/VBZ, a/DT, question/NN, mark/NN, on/IN, S/NNS, one/CD, A/DT]","(ROOT (NP (NP (NP (QP (NNS S) (CD one)) (DT A)) (PRN (, ,) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN question) (NN mark)))))) (PP (IN on) (NP (QP (NNS S) (CD one)) (DT A)))))"
+71001,"(492,)",oh leave it,"[oh/UH, leave/VB, it/PRP]",(ROOT (FRAG (INTJ (UH oh)) (VB leave) (NP (PRP it))))
+71001,"(493,)",and Robert  > S one A,"[and/CC, Robert/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (PRN (CC and) (NP (NP (NNP Robert)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A))))))
+71001,"(494,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(495,)",Randall >,"[Randall/NNP, >/JJR]",(ROOT (NP (NP (NNP Randall)) (NP (JJR >))))
+71001,"(496,)",what 's he ?,"[what/WP, 's/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP he))) (. ?)))
+71001,"(497,)",er S two,"[er/NN, S/NNS, two/CD]",(ROOT (NP (NP (NN er) (NNS S)) (NP (CD two))))
+71001,"(498,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(499,)",Terry  > W one and William  > W one,"[Terry/NNP, >/JJR, W/NN, one/CD, and/CC, William/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Terry)) (NP (NP (NP (JJR >) (NN W)) (NP (CD one))) (CC and) (NP (NP (NNP William)) (NP (JJR >) (NN W)))) (NP (CD one))))
+71001,"(500, 501)","hold on , Terry  > W   er there 's a mistake there  right , okay , yes","[hold/VB, on/RP, ,/,, Terry/NNP, >/JJR, W/NN, er/NN, there/EX, 's/VBZ, a/DT, mistake/NN, there/RB, right/RB, ,/,, okay/JJ, ,/,, yes/UH]","(ROOT (VP (VB hold) (PRT (RP on)) (, ,) (NP (NP (NP (NNP Terry)) (NP (JJR >) (NN W) (NN er))) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN mistake)) (ADVP (RB there) (RB right)) (, ,) (ADJP (JJ okay)))))) (, ,) (NP (UH yes))))"
+71001,"(502,)",and have you got William  > W one ?,"[and/CC, have/VB, you/PRP, got/VBD, William/NNP, >/JJR, W/NN, one/CD, ?/.]",(ROOT (SINV (S (CC and) (VP (VB have) (NP (PRP you)))) (VP (VBD got) (NP (NNP William))) (NP (NP (JJR >) (NN W)) (NP (CD one))) (. ?)))
+71001,"(503, 504)",Yes  I 've got Wililiam here,"[Yes/UH, I/PRP, 've/VBP, got/VBN, Wililiam/NN, here/RB]",(ROOT (SINV (FRAG (INTJ (UH Yes))) (VP (ADVP (PRP I)) (VBP 've) (VP (VBN got) (NP (NN Wililiam)))) (NP (RB here))))
+71001,"(505,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+71001,"(506,)",Wililiam,[Wililiam/NN],(ROOT (NP (NN Wililiam)))
+71001,"(507,)",,[],X
+71001,"(508,)","Hurst Welfare again , the Hurst Welfare","[Hurst/NNP, Welfare/NNP, again/RB, ,/,, the/DT, Hurst/NNP, Welfare/NNP]","(ROOT (NP (NP (NNP Hurst)) (NP (NP (NP (NNP Welfare)) (ADVP (RB again))) (, ,) (NP (DT the) (NNP Hurst) (NNP Welfare)))))"
+71001,"(509,)","Right , what are we on now ?","[Right/NN, ,/,, what/WP, are/VBP, we/PRP, on/IN, now/RB, ?/.]","(ROOT (SBARQ (NP (NN Right)) (, ,) (WHNP (WP what)) (SQ (VBP are) (NP (PRP we)) (PP (IN on) (NP (RB now)))) (. ?)))"
+71001,"(510, 511)",Alf   > S one,"[Alf/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Alf)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(512,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(513,)",Alan  > S one A,"[Alan/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Alan)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(514,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(515,)",Malcolm  > S one,"[Malcolm/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Malcolm)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(516,)",Hurst Welfare,"[Hurst/NNP, Welfare/NNP]",(ROOT (NP (NNP Hurst) (NNP Welfare)))
+71001,"(517,)",Hurst Welfare,"[Hurst/NNP, Welfare/NNP]",(ROOT (NP (NNP Hurst) (NNP Welfare)))
+71001,"(518,)",yeah that 's right,"[yeah/UH, that/DT, 's/VBZ, right/NN]",(ROOT (SINV (FRAG (INTJ (UH yeah))) (VP (ADVP (DT that)) (VP (VBZ 's))) (NP (NN right))))
+71001,"(519,)",that 's it ?,"[that/DT, 's/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHADVP (DT that)) (SQ (VBZ 's) (NP (PRP it))) (. ?)))
+71001,"(520,)","that 's all , oh no we 've got another , oh","[that/DT, 's/VBZ, all/RB, ,/,, oh/UH, no/DT, we/PRP, 've/VBP, got/VBD, another/DT, ,/,, oh/UH]","(ROOT (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB all)) (, ,) (SBAR (S (INTJ (UH oh)) (NP (DT no) (PRP we)) (VP (VBP 've) (S (VP (VBD got) (NP (DT another)) (, ,) (NP (UH oh))))))))))"
+71001,"(521,)","Sorry I mean that 's it , that 's , that 's the whole","[Sorry/JJ, I/PRP, mean/VBP, that/DT, 's/VBZ, it/PRP, ,/,, that/DT, 's/VBZ, ,/,, that/DT, 's/VBZ, the/DT, whole/NN]","(ROOT (S (S (ADJP (JJ Sorry) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (PRP it)))))))))) (, ,) (NP (DT that)) (VP (VBZ 's) (, ,) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN whole))))))))"
+71001,"(522,)",that 's that sheet,"[that/DT, 's/VBZ, that/IN, sheet/NN]",(ROOT (S (NP (DT that)) (VP (VBZ 's) (ADJP (ADVP (IN that)) (NN sheet)))))
+71001,"(523,)","that 's that sheet , yeah","[that/DT, 's/VBZ, that/IN, sheet/NN, ,/,, yeah/UH]","(ROOT (S (NP (DT that)) (VP (VBZ 's) (ADJP (ADVP (IN that)) (NN sheet)) (, ,) (INTJ (UH yeah)))))"
+71001,"(524,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(525,)",it doesn 't go on the back of these does it ?,"[it/PRP, doesn/VBD, 't/PRP, go/VB, on/IN, the/DT, back/NN, of/IN, these/DT, does/VBZ, it/PRP, ?/.]",(ROOT (SINV (S (NP (PRP it)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB go) (PP (IN on) (NP (NP (DT the) (NN back)) (PP (IN of) (NP (DT these))))))))) (VP (VBZ does)) (NP (PRP it)) (. ?)))
+71001,"(526,)",No it 's just er,"[No/DT, it/PRP, 's/VBZ, just/RB, er/NN]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (NN er)))))
+71001,"(527,)",Are these the ones you send out ?,"[Are/VBP, these/DT, the/DT, ones/NNS, you/PRP, send/VBP, out/RP, ?/.]",(ROOT (S (VP (VBP Are) (NP (NP (DT these) (DT the) (NNS ones)) (SBAR (S (NP (PRP you)) (VP (VBP send) (PRT (RP out))))))) (. ?)))
+71001,"(528, 529)","Yes , because er  they didn 't produce it in time so therefore it couldn 't be printed","[Yes/UH, ,/,, because/IN, er/NN, they/PRP, didn/VBP, 't/PRP, produce/VB, it/PRP, in/IN, time/NN, so/IN, therefore/RB, it/PRP, couldn/VBD, 't/PRP, be/VB, printed/VBN]","(ROOT (S (NP (NP (FRAG (INTJ (UH Yes)) (, ,) (PP (IN because)))) (PP (PP (NP (NP (NN er)) (SBAR (S (NP (PRP they)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB produce) (NP (PRP it)))))))) (IN in) (NP (NN time))) (PP (ADVP (IN so)) (ADJP (RB therefore))))) (VP (ADVP (PRP it)) (VBD couldn) (S (NP (PRP 't)) (VP (VB be) (VP (VBN printed)))))))"
+71001,"(530,)",So it had to be photocopied,"[So/IN, it/PRP, had/VBD, to/TO, be/VB, photocopied/VBN]",(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP it)) (SBAR (S (VP (VBD had) (S (VP (TO to) (VP (VB be) (VP (VBN photocopied)))))))))))
+71001,"(531, 532)",so it had to be photocopied  ,"[so/IN, it/PRP, had/VBD, to/TO, be/VB, photocopied/VBN]",(ROOT (SBAR (IN so) (S (NP (PRP it)) (VP (VBD had) (S (VP (TO to) (VP (VB be) (VP (VBN photocopied)))))))))
+71001,"(533,)","yeah , any , well er right , which club is this ?","[yeah/UH, ,/,, any/DT, ,/,, well/RB, er/NN, right/NN, ,/,, which/WDT, club/NNP, is/VBZ, this/DT, ?/.]","(ROOT (S (INTJ (UH yeah)) (, ,) (NP (DT any)) (, ,) (ADVP (RB well)) (NP (NP (NN er) (NN right)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP club))))) (VP (VBZ is) (NP (DT this))) (. ?)))"
+71001,"(534,)",Killingworth Flyers,"[Killingworth/NNP, Flyers/NNPS]",(ROOT (NP (NNP Killingworth) (NNPS Flyers)))
+71001,"(535,)","Those , those yellow ones , they 're all Killingworth Flyers","[Those/DT, ,/,, those/DT, yellow/JJ, ones/NNS, ,/,, they/PRP, 're/VBP, all/DT, Killingworth/NNP, Flyers/NNPS]","(ROOT (S (NP (NP (DT Those)) (, ,) (NP (NP (DT those) (JJ yellow) (NNS ones)) (, ,) (NP (PRP they)))) (VP (VBP 're) (NP (DT all) (NNP Killingworth) (NNPS Flyers)))))"
+71001,"(536,)","okay , Deborah  > S four","[okay/UH, ,/,, Deborah/NNP, >/JJR, S/NNS, four/CD]","(ROOT (NP (NP (UH okay) (, ,) (NNP Deborah)) (NP (JJR >) (NNS S)) (NP (CD four))))"
+71001,"(537,)",who ?,"[who/WP, ?/.]",(ROOT (FRAG (WHNP (WP who)) (. ?)))
+71001,"(538,)","Deborah  > S four , S four R","[Deborah/NNP, >/JJR, S/NNS, four/CD, ,/,, S/NNS, four/CD, R/NN]","(ROOT (NP (NP (NNP Deborah)) (NP (NP (JJR >) (NNS S)) (NP (NP (CD four)) (, ,) (NP (NNS S)))) (NP (CD four) (NN R))))"
+71001,"(539,)","Yes , yes ah yes got her , yes","[Yes/UH, ,/,, yes/UH, ah/UH, yes/UH, got/VBD, her/PRP, ,/,, yes/UH]","(ROOT (S (S (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH yes) (UH ah))) (UH yes) (VP (VBD got) (NP (PRP her))) (, ,)) (UH yes)))"
+71001,"(540, 541)",Graham  > S one A  Susan,"[Graham/NNP, >/JJR, S/NNS, one/CD, A/DT, Susan/NNP]",(ROOT (NP (NP (NNP Graham)) (NP (NP (JJR >) (NNS S)) (NP (CD one))) (NP (DT A) (NNP Susan))))
+71001,"(542,)","oh , oh , oh , er , Graham     >  isn 't it ?","[oh/UH, ,/,, oh/UH, ,/,, oh/UH, ,/,, er/NN, ,/,, Graham/NNP, >/JJR, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (FRAG (INTJ (INTJ (UH oh)) (, ,) (INTJ (UH oh) (, ,) (UH oh))) (, ,) (NP (NN er)) (, ,) (NP (NP (NNP Graham)) (NP (NP (JJR >) (NN isn)) (NP (PRP 't)) (ADVP (PRP it)))) (. ?)))"
+71001,"(543,)","well it looks like an E , but it must be a G","[well/RB, it/PRP, looks/VBZ, like/IN, an/DT, E/NN, ,/,, but/CC, it/PRP, must/MD, be/VB, a/DT, G/NN]","(ROOT (FRAG (S (S (ADVP (RB well)) (NP (PRP it)) (VP (VBZ looks) (PP (IN like) (NP (DT an) (NN E))))) (, ,) (CC but) (S (NP (PRP it)) (VP (MD must) (VP (VB be) (NP (DT a) (NN G))))))))"
+71001,"(544,)",Not necessarily,"[Not/RB, necessarily/RB]",(ROOT (FRAG (RB Not) (ADVP (RB necessarily))))
+71001,"(545,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(546,)",,[],X
+71001,"(547,)","mm , well yeah I suppose it could be , yeah I suppose it could be    > ","[mm/NN, ,/,, well/RB, yeah/UH, I/PRP, suppose/VBP, it/PRP, could/MD, be/VB, ,/,, yeah/UH, I/PRP, suppose/VBP, it/PRP, could/MD, be/VB, >/JJR]","(ROOT (S (NP (NP (NP (NN mm)) (, ,) (ADVP (RB well))) (SBAR (S (INTJ (UH yeah)) (NP (PRP I)) (VP (VBP suppose) (NP (PRP it)))))) (VP (MD could) (VP (VB be) (, ,) (SBAR (S (INTJ (UH yeah)) (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP it)) (VP (MD could) (VP (VB be) (ADJP (JJR >)))))))))))))"
+71001,"(548,)",,[],X
+71001,"(549,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(550,)",,[],X
+71001,"(551,)",,[],X
+71001,"(552,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(553,)",,[],X
+71001,"(554,)"," >  mm , maybe I 've got it wrong there as well , alright , okay , carry on","[>/JJR, mm/NN, ,/,, maybe/RB, I/PRP, 've/VBP, got/VBD, it/PRP, wrong/JJ, there/RB, as/RB, well/RB, ,/,, alright/JJ, ,/,, okay/JJ, ,/,, carry/VB, on/RP]","(ROOT (S (NP (NP (JJR >) (NN mm)) (, ,) (FRAG (RB maybe) (NP (PRP I)))) (VP (VBP 've) (VP (VBD got) (ADJP (ADJP (NP (PRP it)) (JJ wrong)) (ADVP (RB there) (RB as) (RB well)) (, ,) (ADJP (JJ alright)) (, ,) (ADJP (JJ okay))) (, ,) (VP (VB carry) (PRT (RP on)))))))"
+71001,"(555,)",Susan  > S three . .,"[Susan/NNP, >/JJR, S/NNS, three/CD, ./., ./.]",(ROOT (NP (NP (NNP Susan)) (NP (NP (JJR >) (NNS S)) (SBAR (S (NP (CD three) (. .))))) (. .)))
+71001,"(556,)","do , do , yes , got her","[do/VB, ,/,, do/VB, ,/,, yes/UH, ,/,, got/VBD, her/PRP$]","(ROOT (S (VP (VP (VB do)) (, ,) (VP (VB do) (, ,) (INTJ (UH yes)) (, ,) (S (VP (VBD got) (NP (PRP$ her))))))))"
+71001,"(557,)",John  >,"[John/NNP, >/JJR]",(ROOT (NP (NP (NNP John)) (NP (JJR >))))
+71001,"(558,)",what is he ?,"[what/WP, is/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ is) (NP (PRP he))) (. ?)))
+71001,"(559,)","W three , no I , I think that , that , that must be  > cos they 've got the same G here","[W/NNP, three/CD, ,/,, no/DT, I/PRP, ,/,, I/PRP, think/VBP, that/IN, ,/,, that/IN, ,/,, that/IN, must/MD, be/VB, >/JJR, cos/NN, they/PRP, 've/VBP, got/VBD, the/DT, same/JJ, G/NN, here/RB]","(ROOT (S (NP (NNP W) (CD three)) (, ,) (NP (DT no) (S (NP (PRP I)) (, ,) (NP (PRP I)) (VP (VBP think) (ADVP (IN that)) (, ,) (SBAR (IN that) (, ,) (S (SBAR (WHNP (IN that)) (S (VP (MD must) (VP (VB be) (NP (JJR >) (NN cos)))))) (NP (PRP they)) (VP (VBP 've))))))) (VP (VBD got) (NP (DT the) (JJ same) (NN G)) (ADVP (RB here)))))"
+71001,"(560,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(561,)",I think it 's >,"[I/PRP, think/VBP, it/PRP, 's/VBZ, >/JJR]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJR >))))))))
+71001,"(562,)",so it 's    >   ?,"[so/IN, it/PRP, 's/VBZ, >/JJR, ?/.]",(ROOT (S (IN so) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJR >))) (. ?)))
+71001,"(563,)",mm,[mm/NN],(ROOT (NP (NN mm)))
+71001,"(564,)","Right , okay , I bet he 's wrong all the way through","[Right/NN, ,/,, okay/JJ, ,/,, I/PRP, bet/VBP, he/PRP, 's/VBZ, wrong/JJ, all/PDT, the/DT, way/NN, through/IN]","(ROOT (S (NP (NN Right)) (, ,) (ADVP (JJ okay)) (, ,) (NP (PRP I)) (VP (VBP bet) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ wrong)) (ADVP (NP (PDT all) (DT the) (NN way)) (IN through))))))))"
+71001,"(565,)",well   oh that 's a   isn 't it and it 's the same E,"[well/RB, oh/UH, that/DT, 's/VBZ, a/DT, isn/NN, 't/PRP, it/PRP, and/CC, it/PRP, 's/VBZ, the/DT, same/JJ, E/NN]",(ROOT (ADJP (RB well) (SBAR (S (INTJ (UH oh)) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT a) (NN isn)) (SBAR (S (S (NP (PRP 't)) (NP (PRP it))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT the) (JJ same) (NN E))))))))))))
+71001,"(566,)",Yes it is isn 't it ?,"[Yes/UH, it/PRP, is/VBZ, isn/JJ, 't/PRP, it/PRP, ?/.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+71001,"(567,)",Aye it 's like,"[Aye/NNP, it/PRP, 's/VBZ, like/IN]",(ROOT (FRAG (NP (NP (NNP Aye)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN like))))))))
+71001,"(568,)",It 's a funny way of doing the G,"[It/PRP, 's/VBZ, a/DT, funny/JJ, way/NN, of/IN, doing/VBG, the/DT, G/NN]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ funny) (NN way)) (PP (IN of) (S (VP (VBG doing) (NP (DT the) (NN G)))))))))
+71001,"(569,)",mm,[mm/NN],(ROOT (NP (NN mm)))
+71001,"(570,)","Alright , okay , is that the lot ?","[Alright/NNP, ,/,, okay/JJ, ,/,, is/VBZ, that/IN, the/DT, lot/NN, ?/.]","(ROOT (S (NP (NP (NNP Alright)) (, ,) (ADJP (JJ okay)) (, ,)) (VP (VBZ is) (ADVP (IN that) (NP (DT the) (NN lot)))) (. ?)))"
+71001,"(571,)",Finished with that one ?,"[Finished/VBN, with/IN, that/DT, one/CD, ?/.]",(ROOT (S (VP (VBN Finished) (PP (IN with) (NP (DT that) (CD one)))) (. ?)))
+71001,"(572, 573)","Finished with that one , more    Colin  > S one A","[Finished/VBN, with/IN, that/DT, one/CD, ,/,, more/JJR, Colin/NNP, >/JJR, S/NNS, one/CD, A/DT]","(ROOT (VP (VBN Finished) (PP (IN with) (NP (NP (DT that) (CD one)) (, ,) (ADVP (JJR more)) (NP (NP (NNP Colin)) (NP (JJR >) (NNS S))))) (NP (CD one) (DT A))))"
+71001,"(574,)",How to get bored in one easy movement,"[How/WRB, to/TO, get/VB, bored/VBN, in/IN, one/CD, easy/JJ, movement/NN]",(ROOT (SBAR (WHADVP (WRB How)) (S (VP (TO to) (VP (VB get) (ADJP (VBN bored) (PP (IN in) (NP (CD one) (JJ easy) (NN movement)))))))))
+71001,"(575,)",Mm,[Mm/NN],(ROOT (NP (NN Mm)))
+71001,"(576,)","er , yes","[er/NN, ,/,, yes/UH]","(ROOT (INTJ (NN er) (, ,) (UH yes)))"
+71001,"(577,)",Bill >,"[Bill/NNP, >/JJR]",(ROOT (NP (NP (NNP Bill)) (NP (JJR >))))
+71001,"(578,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(579,)",> S two,"[>/JJR, S/NNS, two/CD]",(ROOT (NP (NP (JJR >) (NNS S)) (NP (CD two))))
+71001,"(580,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(581,)",Hazel  > S one A,"[Hazel/NN, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NN Hazel)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(582,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(583,)",Ernie  > W one,"[Ernie/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Ernie)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(584,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(585,)",Michael >,"[Michael/NNP, >/JJR]",(ROOT (NP (NP (NNP Michael)) (NP (JJR >))))
+71001,"(586,)",Michael  > who 's he ?,"[Michael/NNP, >/JJR, who/WP, 's/VBZ, he/PRP, ?/.]",(ROOT (S (NP (NNP Michael)) (ADJP (JJR >) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (NP (PRP he)))) (. ?)))))
+71001,"(587,)",S four,"[S/NNS, four/CD]",(ROOT (NP (NP (NNS S)) (NP (CD four))))
+71001,"(588,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(589,)",Alan  > S four,"[Alan/NNP, >/JJR, S/NNS, four/CD]",(ROOT (NP (NP (NNP Alan)) (NP (JJR >) (NNS S)) (NP (CD four))))
+71001,"(590,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(591,)",Frank  > >,"[Frank/NNP, >/JJR, >/JJR]",(ROOT (FRAG (NP (NP (NNP Frank)) (ADJP (JJR >))) (ADJP (JJR >))))
+71001,"(592,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(593,)",oh it 's them again is it ?,"[oh/UH, it/PRP, 's/VBZ, them/PRP, again/RB, is/VBZ, it/PRP, ?/.]",(ROOT (S (S (INTJ (UH oh)) (NP (PRP it)) (VP (VBZ 's))) (S (NP (PRP them)) (ADVP (RB again)) (VP (VBZ is) (NP (PRP it)))) (. ?)))
+71001,"(594,)",That 's right ,"[That/DT, 's/VBZ, right/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right)))))
+71001,"(595, 596)",Mm  > S one A  Susan  >,"[Mm/NN, >/JJR, S/NNS, one/CD, A/DT, Susan/NNP, >/JJR]",(ROOT (X (NP (NP (NN Mm)) (NP (JJR >) (NNS S))) (NP (CD one)) (NP (NP (DT A) (NNP Susan)) (NP (JJR >)))))
+71001,"(597, 598)","hang on  trying to , yes , Susan  > visually handicapped is she ?","[hang/NNP, on/IN, trying/VBG, to/TO, ,/,, yes/UH, ,/,, Susan/NNP, >/JJR, visually/RB, handicapped/NNS, is/VBZ, she/PRP, ?/.]","(ROOT (S (PP (NP (NNP hang)) (IN on) (S (VP (VBG trying) (PP (TO to) (PRN (, ,) (INTJ (UH yes)) (, ,)) (NP (NNP Susan)))))) (NP (ADJP (NP (JJR >)) (RB visually)) (NNS handicapped)) (VP (VBZ is) (NP (PRP she))) (. ?)))"
+71001,"(599, 600)",Yeah  Evelyn  > S four,"[Yeah/UH, Evelyn/NNP, >/JJR, S/NNS, four/CD]",(ROOT (PP (NP (UH Yeah)) (PP (NNP Evelyn) (NP (NP (JJR >) (NNS S)) (NP (CD four))))))
+71001,"(601,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(602,)",Paul  > visually handicapped,"[Paul/NNP, >/JJR, visually/RB, handicapped/JJ]",(ROOT (NP (NP (NNP Paul)) (NP (NP (JJR >)) (ADJP (RB visually) (JJ handicapped)))))
+71001,"(603,)", >  oh it 's     >  isn 't it ?,"[>/JJR, oh/UH, it/PRP, 's/VBZ, >/JJR, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (FRAG (NP (NP (JJR >)) (SBAR (S (INTJ (UH oh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJR >) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it)))))))) (. ?)))
+71001,"(604,)",,[],X
+71001,"(605,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(606,)",,[],X
+71001,"(607,)", >  right,"[>/JJR, right/NN]",(ROOT (X (NP (JJR >) (NN right))))
+71001,"(608,)",Russell  > S one,"[Russell/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Russell)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(609,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(610,)",Aileen  > S one A,"[Aileen/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Aileen)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(611,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(612,)",this is the John Wright Centre,"[this/DT, is/VBZ, the/DT, John/NNP, Wright/NNP, Centre/NNP]",(ROOT (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (NNP John) (NNP Wright) (NNP Centre)))))
+71001,"(613,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(614, 615)",erm  C  > W five,"[erm/NN, C/NN, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NN erm) (NN C)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(616,)",eh ?,"[eh/UH, ?/.]",(ROOT (INTJ (UH eh) (. ?)))
+71001,"(617,)",C  >,"[C/NNP, >/JJR]",(ROOT (NP (NP (NNP C)) (NP (JJR >))))
+71001,"(618,)",C  > W five,"[C/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP C)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(619,)","Oh right yes got it , yes","[Oh/UH, right/RB, yes/RB, got/VBD, it/PRP, ,/,, yes/UH]","(ROOT (S (VP (UH Oh) (NP (RB right) (RB yes) (SBAR (S (VP (VBD got) (NP (PRP it)))))) (, ,) (NP (UH yes)))))"
+71001,"(620,)",C  > W five,"[C/NNP, >/JJR, W/NN, five/CD]",(ROOT (NP (NP (NNP C)) (NP (JJR >) (NN W)) (NP (CD five))))
+71001,"(621,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(622,)",M     >  >  W one,"[M/NN, >/JJR, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NN M)) (NP (NP (JJR >)) (NP (JJR >) (NN W))) (NP (CD one))))
+71001,"(623,)",is it  > or >  ?,"[is/VBZ, it/PRP, >/JJR, or/CC, >/JJR, ?/.]",(ROOT (SQ (VBZ is) (NP (PRP it)) (ADJP (ADJP (JJR >)) (CC or) (ADJP (JJR >))) (. ?)))
+71001,"(624,)",it says >,"[it/PRP, says/VBZ, >/JJR]",(ROOT (S (NP (PRP it)) (VP (VBZ says) (ADJP (JJR >)))))
+71001,"(625,)",,[],X
+71001,"(626,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+71001,"(627,)",,[],X
+71001,"(628,)",yeah,[yeah/UH],(ROOT (INTJ (UH yeah)))
+71001,"(629,)","okay , right","[okay/JJ, ,/,, right/JJ]","(ROOT (ADJP (JJ okay) (, ,) (JJ right)))"
+71001,"(630,)",Y  > W one,"[Y/NN, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NN Y)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(631,)",Y >,"[Y/NN, >/JJR]",(ROOT (NP (NP (NN Y)) (NP (JJR >))))
+71001,"(632,)",and L,"[and/CC, L/NN]",(ROOT (FRAG (CC and) (NP (NN L))))
+71001,"(633,)","ah , I 'm looking for her , Yvonne  > yeah","[ah/NN, ,/,, I/PRP, 'm/VBP, looking/VBG, for/IN, her/PRP, ,/,, Yvonne/NNP, >/JJR, yeah/UH]","(ROOT (NP (S (NP (NN ah)) (, ,) (NP (PRP I)) (VP (VBP 'm) (S (VP (VBG looking) (NP (PP (IN for) (NP (PRP her))) (, ,) (NP (NP (NNP Yvonne)) (JJR >))) (FRAG (INTJ (UH yeah)))))))))"
+71001,"(634,)",yeah,[yeah/UH],(ROOT (INTJ (UH yeah)))
+71001,"(635,)","that 's right , okay","[that/DT, 's/VBZ, right/JJ, ,/,, okay/JJ]","(ROOT (S (NP (DT that)) (VP (VBZ 's) (ADJP (ADJP (JJ right)) (, ,) (ADJP (JJ okay))))))"
+71001,"(636,)",and L >,"[and/CC, L/NN, >/JJR]",(ROOT (FRAG (CC and) (NP (NP (NN L)) (ADJP (JJR >)))))
+71001,"(637,)","L >  , yes","[L/NN, >/JJR, ,/,, yes/UH]","(ROOT (INTJ (INTJ (NN L) (JJR >)) (, ,) (INTJ (UH yes))))"
+71001,"(638,)","W one , M  >","[W/NNP, one/CD, ,/,, M/NN, >/JJR]","(ROOT (FRAG (NP (NP (NNP W) (CD one)) (, ,) (ADJP (NN M) (JJR >)))))"
+71001,"(639,)",where 's that ?,"[where/WRB, 's/POS, that/WDT, ?/.]",(ROOT (SBARQ (WHADVP (WRB where)) (SQ (VP (POS 's) (WHNP (WDT that)))) (. ?)))
+71001,"(640,)",S one,"[S/NNS, one/CD]",(ROOT (NP (NP (NNS S)) (NP (CD one))))
+71001,"(641,)",Is that  > or >  ?,"[Is/VBZ, that/IN, >/JJR, or/CC, >/JJR, ?/.]",(ROOT (S (VP (VBZ Is) (ADVP (IN that)) (ADJP (JJR >) (CC or) (JJR >))) (. ?)))
+71001,"(642,)","Oh it could be >  , M >","[Oh/UH, it/PRP, could/MD, be/VB, >/JJR, ,/,, M/NN, >/JJR]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (MD could) (VP (VB be) (ADJP (JJR >))))) (, ,) (FRAG (NP (NN M))) (JJR >)))"
+71001,"(643,)","Er , hang on , S what ?","[Er/NN, ,/,, hang/NNP, on/IN, ,/,, S/NNS, what/WDT, ?/.]","(ROOT (NP (NP (NN Er)) (, ,) (NP (NP (NNP hang)) (PP (IN on))) (, ,) (NP (NP (NNS S)) (SBAR (WHNP (WDT what)))) (. ?)))"
+71001,"(644,)","Oh no he 's not doing that , sorry","[Oh/UH, no/DT, he/PRP, 's/VBZ, not/RB, doing/VBG, that/IN, ,/,, sorry/JJ]","(ROOT (SINV (VP (PP (NP (UH Oh)) (NP (NP (DT no)) (NP (PRP he)))) (VBZ 's) (ADJP (RB not) (S (VP (VBG doing))))) (NP (NP (IN that)) (, ,) (ADJP (JJ sorry)))))"
+71001,"(645,)",Hmm,[Hmm/NN],(ROOT (NP (NN Hmm)))
+71001,"(646,)",L >,"[L/NN, >/JJR]",(ROOT (FRAG (ADJP (NN L)) (ADJP (JJR >))))
+71001,"(647,)",what 's that ?,"[what/WP, 's/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (ADJP (IN that))) (. ?)))
+71001,"(648,)","W two , oh maybe this is the last one","[W/NNP, two/CD, ,/,, oh/UH, maybe/RB, this/DT, is/VBZ, the/DT, last/JJ, one/CD]","(ROOT (S (NP (NP (NNP W)) (VP (NP (CD two)) (, ,) (NP (INTJ (UH oh)) (NP (RB maybe) (DT this))))) (VP (VBZ is) (NP (DT the) (JJ last) (CD one)))))"
+71001,"(649,)",L >  ?,"[L/NN, >/JJR, ?/.]",(ROOT (NP (NP (NN L)) (NP (JJR >)) (. ?)))
+71001,"(650,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(651,)",W two ?,"[W/NNP, two/CD, ?/.]",(ROOT (FRAG (NP (NNP W)) (NP (CD two)) (. ?)))
+71001,"(652, 653)",yes  doing quoits,"[yes/UH, doing/VBG, quoits/NNS]",(ROOT (FRAG (INTJ (UH yes)) (VBG doing) (NP (NNS quoits))))
+71001,"(654,)",Male or female ?,"[Male/NN, or/CC, female/NN, ?/.]",(ROOT (FRAG (NP (NP (NN Male)) (CC or) (NP (NN female))) (. ?)))
+71001,"(655,)",Female,[Female/NN],(ROOT (NP (NN Female)))
+71001,"(656,)","Oh , oh , L  > oh , right , yes , got her , yes","[Oh/UH, ,/,, oh/UH, ,/,, L/NN, >/JJR, oh/UH, ,/,, right/RB, ,/,, yes/UH, ,/,, got/VBD, her/PRP, ,/,, yes/UH]","(ROOT (S (NP (NP (FRAG (INTJ (UH Oh) (, ,) (UH oh)) (, ,) (NP (NN L)))) (PP (PP (JJR >) (NP (INTJ (INTJ (UH oh)) (, ,) (INTJ (INTJ (RB right)) (, ,) (INTJ (UH yes)))))) (PRN (, ,) (S (VP (VBD got) (NP (PRP her)) (, ,) (NP (UH yes)))))))))"
+71001,"(657, 658)","in fact that M >  , it mi- it might be  > cos the L 's completely different looking at this  have a look","[in/IN, fact/NN, that/IN, M/NN, >/JJR, ,/,, it/PRP, mi-/JJ, it/PRP, might/MD, be/VB, >/JJR, cos/NN, the/DT, L/NN, 's/POS, completely/RB, different/JJ, looking/VBG, at/IN, this/DT, have/VBP, a/DT, look/NN]","(ROOT (FRAG (ADVP (IN in) (NN fact)) (SBAR (IN that) (S (NP (NP (NN M)) (ADJP (ADJP (JJR >)) (PRN (, ,) (S (NP (PRP it)) (ADJP (JJ mi-) (SBAR (S (NP (PRP it)) (VP (MD might) (VP (VB be) (NP (NP (NP (NP (JJR >) (NN cos)) (NP (DT the) (NN L) (POS 's))) (ADJP (RB completely) (JJ different))) (VP (VBG looking) (PP (IN at) (NP (DT this)))))))))))))) (VP (VBP have) (NP (DT a) (NN look)))))))"
+71001,"(659,)",I 've a feeling it 's  > actually,"[I/PRP, 've/VBP, a/DT, feeling/NN, it/PRP, 's/VBZ, >/JJR, actually/RB]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (NP (NP (DT a) (NN feeling)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJR >)) (ADVP (RB actually)))))))))
+71001,"(660,)","Oh they don 't do any of the other Ls , the same","[Oh/UH, they/PRP, don/VBP, 't/PRP, do/VB, any/DT, of/IN, the/DT, other/JJ, Ls/NN, ,/,, the/DT, same/JJ]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (ADVP (PRP they)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB do) (NP (NP (DT any)) (PP (IN of) (NP (DT the) (JJ other) (NN Ls))))) (, ,)))) (NP (DT the) (JJ same))))"
+71001,"(661,)","Oh we 'll leave it as >  , I think it 's  > all the way through","[Oh/UH, we/PRP, 'll/MD, leave/VB, it/PRP, as/IN, >/JJR, ,/,, I/PRP, think/VBP, it/PRP, 's/VBZ, >/JJR, all/PDT, the/DT, way/NN, through/IN]","(ROOT (NP (S (S (INTJ (UH Oh)) (NP (PRP we)) (VP (MD 'll) (VP (VB leave) (NP (PRP it)) (PP (IN as) (NP (JJR >)))))) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJR >)) (ADVP (NP (PDT all) (DT the) (NN way)) (IN through)))))))))"
+71001,"(662,)"," Right , this is T , L , F Sports Club ?","[Right/NN, ,/,, this/DT, is/VBZ, T/NN, ,/,, L/NN, ,/,, F/NN, Sports/NNS, Club/NN, ?/.]","(ROOT (NP (NP (NN Right)) (, ,) (S (NP (DT this)) (VP (VBZ is) (NP (NN T)))) (, ,) (NP (NN L)) (, ,) (NP (NP (NN F) (NNS Sports)) (NP (NN Club))) (. ?)))"
+71001,"(663,)","Yes , T , L , F yes","[Yes/UH, ,/,, T/NN, ,/,, L/NN, ,/,, F/NN, yes/RB]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (ADVP (NP (NP (NN T) (, ,) (NN L) (, ,)) (ADVP (NN F))) (RB yes))))"
+71001,"(664, 665)",Er  Paul  > S one,"[Er/NN, Paul/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NN Er) (NNP Paul)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(666,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(667,)",Derrick  > S four,"[Derrick/NNP, >/JJR, S/NNS, four/CD]",(ROOT (NP (NP (NNP Derrick)) (NP (JJR >) (NNS S)) (NP (CD four))))
+71001,"(668,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(669,)",Jean  > visually handicapped,"[Jean/NNP, >/JJR, visually/RB, handicapped/JJ]",(ROOT (NP (NP (NNP Jean)) (NP (NP (JJR >)) (ADJP (RB visually) (JJ handicapped)))))
+71001,"(670,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(671,)",Sandra  > S one A,"[Sandra/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Sandra)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(672,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(673,)",Geoff  > W one,"[Geoff/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Geoff)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(674,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(675,)",Mark  > that a erm S one,"[Mark/NNP, >/JJR, that/IN, a/DT, erm/NN, S/VBZ, one/CD]",(ROOT (S (NP (NNP Mark)) (ADJP (JJR >) (SBAR (IN that) (S (NP (DT a) (NN erm)) (VP (VBZ S) (NP (CD one))))))))
+71001,"(676,)", yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(677,)",Chris  > S one A,"[Chris/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Chris)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(678,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(679,)",and Christine  > W five,"[and/CC, Christine/NNP, >/JJR, W/NN, five/CD]",(ROOT (PRN (CC and) (NP (NP (NNP Christine)) (NP (NP (JJR >) (NN W)) (NP (CD five))))))
+71001,"(680,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(681,)",Jean  > W two and that 's the entry for quoits,"[Jean/NNP, >/JJR, W/NN, two/CD, and/CC, that/DT, 's/VBZ, the/DT, entry/NN, for/IN, quoits/NNS]",(ROOT (UCP (S (NP (NNP Jean)) (NP (NP (JJR >) (NN W)) (NP (CD two)))) (CC and) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN entry)) (PP (IN for) (NP (NNS quoits)))))))))
+71001,"(682,)",right,[right/NN],(ROOT (NP (NN right)))
+71001,"(683,)",better go and ring your mother,"[better/RB, go/VB, and/CC, ring/VB, your/PRP$, mother/NN]",(ROOT (S (VP (ADVP (RB better)) (VB go) (CC and) (VB ring) (NP (PRP$ your) (NN mother)))))
+71001,"(684, 685, 686, 687, 688, 689)","Let 's have a look at that white sheet first  erm , quoits are done , I 'll do the pools after those  shot , javelin , discus , low on darts , they 've ticked these so I hope to God they 're right  well that Justin 'll do anything to be perfectly honest  er  I wish she , it makes it so difficult when you can 't trust people .","[Let/VB, 's/PRP, have/VB, a/DT, look/NN, at/IN, that/DT, white/JJ, sheet/NN, first/JJ, erm/NN, ,/,, quoits/NNS, are/VBP, done/VBN, ,/,, I/PRP, 'll/MD, do/VB, the/DT, pools/NNS, after/IN, those/DT, shot/VBN, ,/,, javelin/NNP, ,/,, discus/NN, ,/,, low/JJ, on/IN, darts/NN, ,/,, they/PRP, 've/VBP, ticked/VBN, these/DT, so/IN, I/PRP, hope/VBP, to/TO, God/NNP, they/PRP, 're/VBP, right/RB, well/RB, that/IN, Justin/NNP, 'll/MD, do/VB, anything/NN, to/TO, be/VB, perfectly/RB, honest/JJ, er/NN, I/PRP, wish/VBP, she/PRP, ,/,, it/PRP, makes/VBZ, it/PRP, so/RB, difficult/JJ, when/WRB, you/PRP, can/MD, 't/PRP, trust/VB, people/NNS, ./.]","(ROOT (S (S (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB have) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (DT that) (JJ white) (NN sheet) (JJ first) (NN erm)))))))) (PRN (, ,) (S (NP (NNS quoits)) (VP (VBP are) (VP (VBN done)))) (, ,)) (NP (PRP I)) (VP (MD 'll) (VP (VB do) (NP (DT the) (NNS pools)) (PP (IN after) (NP (NP (DT those)) (VP (VBN shot))))))) (, ,) (NP (NP (NNP javelin)) (, ,) (NP (NN discus)) (, ,)) (ADVP (JJ low) (PP (IN on) (NP (NN darts)))) (PRN (, ,) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN ticked) (NP (DT these)) (SBAR (IN so) (S (NP (PRP I)) (VP (VBP hope) (PP (TO to) (NP (NNP God))) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (ADVP (RB right) (RB well)) (SBAR (IN that) (S (NP (NNP Justin)) (VP (MD 'll) (VP (VB do) (NP (NN anything)) (S (VP (TO to) (VP (VB be) (ADJP (RB perfectly) (JJ honest)) (NP (NP (NN er)) (SBAR (S (NP (PRP I)) (VP (VBP wish) (NP (PRP she))))))))))))))))))))))) (, ,)) (NP (PRP it)) (VP (VBZ makes) (S (NP (PRP it)) (ADJP (RB so) (JJ difficult)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (MD can) (NP (PRP 't)) (S (VP (VB trust) (NP (NNS people))))))))) (. .)))"
+71001,"(690,)",Mm,[Mm/NN],(ROOT (NP (NN Mm)))
+71001,"(691, 692)","Table tennis  oh , well , have , the table tennis hasn 't been then yet ?","[Table/NN, tennis/NN, oh/UH, ,/,, well/RB, ,/,, have/VBP, ,/,, the/DT, table/NN, tennis/NN, hasn/NN, 't/PRP, been/VBN, then/RB, yet/RB, ?/.]","(ROOT (NP (NP (NP (NN Table) (NN tennis)) (SBAR (S (FRAG (INTJ (UH oh)) (, ,) (ADVP (RB well))) (, ,) (VP (VBP have)) (, ,)))) (NP (NP (NP (DT the) (NN table) (NN tennis) (NN hasn)) (NP (PRP 't))) (VP (VBN been) (ADVP (RB then)) (ADVP (RB yet)))) (. ?)))"
+71001,"(693,)",T T is that ?,"[T/NN, T/NN, is/VBZ, that/IN, ?/.]",(ROOT (S (NP (NN T) (NN T)) (VP (VBZ is) (ADJP (IN that))) (. ?)))
+71001,"(694,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(695,)","Some of these have been crossed , have been done on the Hexham Spinal Sports Club T T","[Some/DT, of/IN, these/DT, have/VBP, been/VBN, crossed/VBN, ,/,, have/VBP, been/VBN, done/VBN, on/IN, the/DT, Hexham/NNP, Spinal/JJ, Sports/NNS, Club/NN, T/NN, T/NN]","(ROOT (S (NP (NP (DT Some)) (PP (IN of) (NP (DT these)))) (VP (VBP have) (VP (VBN been) (VP (VP (VBN crossed)) (, ,) (VP (VBP have) (VP (VBN been) (VP (VBN done) (PP (IN on) (NP (DT the) (NNP Hexham) (JJ Spinal) (NNS Sports) (NN Club)))))) (NP (NN T) (NN T)))))))"
+71001,"(696,)","Right , you 'd better give them a shout , there aren 't that many actually","[Right/NN, ,/,, you/PRP, 'd/MD, better/RB, give/VB, them/PRP, a/DT, shout/NN, ,/,, there/EX, aren/NNP, 't/PRP, that/IN, many/JJ, actually/RB]","(ROOT (S (ADVP (NN Right)) (, ,) (NP (PRP you)) (VP (MD 'd) (ADVP (RB better)) (VP (VB give) (S (S (NP (PRP them)) (NP (DT a) (NN shout))) (, ,) (S (NP (EX there)) (NP (NNP aren) (PRP 't)))) (PP (IN that) (NP (JJ many))) (ADVP (RB actually))))))"
+71001,"(697,)",Aren 't there ?,"[Aren/NNP, 't/PRP, there/EX, ?/.]",(ROOT (NP (NP (NNP Aren)) (NP (NP (PRP 't)) (NP (EX there))) (. ?)))
+71001,"(698,)",table tennis,"[table/NN, tennis/NN]",(ROOT (NP (NN table) (NN tennis)))
+71001,"(699,)",Has it a   that as  ?,"[Has/VBZ, it/PRP, a/DT, that/DT, as/IN, ?/.]",(ROOT (S (VP (VBZ Has) (NP (PRP it) (DT a)) (ADVP (DT that) (IN as))) (. ?)))
+71001,"(700,)","Yeah , there aren 't any on there , so I 'll tick you one on there","[Yeah/UH, ,/,, there/EX, aren/NNP, 't/PRP, any/DT, on/IN, there/RB, ,/,, so/IN, I/PRP, 'll/MD, tick/VB, you/PRP, one/CD, on/IN, there/EX]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (NP (EX there)) (NP (NNP aren)) (NP (NP (PRP 't)) (NP (NP (DT any)) (PP (IN on) (NP (RB there)))))) (, ,) (NP (ADJP (IN so)) (NP (PRP I))) (VP (MD 'll) (VP (VB tick) (S (NP (PRP you)) (NP (NP (CD one)) (PP (IN on) (NP (EX there)))))))))"
+71001,"(701,)"," Right , oh , right   okay the Hexham Spinal Sports Club","[Right/NN, ,/,, oh/UH, ,/,, right/JJ, okay/JJ, the/DT, Hexham/NNP, Spinal/JJ, Sports/NNS, Club/NN]","(ROOT (NP (NP (NP (ADJP (ADJP (NN Right)) (PRN (, ,) (INTJ (UH oh)) (, ,))) (JJ right)) (ADJP (JJ okay))) (NP (DT the) (NNP Hexham) (JJ Spinal) (NNS Sports) (NN Club))))"
+71001,"(702,)",Right you 've got the list,"[Right/RB, you/PRP, 've/VBP, got/VBD, the/DT, list/NN]",(ROOT (ADJP (RB Right) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (DT the) (NN list))))))))
+71001,"(703,)",L >,"[L/NN, >/JJR]",(ROOT (FRAG (ADJP (NN L)) (ADJP (JJR >))))
+71001,"(704,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(705,)",Terry >,"[Terry/NNP, >/JJR]",(ROOT (NP (NP (NNP Terry)) (NP (JJR >))))
+71001,"(706,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(707,)",Peter >,"[Peter/NNP, >/JJR]",(ROOT (NP (NP (NNP Peter)) (NP (JJR >))))
+71001,"(708,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(709,)",Douglas >,"[Douglas/NNP, >/JJR]",(ROOT (NP (NP (NNP Douglas)) (NP (JJR >))))
+71001,"(710,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(711,)",Andrew >,"[Andrew/NNP, >/JJR]",(ROOT (NP (NP (NNP Andrew)) (NP (JJR >))))
+71001,"(712,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(713,)","table tennis , T , L , F , Paul  >","[table/NN, tennis/NN, ,/,, T/NN, ,/,, L/NN, ,/,, F/NN, ,/,, Paul/NNP, >/JJR]","(ROOT (S (NP (NP (NN table) (NN tennis)) (, ,) (NP (NN T)) (, ,) (NP (NN L)) (, ,) (NP (NN F)) (, ,) (NP (NNP Paul))) (ADJP (JJR >))))"
+71001,"(714,)",er,[er/NN],(ROOT (NP (NN er)))
+71001,"(715,)","Derek , Paul  > S one","[Derek/NNP, ,/,, Paul/NNP, >/JJR, S/NNS, one/CD]","(ROOT (NP (NP (NNP Derek) (, ,) (NNP Paul)) (NP (JJR >) (NNS S)) (NP (CD one))))"
+71001,"(716,)","Paul  > he 's got , he 's er S one table tennis , you sure he 's on table tennis ?","[Paul/NNP, >/JJR, he/PRP, 's/VBZ, got/VBN, ,/,, he/PRP, 's/VBZ, er/NN, S/NNS, one/CD, table/NN, tennis/NN, ,/,, you/PRP, sure/RB, he/PRP, 's/VBZ, on/IN, table/NN, tennis/NN, ?/.]","(ROOT (S (S (NP (NNP Paul)) (ADJP (JJR >))) (PRN (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN got)))) (, ,)) (NP (PRP he)) (VP (VBZ 's) (NP (NP (NP (NN er) (NNS S)) (NP (CD one) (NN table) (NN tennis))) (, ,) (NP (NP (PRP you)) (SBAR (S (ADVP (RB sure)) (NP (PRP he)) (VP (VBZ 's) (PP (IN on) (NP (NN table) (NN tennis))))))))) (. ?)))"
+71001,"(717,)",It says T T,"[It/PRP, says/VBZ, T/NN, T/NN]",(ROOT (S (NP (PRP It)) (VP (VBZ says) (NP (NN T) (NN T)))))
+71001,"(718,)","Right , er Paul , okay , I 'll put him in , Paul  > hope there aren 't any more","[Right/NN, ,/,, er/NN, Paul/NNP, ,/,, okay/JJ, ,/,, I/PRP, 'll/MD, put/VB, him/PRP, in/IN, ,/,, Paul/NNP, >/JJR, hope/NN, there/RB, aren/NNP, 't/PRP, any/DT, more/JJR]","(ROOT (S (NP (NP (NN Right)) (, ,) (NP (NP (NN er)) (NP (NNP Paul)))) (, ,) (ADVP (JJ okay)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB put) (NP (PRP him)) (ADVP (IN in)) (, ,) (S (NP (NNP Paul)) (NP (NP (JJR >) (NN hope)) (RRC (ADVP (RB there)) (NP (NP (NNP aren)) (NP (NP (PRP 't)) (ADJP (DT any) (JJR more)))))))))))"
+71001,"(719,)",Derek  >,"[Derek/NNP, >/JJR]",(ROOT (NP (NP (NNP Derek)) (NP (JJR >))))
+71001,"(720,)",who 's he ?,"[who/WP, 's/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP who)) (SQ (VBZ 's) (NP (PRP he))) (. ?)))
+71001,"(721,)",S four ?,"[S/NNS, four/CD, ?/.]",(ROOT (NP (NNS S) (CD four) (. ?)))
+71001,"(722,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+71001,"(723, 724)","Oh hang on , hang on , hang on  oh , right table tennis , what was the last one 's name ?","[Oh/UH, hang/VB, on/IN, ,/,, hang/VB, on/IN, ,/,, hang/VB, on/IN, oh/UH, ,/,, right/JJ, table/NN, tennis/NN, ,/,, what/WP, was/VBD, the/DT, last/JJ, one/NN, 's/POS, name/NN, ?/.]","(ROOT (S (INTJ (UH Oh)) (VP (VP (VB hang) (PP (IN on))) (, ,) (VP (VB hang) (PP (IN on))) (, ,) (VP (VB hang) (PP (IN on) (NP (INTJ (INTJ (UH oh)) (, ,) (INTJ (JJ right) (NN table)))) (NN tennis)) (, ,) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (NP (DT the) (JJ last) (NN one) (POS 's)) (NN name))))))) (. ?)))"
+71001,"(725,)",Paul >,"[Paul/NNP, >/JJR]",(ROOT (NP (NP (NNP Paul)) (NP (JJR >))))
+71001,"(726,)","Yes , got him , okay","[Yes/UH, ,/,, got/VBD, him/PRP, ,/,, okay/JJ]","(ROOT (S (S (INTJ (UH Yes)) (, ,) (VP (VBD got) (NP (PRP him))) (, ,)) (JJ okay)))"
+71001,"(727,)",Derek >,"[Derek/NNP, >/JJR]",(ROOT (NP (NP (NNP Derek)) (NP (JJR >))))
+71001,"(728,)","erm , what 's he ?","[erm/NN, ,/,, what/WP, 's/VBZ, he/PRP, ?/.]","(ROOT (SBARQ (NP (NN erm)) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP he))) (. ?)))"
+71001,"(729,)", S four ,"[S/NNS, four/CD]",(ROOT (NP (NP (NNS S)) (NP (CD four))))
+71001,"(730,)",Yes got him,"[Yes/UH, got/VBD, him/PRP]",(ROOT (SINV (FRAG (INTJ (UH Yes))) (VP (VBD got)) (NP (PRP him))))
+71001,"(731,)",Geoff  > W one,"[Geoff/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Geoff)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(732,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(733,)",Mark >,"[Mark/NNP, >/JJR]",(ROOT (NP (NP (NNP Mark)) (NP (JJR >))))
+71001,"(734,)",what 's he ?,"[what/WP, 's/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP he))) (. ?)))
+71001,"(735, 736)",S one   ,"[S/NNS, one/CD]",(ROOT (NP (NP (NNS S)) (NP (CD one))))
+71001,"(737,)","Yes T , L , F isn 't it that ?","[Yes/UH, T/NN, ,/,, L/NN, ,/,, F/NN, isn/NN, 't/PRP, it/PRP, that/IN, ?/.]","(ROOT (S (VP (PP (NP (UH Yes)) (NP (NP (NN T)) (, ,) (NP (NP (NN L)) (, ,) (NP (NP (NP (NN F) (NN isn)) (NP (PRP 't))) (NP (NP (PRP it)) (SBAR (WHNP (IN that))))))))) (. ?)))"
+71001,"(738,)","That 's T , L , F yes","[That/DT, 's/VBZ, T/NN, ,/,, L/NN, ,/,, F/NN, yes/RB]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN T)) (, ,) (NP (NP (NN L)) (, ,) (NP (NN F) (RB yes)))))))"
+71001,"(739,)",Right,[Right/NN],(ROOT (NP (NN Right)))
+71001,"(740,)","erm , this John Wright Centre , M  > S one","[erm/NN, ,/,, this/DT, John/NNP, Wright/NNP, Centre/NNP, ,/,, M/NN, >/JJR, S/NNS, one/CD]","(ROOT (FRAG (NP (NP (NN erm)) (, ,) (NP (DT this) (NNP John) (NNP Wright) (NNP Centre)) (, ,) (NP (NP (ADJP (NN M) (JJR >)) (NNS S)) (NP (CD one))))))"
+71001,"(741,)",is it  > or >  ?,"[is/VBZ, it/PRP, >/JJR, or/CC, >/JJR, ?/.]",(ROOT (SQ (VBZ is) (NP (PRP it)) (ADJP (ADJP (JJR >)) (CC or) (ADJP (JJR >))) (. ?)))
+71001,"(742,)","oh  > but I think it 's >  , well  > or >","[oh/UH, >/JJR, but/CC, I/PRP, think/VBP, it/PRP, 's/VBZ, >/JJR, ,/,, well/RB, >/JJR, or/CC, >/JJR]","(ROOT (FRAG (VP (VP (PP (NP (UH oh)) (NP (NP (JJR >)) (PP (CC but) (NP (PRP I))))) (VBP think) (NP (PRP it))) (SBAR (S (VP (VBZ 's) (ADJP (ADJP (JJR >)) (, ,) (ADJP (RB well) (JJR >)) (CC or) (ADJP (JJR >)))))))))"
+71001,"(743,)","I 've got  > down here , so leave it as  > I think","[I/PRP, 've/VBP, got/VBN, >/JJR, down/IN, here/RB, ,/,, so/RB, leave/VB, it/PRP, as/IN, >/JJR, I/PRP, think/VBP]","(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (JJR >)) (PP (IN down) (NP (RB here)))) (, ,) (S (RB so) (VP (VB leave) (NP (PRP it)) (PP (IN as) (NP (NP (JJR >)) (SBAR (S (NP (PRP I)) (VP (VBP think))))))))))))"
+71001,"(744,)","erm , I think it 's  > actually , never know , erm , now where are we ?","[erm/NN, ,/,, I/PRP, think/VBP, it/PRP, 's/VBZ, >/JJR, actually/RB, ,/,, never/RB, know/VBP, ,/,, erm/VBP, ,/,, now/RB, where/WRB, are/VBP, we/PRP, ?/.]","(ROOT (S (NP (NP (NN erm)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJR >)) (ADVP (RB actually))))))) (, ,))) (ADVP (RB never)) (VP (VBP know) (, ,) (VBP erm) (, ,) (SBAR (RB now) (WHADVP (WRB where)) (S (VP (VBP are) (NP (PRP we)))))) (. ?)))"
+71001,"(745,)","Killingworth Flyers , table tennis , Susan >","[Killingworth/NNP, Flyers/NNPS, ,/,, table/NN, tennis/NN, ,/,, Susan/NNP, >/JJR]","(ROOT (S (NP (NP (NNP Killingworth) (NNPS Flyers)) (, ,) (NP (NP (NN table) (NN tennis)) (, ,) (NP (NNP Susan)))) (ADJP (JJR >))))"
+71001,"(746,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(747,)",visually handicapped playing table tennis ?,"[visually/RB, handicapped/JJ, playing/NN, table/NN, tennis/NN, ?/.]",(ROOT (NP (NP (ADJP (RB visually) (JJ handicapped)) (NN playing)) (NP (NP (NN table)) (NP (NN tennis))) (. ?)))
+71001,"(748,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(749,)",Paula  >,"[Paula/NNP, >/JJR]",(ROOT (NP (NP (NNP Paula)) (NP (JJR >))))
+71001,"(750,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(751,)","W four , Paul  > visually handicapped","[W/NNP, four/CD, ,/,, Paul/NNP, >/JJR, visually/RB, handicapped/JJ]","(ROOT (S (NP (NP (NNP W) (CD four)) (, ,) (NP (NP (NNP Paul)) (JJR >))) (ADJP (RB visually) (JJ handicapped))))"
+71001,"(752,)","no he 's not , is he ?","[no/DT, he/PRP, 's/VBZ, not/RB, ,/,, is/VBZ, he/PRP, ?/.]","(ROOT (SQ (S (NP (DT no) (PRP he)) (VP (VBZ 's) (RB not))) (, ,) (SQ (VBZ is) (NP (PRP he))) (. ?)))"
+71001,"(753,)",Says here visually handicapped,"[Says/VBZ, here/RB, visually/RB, handicapped/JJ]",(ROOT (SINV (VP (VBZ Says)) (NP (NP (RB here)) (ADJP (RB visually) (JJ handicapped)))))
+71001,"(754,)",Paul  > is er,"[Paul/NNP, >/JJR, is/VBZ, er/NN]",(ROOT (S (NP (NP (NNP Paul)) (ADJP (JJR >))) (VP (VBZ is) (NP (NN er)))))
+71001,"(755,)",visually handicapped,"[visually/RB, handicapped/NNP]",(ROOT (FRAG (ADVP (RB visually)) (NP (NNP handicapped))))
+71001,"(756,)","oh yes in the   males so he 's playing er , it 's all classes","[oh/UH, yes/UH, in/IN, the/DT, males/NNS, so/IN, he/PRP, 's/VBZ, playing/VBG, er/NN, ,/,, it/PRP, 's/VBZ, all/DT, classes/NNS]","(ROOT (S (PP (PP (NP (INTJ (UH oh) (UH yes))) (IN in) (NP (DT the) (NNS males))) (SBAR (IN so) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG playing) (NP (NN er))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (DT all) (NNS classes)))))"
+71001,"(757,)","This one Killingworth Flyers again , oh a lot of table tennis here Colin  > S one A","[This/DT, one/CD, Killingworth/NNP, Flyers/NNS, again/RB, ,/,, oh/UH, a/DT, lot/NN, of/IN, table/NN, tennis/NN, here/RB, Colin/NNP, >/JJR, S/NNS, one/CD, A/DT]","(ROOT (X (NP (NP (NP (DT This)) (VP (PP (NP (CD one)) (NP (NP (NNP Killingworth) (NNS Flyers)) (ADVP (RB again)))) (, ,) (NP (INTJ (UH oh)) (NP (DT a) (NN lot))))) (PP (IN of) (NP (NN table) (NN tennis)))) (NP (RB here)) (NP (NP (NNP Colin)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A))))))"
+71001,"(758,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(759,)",Hazel  > S one A,"[Hazel/NN, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NN Hazel)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(760,)",er that 's all we need to fill in,"[er/NN, that/WDT, 's/VBZ, all/DT, we/PRP, need/VBP, to/TO, fill/VB, in/IN]",(ROOT (FRAG (NP (NN er)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT all)) (SBAR (S (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB fill) (PP (IN in))))))))))))))
+71001,"(761,)",,[],X
+71001,"(762,)","it 's me , although I did that , make , make that mistake , right , yes , go on","[it/PRP, 's/VBZ, me/PRP, ,/,, although/IN, I/PRP, did/VBD, that/IN, ,/,, make/VB, ,/,, make/VB, that/DT, mistake/NN, ,/,, right/NN, ,/,, yes/UH, ,/,, go/VB, on/IN]","(ROOT (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP me)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (VP (VBD did) (ADVP (IN that)) (, ,) (S (VP (VB make) (, ,) (VB make) (NP (DT that) (NN mistake)))) (, ,) (ADVP (NN right)) (, ,) (S (INTJ (UH yes)) (, ,) (VP (VB go) (PP (IN on))))))))))"
+71001,"(763,)",Can 't be trusted Jimmy  > W five,"[Can/MD, 't/PRP, be/VB, trusted/VBN, Jimmy/NNP, >/JJR, W/NN, five/CD]",(ROOT (SINV (MD Can) (NP (PRP 't)) (VP (VB be) (VP (VBN trusted) (S (NP (NNP Jimmy)) (NP (NP (JJR >) (NN W)) (NP (CD five))))))))
+71001,"(764, 765)",er  yes,"[er/NN, yes/RB]",(ROOT (FRAG (NP (NN er) (RB yes))))
+71001,"(766,)", Ernie  > ,"[Ernie/NNP, >/JJR]",(ROOT (NP (NP (NNP Ernie)) (NP (JJR >))))
+71001,"(767,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(768,)",W one Michael  > S four,"[W/NNP, one/CD, Michael/NNP, >/JJR, S/NNS, four/CD]",(ROOT (NP (NP (NNP W) (CD one)) (NP (NP (NNP Michael)) (NP (JJR >) (NNS S))) (NP (CD four))))
+71001,"(769,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(770,)",Alan  > S four,"[Alan/NNP, >/JJR, S/NNS, four/CD]",(ROOT (NP (NP (NNP Alan)) (NP (JJR >) (NNS S)) (NP (CD four))))
+71001,"(771,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(772,)","four Killingworth Flyers , Deborah  > S four","[four/CD, Killingworth/NNP, Flyers/NNS, ,/,, Deborah/NNP, >/JJR, S/NNS, four/CD]","(ROOT (NP (NP (NP (CD four) (NNP Killingworth) (NNS Flyers)) (, ,) (NP (NNP Deborah))) (NP (NP (JJR >) (NNS S)) (NP (CD four)))))"
+71001,"(773,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(774,)",William  > S one A,"[William/NNP, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP William)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
+71001,"(775, 776)",yes that 's the  >,"[yes/UH, that/DT, 's/VBZ, the/DT, >/JJR]",(ROOT (S (S (INTJ (UH yes)) (NP (DT that)) (VP (VBZ 's) (NP (DT the)))) (JJR >)))
+71001,"(777,)",Susan  > S three,"[Susan/NNP, >/JJR, S/NNS, three/CD]",(ROOT (NP (NP (NNP Susan)) (NP (JJR >) (NNS S)) (NP (CD three))))
+71001,"(778,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(779, 780)",and John   > ,"[and/CC, John/NNP, >/JJR]",(ROOT (FRAG (CC and) (NP (NP (NNP John)) (ADJP (JJR >)))))
+71001,"(781,)","John  > where the hell 's he gone , erm , I 'm looking for John >  , yes got him","[John/NNP, >/JJR, where/WRB, the/DT, hell/NN, 's/POS, he/PRP, gone/VBN, ,/,, erm/NN, ,/,, I/PRP, 'm/VBP, looking/VBG, for/IN, John/NNP, >/JJR, ,/,, yes/UH, got/VBD, him/PRP]","(ROOT (S (NP (NNP John)) (ADJP (JJR >) (SBAR (WHADVP (WRB where)) (S (NP (NP (NP (DT the) (NN hell) (POS 's)) (NP (PRP he))) (VP (VBN gone) (, ,) (NP (NP (NN erm)) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (VBG looking) (PP (IN for) (NP (NP (NNP John)) (ADJP (JJR >))))) (, ,) (NP (UH yes)))))))) (VP (VBD got) (NP (PRP him))))))))"
+71001,"(782,)","Hurst Welfare , Ivy  > S three","[Hurst/NNP, Welfare/NNP, ,/,, Ivy/NNP, >/JJR, S/NNS, three/CD]","(ROOT (NP (NP (NNP Hurst) (NNP Welfare) (, ,) (NNP Ivy)) (NP (JJR >) (NNS S)) (NP (CD three))))"
+71001,"(783,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(784,)","Hurst Welfare again , Alf  > S one","[Hurst/NNP, Welfare/NNP, again/RB, ,/,, Alf/NNP, >/JJR, S/NNS, one/CD]","(ROOT (NP (NP (NP (NP (NNP Hurst) (NNP Welfare)) (ADVP (RB again))) (, ,) (NP (NNP Alf))) (NP (NP (JJR >) (NNS S)) (NP (CD one)))))"
+71001,"(785,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(786,)","Alan  > S one A , Malcolm  >","[Alan/NNP, >/JJR, S/NNS, one/CD, A/DT, ,/,, Malcolm/NNP, >/JJR]","(ROOT (NP (NP (NNP Alan)) (NP (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A))) (, ,) (NP (NNP Malcolm))) (NP (JJR >))))"
+71001,"(787,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(788,)",Ann  > disabled,"[Ann/NNP, >/JJR, disabled/JJ]",(ROOT (NP (NP (NNP Ann)) (NP (NP (JJR >)) (VP (JJ disabled)))))
+71001,"(789,)",Malcolm  >,"[Malcolm/NNP, >/JJR]",(ROOT (NP (NP (NNP Malcolm)) (NP (JJR >))))
+71001,"(790,)",Keith  >,"[Keith/NNP, >/JJR]",(ROOT (NP (NP (NNP Keith)) (NP (JJR >))))
+71001,"(791,)",what 's Malcolm >  ?,"[what/WP, 's/VBZ, Malcolm/NNP, >/JJR, ?/.]",(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (NP (NNP Malcolm)) (ADJP (JJR >))) (. ?)))
+71001,"(792,)",S one,"[S/NNS, one/CD]",(ROOT (NP (NP (NNS S)) (NP (CD one))))
+71001,"(793,)","Yes got him , yes","[Yes/UH, got/VBD, him/PRP, ,/,, yes/UH]","(ROOT (S (NP (UH Yes)) (VP (VBD got) (NP (PRP him)) (, ,) (NP (UH yes)))))"
+71001,"(794,)",and Keith  > Bedlington Disabled W two,"[and/CC, Keith/NNP, >/JJR, Bedlington/NN, Disabled/JJ, W/NN, two/CD]",(ROOT (PRN (CC and) (NP (NP (NNP Keith)) (NP (NP (JJR >) (NN Bedlington)) (NP (JJ Disabled) (NN W) (CD two))))))
+71001,"(795,)","Keith  > is that what you 'd , yes , got him , yes","[Keith/NNP, >/JJR, is/VBZ, that/IN, what/WP, you/PRP, 'd/MD, ,/,, yes/UH, ,/,, got/VBD, him/PRP, ,/,, yes/UH]","(ROOT (S (NP (NP (NNP Keith)) (SBAR (S (VP (NP (NP (JJR >)) (SBAR (S (VP (VBZ is) (SBAR (IN that) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (MD 'd))))))))) (PRN (, ,) (INTJ (UH yes)) (, ,)))))) (VP (VBD got) (NP (PRP him)) (, ,) (NP (UH yes)))))"
+71001,"(796,)",I thought you said there weren 't man- Carlisle Sports,"[I/PRP, thought/VBD, you/PRP, said/VBD, there/EX, weren/NNS, 't/PRP, man-/NN, Carlisle/NN, Sports/NNS]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP you)) (VP (VBD said) (S (NP (EX there)) (NP (NP (NP (NNS weren)) (NP (PRP 't))) (NP (NN man-) (NN Carlisle) (NNS Sports))))))))))
+71001,"(797,)",There weren 't,"[There/EX, weren/NNS, 't/PRP]",(ROOT (NP (NP (EX There)) (NP (NNS weren)) (NP (PRP 't))))
+71001,"(798,)","for the Disabled , James  > W five","[for/IN, the/DT, Disabled/JJ, ,/,, James/NNP, >/JJR, W/NN, five/CD]","(ROOT (PP (IN for) (NP (NP (DT the) (JJ Disabled) (, ,) (NNP James) (ADJP (JJR >)) (NN W)) (NP (CD five)))))"
+71001,"(799,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(800,)",Robert  > W two,"[Robert/NNP, >/JJR, W/NN, two/CD]",(ROOT (NP (NP (NNP Robert)) (NP (JJR >) (NN W)) (NP (CD two))))
+71001,"(801,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(802,)",Bill >,"[Bill/NNP, >/JJR]",(ROOT (NP (NP (NNP Bill)) (NP (JJR >))))
+71001,"(803,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(804,)","W three , Robert  > S three","[W/NNP, three/CD, ,/,, Robert/NNP, >/JJR, S/NNS, three/CD]","(ROOT (NP (NP (NP (NNP W) (CD three)) (, ,) (NP (NNP Robert))) (NP (NP (JJR >) (NNS S)) (NP (CD three)))))"
+71001,"(805,)","right , yes","[right/RB, ,/,, yes/UH]","(ROOT (INTJ (INTJ (RB right)) (, ,) (INTJ (UH yes))))"
+71001,"(806,)","Carlisle Sports again , Belinda  > W four","[Carlisle/NNP, Sports/NNP, again/RB, ,/,, Belinda/NNP, >/JJR, W/NNP, four/CD]","(ROOT (NP (NP (NP (NP (NNP Carlisle) (NNP Sports)) (ADVP (RB again))) (, ,) (NP (NNP Belinda))) (NP (NP (JJR >)) (NP (NNP W) (CD four)))))"
+71001,"(807,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(808,)",Sheila  > W two,"[Sheila/NNP, >/JJR, W/NN, two/CD]",(ROOT (NP (NP (NNP Sheila)) (NP (JJR >) (NN W)) (NP (CD two))))
+71001,"(809,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(810, 811)",Ashington Floaters  Don  > W three,"[Ashington/NNP, Floaters/NNS, Don/VBP, >/JJR, W/NNP, three/CD]",(ROOT (S (NP (NNP Ashington) (NNS Floaters)) (VP (VBP Don) (ADJP (JJR >)) (NP (NNP W) (CD three)))))
+71001,"(812,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(813,)",Ivy  > W er S one A,"[Ivy/NNP, >/JJR, W/NN, er/NN, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NNP Ivy)) (NP (NP (JJR >) (NN W) (NN er)) (NP (QP (NNS S) (CD one)) (DT A)))))
+71001,"(814,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(815,)",and nothing for Bedlington Disabled,"[and/CC, nothing/NN, for/IN, Bedlington/NNP, Disabled/JJ]",(ROOT (FRAG (CC and) (PP (ADVP (NN nothing)) (IN for) (NP (NNP Bedlington) (JJ Disabled)))))
+71001,"(816,)",nothing for Jean >,"[nothing/NN, for/IN, Jean/NNP, >/JJR]",(ROOT (S (NP (NP (NN nothing)) (PP (IN for) (NP (NNP Jean)))) (ADJP (JJR >))))
+71001,"(817,)","yes I got into the Ashington Floaters as well , Jean  > S one A","[yes/UH, I/PRP, got/VBD, into/IN, the/DT, Ashington/NNP, Floaters/NNS, as/RB, well/RB, ,/,, Jean/NNP, >/JJR, S/NNS, one/CD, A/DT]","(ROOT (SINV (FRAG (INTJ (UH yes))) (VP (ADVP (PRP I)) (VBD got) (PP (IN into) (NP (DT the) (NNP Ashington) (NNS Floaters))) (ADVP (RB as) (RB well)) (, ,) (PP (NP (NNP Jean)) (NP (NP (JJR >) (NNS S)) (NP (CD one))))) (NP (DT A))))"
+71001,"(818,)","right , yes","[right/RB, ,/,, yes/UH]","(ROOT (INTJ (INTJ (RB right)) (, ,) (INTJ (UH yes))))"
+71001,"(819, 820)",I think I 'm getting er  a pain just in the elbow there,"[I/PRP, think/VBP, I/PRP, 'm/VBP, getting/VBG, er/NN, a/DT, pain/NN, just/RB, in/IN, the/DT, elbow/NN, there/RB]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG getting) (NP (NN er)) (PP (ADVP (NP (DT a) (NN pain)) (RB just)) (IN in) (NP (DT the) (NN elbow))) (ADVP (RB there)))))))))
+71001,"(821,)",Might be tennis elbow,"[Might/MD, be/VB, tennis/NN, elbow/NN]",(ROOT (SINV (VP (MD Might) (VP (VB be) (NP (NN tennis)))) (NP (NN elbow))))
+71001,"(822,)","oh it just started this week , it 's not swollen","[oh/UH, it/PRP, just/RB, started/VBD, this/DT, week/NN, ,/,, it/PRP, 's/VBZ, not/RB, swollen/JJ]","(ROOT (NP (S (S (INTJ (UH oh)) (NP (PRP it)) (VP (ADVP (RB just)) (VBD started) (NP (DT this) (NN week)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ swollen))))))"
+71001,"(823,)",show me,"[show/VB, me/PRP]",(ROOT (S (VP (VB show) (NP (PRP me)))))
+71001,"(824,)",yeah I suppose it could be the swimming,"[yeah/UH, I/PRP, suppose/VBP, it/PRP, could/MD, be/VB, the/DT, swimming/NN]",(ROOT (SINV (FRAG (INTJ (UH yeah))) (VP (ADVP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP it)) (VP (MD could) (VP (VB be))))))) (NP (DT the) (NN swimming))))
+71001,"(825,)",I get it every time I go swimming,"[I/PRP, get/VBP, it/PRP, every/DT, time/NN, I/PRP, go/VBP, swimming/VBG]",(ROOT (S (NP (PRP I)) (VP (VBP get) (SBAR (S (NP (PRP it)) (NP (DT every) (NN time)) (NP (PRP I)) (VP (VBP go) (S (VP (VBG swimming)))))))))
+71001,"(826,)","Oh , you 're very brave about it dear , er Margaret  > W one , that British Polio Fellowship ?","[Oh/UH, ,/,, you/PRP, 're/VBP, very/RB, brave/VB, about/IN, it/PRP, dear/RB, ,/,, er/NN, Margaret/NNP, >/JJR, W/NN, one/CD, ,/,, that/IN, British/JJ, Polio/NNP, Fellowship/NNP, ?/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP you)) (VP (VBP 're) (ADJP (RB very) (SBAR (SINV (VP (VB brave) (PP (IN about) (NP (PRP it)) (NP (ADJP (RB dear)) (, ,) (NN er) (NNP Margaret) (ADJP (JJR >)) (NN W))) (NP (CD one)) (, ,) (SBAR (IN that) (FRAG (ADJP (JJ British))))) (NP (NNP Polio) (NNP Fellowship)))))) (. ?)))"
+71001,"(827,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(828,)","And again John  > W , V , H","[And/CC, again/RB, John/NNP, >/JJR, W/NN, ,/,, V/NN, ,/,, H/NN]","(ROOT (S (NP (CC And) (NP (ADVP (RB again) (NP (NNP John))) (NP (NP (JJR >) (NN W)) (, ,) (NP (NN V)) (, ,)))) (ADJP (NN H))))"
+71001,"(829,)","er , yes","[er/NN, ,/,, yes/UH]","(ROOT (INTJ (NN er) (, ,) (UH yes)))"
+71001,"(830,)", Fran  > S one,"[Fran/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Fran)) (NP (JJR >) (NNS S)) (NP (CD one))))
+71001,"(831, 832)","Fran   > er , yes","[Fran/NNP, >/JJR, er/NN, ,/,, yes/UH]","(ROOT (NP (NP (NNP Fran)) (NP (NP (JJR >)) (VP (PP (NN er)) (, ,) (NP (UH yes))))))"
+71001,"(833,)",Cathy  > W one,"[Cathy/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Cathy)) (NP (JJR >) (NN W)) (NP (CD one))))
+71001,"(834,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(835,)",Norma  > W two,"[Norma/NNP, >/JJR, W/NN, two/CD]",(ROOT (NP (NP (NNP Norma)) (NP (JJR >) (NN W)) (NP (CD two))))
+71001,"(836,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(837,)",Jimmy  >,"[Jimmy/NNP, >/JJR]",(ROOT (NP (NP (NNP Jimmy)) (NP (JJR >))))
+71001,"(838,)",he is ?,"[he/PRP, is/VBZ, ?/.]",(ROOT (S (NP (PRP he)) (VP (VBZ is)) (. ?)))
+71001,"(839,)",S four,"[S/NNS, four/CD]",(ROOT (NP (NP (NNS S)) (NP (CD four))))
+71001,"(840,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+71001,"(841,)"," now er West Cumbria Disabled Sports Club , John  > S four","[now/RB, er/NN, West/JJ, Cumbria/NNP, Disabled/JJ, Sports/NNS, Club/NN, ,/,, John/NNP, >/JJR, S/NNS, four/CD]","(ROOT (FRAG (X (X (NP (NP (RB now)) (NP (NN er))) (NP (JJ West) (NNP Cumbria)) (NP (NP (JJ Disabled) (NNS Sports)) (NP (NP (NN Club)) (, ,) (NP (NNP John))))) (NP (JJR >) (NNS S))) (NP (CD four))))"
+71001,"(842,)",yes,[yes/UH],(ROOT (INTJ (UH yes)))
+71001,"(843,)",and William >,"[and/CC, William/NNP, >/JJR]",(ROOT (FRAG (CC and) (NP (NP (NNP William)) (ADJP (JJR >)))))
+71001,"(844,)","yes , W","[yes/UH, ,/,, W/NNP]","(ROOT (FRAG (INTJ (UH yes)) (, ,) (NP (NNP W))))"
+71001,"(845,)", now that 's that classification done,"[now/RB, that/DT, 's/VBZ, that/IN, classification/NN, done/VBN]",(ROOT (FRAG (ADVP (RB now)) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (SBAR (IN that) (S (NP (NN classification)) (VP (VBN done)))))))))
+71001,"(846, 847, 848, 849, 850)","Let 's have a look at this    , er  well they 'd supposedly done weightlifting  they 've made , they 've made a few er , they 've seemed to have done some alterations on it so they must have done that one , er  wheelchair slalom","[Let/VB, 's/PRP, have/VB, a/DT, look/NN, at/IN, this/DT, ,/,, er/NN, well/RB, they/PRP, 'd/MD, supposedly/RB, done/VBN, weightlifting/VBG, they/PRP, 've/VBP, made/VBN, ,/,, they/PRP, 've/VBP, made/VBN, a/DT, few/JJ, er/NN, ,/,, they/PRP, 've/VBP, seemed/VBN, to/TO, have/VB, done/VBN, some/DT, alterations/NNS, on/IN, it/PRP, so/IN, they/PRP, must/MD, have/VB, done/VBN, that/IN, one/CD, ,/,, er/NN, wheelchair/NN, slalom/NN]","(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB have) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NP (DT this)) (, ,) (NP (NN er)))) (SBAR (S (S (ADVP (RB well)) (NP (PRP they)) (VP (MD 'd) (VP (ADVP (RB supposedly)) (VBN done) (S (VP (VBG weightlifting) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBN made)))))))))) (, ,) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN made) (NP (DT a) (JJ few) (NN er))))) (, ,) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN seemed) (S (VP (TO to) (VP (VB have) (VP (VBN done) (NP (DT some) (NNS alterations)) (PP (IN on) (NP (PRP it))))))))))))) (SBAR (IN so) (S (NP (PRP they)) (VP (MD must) (VP (VB have) (VP (VBN done) (PP (IN that) (NP (NP (CD one)) (, ,) (NP (NN er) (NN wheelchair) (NN slalom))))))))))))))"
+71001,"(851,)",Wheelchair slalom you 're joking .,"[Wheelchair/NN, slalom/NN, you/PRP, 're/VBP, joking/VBG, ./.]",(ROOT (S (NP (NN Wheelchair) (NN slalom)) (NP (PRP you)) (VP (VBP 're) (VP (VBG joking))) (. .)))
+71001,"(852,)",Pardon ?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+71001,"(853,)",You 're joking,"[You/PRP, 're/VBP, joking/VBG]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBG joking)))))
+71001,"(854,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+71001,"(855,)",wheelchair slalom,"[wheelchair/NN, slalom/NN]",(ROOT (NP (NN wheelchair) (NN slalom)))
+71001,"(856,)",wheelchair slalom last year d 'ya remember ?,"[wheelchair/NN, slalom/NN, last/JJ, year/NN, d/NN, 'ya/NN, remember/VB, ?/.]",(ROOT (S (NP (NP (NN wheelchair) (NN slalom)) (NP (JJ last) (NN year))) (VP (NN d) (S (NP (NN 'ya)) (VP (VB remember)))) (. ?)))
+71001,"(857,)","Oh I was stuck on the quoits , I never saw anything except","[Oh/UH, I/PRP, was/VBD, stuck/VBN, on/IN, the/DT, quoits/NNS, ,/,, I/PRP, never/RB, saw/VBD, anything/NN, except/IN]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBD was) (VP (VBN stuck) (PP (IN on) (NP (DT the) (NNS quoits)))))) (, ,) (NP (PRP I)) (ADVP (RB never)) (VP (VBD saw) (NP (NN anything)) (PP (IN except)))))"
+71001,"(858, 859)","Well they 've got another name added on here , so maybe they have done that one , just as , find it interesting is the fact there 's no er  no errors anywhere","[Well/RB, they/PRP, 've/VBP, got/VBD, another/DT, name/NN, added/VBD, on/IN, here/RB, ,/,, so/IN, maybe/RB, they/PRP, have/VBP, done/VBN, that/IN, one/CD, ,/,, just/RB, as/RB, ,/,, find/VB, it/PRP, interesting/JJ, is/VBZ, the/DT, fact/NN, there/EX, 's/VBZ, no/DT, er/NN, no/DT, errors/NNS, anywhere/RB]","(ROOT (SINV (S (S (INTJ (RB Well)) (NP (PRP they)) (VP (VBP 've) (VP (VBD got) (SBAR (S (NP (DT another) (NN name)) (VP (VBD added) (PP (IN on) (NP (RB here))))))))) (, ,) (IN so) (S (ADVP (RB maybe)) (NP (PRP they)) (VP (VBP have) (VP (VBN done) (SBAR (IN that) (S (NP (NP (CD one)) (, ,) (NP (RB just) (RB as)) (, ,)) (VP (VB find) (S (NP (PRP it)) (ADJP (JJ interesting)))))))))) (VP (VBZ is) (NP (NP (DT the) (NN fact)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NN er)) (NP (DT no) (NNS errors)))))))) (NP (RB anywhere))))"
+71001,"(860,)",Well maybe there aren 't any mistakes,"[Well/RB, maybe/RB, there/EX, aren/NNP, 't/PRP, any/DT, mistakes/NNS]",(ROOT (FRAG (PP (ADVP (RB Well)) (RB maybe) (NP (NP (EX there)) (FRAG (NP (NP (NNP aren)) (NP (PRP 't)))))) (NP (DT any) (NNS mistakes))))
+71001,"(861,)","if there aren 't any mistakes , it must have been the one I did","[if/IN, there/EX, aren/NNP, 't/PRP, any/DT, mistakes/NNS, ,/,, it/PRP, must/MD, have/VB, been/VBN, the/DT, one/CD, I/PRP, did/VBD]","(ROOT (SBAR (IN if) (S (S (NP (NP (EX there)) (NP (NNP aren)) (NP (NP (PRP 't)) (NP (DT any) (NNS mistakes))))) (, ,) (NP (PRP it)) (VP (MD must) (VP (VB have) (VP (VBN been) (NP (NP (DT the) (CD one)) (SBAR (S (NP (PRP I)) (VP (VBD did)))))))))))"
+71001,"(862,)","Oh , right","[Oh/UH, ,/,, right/RB]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (RB right))))"
+71001,"(863, 864)","er  right , what 's , hopefully that one 's right , er , there 's carpet bowls","[er/NN, right/NN, ,/,, what/WP, 's/VBZ, ,/,, hopefully/RB, that/IN, one/NN, 's/POS, right/NN, ,/,, er/NN, ,/,, there/EX, 's/VBZ, carpet/NN, bowls/NNPS]","(ROOT (FRAG (NP (NP (NN er) (NN right)) (, ,) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (, ,) (ADVP (RB hopefully)) (SBAR (IN that) (S (S (NP (NP (NP (NN one) (POS 's)) (NN right)) (, ,) (NP (NN er)))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (NN carpet)) (NP (NNPS bowls))))))))))))"
+71001,"(865,)",C B,"[C/NN, B/NN]",(ROOT (NP (NN C) (NN B)))
+71001,"(866,)",C B with guttering,"[C/NN, B/NN, with/IN, guttering/VBG]",(ROOT (FRAG (NP (NN C) (NN B)) (PP (IN with) (NP (VBG guttering)))))
+71001,"(867,)",guttering,[guttering/VBG],(ROOT (S (VP (VBG guttering))))
+71001,"(868,)",to start off with,"[to/TO, start/VB, off/RP, with/IN]",(ROOT (FRAG (S (VP (TO to) (VP (VB start) (PRT (RP off)) (PP (IN with)))))))

@@ -1,0 +1,81 @@
+5704,"(0,)",,[],X
+5704,"(1,)",Come through   .,"[Come/VBN, through/IN, ./.]",(ROOT (FRAG (PP (VBN Come) (PP (IN through))) (. .)))
+5704,"(2,)",,[],X
+5704,"(3,)",That 's disgusting .,"[That/DT, 's/VBZ, disgusting/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ disgusting))) (. .)))
+5704,"(4,)",,[],X
+5704,"(5,)",,[],X
+5704,"(6,)",,[],X
+5704,"(7,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+5704,"(8,)",,[],X
+5704,"(9,)",,[],X
+5704,"(10,)",,[],X
+5704,"(11,)", Right   .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+5704,"(12,)",Yeah it 'll have to be count .,"[Yeah/UH, it/PRP, 'll/MD, have/VB, to/TO, be/VB, count/NN, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP it)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB be) (NP (NN count)))))))) (. .)))
+5704,"(13,)",,[],X
+5704,"(14,)",It 's out of order .,"[It/PRP, 's/VBZ, out/IN, of/IN, order/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (IN out) (PP (IN of) (NP (NN order))))) (. .)))
+5704,"(15,)","Yeah , I know .","[Yeah/UH, ,/,, I/PRP, know/VBP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBP know)) (. .)))"
+5704,"(16,)",Get on to .,"[Get/VB, on/IN, to/TO, ./.]",(ROOT (S (VP (VB Get) (PP (IN on) (PP (TO to)))) (. .)))
+5704,"(17,)",,[],X
+5704,"(18,)",,[],X
+5704,"(19,)",,[],X
+5704,"(20,)"," I 'm gonna grow erm , because I could","[I/PRP, 'm/VBP, gonna/NNP, grow/VB, erm/NN, ,/,, because/IN, I/PRP, could/MD]","(ROOT (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NNP gonna)) (VP (VB grow) (NP (NN erm)))) (, ,) (SBAR (IN because) (S (NP (PRP I)) (VP (MD could)))))))"
+5704,"(21,)","Yeah , she 's got eyes like   , she   .","[Yeah/UH, ,/,, she/PRP, 's/VBZ, got/VBN, eyes/NNS, like/IN, ,/,, she/PRP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (NNS eyes)) (PP (IN like)) (, ,) (S (NP (PRP she))))) (. .)))"
+5704,"(22,)",Did she ?,"[Did/VBD, she/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP she))) (. ?)))
+5704,"(23,)",Woman .,"[Woman/NN, ./.]",(ROOT (INTJ (NN Woman) (. .)))
+5704,"(24,)",,[],X
+5704,"(25,)",,[],X
+5704,"(26,)",,[],X
+5704,"(27,)",I   .,"[I/PRP, ./.]",(ROOT (FRAG (NP (PRP I)) (. .)))
+5704,"(28,)",It 's covered .,"[It/PRP, 's/VBZ, covered/VBN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN covered))) (. .)))
+5704,"(29,)","I meant cut the erm ,  .","[I/PRP, meant/VBD, cut/VBN, the/DT, erm/NN, ,/,, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD meant) (VP (VBN cut) (NP (DT the) (NN erm)))) (, ,)) (. .)))"
+5704,"(30,)",So I 've given you five   .,"[So/IN, I/PRP, 've/VBP, given/VBN, you/PRP, five/CD, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (VBP 've) (VP (VBN given) (NP (PRP you)) (NP (CD five)))) (. .)))
+5704,"(31,)",Think you can   alright ?,"[Think/VB, you/PRP, can/MD, alright/VB, ?/.]",(ROOT (SQ (VP (VB Think) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB alright)))))) (. ?)))
+5704,"(32,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+5704,"(33,)",Yeah I 'll get around to it .,"[Yeah/UH, I/PRP, 'll/MD, get/VB, around/IN, to/TO, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (MD 'll) (VP (VB get) (PP (IN around) (PP (TO to) (NP (PRP it))))))) (. .)))
+5704,"(34,)",Darling .,"[Darling/NN, ./.]",(ROOT (NP (NN Darling) (. .)))
+5704,"(35, 36)","I will , honest  You   .","[I/PRP, will/MD, ,/,, honest/JJ, You/PRP, ./.]","(ROOT (S (NP (PRP I)) (VP (VP (MD will)) (, ,) (VP (ADVP (JJ honest)) (NP (PRP You)))) (. .)))"
+5704,"(37,)",I   .,"[I/PRP, ./.]",(ROOT (FRAG (NP (PRP I)) (. .)))
+5704,"(38,)",Hi Eric .,"[Hi/UH, Eric/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Hi)) (NP (NNP Eric)))) (. .)))
+5704,"(39,)",,[],X
+5704,"(40,)",,[],X
+5704,"(41,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+5704,"(42,)",Nor for the fun of   like .,"[Nor/CC, for/IN, the/DT, fun/NN, of/IN, like/IN, ./.]",(ROOT (FRAG (CC Nor) (SBAR (IN for) (FRAG (NP (NP (DT the) (NN fun)) (PP (IN of) (PP (IN like)))))) (. .)))
+5704,"(43,)",,[],X
+5704,"(44,)",,[],X
+5704,"(45,)",,[],X
+5704,"(46,)",I have   .,"[I/PRP, have/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. .)))
+5704,"(47,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+5704,"(48,)",,[],X
+5704,"(49,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+5704,"(50,)",What is it I   .,"[What/WP, is/VBZ, it/PRP, I/PRP, ./.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (PRP it)) (NP (PRP I)) (. .))))
+5704,"(51,)",It 's dark and   .,"[It/PRP, 's/VBZ, dark/JJ, and/CC, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ dark)) (ADVP (CC and))) (. .)))
+5704,"(52,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+5704,"(53,)",It   .,"[It/PRP, ./.]",(ROOT (FRAG (NP (PRP It)) (. .)))
+5704,"(54,)", chance to see him in   .,"[chance/NN, to/TO, see/VB, him/PRP, in/IN, ./.]",(ROOT (FRAG (NP (NN chance)) (S (VP (TO to) (VP (VB see) (NP (PRP him)) (PP (IN in))))) (. .)))
+5704,"(55,)","Erm , actually he 's darker than   , it 's yellow .","[Erm/NN, ,/,, actually/RB, he/PRP, 's/VBZ, darker/JJR, than/IN, ,/,, it/PRP, 's/VBZ, yellow/JJ, ./.]","(ROOT (S (NP (NN Erm)) (, ,) (ADVP (RB actually)) (NP (PRP he)) (VP (VBZ 's) (NP (JJR darker)) (SBAR (IN than) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ yellow)))))) (. .)))"
+5704,"(56,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+5704,"(57,)",  .,[./.],(ROOT (NP (. .)))
+5704,"(58,)",It 's yellow .,"[It/PRP, 's/VBZ, yellow/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ yellow))) (. .)))
+5704,"(59,)",,[],X
+5704,"(60,)","No , it 's me doing that not someone else .","[No/DT, ,/,, it/PRP, 's/VBZ, me/PRP, doing/VBG, that/IN, not/RB, someone/NN, else/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP me)) (VP (VBG doing) (SBAR (IN that) (RB not) (FRAG (NP (NN someone) (RB else))))))) (. .)))"
+5704,"(61,)",What ? ,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+5704,"(62,)",,[],X
+5704,"(63,)",,[],X
+5704,"(64,)",Nothing   .,"[Nothing/NN, ./.]",(ROOT (NP (NN Nothing) (. .)))
+5704,"(65,)", Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+5704,"(66,)",Sorry   eh .,"[Sorry/JJ, eh/UH, ./.]",(ROOT (FRAG (PP (JJ Sorry) (NP (UH eh))) (. .)))
+5704,"(67,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+5704,"(68,)",  .,[./.],(ROOT (NP (. .)))
+5704,"(69,)",I 'm not gonna shave that for three weeks .,"[I/PRP, 'm/VBP, not/RB, gonna/VB, shave/VB, that/DT, for/IN, three/CD, weeks/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VB gonna) (VP (VB shave) (NP (NP (DT that)) (PP (IN for) (NP (CD three) (NNS weeks))))))) (. .)))
+5704,"(70,)",That 'll look nice .,"[That/DT, 'll/MD, look/VB, nice/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (MD 'll) (VP (VB look) (ADJP (JJ nice)))) (. .)))
+5704,"(71,)",,[],X
+5704,"(72,)",,[],X
+5704,"(73,)",,[],X
+5704,"(74,)","No that , that is right really threatening .","[No/DT, that/IN, ,/,, that/DT, is/VBZ, right/JJ, really/RB, threatening/VBG, ./.]","(ROOT (S (ADVP (DT No) (IN that)) (, ,) (NP (DT that)) (VP (VBZ is) (ADJP (JJ right)) (S (ADVP (RB really)) (VP (VBG threatening)))) (. .)))"
+5704,"(75,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+5704,"(76,)",,[],X
+5704,"(77,)",,[],X
+5704,"(78,)",,[],X
+5704,"(79,)",,[],X
+5704,"(80,)",,[],X
+5704,"(81,)",,[],X

@@ -1,0 +1,4 @@
+12805,"(0,)","What tape number is it , in there now Mark ?","[What/WDT, tape/NN, number/NN, is/VBZ, it/PRP, ,/,, in/IN, there/RB, now/RB, Mark/VB, ?/.]","(ROOT (SBARQ (WHNP (WDT What) (NN tape) (NN number)) (SQ (VP (VBZ is) (NP (NP (PRP it)) (, ,) (PP (IN in) (NP (RB there))))) (NP (RB now)) (VP (VB Mark))) (. ?)))"
+12805,"(1, 2)","Er  thirteen I think , thirteen .","[Er/NN, thirteen/CD, I/PRP, think/VBP, ,/,, thirteen/CD, ./.]","(ROOT (NP (NP (NP (NP (NN Er) (CD thirteen)) (SBAR (S (NP (PRP I)) (VP (VBP think))))) (, ,) (NP (CD thirteen))) (. .)))"
+12805,"(3,)",Fourteen .,"[Fourteen/CD, ./.]",(ROOT (FRAG (NP (CD Fourteen)) (. .)))
+12805,"(4,)",Fourteen .,"[Fourteen/CD, ./.]",(ROOT (FRAG (NP (CD Fourteen)) (. .)))

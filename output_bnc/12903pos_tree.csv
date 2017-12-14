@@ -1,0 +1,10 @@
+12903,"(0,)","What time is it chaps , please ?","[What/WDT, time/NN, is/VBZ, it/PRP, chaps/NNS, ,/,, please/VB, ?/.]","(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VBZ is) (NP (PRP it) (NNS chaps)) (VP (, ,) (S (VP (VB please))))) (. ?)))"
+12903,"(1,)",About half eleven .,"[About/IN, half/NN, eleven/NNS, ./.]",(ROOT (FRAG (PP (IN About) (NP (NN half) (NNS eleven))) (. .)))
+12903,"(2,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+12903,"(3,)",Something like that .,"[Something/NN, like/IN, that/DT, ./.]",(ROOT (NP (NP (NN Something)) (PP (IN like) (NP (DT that))) (. .)))
+12903,"(4,)",,[],X
+12903,"(5,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+12903,"(6,)",,[],X
+12903,"(7,)",Seven thirty seven ?,"[Seven/CD, thirty/CD, seven/CD, ?/.]",(ROOT (FRAG (NP (CD Seven)) (NP (CD thirty) (CD seven)) (. ?)))
+12903,"(8,)",,[],X
+12903,"(9,)",It 's a happy   !,"[It/PRP, 's/VBZ, a/DT, happy/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (DT a) (JJ happy))) (. !)))

@@ -1,0 +1,29 @@
+2706,"(0,)",If I can get it up,"[If/IN, I/PRP, can/MD, get/VB, it/PRP, up/RP]",(ROOT (SBAR (IN If) (S (NP (PRP I)) (VP (MD can) (VP (VB get) (NP (PRP it)) (PRT (RP up)))))))
+2706,"(1,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2706,"(2,)",Would it have been better if it had not been a corner ball ?,"[Would/MD, it/PRP, have/VB, been/VBN, better/JJR, if/IN, it/PRP, had/VBD, not/RB, been/VBN, a/DT, corner/NN, ball/NN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP it)) (VP (VB have) (VP (VBN been) (ADJP (ADJP (JJR better)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBD had) (RB not) (VP (VBN been) (NP (DT a) (NN corner) (NN ball))))))))) (. ?)))
+2706,"(3,)",,[],X
+2706,"(4,)","The other side , aha .","[The/DT, other/JJ, side/NN, ,/,, aha/NN, ./.]","(ROOT (NP (NP (DT The) (JJ other) (NN side)) (, ,) (NP (NN aha)) (. .)))"
+2706,"(5,)","What goes   one , two , three , three would be very nice .","[What/WDT, goes/VBZ, one/CD, ,/,, two/CD, ,/,, three/CD, ,/,, three/CD, would/MD, be/VB, very/RB, nice/JJ, ./.]","(ROOT (S (SBAR (WHNP (WDT What)) (S (VP (VBZ goes) (NP (CD one))))) (, ,) (NP (NP (CD two)) (, ,) (NP (NP (CD three)) (, ,) (NP (CD three)))) (VP (MD would) (VP (VB be) (ADJP (RB very) (JJ nice)))) (. .)))"
+2706,"(6,)",Fine .,"[Fine/NN, ./.]",(ROOT (INTJ (NN Fine) (. .)))
+2706,"(7,)","Oh , I 've got a   .","[Oh/UH, ,/,, I/PRP, 've/VBP, got/VBD, a/DT, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a)))) (. .)))"
+2706,"(8,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2706,"(9,)",,[],X
+2706,"(10,)",Yep .,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+2706,"(11,)",In great danger when you do it with a   cos the other ball   .,"[In/IN, great/JJ, danger/NN, when/WRB, you/PRP, do/VBP, it/PRP, with/IN, a/DT, cos/NN, the/DT, other/JJ, ball/NN, ./.]",(ROOT (FRAG (PP (IN In) (NP (NP (JJ great) (NN danger)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP do) (NP (PRP it)) (PP (IN with) (NP (NP (DT a) (NN cos)) (NP (DT the) (JJ other) (NN ball))))))))) (. .)))
+2706,"(12,)",,[],X
+2706,"(13,)",You 're not aiming a   .,"[You/PRP, 're/VBP, not/RB, aiming/VBG, a/DT, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (RB not) (VP (VBG aiming) (NP (DT a)))) (. .)))
+2706,"(14,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2706,"(15,)",That 's quite nice   .,"[That/DT, 's/VBZ, quite/RB, nice/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (RB quite) (JJ nice))) (. .)))
+2706,"(16,)","Yeah , yeah .","[Yeah/UH, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (UH yeah) (. .))))"
+2706,"(17,)",,[],X
+2706,"(18,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2706,"(19,)",,[],X
+2706,"(20,)",Yes you have .,"[Yes/UH, you/PRP, have/VBP, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (VBP have))) (. .)))
+2706,"(21,)",,[],X
+2706,"(22,)","Oh I see , you can start in that hoop as well can you ?","[Oh/UH, I/PRP, see/VBP, ,/,, you/PRP, can/MD, start/VB, in/IN, that/DT, hoop/NN, as/RB, well/RB, can/MD, you/PRP, ?/.]","(ROOT (SINV (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (, ,) (S (NP (PRP you)) (VP (MD can) (VP (VB start) (PP (IN in) (NP (DT that) (NN hoop))) (ADVP (RB as) (RB well)))))) (VP (MD can)) (NP (PRP you)) (. ?)))"
+2706,"(23,)","No , I want to go down there .","[No/DT, ,/,, I/PRP, want/VBP, to/TO, go/VB, down/RB, there/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (RB down) (RB there)))))) (. .)))"
+2706,"(24,)","No , no , you still want to get back down there .","[No/DT, ,/,, no/DT, ,/,, you/PRP, still/RB, want/VBP, to/TO, get/VB, back/RB, down/RB, there/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (ADVP (DT no)) (, ,) (NP (PRP you)) (ADVP (RB still)) (VP (VBP want) (S (VP (TO to) (VP (VB get) (ADVP (RB back) (RB down)) (ADVP (RB there)))))) (. .)))"
+2706,"(25,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+2706,"(26,)","Even though you start from that corner , you can 't go through that hoop .","[Even/RB, though/IN, you/PRP, start/VBP, from/IN, that/DT, corner/NN, ,/,, you/PRP, can/MD, 't/PRP, go/VB, through/IN, that/DT, hoop/NN, ./.]","(ROOT (S (SBAR (RB Even) (IN though) (S (NP (PRP you)) (VP (VBP start) (PP (IN from) (NP (DT that) (NN corner)))))) (, ,) (NP (PRP you)) (VP (MD can) (NP (PRP 't)) (S (VP (VB go) (PP (IN through) (NP (DT that) (NN hoop)))))) (. .)))"
+2706,"(27,)",Oh no   .,"[Oh/UH, no/DT, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. .)))
+2706,"(28,)","The hoop on the opposite side first time , right , I see .","[The/DT, hoop/NN, on/IN, the/DT, opposite/JJ, side/NN, first/JJ, time/NN, ,/,, right/NN, ,/,, I/PRP, see/VBP, ./.]","(ROOT (S (NP (NP (DT The) (NN hoop)) (PP (IN on) (NP (DT the) (JJ opposite) (NN side))) (NP (JJ first) (NN time))) (, ,) (ADVP (NN right)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))"

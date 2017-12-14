@@ -1,0 +1,8 @@
+16205,"(0,)",Mm ?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
+16205,"(1,)",How many people are you getting to do this thing ?,"[How/WRB, many/JJ, people/NNS, are/VBP, you/PRP, getting/VBG, to/TO, do/VB, this/DT, thing/NN, ?/.]",(ROOT (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS people)) (SQ (VBP are) (NP (PRP you)) (VP (VBG getting) (S (VP (TO to) (VP (VB do) (NP (DT this) (NN thing))))))) (. ?)))
+16205,"(2, 3)",How many people am I  am I what ?,"[How/WRB, many/JJ, people/NNS, am/VBP, I/PRP, am/VBP, I/PRP, what/WP, ?/.]",(ROOT (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS people)) (SQ (SQ (VBP am) (NP (PRP I))) (SQ (VBP am) (NP (PRP I))) (FRAG (WHNP (WP what)))) (. ?)))
+16205,"(4,)",Are they in this thing ?,"[Are/VBP, they/PRP, in/IN, this/DT, thing/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP they)) (PP (IN in) (NP (DT this) (NN thing))) (. ?)))
+16205,"(5, 6, 7, 8)","I don 't know  oh  cos I don 't know , I think so  a lot noisier than usual in here .","[I/PRP, don/VBP, 't/PRP, know/VB, oh/NN, cos/NN, I/PRP, don/VBP, 't/PRP, know/VB, ,/,, I/PRP, think/VBP, so/IN, a/DT, lot/NN, noisier/JJR, than/IN, usual/JJ, in/IN, here/RB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (NP (NN oh) (NN cos)) (SBAR (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))))))))) (, ,) (NP (PRP I)) (VP (VBP think) (ADVP (IN so) (NP (NP (NP (DT a) (NN lot)) (ADJP (JJR noisier) (IN than) (JJ usual))) (PP (IN in) (NP (RB here)))))) (. .)))"
+16205,"(9, 10)",No  so many people ,"[No/DT, so/RB, many/JJ, people/NNS]",(ROOT (NP (NP (DT No) (RB so) (JJ many)) (NP (NNS people))))
+16205,"(11,)",Sorry ?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
+16205,"(12,)", first .,"[first/RB, ./.]",(ROOT (FRAG (ADVP (RB first)) (. .)))

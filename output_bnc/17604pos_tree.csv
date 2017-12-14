@@ -1,0 +1,15 @@
+17604,"(0,)","I 've got a few days I can go into work   disco poster , I 've gotta do this and that .","[I/PRP, 've/VBP, got/VBD, a/DT, few/JJ, days/NNS, I/PRP, can/MD, go/VB, into/IN, work/NN, disco/NN, poster/NN, ,/,, I/PRP, 've/VBP, gotta/NNP, do/VBP, this/DT, and/CC, that/IN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (JJ few) (NNS days)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB go) (PP (IN into) (NP (NN work) (NN disco) (NN poster)))))))))) (, ,) (NP (PRP I)) (VP (VBP 've) (NP (NP (NP (NNP gotta)) (SBAR (S (VP (VBP do) (NP (DT this)))))) (CC and) (SBAR (WHNP (IN that))))) (. .)))"
+17604,"(1, 2)","Not this month , it 's all gone now you can clear that off .","[Not/RB, this/DT, month/NN, ,/,, it/PRP, 's/VBZ, all/DT, gone/VBN, now/RB, you/PRP, can/MD, clear/VB, that/IN, off/RB, ./.]","(ROOT (S (NP (RB Not) (DT this) (NN month)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT all)) (VP (VBN gone) (ADVP (RB now)) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB clear) (ADVP (IN that) (RB off))))))))) (. .)))"
+17604,"(3,)",Nothing .,"[Nothing/NN, ./.]",(ROOT (NP (NN Nothing) (. .)))
+17604,"(4,)",What 's that mean ?,"[What/WP, 's/VBZ, that/DT, mean/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT that)) (S (VP (VB mean))))) (. ?)))
+17604,"(5,)",Number eight three 0 three .,"[Number/NN, eight/CD, three/CD, 0/CD, three/CD, ./.]",(ROOT (NP (NP (NN Number)) (NP (NP (QP (CD eight) (CD three))) (NP (CD 0) (CD three))) (. .)))
+17604,"(6,)",That means number three 's got party .,"[That/DT, means/VBZ, number/NN, three/CD, 's/POS, got/VBD, party/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ means) (NP (NP (NN number) (CD three)) (SBAR (S (NP (POS 's)) (VP (VBD got) (NP (NN party))))))) (. .)))
+17604,"(7,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+17604,"(8,)",Num- number number three he 's got a party .,"[Num-/JJ, number/NN, number/NN, three/CD, he/PRP, 's/VBZ, got/VBD, a/DT, party/NN, ./.]",(ROOT (S (NP (JJ Num-) (NN number)) (NP (NP (NN number) (CD three)) (SBAR (S (NP (PRP he)) (VP (VBZ 's))))) (VP (VBD got) (NP (DT a) (NN party))) (. .)))
+17604,"(9,)",Number three at eight thirty .,"[Number/NN, three/CD, at/IN, eight/CD, thirty/CD, ./.]",(ROOT (NP (NP (NN Number) (CD three)) (PP (IN at) (NP (CD eight) (CD thirty))) (. .)))
+17604,"(10,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+17604,"(11,)",What for ?,"[What/WDT, for/IN, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (PP (IN for)) (. ?)))
+17604,"(12,)",Oh you  ,"[Oh/UH, you/PRP]",(ROOT (INTJ (UH Oh) (PRP you)))
+17604,"(13,)"," No it doesn 't matter , I 'll take Paul .","[No/DT, it/PRP, doesn/VBD, 't/PRP, matter/NN, ,/,, I/PRP, 'll/MD, take/VB, Paul/NNP, ./.]","(ROOT (S (S (NP (DT No) (PRP it)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (NN matter))))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB take) (NP (NNP Paul)))) (. .)))"
+17604,"(14,)",Monday Tuesday Wednesday are free .,"[Monday/NNP, Tuesday/NNP, Wednesday/NNP, are/VBP, free/JJ, ./.]",(ROOT (S (NP (NNP Monday) (NNP Tuesday) (NNP Wednesday)) (VP (VBP are) (ADJP (JJ free))) (. .)))
+17604,"(15,)",Next weekend   .,"[Next/JJ, weekend/NN, ./.]",(ROOT (NP (JJ Next) (NN weekend) (. .)))

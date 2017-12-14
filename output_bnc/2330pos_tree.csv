@@ -1,0 +1,6 @@
+2330,"(0,)",I 'm gonna ask Suzanna how Sarah 's getting on tonight   .,"[I/PRP, 'm/VBP, gonna/NNP, ask/VB, Suzanna/NNP, how/WRB, Sarah/NNP, 's/POS, getting/VBG, on/IN, tonight/NN, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NNP gonna)) (VP (VB ask) (NP (NNP Suzanna)) (ADVP (WRB how)))))) (S (NP (NNP Sarah) (POS 's)) (VP (VBG getting) (PP (IN on) (NP (NN tonight))))) (. .)))
+2330,"(1,)", the same time .,"[the/DT, same/JJ, time/NN, ./.]",(ROOT (NP (DT the) (JJ same) (NN time) (. .)))
+2330,"(2,)",,[],X
+2330,"(3,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2330,"(4,)",Not   .,"[Not/RB, ./.]",(ROOT (ADVP (RB Not) (. .)))
+2330,"(5,)",Whoops   .,"[Whoops/NNP, ./.]",(ROOT (FRAG (NP (NNP Whoops)) (. .)))

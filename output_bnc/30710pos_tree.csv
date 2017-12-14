@@ -1,0 +1,10 @@
+30710,"(0,)",Oh dear !,"[Oh/UH, dear/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. !)))
+30710,"(1,)",You know ?,"[You/PRP, know/VB, ?/.]",(ROOT (S (NP (PRP You)) (VP (VB know)) (. ?)))
+30710,"(2,)",Thirsty yes ?,"[Thirsty/JJ, yes/RB, ?/.]",(ROOT (NP (NP (JJ Thirsty)) (NP (RB yes)) (. ?)))
+30710,"(3,)","Lots , lots , lots of   !","[Lots/NNS, ,/,, lots/NNS, ,/,, lots/NNS, of/IN, !/.]","(ROOT (NP (NP (NNS Lots)) (, ,) (NP (NNS lots)) (, ,) (NP (NP (NNS lots)) (PP (IN of))) (. !)))"
+30710,"(4,)",,[],X
+30710,"(5,)","What d 'you think ,  ?","[What/WDT, d/NN, 'you/FW, think/VB, ,/,, ?/.]","(ROOT (FRAG (SBAR (WHNP (WDT What)) (S (VP (NN d) (S (NP (FW 'you)) (VP (VB think)) (, ,))))) (. ?)))"
+30710,"(6,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+30710,"(7,)","Lovely colour , but I like it .","[Lovely/JJ, colour/NN, ,/,, but/CC, I/PRP, like/VBP, it/PRP, ./.]","(ROOT (FRAG (NP (JJ Lovely) (NN colour)) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP like) (NP (PRP it)))) (. .)))"
+30710,"(8,)","Nice and old fashioned , ha ?","[Nice/JJ, and/CC, old/JJ, fashioned/VBN, ,/,, ha/NNP, ?/.]","(ROOT (NP (NP (NP (JJ Nice)) (CC and) (NP (JJ old))) (VP (VBN fashioned) (, ,) (NP (NNP ha))) (. ?)))"
+30710,"(9,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

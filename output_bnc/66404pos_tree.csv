@@ -1,0 +1,143 @@
+66404,"(0,)","Come and see mummy , darling !","[Come/VB, and/CC, see/VB, mummy/NN, ,/,, darling/NN, !/.]","(ROOT (S (VP (VB Come) (CC and) (VB see) (NP (NN mummy))) (, ,) (NP (NN darling)) (. !)))"
+66404,"(1,)",Outside !,"[Outside/IN, !/.]",(ROOT (FRAG (PP (IN Outside)) (. !)))
+66404,"(2,)",There 's Oliver .,"[There/EX, 's/VBZ, Oliver/NNP, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NNP Oliver))) (. .)))
+66404,"(3,)",Outside !,"[Outside/IN, !/.]",(ROOT (FRAG (PP (IN Outside)) (. !)))
+66404,"(4,)",Well you can go outside in a few minutes .,"[Well/RB, you/PRP, can/MD, go/VB, outside/JJ, in/IN, a/DT, few/JJ, minutes/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (MD can) (VP (VB go) (ADVP (JJ outside)) (PP (IN in) (NP (DT a) (JJ few) (NNS minutes))))) (. .)))
+66404,"(5,)",Now,[Now/RB],(ROOT (INTJ (RB Now)))
+66404,"(6,)",Go outside !,"[Go/VB, outside/RB, !/.]",(ROOT (S (VP (VB Go) (ADVP (RB outside))) (. !)))
+66404,"(7,)",Grant 'll be in from school in about,"[Grant/NNP, 'll/MD, be/VB, in/IN, from/IN, school/NN, in/IN, about/IN]",(ROOT (S (NP (NNP Grant)) (VP (MD 'll) (VP (VB be) (PP (IN in) (PP (IN from) (NP (NN school)))) (PP (IN in) (PP (IN about)))))))
+66404,"(8,)",Go outside !,"[Go/VB, outside/RB, !/.]",(ROOT (S (VP (VB Go) (ADVP (RB outside))) (. !)))
+66404,"(9,)",ten minutes darling .,"[ten/CD, minutes/NNS, darling/NN, ./.]",(ROOT (NP (NP (CD ten) (NNS minutes)) (NP (NN darling)) (. .)))
+66404,"(10,)",What do you want ?,"[What/WP, do/VBP, you/PRP, want/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP you)) (VP (VB want))) (. ?)))
+66404,"(11,)",Go outside !,"[Go/VB, outside/RB, !/.]",(ROOT (S (VP (VB Go) (ADVP (RB outside))) (. !)))
+66404,"(12,)",Do you want to go outside ?,"[Do/VB, you/PRP, want/VBP, to/TO, go/VB, outside/JJ, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (JJ outside))))))))) (. ?)))
+66404,"(13,)",,[],X
+66404,"(14,)",Do you want your coat ?,"[Do/VB, you/PRP, want/VB, your/PRP$, coat/NN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB want) (NP (PRP$ your) (NN coat))))) (. ?)))
+66404,"(15,)",Well let mummy fasten your shoes first and Grant 'll be in from school in a few minutes .,"[Well/RB, let/VB, mummy/NN, fasten/VB, your/PRP$, shoes/NNS, first/RB, and/CC, Grant/VB, 'll/MD, be/VB, in/IN, from/IN, school/NN, in/IN, a/DT, few/JJ, minutes/NNS, ./.]",(ROOT (S (INTJ (RB Well)) (VP (VB let) (S (NP (NN mummy)) (VP (VP (VB fasten) (NP (PRP$ your) (NNS shoes)) (ADVP (RB first))) (CC and) (VP (VB Grant) (SBAR (S (VP (MD 'll) (VP (VB be) (PP (IN in) (IN from) (NP (NP (NN school)) (PP (IN in) (NP (DT a) (JJ few) (NNS minutes))))))))))))) (. .)))
+66404,"(16,)",Oliver !,"[Oliver/NNP, !/.]",(ROOT (FRAG (NP (NNP Oliver)) (. !)))
+66404,"(17,)","Come on , darling !","[Come/VB, on/RP, ,/,, darling/NN, !/.]","(ROOT (S (VP (VB Come) (PRT (RP on))) (, ,) (NP (NN darling)) (. !)))"
+66404,"(18,)",Grant 'll be in from school in a few minutes .,"[Grant/NNP, 'll/MD, be/VB, in/IN, from/IN, school/NN, in/IN, a/DT, few/JJ, minutes/NNS, ./.]",(ROOT (S (NP (NNP Grant)) (VP (MD 'll) (VP (VB be) (PP (IN in) (IN from) (NP (NP (NN school)) (PP (IN in) (NP (DT a) (JJ few) (NNS minutes))))))) (. .)))
+66404,"(19,)",He will !,"[He/PRP, will/MD, !/.]",(ROOT (S (NP (PRP He)) (VP (MD will)) (. !)))
+66404,"(20,)",,[],X
+66404,"(21,)",Do you want to go outside   now ?,"[Do/VB, you/PRP, want/VBP, to/TO, go/VB, outside/RB, now/RB, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (RB outside)) (ADVP (RB now))))))))) (. ?)))
+66404,"(22,)",,[],X
+66404,"(23,)",Good girl !,"[Good/JJ, girl/NN, !/.]",(ROOT (INTJ (JJ Good) (NN girl) (. !)))
+66404,"(24,)",Mummy put on your coat ?,"[Mummy/NN, put/VBD, on/RP, your/PRP$, coat/NN, ?/.]",(ROOT (S (NP (NN Mummy)) (VP (VBD put) (PRT (RP on)) (NP (PRP$ your) (NN coat))) (. ?)))
+66404,"(25,)",And hat ?,"[And/CC, hat/NN, ?/.]",(ROOT (S (NP (CC And)) (VP (NN hat)) (. ?)))
+66404,"(26,)",Clever girl !,"[Clever/JJ, girl/NN, !/.]",(ROOT (NP (JJ Clever) (NN girl) (. !)))
+66404,"(27,)", Mum   !,"[Mum/NN, !/.]",(ROOT (NP (NN Mum) (. !)))
+66404,"(28,)"," Oliver 's lead , darling I don 't think so because you choked Oliver one day before and daddy said no .","[Oliver/NNP, 's/POS, lead/NN, ,/,, darling/NN, I/PRP, don/VBP, 't/PRP, think/VB, so/RB, because/IN, you/PRP, choked/VBD, Oliver/NNP, one/CD, day/NN, before/RB, and/CC, daddy/NNP, said/VBD, no/DT, ./.]","(ROOT (S (NP (NP (NP (NP (NNP Oliver) (POS 's)) (NN lead) (, ,) (NN darling)) (SBAR (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (RB so) (IN because) (S (NP (PRP you)) (VP (VBD choked) (NP (NNP Oliver)) (ADVP (NP (CD one) (NN day)) (RB before))))))))))) (CC and) (NP (NNP daddy))) (VP (VBD said) (NP (DT no))) (. .)))"
+66404,"(29,)",You mustn 't put on Oliver 's lead .,"[You/PRP, mustn/VBP, 't/PRP, put/VB, on/RP, Oliver/NNP, 's/POS, lead/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP mustn) (S (NP (PRP 't)) (VP (VB put) (PRT (RP on)) (NP (NP (NNP Oliver) (POS 's)) (NN lead))))) (. .)))
+66404,"(30,)",We only put on his lead when we go to the vet .,"[We/PRP, only/RB, put/VBD, on/IN, his/PRP$, lead/NN, when/WRB, we/PRP, go/VBP, to/TO, the/DT, vet/NN, ./.]",(ROOT (S (NP (PRP We)) (ADVP (RB only)) (VP (VBD put) (PP (IN on) (NP (PRP$ his) (NN lead))) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP go) (PP (TO to) (NP (DT the) (NN vet))))))) (. .)))
+66404,"(31,)","Now , sweetie !","[Now/RB, ,/,, sweetie/NN, !/.]","(ROOT (FRAG (INTJ (RB Now)) (, ,) (NP (NN sweetie)) (. !)))"
+66404,"(32,)",Would you like a drinkie ?,"[Would/MD, you/PRP, like/VB, a/DT, drinkie/NN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (DT a) (NN drinkie))) (. ?)))
+66404,"(33,)",Would you like some  ,"[Would/MD, you/PRP, like/VB, some/DT]",(ROOT (SINV (MD Would) (NP (PRP you)) (VP (VB like) (NP (DT some)))))
+66404,"(34,)", No   !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+66404,"(35,)",some cocoa ?,"[some/DT, cocoa/NN, ?/.]",(ROOT (NP (DT some) (NN cocoa) (. ?)))
+66404,"(36,)", No   !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+66404,"(37,)",Why !,"[Why/WRB, !/.]",(ROOT (FRAG (WRB Why) (. !)))
+66404,"(38,)",And we 'll get one ready for Grant .,"[And/CC, we/PRP, 'll/MD, get/VB, one/CD, ready/JJ, for/IN, Grant/NN, ./.]",(ROOT (S (CC And) (NP (PRP we)) (VP (MD 'll) (VP (VB get) (NP (NP (CD one)) (ADJP (JJ ready) (PP (IN for) (NP (NN Grant))))))) (. .)))
+66404,"(39,)",Couldn 't you get your tooth tablet today ?,"[Couldn/NN, 't/PRP, you/PRP, get/VB, your/PRP$, tooth/NN, tablet/NN, today/NN, ?/.]",(ROOT (NP (NP (NP (NN Couldn)) (NP (PRP 't))) (SBAR (S (NP (PRP you)) (VP (VB get) (NP (PRP$ your) (NN tooth) (NN tablet) (NN today))))) (. ?)))
+66404,"(40,)",Tooth tablet ?,"[Tooth/NN, tablet/NN, ?/.]",(ROOT (FRAG (NP (NN Tooth) (NN tablet)) (. ?)))
+66404,"(41,)",Where 's tablet ?,"[Where/WRB, 's/POS, tablet/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NN tablet))) (. ?)))
+66404,"(42,)",There 's your piggy !,"[There/EX, 's/VBZ, your/PRP$, piggy/NNP, !/.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (PRP$ your) (NNP piggy))) (. !)))
+66404,"(43,)",Do you want another sip at it ?,"[Do/VB, you/PRP, want/VBP, another/DT, sip/NN, at/IN, it/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (NP (DT another) (NN sip)) (PP (IN at) (NP (PRP it)))))))) (. ?)))
+66404,"(44,)",My,[My/PRP$],(ROOT (NP (PRP$ My)))
+66404,"(45,)",This one ?,"[This/DT, one/CD, ?/.]",(ROOT (FRAG (NP (DT This)) (NP (CD one)) (. ?)))
+66404,"(46,)", Snowman   !,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
+66404,"(47,)",Snowman !,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
+66404,"(48,)",Snowman !,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
+66404,"(49,)","A snowman for me , make up your snowman just now .","[A/DT, snowman/NN, for/IN, me/PRP, ,/,, make/VB, up/RP, your/PRP$, snowman/NN, just/RB, now/RB, ./.]","(ROOT (S (PP (NP (DT A) (NN snowman)) (IN for) (NP (PRP me))) (, ,) (VP (VB make) (PRT (RP up)) (NP (PRP$ your) (NN snowman)) (PP (RB just) (ADVP (RB now)))) (. .)))"
+66404,"(50,)","Snowman now , mummy .","[Snowman/NN, now/RB, ,/,, mummy/NN, ./.]","(ROOT (NP (NP (NN Snowman) (RB now)) (, ,) (NP (NN mummy)) (. .)))"
+66404,"(51,)",Or this one !,"[Or/CC, this/DT, one/CD, !/.]",(ROOT (FRAG (CC Or) (NP (NP (DT this)) (NP (CD one))) (. !)))
+66404,"(52,)",Would you like a drinkie in snowman ?,"[Would/MD, you/PRP, like/VB, a/DT, drinkie/NN, in/IN, snowman/NN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (NP (DT a) (NN drinkie)) (PP (IN in) (NP (NN snowman))))) (. ?)))
+66404,"(53,)",,[],X
+66404,"(54,)",Clever girl !,"[Clever/JJ, girl/NN, !/.]",(ROOT (NP (JJ Clever) (NN girl) (. !)))
+66404,"(55,)",There 's your tooth tablets .,"[There/EX, 's/VBZ, your/PRP$, tooth/NN, tablets/NNS, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (PRP$ your) (NN tooth) (NNS tablets))) (. .)))
+66404,"(56,)",We should get Grant 's all ready because mummy forgot to give him one before he went to school .,"[We/PRP, should/MD, get/VB, Grant/NN, 's/POS, all/DT, ready/JJ, because/IN, mummy/NN, forgot/VBD, to/TO, give/VB, him/PRP, one/PRP, before/IN, he/PRP, went/VBD, to/TO, school/NN, ./.]",(ROOT (S (NP (PRP We)) (VP (MD should) (VP (VB get) (NP (NP (NN Grant) (POS 's)) (NP (DT all) (JJ ready))) (SBAR (IN because) (S (NP (NN mummy)) (VP (VBD forgot) (S (VP (TO to) (VP (VB give) (NP (PRP him)) (NP (PRP one))))) (SBAR (IN before) (S (NP (PRP he)) (VP (VBD went) (PP (TO to) (NP (NN school))))))))))) (. .)))
+66404,"(57,)",Which colour would you like ?,"[Which/WDT, colour/NN, would/MD, you/PRP, like/VB, ?/.]",(ROOT (SBARQ (WHNP (WDT Which) (NN colour)) (SQ (MD would) (NP (PRP you)) (VP (VB like))) (. ?)))
+66404,"(58,)",A pink one ?,"[A/DT, pink/JJ, one/CD, ?/.]",(ROOT (NP (NP (DT A) (JJ pink)) (NP (CD one)) (. ?)))
+66404,"(59,)",,[],X
+66404,"(60,)",Pink one ?,"[Pink/NNP, one/CD, ?/.]",(ROOT (FRAG (NP (NNP Pink)) (NP (CD one)) (. ?)))
+66404,"(61,)",Grant said they 've a nice flavour the pink ones !,"[Grant/NN, said/VBD, they/PRP, 've/VBP, a/DT, nice/JJ, flavour/NN, the/DT, pink/JJ, ones/NNS, !/.]",(ROOT (S (NP (NN Grant)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP 've) (NP (NP (DT a) (JJ nice) (NN flavour)) (NP (DT the) (JJ pink) (NNS ones))))))) (. !)))
+66404,"(62,)",,[],X
+66404,"(63,)",And a pink one for Grant .,"[And/CC, a/DT, pink/JJ, one/CD, for/IN, Grant/NN, ./.]",(ROOT (FRAG (CC And) (NP (NP (DT a) (JJ pink) (CD one)) (PP (IN for) (NP (NN Grant)))) (. .)))
+66404,"(64,)",He 'll be home in a few minutes .,"[He/PRP, 'll/MD, be/VB, home/NN, in/IN, a/DT, few/JJ, minutes/NNS, ./.]",(ROOT (S (NP (PRP He)) (VP (MD 'll) (VP (VB be) (NP (NP (NN home)) (PP (IN in) (NP (DT a) (JJ few) (NNS minutes)))))) (. .)))
+66404,"(65,)",No !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+66404,"(66,)","That 's Grant 's , darling .","[That/DT, 's/VBZ, Grant/NN, 's/POS, ,/,, darling/NN, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NN Grant) (POS 's)) (, ,) (NN darling))) (. .)))"
+66404,"(67,)",You can only have one .,"[You/PRP, can/MD, only/RB, have/VB, one/CD, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (ADVP (RB only)) (VP (VB have) (NP (CD one)))) (. .)))
+66404,"(68,)",They 're dangerous .,"[They/PRP, 're/VBP, dangerous/JJ, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ dangerous))) (. .)))
+66404,"(69,)",Good for your teeth .,"[Good/JJ, for/IN, your/PRP$, teeth/NNS, ./.]",(ROOT (NP (NP (JJ Good)) (PP (IN for) (NP (PRP$ your) (NNS teeth))) (. .)))
+66404,"(70,)",Makes your teeth nice and strong !,"[Makes/VBZ, your/PRP$, teeth/NNS, nice/JJ, and/CC, strong/JJ, !/.]",(ROOT (S (VP (VBZ Makes) (NP (NP (PRP$ your) (NNS teeth)) (ADJP (JJ nice) (CC and) (JJ strong)))) (. !)))
+66404,"(71,)",And you 've had,"[And/CC, you/PRP, 've/VBP, had/VBN]",(ROOT (S (CC And) (NP (PRP you)) (VP (VBP 've) (VP (VBN had)))))
+66404,"(72,)",Cackle !,"[Cackle/VB, !/.]",(ROOT (S (VP (VB Cackle)) (. !)))
+66404,"(73,)",your Super Ted tablet today your,"[your/PRP$, Super/NNP, Ted/NNP, tablet/NNP, today/NN, your/PRP$]",(ROOT (NP (NP (PRP$ your) (NNP Super) (NNP Ted) (NNP tablet) (NN today)) (NP (PRP$ your))))
+66404,"(74,)","Cackle , Mum !","[Cackle/NN, ,/,, Mum/NN, !/.]","(ROOT (NP (NP (NN Cackle)) (, ,) (NP (NN Mum)) (. !)))"
+66404,"(75,)",vitamin pills .,"[vitamin/NN, pills/NNS, ./.]",(ROOT (NP (NN vitamin) (NNS pills) (. .)))
+66404,"(76,)",Cackle !,"[Cackle/VB, !/.]",(ROOT (S (VP (VB Cackle)) (. !)))
+66404,"(77,)",Okay,[Okay/JJ],(ROOT (FRAG (JJ Okay)))
+66404,"(78,)", snowman cup ,"[snowman/NN, cup/NN]",(ROOT (NP (NN snowman) (NN cup)))
+66404,"(79,)","Snowman , yes !","[Snowman/NN, ,/,, yes/UH, !/.]","(ROOT (INTJ (INTJ (NN Snowman)) (, ,) (INTJ (UH yes) (. !))))"
+66404,"(80,)",He 's a lovely,"[He/PRP, 's/VBZ, a/DT, lovely/JJ]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (DT a) (JJ lovely)))))
+66404,"(81,)",Snowman !,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
+66404,"(82,)",Snowman !,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
+66404,"(83,)",snowman !,"[snowman/NN, !/.]",(ROOT (NP (NN snowman) (. !)))
+66404,"(84,)",Where 's a snowman 's nose for mummy .,"[Where/WRB, 's/VBZ, a/DT, snowman/NN, 's/POS, nose/NN, for/IN, mummy/NN, ./.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (NP (NP (DT a) (NN snowman) (POS 's)) (NN nose)) (PP (IN for) (NP (NN mummy))))) (. .)))
+66404,"(85,)",Where 's his nose ?,"[Where/WRB, 's/POS, his/PRP$, nose/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (PRP$ his) (NN nose))) (. ?)))
+66404,"(86,)",Nose !,"[Nose/NN, !/.]",(ROOT (NP (NN Nose) (. !)))
+66404,"(87,)","He 's got a carrot for a nose and big leaves like erm , don 't know what they are","[He/PRP, 's/VBZ, got/VBD, a/DT, carrot/NN, for/IN, a/DT, nose/NN, and/CC, big/JJ, leaves/NNS, like/IN, erm/NN, ,/,, don/NNP, 't/PRP, know/VBP, what/WP, they/PRP, are/VBP]","(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (NN carrot)) (PP (IN for) (NP (NP (DT a) (NN nose)) (CC and) (NP (JJ big) (NNS leaves)))) (PP (IN like) (NP (NP (NN erm)) (, ,) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP are))))))))))))))"
+66404,"(88,)",,[],X
+66404,"(89,)","big leaves for eyebrows and he 's got a lovely green and orange scarf , stripy scarf .","[big/JJ, leaves/NNS, for/IN, eyebrows/NNS, and/CC, he/PRP, 's/VBZ, got/VBD, a/DT, lovely/JJ, green/JJ, and/CC, orange/JJ, scarf/NN, ,/,, stripy/JJ, scarf/NN, ./.]","(ROOT (S (NP (NP (JJ big) (NNS leaves)) (PP (IN for) (NP (NP (NNS eyebrows)) (CC and) (NP (PRP he))))) (VP (VBZ 's) (VP (VBD got) (NP (NP (DT a) (JJ lovely) (ADJP (JJ green) (CC and) (JJ orange)) (NN scarf)) (, ,) (NP (JJ stripy) (NN scarf))))) (. .)))"
+66404,"(90,)",You take care .,"[You/PRP, take/VBP, care/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP take) (NP (NN care))) (. .)))
+66404,"(91,)","Watch your lovely books , okay ?","[Watch/VB, your/PRP$, lovely/JJ, books/NNS, ,/,, okay/UH, ?/.]","(ROOT (S (VP (VB Watch) (NP (PRP$ your) (JJ lovely) (NNS books)) (, ,) (NP (UH okay))) (. ?)))"
+66404,"(92,)",I 'm gonna put Grant 's tablet up here .,"[I/PRP, 'm/VBP, gonna/NN, put/VBD, Grant/NN, 's/POS, tablet/NN, up/RB, here/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN gonna)) (SBAR (S (VP (VBD put) (NP (NP (NN Grant) (POS 's)) (NN tablet)) (ADVP (RB up) (RB here))))))) (. .)))
+66404,"(93,)","Annabel , would you like some milk ?","[Annabel/NNP, ,/,, would/MD, you/PRP, like/VB, some/DT, milk/NN, ?/.]","(ROOT (S (NP (NNP Annabel) (, ,)) (VP (MD would) (NP (PRP you)) (S (VP (VB like) (NP (DT some) (NN milk))))) (. ?)))"
+66404,"(94,)",Drink for Oliver ?,"[Drink/NN, for/IN, Oliver/NNP, ?/.]",(ROOT (NP (NP (NN Drink)) (PP (IN for) (NP (NNP Oliver))) (. ?)))
+66404,"(95,)",Drinkies ?,"[Drinkies/NNS, ?/.]",(ROOT (NP (NNS Drinkies) (. ?)))
+66404,"(96,)",Want some milk ?,"[Want/VB, some/DT, milk/NN, ?/.]",(ROOT (SQ (VP (VB Want) (NP (DT some) (NN milk))) (. ?)))
+66404,"(97,)",It 's too early for your tea yet .,"[It/PRP, 's/VBZ, too/RB, early/JJ, for/IN, your/PRP$, tea/NN, yet/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB too) (JJ early) (PP (IN for) (NP (PRP$ your) (NN tea)))) (ADVP (RB yet))) (. .)))
+66404,"(98,)",Good boy !,"[Good/JJ, boy/NN, !/.]",(ROOT (INTJ (JJ Good) (NN boy) (. !)))
+66404,"(99,)",Clever boy !,"[Clever/JJ, boy/NN, !/.]",(ROOT (NP (JJ Clever) (NN boy) (. !)))
+66404,"(100,)",Drinkie all up ! darling .,"[Drinkie/NNP, all/DT, up/RB, !/., darling/NN, ./.]",(ROOT (NP (NP (NNP Drinkie)) (NP (DT all) (RRC (ADVP (RB up) (. !)) (NP (NN darling)))) (. .)))
+66404,"(101,)",Is that what 's cackle ?,"[Is/VBZ, that/IN, what/WP, 's/VBZ, cackle/NN, ?/.]",(ROOT (S (VP (VBZ Is) (SBAR (IN that) (S (NP (WP what)) (VP (VBZ 's) (NP (NN cackle)))))) (. ?)))
+66404,"(102, 103)",And mummy get your hat  and you go outside with Oliver,"[And/CC, mummy/NN, get/VB, your/PRP$, hat/NN, and/CC, you/PRP, go/VBP, outside/JJ, with/IN, Oliver/NNP]",(ROOT (S (NP (NP (CC And) (NN mummy)) (SBAR (S (VP (VB get) (NP (NP (PRP$ your) (NN hat)) (CC and) (NP (PRP you))))))) (VP (VBP go) (ADVP (JJ outside)) (PP (IN with) (NP (NNP Oliver))))))
+66404,"(104,)",,[],X
+66404,"(105,)",You get down now !,"[You/PRP, get/VBP, down/RB, now/RB, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP get) (ADVP (RB down) (RB now))) (. !)))
+66404,"(106,)",,[],X
+66404,"(107,)",Oh look at your dress !,"[Oh/UH, look/VB, at/IN, your/PRP$, dress/NN, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (VB look) (PP (IN at) (NP (PRP$ your) (NN dress)))) (. !)))
+66404,"(108,)","What 's that , lipstick ?","[What/WP, 's/VBZ, that/DT, ,/,, lipstick/NN, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT that)) (, ,) (NP (NN lipstick)))) (. ?)))"
+66404,"(109,)",,[],X
+66404,"(110,)","Nice lipstick , you naughty little girl !","[Nice/JJ, lipstick/NN, ,/,, you/PRP, naughty/JJ, little/JJ, girl/NN, !/.]","(ROOT (NP (NP (JJ Nice) (NN lipstick)) (, ,) (NP (NP (PRP you)) (NP (JJ naughty) (JJ little) (NN girl))) (. !)))"
+66404,"(111,)",,[],X
+66404,"(112,)",You not big girl ?,"[You/PRP, not/RB, big/JJ, girl/NN, ?/.]",(ROOT (FRAG (ADVP (PRP You) (RB not)) (NP (JJ big) (NN girl)) (. ?)))
+66404,"(113,)",,[],X
+66404,"(114,)", darling .,"[darling/NN, ./.]",(ROOT (NP (NN darling) (. .)))
+66404,"(115,)",Let me get your coat .,"[Let/VB, me/PRP, get/VB, your/PRP$, coat/NN, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP me)) (VP (VB get) (NP (PRP$ your) (NN coat))))) (. .)))
+66404,"(116,)",Just a minute .,"[Just/RB, a/DT, minute/NN, ./.]",(ROOT (NP (RB Just) (DT a) (NN minute) (. .)))
+66404,"(117,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+66404,"(118,)",,[],X
+66404,"(119,)",Now leave Oliver just now .,"[Now/RB, leave/VBP, Oliver/NNP, just/RB, now/RB, ./.]",(ROOT (S (NP (RB Now)) (VP (VBP leave) (NP (NNP Oliver)) (ADVP (RB just)) (ADVP (RB now))) (. .)))
+66404,"(120,)",Mum !,"[Mum/NN, !/.]",(ROOT (NP (NN Mum) (. !)))
+66404,"(121,)",It 's nothing !,"[It/PRP, 's/VBZ, nothing/NN, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NN nothing))) (. !)))
+66404,"(122,)",It 's cooker !,"[It/PRP, 's/VBZ, cooker/NN, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NN cooker))) (. !)))
+66404,"(123,)","Cackle , Mum !","[Cackle/NN, ,/,, Mum/NN, !/.]","(ROOT (NP (NP (NN Cackle)) (, ,) (NP (NN Mum)) (. !)))"
+66404,"(124,)",Cackle !,"[Cackle/VB, !/.]",(ROOT (S (VP (VB Cackle)) (. !)))
+66404,"(125,)",,[],X
+66404,"(126,)",Clever girl !,"[Clever/JJ, girl/NN, !/.]",(ROOT (NP (JJ Clever) (NN girl) (. !)))
+66404,"(127,)",Snowman !,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
+66404,"(128,)",Snowman !,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
+66404,"(129,)",Good girl .,"[Good/JJ, girl/NN, ./.]",(ROOT (INTJ (JJ Good) (NN girl) (. .)))
+66404,"(130,)",,[],X
+66404,"(131,)","Daddy 's late night , tonight .","[Daddy/NNP, 's/POS, late/JJ, night/NN, ,/,, tonight/NN, ./.]","(ROOT (NP (NP (NP (NP (NNP Daddy) (POS 's)) (JJ late) (NN night)) (, ,) (NP (NN tonight))) (. .)))"
+66404,"(132,)",Daddy 's working late !,"[Daddy/NNP, 's/POS, working/VBG, late/RB, !/.]",(ROOT (S (S (NP (NNP Daddy) (POS 's)) (VP (VBG working) (ADVP (RB late)))) (. !)))
+66404,"(133,)",He 'll be in about nine o 'clock .,"[He/PRP, 'll/MD, be/VB, in/IN, about/IN, nine/CD, o/NN, 'clock/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (MD 'll) (VP (VB be) (PP (IN in) (PP (IN about) (NP (CD nine) (NN o) (NN 'clock)))))) (. .)))
+66404,"(134,)",So we 'll have our tea about maybe half past five and just you and mummy and Grant .,"[So/IN, we/PRP, 'll/MD, have/VB, our/PRP$, tea/NN, about/IN, maybe/RB, half/JJ, past/JJ, five/CD, and/CC, just/RB, you/PRP, and/CC, mummy/NN, and/CC, Grant/NN, ./.]",(ROOT (S (IN So) (NP (PRP we)) (VP (MD 'll) (VP (VB have) (NP (PRP$ our) (NN tea)) (PP (IN about) (NP (NP (NP (RB maybe) (JJ half)) (NP (JJ past) (CD five))) (CC and) (ADVP (RB just)) (NP (NP (PRP you)) (CC and) (NP (NN mummy) (CC and) (NN Grant))))))) (. .)))
+66404,"(135,)",Alright !,"[Alright/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Alright)) (. !)))
+66404,"(136,)",Yes ?,"[Yes/UH, ?/.]",(ROOT (INTJ (UH Yes) (. ?)))
+66404,"(137,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+66404,"(138,)",Grant 'll like   after school .,"[Grant/NNP, 'll/MD, like/VB, after/IN, school/NN, ./.]",(ROOT (S (NP (NNP Grant)) (VP (MD 'll) (VP (VB like) (PP (IN after) (NP (NN school))))) (. .)))
+66404,"(139,)",Oliver !,"[Oliver/NNP, !/.]",(ROOT (FRAG (NP (NNP Oliver)) (. !)))
+66404,"(140,)",Outside just now darling !,"[Outside/JJ, just/RB, now/RB, darling/NN, !/.]",(ROOT (FRAG (ADVP (JJ Outside) (PP (RB just) (ADVP (RB now)))) (NP (NN darling)) (. !)))
+66404,"(141,)",Mummy give you a comb .,"[Mummy/NN, give/VBP, you/PRP, a/DT, comb/NN, ./.]",(ROOT (S (NP (NN Mummy)) (VP (VBP give) (NP (PRP you)) (NP (DT a) (NN comb))) (. .)))
+66404,"(142,)", Clever girl !,"[Clever/JJ, girl/NN, !/.]",(ROOT (NP (JJ Clever) (NN girl) (. !)))
+66404,"(143,)",Mummy best open the door for Grant .,"[Mummy/NN, best/RB, open/VB, the/DT, door/NN, for/IN, Grant/NN, ./.]",(ROOT (S (NP (NN Mummy)) (ADVP (RB best)) (VP (VB open) (NP (NP (DT the) (NN door)) (PP (IN for) (NP (NN Grant))))) (. .)))

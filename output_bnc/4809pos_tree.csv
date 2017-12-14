@@ -1,0 +1,26 @@
+4809,"(0,)","Don 't that I was over impressed with Tammy Girl , were you ?","[Don/NNP, 't/PRP, that/IN, I/PRP, was/VBD, over/RB, impressed/JJ, with/IN, Tammy/NNP, Girl/NNP, ,/,, were/VBD, you/PRP, ?/.]","(ROOT (S (NP (NNP Don) (PRP 't)) (PRN (SBAR (IN that) (S (NP (PRP I)) (VP (VBD was) (VP (ADVP (RB over)) (JJ impressed) (PP (IN with) (NP (NNP Tammy) (NNP Girl))))))) (, ,)) (VP (VBD were) (NP (PRP you))) (. ?)))"
+4809,"(1,)",Hm .,"[Hm/NNS, ./.]",(ROOT (NP (NNS Hm) (. .)))
+4809,"(2,)",What 's Tammy Girl ?,"[What/WP, 's/VBZ, Tammy/NNP, Girl/NNP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NNP Tammy) (NNP Girl))) (. ?)))
+4809,"(3,)",That shop that we went in when we had to go down stairs  .,"[That/DT, shop/NN, that/IN, we/PRP, went/VBD, in/IN, when/WRB, we/PRP, had/VBD, to/TO, go/VB, down/RP, stairs/NNS, ./.]",(ROOT (NP (DT That) (NN shop) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD went) (PP (IN in) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBD had) (S (VP (TO to) (VP (VB go) (PRT (RP down)) (NP (NNS stairs)))))))))))) (. .)))
+4809,"(4,)", Tammy Girl   .,"[Tammy/NNP, Girl/NNP, ./.]",(ROOT (NP (NNP Tammy) (NNP Girl) (. .)))
+4809,"(5,)","Na , I think it 's only girl 's .","[Na/TO, ,/,, I/PRP, think/VBP, it/PRP, 's/VBZ, only/RB, girl/NN, 's/POS, ./.]","(ROOT (S (ADVP (TO Na)) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (QP (RB only)) (NP (NN girl) (POS 's))))))) (. .)))"
+4809,"(6,)",What 's Tammy Girl ?,"[What/WP, 's/VBZ, Tammy/NNP, Girl/NNP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NNP Tammy) (NNP Girl))) (. ?)))
+4809,"(7,)",That 's the shop that   .,"[That/DT, 's/VBZ, the/DT, shop/NN, that/WDT, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (NN shop)) (SBAR (WHNP (WDT that))))) (. .)))
+4809,"(8,)","No , no .","[No/DT, ,/,, no/DT, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (DT no)) (. .)))"
+4809,"(9,)","Oh yeah , I know   .","[Oh/UH, yeah/UH, ,/,, I/PRP, know/VBP, ./.]","(ROOT (S (INTJ (UH Oh)) (INTJ (UH yeah)) (, ,) (NP (PRP I)) (VP (VBP know)) (. .)))"
+4809,"(10,)",I think a lot of erm .,"[I/PRP, think/VBP, a/DT, lot/NN, of/IN, erm/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN erm))))) (. .)))
+4809,"(11,)",  .,[./.],(ROOT (NP (. .)))
+4809,"(12,)",I think a lot of your age go there .,"[I/PRP, think/VBP, a/DT, lot/NN, of/IN, your/PRP$, age/NN, go/VB, there/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (PRP$ your) (NN age)))) (VP (VB go) (ADVP (RB there))))) (. .)))
+4809,"(13,)","Yeah , I think   .","[Yeah/UH, ,/,, I/PRP, think/VBP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBP think)) (. .)))"
+4809,"(14,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+4809,"(15,)",  .,[./.],(ROOT (NP (. .)))
+4809,"(16,)","I didn 't like the stuff for , it 's very garish , I mean I didn 't like Amy 's bathing costume very much , did you ?","[I/PRP, didn/VBP, 't/PRP, like/IN, the/DT, stuff/NN, for/IN, ,/,, it/PRP, 's/VBZ, very/RB, garish/JJ, ,/,, I/PRP, mean/VBP, I/PRP, didn/VB, 't/PRP, like/IN, Amy/NNP, 's/POS, bathing/NN, costume/NN, very/RB, much/RB, ,/,, did/VBD, you/PRP, ?/.]","(ROOT (SINV (S (NP (PRP I)) (VP (VBP didn) (NP (PRP 't)) (PP (IN like) (NP (DT the) (NN stuff))) (SBAR (IN for) (PRN (, ,) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB very) (JJ garish)))) (, ,)) (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP I)) (VP (VB didn) (NP (PRP 't)) (PP (IN like) (NP (NP (NNP Amy) (POS 's)) (NN bathing) (NN costume)) (ADVP (RB very) (RB much)))))))))) (, ,) (VP (VBD did)) (NP (PRP you)) (. ?)))"
+4809,"(17,)","No , but , you know , I like ,  .","[No/DT, ,/,, but/CC, ,/,, you/PRP, know/VBP, ,/,, I/PRP, like/VBP, ,/,, ./.]","(ROOT (S (NP (DT No)) (, ,) (ADVP (CC but)) (, ,) (NP (PRP you)) (VP (VBP know) (PRN (, ,) (S (NP (PRP I)) (VP (VBP like))) (, ,))) (. .)))"
+4809,"(18,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+4809,"(19,)","But I quite like her shell suit , there quite nice colours .","[But/CC, I/PRP, quite/RB, like/IN, her/PRP$, shell/NN, suit/NN, ,/,, there/EX, quite/RB, nice/JJ, colours/NNS, ./.]","(ROOT (FRAG (CC But) (ADVP (PRP I) (RB quite)) (PP (IN like) (NP (NP (PRP$ her) (NN shell) (NN suit)) (, ,) (NP (NP (EX there)) (NP (ADJP (RB quite) (JJ nice)) (NNS colours))))) (. .)))"
+4809,"(20,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+4809,"(21,)",There 's a lot of those in C & A 's .,"[There/EX, 's/VBZ, a/DT, lot/NN, of/IN, those/DT, in/IN, C/NNP, &/CC, A/NNP, 's/POS, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT those)) (PP (IN in) (NP (NNP C) (CC &) (NNP A) (POS 's))))))) (. .)))
+4809,"(22,)",  .,[./.],(ROOT (NP (. .)))
+4809,"(23,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+4809,"(24,)",She keep   .,"[She/PRP, keep/VB, ./.]",(ROOT (S (NP (PRP She)) (VP (VB keep)) (. .)))
+4809,"(25,)", I doubt it .,"[I/PRP, doubt/VBP, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP doubt) (NP (PRP it))) (. .)))

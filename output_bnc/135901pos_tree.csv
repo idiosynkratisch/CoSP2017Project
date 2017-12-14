@@ -1,0 +1,96 @@
+135901,"(0,)",Do you want to know what I done at school today ?,"[Do/VB, you/PRP, want/VBP, to/TO, know/VB, what/WP, I/PRP, done/VBN, at/IN, school/NN, today/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBN done) (PP (IN at) (NP (NN school))) (NP (NN today)))))))))))) (. ?)))
+135901,"(1,)",Yeah what did you do ?,"[Yeah/UH, what/WP, did/VBD, you/PRP, do/VB, ?/.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (WP what)) (VP (VBD did) (S (NP (PRP you)) (VP (VB do))))) (. ?)))
+135901,"(2,)",Did you go swimming ?,"[Did/VBD, you/PRP, go/VB, swimming/NN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB go) (NP (NN swimming))) (. ?)))
+135901,"(3,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(4,)",And I done my life saving .,"[And/CC, I/PRP, done/VBD, my/PRP$, life/NN, saving/NN, ./.]",(ROOT (S (CC And) (NP (PRP I)) (VP (VBD done) (NP (PRP$ my) (NN life) (NN saving))) (. .)))
+135901,"(5,)",Did ya ?,"[Did/VBD, ya/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP ya))) (. ?)))
+135901,"(6,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(7,)",So what did you have to do then ?,"[So/RB, what/WP, did/VBD, you/PRP, have/VBP, to/TO, do/VB, then/RB, ?/.]",(ROOT (SBARQ (RB So) (WHNP (WP what)) (SQ (VBD did) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB do) (ADVP (RB then))))))) (. ?)))
+135901,"(8,)","Well , what I had to do , I had to swim under the water","[Well/RB, ,/,, what/WP, I/PRP, had/VBD, to/TO, do/VB, ,/,, I/PRP, had/VBD, to/TO, swim/VB, under/IN, the/DT, water/NN]","(ROOT (S (ADVP (RB Well)) (, ,) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD had) (S (VP (TO to) (VP (VB do))))))) (, ,) (NP (PRP I)) (VP (VBD had) (S (VP (TO to) (VP (VB swim) (PP (IN under) (NP (DT the) (NN water)))))))))"
+135901,"(9,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(10,)","grab a , erm a brick and","[grab/VB, a/DT, ,/,, erm/VBP, a/DT, brick/NN, and/CC]","(ROOT (SINV (S (VP (VB grab) (NP (DT a)))) (, ,) (VP (VBP erm)) (NP (NP (DT a) (NN brick)) (ADVP (CC and)))))"
+135901,"(11,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(12,)","and swi-  ,a- and swim back up again .","[and/CC, swi-/NN, ,a-/NN, and/CC, swim/VBP, back/RB, up/RB, again/RB, ./.]","(ROOT (S (CC and) (NP (NN swi-) (NN ,a-)) (ADVP (CC and)) (VP (VBP swim) (ADVP (RB back) (RB up)) (ADVP (RB again))) (. .)))"
+135901,"(13, 14)","And , and also you have to get  get this dummy","[And/CC, ,/,, and/CC, also/RB, you/PRP, have/VBP, to/TO, get/VB, get/VB, this/DT, dummy/NN]","(ROOT (S (CC And) (, ,) (NP (CC and) (NP (NP (RB also)) (NP (PRP you)))) (VP (VBP have) (S (VP (TO to) (VP (VB get) (VP (VB get) (NP (DT this) (NN dummy)))))))))"
+135901,"(15,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(16, 17)","and you swim backwards  like , know how you sa-  , life save someone","[and/CC, you/PRP, swim/VBP, backwards/RB, like/IN, ,/,, know/VB, how/WRB, you/PRP, sa-/NN, ,/,, life/NN, save/VB, someone/NN]","(ROOT (PRN (CC and) (S (NP (PRP you)) (VP (VBP swim) (ADVP (RB backwards) (PP (IN like))) (, ,) (S (VP (VB know) (SBAR (WHADVP (WRB how)) (S (NP (NP (PRP you) (NN sa-)) (, ,) (NP (NN life))) (VP (VB save) (NP (NN someone)))))))))))"
+135901,"(18,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(19,)","and you swim , you do , you do a back stroke","[and/CC, you/PRP, swim/VBP, ,/,, you/PRP, do/VBP, ,/,, you/PRP, do/VBP, a/DT, back/RB, stroke/NN]","(ROOT (PRN (CC and) (S (NP (PRP you)) (VP (VBP swim) (SBAR (S (, ,) (S (NP (PRP you)) (VP (VBP do))) (, ,) (NP (PRP you)) (VP (VBP do) (NP (DT a) (ADVP (RB back)) (NN stroke)))))))))"
+135901,"(20,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(21, 22)",and you swim backwards to the shore and you climb out  and know do that thing without breathing .,"[and/CC, you/PRP, swim/VBP, backwards/RB, to/TO, the/DT, shore/NN, and/CC, you/PRP, climb/VBP, out/RP, and/CC, know/VB, do/VBP, that/DT, thing/NN, without/IN, breathing/NN, ./.]",(ROOT (S (S (CC and) (NP (PRP you)) (VP (VBP swim) (ADVP (RB backwards) (PP (TO to) (NP (DT the) (NN shore)))))) (CC and) (S (S (NP (PRP you)) (VP (VBP climb) (PRT (RP out)))) (CC and) (S (S (VP (VB know))) (VP (VBP do) (NP (DT that) (NN thing)) (PP (IN without) (NP (NN breathing)))))) (. .)))
+135901,"(23,)",Like,[Like/IN],(ROOT (PP (IN Like)))
+135901,"(24,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(25,)",put their chin up,"[put/VB, their/PRP$, chin/NN, up/IN]",(ROOT (S (VP (VB put) (NP (PRP$ their) (NN chin)) (ADVP (IN up)))))
+135901,"(26,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(27,)",and open the,"[and/CC, open/VB, the/DT]",(ROOT (FRAG (CC and) (S (VP (VB open) (NP (DT the))))))
+135901,"(28,)",Mouth to mouth resuscitation .,"[Mouth/NN, to/TO, mouth/NN, resuscitation/NN, ./.]",(ROOT (NP (NP (NN Mouth)) (PP (TO to) (NP (NN mouth) (NN resuscitation))) (. .)))
+135901,"(29,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(30,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+135901,"(31,)","And , and that .","[And/CC, ,/,, and/CC, that/IN, ./.]","(ROOT (S (CC And) (, ,) (ADVP (CC and)) (VP (IN that)) (. .)))"
+135901,"(32,)","And I 'll , and I passed and I need to get my medals and all that .","[And/CC, I/PRP, 'll/MD, ,/,, and/CC, I/PRP, passed/VBD, and/CC, I/PRP, need/VBP, to/TO, get/VB, my/PRP$, medals/NNS, and/CC, all/PDT, that/DT, ./.]","(ROOT (S (CC And) (S (S (NP (PRP I)) (VP (MD 'll))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD passed)))) (CC and) (S (NP (PRP I)) (VP (VBP need) (S (VP (TO to) (VP (VB get) (NP (NP (PRP$ my) (NNS medals)) (CC and) (NP (PDT all) (DT that)))))))) (. .)))"
+135901,"(33,)",You did pass ?,"[You/PRP, did/VBD, pass/VB, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBD did) (VP (VB pass))) (. ?)))
+135901,"(34,)","And and also , the lady who teaches you swimming","[And/CC, and/CC, also/RB, ,/,, the/DT, lady/NN, who/WP, teaches/VBZ, you/PRP, swimming/VBG]","(ROOT (S (CC And) (ADVP (CC and) (RB also)) (, ,) (NP (DT the) (NP (NP (NN lady)) (SBAR (WHNP (WP who))))) (VP (VBZ teaches) (S (NP (PRP you)) (VP (VBG swimming))))))"
+135901,"(35,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(36,)",erm see sa- she said that you can 't swim properly .,"[erm/NN, see/VB, sa-/JJ, she/PRP, said/VBD, that/IN, you/PRP, can/MD, 't/PRP, swim/VBP, properly/RB, ./.]",(ROOT (S (S (NP (NN erm)) (VP (VB see) (ADJP (JJ sa-) (SBAR (S (NP (PRP she)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP you)) (VP (MD can)))))))))) (NP (PRP 't)) (VP (VBP swim) (ADVP (RB properly))) (. .)))
+135901,"(37,)","Who , me ?","[Who/WP, ,/,, me/PRP, ?/.]","(ROOT (SBARQ (WHNP (WP Who)) (SQ (, ,) (NP (PRP me))) (. ?)))"
+135901,"(38,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(39,)","How do yo-  , how do you know ?","[How/WRB, do/VBP, yo-/NN, ,/,, how/WRB, do/VBP, you/PRP, know/VB, ?/.]","(ROOT (SBARQ (SBAR (WHADVP (WRB How)) (S (VP (VBP do) (NP (NN yo-))))) (, ,) (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP you)) (VP (VB know))) (. ?)))"
+135901,"(40,)",Cos she told me .,"[Cos/NNP, she/PRP, told/VBD, me/PRP, ./.]",(ROOT (S (NP (NNP Cos) (PRP she)) (VP (VBD told) (NP (PRP me))) (. .)))
+135901,"(41,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+135901,"(42, 43)",Because she said to me  is your brother called Anthony ?,"[Because/IN, she/PRP, said/VBD, to/TO, me/PRP, is/VBZ, your/PRP$, brother/NN, called/VBN, Anthony/NNP, ?/.]",(ROOT (S (SBAR (IN Because) (S (NP (PRP she)) (VP (VBD said) (PP (TO to) (NP (PRP me)))))) (VP (VBZ is) (NP (NP (PRP$ your) (NN brother)) (VP (VBN called) (NP (NNP Anthony))))) (. ?)))
+135901,"(44, 45)","And I goes  and I goes , yeah .","[And/CC, I/PRP, goes/VBZ, and/CC, I/PRP, goes/VBZ, ,/,, yeah/UH, ./.]","(ROOT (S (S (CC And) (S (NP (PRP I)) (VP (VBZ goes))) (CC and) (S (NP (PRP I)) (VP (VBZ goes)))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+135901,"(46,)","And she goes , well your brother needs to be swimming more .","[And/CC, she/PRP, goes/VBZ, ,/,, well/RB, your/PRP$, brother/NN, needs/VBZ, to/TO, be/VB, swimming/VBG, more/RBR, ./.]","(ROOT (S (CC And) (S (NP (PRP she)) (VP (VBZ goes))) (, ,) (ADVP (RB well)) (S (NP (PRP$ your) (NN brother)) (VP (VBZ needs) (S (VP (TO to) (VP (VB be) (VP (VBG swimming) (ADVP (RBR more)))))))) (. .)))"
+135901,"(47,)",Yeah I know .,"[Yeah/UH, I/PRP, know/VBP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP know))) (. .)))
+135901,"(48,)",So what ?,"[So/RB, what/WP, ?/.]",(ROOT (X (ADVP (RB So)) (NP (WP what)) (. ?)))
+135901,"(49,)",Don 't bother me .,"[Don/NNP, 't/PRP, bother/VB, me/PRP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB bother) (NP (PRP me))) (. .)))
+135901,"(50,)","Yeah , well it should","[Yeah/UH, ,/,, well/RB, it/PRP, should/MD]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (RB well)) (ADVP (PRP it)) (VP (MD should))))"
+135901,"(51,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(52,)",bother you innit ?,"[bother/VB, you/PRP, innit/VB, ?/.]",(ROOT (SQ (VP (VB bother) (S (NP (PRP you)) (VP (VB innit)))) (. ?)))
+135901,"(53,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+135901,"(54,)","Anyway , well","[Anyway/RB, ,/,, well/RB]","(ROOT (FRAG (NP (RB Anyway)) (, ,) (ADVP (RB well))))"
+135901,"(55,)",Is Roseanne on ?,"[Is/VBZ, Roseanne/NNP, on/IN, ?/.]",(ROOT (SQ (VBZ Is) (NP (NNP Roseanne)) (ADVP (IN on)) (. ?)))
+135901,"(56,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+135901,"(57,)",Is Roseanne on ?,"[Is/VBZ, Roseanne/NNP, on/IN, ?/.]",(ROOT (SQ (VBZ Is) (NP (NNP Roseanne)) (ADVP (IN on)) (. ?)))
+135901,"(58,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(59,)","Anyway , Patrick go","[Anyway/RB, ,/,, Patrick/NNP, go/NNP]","(ROOT (NP (NP (RB Anyway)) (, ,) (NP (NNP Patrick) (NNP go))))"
+135901,"(60,)",Could you put it on Roseanne please ?,"[Could/MD, you/PRP, put/VB, it/PRP, on/IN, Roseanne/NNP, please/VB, ?/.]",(ROOT (SQ (MD Could) (NP (PRP you)) (VP (VB put) (NP (PRP it)) (PP (IN on) (NP (NNP Roseanne))) (S (VP (VB please)))) (. ?)))
+135901,"(61, 62, 63, 64, 65)","Yeah see  you see , hold on  Patrick  would you , erm go round Carl 's house tomorrow about eight o 'clock and ask Carl if he wants to swap his   for  one of my freedom dragon 's la- land ?","[Yeah/UH, see/VB, you/PRP, see/VB, ,/,, hold/VB, on/RP, Patrick/NNP, would/MD, you/PRP, ,/,, erm/NNP, go/VB, round/JJ, Carl/NNP, 's/POS, house/NNP, tomorrow/NN, about/IN, eight/CD, o/NN, 'clock/NN, and/CC, ask/VB, Carl/NNP, if/IN, he/PRP, wants/VBZ, to/TO, swap/VB, his/PRP$, for/IN, one/CD, of/IN, my/PRP$, freedom/NN, dragon/NNP, 's/POS, la-/JJ, land/NN, ?/.]","(ROOT (S (INTJ (UH Yeah)) (VP (VB see) (S (NP (PRP you)) (VP (VB see) (, ,) (S (VP (VP (VB hold) (PRT (RP on)) (NP (NP (NNP Patrick)) (SBAR (S (VP (MD would) (VP (NP (PRP you))))))) (, ,) (S (NP (NNP erm)) (VP (VB go) (NP (NP (NP (JJ round) (NNP Carl) (POS 's)) (NNP house) (NN tomorrow)) (PP (IN about) (NP (CD eight) (NN o) (NN 'clock))))))) (CC and) (VP (VB ask) (NP (NNP Carl)) (SBAR (IN if) (S (NP (PRP he)) (VP (VBZ wants) (S (VP (TO to) (VP (VB swap) (NP (PRP$ his)) (PP (IN for) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NN freedom))))))))))))) (NP (NP (NNP dragon) (POS 's)) (JJ la-) (NN land)))))) (. ?)))"
+135901,"(66,)","No , dragon 's lair .","[No/DT, ,/,, dragon/NNP, 's/POS, lair/NN, ./.]","(ROOT (NP (NP (NP (DT No)) (, ,) (NP (NP (NNP dragon) (POS 's)) (NN lair))) (. .)))"
+135901,"(67,)","Oh Anthony , he really   take U S Gold .","[Oh/UH, Anthony/NNP, ,/,, he/PRP, really/RB, take/VBP, U/NNP, S/NNP, Gold/NNP, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (NNP Anthony) (, ,)) (VP (ADVP (PRP he)) (VP (ADVP (RB really)) (VBP take) (NP (NNP U) (NNP S) (NNP Gold))))) (. .)))"
+135901,"(68,)",Who 's got U S Gold though ?,"[Who/WP, 's/VBZ, got/NNP, U/NNP, S/NNP, Gold/NNP, though/IN, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (NP (NNP got) (NNP U) (NNP S) (NNP Gold)) (ADJP (IN though))) (. ?)))
+135901,"(69,)","Anthony , don 't bring it tomorrow .","[Anthony/NNP, ,/,, don/NNP, 't/PRP, bring/VB, it/PRP, tomorrow/NN, ./.]","(ROOT (NP (NP (NNP Anthony)) (, ,) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VB bring) (NP (PRP it)) (NP (NN tomorrow)))))) (. .)))"
+135901,"(70,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+135901,"(71,)",Oh yeah !,"[Oh/UH, yeah/UH, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. !)))
+135901,"(72,)",No but I wanna play with it first though .,"[No/DT, but/CC, I/PRP, wanna/NNP, play/NNP, with/IN, it/PRP, first/RB, though/RB, ./.]",(ROOT (NP (NP (DT No) (RRC (PP (CC but) (NP (PRP I))) (NP (NNP wanna)))) (NP (NP (NNP play)) (PP (IN with) (NP (PRP it))) (PP (RB first) (ADVP (RB though)))) (. .)))
+135901,"(73,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(74,)",Right ?,"[Right/NN, ?/.]",(ROOT (INTJ (NN Right) (. ?)))
+135901,"(75,)",That 's one of the top Sega games .,"[That/DT, 's/VBZ, one/CD, of/IN, the/DT, top/JJ, Sega/NNP, games/NNS, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJ top) (NNP Sega) (NNS games))))) (. .)))
+135901,"(76,)",U S Gold ?,"[U/NNP, S/NNP, Gold/NNP, ?/.]",(ROOT (NP (NNP U) (NNP S) (NNP Gold) (. ?)))
+135901,"(77,)","No , and Mickey Mouse and Castle of Indians .","[No/DT, ,/,, and/CC, Mickey/NNP, Mouse/NN, and/CC, Castle/NN, of/IN, Indians/NNPS, ./.]","(ROOT (NP (NP (ADJP (DT No) (PRN (, ,) (CC and) (NP (NP (NNP Mickey) (NN Mouse)) (CC and) (NP (NN Castle)))))) (PP (IN of) (NP (NNPS Indians))) (. .)))"
+135901,"(78,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(79, 80, 81, 82)",There 's that  U S Gold  erm  Navy Seal .,"[There/EX, 's/VBZ, that/DT, U/NNP, S/NNP, Gold/NNP, erm/NNP, Navy/NNP, Seal/NN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT that) (NNP U) (NNP S) (NNP Gold) (NNP erm) (NNP Navy) (NN Seal))) (. .)))
+135901,"(83,)","I had the , I ain 't taking   number two because it might get nicked .","[I/PRP, had/VBD, the/DT, ,/,, I/PRP, ain/VBP, 't/PRP, taking/VBG, number/NN, two/CD, because/IN, it/PRP, might/MD, get/VB, nicked/VBN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD had) (NP (DT the)))) (, ,) (NP (PRP I)) (VP (VBP ain) (S (NP (PRP 't)) (VP (VBG taking) (SBAR (NP (NN number) (CD two)) (IN because) (S (NP (PRP it)) (VP (MD might) (VP (VB get) (VP (VBN nicked))))))))) (. .)))"
+135901,"(84,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(85,)",I 'm getting Pick Fighter .,"[I/PRP, 'm/VBP, getting/VBG, Pick/NN, Fighter/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG getting) (NP (NN Pick) (NN Fighter)))) (. .)))
+135901,"(86,)",When ?,"[When/WRB, ?/.]",(ROOT (FRAG (WHADVP (WRB When) (. ?))))
+135901,"(87, 88)",On erm  Monday .,"[On/IN, erm/NNP, Monday/NNP, ./.]",(ROOT (FRAG (PP (IN On) (NP (NNP erm) (NNP Monday))) (. .)))
+135901,"(89,)",Alright then .,"[Alright/JJ, then/RB, ./.]",(ROOT (S (NP (JJ Alright)) (VP (ADVP (RB then))) (. .)))
+135901,"(90,)",Alright,[Alright/JJ],(ROOT (ADJP (JJ Alright)))
+135901,"(91,)",I,[I/PRP],(ROOT (FRAG (NP (PRP I))))
+135901,"(92,)",then .,"[then/RB, ./.]",(ROOT (FRAG (ADVP (RB then)) (. .)))
+135901,"(93,)",See,[See/VB],(ROOT (S (VP (VB See))))
+135901,"(94,)",I,[I/PRP],(ROOT (FRAG (NP (PRP I))))
+135901,"(95,)",ya .,"[ya/PRP, ./.]",(ROOT (FRAG (NP (PRP ya)) (. .)))
+135901,"(96,)","Right , see you later .","[Right/NN, ,/,, see/VBP, you/PRP, later/RB, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VBP see) (NP (PRP you)) (ADVP (RB later))) (. .)))"
+135901,"(97,)",Patrick .,"[Patrick/NNP, ./.]",(ROOT (FRAG (NP (NNP Patrick)) (. .)))
+135901,"(98,)",Hey,[Hey/UH],(ROOT (INTJ (UH Hey)))
+135901,"(99,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+135901,"(100,)",Patrick .,"[Patrick/NNP, ./.]",(ROOT (FRAG (NP (NNP Patrick)) (. .)))
+135901,"(101,)",When you 're going out to to play,"[When/WRB, you/PRP, 're/VBP, going/VBG, out/RP, to/TO, to/TO, play/VB]",(ROOT (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (PRT (RP out)) (S (VP (TO to) (S (VP (TO to) (VP (VB play)))))))))))
+135901,"(102,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(103,)",tell Damian to come up for me alright ?,"[tell/VB, Damian/NNP, to/TO, come/VB, up/RP, for/IN, me/PRP, alright/VB, ?/.]",(ROOT (SQ (VP (VB tell) (S (NP (NNP Damian)) (VP (TO to) (VP (VB come) (PRT (RP up)) (SBAR (IN for) (S (NP (PRP me)) (VP (VB alright)))))))) (. ?)))
+135901,"(104,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(105,)",Alright .,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
+135901,"(106,)",See you later .,"[See/VB, you/PRP, later/RB, ./.]",(ROOT (S (VP (VB See) (NP (PRP you)) (ADVP (RB later))) (. .)))
+135901,"(107,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+135901,"(108,)",Bye .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

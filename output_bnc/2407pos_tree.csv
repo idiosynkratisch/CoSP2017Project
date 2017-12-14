@@ -1,0 +1,6 @@
+2407,"(0,)","Smells delicious , have some more wine , sherry ?","[Smells/VBZ, delicious/NNP, ,/,, have/VBP, some/DT, more/JJR, wine/NN, ,/,, sherry/NNP, ?/.]","(ROOT (SINV (SINV (VP (VBZ Smells)) (NP (NNP delicious))) (, ,) (VP (VBP have)) (NP (NP (DT some) (JJR more) (NN wine)) (, ,) (NP (NNP sherry))) (. ?)))"
+2407,"(1,)","Erm ,  .","[Erm/NN, ,/,, ./.]","(ROOT (S (NP (NN Erm)) (VP (, ,)) (. .)))"
+2407,"(2,)",Good .,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))
+2407,"(3,)","I think smoked haddock has a really good flavour , aroma , aroma , as well as flavour .","[I/PRP, think/VBP, smoked/JJ, haddock/NN, has/VBZ, a/DT, really/RB, good/JJ, flavour/NN, ,/,, aroma/NN, ,/,, aroma/NN, ,/,, as/RB, well/RB, as/IN, flavour/NN, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (JJ smoked) (NN haddock)) (VP (VBZ has) (NP (NP (NP (DT a) (ADJP (RB really) (JJ good)) (NN flavour)) (, ,) (NP (NP (NN aroma)) (, ,) (NP (NN aroma)) (, ,))) (CONJP (RB as) (RB well) (IN as)) (NP (NN flavour))))))) (. .)))"
+2407,"(4,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+2407,"(5,)",You 're welcome .,"[You/PRP, 're/VBP, welcome/JJ, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (ADJP (JJ welcome))) (. .)))

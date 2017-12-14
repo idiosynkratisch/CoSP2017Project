@@ -1,0 +1,4 @@
+10003,"(0,)","Never mind , he said .","[Never/RB, mind/NN, ,/,, he/PRP, said/VBD, ./.]","(ROOT (S (S (ADVP (RB Never)) (NP (NN mind))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))"
+10003,"(1, 2, 3)",Somewhere red    red Albert  you 've got plenty of ties in there !,"[Somewhere/RB, red/NNP, red/NNP, Albert/NNP, you/PRP, 've/VBP, got/VBN, plenty/NN, of/IN, ties/NNS, in/IN, there/RB, !/.]",(ROOT (FRAG (ADVP (RB Somewhere)) (NP (NP (NNP red) (NNP red) (NNP Albert)) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (NP (NN plenty)) (PP (IN of) (NP (NP (NNS ties)) (PP (IN in) (NP (RB there))))))))))) (. !)))
+10003,"(4,)",Wear a   somewhere will be bloody red !,"[Wear/VB, a/DT, somewhere/RB, will/MD, be/VB, bloody/JJ, red/JJ, !/.]",(ROOT (S (S (VP (VB Wear) (NP (DT a) (RB somewhere)))) (VP (MD will) (VP (VB be) (ADJP (JJ bloody) (JJ red)))) (. !)))
+10003,"(5,)",Bloody coat !,"[Bloody/JJ, coat/NN, !/.]",(ROOT (NP (JJ Bloody) (NN coat) (. !)))

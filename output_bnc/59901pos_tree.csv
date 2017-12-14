@@ -1,0 +1,24 @@
+59901,"(0,)","He 'll have ya , Barney . ","[He/PRP, 'll/MD, have/VB, ya/PRP, ,/,, Barney/NNP, ./.]","(ROOT (S (NP (PRP He)) (VP (MD 'll) (VP (VB have) (NP (NP (PRP ya)) (, ,) (NP (NNP Barney))))) (. .)))"
+59901,"(1,)",,[],X
+59901,"(2,)",You grot bag .,"[You/PRP, grot/NNP, bag/NN, ./.]",(ROOT (NP (NP (PRP You)) (NP (NNP grot) (NN bag)) (. .)))
+59901,"(3,)",George .,"[George/NNP, ./.]",(ROOT (FRAG (NP (NNP George)) (. .)))
+59901,"(4,)", last year .,"[last/JJ, year/NN, ./.]",(ROOT (NP (JJ last) (NN year) (. .)))
+59901,"(5,)","I know , that 's what he were after .","[I/PRP, know/VBP, ,/,, that/DT, 's/VBZ, what/WP, he/PRP, were/VBD, after/IN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP know))) (, ,) (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBD were) (PP (IN after)))))) (. .)))"
+59901,"(6,)","Wants to chew the basket ,  'cos when he   , I think he started chewing photo .","[Wants/VBZ, to/TO, chew/VB, the/DT, basket/NN, ,/,, 'cos/NNS, when/WRB, he/PRP, ,/,, I/PRP, think/VBP, he/PRP, started/VBD, chewing/VBG, photo/NN, ./.]","(ROOT (S (VP (VBZ Wants) (S (VP (TO to) (VP (VB chew) (NP (NP (DT the) (NN basket)) (, ,) (NP (NP (NNS 'cos)) (SBAR (WHADVP (WRB when)) (S (S (NP (PRP he))) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (VBD started) (NP (VBG chewing) (NN photo)))))))))))))) (. .)))"
+59901,"(7,)","You bugger , George .","[You/PRP, bugger/VBP, ,/,, George/NNP, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP bugger))) (, ,) (FRAG (NP (NNP George))) (. .)))"
+59901,"(8,)",George .,"[George/NNP, ./.]",(ROOT (FRAG (NP (NNP George)) (. .)))
+59901,"(9,)",George .,"[George/NNP, ./.]",(ROOT (FRAG (NP (NNP George)) (. .)))
+59901,"(10,)",What you doing ?,"[What/WP, you/PRP, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WHNP (WP What)) (NP (PRP you))) (SQ (VP (VBG doing))) (. ?)))
+59901,"(11,)",George .,"[George/NNP, ./.]",(ROOT (FRAG (NP (NNP George)) (. .)))
+59901,"(12,)","What you doing , you bald headed bugger .","[What/WP, you/PRP, doing/VBG, ,/,, you/PRP, bald/JJ, headed/VBN, bugger/NN, ./.]","(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBG doing)))) (, ,) (NP (NP (PRP you)) (ADJP (JJ bald))) (VP (VBN headed) (NP (NN bugger))) (. .)))"
+59901,"(13,)","He 'll come out with it , you know .","[He/PRP, 'll/MD, come/VB, out/RP, with/IN, it/PRP, ,/,, you/PRP, know/VBP, ./.]","(ROOT (S (S (NP (PRP He)) (VP (MD 'll) (VP (VB come) (PRT (RP out)) (PP (IN with) (NP (PRP it)))))) (, ,) (NP (PRP you)) (VP (VBP know)) (. .)))"
+59901,"(14,)",I don 't think he will .,"[I/PRP, don/VBP, 't/PRP, think/VB, he/PRP, will/MD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP he)) (VP (MD will))))))) (. .)))
+59901,"(15,)","The only thing he 's picked up since we 've had him , is me name .","[The/DT, only/JJ, thing/NN, he/PRP, 's/VBZ, picked/VBN, up/RP, since/IN, we/PRP, 've/VBP, had/VBD, him/PRP, ,/,, is/VBZ, me/PRP, name/VB, ./.]","(ROOT (S (NP (DT The) (JJ only) (NN thing)) (PRN (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN picked) (PRT (RP up)) (SBAR (IN since) (S (NP (PRP we)) (VP (VBP 've) (VP (VBD had) (NP (PRP him))))))))) (, ,)) (VP (VBZ is) (S (NP (PRP me)) (VP (VB name)))) (. .)))"
+59901,"(16,)",And how long we had  'im .,"[And/CC, how/WRB, long/RB, we/PRP, had/VBD, 'im/NN, ./.]",(ROOT (FRAG (CC And) (SBAR (WHADVP (WRB how) (RB long)) (S (NP (PRP we)) (VP (VBD had) (NP (NN 'im))))) (. .)))
+59901,"(17,)","We  'ad  'im a good six months , ain 't we ?","[We/PRP, 'ad/VBD, 'im/NN, a/DT, good/JJ, six/CD, months/NNS, ,/,, ain/NNP, 't/PRP, we/PRP, ?/.]","(ROOT (S (S (NP (PRP We)) (VP (VBD 'ad) (NP (NP (NN 'im)) (NP (DT a) (JJ good) (CD six) (NNS months))))) (, ,) (S (NP (NNP ain) (PRP 't)) (NP (PRP we))) (. ?)))"
+59901,"(18,)",Aye .,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
+59901,"(19,)",Georgie babes .,"[Georgie/NNP, babes/NNPS, ./.]",(ROOT (FRAG (NP (NNP Georgie) (NNPS babes)) (. .)))
+59901,"(20, 21)","Georgie , look at  look .","[Georgie/NNP, ,/,, look/NN, at/IN, look/NN, ./.]","(ROOT (NP (NP (NNP Georgie)) (, ,) (NP (NP (NN look)) (PP (IN at) (NP (NN look)))) (. .)))"
+59901,"(22,)","He won 't pick the names , he he picks up , it 's the ones he already knows .","[He/PRP, won/VBD, 't/PRP, pick/VB, the/DT, names/NNS, ,/,, he/PRP, he/PRP, picks/VBZ, up/RP, ,/,, it/PRP, 's/VBZ, the/DT, ones/NNS, he/PRP, already/RB, knows/VBZ, ./.]","(ROOT (S (S (NP (PRP He)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB pick) (NP (NP (DT the) (NNS names)) (, ,) (NP (NP (PRP he)) (SBAR (S (NP (PRP he)) (VP (VBZ picks) (PRT (RP up))))))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT the) (NNS ones)) (SBAR (S (NP (PRP he)) (ADVP (RB already)) (VP (VBZ knows)))))) (. .)))"
+59901,"(23,)","Oi , basket , look .","[Oi/NNP, ,/,, basket/NN, ,/,, look/NN, ./.]","(ROOT (NP (NP (NNP Oi)) (, ,) (NP (NP (NN basket)) (, ,) (NP (NN look))) (. .)))"
+59901,"(24,)",Oi,[Oi/NN],(ROOT (NP (NN Oi)))

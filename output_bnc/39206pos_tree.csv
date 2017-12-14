@@ -1,0 +1,3 @@
+39206,"(0, 1, 2, 3)",Those erm  erm  fuchsias that we bought  I reckon they 've doubled in size .,"[Those/DT, erm/NN, erm/NN, fuchsias/NNS, that/IN, we/PRP, bought/VBD, I/PRP, reckon/VBP, they/PRP, 've/VBP, doubled/VBN, in/IN, size/NN, ./.]",(ROOT (S (NP (NP (DT Those) (NN erm) (NN erm) (NNS fuchsias)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBD bought) (SBAR (S (NP (PRP I)) (VP (VBP reckon) (NP (PRP they))))))))) (VP (VBP 've) (VP (VBN doubled) (PP (IN in) (NP (NN size))))) (. .)))
+39206,"(4,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+39206,"(5,)",I thought that,"[I/PRP, thought/VBD, that/IN]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (ADVP (IN that)))))

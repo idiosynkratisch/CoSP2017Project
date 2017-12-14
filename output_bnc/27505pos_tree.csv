@@ -1,0 +1,4 @@
+27505,"(0,)",Three pound and three please ?,"[Three/CD, pound/NN, and/CC, three/CD, please/VB, ?/.]",(ROOT (S (NP (NP (CD Three) (NN pound)) (CC and) (NP (CD three))) (VP (VB please)) (. ?)))
+27505,"(1,)","Three 's five ten , and ten is twenty .","[Three/CD, 's/POS, five/CD, ten/CD, ,/,, and/CC, ten/CD, is/VBZ, twenty/CD, ./.]","(ROOT (S (NP (NP (CD Three) (POS 's)) (NP (NP (CD five) (CD ten)) (, ,) (CC and) (NP (CD ten)))) (VP (VBZ is) (NP (CD twenty))) (. .)))"
+27505,"(2,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+27505,"(3,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))

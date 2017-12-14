@@ -1,0 +1,7 @@
+38804,"(0, 1)",Mm  I like that one up !,"[Mm/NN, I/CD, like/VBP, that/IN, one/CD, up/RB, !/.]",(ROOT (S (NP (NN Mm) (CD I)) (VP (VBP like) (ADVP (IN that) (NP (CD one))) (ADVP (RB up))) (. !)))
+38804,"(2,)",Do you ?,"[Do/VB, you/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP you))) (. ?)))
+38804,"(3,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+38804,"(4, 5)",I expect to go higher  really .,"[I/PRP, expect/VBP, to/TO, go/VB, higher/RBR, really/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP expect) (S (VP (TO to) (VP (VB go) (ADVP (RBR higher)) (ADVP (RB really)))))) (. .)))
+38804,"(6, 7)","It 's just on , it 's just using its  ha- hanging on the existing one .","[It/PRP, 's/VBZ, just/RB, on/IN, ,/,, it/PRP, 's/VBZ, just/RB, using/VBG, its/PRP$, ha-/NN, hanging/VBG, on/IN, the/DT, existing/VBG, one/CD, ./.]","(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just)) (PP (IN on)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBG using) (NP (PRP$ its) (NN ha-)) (S (VP (VBG hanging) (PP (IN on) (NP (DT the) (ADJP (VBG existing)) (CD one))))))) (. .)))"
+38804,"(8,)",That isn 't Felicity Kendal on the front there is it ?,"[That/DT, isn/NN, 't/PRP, Felicity/NNP, Kendal/NNP, on/IN, the/DT, front/NN, there/EX, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (NP (DT That) (NN isn)) (NP (PRP 't)) (NP (NP (NNP Felicity) (NNP Kendal)) (PP (IN on) (NP (DT the) (NN front))))) (NP (EX there)) (VP (VBZ is) (NP (PRP it))) (. ?)))
+38804,"(9,)",Good gracious !,"[Good/JJ, gracious/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Good) (JJ gracious)) (. !)))

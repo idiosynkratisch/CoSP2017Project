@@ -1,0 +1,22 @@
+2401,"(0,)",There,[There/EX],(ROOT (NP (EX There)))
+2401,"(1,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2401,"(2,)",Why not ? want any due ?,"[Why/WRB, not/RB, ?/., want/VBP, any/DT, due/JJ, ?/.]",(ROOT (S (VP (ADVP (WRB Why)) (S (NP (NP (RB not)) (. ?) (S (VP (VBP want) (S (NP (DT any)) (ADJP (JJ due)))))))) (. ?)))
+2401,"(3,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+2401,"(4,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+2401,"(5,)",How many have you got next week ?,"[How/WRB, many/JJ, have/VBP, you/PRP, got/VBD, next/JJ, week/NN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (JJ many)) (SQ (VBP have) (NP (PRP you)) (VP (VBD got) (NP (JJ next) (NN week)))) (. ?)))
+2401,"(6,)",About twelve .,"[About/IN, twelve/CD, ./.]",(ROOT (FRAG (PP (IN About) (NP (CD twelve))) (. .)))
+2401,"(7,)",Ha ha .,"[Ha/NNP, ha/NNP, ./.]",(ROOT (NP (NNP Ha) (NNP ha) (. .)))
+2401,"(8,)",I shall leave you to it .,"[I/PRP, shall/MD, leave/VB, you/PRP, to/TO, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD shall) (VP (VB leave) (NP (PRP you)) (PP (TO to) (NP (PRP it))))) (. .)))
+2401,"(9,)",How many have you got   ?,"[How/WRB, many/JJ, have/VBP, you/PRP, got/VBN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (JJ many)) (SQ (VBP have) (NP (PRP you)) (VP (VBN got))) (. ?)))
+2401,"(10,)",All   and they 'zre tomorrow .,"[All/DT, and/CC, they/PRP, 'zre/VBP, tomorrow/NN, ./.]",(ROOT (S (NP (NP (DT All)) (CC and) (NP (PRP they))) (VP (VBP 'zre) (NP (NN tomorrow))) (. .)))
+2401,"(11,)",,[],X
+2401,"(12,)",I 'm sorry I 've missed that .,"[I/PRP, 'm/VBP, sorry/JJ, I/PRP, 've/VBP, missed/VBN, that/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN missed) (ADVP (IN that)))))))) (. .)))
+2401,"(13,)",,[],X
+2401,"(14,)","Well , that doesn 't matter , it 's me it 's recording and whoever I talk to .","[Well/RB, ,/,, that/IN, doesn/NN, 't/PRP, matter/NN, ,/,, it/PRP, 's/VBZ, me/PRP, it/PRP, 's/VBZ, recording/VBG, and/CC, whoever/WP, I/PRP, talk/VBP, to/TO, ./.]","(ROOT (S (ADVP (RB Well)) (PRN (, ,) (SBAR (IN that) (S (NP (NP (NN doesn)) (NP (PRP 't))) (VP (NN matter)))) (, ,)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP me)) (SBAR (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG recording))))) (CC and) (SBAR (WHNP (WP whoever)) (S (NP (PRP I)) (VP (VBP talk) (PP (TO to))))))) (. .)))"
+2401,"(15,)",Why are you recording you though ?,"[Why/WRB, are/VBP, you/PRP, recording/VBG, you/PRP, though/IN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP are) (NP (PRP you)) (VP (VBG recording) (NP (PRP you)) (ADVP (IN though)))) (. ?)))
+2401,"(16,)",Aha ha .,"[Aha/NNP, ha/NNP, ./.]",(ROOT (NP (NNP Aha) (NNP ha) (. .)))
+2401,"(17,)",,[],X
+2401,"(18,)",Cos I 'm really rather super that 's why .,"[Cos/NNP, I/PRP, 'm/VBP, really/RB, rather/RB, super/JJ, that/DT, 's/VBZ, why/WRB, ./.]",(ROOT (S (NP (NNP Cos) (PRP I)) (VP (VBP 'm) (ADJP (RB really) (RB rather) (JJ super) (SBAR (S (NP (DT that)) (VP (VBZ 's) (FRAG (WHADVP (WRB why)))))))) (. .)))
+2401,"(19,)",Gosh mum leaves this lying around doesn 't she ?,"[Gosh/NNP, mum/NNP, leaves/VBZ, this/DT, lying/VBG, around/IN, doesn/NNP, 't/PRP, she/PRP, ?/.]",(ROOT (S (NP (NNP Gosh) (NNP mum)) (VP (VBZ leaves) (S (NP (DT this)) (VP (VBG lying) (PP (IN around) (NP (NP (NNP doesn)) (NP (PRP 't)))) (NP (PRP she))))) (. ?)))
+2401,"(20,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2401,"(21,)",Wonderful for stubbing toes on .,"[Wonderful/JJ, for/IN, stubbing/VBG, toes/NNS, on/IN, ./.]",(ROOT (NP (NP (JJ Wonderful)) (PP (IN for) (S (VP (VBG stubbing) (NP (NNS toes)) (PP (IN on))))) (. .)))

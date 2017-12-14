@@ -1,0 +1,13 @@
+15014,"(0,)","Bennettons , you can buy that   .","[Bennettons/NNP, ,/,, you/PRP, can/MD, buy/VB, that/DT, ./.]","(ROOT (S (NP (NNP Bennettons)) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB buy) (NP (DT that)))) (. .)))"
+15014,"(1,)","Which one , yeah that 's the one that erm Kim 's been trying to get Lorraine the Bennetton one .","[Which/WDT, one/CD, ,/,, yeah/UH, that/DT, 's/VBZ, the/DT, one/CD, that/WDT, erm/VBP, Kim/NNP, 's/POS, been/VBN, trying/VBG, to/TO, get/VB, Lorraine/NNP, the/DT, Bennetton/NNP, one/CD, ./.]","(ROOT (FRAG (SBAR (WHNP (WDT Which)) (S (NP (NP (CD one)) (, ,) (SBAR (SBAR (S (INTJ (UH yeah)) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (CD one))))) (SBAR (WHNP (WDT that)) (S (VP (VBP erm) (SBAR (S (NP (NNP Kim) (POS 's)) (VP (VBN been) (VP (VBG trying) (S (VP (TO to) (VP (VB get))))))))))))) (VP (NNP Lorraine) (NP (DT the) (NNP Bennetton) (CD one))))) (. .)))"
+15014,"(2,)",Nineteen ninety nine .,"[Nineteen/CD, ninety/CD, nine/CD, ./.]",(ROOT (NP (NP (CD Nineteen)) (QP (CD ninety) (CD nine)) (. .)))
+15014,"(3,)","That 's not bad , Bennetton one ?","[That/DT, 's/VBZ, not/RB, bad/JJ, ,/,, Bennetton/NNP, one/CD, ?/.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (RB not) (NP (NP (JJ bad)) (, ,) (NP (NNP Bennetton) (CD one)))) (. ?)))"
+15014,"(4, 5)","Shall I put that down , Argos number fourteen  Argos number fourteen .","[Shall/MD, I/PRP, put/VB, that/DT, down/RB, ,/,, Argos/NNP, number/NN, fourteen/CD, Argos/NNP, number/NN, fourteen/CD, ./.]","(ROOT (SQ (MD Shall) (NP (PRP I)) (VP (VB put) (NP (DT that)) (ADVP (RB down)) (, ,) (S (NP (NNP Argos) (NN number) (CD fourteen)) (NP (NNP Argos) (NN number) (CD fourteen)))) (. .)))"
+15014,"(6,)","Hang on , page first .","[Hang/NNP, on/IN, ,/,, page/NN, first/RB, ./.]","(ROOT (NP (NP (NNP Hang)) (PP (IN on) (FRAG (, ,) (NP (NN page) (RB first)))) (. .)))"
+15014,"(7,)",Page six .,"[Page/NN, six/CD, ./.]",(ROOT (NP (NP (NN Page)) (NP (CD six)) (. .)))
+15014,"(8,)","Yeah ,","[Yeah/UH, ,/,]","(ROOT (INTJ (UH Yeah) (, ,)))"
+15014,"(9,)","Number fourteen ,","[Number/NN, fourteen/CD, ,/,]","(ROOT (FRAG (PP (NN Number) (NP (CD fourteen))) (, ,)))"
+15014,"(10,)","yeah ,","[yeah/UH, ,/,]","(ROOT (FRAG (PP (UH yeah)) (, ,)))"
+15014,"(11,)",Nineteen ninety nine .,"[Nineteen/CD, ninety/CD, nine/CD, ./.]",(ROOT (NP (NP (CD Nineteen)) (QP (CD ninety) (CD nine)) (. .)))
+15014,"(12,)",The one that   .,"[The/DT, one/CD, that/WDT, ./.]",(ROOT (NP (NP (NP (DT The) (CD one)) (SBAR (WHNP (WDT that)))) (. .)))
+15014,"(13,)", nineteen ninety nine pounds .,"[nineteen/CD, ninety/CD, nine/CD, pounds/NNS, ./.]",(ROOT (NP (NP (CD nineteen)) (NP (NP (QP (CD ninety) (CD nine))) (NP (NNS pounds))) (. .)))

@@ -1,0 +1,22 @@
+61508,"(0,)","You asked me if I wanted salt out and I said yeah , so you don 't get it out !","[You/PRP, asked/VBD, me/PRP, if/IN, I/PRP, wanted/VBD, salt/NN, out/IN, and/CC, I/PRP, said/VBD, yeah/UH, ,/,, so/IN, you/PRP, don/VBP, 't/PRP, get/VB, it/PRP, out/RP, !/.]","(ROOT (S (S (NP (PRP You)) (VP (VBD asked) (NP (PRP me)) (SBAR (IN if) (S (S (NP (PRP I)) (VP (VBD wanted) (NP (NN salt)) (ADVP (IN out)))) (CC and) (S (NP (PRP I)) (VP (VBD said) (INTJ (UH yeah)))))))) (, ,) (IN so) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB get) (NP (PRP it)) (PRT (RP out)))))) (. !)))"
+61508,"(1,)",I took it out without asking you though .,"[I/PRP, took/VBD, it/PRP, out/RP, without/IN, asking/VBG, you/PRP, though/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD took) (NP (PRP it)) (ADVP (RP out)) (PP (IN without) (S (VP (VBG asking) (NP (PRP you)) (ADVP (RB though)))))) (. .)))
+61508,"(2,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+61508,"(3,)",I were that busy taking things back and I got them out .,"[I/PRP, were/VBD, that/IN, busy/JJ, taking/VBG, things/NNS, back/RB, and/CC, I/PRP, got/VBD, them/PRP, out/RP, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBD were) (ADJP (IN that) (JJ busy)) (S (VP (VBG taking) (NP (NNS things)) (ADVP (RB back)))))) (CC and) (S (NP (PRP I)) (VP (VBD got) (NP (PRP them)) (PRT (RP out)))) (. .)))
+61508,"(4,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+61508,"(5,)",Gonna be able to manage that ?,"[Gonna/NNP, be/VB, able/JJ, to/TO, manage/VB, that/IN, ?/.]",(ROOT (S (NP (NNP Gonna)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB manage) (ADVP (IN that))))))) (. ?)))
+61508,"(6,)",Lovely !,"[Lovely/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. !)))
+61508,"(7,)",It 's that stuff I made last year and,"[It/PRP, 's/VBZ, that/IN, stuff/NN, I/PRP, made/VBD, last/JJ, year/NN, and/CC]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (SBAR (IN that) (S (NP (NP (NN stuff)) (NP (PRP I))) (VP (VBD made) (NP (JJ last) (NN year)) (ADVP (CC and))))))))
+61508,"(8,)",,[],X
+61508,"(9,)","you know , I went to market   alright .","[you/PRP, know/VBP, ,/,, I/PRP, went/VBD, to/TO, market/NN, alright/NN, ./.]","(ROOT (S (S (NP (PRP you)) (VP (VBP know))) (, ,) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NN market) (NN alright)))) (. .)))"
+61508,"(10,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+61508,"(11, 12)", You gotta   Radio Two with that .,"[You/PRP, gotta/NNP, Radio/NNP, Two/CD, with/IN, that/DT, ./.]",(ROOT (NP (NP (PRP You)) (NP (NP (NNP gotta) (NNP Radio) (CD Two)) (PP (IN with) (NP (DT that)))) (. .)))
+61508,"(13,)",Bloody pirate station wouldn 't you ?,"[Bloody/JJ, pirate/NNP, station/NN, wouldn/NN, 't/PRP, you/PRP, ?/.]",(ROOT (X (NP (NP (JJ Bloody) (NNP pirate)) (NP (NN station) (NN wouldn))) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
+61508,"(14,)","No , I know .","[No/DT, ,/,, I/PRP, know/VBP, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP know)) (. .)))"
+61508,"(15,)",Keep moving it !,"[Keep/VB, moving/VBG, it/PRP, !/.]",(ROOT (S (VP (VB Keep) (S (VP (VBG moving) (NP (PRP it))))) (. !)))
+61508,"(16,)",Mm ?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
+61508,"(17,)",  .,[./.],(ROOT (NP (. .)))
+61508,"(18,)", Er ha   .,"[Er/NN, ha/NN, ./.]",(ROOT (NP (NP (NN Er)) (NP (NN ha)) (. .)))
+61508,"(19,)",This my   ?,"[This/DT, my/PRP$, ?/.]",(ROOT (NP (NP (DT This)) (NP (PRP$ my)) (. ?)))
+61508,"(20,)","It is open , yeah .","[It/PRP, is/VBZ, open/JJ, ,/,, yeah/UH, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ open)) (, ,) (INTJ (UH yeah))) (. .)))"
+61508,"(21,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+61508,"(22,)",Get back on to Classic Gold .,"[Get/VB, back/RB, on/IN, to/TO, Classic/JJ, Gold/NN, ./.]",(ROOT (S (VP (VB Get) (ADVP (RB back)) (PP (IN on) (PP (TO to) (NP (JJ Classic) (NN Gold))))) (. .)))

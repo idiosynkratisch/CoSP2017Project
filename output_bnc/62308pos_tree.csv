@@ -1,0 +1,38 @@
+62308,"(0,)",I fancy some sleepers .,"[I/PRP, fancy/JJ, some/DT, sleepers/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (JJ fancy) (NP (DT some) (NNS sleepers))) (. .)))
+62308,"(1,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+62308,"(2,)","Just some ordinary ones , just to stick in and leave in all the time .","[Just/RB, some/DT, ordinary/JJ, ones/NNS, ,/,, just/RB, to/TO, stick/VB, in/IN, and/CC, leave/VB, in/IN, all/PDT, the/DT, time/NN, ./.]","(ROOT (NP (NP (NP (RB Just) (DT some) (JJ ordinary) (NNS ones)) (, ,) (ADVP (RB just))) (SBAR (S (VP (TO to) (VP (VP (VB stick) (PP (IN in))) (CC and) (VP (VB leave) (PP (IN in) (NP (PDT all) (DT the) (NN time)))))))) (. .)))"
+62308,"(3,)",That 's nice as well Tracy .,"[That/DT, 's/VBZ, nice/JJ, as/RB, well/RB, Tracy/NNP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (JJ nice)) (CONJP (RB as) (RB well)) (NP (NNP Tracy)))) (. .)))
+62308,"(4,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+62308,"(5,)",I like that !,"[I/PRP, like/VBP, that/IN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (ADVP (IN that))) (. !)))
+62308,"(6,)",Int it nice ?,"[Int/VB, it/PRP, nice/JJ, ?/.]",(ROOT (SQ (VP (VB Int) (S (NP (PRP it)) (ADJP (JJ nice)))) (. ?)))
+62308,"(7,)",That 's not,"[That/DT, 's/VBZ, not/RB]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (RB not))))
+62308,"(8,)",Is it nice .,"[Is/VBZ, it/PRP, nice/JJ, ./.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (ADJP (JJ nice)) (. .)))
+62308,"(9, 10)","expensive , but again , it can 't be  real .","[expensive/JJ, ,/,, but/CC, again/RB, ,/,, it/PRP, can/MD, 't/PRP, be/VB, real/JJ, ./.]","(ROOT (S (S (ADJP (ADJP (JJ expensive)) (PRN (, ,) (CC but) (ADVP (RB again))))) (, ,) (NP (PRP it)) (VP (MD can) (NP (PRP 't)) (S (VP (VB be) (ADJP (JJ real))))) (. .)))"
+62308,"(11,)",Look at that bracelet !,"[Look/VB, at/IN, that/DT, bracelet/NN, !/.]",(ROOT (S (VP (VB Look) (PP (IN at) (NP (DT that) (NN bracelet)))) (. !)))
+62308,"(12,)",That three hundred and forty pound one .,"[That/DT, three/CD, hundred/CD, and/CC, forty/CD, pound/NN, one/CD, ./.]",(ROOT (NP (NP (DT That)) (NP (NP (CD three) (CD hundred)) (CC and) (NP (NP (CD forty) (NN pound)) (NP (CD one)))) (. .)))
+62308,"(13,)",Oh that 's nice !,"[Oh/UH, that/DT, 's/VBZ, nice/JJ, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ nice)))) (. !)))
+62308,"(14,)","I quite like that , with that plain gold band .","[I/PRP, quite/RB, like/IN, that/DT, ,/,, with/IN, that/DT, plain/JJ, gold/NN, band/NN, ./.]","(ROOT (S (NP (PRP I)) (ADJP (RB quite) (PP (PP (IN like) (NP (DT that))) (, ,) (PP (IN with) (NP (DT that) (JJ plain) (NN gold) (NN band))))) (. .)))"
+62308,"(15,)",Twenty seven,"[Twenty/CD, seven/CD]",(ROOT (FRAG (NP (CD Twenty) (CD seven))))
+62308,"(16,)",That 's nice !,"[That/DT, 's/VBZ, nice/JJ, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ nice))) (. !)))
+62308,"(17,)",pound   .,"[pound/NN, ./.]",(ROOT (NP (NN pound) (. .)))
+62308,"(18,)",Have they got any earrings ?,"[Have/VB, they/PRP, got/VBD, any/DT, earrings/NNS, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP they)) (VP (VBD got) (NP (DT any) (NNS earrings))))) (. ?)))
+62308,"(19,)",I think I like that brooch !,"[I/PRP, think/VBP, I/PRP, like/IN, that/DT, brooch/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (NP (PRP I)) (PP (IN like) (NP (DT that) (NN brooch)))) (. !)))
+62308,"(20,)",Oh that 's nice isn 't it ?,"[Oh/UH, that/DT, 's/VBZ, nice/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (NP (JJ nice) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it)))))) (. ?)))
+62308,"(21,)",It is nice .,"[It/PRP, is/VBZ, nice/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ nice))) (. .)))
+62308,"(22,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+62308,"(23, 24, 25)","Nothing much , but  oh look at the erm  things with the brooches !","[Nothing/NN, much/RB, ,/,, but/CC, oh/UH, look/VB, at/IN, the/DT, erm/NN, things/NNS, with/IN, the/DT, brooches/NNS, !/.]","(ROOT (S (NP (NP (NN Nothing) (RB much)) (, ,) (PP (CC but) (NP (UH oh)))) (VP (VB look) (PP (IN at) (NP (DT the) (NN erm) (NNS things))) (PP (IN with) (NP (DT the) (NNS brooches)))) (. !)))"
+62308,"(26,)",Oh int it nice !,"[Oh/UH, int/VB, it/PRP, nice/JJ, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (VB int) (S (NP (PRP it)) (ADJP (JJ nice)))) (. !)))
+62308,"(27,)",They 're nice !,"[They/PRP, 're/VBP, nice/JJ, !/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ nice))) (. !)))
+62308,"(28,)",Got ages in .,"[Got/NNP, ages/NNS, in/IN, ./.]",(ROOT (NP (NP (NNP Got) (NNS ages)) (PP (IN in)) (. .)))
+62308,"(29,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+62308,"(30, 31)","That 'd be nice to get  like , for Teresa , cos she never did get a","[That/DT, 'd/MD, be/VB, nice/JJ, to/TO, get/VB, like/IN, ,/,, for/IN, Teresa/NNP, ,/,, cos/NNP, she/PRP, never/RB, did/VBD, get/VB, a/DT]","(ROOT (S (NP (DT That)) (VP (MD 'd) (VP (VB be) (ADJP (JJ nice) (S (VP (TO to) (VP (VB get) (SBAR (IN like) (, ,) (S (PP (IN for) (NP (NNP Teresa) (, ,) (NNP cos))) (NP (PRP she)) (ADVP (RB never)) (VP (VBD did) (VP (VB get) (NP (DT a))))))))))))))"
+62308,"(32,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+62308,"(33,)",pendant did she ?,"[pendant/NN, did/VBD, she/PRP, ?/.]",(ROOT (S (NP (NN pendant)) (VP (VBD did) (NP (PRP she))) (. ?)))
+62308,"(34,)",Nice coloured one .,"[Nice/JJ, coloured/VBN, one/CD, ./.]",(ROOT (S (NP (JJ Nice)) (VP (VBN coloured) (NP (CD one))) (. .)))
+62308,"(35,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+62308,"(36,)","Like to know though , in case it is anything to do with Nigel and then they can get it sorted out .","[Like/IN, to/TO, know/VB, though/RB, ,/,, in/IN, case/NN, it/PRP, is/VBZ, anything/NN, to/TO, do/VB, with/IN, Nigel/NNP, and/CC, then/RB, they/PRP, can/MD, get/VB, it/PRP, sorted/VBD, out/RP, ./.]","(ROOT (S (PP (IN Like) (VP (TO to) (VP (VB know) (ADVP (RB though))))) (, ,) (S (PP (IN in) (NP (NN case))) (NP (PRP it)) (VP (VBZ is) (NP (NN anything) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NNP Nigel))))))))) (CC and) (RB then) (S (NP (PRP they)) (VP (MD can) (VP (VB get) (SBAR (S (NP (PRP it)) (VP (VBD sorted) (PRT (RP out)))))))) (. .)))"
+62308,"(37,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+62308,"(38, 39)","Yeah cos does that stop now , or does it  I mean , is that forever ?","[Yeah/UH, cos/NN, does/VBZ, that/IN, stop/NN, now/RB, ,/,, or/CC, does/VBZ, it/PRP, I/PRP, mean/VBP, ,/,, is/VBZ, that/IN, forever/RB, ?/.]","(ROOT (SQ (S (S (INTJ (UH Yeah)) (NP (NN cos)) (VP (VBZ does) (PP (IN that) (NP (NN stop))) (ADVP (RB now)))) (, ,) (CC or) (S (S (VP (VBZ does) (NP (PRP it)))) (NP (PRP I)) (VP (VBP mean)))) (, ,) (SQ (VBZ is) (ADJP (IN that) (ADVP (RB forever)))) (. ?)))"
+62308,"(40,)",Oh I don 't know .,"[Oh/UH, I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))) (. .)))
+62308,"(41,)",Ha !,"[Ha/NNP, !/.]",(ROOT (FRAG (NP (NNP Ha)) (. !)))
+62308,"(42, 43)",We 'll have to  we 'll have to write to them .,"[We/PRP, 'll/MD, have/VB, to/TO, we/PRP, 'll/MD, have/VB, to/TO, write/VB, to/TO, them/PRP, ./.]",(ROOT (S (NP (PRP We)) (VP (MD 'll) (VP (VB have) (SBAR (TO to) (S (NP (PRP we)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB write) (PP (TO to) (NP (PRP them)))))))))))) (. .)))

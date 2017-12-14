@@ -1,0 +1,32 @@
+11505,"(0,)","Shut up we played the   , you think about all them mother 's   .","[Shut/VBN, up/IN, we/PRP, played/VBD, the/DT, ,/,, you/PRP, think/VBP, about/IN, all/DT, them/PRP, mother/NN, 's/POS, ./.]","(ROOT (S (S (S (VP (VBN Shut) (PP (IN up) (NP (PRP we))))) (VP (VBD played) (NP (DT the)))) (, ,) (NP (PRP you)) (VP (VBP think) (PP (IN about) (NP (NP (DT all) (PRP them)) (NP (NN mother) (POS 's))))) (. .)))"
+11505,"(1,)",Oh   or something .,"[Oh/UH, or/CC, something/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (CC or) (NN something)))) (. .)))
+11505,"(2,)",Big   of them there .,"[Big/NNP, of/IN, them/PRP, there/EX, ./.]",(ROOT (NP (NP (NNP Big)) (PP (IN of) (NP (NP (PRP them)) (SBAR (S (NP (EX there)))))) (. .)))
+11505,"(3,)",  .,[./.],(ROOT (NP (. .)))
+11505,"(4,)","Yeah , who was , who was there   , who was there there though .","[Yeah/UH, ,/,, who/WP, was/VBD, ,/,, who/WP, was/VBD, there/RB, ,/,, who/WP, was/VBD, there/EX, there/EX, though/IN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (WP who)) (VP (VP (VBD was)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VP (VBD was)) (PRN (ADVP (RB there)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD was) (S (NP (EX there)) (NP (EX there))))))) (ADVP (IN though)))))) (. .)))"
+11505,"(5,)",  .,[./.],(ROOT (NP (. .)))
+11505,"(6,)",Who was there there though .,"[Who/WP, was/VBD, there/EX, there/EX, though/IN, ./.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD was) (NP (EX there)) (NP (EX there))) (PP (IN though)) (. .)))
+11505,"(7,)","They reached thirteen nine , cos they 'd two and a half times amount of play .","[They/PRP, reached/VBD, thirteen/CD, nine/CD, ,/,, cos/NN, they/PRP, 'd/MD, two/CD, and/CC, a/DT, half/NN, times/NNS, amount/NN, of/IN, play/NN, ./.]","(ROOT (S (NP (PRP They)) (VP (VBD reached) (NP (NP (CD thirteen) (CD nine)) (, ,) (NP (NP (NN cos)) (SBAR (S (NP (PRP they)) (VP (MD 'd) (VP (NP (NP (QP (CD two) (CC and) (DT a) (NN half)) (NNS times) (NN amount)) (PP (IN of) (NP (NN play))))))))))) (. .)))"
+11505,"(8,)",Who was there   .,"[Who/WP, was/VBD, there/RB, ./.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBD was) (NP (RB there))) (. .)))
+11505,"(9,)","Either that or there , all had there boots   .","[Either/CC, that/DT, or/CC, there/RB, ,/,, all/DT, had/VBD, there/EX, boots/NNS, ./.]","(ROOT (S (CC Either) (NP (NP (DT that)) (CC or) (NP (NP (RB there)) (, ,) (NP (DT all)))) (VP (VBD had) (S (NP (EX there)) (NP (NNS boots)))) (. .)))"
+11505,"(10,)",Charlie loves the   didn 't he ?,"[Charlie/NNP, loves/VBZ, the/DT, didn/NN, 't/PRP, he/PRP, ?/.]",(ROOT (S (NP (NNP Charlie)) (VP (VBZ loves) (S (NP (NP (DT the) (NN didn)) (NP (PRP 't))) (NP (PRP he)))) (. ?)))
+11505,"(11,)","Oh god , I think   fucking Charlie   .","[Oh/UH, god/NNP, ,/,, I/PRP, think/VBP, fucking/VBG, Charlie/NNP, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (NNP god) (, ,)) (VP (ADVP (PRP I)) (VBP think) (S (VP (VBG fucking) (NP (NNP Charlie)))))) (. .)))"
+11505,"(12,)",I rang about half six   .,"[I/PRP, rang/VBD, about/IN, half/DT, six/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD rang) (PP (IN about) (NP (QP (DT half) (CD six))))) (. .)))
+11505,"(13,)",  .,[./.],(ROOT (NP (. .)))
+11505,"(14,)",Making a funny   .,"[Making/VBG, a/DT, funny/JJ, ./.]",(ROOT (S (VP (VBG Making) (NP (DT a) (JJ funny))) (. .)))
+11505,"(15,)","Fucking weren 't ,  .  .","[Fucking/VBG, weren/NN, 't/PRP, ,/,, ./., ./.]","(ROOT (FRAG (PP (VBG Fucking) (NP (NP (NN weren)) (SBAR (S (VP (PRP 't)) (, ,)))) (. .)) (. .)))"
+11505,"(16,)",They might be   .,"[They/PRP, might/MD, be/VB, ./.]",(ROOT (S (NP (PRP They)) (VP (MD might) (VP (VB be))) (. .)))
+11505,"(17,)",It goes   .,"[It/PRP, goes/VBZ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ goes)) (. .)))
+11505,"(18,)",  .,[./.],(ROOT (NP (. .)))
+11505,"(19,)",Wasting my time   .,"[Wasting/VBG, my/PRP$, time/NN, ./.]",(ROOT (S (VP (VBG Wasting) (NP (PRP$ my) (NN time))) (. .)))
+11505,"(20,)", after   .,"[after/IN, ./.]",(ROOT (FRAG (PP (IN after)) (. .)))
+11505,"(21,)","No , it 's not .","[No/DT, ,/,, it/PRP, 's/VBZ, not/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (RB not)) (. .)))"
+11505,"(22,)",  .,[./.],(ROOT (NP (. .)))
+11505,"(23,)",  .,[./.],(ROOT (NP (. .)))
+11505,"(24,)", what other game   I 'll be the one laughing   .,"[what/WDT, other/JJ, game/NN, I/PRP, 'll/MD, be/VB, the/DT, one/CD, laughing/NN, ./.]",(ROOT (FRAG (SBAR (WHNP (WDT what) (JJ other) (NN game)) (S (NP (PRP I)) (VP (MD 'll) (VP (VB be) (NP (DT the) (CD one) (NN laughing)))))) (. .)))
+11505,"(25,)",Morning Chris .,"[Morning/NN, Chris/NNP, ./.]",(ROOT (NP (NP (NN Morning)) (NP (NNP Chris)) (. .)))
+11505,"(26,)","What you doing , gonna do , go one and one after work are ya ?","[What/WP, you/PRP, doing/VBG, ,/,, gonna/NN, do/VBP, ,/,, go/VBP, one/CD, and/CC, one/CD, after/IN, work/NN, are/VBP, ya/PRP, ?/.]","(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBG doing)))) (, ,) (NP (NN gonna)) (VP (VBP do) (, ,) (VBP go) (NP (NP (CD one) (CC and) (CD one)) (SBAR (IN after) (S (NP (NN work)) (VP (VBP are) (NP (PRP ya))))))) (. ?)))"
+11505,"(27,)","  , I 'm only winding him up .","[,/,, I/PRP, 'm/VBP, only/RB, winding/VBG, him/PRP, up/RP, ./.]","(ROOT (PRN (, ,) (S (NP (PRP I)) (VP (VBP 'm) (FRAG (SBAR (RB only) (S (VP (VBG winding) (NP (PRP him)) (PRT (RP up))))) (. .))))))"
+11505,"(28,)","Look boy , you 've never played in an eleven side match before ,  .","[Look/VB, boy/NN, ,/,, you/PRP, 've/VBP, never/RB, played/VBN, in/IN, an/DT, eleven/CD, side/NN, match/NN, before/IN, ,/,, ./.]","(ROOT (S (S (VP (VB Look) (NP (NN boy)))) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (ADVP (RB never)) (VBN played) (PP (IN in) (NP (NP (DT an) (CD eleven) (NN side) (NN match)) (ADVP (IN before)))) (, ,))) (. .)))"
+11505,"(29,)","Yeah , look 's like   .","[Yeah/UH, ,/,, look/NN, 's/POS, like/IN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (NN look)) (VP (POS 's) (PP (IN like))) (. .)))"
+11505,"(30,)",,[],X
+11505,"(31,)",They 've got to stop every five minutes for a   .,"[They/PRP, 've/VBP, got/VBN, to/TO, stop/VB, every/DT, five/CD, minutes/NNS, for/IN, a/DT, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB stop) (NP (NP (DT every) (CD five) (NNS minutes)) (PP (IN for) (NP (DT a))))))))) (. .)))

@@ -1,0 +1,14 @@
+7504,"(0,)",What 's cowboys got ?,"[What/WP, 's/VBZ, cowboys/NNPS, got/VBD, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NNPS cowboys)) (VP (VBD got))) (. ?)))
+7504,"(1,)",What 've they got ?,"[What/WDT, 've/VBP, they/PRP, got/VBD, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBP 've) (NP (PRP they)) (VP (VBD got))) (. ?)))
+7504,"(2,)",What cowboys ?,"[What/WDT, cowboys/NNS, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NNS cowboys)) (. ?)))
+7504,"(3, 4, 5)",Umm  horses and hats  and guns .,"[Umm/NNP, horses/NNS, and/CC, hats/NNS, and/CC, guns/NNS, ./.]",(ROOT (NP (NP (NNP Umm)) (NP (NP (NNS horses)) (CC and) (NP (NNS hats) (CC and) (NNS guns))) (. .)))
+7504,"(6,)",And what guns do ?,"[And/CC, what/WP, guns/NNS, do/VB, ?/.]",(ROOT (SBARQ (CC And) (WHNP (WP what)) (SQ (NP (NNS guns)) (VP (VB do))) (. ?)))
+7504,"(7,)","Well guns are very , very nasty .","[Well/RB, guns/NNS, are/VBP, very/RB, ,/,, very/RB, nasty/JJ, ./.]","(ROOT (S (ADVP (RB Well)) (NP (NNS guns)) (VP (VBP are) (ADJP (RB very) (, ,) (RB very) (JJ nasty))) (. .)))"
+7504,"(8,)",They go peeow peeow .,"[They/PRP, go/VBP, peeow/JJ, peeow/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP go) (NP (JJ peeow) (NN peeow))) (. .)))
+7504,"(9,)",Peel peel   .,"[Peel/NNP, peel/NNP, ./.]",(ROOT (NP (NNP Peel) (NNP peel) (. .)))
+7504,"(10,)",They say ,"[They/PRP, say/VBP]",(ROOT (S (NP (PRP They)) (VP (VBP say))))
+7504,"(11,)",Do they ?,"[Do/VB, they/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP they))) (. ?)))
+7504,"(12,)",and they come out with the gun .,"[and/CC, they/PRP, come/VBP, out/RP, with/IN, the/DT, gun/NN, ./.]",(ROOT (S (CC and) (NP (PRP they)) (VP (VBP come) (PRT (RP out)) (PP (IN with) (NP (DT the) (NN gun)))) (. .)))
+7504,"(13,)","Look , they 're on the horses now .","[Look/VB, ,/,, they/PRP, 're/VBP, on/IN, the/DT, horses/NNS, now/RB, ./.]","(ROOT (S (S (VP (VB Look))) (, ,) (NP (PRP they)) (VP (VBP 're) (PP (IN on) (NP (DT the) (NNS horses))) (ADVP (RB now))) (. .)))"
+7504,"(14,)",Where they going now mum .,"[Where/WRB, they/PRP, going/VBG, now/RB, mum/NN, ./.]",(ROOT (SBARQ (WHADVP (WRB Where)) (S (NP (PRP they)) (VP (VBG going) (ADVP (RB now)) (NP (NN mum)))) (. .)))
+7504,"(15,)",They 're going to find all the cows .,"[They/PRP, 're/VBP, going/VBG, to/TO, find/VB, all/PDT, the/DT, cows/NNS, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB find) (NP (PDT all) (DT the) (NNS cows))))))) (. .)))

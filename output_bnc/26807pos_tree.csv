@@ -1,0 +1,21 @@
+26807,"(0,)",Can I bring these back ?,"[Can/MD, I/PRP, bring/VB, these/DT, back/RB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB bring) (NP (DT these)) (ADVP (RB back))) (. ?)))
+26807,"(1,)",I bought them yesterday !,"[I/PRP, bought/VBD, them/PRP, yesterday/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD bought) (NP (PRP them)) (NP (NN yesterday))) (. !)))
+26807,"(2,)",,[],X
+26807,"(3,)",All three of them !,"[All/DT, three/CD, of/IN, them/PRP, !/.]",(ROOT (NP (NP (QP (DT All) (CD three))) (PP (IN of) (NP (PRP them))) (. !)))
+26807,"(4,)","They 're all ,urgh !","[They/PRP, 're/VBP, all/DT, ,urgh/NN, !/.]","(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (DT all) (NN ,urgh))) (. !)))"
+26807,"(5,)",,[],X
+26807,"(6,)",Please .,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
+26807,"(7,)",Alright love ?,"[Alright/JJ, love/NN, ?/.]",(ROOT (NP (JJ Alright) (NN love) (. ?)))
+26807,"(8,)",  .,[./.],(ROOT (NP (. .)))
+26807,"(9,)",Okay ?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
+26807,"(10,)","Yeah , thanks !","[Yeah/UH, ,/,, thanks/NNS, !/.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NNS thanks)) (. !)))"
+26807,"(11,)",Ta !,"[Ta/NNP, !/.]",(ROOT (FRAG (NP (NNP Ta)) (. !)))
+26807,"(12,)",,[],X
+26807,"(13,)",Do you sell ham ?,"[Do/VB, you/PRP, sell/VB, ham/NN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB sell) (NP (NN ham))))) (. ?)))
+26807,"(14,)",Linda !,"[Linda/NNP, !/.]",(ROOT (FRAG (NP (NNP Linda)) (. !)))
+26807,"(15,)",Sorry !,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))
+26807,"(16,)",Sorry !,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))
+26807,"(17,)",Yeah !,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
+26807,"(18,)",,[],X
+26807,"(19,)",Okay !,"[Okay/UH, !/.]",(ROOT (INTJ (UH Okay) (. !)))
+26807,"(20,)", Mm mm mm mm   .,"[Mm/NN, mm/NN, mm/NN, mm/NN, ./.]",(ROOT (FRAG (NP (NN Mm) (NN mm) (NN mm) (NN mm)) (. .)))

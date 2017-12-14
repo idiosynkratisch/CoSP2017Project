@@ -1,0 +1,56 @@
+13102,"(0,)","Yeah , I 'll have it in a minute I 'm all glued up at the moment .","[Yeah/UH, ,/,, I/PRP, 'll/MD, have/VB, it/PRP, in/IN, a/DT, minute/NN, I/PRP, 'm/VBP, all/DT, glued/VBN, up/RP, at/IN, the/DT, moment/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (PRP it)) (PP (IN in) (NP (NP (DT a) (NN minute)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (DT all)) (VP (VBN glued) (PRT (RP up)) (PP (IN at) (NP (DT the) (NN moment))))))))))) (. .)))"
+13102,"(1,)",,[],X
+13102,"(2,)",,[],X
+13102,"(3,)",,[],X
+13102,"(4,)",He had a  ,"[He/PRP, had/VBD, a/DT]",(ROOT (S (NP (PRP He)) (VP (VBD had) (NP (DT a)))))
+13102,"(5,)"," luck ah ? ,","[luck/NN, ah/NN, ?/., ,/,]","(ROOT (FRAG (PP (NN luck) (NP (NN ah)) (. ?)) (, ,)))"
+13102,"(6,)",Two black eyes,"[Two/CD, black/JJ, eyes/NNS]",(ROOT (NP (NP (CD Two)) (NP (JJ black) (NNS eyes))))
+13102,"(7,)",,[],X
+13102,"(8,)","two black eyes , a broken nose , dislocated jaw and sore bollocks","[two/CD, black/JJ, eyes/NNS, ,/,, a/DT, broken/JJ, nose/NN, ,/,, dislocated/VBN, jaw/NN, and/CC, sore/JJ, bollocks/NNPS]","(ROOT (FRAG (NP (NP (CD two) (JJ black) (NNS eyes)) (, ,) (NP (NP (DT a) (JJ broken) (NN nose)) (, ,) (VP (VBN dislocated) (NP (NP (NN jaw)) (CC and) (NP (JJ sore) (NNPS bollocks))))))))"
+13102,"(9,)",,[],X
+13102,"(10,)",,[],X
+13102,"(11,)","Yeah , but he was with the coach and all that ","[Yeah/UH, ,/,, but/CC, he/PRP, was/VBD, with/IN, the/DT, coach/NN, and/CC, all/PDT, that/DT]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (CC but)) (ADVP (PRP he)) (VP (VBD was) (PP (IN with) (NP (NP (DT the) (NN coach)) (CC and) (NP (PDT all) (DT that)))))))"
+13102,"(12,)",Take you home,"[Take/VB, you/PRP, home/NN]",(ROOT (S (VP (VB Take) (NP (PRP you)) (NP (NN home)))))
+13102,"(13,)",,[],X
+13102,"(14,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+13102,"(15,)",Oh  ,[Oh/UH],(ROOT (INTJ (UH Oh)))
+13102,"(16,)",Oh Mark,"[Oh/UH, Mark/NNP]",(ROOT (INTJ (UH Oh) (NNP Mark)))
+13102,"(17,)","Oh , see you ain 't ","[Oh/UH, ,/,, see/VB, you/PRP, ain/FW, 't/PRP]","(ROOT (S (INTJ (UH Oh)) (, ,) (VP (VB see) (S (NP (PRP you)) (NP (FW ain)))) (PRP 't)))"
+13102,"(18,)",,[],X
+13102,"(19,)",,[],X
+13102,"(20,)","Na , give it a stir ","[Na/TO, ,/,, give/VB, it/PRP, a/DT, stir/VBP]","(ROOT (S (VP (VP (TO Na)) (, ,) (VP (VB give) (SBAR (S (NP (PRP it) (DT a)) (VP (VBP stir))))))))"
+13102,"(21,)",,[],X
+13102,"(22,)",Cos I 'm a generous kind of person,"[Cos/NNP, I/PRP, 'm/VBP, a/DT, generous/JJ, kind/NN, of/IN, person/NN]",(ROOT (FRAG (NP (NP (NNP Cos)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a) (JJ generous) (NN kind)) (PP (IN of) (NP (NN person))))))))))
+13102,"(23,)",I was gonna have it anyway .,"[I/PRP, was/VBD, gonna/NNP, have/VB, it/PRP, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB have) (NP (PRP it)) (ADVP (RB anyway))))) (. .)))
+13102,"(24,)","  , I was ","[,/,, I/PRP, was/VBD]","(ROOT (PRN (, ,) (S (NP (PRP I)) (VP (VBD was)))))"
+13102,"(25,)",I thought ,"[I/PRP, thought/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD thought))))
+13102,"(26,)",,[],X
+13102,"(27,)","Is it ,","[Is/VBZ, it/PRP, ,/,]","(ROOT (FRAG (PP (VBZ Is) (NP (PRP it))) (, ,)))"
+13102,"(28,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+13102,"(29,)",,[],X
+13102,"(30,)","Na ,","[Na/TO, ,/,]","(ROOT (FRAG (PP (TO Na)) (, ,)))"
+13102,"(31,)",What time is it ?,"[What/WDT, time/NN, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+13102,"(32,)",Chelsea .,"[Chelsea/NNP, ./.]",(ROOT (FRAG (NP (NNP Chelsea)) (. .)))
+13102,"(33,)","Two , twenty eight .","[Two/CD, ,/,, twenty/CD, eight/CD, ./.]","(ROOT (FRAG (NP (CD Two)) (, ,) (NP (CD twenty) (CD eight)) (. .)))"
+13102,"(34,)","Two , twenty eight .","[Two/CD, ,/,, twenty/CD, eight/CD, ./.]","(ROOT (FRAG (NP (CD Two)) (, ,) (NP (CD twenty) (CD eight)) (. .)))"
+13102,"(35,)",,[],X
+13102,"(36,)","twenty nine , something like that .","[twenty/CD, nine/CD, ,/,, something/NN, like/IN, that/DT, ./.]","(ROOT (NP (NP (CD twenty) (CD nine)) (, ,) (NP (NP (NN something)) (PP (IN like) (NP (DT that)))) (. .)))"
+13102,"(37,)",Stew we get erm,"[Stew/NN, we/PRP, get/VBP, erm/NN]",(ROOT (FRAG (NP (NP (NN Stew)) (SBAR (S (NP (PRP we)) (VP (VBP get) (NP (NN erm))))))))
+13102,"(38,)", what the fuck am I doing this,"[what/WP, the/DT, fuck/NN, am/VBP, I/PRP, doing/VBG, this/DT]",(ROOT (SBARQ (WHNP (WHNP (WP what)) (NP (DT the) (NN fuck))) (SQ (VBP am) (NP (PRP I)) (VP (VBG doing) (NP (DT this))))))
+13102,"(39,)",I 've got two twenty nine ,"[I/PRP, 've/VBP, got/VBD, two/CD, twenty/CD, nine/CD]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CD twenty)) (NP (CD nine))))))
+13102,"(40,)",,[],X
+13102,"(41,)",,[],X
+13102,"(42,)",Ah ? ,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
+13102,"(43,)","What 's the story of this not   stuff , are they ","[What/WP, 's/VBZ, the/DT, story/NN, of/IN, this/DT, not/RB, stuff/NN, ,/,, are/VBP, they/PRP]","(ROOT (SINV (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT the) (NN story)) (PP (IN of) (NP (DT this) (RB not) (NN stuff) (, ,)))))) (VP (VBP are)) (NP (PRP they))))"
+13102,"(44, 45)",Probably  ,[Probably/RB],(ROOT (ADVP (RB Probably)))
+13102,"(46,)",You can 't beat Liverpool,"[You/PRP, can/MD, 't/PRP, beat/VB, Liverpool/NNP]",(ROOT (S (NP (PRP You)) (VP (MD can) (NP (PRP 't)) (S (VP (VB beat) (NP (NNP Liverpool)))))))
+13102,"(47,)",Do what ?,"[Do/VB, what/WP, ?/.]",(ROOT (S (VP (VB Do) (FRAG (SBARQ (WHNP (WP what)) (. ?))))))
+13102,"(48,)",,[],X
+13102,"(49,)","Fuck Liverpool , better than you 'll ever  ","[Fuck/NN, Liverpool/NNP, ,/,, better/JJR, than/IN, you/PRP, 'll/MD, ever/RB]","(ROOT (FRAG (NP (NP (NN Fuck) (NNP Liverpool)) (, ,) (ADJP (JJR better))) (SBAR (IN than) (S (NP (PRP you)) (VP (MD 'll) (ADVP (RB ever)))))))"
+13102,"(50,)",Come on you Liverpool,"[Come/VB, on/IN, you/PRP, Liverpool/NNP]",(ROOT (SINV (VP (VB Come) (PP (IN on) (NP (PRP you)))) (NP (NNP Liverpool))))
+13102,"(51,)",,[],X
+13102,"(52,)",Really great   ,"[Really/RB, great/JJ]",(ROOT (ADJP (RB Really) (JJ great)))
+13102,"(53,)",I 've got a self  ,"[I/PRP, 've/VBP, got/VBD, a/DT, self/NN]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN self))))))
+13102,"(54,)",Ah got another   ,"[Ah/NN, got/VBD, another/DT]",(ROOT (S (NP (NN Ah)) (VP (VBD got) (NP (DT another)))))
+13102,"(55,)", Always look on the bright side of life     .,"[Always/RB, look/VB, on/IN, the/DT, bright/JJ, side/NN, of/IN, life/NN, ./.]",(ROOT (S (ADVP (RB Always)) (VP (VB look) (PP (IN on) (NP (NP (DT the) (JJ bright) (NN side)) (PP (IN of) (NP (NN life)))))) (. .)))
+13102,"(56,)",Give the old   up there   the old   .,"[Give/VB, the/DT, old/JJ, up/IN, there/EX, the/DT, old/JJ, ./.]",(ROOT (S (VP (VB Give) (NP (DT the) (ADJP (JJ old) (PP (IN up) (NP (EX there)))) (NP (DT the) (JJ old)))) (. .)))

@@ -1,0 +1,14 @@
+35707,"(0,)",Matt ?,"[Matt/NNP, ?/.]",(ROOT (FRAG (NP (NNP Matt)) (. ?)))
+35707,"(1,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+35707,"(2,)",Would you say there was anything wrong with   ?,"[Would/MD, you/PRP, say/VB, there/EX, was/VBD, anything/NN, wrong/JJ, with/IN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB say) (SBAR (S (NP (EX there)) (VP (VBD was) (ADJP (NN anything) (JJ wrong) (PP (IN with))))))) (. ?)))
+35707,"(3,)",Ha ?,"[Ha/NNP, ?/.]",(ROOT (FRAG (NP (NNP Ha)) (. ?)))
+35707,"(4,)",I don 't mind .,"[I/PRP, don/VBP, 't/PRP, mind/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB mind)))) (. .)))
+35707,"(5,)","Aye , they must be the same   .","[Aye/NNP, ,/,, they/PRP, must/MD, be/VB, the/DT, same/JJ, ./.]","(ROOT (S (NP (NNP Aye)) (, ,) (NP (PRP they)) (VP (MD must) (VP (VB be) (NP (DT the) (JJ same)))) (. .)))"
+35707,"(6,)",I was only having a joke !,"[I/PRP, was/VBD, only/RB, having/VBG, a/DT, joke/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (ADVP (RB only)) (VBG having) (NP (DT a) (NN joke)))) (. !)))
+35707,"(7,)",I 'm sorry I opened my mouth !,"[I/PRP, 'm/VBP, sorry/JJ, I/PRP, opened/VBD, my/PRP$, mouth/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry) (SBAR (S (NP (PRP I)) (VP (VBD opened) (NP (PRP$ my) (NN mouth))))))) (. !)))
+35707,"(8,)",Oh that 's fine .    .,"[Oh/UH, that/DT, 's/VBZ, fine/NN, ./., ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (FRAG (INTJ (NN fine) (. .))))) (. .)))
+35707,"(9,)",Well we 're getting there .,"[Well/RB, we/PRP, 're/VBP, getting/VBG, there/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP we)) (VP (VBP 're) (VP (VBG getting) (ADVP (RB there)))) (. .)))
+35707,"(10,)",Pardon ?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+35707,"(11,)",,[],X
+35707,"(12,)",I 'm gonna go and watch the telly !,"[I/PRP, 'm/VBP, gonna/NN, go/VB, and/CC, watch/VB, the/DT, telly/NNP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NN gonna)) (VP (VB go) (CC and) (VB watch) (NP (DT the) (NNP telly))))) (. !)))
+35707,"(13,)",Ooh ooh ooh !,"[Ooh/NNP, ooh/NNP, ooh/NNP, !/.]",(ROOT (NP (NNP Ooh) (NNP ooh) (NNP ooh) (. !)))

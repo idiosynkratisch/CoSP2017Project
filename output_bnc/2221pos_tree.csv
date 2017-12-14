@@ -1,0 +1,6 @@
+2221,"(0,)","Whose purse is that one , it isn 't Susan 's is it ?","[Whose/WP$, purse/NN, is/VBZ, that/IN, one/CD, ,/,, it/PRP, isn/VBD, 't/PRP, Susan/NNP, 's/POS, is/VBZ, it/PRP, ?/.]","(ROOT (S (SBAR (WHNP (WP$ Whose) (NN purse)) (S (VP (VBZ is) (ADVP (IN that) (NP (CD one)))))) (, ,) (NP (PRP it)) (VP (VBD isn) (NP (PRP 't)) (SBAR (S (NP (NNP Susan) (POS 's)) (VP (VBZ is) (NP (PRP it)))))) (. ?)))"
+2221,"(1,)","No , that 's mine .","[No/DT, ,/,, that/DT, 's/VBZ, mine/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NN mine))) (. .)))"
+2221,"(2,)","Containers , spare tapes .","[Containers/NNS, ,/,, spare/JJ, tapes/NNS, ./.]","(ROOT (NP (NP (NNS Containers)) (, ,) (NP (JJ spare) (NNS tapes)) (. .)))"
+2221,"(3,)",Quite costly doing that ?,"[Quite/RB, costly/JJ, doing/VBG, that/IN, ?/.]",(ROOT (NP (NP (RB Quite) (JJ costly)) (VP (VBG doing) (IN that)) (. ?)))
+2221,"(4,)",Yes indeed .,"[Yes/UH, indeed/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (RB indeed)))) (. .)))
+2221,"(5,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))

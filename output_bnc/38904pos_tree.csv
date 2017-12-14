@@ -1,0 +1,6 @@
+38904,"(0,)",But is he   ?,"[But/CC, is/VBZ, he/PRP, ?/.]",(ROOT (SBARQ (CC But) (SQ (VBZ is) (NP (PRP he))) (. ?)))
+38904,"(1, 2)",Yeah  but the top two went through you see .,"[Yeah/UH, but/CC, the/DT, top/JJ, two/CD, went/VBD, through/IN, you/PRP, see/VBP, ./.]",(ROOT (S (S (UCP (FRAG (INTJ (UH Yeah))) (CC but) (SBAR (X (DT the) (ADJP (JJ top))) (S (NP (CD two)) (VP (VBD went) (PP (IN through) (NP (PRP you)))))))) (VP (VBP see)) (. .)))
+38904,"(3,)",Oh I see .,"[Oh/UH, I/PRP, see/VBP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (. .)))
+38904,"(4,)",You see ?,"[You/PRP, see/VB, ?/.]",(ROOT (S (NP (PRP You)) (VP (VB see)) (. ?)))
+38904,"(5,)",Oh yes !,"[Oh/UH, yes/UH, !/.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. !)))
+38904,"(6, 7)","I must know how , I 've been looking at  at the   .","[I/PRP, must/MD, know/VB, how/WRB, ,/,, I/PRP, 've/VBP, been/VBN, looking/VBG, at/IN, at/IN, the/DT, ./.]","(ROOT (S (NP (PRP I)) (VP (MD must) (VP (VB know) (SBAR (WHADVP (WRB how)) (, ,) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG looking) (PP (IN at) (NP (QP (IN at) (DT the))))))))))) (. .)))"

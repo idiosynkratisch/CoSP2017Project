@@ -1,0 +1,44 @@
+6902,"(0,)",Mhm I like giants .,"[Mhm/NNP, I/NNP, like/IN, giants/NNPS, ./.]",(ROOT (NP (NP (NNP Mhm) (NNP I)) (PP (IN like) (NP (NNPS giants))) (. .)))
+6902,"(1,)",Giants ?,"[Giants/NNPS, ?/.]",(ROOT (FRAG (WHNP (NNPS Giants)) (. ?)))
+6902,"(2,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+6902,"(3,)",Th- they 're knives .,"[Th-/IN, they/PRP, 're/VBP, knives/NNS, ./.]",(ROOT (FRAG (SBAR (IN Th-) (S (NP (PRP they)) (VP (VBP 're) (NP (NNS knives))))) (. .)))
+6902,"(4,)",They 're what ?,"[They/PRP, 're/VBP, what/WP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (WP what))) (. ?)))
+6902,"(5,)",They 're knives .,"[They/PRP, 're/VBP, knives/NNS, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NNS knives))) (. .)))
+6902,"(6,)",Knives ?,"[Knives/NNS, ?/.]",(ROOT (NP (NNS Knives) (. ?)))
+6902,"(7,)",Knifes .,"[Knifes/NNS, ./.]",(ROOT (NP (NNS Knifes) (. .)))
+6902,"(8,)",A knife .,"[A/DT, knife/NN, ./.]",(ROOT (NP (DT A) (NN knife) (. .)))
+6902,"(9,)","And th- , they cut theirselves .","[And/CC, th-/NN, ,/,, they/PRP, cut/VBD, theirselves/NNS, ./.]","(ROOT (S (CC And) (NP (NN th-)) (, ,) (NP (PRP they)) (VP (VBD cut) (NP (NNS theirselves))) (. .)))"
+6902,"(10,)",They cut ,"[They/PRP, cut/VBD]",(ROOT (S (NP (PRP They)) (VP (VBD cut))))
+6902,"(11,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+6902,"(12,)",Oh what 's the giant got ?,"[Oh/UH, what/WP, 's/VBZ, the/DT, giant/JJ, got/VBN, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (WP what)) (VP (VBZ 's) (NP (NP (DT the) (JJ giant)) (VP (VBN got))))) (. ?)))
+6902,"(13,)",The giant .,"[The/DT, giant/NN, ./.]",(ROOT (NP (DT The) (NN giant) (. .)))
+6902,"(14,)",With a tee at the end .,"[With/IN, a/DT, tee/NN, at/IN, the/DT, end/NN, ./.]",(ROOT (FRAG (PP (IN With) (NP (NP (DT a) (NN tee)) (PP (IN at) (NP (DT the) (NN end))))) (. .)))
+6902,"(15,)",Well what 's he got ?,"[Well/RB, what/WP, 's/VBZ, he/PRP, got/VBD, ?/.]",(ROOT (SBARQ (WHADJP (RB Well) (WP what)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got))) (. ?)))
+6902,"(16,)",What 's he got .,"[What/WP, 's/VBZ, he/PRP, got/VBD, ./.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got))) (. .)))
+6902,"(17,)",What 's he got in his hand ?,"[What/WP, 's/VBZ, he/PRP, got/VBD, in/IN, his/PRP$, hand/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got) (PP (IN in) (NP (PRP$ his) (NN hand))))) (. ?)))
+6902,"(18,)",I don 't know .,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+6902,"(19,)",He 's got a sword .,"[He/PRP, 's/VBZ, got/VBD, a/DT, sword/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (NN sword)))) (. .)))
+6902,"(20,)",A sword ?,"[A/DT, sword/NN, ?/.]",(ROOT (NP (DT A) (NN sword) (. ?)))
+6902,"(21,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+6902,"(22,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+6902,"(23,)","Right , stand up .","[Right/NN, ,/,, stand/VB, up/RP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VB stand) (PRT (RP up))) (. .)))"
+6902,"(24,)",,[],X
+6902,"(25,)","Left , right .","[Left/VBN, ,/,, right/RB, ./.]","(ROOT (NP (NP (NP (VBN Left)) (, ,) (NP (RB right))) (. .)))"
+6902,"(26,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+6902,"(27,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+6902,"(28,)",Put your coat on .,"[Put/VB, your/PRP$, coat/NN, on/IN, ./.]",(ROOT (S (VP (VB Put) (NP (PRP$ your) (NN coat)) (PP (IN on))) (. .)))
+6902,"(29,)",,[],X
+6902,"(30,)",,[],X
+6902,"(31,)", are you ?,"[are/VBP, you/PRP, ?/.]",(ROOT (S (VP (VBP are) (NP (PRP you))) (. ?)))
+6902,"(32,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+6902,"(33,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+6902,"(34,)",,[],X
+6902,"(35,)","No , you can 't wear that going out .","[No/DT, ,/,, you/PRP, can/MD, 't/PRP, wear/VB, that/DT, going/VBG, out/RP, ./.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP you)) (VP (MD can)))) (NP (PRP 't)) (VP (VB wear) (NP (NP (DT that)) (VP (VBG going) (PRT (RP out))))) (. .)))"
+6902,"(36,)",Please .,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
+6902,"(37,)","You can 't darling , don 't you start being angry .","[You/PRP, can/MD, 't/PRP, darling/NN, ,/,, don/NNP, 't/PRP, you/PRP, start/VBP, being/VBG, angry/JJ, ./.]","(ROOT (S (NP (PRP You)) (VP (MD can) (VP (NP (PRP 't)) (NP (NP (NN darling)) (, ,) (NP (NNP don))) (S (NP (NP (PRP 't)) (SBAR (S (NP (PRP you)) (VP (VBP start) (S (VP (VBG being) (ADJP (JJ angry))))))))))) (. .)))"
+6902,"(38,)","Right , hold this , hold this .","[Right/NN, ,/,, hold/VBP, this/DT, ,/,, hold/VB, this/DT, ./.]","(ROOT (S (NP (NP (NN Right)) (, ,) (VP (VBP hold) (NP (DT this))) (, ,)) (VP (VB hold) (NP (DT this))) (. .)))"
+6902,"(39,)","And stop showing off , no , no , no , no , no .","[And/CC, stop/VB, showing/VBG, off/RP, ,/,, no/DT, ,/,, no/DT, ,/,, no/DT, ,/,, no/DT, ,/,, no/DT, ./.]","(ROOT (S (CC And) (VP (VP (VB stop) (S (VP (VBG showing) (PRT (RP off))))) (, ,) (NP (NP (NP (ADJP (DT no) (PRN (, ,) (ADVP (DT no)) (, ,))) (DT no)) (, ,) (NP (DT no)) (, ,)) (ADVP (DT no)))) (. .)))"
+6902,"(40,)",Don 't want it .,"[Don/NNP, 't/PRP, want/VBP, it/PRP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP want) (NP (PRP it))) (. .)))
+6902,"(41,)",Well don 't have it then .,"[Well/RB, don/NNP, 't/PRP, have/VBP, it/PRP, then/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (NNP don) (PRP 't)) (VP (VBP have) (NP (PRP it)) (NP (RB then))) (. .)))
+6902,"(42,)","Please , please it 's mine .","[Please/UH, ,/,, please/VB, it/PRP, 's/VBZ, mine/NN, ./.]","(ROOT (S (INTJ (UH Please)) (, ,) (VP (VB please) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NN mine)))))) (. .)))"
+6902,"(43,)",Alright well have it then .,"[Alright/NNP, well/RB, have/VBP, it/PRP, then/RB, ./.]",(ROOT (S (NP (NNP Alright)) (ADVP (RB well)) (VP (VBP have) (NP (PRP it)) (NP (RB then))) (. .)))

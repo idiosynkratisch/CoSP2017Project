@@ -1,0 +1,43 @@
+39607,"(0,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+39607,"(1,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+39607,"(2,)",Very,[Very/RB],(ROOT (ADVP (RB Very)))
+39607,"(3,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+39607,"(4,)",handy to know !,"[handy/JJ, to/TO, know/VB, !/.]",(ROOT (ADJP (JJ handy) (S (VP (TO to) (VP (VB know)))) (. !)))
+39607,"(5, 6, 7, 8)",Did he need a bit of help with his  I mean a lot of them did   made them that sort of I just found a lot of was so  so  behind and so,"[Did/VBD, he/PRP, need/VB, a/DT, bit/NN, of/IN, help/NN, with/IN, his/PRP$, I/PRP, mean/VBP, a/DT, lot/NN, of/IN, them/PRP, did/VBD, made/VBN, them/PRP, that/IN, sort/NN, of/IN, I/PRP, just/RB, found/VBD, a/DT, lot/NN, of/IN, was/VBD, so/RB, so/RB, behind/IN, and/CC, so/IN]",(ROOT (SINV (VP (VBD Did) (S (NP (PRP he)) (VP (VB need) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NP (NN help)) (PP (IN with) (NP (PRP$ his))))) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (PRP them)))) (VP (VBD did) (VP (VBN made)))))))))))) (NP (PRP them)) (SBAR (IN that) (S (NP (NP (NN sort)) (PP (IN of) (NP (PRP I)))) (ADVP (RB just)) (VP (VBD found) (SBAR (S (NP (NP (DT a) (NN lot)) (PP (IN of))) (VP (VBD was) (ADVP (RB so) (RB so)) (ADVP (IN behind) (CC and) (IN so))))))))))
+39607,"(9,)","I- it 's i-  , I 'm","[I-/NN, it/PRP, 's/VBZ, i-/JJ, ,/,, I/PRP, 'm/VBP]","(ROOT (S (S (NP (NP (NN I-)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ i-))))))) (, ,) (NP (PRP I)) (VP (VBP 'm))))"
+39607,"(10,)",,[],X
+39607,"(11,)","terribly sad that it happens , but it shouldn 't happen , you see !","[terribly/RB, sad/JJ, that/IN, it/PRP, happens/VBZ, ,/,, but/CC, it/PRP, shouldn/VBD, 't/PRP, happen/VB, ,/,, you/PRP, see/VBP, !/.]","(ROOT (S (S (ADJP (ADJP (RB terribly) (JJ sad)) (SBAR (IN that) (S (S (NP (PRP it)) (VP (VBZ happens))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBD shouldn) (S (NP (PRP 't)) (VP (VB happen))))))))) (, ,) (NP (PRP you)) (VP (VBP see)) (. !)))"
+39607,"(12,)","And the thing is I found , also , it was  ","[And/CC, the/DT, thing/NN, is/VBZ, I/PRP, found/VBD, ,/,, also/RB, ,/,, it/PRP, was/VBD]","(ROOT (S (CC And) (NP (DT the) (NN thing)) (VP (VBZ is) (SBAR (S (NP (PRP I)) (VP (VBD found) (, ,) (ADVP (RB also)) (, ,) (SBAR (S (NP (PRP it)) (VP (VBD was))))))))))"
+39607,"(13,)",Ge- da- bo- to- to-,"[Ge-/NN, da-/NN, bo-/NN, to-/NN, to-/NN]",(ROOT (FRAG (NP (NN Ge-)) (NP (NN da-) (NN bo-) (NN to-) (NN to-))))
+39607,"(14,)",what what I found,"[what/WDT, what/WP, I/PRP, found/VBD]",(ROOT (FRAG (WHNP (WDT what)) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD found))))))
+39607,"(15,)",serve this dear lady !,"[serve/VB, this/DT, dear/RB, lady/NN, !/.]",(ROOT (S (VP (VB serve) (NP (DT this) (ADJP (RB dear)) (NN lady))) (. !)))
+39607,"(16,)",,[],X
+39607,"(17,)","What is the   , tomorrow will do !","[What/WP, is/VBZ, the/DT, ,/,, tomorrow/NN, will/MD, do/VB, !/.]","(ROOT (S (SBAR (WHNP (WP What)) (S (VP (VBZ is) (NP (DT the))))) (, ,) (NP (NN tomorrow)) (VP (MD will) (VP (VB do))) (. !)))"
+39607,"(18, 19)","It 's the wrong , it 's wrong you see it makes  no discipline and the staff","[It/PRP, 's/VBZ, the/DT, wrong/JJ, ,/,, it/PRP, 's/VBZ, wrong/JJ, you/PRP, see/VBP, it/PRP, makes/VBZ, no/DT, discipline/NN, and/CC, the/DT, staff/NN]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (JJ wrong)) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ wrong) (SBAR (S (NP (PRP you)) (VP (VBP see) (SBAR (S (NP (PRP it)) (VP (VBZ makes) (NP (NP (DT no) (NN discipline)) (CC and) (NP (DT the) (NN staff)))))))))))))))))"
+39607,"(20,)",Er er,"[Er/NN, er/NN]",(ROOT (NP (NN Er) (NN er)))
+39607,"(21,)",just bringing you work then !,"[just/RB, bringing/VBG, you/PRP, work/VBP, then/RB, !/.]",(ROOT (S (S (VP (ADVP (RB just)) (VBG bringing) (NP (PRP you)))) (VP (VBP work) (ADVP (RB then))) (. !)))
+39607,"(22,)",They should of had   .,"[They/PRP, should/MD, of/IN, had/VBN, ./.]",(ROOT (S (NP (PRP They)) (VP (MD should) (PP (IN of)) (VP (VBN had))) (. .)))
+39607,"(23,)",Now that 's sixty one isn 't it ?,"[Now/RB, that/DT, 's/VBZ, sixty/CD, one/CD, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (ADVP (RB Now)) (NP (DT that)) (VP (VBZ 's) (NP (NP (CD sixty) (CD one) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+39607,"(24,)",Yes my dear !,"[Yes/UH, my/PRP$, dear/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (PRP$ my) (NNP dear)))) (. !)))
+39607,"(25,)","  , much better ?","[,/,, much/RB, better/JJR, ?/.]","(ROOT (SQ (, ,) (NP (RB much)) (ADJP (JJR better)) (. ?)))"
+39607,"(26,)",Oh,[Oh/UH],(ROOT (INTJ (UH Oh)))
+39607,"(27,)",twenty,[twenty/CD],(ROOT (FRAG (NP (CD twenty))))
+39607,"(28,)",she 's alright thank you .,"[she/PRP, 's/VBZ, alright/JJ, thank/VB, you/PRP, ./.]",(ROOT (S (NP (PRP she)) (VP (VBZ 's) (ADJP (JJ alright)) (S (VP (VB thank) (NP (PRP you))))) (. .)))
+39607,"(29,)",Well I   .,"[Well/RB, I/PRP, ./.]",(ROOT (FRAG (ADVP (RB Well)) (NP (PRP I)) (. .)))
+39607,"(30,)",Oh right !,"[Oh/UH, right/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. !)))
+39607,"(31,)",Yeah they say oh yes she 's alright !,"[Yeah/UH, they/PRP, say/VBP, oh/UH, yes/UH, she/PRP, 's/VBZ, alright/JJ, !/.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP they)) (VP (VBP say) (VP (FRAG (INTJ (UH oh) (UH yes)))))) (NP (PRP she)) (VP (VBZ 's) (ADJP (JJ alright))) (. !)))
+39607,"(32,)",Alright !,"[Alright/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Alright)) (. !)))
+39607,"(33,)","Yeah , cos it 's usually a Friday , they do mess me about !","[Yeah/UH, ,/,, cos/NN, it/PRP, 's/VBZ, usually/RB, a/DT, Friday/NNP, ,/,, they/PRP, do/VBP, mess/NN, me/PRP, about/IN, !/.]","(ROOT (S (S (FRAG (INTJ (UH Yeah)) (, ,) (NP (NN cos))) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB usually)) (NP (DT a) (NNP Friday)))) (, ,) (NP (PRP they)) (VP (VBP do) (S (NP (NN mess)) (NP (PRP me))) (PP (IN about))) (. !)))"
+39607,"(34,)",It 's not right is it ?,"[It/PRP, 's/VBZ, not/RB, right/JJ, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADJP (JJ right) (SBAR (S (VP (VBZ is) (NP (PRP it))))))) (. ?)))
+39607,"(35,)",Course it isn 't !,"[Course/NN, it/PRP, isn/VBD, 't/PRP, !/.]",(ROOT (FRAG (ADJP (NN Course)) (S (NP (PRP it)) (VP (VBD isn) (NP (PRP 't)))) (. !)))
+39607,"(36,)",We 'll have to complain,"[We/PRP, 'll/MD, have/VB, to/TO, complain/VB]",(ROOT (S (NP (PRP We)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB complain))))))))
+39607,"(37,)",Is it ?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
+39607,"(38,)",to the management !,"[to/TO, the/DT, management/NN, !/.]",(ROOT (FRAG (PP (TO to) (NP (DT the) (NN management))) (. !)))
+39607,"(39,)"," Fifty , sixty one   !","[Fifty/CD, ,/,, sixty/CD, one/CD, !/.]","(ROOT (FRAG (NP (CD Fifty)) (, ,) (NP (CD sixty) (CD one)) (. !)))"
+39607,"(40,)",Thank you dear .,"[Thank/VB, you/PRP, dear/RB, ./.]",(ROOT (S (VP (VB Thank) (S (NP (PRP you)) (ADJP (RB dear)))) (. .)))
+39607,"(41,)",Oh well it 's nearly pay day we 'll see isn 't it ?,"[Oh/UH, well/RB, it/PRP, 's/VBZ, nearly/RB, pay/VB, day/NN, we/PRP, 'll/MD, see/VB, isn/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (RB well) (PRP it)) (VP (VBZ 's) (VP (ADVP (RB nearly)) (VB pay) (NP (NN day))))) (NP (PRP we)) (VP (MD 'll) (VP (VB see) (S (NP (NNP isn) (PRP 't)) (NP (PRP it))))) (. ?)))
+39607,"(42,)",,[],X
+39607,"(43,)",,[],X
+39607,"(44,)",,[],X
+39607,"(45,)",Thank you love .,"[Thank/VB, you/PRP, love/VBP, ./.]",(ROOT (S (VP (VB Thank) (SBAR (S (NP (PRP you)) (VP (VBP love))))) (. .)))
+39607,"(46,)",oh I shan 't,"[oh/UH, I/PRP, shan/VBP, 't/PRP]",(ROOT (SINV (FRAG (INTJ (UH oh))) (VP (ADVP (PRP I)) (VBP shan)) (NP (PRP 't))))

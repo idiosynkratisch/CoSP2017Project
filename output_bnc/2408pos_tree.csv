@@ -1,0 +1,8 @@
+2408,"(0,)",Please don 't burn the paintwork .,"[Please/VB, don/NNP, 't/PRP, burn/VBP, the/DT, paintwork/NN, ./.]",(ROOT (S (VP (VB Please) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP burn) (NP (DT the) (NN paintwork))))))) (. .)))
+2408,"(1,)",I won 't .,"[I/PRP, won/VBD, 't/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD won) (NP (PRP 't))) (. .)))
+2408,"(2,)",Incidently,[Incidently/RB],(ROOT (ADVP (RB Incidently)))
+2408,"(3,)",Sorry .,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
+2408,"(4,)","incidently it 's not a good idea to leave the double glazing bit swinging , erm , or , or the other one .","[incidently/RB, it/PRP, 's/VBZ, not/RB, a/DT, good/JJ, idea/NN, to/TO, leave/VB, the/DT, double/JJ, glazing/NN, bit/NN, swinging/NN, ,/,, erm/NN, ,/,, or/CC, ,/,, or/CC, the/DT, other/JJ, one/CD, ./.]","(ROOT (S (ADVP (RB incidently)) (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (DT a) (JJ good) (NN idea) (S (VP (TO to) (VP (VB leave) (NP (NP (NP (DT the) (JJ double) (NN glazing) (NN bit) (NN swinging)) (, ,) (NP (NN erm)) (, ,)) (CC or) (, ,) (CC or) (NP (DT the) (JJ other) (CD one)))))))) (. .)))"
+2408,"(5, 6, 7)",The other one come  come  come crashing through the double glazing .,"[The/DT, other/JJ, one/CD, come/VBN, come/VBN, come/VBN, crashing/VBG, through/IN, the/DT, double/JJ, glazing/NN, ./.]",(ROOT (NP (NP (NP (DT The) (JJ other) (CD one)) (VP (VBN come) (S (VP (VBN come))))) (VP (VBN come) (S (VP (VBG crashing) (PP (IN through) (NP (DT the) (JJ double) (NN glazing)))))) (. .)))
+2408,"(8,)",,[],X
+2408,"(9,)","Yes , exactly .","[Yes/UH, ,/,, exactly/RB, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (ADVP (RB exactly)) (. .)))"

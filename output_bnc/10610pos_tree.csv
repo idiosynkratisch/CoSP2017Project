@@ -1,0 +1,2 @@
+10610,"(0,)",There we go .,"[There/EX, we/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
+10610,"(1,)",You haven 't got it tucked in,"[You/PRP, haven/NN, 't/PRP, got/VBD, it/PRP, tucked/VBD, in/IN]",(ROOT (S (NP (PRP You)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD got) (SBAR (S (NP (PRP it)) (VP (VBD tucked) (PP (IN in)))))))))))

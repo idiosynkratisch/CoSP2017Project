@@ -1,0 +1,16 @@
+55601,"(0,)","You alright babe , yeah ?","[You/PRP, alright/JJ, babe/NNP, ,/,, yeah/UH, ?/.]","(ROOT (NP (NP (NP (PRP You)) (VP (PP (JJ alright) (NP (NNP babe))) (, ,) (NP (UH yeah)))) (. ?)))"
+55601,"(1,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+55601,"(2,)", put in the car .,"[put/VBN, in/IN, the/DT, car/NN, ./.]",(ROOT (S (VP (VBN put) (PP (IN in) (NP (DT the) (NN car)))) (. .)))
+55601,"(3,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+55601,"(4,)",,[],X
+55601,"(5,)", to work .,"[to/TO, work/VB, ./.]",(ROOT (S (VP (TO to) (VP (VB work))) (. .)))
+55601,"(6,)", work ?,"[work/VB, ?/.]",(ROOT (SQ (VP (VB work)) (. ?)))
+55601,"(7,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+55601,"(8,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+55601,"(9,)", have one piece of   ?,"[have/VB, one/CD, piece/NN, of/IN, ?/.]",(ROOT (SQ (VP (VB have) (NP (NP (CD one) (NN piece)) (PP (IN of)))) (. ?)))
+55601,"(10,)",Two pieces .,"[Two/CD, pieces/NNS, ./.]",(ROOT (NP (CD Two) (NNS pieces) (. .)))
+55601,"(11,)",It 's whole babe .,"[It/PRP, 's/VBZ, whole/JJ, babe/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ whole) (NNP babe))) (. .)))
+55601,"(12,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+55601,"(13,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+55601,"(14,)",Need a   to do it .,"[Need/VB, a/DT, to/TO, do/VB, it/PRP, ./.]",(ROOT (S (VP (VB Need) (S (NP (DT a)) (VP (TO to) (VP (VB do) (NP (PRP it)))))) (. .)))
+55601,"(15,)",,[],X

@@ -1,0 +1,9 @@
+46205,"(0,)","Good dog Patch , good dog .","[Good/JJ, dog/NN, Patch/NN, ,/,, good/JJ, dog/NN, ./.]","(ROOT (NP (NP (JJ Good) (NN dog) (NN Patch)) (, ,) (NP (JJ good) (NN dog)) (. .)))"
+46205,"(1, 2)",Raymond  Raymond,"[Raymond/NNP, Raymond/NNP]",(ROOT (NP (NNP Raymond) (NNP Raymond)))
+46205,"(3,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+46205,"(4,)",Come on and get your breakfast .,"[Come/VB, on/IN, and/CC, get/VB, your/PRP$, breakfast/NN, ./.]",(ROOT (S (VP (VP (VB Come) (PP (IN on))) (CC and) (VP (VB get) (NP (PRP$ your) (NN breakfast)))) (. .)))
+46205,"(5,)",Hurry up .,"[Hurry/VB, up/RP, ./.]",(ROOT (S (VP (VB Hurry) (PRT (RP up))) (. .)))
+46205,"(6,)",Oh no !,"[Oh/UH, no/DT, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. !)))
+46205,"(7, 8)", Patch get out of there .,"[Patch/NNP, get/VB, out/IN, of/IN, there/RB, ./.]",(ROOT (S (NP (NNP Patch)) (VP (VB get) (PRT (IN out)) (PP (IN of) (NP (RB there)))) (. .)))
+46205,"(9, 10)",Patch  stop eating that .,"[Patch/NNP, stop/NNP, eating/VBG, that/DT, ./.]",(ROOT (NP (NP (NNP Patch) (NNP stop)) (VP (VBG eating) (NP (DT that))) (. .)))
+46205,"(11,)",Lovely .,"[Lovely/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. .)))

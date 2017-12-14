@@ -1,0 +1,33 @@
+33304,"(0,)",Butter please thank,"[Butter/NN, please/VB, thank/VB]",(ROOT (FRAG (NP (NN Butter)) (VP (VB please) (VP (VB thank)))))
+33304,"(1,)",Mam ?,"[Mam/NNP, ?/.]",(ROOT (FRAG (NP (NNP Mam)) (. ?)))
+33304,"(2,)",you ?,"[you/PRP, ?/.]",(ROOT (FRAG (NP (PRP you)) (. ?)))
+33304,"(3, 4)","Thank you , and I think the only other thing I need is erm  you haven 't a small caster sugar have you ?","[Thank/VB, you/PRP, ,/,, and/CC, I/PRP, think/VBP, the/DT, only/RB, other/JJ, thing/NN, I/PRP, need/VBP, is/VBZ, erm/NN, you/PRP, haven/NN, 't/PRP, a/DT, small/JJ, caster/NN, sugar/NN, have/VBP, you/PRP, ?/.]","(ROOT (S (S (VP (VB Thank) (NP (PRP you)))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP think) (NP (NP (DT the) (RB only) (JJ other) (NN thing)) (SBAR (S (NP (PRP I)) (VP (VBP need) (SBAR (S (VP (VBZ is) (NP (NP (NN erm)) (SBAR (S (NP (PRP you)) (VP (NN haven) (NP (NP (PRP 't)) (SBAR (S (NP (DT a) (JJ small) (NN caster) (NN sugar)) (VP (VBP have) (NP (PRP you))))))))))))))))))) (. ?)))"
+33304,"(5,)","No , only that big","[No/DT, ,/,, only/RB, that/IN, big/JJ]","(ROOT (NP (NP (DT No)) (PRN (, ,) (ADVP (RB only)) (ADVP (IN that)) (ADJP (JJ big)))))"
+33304,"(6,)","Just the one we-  , er , I 'll take that one then","[Just/RB, the/DT, one/CD, we-/NN, ,/,, er/NN, ,/,, I/PRP, 'll/MD, take/VB, that/DT, one/CD, then/RB]","(ROOT (FRAG (ADVP (RB Just)) (NP (NP (DT the) (CD one) (NN we-)) (, ,) (NP (NN er)) (, ,) (NP (NP (PRP I)) (SBAR (S (VP (MD 'll) (VP (VB take) (NP (DT that) (CD one)) (ADVP (RB then))))))))))"
+33304,"(7,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+33304,"(8,)",thank you .,"[thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB thank) (NP (PRP you))) (. .)))
+33304,"(9,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+33304,"(10, 11)",And unless I 'm being stupid I think that 's  really all I need this morning .,"[And/CC, unless/IN, I/PRP, 'm/VBP, being/VBG, stupid/JJ, I/PRP, think/VBP, that/DT, 's/VBZ, really/RB, all/DT, I/PRP, need/VBP, this/DT, morning/NN, ./.]",(ROOT (S (CC And) (SBAR (IN unless) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG being) (ADJP (JJ stupid)))))) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB really)) (NP (NP (DT all)) (SBAR (S (NP (PRP I)) (VP (VBP need) (NP (DT this) (NN morning)))))))))) (. .)))
+33304,"(12,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+33304,"(13,)",I 've got veg .,"[I/PRP, 've/VBP, got/VBN, veg/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NN veg)))) (. .)))
+33304,"(14,)",One eighty two .,"[One/CD, eighty/CD, two/CD, ./.]",(ROOT (FRAG (NP (CD One)) (NP (CD eighty) (CD two)) (. .)))
+33304,"(15,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+33304,"(16,)","Say it again for me , Pam ?","[Say/VB, it/PRP, again/RB, for/IN, me/PRP, ,/,, Pam/NNS, ?/.]","(ROOT (SQ (VP (VB Say) (NP (PRP it)) (ADVP (RB again)) (PP (IN for) (NP (NP (PRP me)) (, ,) (NP (NNS Pam))))) (. ?)))"
+33304,"(17,)",One eighty two .,"[One/CD, eighty/CD, two/CD, ./.]",(ROOT (FRAG (NP (CD One)) (NP (CD eighty) (CD two)) (. .)))
+33304,"(18,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+33304,"(19,)","I haven 't got the two is that alri-  , are you alright for change ?","[I/PRP, haven/NN, 't/PRP, got/VBD, the/DT, two/CD, is/VBZ, that/IN, alri-/NN, ,/,, are/VBP, you/PRP, alright/JJ, for/IN, change/NN, ?/.]","(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD got) (SBAR (S (NP (DT the) (CD two)) (VP (VBZ is) (SBARQ (SBAR (IN that) (FRAG (NP (NN alri-)))) (, ,) (SQ (VBP are) (NP (PRP you)) (ADJP (JJ alright) (PP (IN for) (NP (NN change))))) (. ?)))))))))))"
+33304,"(20,)","Yes , yes .","[Yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH yes) (. .))))"
+33304,"(21,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+33304,"(22,)",Thanks very much .,"[Thanks/NNS, very/RB, much/RB, ./.]",(ROOT (FRAG (ADVP (NP (NNS Thanks)) (RB very)) (NP (RB much)) (. .)))
+33304,"(23,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+33304,"(24,)",Thanks very much .,"[Thanks/NNS, very/RB, much/RB, ./.]",(ROOT (FRAG (ADVP (NP (NNS Thanks)) (RB very)) (NP (RB much)) (. .)))
+33304,"(25,)","Lovely , thank you .","[Lovely/JJ, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (NP (JJ Lovely)) (, ,) (VP (VB thank) (NP (PRP you))) (. .)))"
+33304,"(26,)",I 'm glad you 're keeping your door shut because really,"[I/PRP, 'm/VBP, glad/JJ, you/PRP, 're/VBP, keeping/VBG, your/PRP$, door/NN, shut/VBD, because/IN, really/RB]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ glad) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (VBG keeping) (SBAR (S (NP (PRP$ your) (NN door)) (VP (VBD shut) (PP (IN because) (ADVP (RB really))))))))))))))
+33304,"(27,)",It 's a bitter wind today,"[It/PRP, 's/VBZ, a/DT, bitter/JJ, wind/NN, today/NN]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ bitter) (NN wind) (NN today)))))
+33304,"(28,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+33304,"(29,)",isn 't it ?,"[isn/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (NNP isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
+33304,"(30,)","Terrific wind today , yes it is !","[Terrific/JJ, wind/NN, today/NN, ,/,, yes/UH, it/PRP, is/VBZ, !/.]","(ROOT (S (S (NP (NP (JJ Terrific) (NN wind)) (NP (NN today)))) (, ,) (S (INTJ (UH yes)) (NP (PRP it)) (VP (VBZ is))) (. !)))"
+33304,"(31,)","Yes , it is !","[Yes/UH, ,/,, it/PRP, is/VBZ, !/.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP it)) (VP (VBZ is)) (. !)))"
+33304,"(32,)",Bye bye just now !,"[Bye/NNP, bye/NNP, just/RB, now/RB, !/.]",(ROOT (FRAG (NP (NNP Bye) (NNP bye)) (ADVP (RB just) (RB now)) (. !)))
+33304,"(33,)","Thank you , bye bye !","[Thank/VB, you/PRP, ,/,, bye/NNP, bye/NNP, !/.]","(ROOT (S (VP (VB Thank) (NP (PRP you))) (, ,) (NP (NNP bye) (NNP bye)) (. !)))"
+33304,"(34,)",Sorry !,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))

@@ -1,0 +1,15 @@
+61504,"(0,)",Haven 't I got some bread that 's open ?,"[Haven/NNP, 't/PRP, I/PRP, got/VBD, some/DT, bread/NN, that/WDT, 's/VBZ, open/JJ, ?/.]",(ROOT (S (NP (NNP Haven) (PRP 't)) (NP (PRP I)) (VP (VBD got) (NP (NP (DT some) (NN bread)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ open))))))) (. ?)))
+61504,"(1,)",That 's a new one that int it ?,"[That/DT, 's/VBZ, a/DT, new/JJ, one/CD, that/WDT, int/VBP, it/PRP, ?/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT a) (JJ new) (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBP int) (NP (PRP it))))))) (. ?)))
+61504,"(2,)",Is it ?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
+61504,"(3,)",I dunno .,"[I/PRP, dunno/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP dunno)) (. .)))
+61504,"(4,)","It is , yeah .","[It/PRP, is/VBZ, ,/,, yeah/UH, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ is) (, ,) (NP (UH yeah))) (. .)))"
+61504,"(5,)",,[],X
+61504,"(6,)", La la la la la,"[La/NNP, la/NNP, la/NNP, la/NNP, la/NNP]",(ROOT (NP (NNP La) (NNP la) (NNP la) (NNP la) (NNP la)))
+61504,"(7,)",,[],X
+61504,"(8,)",la la  .,"[la/NNP, la/NNP, ./.]",(ROOT (NP (NNP la) (NNP la) (. .)))
+61504,"(9,)",There 's snooker on .,"[There/EX, 's/VBZ, snooker/NN, on/IN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NN snooker)) (PP (IN on))) (. .)))
+61504,"(10,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+61504,"(11,)",The damn snooker 's on !,"[The/DT, damn/NN, snooker/NN, 's/POS, on/IN, !/.]",(ROOT (NP (NP (DT The) (NN damn)) (NP (NP (NN snooker) (POS 's)) (PP (IN on))) (. !)))
+61504,"(12,)",Snooker ?,"[Snooker/NNP, ?/.]",(ROOT (FRAG (NP (NNP Snooker)) (. ?)))
+61504,"(13,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+61504,"(14,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

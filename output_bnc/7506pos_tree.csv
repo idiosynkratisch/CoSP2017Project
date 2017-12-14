@@ -1,0 +1,7 @@
+7506,"(0,)",Mum where 's my painting ?,"[Mum/NN, where/WRB, 's/POS, my/PRP$, painting/NN, ?/.]",(ROOT (NP (NP (NN Mum)) (NP (NP (WRB where) (POS 's)) (NP (PRP$ my) (NN painting))) (. ?)))
+7506,"(1,)",I put it away darling I thought you 'd finished .,"[I/PRP, put/VBP, it/PRP, away/RB, darling/NN, I/PRP, thought/VBD, you/PRP, 'd/MD, finished/VBN, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP put) (NP (PRP it)) (PP (RB away) (NP (NN darling))))) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VBN finished)))))) (. .)))
+7506,"(2,)",You can do some painting when you go to nursery can 't you ?,"[You/PRP, can/MD, do/VB, some/DT, painting/NN, when/WRB, you/PRP, go/VBP, to/TO, nursery/NN, can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP You)) (VP (MD can) (VP (VB do) (NP (DT some) (NN painting)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP go) (PP (TO to) (NP (NN nursery))))))))) (VP (MD can)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
+7506,"(3,)", go to nursery .,"[go/VB, to/TO, nursery/NN, ./.]",(ROOT (S (VP (VB go) (PP (TO to) (NP (NN nursery)))) (. .)))
+7506,"(4,)","Don 't pull your jumper darling , please .","[Don/NNP, 't/PRP, pull/VB, your/PRP$, jumper/NN, darling/NN, ,/,, please/UH, ./.]","(ROOT (S (S (NP (NNP Don) (PRP 't)) (VP (VB pull) (NP (PRP$ your) (NN jumper) (NN darling)))) (, ,) (FRAG (INTJ (UH please))) (. .)))"
+7506,"(5,)",,[],X
+7506,"(6,)",,[],X

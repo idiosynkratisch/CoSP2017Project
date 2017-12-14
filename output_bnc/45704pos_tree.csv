@@ -1,0 +1,8 @@
+45704,"(0, 1)",Are you going down to John 's tomorrow  or Friday ?,"[Are/VBP, you/PRP, going/VBG, down/RB, to/TO, John/NNP, 's/POS, tomorrow/NN, or/CC, Friday/NNP, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (UCP (ADVP (RB down) (PP (TO to) (NP (NP (NNP John) (POS 's)) (NN tomorrow)))) (CC or) (NP (NNP Friday)))) (. ?)))
+45704,"(2,)",Friday .,"[Friday/NNP, ./.]",(ROOT (FRAG (NP (NNP Friday)) (. .)))
+45704,"(3,)",I told him Friday .,"[I/PRP, told/VBD, him/PRP, Friday/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (PRP him)) (NP (NNP Friday))) (. .)))
+45704,"(4, 5)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+45704,"(6,)",Say no .,"[Say/VB, no/DT, ./.]",(ROOT (S (VP (VB Say) (NP (DT no))) (. .)))
+45704,"(7,)",I think I can .,"[I/PRP, think/VBP, I/PRP, can/MD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (MD can))))) (. .)))
+45704,"(8,)",She 'll just stay .,"[She/PRP, 'll/MD, just/RB, stay/VB, ./.]",(ROOT (S (NP (PRP She)) (VP (MD 'll) (ADVP (RB just)) (VP (VB stay))) (. .)))
+45704,"(9,)","Is she very happy , Jan ?","[Is/VBZ, she/PRP, very/RB, happy/JJ, ,/,, Jan/NNP, ?/.]","(ROOT (SQ (VBZ Is) (NP (PRP she)) (NP (NP (RB very) (JJ happy)) (, ,) (NP (NNP Jan))) (. ?)))"

@@ -1,0 +1,12 @@
+912,"(0,)",Oh I think I might just put some petrol in over there .,"[Oh/UH, I/PRP, think/VBP, I/PRP, might/MD, just/RB, put/VB, some/DT, petrol/NN, in/IN, over/IN, there/RB, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP think))) (NP (PRP I)) (VP (MD might) (ADVP (RB just)) (VP (VB put) (NP (DT some) (NN petrol)) (PP (IN in) (PP (IN over) (NP (RB there)))))) (. .)))
+912,"(1, 2)",Look like they 've  got an offer on .,"[Look/VB, like/IN, they/PRP, 've/VBP, got/VBD, an/DT, offer/NN, on/IN, ./.]",(ROOT (S (VP (VB Look) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP 've) (VP (VBD got) (NP (DT an) (NN offer)) (PP (IN on))))))) (. .)))
+912,"(3,)",,[],X
+912,"(4,)", Monday Wednesday or Friday   .,"[Monday/NNP, Wednesday/NNP, or/CC, Friday/NNP, ./.]",(ROOT (NP (NNP Monday) (NNP Wednesday) (CC or) (NNP Friday) (. .)))
+912,"(5,)",Bloody hell .,"[Bloody/JJ, hell/NN, ./.]",(ROOT (NP (JJ Bloody) (NN hell) (. .)))
+912,"(6,)",Is Tesco 's still open ?,"[Is/VBZ, Tesco/NNP, 's/POS, still/RB, open/VB, ?/.]",(ROOT (S (VP (VBZ Is) (S (NP (NNP Tesco) (POS 's)) (VP (RB still) (VP (VB open))))) (. ?)))
+912,"(7,)",,[],X
+912,"(8,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+912,"(9,)",No idea .,"[No/DT, idea/NN, ./.]",(ROOT (NP (DT No) (NN idea) (. .)))
+912,"(10,)",No they open on a Sunday ,"[No/DT, they/PRP, open/VBP, on/IN, a/DT, Sunday/NNP]",(ROOT (S (NP (DT No) (PRP they)) (VP (VBP open) (PP (IN on) (NP (DT a) (NNP Sunday))))))
+912,"(11,)",Sorry ?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
+912,"(12,)",I know they open on a Sunday now .,"[I/PRP, know/VBP, they/PRP, open/VB, on/IN, a/DT, Sunday/NNP, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (S (NP (PRP they)) (VP (VB open) (PP (IN on) (NP (DT a) (NNP Sunday))) (ADVP (RB now))))) (. .)))

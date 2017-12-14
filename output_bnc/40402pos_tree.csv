@@ -1,0 +1,49 @@
+40402,"(0,)","It 's alright look , in that light !","[It/PRP, 's/VBZ, alright/JJ, look/NN, ,/,, in/IN, that/DT, light/NN, !/.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ alright) (NN look)) (, ,) (PP (IN in) (NP (DT that) (NN light)))) (. !)))"
+40402,"(1,)",It doesn 't !,"[It/PRP, doesn/VBD, 't/PRP, !/.]",(ROOT (S (NP (PRP It)) (VP (VBD doesn) (NP (PRP 't))) (. !)))
+40402,"(2,)",Yes it is !,"[Yes/UH, it/PRP, is/VBZ, !/.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ is))) (. !)))
+40402,"(3, 4, 5)",It 's alright in that light  as soon as I put it on the line  it looks peculiar !,"[It/PRP, 's/VBZ, alright/JJ, in/IN, that/DT, light/NN, as/RB, soon/RB, as/IN, I/PRP, put/VBP, it/PRP, on/IN, the/DT, line/NN, it/PRP, looks/VBZ, peculiar/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright)) (PP (IN in) (NP (DT that) (NN light))) (ADVP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP put) (NP (PRP it)) (PP (IN on) (NP (NP (DT the) (NN line)) (SBAR (S (NP (PRP it)) (VP (VBZ looks) (ADJP (JJ peculiar)))))))))))) (. !)))
+40402,"(6,)","It 's alright in this light , look !","[It/PRP, 's/VBZ, alright/JJ, in/IN, this/DT, light/NN, ,/,, look/VB, !/.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright)) (PP (IN in) (NP (DT this) (NN light))) (, ,) (S (VP (VB look)))) (. !)))"
+40402,"(7,)",No it 's not !,"[No/DT, it/PRP, 's/VBZ, not/RB, !/.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (RB not)) (. !)))
+40402,"(8,)",Look at it !,"[Look/VB, at/IN, it/PRP, !/.]",(ROOT (S (VP (VB Look) (PP (IN at) (NP (PRP it)))) (. !)))
+40402,"(9,)",It 's completely ruined !,"[It/PRP, 's/VBZ, completely/RB, ruined/VBN, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB completely) (VBN ruined))) (. !)))
+40402,"(10,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+40402,"(11,)",God I haven 't got many bloody skirts or anything !,"[God/NNP, I/NNP, haven/NNP, 't/PRP, got/VBD, many/JJ, bloody/JJ, skirts/NNP, or/CC, anything/NN, !/.]",(ROOT (S (NP (NNP God) (NNP I) (NNP haven)) (NP (PRP 't)) (VP (VBD got) (NP (NP (JJ many) (JJ bloody) (NNP skirts)) (CC or) (NP (NN anything)))) (. !)))
+40402,"(12, 13)",Well I don 't understand what it is  don 't know why you really needed it !,"[Well/RB, I/PRP, don/VBP, 't/PRP, understand/VB, what/WP, it/PRP, is/VBZ, don/NNP, 't/PRP, know/VBP, why/WRB, you/PRP, really/RB, needed/VBD, it/PRP, !/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB understand) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP know) (SBAR (WHADVP (WRB why)) (S (NP (PRP you)) (ADVP (RB really)) (VP (VBD needed) (NP (PRP it))))))))))))))) (. !)))
+40402,"(14,)",You didn 't have a tissue up it did you ?,"[You/PRP, didn/VBP, 't/PRP, have/VB, a/DT, tissue/NN, up/IN, it/PRP, did/VBD, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB have) (NP (NP (DT a) (NN tissue)) (ADVP (IN up)) (SBAR (S (NP (PRP it)) (VP (VBD did) (NP (PRP you))))))))) (. ?)))
+40402,"(15,)",No !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+40402,"(16,)",You had a tissue up that !,"[You/PRP, had/VBD, a/DT, tissue/NN, up/IN, that/DT, !/.]",(ROOT (S (NP (PRP You)) (VP (VBD had) (NP (DT a) (NN tissue)) (ADVP (IN up) (DT that))) (. !)))
+40402,"(17,)",No !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+40402,"(18,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+40402,"(19,)","You had a tissue up it , in there !","[You/PRP, had/VBD, a/DT, tissue/NN, up/IN, it/PRP, ,/,, in/IN, there/EX, !/.]","(ROOT (S (NP (PRP You)) (VP (VBD had) (NP (NP (DT a) (NN tissue)) (PP (IN up) (NP (PRP it)))) (, ,) (PP (IN in) (NP (EX there)))) (. !)))"
+40402,"(20,)",In the sleeve .,"[In/IN, the/DT, sleeve/NN, ./.]",(ROOT (FRAG (PP (IN In) (NP (DT the) (NN sleeve))) (. .)))
+40402,"(21,)",That 's what it is !,"[That/DT, 's/VBZ, what/WP, it/PRP, is/VBZ, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is))))) (. !)))
+40402,"(22,)",It 's a tissue .,"[It/PRP, 's/VBZ, a/DT, tissue/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN tissue))) (. .)))
+40402,"(23,)",Look !,"[Look/VB, !/.]",(ROOT (S (VP (VB Look)) (. !)))
+40402,"(24,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+40402,"(25,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+40402,"(26,)","What a , blast !","[What/WP, a/DT, ,/,, blast/NN, !/.]","(ROOT (NP (NP (WP What)) (NP (NP (DT a)) (, ,) (NP (NN blast))) (. !)))"
+40402,"(27,)",There .,"[There/EX, ./.]",(ROOT (S (VP (EX There)) (. .)))
+40402,"(28,)",Cos you do agree with me it is ?,"[Cos/NNP, you/PRP, do/VBP, agree/VB, with/IN, me/PRP, it/PRP, is/VBZ, ?/.]",(ROOT (S (NP (NNP Cos)) (PRN (S (NP (PRP you)) (VP (VBP do) (VP (VB agree) (PP (IN with) (NP (PRP me))))))) (NP (PRP it)) (VP (VBZ is)) (. ?)))
+40402,"(29,)",I suppose it means buying you one now doesn 't it ?,"[I/PRP, suppose/VBP, it/PRP, means/VBZ, buying/VBG, you/PRP, one/CD, now/RB, doesn/VBP, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP it)) (VP (VBZ means) (S (VP (VBG buying) (SBAR (S (NP (PRP you)) (ADVP (NP (CD one)) (RB now)) (VP (VBP doesn) (S (NP (PRP 't)) (NP (PRP it)))))))))))) (. ?)))
+40402,"(30,)", yeah .,"[yeah/UH, ./.]",(ROOT (INTJ (UH yeah) (. .)))
+40402,"(31,)",I told you when you emptied the pockets  ,"[I/PRP, told/VBD, you/PRP, when/WRB, you/PRP, emptied/VBD, the/DT, pockets/NNS]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (PRP you)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBD emptied) (NP (DT the) (NNS pockets))))))))
+40402,"(32,)",Yes mum !,"[Yes/UH, mum/FW, !/.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (FW mum)))) (. !)))
+40402,"(33,)",to   there .,"[to/TO, there/RB, ./.]",(ROOT (FRAG (PP (TO to) (NP (RB there))) (. .)))
+40402,"(34,)",But that isn 't pockets !,"[But/CC, that/DT, isn/NN, 't/PRP, pockets/NNS, !/.]",(ROOT (FRAG (CC But) (NP (NP (DT that) (NN isn)) (NP (NP (PRP 't)) (NNS pockets))) (. !)))
+40402,"(35,)",It 's the sleeve .,"[It/PRP, 's/VBZ, the/DT, sleeve/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT the) (NN sleeve))) (. .)))
+40402,"(36,)","Yeah , but I get the bla- bloody blame for it then !","[Yeah/UH, ,/,, but/CC, I/PRP, get/VBP, the/DT, bla-/JJ, bloody/JJ, blame/NN, for/IN, it/PRP, then/RB, !/.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (CC but)) (NP (PRP I)) (VP (VBP get) (NP (NP (DT the) (JJ bla-) (JJ bloody) (NN blame)) (PP (IN for) (NP (PRP it)))) (ADVP (RB then))) (. !)))"
+40402,"(37,)",And I get the nightmare !,"[And/CC, I/PRP, get/VBP, the/DT, nightmare/NN, !/.]",(ROOT (S (CC And) (NP (PRP I)) (VP (VBP get) (NP (DT the) (NN nightmare))) (. !)))
+40402,"(38,)",Come on !,"[Come/VB, on/IN, !/.]",(ROOT (S (VP (VB Come) (PP (IN on))) (. !)))
+40402,"(39,)","Well you know , look !","[Well/RB, you/PRP, know/VBP, ,/,, look/VBP, !/.]","(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VP (VBP know)) (, ,) (VP (VBP look))) (. !)))"
+40402,"(40,)",Well I,"[Well/RB, I/PRP]",(ROOT (FRAG (ADVP (RB Well)) (NP (PRP I))))
+40402,"(41,)",And that 's the only sweatshirt I 've got !,"[And/CC, that/DT, 's/VBZ, the/DT, only/JJ, sweatshirt/NN, I/PRP, 've/VBP, got/VBN, !/.]",(ROOT (S (CC And) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the) (JJ only) (NN sweatshirt)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got))))))) (. !)))
+40402,"(42,)",Look !,"[Look/VB, !/.]",(ROOT (S (VP (VB Look)) (. !)))
+40402,"(43,)",Haven 't got any jumpers !,"[Haven/NNP, 't/PRP, got/VBD, any/DT, jumpers/NNS, !/.]",(ROOT (S (NP (NNP Haven) (PRP 't)) (VP (VBD got) (NP (DT any) (NNS jumpers))) (. !)))
+40402,"(44,)","The tissue , look what you 've done to it !","[The/DT, tissue/NN, ,/,, look/VB, what/WP, you/PRP, 've/VBP, done/VBN, to/TO, it/PRP, !/.]","(ROOT (S (NP (DT The) (NN tissue)) (, ,) (VP (VB look) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN done) (PP (TO to) (NP (PRP it)))))))) (. !)))"
+40402,"(45,)",I know what I 've done to it !,"[I/PRP, know/VBP, what/WP, I/PRP, 've/VBP, done/VBN, to/TO, it/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (PP (TO to) (NP (PRP it)))))))) (. !)))
+40402,"(46,)","I 've got one jumper , one sweatshirt !","[I/PRP, 've/VBP, got/VBD, one/CD, jumper/NN, ,/,, one/CD, sweatshirt/NN, !/.]","(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (CD one) (NN jumper)) (, ,) (NP (CD one) (NN sweatshirt))))) (. !)))"
+40402,"(47,)",I 'll get it off if you 'll shut up !,"[I/PRP, 'll/MD, get/VB, it/PRP, off/RP, if/IN, you/PRP, 'll/MD, shut/VB, up/RP, !/.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB get) (NP (PRP it)) (ADVP (RP off)) (SBAR (IN if) (S (NP (PRP you)) (VP (MD 'll) (VP (VB shut) (PRT (RP up)))))))) (. !)))
+40402,"(48,)",Well !,"[Well/RB, !/.]",(ROOT (FRAG (ADVP (RB Well)) (. !)))
+40402,"(49,)","Well , it 's your bloody fault !","[Well/RB, ,/,, it/PRP, 's/VBZ, your/PRP$, bloody/JJ, fault/NN, !/.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (PRP$ your) (JJ bloody) (NN fault))) (. !)))"
+40402,"(50,)",Is it ?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
+40402,"(51, 52, 53)",And I get the  what have you done to  you know I 'm not very good at bloody washing anyway !,"[And/CC, I/PRP, get/VBP, the/DT, what/WDT, have/VBP, you/PRP, done/VBN, to/TO, you/PRP, know/VBP, I/PRP, 'm/VBP, not/RB, very/RB, good/JJ, at/IN, bloody/JJ, washing/VBG, anyway/RB, !/.]",(ROOT (S (CC And) (NP (PRP I)) (VP (VBP get) (SBAR (S (NP (NP (DT the)) (SBAR (WHNP (WDT what)) (S (VP (VBP have) (S (NP (PRP you)) (VP (VBN done) (PP (TO to) (NP (PRP you))))))))) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not) (ADJP (RB very) (JJ good) (PP (IN at) (NP (NP (JJ bloody)) (VP (VBG washing) (ADVP (RB anyway))))))))))))) (. !)))

@@ -1,0 +1,19 @@
+2601,"(0,)","It 's alright , we don 't have to do anything","[It/PRP, 's/VBZ, alright/JJ, ,/,, we/PRP, don/VBP, 't/PRP, have/VB, to/TO, do/VB, anything/NN]","(ROOT (S (NP (PRP It)) (VP (VP (VBZ 's) (ADJP (JJ alright))) (PRN (, ,) (S (NP (PRP we)) (VP (VBP don) (NP (PRP 't))))) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NN anything)))))))))"
+2601,"(1,)","Really , aha .","[Really/RB, ,/,, aha/NN, ./.]","(ROOT (FRAG (ADVP (RB Really)) (, ,) (NP (NN aha)) (. .)))"
+2601,"(2,)",for a minute .,"[for/IN, a/DT, minute/NN, ./.]",(ROOT (FRAG (PP (IN for) (NP (DT a) (NN minute))) (. .)))
+2601,"(3,)", ready to cook .,"[ready/JJ, to/TO, cook/VB, ./.]",(ROOT (FRAG (ADJP (JJ ready)) (S (VP (TO to) (VP (VB cook)))) (. .)))
+2601,"(4,)",,[],X
+2601,"(5,)",Aha .,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
+2601,"(6,)","Goody , goody .","[Goody/NNP, ,/,, goody/NNP, ./.]","(ROOT (NP (NP (NNP Goody)) (, ,) (NP (NNP goody)) (. .)))"
+2601,"(7,)",,[],X
+2601,"(8,)","Sorry , you 're going to freeze it ?","[Sorry/JJ, ,/,, you/PRP, 're/VBP, going/VBG, to/TO, freeze/VB, it/PRP, ?/.]","(ROOT (S (S (ADJP (JJ Sorry))) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB freeze) (NP (PRP it))))))) (. ?)))"
+2601,"(9,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2601,"(10,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2601,"(11,)",,[],X
+2601,"(12,)",Oh well done .,"[Oh/UH, well/RB, done/VBN, ./.]",(ROOT (S (NP (UH Oh)) (ADVP (RB well)) (VP (VBN done)) (. .)))
+2601,"(13,)",,[],X
+2601,"(14,)",Very good .,"[Very/RB, good/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ good)) (. .)))
+2601,"(15,)","What time you due at the hairdresser , quarter to ?","[What/WDT, time/NN, you/PRP, due/RB, at/IN, the/DT, hairdresser/NN, ,/,, quarter/NN, to/TO, ?/.]","(ROOT (FRAG (WHNP (WDT What) (NN time)) (ADVP (PRP you) (RB due)) (PP (IN at) (NP (NP (DT the) (NN hairdresser)) (, ,) (NP (NP (NN quarter)) (SBAR (S (VP (TO to))))))) (. ?)))"
+2601,"(16,)",Five minutes to go .,"[Five/CD, minutes/NNS, to/TO, go/VB, ./.]",(ROOT (S (NP (CD Five) (NNS minutes)) (VP (TO to) (VP (VB go))) (. .)))
+2601,"(17,)",Would you like me to try Veronica later or deliver that ?,"[Would/MD, you/PRP, like/VB, me/PRP, to/TO, try/VB, Veronica/NN, later/RB, or/CC, deliver/VB, that/IN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (S (NP (PRP me)) (VP (TO to) (VP (VP (VB try) (NP (NN Veronica)) (ADVP (RB later))) (CC or) (VP (VB deliver) (ADVP (IN that))))))) (. ?)))
+2601,"(18,)",,[],X

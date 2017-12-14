@@ -1,0 +1,10 @@
+5110,"(0,)","Is John at work or is he , he starts on Monday ?","[Is/VBZ, John/NNP, at/IN, work/NN, or/CC, is/VBZ, he/PRP, ,/,, he/PRP, starts/VBZ, on/IN, Monday/NNP, ?/.]","(ROOT (S (S (VP (VP (VBZ Is) (NP (NP (NNP John)) (PP (IN at) (NP (NN work))))) (CC or) (VP (VBZ is) (NP (PRP he))))) (, ,) (NP (PRP he)) (VP (VBZ starts) (PP (IN on) (NP (NNP Monday)))) (. ?)))"
+5110,"(1,)","I think he starts on the tenth , I think he starts that   that day .","[I/PRP, think/VBP, he/PRP, starts/VBZ, on/IN, the/DT, tenth/NN, ,/,, I/PRP, think/VBP, he/PRP, starts/VBZ, that/IN, that/DT, day/NN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (VBZ starts) (PP (IN on) (NP (DT the) (NN tenth)))))))) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (VBZ starts) (ADVP (IN that) (NP (DT that) (NN day))))))) (. .)))"
+5110,"(2,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+5110,"(3,)", or something .,"[or/CC, something/NN, ./.]",(ROOT (FRAG (PP (CC or) (NP (NN something))) (. .)))
+5110,"(4, 5)","Mm  Yeah , I mean , a lot of us could do with a month off .","[Mm/NN, Yeah/UH, ,/,, I/PRP, mean/VBP, ,/,, a/DT, lot/NN, of/IN, us/PRP, could/MD, do/VB, with/IN, a/DT, month/NN, off/RB, ./.]","(ROOT (S (NP (NP (NN Mm)) (SBAR (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VP (VBP mean)) (, ,) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (PRP us)))))))) (VP (MD could) (VP (VB do) (PP (IN with) (ADVP (NP (DT a) (NN month)) (RB off))))) (. .)))"
+5110,"(6,)",,[],X
+5110,"(7,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+5110,"(8,)","It 's better when Deborah 's only started school , so","[It/PRP, 's/VBZ, better/JJR, when/WRB, Deborah/NNP, 's/POS, only/RB, started/VBD, school/NN, ,/,, so/RB]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJR better)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Deborah) (POS 's)) (ADVP (RB only)) (VP (VBD started) (NP (NN school)) (, ,) (ADVP (RB so))))))))"
+5110,"(9,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+5110,"(10,)", so easy .,"[so/RB, easy/JJ, ./.]",(ROOT (FRAG (ADJP (RB so) (JJ easy)) (. .)))

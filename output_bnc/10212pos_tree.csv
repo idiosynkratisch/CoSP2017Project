@@ -1,0 +1,14 @@
+10212,"(0,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+10212,"(1,)",Nice gooey cake   .,"[Nice/JJ, gooey/NNP, cake/NN, ./.]",(ROOT (NP (NP (JJ Nice) (NNP gooey)) (NP (NN cake)) (. .)))
+10212,"(2,)",We shouldn 't should we ?,"[We/PRP, shouldn/VBP, 't/PRP, should/MD, we/PRP, ?/.]",(ROOT (S (NP (PRP We)) (VP (VBP shouldn) (SBAR (S (NP (PRP 't)) (VP (MD should) (VP (NP (PRP we))))))) (. ?)))
+10212,"(3, 4)",No  which one do you want then   .,"[No/DT, which/WDT, one/CD, do/VBP, you/PRP, want/VB, then/RB, ./.]",(ROOT (S (NP (DT No) (NP (WDT which) (NX (CD one)))) (VP (VBP do) (S (NP (PRP you)) (VP (VB want) (ADVP (RB then))))) (. .)))
+10212,"(5, 6)",No  okay .,"[No/DT, okay/JJ, ./.]",(ROOT (S (VP (NP (DT No) (ADJP (JJ okay)))) (. .)))
+10212,"(7,)",Those are nice .,"[Those/DT, are/VBP, nice/JJ, ./.]",(ROOT (S (NP (DT Those)) (VP (VBP are) (ADJP (JJ nice))) (. .)))
+10212,"(8,)","What , those or those ?","[What/WP, ,/,, those/DT, or/CC, those/DT, ?/.]","(ROOT (NP (NP (WP What)) (, ,) (NP (NP (DT those)) (CC or) (NP (DT those))) (. ?)))"
+10212,"(9,)",This .,"[This/DT, ./.]",(ROOT (FRAG (NP (DT This)) (. .)))
+10212,"(10,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+10212,"(11,)",They 're all nice actually aren 't they ?,"[They/PRP, 're/VBP, all/DT, nice/JJ, actually/RB, aren/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NP (DT all) (ADJP (JJ nice) (ADVP (RB actually))) (NNP aren)) (NP (NP (PRP 't)) (NP (PRP they))))) (. ?)))
+10212,"(12,)","Is that alright , yeah .","[Is/VBZ, that/IN, alright/JJ, ,/,, yeah/UH, ./.]","(ROOT (S (VP (VBZ Is) (ADJP (IN that) (JJ alright)) (, ,) (INTJ (UH yeah))) (. .)))"
+10212,"(13,)", kitchen cupboard let 's do it properly .,"[kitchen/NN, cupboard/NN, let/VBD, 's/POS, do/VBP, it/PRP, properly/RB, ./.]",(ROOT (S (NP (NN kitchen) (NN cupboard)) (VP (VBD let) (SBAR (S (NP (POS 's)) (VP (VBP do) (NP (PRP it)) (ADVP (RB properly)))))) (. .)))
+10212,"(14,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+10212,"(15,)",Do you only want sweet ,"[Do/VB, you/PRP, only/RB, want/VBP, sweet/JJ]",(ROOT (S (VP (VB Do) (SBAR (S (NP (PRP you)) (ADVP (RB only)) (VP (VBP want) (ADJP (JJ sweet))))))))

@@ -1,0 +1,2 @@
+1102,"(0,)","Right , mashed potatoes are coming up .","[Right/NN, ,/,, mashed/VBN, potatoes/NNS, are/VBP, coming/VBG, up/RB, ./.]","(ROOT (S (NP (NP (NN Right)) (, ,) (VP (VBN mashed) (NP (NNS potatoes)))) (VP (VBP are) (VP (VBG coming) (ADVP (RB up)))) (. .)))"
+1102,"(1,)",  .,[./.],(ROOT (NP (. .)))

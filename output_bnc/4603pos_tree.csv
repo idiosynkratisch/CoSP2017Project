@@ -1,0 +1,59 @@
+4603,"(0,)",He 's facing to Amy .,"[He/PRP, 's/VBZ, facing/VBG, to/TO, Amy/NNP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG facing) (PP (TO to) (NP (NNP Amy))))) (. .)))
+4603,"(1,)",Hello .,"[Hello/UH, ./.]",(ROOT (INTJ (UH Hello) (. .)))
+4603,"(2,)","Don 't be silly , come on will you get your breakfast .","[Don/NNP, 't/PRP, be/VB, silly/JJ, ,/,, come/VB, on/RP, will/MD, you/PRP, get/VB, your/PRP$, breakfast/NN, ./.]","(ROOT (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VP (VB be) (ADJP (JJ silly))) (, ,) (VP (VB come) (PRT (RP on))))))) (VP (MD will) (NP (PRP you)) (S (VP (VB get) (NP (PRP$ your) (NN breakfast))))) (. .)))"
+4603,"(3,)","Right , er , Amy what do you want ?","[Right/NN, ,/,, er/NN, ,/,, Amy/NNP, what/WP, do/VBP, you/PRP, want/VB, ?/.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NN er)) (, ,) (NP (NP (NNP Amy)) (SBAR (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB want))))))) (. ?)))"
+4603,"(4,)","Sandwiches , Marmite sandwiches .","[Sandwiches/NNS, ,/,, Marmite/NNP, sandwiches/NNS, ./.]","(ROOT (NP (NP (NNS Sandwiches)) (, ,) (NP (NNP Marmite) (NNS sandwiches)) (. .)))"
+4603,"(5,)",Please .,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
+4603,"(6,)",Please .,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
+4603,"(7,)","Play with it , stop  ","[Play/VB, with/IN, it/PRP, ,/,, stop/VB]","(ROOT (S (VP (VB Play) (PP (IN with) (NP (PRP it))) (, ,) (VB stop))))"
+4603,"(8,)",Are they your Marmite sandwiches ?,"[Are/VBP, they/PRP, your/PRP$, Marmite/NN, sandwiches/NNS, ?/.]",(ROOT (S (VP (VBP Are) (NP (NP (PRP they)) (NP (PRP$ your) (NN Marmite) (NNS sandwiches)))) (. ?)))
+4603,"(9,)",Only two .,"[Only/RB, two/CD, ./.]",(ROOT (FRAG (NP (RB Only) (CD two)) (. .)))
+4603,"(10,)",But why do I have to say thank you ?,"[But/CC, why/WRB, do/VBP, I/PRP, have/VBP, to/TO, say/VB, thank/VB, you/PRP, ?/.]",(ROOT (SBARQ (CC But) (WHADVP (WRB why)) (SQ (VBP do) (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB say) (VP (VB thank) (NP (PRP you)))))))) (. ?)))
+4603,"(11,)",Because it 's polite .,"[Because/IN, it/PRP, 's/VBZ, polite/JJ, ./.]",(ROOT (FRAG (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ polite))))) (. .)))
+4603,"(12,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+4603,"(13,)"," Erm , what do you want it in your plate ?","[Erm/NN, ,/,, what/WP, do/VBP, you/PRP, want/VB, it/PRP, in/IN, your/PRP$, plate/NN, ?/.]","(ROOT (SBARQ (NP (NN Erm)) (, ,) (WHNP (WP what)) (SQ (VBP do) (NP (PRP you)) (VP (VB want) (NP (PRP it)) (PP (IN in) (NP (PRP$ your) (NN plate))))) (. ?)))"
+4603,"(14,)","Pardon , pardon .","[Pardon/NN, ,/,, pardon/NN, ./.]","(ROOT (NP (NP (NN Pardon)) (, ,) (NP (NN pardon)) (. .)))"
+4603,"(15,)",On my plate yes .,"[On/IN, my/PRP$, plate/NN, yes/RB, ./.]",(ROOT (FRAG (PP (IN On) (NP (PRP$ my) (NN plate) (RB yes))) (. .)))
+4603,"(16,)", Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+4603,"(17,)",There 's your plate .,"[There/EX, 's/VBZ, your/PRP$, plate/NN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (PRP$ your) (NN plate))) (. .)))
+4603,"(18,)",,[],X
+4603,"(19,)",,[],X
+4603,"(20,)",,[],X
+4603,"(21,)",Terribly awful ,"[Terribly/RB, awful/JJ]",(ROOT (ADJP (RB Terribly) (JJ awful)))
+4603,"(22,)",I think you always   yourself,"[I/PRP, think/VBP, you/PRP, always/RB, yourself/PRP]",(ROOT (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP you)) (ADVP (RB always)) (NP (PRP yourself))))))
+4603,"(23,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+4603,"(24,)",Because you don 't hear yourself in the same way as everybody else hears you .,"[Because/IN, you/PRP, don/VBP, 't/PRP, hear/VB, yourself/PRP, in/IN, the/DT, same/JJ, way/NN, as/IN, everybody/NN, else/RB, hears/VBZ, you/PRP, ./.]",(ROOT (S (SBAR (IN Because) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB hear) (NP (PRP yourself)) (PP (IN in) (NP (NP (DT the) (JJ same) (NN way)) (PP (IN as) (NP (NN everybody) (RB else)))))))))) (VP (VBZ hears) (NP (PRP you))) (. .)))
+4603,"(25,)",,[],X
+4603,"(26,)",No,[No/DT],(ROOT (FRAG (NP (DT No))))
+4603,"(27,)","Cos I sound hmm , I sound like Amy   don 't I ?","[Cos/NN, I/PRP, sound/VBP, hmm/RB, ,/,, I/PRP, sound/VBP, like/IN, Amy/NNP, don/NNP, 't/PRP, I/PRP, ?/.]","(ROOT (S (NP (NP (NN Cos)) (SBAR (S (NP (PRP I)) (VP (VBP sound) (SBAR (S (ADVP (RB hmm)) (, ,) (NP (PRP I)) (VP (VBP sound) (PP (IN like) (NP (NNP Amy)))))))))) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP I)))) (. ?)))"
+4603,"(28,)", heard you .,"[heard/VBN, you/PRP, ./.]",(ROOT (S (VP (VBN heard) (NP (PRP you))) (. .)))
+4603,"(29,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+4603,"(30,)","Well , you didn 't say anything .","[Well/RB, ,/,, you/PRP, didn/VBP, 't/PRP, say/VB, anything/NN, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (PRP you)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB say) (NP (NN anything))))) (. .)))"
+4603,"(31,)", you  ,[you/PRP],(ROOT (FRAG (NP (PRP you))))
+4603,"(32,)", you sound the same as   there 's a lot,"[you/PRP, sound/VBP, the/DT, same/JJ, as/IN, there/EX, 's/VBZ, a/DT, lot/NN]",(ROOT (S (NP (PRP you)) (VP (VBP sound) (NP (DT the) (JJ same)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN lot))))))))
+4603,"(33,)",Well you 're saying a lot now .,"[Well/RB, you/PRP, 're/VBP, saying/VBG, a/DT, lot/NN, now/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP 're) (VP (VBG saying) (NP (DT a) (NN lot)) (ADVP (RB now)))) (. .)))
+4603,"(34,)",Probably .,"[Probably/RB, ./.]",(ROOT (FRAG (ADVP (RB Probably)) (. .)))
+4603,"(35,)",But  ,[But/CC],(ROOT (NP (CC But)))
+4603,"(36,)", tax,[tax/NN],(ROOT (NP (NN tax)))
+4603,"(37,)"," no , bring a towel","[no/DT, ,/,, bring/VB, a/DT, towel/NN]","(ROOT (S (NP (NP (DT no)) (VP (, ,) (S (VP (VB bring) (NP (DT a) (NN towel))))))))"
+4603,"(38,)",I thought I did .,"[I/PRP, thought/VBD, I/PRP, did/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (VBD did))))) (. .)))
+4603,"(39,)",,[],X
+4603,"(40,)",I thought I did .,"[I/PRP, thought/VBD, I/PRP, did/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (VBD did))))) (. .)))
+4603,"(41,)",,[],X
+4603,"(42,)","Can we get some breakfast , or else we 'll get nothing done today at all .","[Can/MD, we/PRP, get/VB, some/DT, breakfast/NN, ,/,, or/CC, else/RB, we/PRP, 'll/MD, get/VB, nothing/NN, done/VBN, today/NN, at/IN, all/DT, ./.]","(ROOT (SQ (MD Can) (NP (PRP we)) (VP (VB get) (NP (NP (DT some) (NN breakfast)) (, ,) (ADVP (CC or) (RB else)) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB get) (NP (NP (NN nothing)) (VP (VBN done) (NP (NN today)) (PP (IN at) (NP (DT all))))))))))) (. .)))"
+4603,"(43,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+4603,"(44,)",That 's for going round with the tape,"[That/DT, 's/VBZ, for/IN, going/VBG, round/NN, with/IN, the/DT, tape/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (PP (IN for) (S (VP (VBG going) (NP (NN round)) (PP (IN with) (NP (DT the) (NN tape)))))))))
+4603,"(45,)",,[],X
+4603,"(46,)","Well , get Amy 's then .","[Well/RB, ,/,, get/VB, Amy/NNP, 's/POS, then/RB, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (VP (VB get) (NP (NP (NNP Amy) (POS 's)) (NP (RB then)))) (. .)))"
+4603,"(47,)",Yes ,[Yes/UH],(ROOT (INTJ (UH Yes)))
+4603,"(48,)",Let me put a cardigan on for you .,"[Let/VB, me/PRP, put/VB, a/DT, cardigan/NN, on/IN, for/IN, you/PRP, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP me)) (VP (VB put) (NP (DT a) (NN cardigan)) (PP (IN on) (PP (IN for) (NP (PRP you))))))) (. .)))
+4603,"(49,)",I have .,"[I/PRP, have/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. .)))
+4603,"(50,)","Yes well     No , it 's alright we don 't need that , you can drink your orange if you like .","[Yes/RB, well/RB, No/DT, ,/,, it/PRP, 's/VBZ, alright/JJ, we/PRP, don/VBP, 't/PRP, need/VB, that/DT, ,/,, you/PRP, can/MD, drink/VB, your/PRP$, orange/NN, if/IN, you/PRP, like/VBP, ./.]","(ROOT (S (ADVP (RB Yes)) (PRN (S (NP (RB well) (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ alright) (SBAR (S (NP (PRP we)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need) (NP (DT that)))))))))) (, ,)) (NP (PRP you)) (VP (MD can) (VP (VB drink) (NP (PRP$ your) (NN orange)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP like)))))) (. .)))"
+4603,"(51,)",You could go and get yourself a knife .,"[You/PRP, could/MD, go/VB, and/CC, get/VB, yourself/PRP, a/DT, knife/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD could) (VP (VP (VB go)) (CC and) (VP (VB get) (NP (PRP yourself))) (NP (DT a) (NN knife)))) (. .)))
+4603,"(52,)",You could do something useful instead of just sitting there like a  ,"[You/PRP, could/MD, do/VB, something/NN, useful/JJ, instead/RB, of/IN, just/RB, sitting/VBG, there/RB, like/IN, a/DT]",(ROOT (S (NP (PRP You)) (VP (MD could) (VP (VB do) (S (NP (NN something)) (ADJP (JJ useful))) (PP (RB instead) (IN of) (S (VP (ADVP (RB just)) (VBG sitting) (ADVP (RB there)) (PP (IN like) (NP (DT a))))))))))
+4603,"(53,)",,[],X
+4603,"(54,)",,[],X
+4603,"(55,)",There you go,"[There/EX, you/PRP, go/VBP]",(ROOT (FRAG (NP (NP (EX There)) (SBAR (S (NP (PRP you)) (VP (VBP go)))))))
+4603,"(56,)",,[],X
+4603,"(57, 58)"," you do that , I put it like that","[you/PRP, do/VBP, that/DT, ,/,, I/PRP, put/VBD, it/PRP, like/IN, that/DT]","(ROOT (S (NP (PRP you)) (VP (VBP do) (SBAR (WHNP (DT that)) (, ,) (S (NP (PRP I)) (VP (VBD put) (NP (PRP it)) (PP (IN like) (NP (DT that)))))))))"
+4603,"(59,)",,[],X

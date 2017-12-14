@@ -1,0 +1,8 @@
+10001,"(0,)",What was the date Friday ?,"[What/WP, was/VBD, the/DT, date/NN, Friday/NNP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (DT the) (NN date) (NNP Friday))) (. ?)))
+10001,"(1,)",Twenty fourth today .,"[Twenty/CD, fourth/JJ, today/NN, ./.]",(ROOT (FRAG (NP (CD Twenty)) (ADVP (JJ fourth) (NN today)) (. .)))
+10001,"(2, 3, 4, 5)","That 's Wednesday  twenty four , twenty three , two , one , twenty , Tuesday the seventeenth  Thursday  I 've got it on there , look .","[That/DT, 's/VBZ, Wednesday/NNP, twenty/CD, four/CD, ,/,, twenty/CD, three/CD, ,/,, two/CD, ,/,, one/CD, ,/,, twenty/CD, ,/,, Tuesday/NNP, the/DT, seventeenth/NNP, Thursday/NNP, I/PRP, 've/VBP, got/VBD, it/PRP, on/IN, there/EX, ,/,, look/VB, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (NNP Wednesday) (CD twenty)) (NP (CD four)))) (, ,) (NP (NP (CD twenty) (CD three)) (, ,) (NP (CD two)) (, ,) (SBAR (WHNP (WHNP (CD one)) (, ,) (NP (CD twenty)) (, ,)) (S (NP (NNP Tuesday)) (NP (DT the) (NNP seventeenth) (NNP Thursday)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (PRP it)) (PP (IN on) (NP (EX there))))))) (, ,)) (VP (VB look)) (. .)))"
+10001,"(6,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+10001,"(7, 8)",Mm  What time ?,"[Mm/NN, What/WDT, time/NN, ?/.]",(ROOT (NP (NP (NP (NN Mm)) (SBAR (WHNP (WDT What) (NN time)))) (. ?)))
+10001,"(9,)",,[],X
+10001,"(10, 11)",Oh  four o 'clock on there .,"[Oh/UH, four/CD, o/NN, 'clock/NN, on/IN, there/EX, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (CD four) (NN o) (NN 'clock)) (PP (IN on) (NP (EX there)))))) (. .)))
+10001,"(12,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

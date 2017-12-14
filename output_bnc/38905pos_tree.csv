@@ -1,0 +1,8 @@
+38905,"(0,)",Well that 's it !,"[Well/RB, that/DT, 's/VBZ, it/PRP, !/.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (PRP it))) (. !)))
+38905,"(1,)",They 've scored again !,"[They/PRP, 've/VBP, scored/VBN, again/RB, !/.]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBN scored) (ADVP (RB again)))) (. !)))
+38905,"(2,)",They 've erm,"[They/PRP, 've/VBP, erm/NN]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (NP (NN erm)))))
+38905,"(3,)",Have they finished ?,"[Have/VB, they/PRP, finished/VB, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP they)) (VP (VB finished)))) (. ?)))
+38905,"(4,)","No , not yet .","[No/DT, ,/,, not/RB, yet/RB, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (RB not) (RB yet)) (. .)))"
+38905,"(5,)",I could do with having someone to take this out .,"[I/PRP, could/MD, do/VB, with/IN, having/VBG, someone/NN, to/TO, take/VB, this/DT, out/RP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD could) (VP (VB do) (PP (IN with) (S (VP (VBG having) (S (NP (NN someone)) (VP (TO to) (VP (VB take) (NP (DT this)) (PRT (RP out)))))))))) (. .)))
+38905,"(6,)",Right !,"[Right/RB, !/.]",(ROOT (ADVP (RB Right) (. !)))
+38905,"(7, 8)",Let 's see  and that could go to the compost .,"[Let/VB, 's/PRP, see/VB, and/CC, that/DT, could/MD, go/VB, to/TO, the/DT, compost/NN, ./.]",(ROOT (S (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB see))))) (CC and) (S (NP (DT that)) (VP (MD could) (VP (VB go) (PP (TO to) (NP (DT the) (NN compost)))))) (. .)))

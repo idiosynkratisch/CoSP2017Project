@@ -1,0 +1,13 @@
+7301,"(0,)","Are you gonna have a major pig out on biscuits , or are you gonna wait and have your dinner ?","[Are/VBP, you/PRP, gonna/NNP, have/VBP, a/DT, major/JJ, pig/NN, out/RP, on/IN, biscuits/NNS, ,/,, or/CC, are/VBP, you/PRP, gonna/NNP, wait/NN, and/CC, have/VB, your/PRP$, dinner/NN, ?/.]","(ROOT (SQ (SQ (VBP Are) (NP (NP (PRP you)) (SBAR (S (NP (NNP gonna)) (VP (VBP have) (NP (DT a) (JJ major) (NN pig) (PRT (RP out))) (PP (IN on) (NP (NNS biscuits)))))))) (, ,) (CC or) (SQ (VP (VBP are)) (NP (PRP you)) (NP (NP (NNP gonna)) (SBAR (S (UCP (NP (NN wait)) (CC and) (S (VP (VB have) (NP (PRP$ your) (NN dinner))))))))) (. ?)))"
+7301,"(1,)",Or just eat biscuits and have no dinner ?,"[Or/CC, just/RB, eat/VB, biscuits/NNS, and/CC, have/VBP, no/DT, dinner/NN, ?/.]",(ROOT (FRAG (CC Or) (VP (VP (ADVP (RB just)) (VB eat) (NP (NNS biscuits))) (CC and) (VP (VBP have) (NP (DT no) (NN dinner)))) (. ?)))
+7301,"(2,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+7301,"(3,)",I 'd sooner have dinner .,"[I/PRP, 'd/MD, sooner/RB, have/VB, dinner/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'd) (ADVP (RB sooner)) (VP (VB have) (NP (NN dinner)))) (. .)))
+7301,"(4,)",We 've got this .,"[We/PRP, 've/VBP, got/VBN, this/DT, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (NP (DT this)))) (. .)))
+7301,"(5,)",What d 'you want with it ?,"[What/WDT, d/NN, 'you/NN, want/VBP, with/IN, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN d)) (SQ (NP (NN 'you)) (VP (VBP want) (PP (IN with) (NP (PRP it))))) (. ?)))
+7301,"(6, 7)",Salad or  or potatoes and peas .,"[Salad/NN, or/CC, or/CC, potatoes/NNS, and/CC, peas/NNS, ./.]",(ROOT (NP (NP (NP (NN Salad)) (CC or) (NP (CC or) (NP (NNS potatoes)) (CC and) (NP (NNS peas)))) (. .)))
+7301,"(8,)", Umm .,"[Umm/NNP, ./.]",(ROOT (FRAG (NP (NNP Umm)) (. .)))
+7301,"(9,)",I might have some salad .,"[I/PRP, might/MD, have/VB, some/DT, salad/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD might) (VP (VB have) (NP (DT some) (NN salad)))) (. .)))
+7301,"(10,)",D 'you want it now ?,"[D/NNP, 'you/NNP, want/VBP, it/PRP, now/RB, ?/.]",(ROOT (S (NP (NNP D) (NNP 'you)) (VP (VBP want) (NP (PRP it)) (ADVP (RB now))) (. ?)))
+7301,"(11,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+7301,"(12,)",Please .,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
+7301,"(13,)",Joe le Taxi ! .,"[Joe/NNP, le/NNP, Taxi/NN, !/., ./.]",(ROOT (S (NP (NNP Joe)) (VP (NNP le) (INTJ (NN Taxi) (. !))) (. .)))

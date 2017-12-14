@@ -1,0 +1,3 @@
+2505,"(0,)",How are you this morning ?,"[How/WRB, are/VBP, you/PRP, this/DT, morning/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (PRP you)) (NP (DT this) (NN morning))) (. ?)))
+2505,"(1,)",,[],X
+2505,"(2,)",O K,"[O/NN, K/NN]",(ROOT (NP (NN O) (NN K)))

@@ -1,0 +1,10 @@
+2328,"(0,)",,[],X
+2328,"(1,)",Sorry .,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
+2328,"(2,)",What river would that be ?,"[What/WDT, river/NN, would/MD, that/WDT, be/VB, ?/.]",(ROOT (SBARQ (SBAR (WHNP (WDT What) (NN river)) (S (VP (MD would)))) (WHNP (WDT that)) (SQ (VP (VB be))) (. ?)))
+2328,"(3,)",Would be Kidbrook I suppose would it ?,"[Would/MD, be/VB, Kidbrook/NN, I/PRP, suppose/VBP, would/MD, it/PRP, ?/.]",(ROOT (SINV (S (S (VP (MD Would) (VP (VB be) (NP (NN Kidbrook))))) (NP (PRP I)) (VP (VBP suppose))) (VP (MD would)) (NP (PRP it)) (. ?)))
+2328,"(4,)",  .,[./.],(ROOT (NP (. .)))
+2328,"(5,)","Oh yes , yes .","[Oh/UH, yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Oh) (UH yes)) (, ,) (INTJ (UH yes) (. .))))"
+2328,"(6,)","Fine looking bird , is that a female ?","[Fine/JJ, looking/VBG, bird/NN, ,/,, is/VBZ, that/IN, a/DT, female/NN, ?/.]","(ROOT (SQ (S (NP (JJ Fine)) (VP (VBG looking) (NP (NN bird)))) (, ,) (SQ (VBZ is) (PP (IN that) (NP (DT a) (NN female)))) (. ?)))"
+2328,"(7,)","A female usually very   , but , I don 't know , it looks a young bird to me .","[A/DT, female/JJ, usually/RB, very/RB, ,/,, but/CC, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, ,/,, it/PRP, looks/VBZ, a/DT, young/JJ, bird/NN, to/TO, me/PRP, ./.]","(ROOT (S (S (NP (NP (DT A) (JJ female)) (ADJP (RB usually) (RB very))) (, ,) (ADVP (CC but)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))) (, ,) (NP (PRP it)) (VP (VBZ looks) (NP (DT a) (JJ young) (NN bird)) (PP (TO to) (NP (PRP me)))) (. .)))"
+2328,"(8,)",Good colouring anyway .,"[Good/JJ, colouring/VBG, anyway/RB, ./.]",(ROOT (FRAG (ADJP (JJ Good)) (S (VP (VBG colouring) (ADVP (RB anyway)))) (. .)))
+2328,"(9,)","You     excuse me looking old fashion   , it 's not like black bird or   .","[You/PRP, excuse/VBP, me/PRP, looking/VBG, old/JJ, fashion/NN, ,/,, it/PRP, 's/VBZ, not/RB, like/VB, black/JJ, bird/NN, or/CC, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP excuse) (S (NP (PRP me)) (VP (VBG looking) (NP (JJ old) (NN fashion)))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (RB not) (VP (VB like) (NP (JJ black) (NX (NX (NN bird)) (CC or))))) (. .)))"

@@ -1,0 +1,12 @@
+27507,"(0,)",Excuse me !,"[Excuse/VB, me/PRP, !/.]",(ROOT (S (VP (VB Excuse) (NP (PRP me))) (. !)))
+27507,"(1,)",Have you got the time on you please ?,"[Have/VB, you/PRP, got/VBD, the/DT, time/NN, on/IN, you/PRP, please/VB, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (SBAR (S (NP (NP (DT the) (NN time)) (PP (IN on) (NP (PRP you)))) (VP (VB please))))))) (. ?)))
+27507,"(2,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+27507,"(3,)",Erm,[Erm/NN],(ROOT (NP (NN Erm)))
+27507,"(4, 5, 6)","Cos I  I got a watch and it says  five past twelve , but it 's more than that !","[Cos/NNP, I/PRP, I/PRP, got/VBD, a/DT, watch/NN, and/CC, it/PRP, says/VBZ, five/CD, past/JJ, twelve/CD, ,/,, but/CC, it/PRP, 's/VBZ, more/JJR, than/IN, that/DT, !/.]","(ROOT (S (S (S (NP (NP (NNP Cos)) (NP (PRP I))) (NP (PRP I)) (VP (VBD got) (NP (DT a) (NN watch)))) (CC and) (S (NP (PRP it)) (VP (VBZ says) (NP (CD five) (JJ past) (CD twelve))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (DT that)))))) (. !)))"
+27507,"(7,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+27507,"(8,)",Because we,"[Because/IN, we/PRP]",(ROOT (PP (IN Because) (NP (PRP we))))
+27507,"(9,)",I think it 's more than that !,"[I/PRP, think/VBP, it/PRP, 's/VBZ, more/JJR, than/IN, that/DT, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (DT that)))))))) (. !)))
+27507,"(10,)","Yeah , I put wrong","[Yeah/UH, ,/,, I/PRP, put/VBD, wrong/JJ]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBD put)) (JJ wrong)))"
+27507,"(11,)",,[],X
+27507,"(12,)","I think , yeah .","[I/PRP, think/VBP, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP think))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+27507,"(13,)","No , sorry !","[No/DT, ,/,, sorry/JJ, !/.]","(ROOT (FRAG (NP (NP (DT No)) (, ,) (ADJP (JJ sorry))) (. !)))"

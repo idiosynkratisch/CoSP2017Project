@@ -1,0 +1,4 @@
+76406,"(0,)",This is Thunderbird Four David .,"[This/DT, is/VBZ, Thunderbird/NNP, Four/NNP, David/NNP, ./.]",(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NNP Thunderbird) (NNP Four) (NNP David))) (. .)))
+76406,"(1,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+76406,"(2,)","Right , come on .","[Right/NN, ,/,, come/VBN, on/IN, ./.]","(ROOT (NP (NP (NN Right)) (, ,) (VP (VBN come) (PP (IN on))) (. .)))"
+76406,"(3,)",Let 's go !,"[Let/VB, 's/PRP, go/VB, !/.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB go)))) (. !)))

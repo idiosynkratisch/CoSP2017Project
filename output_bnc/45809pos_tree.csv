@@ -1,0 +1,6 @@
+45809,"(0,)","Jean , did I ask you if you were going to John 's tomorrow ?","[Jean/NNP, ,/,, did/VBD, I/PRP, ask/VB, you/PRP, if/IN, you/PRP, were/VBD, going/VBG, to/TO, John/NNP, 's/POS, tomorrow/NN, ?/.]","(ROOT (SQ (ADVP (NNP Jean)) (, ,) (VBD did) (NP (PRP I)) (VP (VB ask) (NP (PRP you)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBD were) (VP (VBG going) (PP (TO to) (NP (NP (NNP John) (POS 's)) (NN tomorrow)))))))) (. ?)))"
+45809,"(1,)",I said no .,"[I/PRP, said/VBD, no/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (NP (DT no))) (. .)))
+45809,"(2,)",That 's good !,"[That/DT, 's/VBZ, good/JJ, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ good))) (. !)))
+45809,"(3,)","Friday , I 'm going .","[Friday/NNP, ,/,, I/PRP, 'm/VBP, going/VBG, ./.]","(ROOT (S (NP (NNP Friday)) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going))) (. .)))"
+45809,"(4,)",That 's good !,"[That/DT, 's/VBZ, good/JJ, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ good))) (. !)))
+45809,"(5,)",Are you going to an early on Friday ?,"[Are/VBP, you/PRP, going/VBG, to/TO, an/DT, early/JJ, on/IN, Friday/NNP, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (PP (TO to) (NP (NP (DT an) (JJ early)) (PP (IN on) (NP (NNP Friday)))))) (. ?)))

@@ -1,0 +1,4 @@
+14806,"(0,)",He was nearly a dead hedgehog then because he nearly fell off the table .,"[He/PRP, was/VBD, nearly/RB, a/DT, dead/JJ, hedgehog/NN, then/RB, because/IN, he/PRP, nearly/RB, fell/VBD, off/RP, the/DT, table/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBD was) (ADVP (RB nearly)) (NP (DT a) (JJ dead) (NN hedgehog)) (ADVP (RB then)) (SBAR (IN because) (S (NP (PRP he)) (ADVP (RB nearly)) (VP (VBD fell) (PRT (RP off)) (NP (DT the) (NN table)))))) (. .)))
+14806,"(1,)",Yeah do him as an old hedgehog .,"[Yeah/UH, do/VBP, him/PRP, as/IN, an/DT, old/JJ, hedgehog/NN, ./.]",(ROOT (S (NP (UH Yeah)) (VP (VBP do) (NP (PRP him)) (PP (IN as) (NP (DT an) (JJ old) (NN hedgehog)))) (. .)))
+14806,"(2,)",We got a hippie hippo .,"[We/PRP, got/VBD, a/DT, hippie/NNP, hippo/NNP, ./.]",(ROOT (S (NP (PRP We)) (VP (VBD got) (NP (DT a) (NNP hippie) (NNP hippo))) (. .)))
+14806,"(3,)", An old hedgehog .,"[An/DT, old/JJ, hedgehog/NN, ./.]",(ROOT (NP (DT An) (JJ old) (NN hedgehog) (. .)))

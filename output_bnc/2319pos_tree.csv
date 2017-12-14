@@ -1,0 +1,11 @@
+2319,"(0,)","Right , do you want to go to the garden centre at Mottingham ?","[Right/NN, ,/,, do/VBP, you/PRP, want/VB, to/TO, go/VB, to/TO, the/DT, garden/NN, centre/NN, at/IN, Mottingham/NNP, ?/.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VBP do) (S (NP (PRP you)) (VP (VB want) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT the) (NN garden) (NN centre))) (PP (IN at) (NP (NNP Mottingham))))))))) (. ?)))"
+2319,"(1,)",Where 's the garden centre ?,"[Where/WRB, 's/VBZ, the/DT, garden/NN, centre/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (DT the) (NN garden) (NN centre))) (. ?)))
+2319,"(2,)",Other end of Mottingham Lane .,"[Other/JJ, end/NN, of/IN, Mottingham/NNP, Lane/NNP, ./.]",(ROOT (NP (NP (JJ Other) (NN end)) (PP (IN of) (NP (NNP Mottingham) (NNP Lane))) (. .)))
+2319,"(3,)",,[],X
+2319,"(4,)","Oh thank you , yes .","[Oh/UH, thank/VB, you/PRP, ,/,, yes/UH, ./.]","(ROOT (S (INTJ (UH Oh)) (VP (VB thank) (NP (PRP you)) (, ,) (NP (UH yes))) (. .)))"
+2319,"(5,)",,[],X
+2319,"(6,)",Oh hang on a minute   my wallet .,"[Oh/UH, hang/VB, on/IN, a/DT, minute/JJ, my/PRP$, wallet/NN, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (VB hang) (PP (IN on) (NP (NP (DT a) (JJ minute)) (NP (PRP$ my) (NN wallet))))) (. .)))
+2319,"(7,)",I 've got some money .,"[I/PRP, 've/VBP, got/VBD, some/DT, money/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (NN money)))) (. .)))
+2319,"(8,)",I 've only got three   thank you .,"[I/PRP, 've/VBP, only/RB, got/VBN, three/CD, thank/VB, you/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB only)) (VP (VBN got) (NP (CD three)) (S (VP (VB thank) (NP (PRP you)))))) (. .)))
+2319,"(9,)",,[],X
+2319,"(10,)","Yeah , thanks .","[Yeah/UH, ,/,, thanks/NNS, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NNS thanks)) (. .)))"

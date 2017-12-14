@@ -1,0 +1,5 @@
+2508,"(0,)",Shall I cut you some toast ?,"[Shall/MD, I/PRP, cut/VB, you/PRP, some/DT, toast/NN, ?/.]",(ROOT (SQ (MD Shall) (NP (PRP I)) (VP (VB cut) (NP (PRP you)) (NP (DT some) (NN toast))) (. ?)))
+2508,"(1,)",,[],X
+2508,"(2,)",Couple of pieces ?,"[Couple/NN, of/IN, pieces/NNS, ?/.]",(ROOT (NP (NP (NN Couple)) (PP (IN of) (NP (NNS pieces))) (. ?)))
+2508,"(3,)", one .,"[one/CD, ./.]",(ROOT (FRAG (NP (CD one)) (. .)))
+2508,"(4,)",O K .,"[O/NN, K/NN, ./.]",(ROOT (NP (NP (NN O)) (NP (NN K)) (. .)))

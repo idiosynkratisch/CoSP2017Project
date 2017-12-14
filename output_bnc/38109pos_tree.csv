@@ -1,0 +1,3 @@
+38109,"(0,)",Is this the new marmalade ?,"[Is/VBZ, this/DT, the/DT, new/JJ, marmalade/NNP, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT this)) (NP (DT the) (JJ new) (NNP marmalade)) (. ?)))
+38109,"(1,)",No,[No/DT],(ROOT (FRAG (NP (DT No))))
+38109,"(2, 3)",No it 's  mm,"[No/DT, it/PRP, 's/VBZ, mm/NN]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (NP (NN mm)))))

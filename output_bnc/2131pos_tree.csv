@@ -1,0 +1,6 @@
+2131,"(0,)",I 'll take my radio .,"[I/PRP, 'll/MD, take/VB, my/PRP$, radio/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB take) (NP (PRP$ my) (NN radio)))) (. .)))
+2131,"(1,)","Oh right , yes .","[Oh/UH, right/RB, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Oh) (RB right)) (, ,) (INTJ (UH yes) (. .))))"
+2131,"(2,)",  .,[./.],(ROOT (NP (. .)))
+2131,"(3,)",Ciao .,"[Ciao/FW, ./.]",(ROOT (NP (FW Ciao) (. .)))
+2131,"(4,)",  .,[./.],(ROOT (NP (. .)))
+2131,"(5,)",Oh dear .,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))

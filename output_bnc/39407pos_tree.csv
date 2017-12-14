@@ -1,0 +1,8 @@
+39407,"(0,)",Hello there you are,"[Hello/UH, there/EX, you/PRP, are/VBP]",(ROOT (S (PP (UH Hello) (NP (EX there))) (NP (PRP you)) (VP (VBP are))))
+39407,"(1,)",How are you today ?,"[How/WRB, are/VBP, you/PRP, today/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (PRP you)) (NP (NN today))) (. ?)))
+39407,"(2,)",Thank you very much,"[Thank/VB, you/PRP, very/RB, much/RB]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much)))))
+39407,"(3,)",Thank you,"[Thank/VB, you/PRP]",(ROOT (S (VP (VB Thank) (NP (PRP you)))))
+39407,"(4,)",Thank you,"[Thank/VB, you/PRP]",(ROOT (S (VP (VB Thank) (NP (PRP you)))))
+39407,"(5,)",A bit thick isn 't it ?,"[A/DT, bit/NN, thick/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (DT A) (ADJP (NN bit) (JJ thick)) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
+39407,"(6,)",Isn 't it just ?,"[Isn/NNP, 't/PRP, it/PRP, just/RB, ?/.]",(ROOT (NP (NP (NNP Isn)) (NP (NP (PRP 't)) (NP (NP (PRP it)) (ADVP (RB just)))) (. ?)))
+39407,"(7,)","Yeah , okay","[Yeah/UH, ,/,, okay/JJ]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (JJ okay))))"

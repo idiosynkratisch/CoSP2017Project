@@ -1,0 +1,18 @@
+2709,"(0,)","Just a little tap , that 's all , you need  .","[Just/RB, a/DT, little/JJ, tap/NN, ,/,, that/DT, 's/VBZ, all/RB, ,/,, you/PRP, need/VBP, ./.]","(ROOT (S (NP (NP (RB Just) (DT a) (JJ little) (NN tap)) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (RB all)))) (, ,)) (NP (PRP you)) (VP (VBP need)) (. .)))"
+2709,"(1,)","Yes  , fine , O K .","[Yes/UH, ,/,, fine/JJ, ,/,, O/NN, K/NN, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (ADVP (JJ fine)) (, ,) (NP (NN O) (NN K)) (. .)))"
+2709,"(2,)",  .,[./.],(ROOT (NP (. .)))
+2709,"(3,)","That 's lovely , yes .","[That/DT, 's/VBZ, lovely/JJ, ,/,, yes/UH, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ lovely)) (, ,) (INTJ (UH yes))) (. .)))"
+2709,"(4,)",Good .,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))
+2709,"(5,)","Now , what you can do is try and cut it towards the middle of your line of aim   .","[Now/RB, ,/,, what/WP, you/PRP, can/MD, do/VB, is/VBZ, try/VB, and/CC, cut/VB, it/PRP, towards/IN, the/DT, middle/NN, of/IN, your/PRP$, line/NN, of/IN, aim/NN, ./.]","(ROOT (S (ADVP (RB Now)) (, ,) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (MD can) (VP (VB do))))) (VP (VBZ is) (VP (VB try) (CC and) (VB cut) (NP (PRP it)) (PP (IN towards) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (NP (PRP$ your) (NN line)) (PP (IN of) (NP (NN aim))))))))) (. .)))"
+2709,"(6,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2709,"(7,)",On that side .,"[On/IN, that/DT, side/NN, ./.]",(ROOT (FRAG (PP (IN On) (NP (DT that) (NN side))) (. .)))
+2709,"(8,)",Fine .,"[Fine/NN, ./.]",(ROOT (INTJ (NN Fine) (. .)))
+2709,"(9,)",,[],X
+2709,"(10,)","No , the red , yes .","[No/DT, ,/,, the/DT, red/JJ, ,/,, yes/UH, ./.]","(ROOT (FRAG (SBAR (WHNP (NP (DT No)) (PRN (, ,) (SBAR (WHNP (DT the)) (FRAG (ADJP (JJ red)))) (, ,))) (FRAG (INTJ (UH yes) (. .))))))"
+2709,"(11,)",The black .,"[The/DT, black/JJ, ./.]",(ROOT (X (DT The) (ADJP (JJ black) (. .))))
+2709,"(12,)","The black , the black .","[The/DT, black/JJ, ,/,, the/DT, black/JJ, ./.]","(ROOT (NP (NP (DT The) (JJ black)) (, ,) (NP (DT the) (JJ black)) (. .)))"
+2709,"(13,)",Doesn 't matter about the red .,"[Doesn/NNP, 't/PRP, matter/VBP, about/IN, the/DT, red/NN, ./.]",(ROOT (S (NP (NNP Doesn) (PRP 't)) (VP (VBP matter) (PP (IN about) (NP (DT the) (NN red)))) (. .)))
+2709,"(14,)","O K , fine .","[O/NN, K/NN, ,/,, fine/NN, ./.]","(ROOT (NP (NP (NN O) (NN K)) (, ,) (NP (NN fine)) (. .)))"
+2709,"(15,)","I 'm aiming left to the black , yes ?","[I/PRP, 'm/VBP, aiming/VBG, left/VBN, to/TO, the/DT, black/JJ, ,/,, yes/UH, ?/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG aiming) (S (VP (VBN left) (PP (TO to) (NP (DT the) (JJ black)))))))) (, ,) (FRAG (INTJ (UH yes))) (. ?)))"
+2709,"(16,)","Yes , that 's right , slightly off , to the left .","[Yes/UH, ,/,, that/DT, 's/VBZ, right/NN, ,/,, slightly/RB, off/RB, ,/,, to/TO, the/DT, left/NN, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NN right)) (PRN (, ,) (ADVP (RB slightly) (RB off)) (, ,)) (PP (TO to) (NP (DT the) (NN left)))) (. .)))"
+2709,"(17,)","Right , fine .","[Right/NN, ,/,, fine/NN, ./.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NN fine)) (. .)))"

@@ -1,0 +1,6 @@
+14003,"(0,)",Is she coming ?,"[Is/VBZ, she/PRP, coming/VBG, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP she)) (VP (VBG coming)) (. ?)))
+14003,"(1,)",Go and get her .,"[Go/VB, and/CC, get/VB, her/PRP, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP her))) (. .)))
+14003,"(2,)",Go and get her .,"[Go/VB, and/CC, get/VB, her/PRP, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP her))) (. .)))
+14003,"(3,)",Go and get her .,"[Go/VB, and/CC, get/VB, her/PRP, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP her))) (. .)))
+14003,"(4,)",Oh there 's a lot of shopping .,"[Oh/UH, there/EX, 's/VBZ, a/DT, lot/NN, of/IN, shopping/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN shopping)))))) (. .)))
+14003,"(5,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))

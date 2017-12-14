@@ -1,0 +1,6 @@
+45613,"(0,)",When ?,"[When/WRB, ?/.]",(ROOT (FRAG (WHADVP (WRB When) (. ?))))
+45613,"(1,)",Now .,"[Now/RB, ./.]",(ROOT (FRAG (ADVP (RB Now)) (. .)))
+45613,"(2,)",Who ?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+45613,"(3,)",It 's over .,"[It/PRP, 's/VBZ, over/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB over))) (. .)))
+45613,"(4,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+45613,"(5,)",You better get up the stairs and tell Johnny what 's happening .,"[You/PRP, better/JJR, get/VB, up/RP, the/DT, stairs/NNS, and/CC, tell/VB, Johnny/NNP, what/WP, 's/VBZ, happening/VBG, ./.]",(ROOT (S (NP (PRP You)) (ADVP (JJR better)) (VP (VP (VB get) (PRT (RP up)) (NP (DT the) (NNS stairs))) (CC and) (VP (VB tell) (NP (NP (NNP Johnny)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG happening)))))))) (. .)))

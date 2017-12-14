@@ -1,0 +1,7 @@
+45909,"(0,)",>  .,"[>/JJR, ./.]",(ROOT (FRAG (ADJP (JJR >)) (. .)))
+45909,"(1, 2)",> isn 't it ?>,"[>/JJR, isn/NN, 't/PRP, it/PRP, ?>/SYM]",(ROOT (NP (NP (JJR >)) (NP (NP (NN isn)) (SBAR (S (VP (NP (NP (NP (PRP 't)) (NP (PRP it))) (X (SYM ?>)))))))))
+45909,"(3,)",,[],X
+45909,"(4,)", love .,"[love/NN, ./.]",(ROOT (NP (NN love) (. .)))
+45909,"(5,)",,[],X
+45909,"(6,)",Where 's Stephen ?,"[Where/WRB, 's/POS, Stephen/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NNP Stephen))) (. ?)))
+45909,"(7,)",,[],X

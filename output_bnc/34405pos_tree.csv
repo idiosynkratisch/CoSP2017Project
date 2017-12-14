@@ -1,0 +1,4 @@
+34405,"(0,)","Oy , slaphead !","[Oy/NNP, ,/,, slaphead/NN, !/.]","(ROOT (NP (NP (NNP Oy)) (, ,) (NP (NN slaphead)) (. !)))"
+34405,"(1,)",Me ?,"[Me/PRP, ?/.]",(ROOT (FRAG (NP (PRP Me)) (. ?)))
+34405,"(2, 3)","Yeah , the chap from  Arkworth Generation for you .","[Yeah/UH, ,/,, the/DT, chap/NN, from/IN, Arkworth/NN, Generation/NN, for/IN, you/PRP, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NP (DT the) (NN chap)) (PP (IN from) (NP (NN Arkworth) (NN Generation))) (PP (IN for) (NP (PRP you)))) (. .)))"
+34405,"(4,)",Excellent !,"[Excellent/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Excellent)) (. !)))

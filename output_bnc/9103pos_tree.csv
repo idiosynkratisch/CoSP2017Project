@@ -1,0 +1,5 @@
+9103,"(0,)",It 's got to be tumbledried,"[It/PRP, 's/VBZ, got/VBN, to/TO, be/VB, tumbledried/VBN]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN got) (S (VP (TO to) (VP (VB be) (VP (VBN tumbledried)))))))))
+9103,"(1,)", it 's going to be a dry day   get it out early and get it dry tomorrow .,"[it/PRP, 's/VBZ, going/VBG, to/TO, be/VB, a/DT, dry/JJ, day/NN, get/VB, it/PRP, out/RB, early/RB, and/CC, get/VB, it/PRP, dry/JJ, tomorrow/NN, ./.]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ dry) (NN day) (S (VP (VP (VB get) (NP (PRP it)) (ADVP (RB out) (RB early))) (CC and) (VP (VB get) (NP (PRP it)) (NP (JJ dry) (NN tomorrow))))))))))) (. .)))
+9103,"(2,)",,[],X
+9103,"(3,)",Mm,[Mm/NN],(ROOT (NP (NN Mm)))
+9103,"(4,)",,[],X

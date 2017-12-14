@@ -1,0 +1,10 @@
+2501,"(0,)",You know we was talking about     ?,"[You/PRP, know/VBP, we/PRP, was/VBD, talking/VBG, about/IN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP we)) (VP (VBD was) (VP (VBG talking) (IN about)))))) (. ?)))
+2501,"(1,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2501,"(2,)",There 's the   .,"[There/EX, 's/VBZ, the/DT, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT the))) (. .)))
+2501,"(3,)","Technology use , use the purest water .","[Technology/NN, use/NN, ,/,, use/VBP, the/DT, purest/JJS, water/NN, ./.]","(ROOT (S (NP (NN Technology) (NN use)) (, ,) (VP (VBP use) (NP (DT the) (JJS purest) (NN water))) (. .)))"
+2501,"(4,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2501,"(5,)",,[],X
+2501,"(6,)",  .,[./.],(ROOT (NP (. .)))
+2501,"(7,)",It 's the basis of redial dialysis .,"[It/PRP, 's/VBZ, the/DT, basis/NN, of/IN, redial/JJ, dialysis/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (JJ redial) (NN dialysis))))) (. .)))
+2501,"(8,)","Boiling water removes bacteria and not removes , dissolves   .","[Boiling/VBG, water/NN, removes/VBZ, bacteria/NNS, and/CC, not/RB, removes/VBZ, ,/,, dissolves/VBZ, ./.]","(ROOT (S (NP (VBG Boiling) (NN water)) (VP (VP (VBZ removes) (NP (NNS bacteria))) (CC and) (RB not) (VP (VBZ removes)) (, ,) (VP (VBZ dissolves))) (. .)))"
+2501,"(9, 10)","Well there 's a signifi- the , the osmosis really is a membrane which allows water to go through , but nothing else .","[Well/RB, there/EX, 's/VBZ, a/DT, signifi-/NN, the/DT, ,/,, the/DT, osmosis/NN, really/RB, is/VBZ, a/DT, membrane/NN, which/WDT, allows/VBZ, water/NN, to/TO, go/VB, through/IN, ,/,, but/CC, nothing/NN, else/RB, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN signifi-)) (NP (DT the))))) (, ,) (NP (DT the) (NN osmosis)) (ADVP (RB really)) (VP (VBZ is) (NP (NP (DT a) (NN membrane)) (SBAR (WHNP (WDT which)) (S (VP (VBZ allows) (NP (NN water)) (S (VP (TO to) (VP (VB go) (PP (IN through) (PRN (, ,) (CC but) (ADVP (NN nothing) (RB else)))))))))))) (. .)))"

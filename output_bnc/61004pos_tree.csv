@@ -1,0 +1,5 @@
+61004,"(0,)",It 's not done yet,"[It/PRP, 's/VBZ, not/RB, done/VBN, yet/RB]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VBN done) (ADVP (RB yet))))))
+61004,"(1,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+61004,"(2,)",It 's not done yet,"[It/PRP, 's/VBZ, not/RB, done/VBN, yet/RB]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VBN done) (ADVP (RB yet))))))
+61004,"(3, 4)","Oh , can 't have it then can I ?see now","[Oh/UH, ,/,, can/MD, 't/PRP, have/VB, it/PRP, then/RB, can/MD, I/PRP, ?see/VB, now/RB]","(ROOT (SQ (INTJ (UH Oh)) (, ,) (MD can) (NP (PRP 't)) (VP (VB have) (S (NP (PRP it)) (ADVP (RB then)) (VP (MD can) (NP (PRP I)) (S (VP (VB ?see)))))) (RB now)))"
+61004,"(5,)",Well,[Well/RB],(ROOT (INTJ (RB Well)))

@@ -1,0 +1,17 @@
+52201,"(0,)",The tapes .,"[The/DT, tapes/NNS, ./.]",(ROOT (NP (DT The) (NNS tapes) (. .)))
+52201,"(1,)",It 's on there .,"[It/PRP, 's/VBZ, on/IN, there/EX, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN on) (NP (EX there)))) (. .)))
+52201,"(2, 3, 4, 5)","All you can ever hear , at home  on weekends  is television    !","[All/DT, you/PRP, can/MD, ever/RB, hear/VB, ,/,, at/IN, home/NN, on/IN, weekends/NNS, is/VBZ, television/NN, !/.]","(ROOT (S (NP (NP (DT All)) (SBAR (S (NP (PRP you)) (VP (MD can) (ADVP (RB ever)) (VP (VB hear) (, ,) (ADVP (IN at) (NN home)) (PP (IN on) (NP (NNS weekends)))))))) (VP (VBZ is) (NP (NN television))) (. !)))"
+52201,"(6, 7)", Turn that light out for me please ?,"[Turn/VB, that/DT, light/NN, out/RP, for/IN, me/PRP, please/VB, ?/.]",(ROOT (S (VP (VB Turn) (NP (DT that) (NN light)) (PRT (RP out)) (SBAR (IN for) (S (NP (PRP me)) (VP (VB please))))) (. ?)))
+52201,"(8,)",I 'll just finish what I 'm doing .,"[I/PRP, 'll/MD, just/RB, finish/VB, what/WP, I/PRP, 'm/VBP, doing/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB finish) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing))))))) (. .)))
+52201,"(9,)",I want you to brush your hair,"[I/PRP, want/VBP, you/PRP, to/TO, brush/VB, your/PRP$, hair/NN]",(ROOT (S (NP (PRP I)) (VP (VBP want) (S (NP (PRP you)) (VP (TO to) (VP (VB brush) (NP (PRP$ your) (NN hair))))))))
+52201,"(10,)",When,[When/WRB],(ROOT (FRAG (WHADVP (WRB When))))
+52201,"(11,)",and then go and find the library books .,"[and/CC, then/RB, go/VB, and/CC, find/VB, the/DT, library/NN, books/NNS, ./.]",(ROOT (S (CC and) (VP (ADVP (RB then)) (VB go) (CC and) (VB find) (NP (DT the) (NN library) (NNS books))) (. .)))
+52201,"(12,)",I 'll move these .,"[I/PRP, 'll/MD, move/VB, these/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB move) (NP (DT these)))) (. .)))
+52201,"(13,)",,[],X
+52201,"(14,)",Are you going to brush your hair ?,"[Are/VBP, you/PRP, going/VBG, to/TO, brush/VB, your/PRP$, hair/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB brush) (NP (PRP$ your) (NN hair)))))) (. ?)))
+52201,"(15,)",I will do now   .,"[I/PRP, will/MD, do/VB, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB do) (ADVP (RB now)))) (. .)))
+52201,"(16,)",Oh aye .,"[Oh/UH, aye/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP aye)))) (. .)))
+52201,"(17,)",Can you take these bobble in please ?,"[Can/MD, you/PRP, take/VB, these/DT, bobble/NN, in/IN, please/VB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB take) (NP (DT these) (NN bobble)) (PP (IN in) (S (VP (VB please))))) (. ?)))
+52201,"(18,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+52201,"(19,)",They 'll only get lost in mine .,"[They/PRP, 'll/MD, only/RB, get/VB, lost/VBN, in/IN, mine/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (MD 'll) (ADVP (RB only)) (VP (VB get) (VP (VBN lost) (PP (IN in) (NP (NN mine)))))) (. .)))
+52201,"(20,)","Look , if you put it somewhere sensible like on the side of the mirror .","[Look/VB, ,/,, if/IN, you/PRP, put/VBP, it/PRP, somewhere/RB, sensible/JJ, like/IN, on/IN, the/DT, side/NN, of/IN, the/DT, mirror/NN, ./.]","(ROOT (S (VP (VB Look) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP put) (S (NP (PRP it)) (ADVP (RB somewhere)) (ADJP (JJ sensible) (PP (IN like) (PP (IN on) (NP (NP (DT the) (NN side)) (PP (IN of) (NP (DT the) (NN mirror)))))))))))) (. .)))"

@@ -1,0 +1,12 @@
+36903,"(0,)",There 's not many left out of the companies .,"[There/EX, 's/VBZ, not/RB, many/JJ, left/VBD, out/RP, of/IN, the/DT, companies/NNS, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (RB not) (ADJP (JJ many) (SBAR (S (VP (VBD left) (PRT (RP out)) (PP (IN of) (NP (DT the) (NNS companies)))))))) (. .)))
+36903,"(1,)","No , no outcome .","[No/DT, ,/,, no/DT, outcome/NN, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (DT no) (NN outcome)) (. .)))"
+36903,"(2,)",But   outside,"[But/CC, outside/IN]",(ROOT (FRAG (CC But) (PP (IN outside))))
+36903,"(3,)", Have you been     ?,"[Have/VB, you/PRP, been/VBN, ?/.]",(ROOT (SQ (VP (VB Have) (NP (PRP you)) (VP (VBN been))) (. ?)))
+36903,"(4,)","As I say , what 's the point of having   and the dogs ?","[As/IN, I/PRP, say/VBP, ,/,, what/WP, 's/VBZ, the/DT, point/NN, of/IN, having/VBG, and/CC, the/DT, dogs/NNS, ?/.]","(ROOT (SBARQ (SBAR (IN As) (S (NP (PRP I)) (VP (VBP say)))) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (NP (DT the) (NN point)) (PP (IN of) (S (VP (VBG having) (NP (CC and) (NP (NP (DT the)) (NP (NNS dogs))))))))) (. ?)))"
+36903,"(5,)",Mm !,"[Mm/NN, !/.]",(ROOT (NP (NN Mm) (. !)))
+36903,"(6,)","Look , the reason he jumps   .","[Look/VB, ,/,, the/DT, reason/NN, he/PRP, jumps/VBZ, ./.]","(ROOT (FRAG (S (VP (VB Look))) (, ,) (NP (DT the) (NN reason) (SBAR (S (NP (PRP he)) (VP (VBZ jumps))))) (. .)))"
+36903,"(7, 8)",Well  that was the end of that !,"[Well/RB, that/DT, was/VBD, the/DT, end/NN, of/IN, that/DT, !/.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBD was) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT that))))) (. !)))
+36903,"(9,)",Don 't know who that is !,"[Don/NNP, 't/PRP, know/VBP, who/WP, that/DT, is/VBZ, !/.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP know) (SBAR (WHNP (WP who)) (S (NP (DT that)) (VP (VBZ is))))) (. !)))
+36903,"(10,)",  .,[./.],(ROOT (NP (. .)))
+36903,"(11,)",Is it ?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
+36903,"(12,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))

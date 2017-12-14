@@ -1,0 +1,9 @@
+6904,"(0,)",Mu who 's that ?,"[Mu/NN, who/WP, 's/VBZ, that/IN, ?/.]",(ROOT (FRAG (NP (NP (NN Mu)) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (ADJP (IN that)))))) (. ?)))
+6904,"(1,)",Mhm ?,"[Mhm/NNP, ?/.]",(ROOT (FRAG (NP (NNP Mhm)) (. ?)))
+6904,"(2,)",Who ,[Who/WP],(ROOT (FRAG (WHNP (WP Who))))
+6904,"(3,)",Who 's what ?,"[Who/WP, 's/VBZ, what/WP, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (NP (WP what)))) (. ?)))
+6904,"(4,)",Who 's in that car .,"[Who/WP, 's/VBZ, in/IN, that/DT, car/NN, ./.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (PP (IN in) (NP (DT that) (NN car)))) (. .)))
+6904,"(5,)",Well they 're just people .,"[Well/RB, they/PRP, 're/VBP, just/RB, people/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP 're) (ADVP (RB just)) (NP (NNS people))) (. .)))
+6904,"(6,)"," Go on , out the way for god 's sake .","[Go/VB, on/IN, ,/,, out/IN, the/DT, way/NN, for/IN, god/NNP, 's/POS, sake/NN, ./.]","(ROOT (S (VP (VB Go) (PP (IN on)) (, ,) (PP (IN out) (NP (NP (DT the) (NN way)) (PP (IN for) (NP (NP (NNP god) (POS 's)) (NN sake)))))) (. .)))"
+6904,"(7,)",Why ,[Why/WRB],(ROOT (INTJ (WRB Why)))
+6904,"(8,)",Well it 's just a stupid person who can 't drive properly .,"[Well/RB, it/PRP, 's/VBZ, just/RB, a/DT, stupid/JJ, person/NN, who/WP, can/MD, 't/PRP, drive/VB, properly/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (DT a) (JJ stupid) (NN person)) (SBAR (WHNP (WP who)) (SINV (MD can) (NP (PRP 't)) (VP (VB drive) (ADVP (RB properly))))))) (. .)))

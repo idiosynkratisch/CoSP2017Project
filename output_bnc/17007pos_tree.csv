@@ -1,0 +1,8 @@
+17007,"(0,)",Recording commences at three past two .,"[Recording/VBG, commences/NNS, at/IN, three/CD, past/JJ, two/CD, ./.]",(ROOT (NP (NP (VBG Recording) (NNS commences)) (PP (IN at) (NP (CD three) (JJ past) (NX (CD two)))) (. .)))
+17007,"(1,)",With       .,"[With/IN, ./.]",(ROOT (FRAG (PP (IN With)) (. .)))
+17007,"(2, 3)",Got a Palace  picture on .,"[Got/VBD, a/DT, Palace/NN, picture/NN, on/IN, ./.]",(ROOT (S (VP (VBD Got) (NP (DT a) (NN Palace) (NN picture)) (PP (IN on))) (. .)))
+17007,"(4,)",Man United !,"[Man/NN, United/NNP, !/.]",(ROOT (NP (NP (NN Man)) (NP (NNP United)) (. !)))
+17007,"(5,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+17007,"(6,)",Don 't let them out .,"[Don/NNP, 't/PRP, let/VB, them/PRP, out/RP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB let) (NP (PRP them)) (PRT (RP out))) (. .)))
+17007,"(7,)",They can stay there .,"[They/PRP, can/MD, stay/VB, there/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (MD can) (VP (VB stay) (ADVP (RB there)))) (. .)))
+17007,"(8,)",We hate United .,"[We/PRP, hate/VBP, United/NNP, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP hate) (NP (NNP United))) (. .)))

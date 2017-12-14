@@ -1,0 +1,4 @@
+2204,"(0,)","So , do you feel your shopping was successful this morning ?","[So/RB, ,/,, do/VBP, you/PRP, feel/VB, your/PRP$, shopping/NN, was/VBD, successful/JJ, this/DT, morning/NN, ?/.]","(ROOT (SBARQ (SBAR (RB So)) (, ,) (SQ (VBP do) (NP (PRP you)) (VP (VB feel) (SBAR (S (NP (PRP$ your) (NN shopping)) (VP (VBD was) (ADJP (JJ successful)) (NP (DT this) (NN morning))))))) (. ?)))"
+2204,"(1,)","Quite successful , yeah ,  .","[Quite/RB, successful/JJ, ,/,, yeah/UH, ,/,, ./.]","(ROOT (S (NP (RB Quite)) (ADJP (ADJP (JJ successful)) (PRN (, ,) (INTJ (UH yeah)) (, ,))) (. .)))"
+2204,"(2,)",Delivered to Veronica .,"[Delivered/VBN, to/TO, Veronica/NNP, ./.]",(ROOT (S (VP (VBN Delivered) (PP (TO to) (NP (NNP Veronica)))) (. .)))
+2204,"(3,)",Ah yes .,"[Ah/NN, yes/RB, ./.]",(ROOT (FRAG (NP (NN Ah) (RB yes)) (. .)))

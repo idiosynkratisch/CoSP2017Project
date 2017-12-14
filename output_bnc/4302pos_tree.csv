@@ -1,0 +1,26 @@
+4302,"(0,)",What does he eat ?,"[What/WP, does/VBZ, he/PRP, eat/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (PRP he)) (VP (VB eat))) (. ?)))
+4302,"(1,)","Yum , yum ,  .","[Yum/NNP, ,/,, yum/NN, ,/,, ./.]","(ROOT (FRAG (NP (NP (NNP Yum)) (, ,) (NP (NN yum)) (, ,)) (. .)))"
+4302,"(2,)","I know , he says yum , yum , yum , what does he eat ?","[I/PRP, know/VBP, ,/,, he/PRP, says/VBZ, yum/NN, ,/,, yum/NN, ,/,, yum/NN, ,/,, what/WP, does/VBZ, he/PRP, eat/VB, ?/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP know))) (, ,) (NP (PRP he)) (VP (VBZ says) (NP (NP (NN yum)) (, ,) (NP (NN yum)) (, ,) (NP (NN yum)) (, ,) (SBAR (WHNP (WP what)) (S (VP (VBZ does) (S (NP (PRP he)) (VP (VB eat)))))))) (. ?)))"
+4302,"(3,)",He eats funny things doesn 't he ?,"[He/PRP, eats/VBZ, funny/JJ, things/NNS, doesn/VBP, 't/PRP, he/PRP, ?/.]",(ROOT (S (NP (PRP He)) (VP (VBZ eats) (SBAR (S (NP (JJ funny) (NNS things)) (VP (VBP doesn) (S (NP (PRP 't)) (NP (PRP he))))))) (. ?)))
+4302,"(4,)",Can you remember ?,"[Can/MD, you/PRP, remember/VB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB remember)) (. ?)))
+4302,"(5,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+4302,"(6,)","He doesn 't eat bread and butter like you do , does he ?","[He/PRP, doesn/VBZ, 't/PRP, eat/VB, bread/NN, and/CC, butter/NN, like/IN, you/PRP, do/VBP, ,/,, does/VBZ, he/PRP, ?/.]","(ROOT (SQ (S (NP (PRP He)) (VP (VBZ doesn) (S (NP (PRP 't)) (VP (VB eat) (NP (NN bread) (CC and) (NN butter)) (SBAR (IN like) (S (NP (PRP you)) (VP (VBP do)))))))) (, ,) (SQ (VBZ does) (NP (PRP he))) (. ?)))"
+4302,"(7,)",What does he eat ?,"[What/WP, does/VBZ, he/PRP, eat/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (PRP he)) (VP (VB eat))) (. ?)))
+4302,"(8,)","Mm , can you remember ?","[Mm/NN, ,/,, can/MD, you/PRP, remember/VB, ?/.]","(ROOT (S (NP (NN Mm)) (, ,) (VP (MD can) (NP (PRP you)) (S (VP (VB remember)))) (. ?)))"
+4302,"(9,)",No ?,"[No/DT, ?/.]",(ROOT (FRAG (NP (DT No)) (. ?)))
+4302,"(10,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+4302,"(11,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+4302,"(12,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+4302,"(13, 14)","Mhm  Right you going to sleep   for ten minutes , no , what a noise .","[Mhm/NNP, Right/NNP, you/PRP, going/VBG, to/TO, sleep/VB, for/IN, ten/CD, minutes/NNS, ,/,, no/DT, ,/,, what/WP, a/DT, noise/NN, ./.]","(ROOT (S (S (NP (NNP Mhm) (NNP Right) (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB sleep) (PP (IN for) (NP (NP (CD ten) (NNS minutes)) (, ,) (NP (DT no))))))))) (, ,) (FRAG (X (WP what)) (NP (DT a) (NN noise))) (. .)))"
+4302,"(15,)",,[],X
+4302,"(16,)",Does your baby make noises too ?,"[Does/VBZ, your/PRP$, baby/NN, make/VB, noises/NNS, too/RB, ?/.]",(ROOT (SQ (VBZ Does) (NP (PRP$ your) (NN baby)) (VP (VB make) (NP (NNS noises)) (ADVP (RB too))) (. ?)))
+4302,"(17,)","Yeah , Amy 's .","[Yeah/UH, ,/,, Amy/NNP, 's/POS, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (NNP Amy)) (VP (POS 's)) (. .)))"
+4302,"(18,)","Amy makes a lot of noise , doesn 't she .","[Amy/NNP, makes/VBZ, a/DT, lot/NN, of/IN, noise/NN, ,/,, doesn/NN, 't/PRP, she/PRP, ./.]","(ROOT (S (NP (NNP Amy)) (VP (VBZ makes) (S (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (NN noise)) (, ,) (NP (NP (NN doesn)) (NP (PRP 't)))))) (NP (PRP she)))) (. .)))"
+4302,"(19,)","No ,  .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"
+4302,"(20,)",What 's you dolly 's name ?,"[What/WP, 's/VBZ, you/PRP, dolly/NNP, 's/POS, name/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (ADVP (PRP you)) (NNP dolly) (POS 's)) (NN name))) (. ?)))
+4302,"(21,)","He 's called , he 's called Mrs Jacobs .","[He/PRP, 's/VBZ, called/VBN, ,/,, he/PRP, 's/VBZ, called/VBN, Mrs/NNP, Jacobs/NNP, ./.]","(ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (VP (VBN called)))) (, ,) (NP (PRP he)) (VP (VBZ 's) (VP (VBN called) (NP (NNP Mrs) (NNP Jacobs)))) (. .)))"
+4302,"(22,)",It 's called Mrs Jacobs is it ?,"[It/PRP, 's/VBZ, called/VBN, Mrs/NNP, Jacobs/NNP, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN called) (SBAR (S (NP (NNP Mrs) (NNP Jacobs)) (VP (VBZ is) (NP (PRP it))))))) (. ?)))
+4302,"(23,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+4302,"(24,)",I put in her here .,"[I/PRP, put/VBP, in/IN, her/PRP$, here/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP put) (PP (IN in) (NP (PRP$ her) (RB here)))) (. .)))
+4302,"(25,)","Oh you 're going to put her in how you started , that 's alright .","[Oh/UH, you/PRP, 're/VBP, going/VBG, to/TO, put/VB, her/PRP, in/IN, how/WRB, you/PRP, started/VBD, ,/,, that/DT, 's/VBZ, alright/JJ, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB put) (NP (PRP her)) (PP (IN in) (SBAR (WHADVP (WRB how)) (S (NP (PRP you)) (VP (VBD started))))))))))) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))"
+4302,"(26,)","Amy 's not using it at the moment , oh goodness me .","[Amy/NNP, 's/POS, not/RB, using/VBG, it/PRP, at/IN, the/DT, moment/NN, ,/,, oh/UH, goodness/NN, me/PRP, ./.]","(ROOT (NP (NP (NP (NP (NNP Amy) (POS 's)) (ADJP (RB not) (S (VP (VBG using) (NP (NP (PRP it)) (PP (IN at) (NP (NP (DT the) (NN moment)) (, ,)))) (FRAG (INTJ (UH oh)))))) (NN goodness)) (PRN (NP (PRP me)))) (. .)))"

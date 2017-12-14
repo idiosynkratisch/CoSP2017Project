@@ -1,0 +1,10 @@
+2719,"(0,)",I think you 've got to move the yellow near one of my hoops .,"[I/PRP, think/VBP, you/PRP, 've/VBP, got/VBN, to/TO, move/VB, the/DT, yellow/JJ, near/IN, one/CD, of/IN, my/PRP$, hoops/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB move) (NP (DT the) (JJ yellow)) (PP (IN near) (NP (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NNS hoops))))))))))))) (. .)))
+2719,"(1,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2719,"(2,)",,[],X
+2719,"(3,)",Now that 's your next hoop isn 't it ?,"[Now/RB, that/DT, 's/VBZ, your/PRP$, next/JJ, hoop/NN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (ADVP (RB Now)) (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP$ your) (JJ next) (NN hoop) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+2719,"(4,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2719,"(5, 6)","I am , I am indeed , yes , yes , I  I 've got to deal with it some way , somehow .","[I/PRP, am/VBP, ,/,, I/PRP, am/VBP, indeed/RB, ,/,, yes/UH, ,/,, yes/UH, ,/,, I/PRP, I/PRP, 've/VBP, got/VBN, to/TO, deal/VB, with/IN, it/PRP, some/DT, way/NN, ,/,, somehow/RB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP am))) (, ,) (NP (PRP I)) (VP (VBP am) (ADVP (RB indeed)) (, ,) (INTJ (UH yes) (, ,) (UH yes)) (, ,) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB deal) (PP (IN with) (NP (NP (PRP it)) (NP (DT some) (NN way)))) (, ,) (ADVP (RB somehow))))))))))) (. .)))"
+2719,"(7,)",,[],X
+2719,"(8,)",Move yellow onto red .,"[Move/VB, yellow/JJ, onto/IN, red/JJ, ./.]",(ROOT (S (VP (VB Move) (ADJP (JJ yellow) (PP (IN onto) (ADJP (JJ red))))) (. .)))
+2719,"(9,)",,[],X
+2719,"(10,)","Yes , yes , O K .","[Yes/UH, ,/,, yes/UH, ,/,, O/NN, K/NN, ./.]","(ROOT (FRAG (INTJ (UH Yes) (, ,) (UH yes)) (, ,) (NP (NN O) (NN K)) (. .)))"

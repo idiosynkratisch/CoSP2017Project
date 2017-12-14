@@ -1,0 +1,18 @@
+2614,"(0,)",Is he there ?,"[Is/VBZ, he/PRP, there/EX, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP he)) (NP (EX there)) (. ?)))
+2614,"(1,)",Yep .,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+2614,"(2,)",Seen my glasses   ?,"[Seen/VBN, my/PRP$, glasses/NNS, ?/.]",(ROOT (S (VP (VBN Seen) (NP (PRP$ my) (NNS glasses))) (. ?)))
+2614,"(3,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+2614,"(4,)",How would you like your coffee love ?,"[How/WRB, would/MD, you/PRP, like/VB, your/PRP$, coffee/NN, love/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (MD would) (NP (PRP you)) (VP (VB like) (NP (PRP$ your) (NN coffee) (NN love)))) (. ?)))
+2614,"(5,)", thank you .,"[thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB thank) (NP (PRP you))) (. .)))
+2614,"(6,)",,[],X
+2614,"(7,)",,[],X
+2614,"(8,)",,[],X
+2614,"(9,)",On whose behalf should I arrears ?,"[On/IN, whose/WP$, behalf/NN, should/MD, I/PRP, arrears/NNS, ?/.]",(ROOT (FRAG (PP (IN On) (SBAR (WHNP (WP$ whose) (NN behalf)) (S (VP (MD should)) (NP (PRP I) (NNS arrears))))) (. ?)))
+2614,"(10,)",Interest .,"[Interest/NN, ./.]",(ROOT (NP (NN Interest) (. .)))
+2614,"(11,)","Oh , really ?","[Oh/UH, ,/,, really/RB, ?/.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (RB really)) (. ?)))"
+2614,"(12,)", I don 't need it anyhow .,"[I/PRP, don/VBP, 't/PRP, need/VB, it/PRP, anyhow/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need) (NP (PRP it)) (ADVP (RB anyhow))))) (. .)))
+2614,"(13,)",Actually an interesting article is it ?,"[Actually/RB, an/DT, interesting/JJ, article/NN, is/VBZ, it/PRP, ?/.]",(ROOT (S (ADVP (RB Actually)) (NP (DT an) (JJ interesting) (NN article)) (VP (VBZ is) (NP (PRP it))) (. ?)))
+2614,"(14,)",Yes actually an interesting article .,"[Yes/UH, actually/RB, an/DT, interesting/JJ, article/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (RB actually) (DT an) (JJ interesting) (NN article)))) (. .)))
+2614,"(15, 16)",Mm  Go and put a jumper on I think .,"[Mm/NN, Go/VB, and/CC, put/VB, a/DT, jumper/NN, on/IN, I/PRP, think/VBP, ./.]",(ROOT (S (NP (NN Mm) (S (VP (VB Go) (CC and) (VB put) (NP (DT a) (NN jumper)) (PP (IN on) (NP (PRP I)))))) (VP (VBP think)) (. .)))
+2614,"(17,)","Jo who does my hair is off too , on Thursday , to the Caribbeans to be married .","[Jo/NNP, who/WP, does/VBZ, my/PRP$, hair/NN, is/VBZ, off/RB, too/RB, ,/,, on/IN, Thursday/NNP, ,/,, to/TO, the/DT, Caribbeans/NNPS, to/TO, be/VB, married/VBN, ./.]","(ROOT (S (NP (NP (NNP Jo)) (SBAR (WHNP (WP who)) (S (VP (VBZ does) (NP (PRP$ my) (NN hair)))))) (VP (VBZ is) (ADVP (RB off) (RB too)) (, ,) (PP (IN on) (NP (NNP Thursday))) (, ,) (PP (TO to) (NP (DT the) (NNPS Caribbeans))) (S (VP (TO to) (VP (VB be) (VP (VBN married)))))) (. .)))"
+2614,"(18,)","Golly , very exotic .","[Golly/NNP, ,/,, very/RB, exotic/JJ, ./.]","(ROOT (FRAG (NP (NP (NNP Golly)) (, ,) (ADJP (RB very) (JJ exotic))) (. .)))"

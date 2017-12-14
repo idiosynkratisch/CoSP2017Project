@@ -1,0 +1,3 @@
+39604,"(0,)",Well yeah I su- I suppose there must be !,"[Well/RB, yeah/UH, I/PRP, su-/VBP, I/PRP, suppose/VB, there/RB, must/MD, be/VB, !/.]",(ROOT (S (SBAR (ADVP (RB Well)) (S (INTJ (UH yeah)) (NP (PRP I)) (VP (VBP su-) (S (NP (PRP I)) (VP (VB suppose) (ADVP (RB there))))))) (VP (MD must) (VP (VB be))) (. !)))
+39604,"(1,)",,[],X
+39604,"(2,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

@@ -1,0 +1,44 @@
+64002,"(0,)",You 've been a long time !,"[You/PRP, 've/VBP, been/VBN, a/DT, long/JJ, time/NN, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBN been) (NP (DT a) (JJ long) (NN time)))) (. !)))
+64002,"(1,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+64002,"(2,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+64002,"(3,)",I don 't know .,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+64002,"(4, 5)",It  ,[It/PRP],(ROOT (FRAG (NP (PRP It))))
+64002,"(6,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+64002,"(7,)","They 're showing all them , mm , all the er wickets and all the runs from the first day onwards .","[They/PRP, 're/VBP, showing/VBG, all/DT, them/PRP, ,/,, mm/NN, ,/,, all/PDT, the/DT, er/NN, wickets/NNS, and/CC, all/PDT, the/DT, runs/NNS, from/IN, the/DT, first/JJ, day/NN, onwards/NNS, ./.]","(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG showing) (NP (DT all)) (NP (NP (PRP them)) (, ,) (NP (NN mm)) (, ,) (NP (PDT all) (DT the) (NN er) (NNS wickets)) (CC and) (NP (PDT all) (DT the) (NNS runs))) (PP (IN from) (NP (DT the) (JJ first) (NN day) (NNS onwards))))) (. .)))"
+64002,"(8,)",That was on the first day .,"[That/DT, was/VBD, on/IN, the/DT, first/JJ, day/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBD was) (PP (IN on) (NP (DT the) (JJ first) (NN day)))) (. .)))
+64002,"(9,)","No , this is the third day .","[No/DT, ,/,, this/DT, is/VBZ, the/DT, third/JJ, day/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ third) (NN day))) (. .)))"
+64002,"(10,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+64002,"(11,)",And me- we 've missed the first two innings .,"[And/CC, me-/NN, we/PRP, 've/VBP, missed/VBN, the/DT, first/JJ, two/CD, innings/NNS, ./.]",(ROOT (FRAG (CC And) (NP (NP (NN me-)) (SBAR (S (NP (PRP we)) (VP (VBP 've) (VP (VBN missed) (NP (DT the) (JJ first) (CD two) (NNS innings))))))) (. .)))
+64002,"(12,)",Pardon ?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+64002,"(13,)",We 've missed the first two innings .,"[We/PRP, 've/VBP, missed/VBN, the/DT, first/JJ, two/CD, innings/NNS, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 've) (VP (VBN missed) (NP (DT the) (JJ first) (CD two) (NNS innings)))) (. .)))
+64002,"(14,)",Are you playing on Saturday ?,"[Are/VBP, you/PRP, playing/VBG, on/IN, Saturday/NNP, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG playing) (PP (IN on) (NP (NNP Saturday)))) (. ?)))
+64002,"(15,)",Dunno .,"[Dunno/NNP, ./.]",(ROOT (FRAG (NP (NNP Dunno)) (. .)))
+64002,"(16,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+64002,"(17,)","No I 'm not ,  .","[No/DT, I/PRP, 'm/VBP, not/RB, ,/,, ./.]","(ROOT (S (S (NP (DT No) (PRP I)) (VP (VBP 'm) (RB not)) (, ,)) (. .)))"
+64002,"(18,)",They 've taken that   .,"[They/PRP, 've/VBP, taken/VBN, that/DT, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBN taken) (NP (DT that)))) (. .)))
+64002,"(19, 20)",See Van Basten got another  hat trick .,"[See/VB, Van/NNP, Basten/NNP, got/VBD, another/DT, hat/NN, trick/NN, ./.]",(ROOT (S (VP (VB See) (SBAR (S (NP (NNP Van) (NNP Basten)) (VP (VBD got) (NP (DT another) (NN hat) (NN trick)))))) (. .)))
+64002,"(21, 22)",Well on  A C Milan,"[Well/RB, on/IN, A/DT, C/NN, Milan/NNP]",(ROOT (FRAG (PP (ADVP (RB Well)) (IN on) (NP (DT A) (NN C))) (NP (NNP Milan))))
+64002,"(23,)",Did you see it this morning ?,"[Did/VBD, you/PRP, see/VB, it/PRP, this/DT, morning/NN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB see) (NP (PRP it)) (NP (DT this) (NN morning))) (. ?)))
+64002,"(24,)",Did you see all the goals this morning ?,"[Did/VBD, you/PRP, see/VB, all/PDT, the/DT, goals/NNS, this/DT, morning/NN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB see) (NP (PDT all) (DT the) (NNS goals)) (NP (DT this) (NN morning))) (. ?)))
+64002,"(25,)",Well what on ?,"[Well/RB, what/WP, on/IN, ?/.]",(ROOT (FRAG (SBARQ (WHNP (WHADJP (RB Well) (WP what)) (PP (IN on))) (. ?))))
+64002,"(26,)",Channel Four .,"[Channel/NNP, Four/CD, ./.]",(ROOT (NP (NP (NNP Channel)) (NP (CD Four)) (. .)))
+64002,"(27, 28)",They o- show all the  Italian goals on Channel Four .,"[They/PRP, o-/JJ, show/NN, all/PDT, the/DT, Italian/JJ, goals/NNS, on/IN, Channel/NNP, Four/CD, ./.]",(ROOT (NP (NP (PRP They)) (NP (NP (JJ o-) (NN show)) (NP (PDT all) (DT the) (JJ Italian) (NNS goals))) (PP (IN on) (NP (NNP Channel) (CD Four))) (. .)))
+64002,"(29,)",What on ?,"[What/WDT, on/IN, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (PP (IN on)) (. ?)))
+64002,"(30,)",What time ?,"[What/WDT, time/NN, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NN time)) (. ?)))
+64002,"(31,)",Channel Four News .,"[Channel/NNP, Four/CD, News/NN, ./.]",(ROOT (NP (NP (NNP Channel)) (NP (CD Four) (NN News)) (. .)))
+64002,"(32,)",Half past eight .,"[Half/DT, past/JJ, eight/CD, ./.]",(ROOT (NP (NP (QP (DT Half))) (PP (JJ past) (NP (CD eight))) (. .)))
+64002,"(33,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+64002,"(34,)",I 'm   .,"[I/PRP, 'm/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm)) (. .)))
+64002,"(35,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+64002,"(36, 37)","Show all the goals from Europe , and  Spain , and Germany , and Italy .","[Show/VB, all/PDT, the/DT, goals/NNS, from/IN, Europe/NNP, ,/,, and/CC, Spain/NNP, ,/,, and/CC, Germany/NNP, ,/,, and/CC, Italy/NNP, ./.]","(ROOT (S (VP (VB Show) (NP (PDT all) (DT the) (NNS goals)) (PP (IN from) (NP (NP (NNP Europe)) (, ,) (CC and) (PRN (NP (NNP Spain))) (, ,) (CC and) (NP (NNP Germany)) (, ,) (CC and) (NP (NNP Italy))))) (. .)))"
+64002,"(38,)",Every day ?,"[Every/DT, day/NN, ?/.]",(ROOT (NP (DT Every) (NN day) (. ?)))
+64002,"(39,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+64002,"(40,)","Just , well I dunno , cos they 're not on every day are they ?","[Just/RB, ,/,, well/RB, I/PRP, dunno/VBP, ,/,, cos/NNP, they/PRP, 're/VBP, not/RB, on/IN, every/DT, day/NN, are/VBP, they/PRP, ?/.]","(ROOT (S (ADVP (RB Just)) (PRN (, ,) (S (ADVP (RB well)) (NP (PRP I)) (VP (VBP dunno))) (, ,)) (NP (NP (NNP cos)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (RB not) (PP (IN on) (NP (DT every) (NN day))))))) (VP (VBP are) (NP (PRP they))) (. ?)))"
+64002,"(41,)",They don 't play every day of the week do they ?,"[They/PRP, don/VBP, 't/PRP, play/VB, every/DT, day/NN, of/IN, the/DT, week/NN, do/VBP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB play) (SBAR (S (NP (NP (DT every) (NN day)) (PP (IN of) (NP (DT the) (NN week)))) (VP (VBP do) (NP (PRP they)))))))) (. ?)))
+64002,"(42,)",A bit too tired don 't you think ?,"[A/DT, bit/NN, too/RB, tired/JJ, don/NNP, 't/PRP, you/PRP, think/VB, ?/.]",(ROOT (NP (NP (NP (NP (DT A) (NN bit)) (ADJP (RB too) (JJ tired))) (PP (NNP don) (NP (PRP 't)))) (SBAR (S (NP (PRP you)) (VP (VB think)))) (. ?)))
+64002,"(43, 44, 45)",Most teams do  in  F A .,"[Most/JJS, teams/NNS, do/VBP, in/IN, F/NN, A/DT, ./.]",(ROOT (S (NP (JJS Most) (NNS teams)) (VP (VBP do) (PP (IN in) (NP (NN F) (DT A)))) (. .)))
+64002,"(46,)",,[],X
+64002,"(47,)","It was er , first division .","[It/PRP, was/VBD, er/NN, ,/,, first/RB, division/NN, ./.]","(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NN er) (, ,) (RB first) (NN division))) (. .)))"
+64002,"(48,)",Who ?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+64002,"(49,)","Well , second division teams .","[Well/RB, ,/,, second/JJ, division/NN, teams/NNS, ./.]","(ROOT (X (ADVP (RB Well)) (, ,) (NP (NP (JJ second) (NN division)) (NP (NNS teams))) (. .)))"
+64002,"(50,)",No they don 't .,"[No/DT, they/PRP, don/VBP, 't/PRP, ./.]",(ROOT (S (NP (DT No) (PRP they)) (VP (VBP don) (NP (PRP 't))) (. .)))

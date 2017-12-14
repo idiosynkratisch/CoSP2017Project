@@ -1,0 +1,36 @@
+67604,"(0,)",We forgot to put it in last night anyway .,"[We/PRP, forgot/VBD, to/TO, put/VB, it/PRP, in/IN, last/JJ, night/NN, anyway/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBD forgot) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PP (IN in) (NP (JJ last) (NN night))) (ADVP (RB anyway)))))) (. .)))
+67604,"(1,)","Well it didn 't , really didn 't matter for last night cos I was   at school .","[Well/RB, it/PRP, didn/VB, 't/PRP, ,/,, really/RB, didn/JJ, 't/PRP, matter/NN, for/IN, last/JJ, night/NN, cos/NN, I/PRP, was/VBD, at/IN, school/NN, ./.]","(ROOT (S (SBAR (ADVP (RB Well)) (S (NP (PRP it)) (VP (VB didn) (NP (PRP 't))))) (, ,) (NP (ADJP (RB really) (JJ didn)) (NP (PRP 't))) (VP (NN matter) (PP (IN for) (NP (NP (JJ last) (NN night) (NN cos)) (SBAR (S (NP (PRP I)) (VP (VBD was) (PP (IN at) (NP (NN school))))))))) (. .)))"
+67604,"(2,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+67604,"(3,)",What did you do there ?,"[What/WP, did/VBD, you/PRP, do/VBP, there/EX, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP you)) (VP (VBP do) (NP (EX there)))) (. ?)))
+67604,"(4,)",What was   ?,"[What/WP, was/VBD, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBD was))) (. ?)))
+67604,"(5,)", Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+67604,"(6,)",I 'm tired   .,"[I/PRP, 'm/VBP, tired/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ tired))) (. .)))
+67604,"(7,)",,[],X
+67604,"(8,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+67604,"(9, 10)",You go  you go over it with a brush .,"[You/PRP, go/VBP, you/PRP, go/VB, over/IN, it/PRP, with/IN, a/DT, brush/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP go) (S (NP (PRP you)) (VP (VB go) (PP (IN over) (NP (PRP it))) (PP (IN with) (NP (DT a) (NN brush)))))) (. .)))
+67604,"(11,)",Well,[Well/RB],(ROOT (INTJ (RB Well)))
+67604,"(12,)",,[],X
+67604,"(13,)",you got one in your hand .,"[you/PRP, got/VBD, one/CD, in/IN, your/PRP$, hand/NN, ./.]",(ROOT (S (NP (PRP you)) (VP (VBD got) (NP (CD one)) (PP (IN in) (NP (PRP$ your) (NN hand)))) (. .)))
+67604,"(14,)",Wha- tt !,"[Wha-/JJ, tt/NN, !/.]",(ROOT (NP (JJ Wha-) (NN tt) (. !)))
+67604,"(15,)",Silly me !,"[Silly/JJ, me/PRP, !/.]",(ROOT (NP (NP (JJ Silly)) (NP (PRP me)) (. !)))
+67604,"(16, 17)", Tired .,"[Tired/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Tired)) (. .)))
+67604,"(18,)",,[],X
+67604,"(19,)",Hot int it ?,"[Hot/JJ, int/NN, it/PRP, ?/.]",(ROOT (FRAG (NP (JJ Hot) (NN int)) (NP (PRP it)) (. ?)))
+67604,"(20, 21)","It 's  ten , it 's five past","[It/PRP, 's/VBZ, ten/CD, ,/,, it/PRP, 's/VBZ, five/CD, past/JJ]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (CD ten)) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (CD five)) (JJ past)))))))))"
+67604,"(22,)",It 's five to,"[It/PRP, 's/VBZ, five/CD, to/TO]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (CD five)) (PP (TO to)))))
+67604,"(23,)",past .,"[past/NN, ./.]",(ROOT (NP (NN past) (. .)))
+67604,"(24,)",it 's five to eight .,"[it/PRP, 's/VBZ, five/CD, to/TO, eight/CD, ./.]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (NP (QP (CD five) (TO to) (CD eight)))) (. .)))
+67604,"(25,)",I 'm shivering .,"[I/PRP, 'm/VBP, shivering/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG shivering))) (. .)))
+67604,"(26,)",Ooh !,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+67604,"(27,)",It 's cold .,"[It/PRP, 's/VBZ, cold/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ cold))) (. .)))
+67604,"(28,)",Here .,"[Here/RB, ./.]",(ROOT (FRAG (ADVP (RB Here)) (. .)))
+67604,"(29,)",You can say that again .,"[You/PRP, can/MD, say/VB, that/DT, again/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB say) (NP (DT that)) (ADVP (RB again)))) (. .)))
+67604,"(30,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+67604,"(31,)",Hold that like that .,"[Hold/VB, that/DT, like/IN, that/DT, ./.]",(ROOT (S (VP (VB Hold) (NP (NP (DT that)) (PP (IN like) (NP (DT that))))) (. .)))
+67604,"(32, 33, 34)","   Postman Pat , Postman Pat , Postman Pat  and black and white cat   .","[Postman/NN, Pat/NN, ,/,, Postman/NN, Pat/NN, ,/,, Postman/NN, Pat/NN, and/CC, black/JJ, and/CC, white/JJ, cat/NN, ./.]","(ROOT (NP (NP (NN Postman) (NN Pat)) (, ,) (NP (NP (NN Postman) (NN Pat)) (, ,) (NP (NN Postman) (NN Pat)) (CC and) (NP (JJ black) (CC and) (JJ white) (NN cat))) (. .)))"
+67604,"(35,)",Wo ho ha ha oh oh ha ha .,"[Wo/MD, ho/NNP, ha/NNP, ha/NNP, oh/UH, oh/UH, ha/FW, ha/FW, ./.]",(ROOT (S (VP (MD Wo) (VP (NP (NP (NNP ho) (NNP ha) (NNP ha)) (SBAR (S (VP (NP (INTJ (UH oh) (UH oh)) (NP (FW ha) (FW ha))))))))) (. .)))
+67604,"(36,)",Early in the morning   .,"[Early/RB, in/IN, the/DT, morning/NN, ./.]",(ROOT (FRAG (ADVP (RB Early) (PP (IN in) (NP (DT the) (NN morning)))) (. .)))
+67604,"(37,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+67604,"(38,)",I laugh like a seal !,"[I/PRP, laugh/NN, like/IN, a/DT, seal/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (NN laugh) (PP (IN like) (NP (DT a) (NN seal)))) (. !)))
+67604,"(39, 40, 41)",  Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+67604,"(42, 43)","Er ,  .","[Er/NN, ,/,, ./.]","(ROOT (S (NP (NN Er)) (VP (, ,)) (. .)))"

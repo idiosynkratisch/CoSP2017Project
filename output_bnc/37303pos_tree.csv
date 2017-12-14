@@ -1,0 +1,38 @@
+37303,"(0,)"," Oh God , those blasted sweets !","[Oh/UH, God/NNP, ,/,, those/DT, blasted/VBD, sweets/NNS, !/.]","(ROOT (S (INTJ (UH Oh) (NNP God)) (, ,) (NP (DT those)) (VP (VBD blasted) (NP (NNS sweets))) (. !)))"
+37303,"(1,)",He looks   that I know mum .,"[He/PRP, looks/VBZ, that/IN, I/PRP, know/VBP, mum/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ looks) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP know) (NP (NN mum)))))) (. .)))
+37303,"(2,)",Does he really ?,"[Does/VBZ, he/PRP, really/RB, ?/.]",(ROOT (S (VP (VBZ Does) (NP (PRP he)) (ADVP (RB really))) (. ?)))
+37303,"(3,)","The , long hair I reckon .","[The/DT, ,/,, long/RB, hair/NN, I/PRP, reckon/VBP, ./.]","(ROOT (S (NP (DT The)) (, ,) (X (ADVP (RB long)) (NP (NN hair))) (NP (PRP I)) (VP (VBP reckon)) (. .)))"
+37303,"(4,)",What there ?,"[What/WDT, there/EX, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (EX there))) (. ?)))
+37303,"(5,)","Yeah , that 's a mole .","[Yeah/UH, ,/,, that/DT, 's/VBZ, a/DT, mole/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (DT a) (NN mole))) (. .)))"
+37303,"(6,)",Cos then it catches the light .,"[Cos/NNP, then/RB, it/PRP, catches/VBZ, the/DT, light/NN, ./.]",(ROOT (S (NP (NNP Cos)) (RB then) (NP (PRP it)) (VP (VBZ catches) (NP (DT the) (NN light))) (. .)))
+37303,"(7,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+37303,"(8,)",It looks like a line .,"[It/PRP, looks/VBZ, like/IN, a/DT, line/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ looks) (PP (IN like) (NP (DT a) (NN line)))) (. .)))
+37303,"(9,)",,[],X
+37303,"(10,)",Which makes him real menacing !,"[Which/WDT, makes/VBZ, him/PRP, real/JJ, menacing/JJ, !/.]",(ROOT (S (NP (WDT Which)) (VP (VBZ makes) (S (NP (PRP him)) (ADJP (JJ real) (JJ menacing)))) (. !)))
+37303,"(11,)",Mm !,"[Mm/NN, !/.]",(ROOT (NP (NN Mm) (. !)))
+37303,"(12,)",Horrible !,"[Horrible/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Horrible)) (. !)))
+37303,"(13,)",Mm ! innit ?,"[Mm/NN, !/., innit/NNP, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. !) (NP (NNP innit)) (. ?)))
+37303,"(14,)"," children of my own , they asked what will I be ?","[children/NNS, of/IN, my/PRP$, own/JJ, ,/,, they/PRP, asked/VBD, what/WP, will/MD, I/PRP, be/VB, ?/.]","(ROOT (S (S (NP (NP (NNS children)) (PP (IN of) (NP (PRP$ my) (JJ own))))) (, ,) (NP (PRP they)) (VP (VBD asked) (SBAR (SBARQ (WHNP (WP what)) (SQ (MD will) (NP (PRP I)) (VP (VB be)))))) (. ?)))"
+37303,"(15,)",Will I   ?,"[Will/MD, I/PRP, ?/.]",(ROOT (S (VP (MD Will) (VP (NP (PRP I)))) (. ?)))
+37303,"(16,)",Will I be rich ?,"[Will/MD, I/PRP, be/VB, rich/JJ, ?/.]",(ROOT (SQ (MD Will) (NP (PRP I)) (VP (VB be) (ADJP (JJ rich))) (. ?)))
+37303,"(17, 18)","Ca cera cera , whatever will be will be , the future 's not ours to see , Ca cera cera , what will be  Ca cera cera   !","[Ca/NNP, cera/NNP, cera/NNP, ,/,, whatever/WDT, will/MD, be/VB, will/MD, be/VB, ,/,, the/DT, future/NN, 's/POS, not/RB, ours/JJ, to/TO, see/VB, ,/,, Ca/MD, cera/NNP, cera/NNP, ,/,, what/WP, will/MD, be/VB, Ca/JJ, cera/NNP, cera/NNP, !/.]","(ROOT (S (NP (NNP Ca) (NNP cera) (NNP cera)) (, ,) (SBAR (WHNP (WDT whatever)) (S (VP (MD will) (VP (VB be) (VP (MD will) (VP (VB be))))))) (, ,) (S (NP (DT the) (NN future) (POS 's)) (X (X (RB not)) (ADJP (JJ ours) (S (VP (TO to) (VP (VB see))))))) (, ,) (VP (MD Ca) (S (NP (NP (NP (NNP cera) (NNP cera)) (, ,) (SBAR (WHNP (WP what)) (S (VP (MD will) (VP (VB be) (ADJP (JJ Ca))))))) (NP (NNP cera) (NNP cera))))) (. !)))"
+37303,"(19,)", Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+37303,"(20,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+37303,"(21,)",Oh   !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+37303,"(22,)",Urgh !,"[Urgh/NN, !/.]",(ROOT (NP (NN Urgh) (. !)))
+37303,"(23, 24)", that 's horrible innit ?,"[that/DT, 's/VBZ, horrible/JJ, innit/NN, ?/.]",(ROOT (SBARQ (WHADVP (DT that)) (SQ (VBZ 's) (NP (JJ horrible) (NN innit))) (. ?)))
+37303,"(25,)",It looks awful !,"[It/PRP, looks/VBZ, awful/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ looks) (ADJP (JJ awful))) (. !)))
+37303,"(26,)",Looks like Granny >  .,"[Looks/NNS, like/IN, Granny/NNP, >/JJR, ./.]",(ROOT (NP (NP (NP (NNS Looks)) (PP (IN like) (NP (NNP Granny)))) (ADJP (JJR >)) (. .)))
+37303,"(27, 28)", Does it ?,"[Does/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Does) (NP (PRP it))) (. ?)))
+37303,"(29,)",Well really !,"[Well/RB, really/RB, !/.]",(ROOT (FRAG (ADVP (RB Well)) (RB really) (. !)))
+37303,"(30,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+37303,"(31,)","And this , bit   .","[And/CC, this/DT, ,/,, bit/NN, ./.]","(ROOT (FRAG (CC And) (NP (NP (DT this)) (, ,) (NP (NN bit)) (. .))))"
+37303,"(32,)",I have !,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+37303,"(33,)",I have !,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+37303,"(34,)",I have !,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+37303,"(35,)",I have !,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+37303,"(36,)",,[],X
+37303,"(37,)",I have !,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+37303,"(38,)",I have !,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+37303,"(39,)",,[],X
+37303,"(40,)"," Yoh , ho ho ho ho ho   !","[Yoh/NNP, ,/,, ho/NNP, ho/NNP, ho/NNP, ho/NNP, ho/NNP, !/.]","(ROOT (NP (NP (NNP Yoh)) (, ,) (NP (NNP ho) (NNP ho) (NNP ho) (NNP ho) (NNP ho)) (. !)))"

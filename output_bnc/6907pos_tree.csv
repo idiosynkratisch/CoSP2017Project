@@ -1,0 +1,7 @@
+6907,"(0,)",What 's that mummy ?,"[What/WP, 's/VBZ, that/DT, mummy/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (DT that) (NN mummy))) (. ?)))
+6907,"(1,)",Pardon darling .,"[Pardon/NN, darling/NN, ./.]",(ROOT (NP (NP (NN Pardon)) (NP (NN darling)) (. .)))
+6907,"(2,)",What 's that ?,"[What/WP, 's/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (ADJP (IN that))) (. ?)))
+6907,"(3,)",What 's what ?,"[What/WP, 's/VBZ, what/WP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBZ 's) (NP (WP what)))) (. ?)))
+6907,"(4,)",What   that ?,"[What/WDT, that/WDT, ?/.]",(ROOT (FRAG (SBAR (WHNP (WDT What)) (FRAG (SBARQ (WHNP (WDT that)) (. ?))))))
+6907,"(5, 6, 7)",Oh that 's just a thank you because  the person in the car behind let me through  so I just said thank you .,"[Oh/UH, that/DT, 's/VBZ, just/RB, a/DT, thank/VB, you/PRP, because/IN, the/DT, person/NN, in/IN, the/DT, car/NN, behind/IN, let/VB, me/PRP, through/IN, so/IN, I/PRP, just/RB, said/VBD, thank/VB, you/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (S (NP (RB just) (DT a)) (VP (VB thank) (NP (PRP you)) (PP (IN because) (NP (NP (DT the) (NN person)) (PP (IN in) (NP (DT the) (NN car))))) (ADVP (IN behind)) (VP (VB let) (NP (PRP me)) (PP (IN through))))))) (IN so) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD said) (VP (VB thank) (NP (PRP you))))) (. .)))
+6907,"(8,)",That was all .,"[That/DT, was/VBD, all/DT, ./.]",(ROOT (S (NP (DT That)) (VP (VBD was) (NP (DT all))) (. .)))

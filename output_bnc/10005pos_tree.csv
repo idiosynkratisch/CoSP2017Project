@@ -1,0 +1,4 @@
+10005,"(0,)","Somebody had a load of boilers away like we got down our house , central heating boilers .","[Somebody/NN, had/VBD, a/DT, load/NN, of/IN, boilers/NNS, away/RB, like/IN, we/PRP, got/VBD, down/RP, our/PRP$, house/NN, ,/,, central/JJ, heating/NN, boilers/NNS, ./.]","(ROOT (SINV (S (NP (NN Somebody)) (VP (VBD had) (NP (NP (DT a) (NN load)) (PP (IN of) (NP (NNS boilers)))))) (VP (ADVP (RB away) (PP (IN like) (NP (PRP we)))) (VBD got) (PRT (RP down))) (NP (NP (PRP$ our) (NN house)) (, ,) (NP (JJ central) (NN heating) (NNS boilers))) (. .)))"
+10005,"(1,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+10005,"(2,)","Forty three , thirty nine thousand quids worth .","[Forty/CD, three/CD, ,/,, thirty/CD, nine/CD, thousand/CD, quids/NNS, worth/JJ, ./.]","(ROOT (NP (NP (CD Forty) (CD three)) (, ,) (NP (NP (CD thirty) (CD nine)) (ADJP (NP (CD thousand) (NNS quids)) (JJ worth))) (. .)))"
+10005,"(3,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))

@@ -1,0 +1,101 @@
+75801,"(0,)",How are you ?,"[How/WRB, are/VBP, you/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (PRP you))) (. ?)))
+75801,"(1,)","Fine , thank you .","[Fine/NN, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (NP (NN Fine)) (, ,) (VP (VB thank) (NP (PRP you))) (. .)))"
+75801,"(2,)",I 've got a,"[I/PRP, 've/VBP, got/VBD, a/DT]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a))))))
+75801,"(3,)",Find your,"[Find/VB, your/PRP$]",(ROOT (S (VP (VB Find) (NP (PRP$ your)))))
+75801,"(4,)","headache , but","[headache/NN, ,/,, but/CC]","(ROOT (NP (NP (NN headache)) (, ,) (NP (CC but))))"
+75801,"(5,)",Surviving ?,"[Surviving/VBG, ?/.]",(ROOT (S (VP (VBG Surviving)) (. ?)))
+75801,"(6,)",I feel a lot better .,"[I/PRP, feel/VBP, a/DT, lot/RB, better/JJR, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP feel) (ADJP (NP (DT a) (RB lot)) (JJR better))) (. .)))
+75801,"(7,)",Oh well .,"[Oh/UH, well/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB well)))) (. .)))
+75801,"(8,)",I went for a walk out this morning but I just couldn 't stand it .,"[I/PRP, went/VBD, for/IN, a/DT, walk/NN, out/IN, this/DT, morning/NN, but/CC, I/PRP, just/RB, couldn/VBP, 't/PRP, stand/VB, it/PRP, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBD went) (PP (IN for) (NP (DT a) (NN walk))) (PP (IN out) (NP (DT this) (NN morning))))) (CC but) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP couldn) (S (NP (PRP 't)) (VP (VB stand) (NP (PRP it)))))) (. .)))
+75801,"(9,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+75801,"(10,)", it 's no good I 'm gonna have to go out for a breath of fresh air .,"[it/PRP, 's/VBZ, no/DT, good/JJ, I/PRP, 'm/VBP, gonna/NNS, have/VBP, to/TO, go/VB, out/RP, for/IN, a/DT, breath/NN, of/IN, fresh/JJ, air/NN, ./.]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT no) (JJ good)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNS gonna)) (SBAR (S (VP (VBP have) (S (VP (TO to) (VP (VB go) (PRT (RP out)) (PP (IN for) (NP (NP (DT a) (NN breath)) (PP (IN of) (NP (JJ fresh) (NN air))))))))))))))))) (. .)))
+75801,"(11,)", I 'm better going  ,"[I/PRP, 'm/VBP, better/JJR, going/VBG]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (JJR better)) (VP (VBG going)))))
+75801,"(12,)", do you ?,"[do/VB, you/PRP, ?/.]",(ROOT (SQ (VP (VB do) (NP (PRP you))) (. ?)))
+75801,"(13,)",But I 've got   to be honest with you   you know .,"[But/CC, I/PRP, 've/VBP, got/VBN, to/TO, be/VB, honest/JJ, with/IN, you/PRP, you/PRP, know/VBP, ./.]",(ROOT (S (CC But) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB be) (ADJP (JJ honest) (PP (IN with) (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))))) (. .)))
+75801,"(14,)",No,[No/DT],(ROOT (FRAG (NP (DT No))))
+75801,"(15,)",So he says I 'm going out ,"[So/IN, he/PRP, says/VBZ, I/PRP, 'm/VBP, going/VBG, out/RP]",(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP he)) (SBAR (S (VP (VBZ says) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PRT (RP out))))))))))))
+75801,"(16,)",,[],X
+75801,"(17, 18)",I said oh I feel    I 'm going out   for half an hour that 's all .,"[I/PRP, said/VBD, oh/UH, I/PRP, feel/VBP, I/PRP, 'm/VBP, going/VBG, out/RP, for/IN, half/PDT, an/DT, hour/NN, that/WDT, 's/VBZ, all/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (INTJ (UH oh)) (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PRT (RP out)) (PP (IN for) (NP (QP (PDT half) (DT an) (NN hour)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT all))))))))))))) (. .)))
+75801,"(19,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+75801,"(20,)",I can 't see the pleasure   you know .,"[I/PRP, can/MD, 't/PRP, see/VB, the/DT, pleasure/NN, you/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (PRN (SINV (MD can) (NP (PRP 't)) (VP (VB see) (NP (DT the) (NN pleasure))))) (NP (PRP you)) (VP (VBP know)) (. .)))
+75801,"(21,)",So you seem a lot better    ,"[So/RB, you/PRP, seem/VBP, a/DT, lot/NN, better/JJR]",(ROOT (ADJP (RB So) (SBAR (S (NP (PRP you)) (VP (VBP seem) (S (NP (DT a) (NN lot)) (ADJP (JJR better))))))))
+75801,"(22,)",Got a lot of washing to do   lie down ,"[Got/VBD, a/DT, lot/NN, of/IN, washing/VBG, to/TO, do/VB, lie/VB, down/RP]",(ROOT (SINV (VP (VBD Got)) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG washing) (S (VP (TO to) (VP (VB do) (S (VP (VB lie) (PRT (RP down)))))))))))))
+75801,"(23,)",Yeah he 'd like that .,"[Yeah/UH, he/PRP, 'd/MD, like/VB, that/DT, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP he)) (VP (MD 'd) (VP (VB like) (NP (DT that))))) (. .)))
+75801,"(24,)",,[],X
+75801,"(25,)","Yeah , he 'd like that .","[Yeah/UH, ,/,, he/PRP, 'd/MD, like/VB, that/DT, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP he)) (VP (MD 'd) (VP (VB like) (NP (DT that)))) (. .)))"
+75801,"(26,)",,[],X
+75801,"(27,)",,[],X
+75801,"(28,)",,[],X
+75801,"(29,)",I know but I thought,"[I/PRP, know/VBP, but/CC, I/PRP, thought/VBD]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (CC but) (S (NP (PRP I)) (VP (VBD thought)))))))
+75801,"(30,)",So I 've   bit busy with other things anyway .,"[So/IN, I/PRP, 've/VBP, bit/RB, busy/JJ, with/IN, other/JJ, things/NNS, anyway/RB, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (VBP 've) (NP (RB bit) (JJ busy)) (PP (IN with) (NP (NP (JJ other) (NNS things)) (ADVP (RB anyway))))) (. .)))
+75801,"(31,)","I thought what I 'd do was I 'd have a bath , I thought I 'd put all the   back in the fridge ","[I/PRP, thought/VBD, what/WP, I/PRP, 'd/MD, do/VB, was/VBD, I/PRP, 'd/MD, have/VB, a/DT, bath/NN, ,/,, I/PRP, thought/VBD, I/PRP, 'd/MD, put/VB, all/PDT, the/DT, back/NN, in/IN, the/DT, fridge/NN]","(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (MD 'd) (VP (VB do) (SBAR (S (VP (VBD was) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB have) (NP (DT a) (NN bath))))))))))))) (, ,) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB put) (NP (PDT all) (DT the) (NN back)) (PP (IN in) (NP (DT the) (NN fridge)))))))))))))"
+75801,"(32,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(33,)",and I 've gotta put that erm   on tonight as well .,"[and/CC, I/PRP, 've/VBP, gotta/NNP, put/VBD, that/DT, erm/NN, on/IN, tonight/NN, as/RB, well/RB, ./.]",(ROOT (S (CC and) (NP (PRP I)) (VP (VBP 've) (NP (NP (NNP gotta)) (SBAR (S (VP (VBD put) (NP (DT that) (NN erm)) (PP (IN on) (NP (NN tonight))) (ADVP (RB as) (RB well))))))) (. .)))
+75801,"(34,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(35,)",So that might be   as well .,"[So/RB, that/IN, might/MD, be/VB, as/RB, well/RB, ./.]",(ROOT (FRAG (ADVP (RB So)) (SBAR (IN that) (S (VP (MD might) (VP (VB be) (ADVP (RB as) (RB well)))))) (. .)))
+75801,"(36,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(37,)","See I don 't feel as I did last night but it 's still there , you know I just take some more tablets like , you know .","[See/VB, I/PRP, don/VBP, 't/PRP, feel/VB, as/IN, I/PRP, did/VBD, last/JJ, night/NN, but/CC, it/PRP, 's/VBZ, still/RB, there/RB, ,/,, you/PRP, know/VBP, I/PRP, just/RB, take/VBP, some/DT, more/JJR, tablets/NNS, like/IN, ,/,, you/PRP, know/VBP, ./.]","(ROOT (S (S (VP (VB See) (SBAR (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB feel) (SBAR (IN as) (S (NP (PRP I)) (VP (VBD did) (NP (JJ last) (NN night)) (SBAR (CC but) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB still)) (ADVP (RB there))))))))))))))) (, ,) (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP take) (NP (DT some) (JJR more) (NNS tablets)) (SBAR (IN like) (, ,) (S (NP (PRP you)) (VP (VBP know)))))))) (. .)))"
+75801,"(38,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(39,)",But er,"[But/CC, er/NN]",(ROOT (FRAG (CC But) (NP (NN er))))
+75801,"(40,)",Nearly getting rid of it,"[Nearly/RB, getting/VBG, rid/JJ, of/IN, it/PRP]",(ROOT (FRAG (S (ADVP (RB Nearly)) (VP (VBG getting) (ADJP (JJ rid)) (PP (IN of) (NP (PRP it)))))))
+75801,"(41,)",but I 've really cracked it and it 's bloody awful !,"[but/CC, I/PRP, 've/VBP, really/RB, cracked/VBN, it/PRP, and/CC, it/PRP, 's/VBZ, bloody/JJ, awful/JJ, !/.]",(ROOT (S (CC but) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB really)) (VP (VBN cracked) (NP (PRP it))))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ bloody) (JJ awful)))) (. !)))
+75801,"(42,)",It does,"[It/PRP, does/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ does))))
+75801,"(43,)",No ,[No/DT],(ROOT (FRAG (NP (DT No))))
+75801,"(44,)","oh aye , it does .","[oh/UH, aye/NNP, ,/,, it/PRP, does/VBZ, ./.]","(ROOT (S (S (INTJ (UH oh)) (NP (NNP aye) (, ,)) (VP (ADVP (PRP it)) (VBZ does))) (. .)))"
+75801,"(45,)","Really cold , really , it 's horrible !","[Really/RB, cold/JJ, ,/,, really/RB, ,/,, it/PRP, 's/VBZ, horrible/JJ, !/.]","(ROOT (S (S (ADJP (RB Really) (JJ cold))) (, ,) (S (ADVP (RB really)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ horrible)))) (. !)))"
+75801,"(46,)", We didn 't do him any good at all .,"[We/PRP, didn/VBP, 't/PRP, do/VB, him/PRP, any/DT, good/JJ, at/IN, all/DT, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB do) (S (NP (PRP him)) (ADJP (DT any) (JJ good)) (ADVP (IN at) (DT all)))))) (. .)))
+75801,"(47,)",Telling me he got six points for a driving convic- for er speeding conviction ,"[Telling/VBG, me/PRP, he/PRP, got/VBD, six/CD, points/NNS, for/IN, a/DT, driving/VBG, convic-/NN, for/IN, er/NN, speeding/NN, conviction/NN]",(ROOT (SINV (VP (VBG Telling) (S (NP (PRP me)) (NP (PRP he)))) (VP (VBD got)) (NP (NP (CD six) (NNS points)) (PP (IN for) (NP (NP (DT a) (VBG driving) (NN convic-)) (PP (IN for) (NP (NN er) (NN speeding) (NN conviction))))))))
+75801,"(48,)",Halfords I should think,"[Halfords/NNS, I/PRP, should/MD, think/VB]",(ROOT (FRAG (NP (NP (NNS Halfords)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB think))))))))
+75801,"(49,)",,[],X
+75801,"(50,)",Oh right !,"[Oh/UH, right/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. !)))
+75801,"(51,)",When he got erm ,"[When/WRB, he/PRP, got/VBD, erm/NN]",(ROOT (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBD got) (NP (NN erm))))))
+75801,"(52,)",Oh ,[Oh/UH],(ROOT (INTJ (UH Oh)))
+75801,"(53,)",,[],X
+75801,"(54,)",,[],X
+75801,"(55, 56)", Smell it .,"[Smell/VB, it/PRP, ./.]",(ROOT (S (VP (VB Smell) (NP (PRP it))) (. .)))
+75801,"(57,)",See if it smells alright,"[See/VB, if/IN, it/PRP, smells/VBZ, alright/JJ]",(ROOT (S (VP (VB See) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ smells) (ADJP (JJ alright))))))))
+75801,"(58,)",Got any ,"[Got/VBD, any/DT]",(ROOT (SINV (VP (VBD Got)) (NP (DT any))))
+75801,"(59,)",,[],X
+75801,"(60,)",Oh ,[Oh/UH],(ROOT (INTJ (UH Oh)))
+75801,"(61,)",We have to that 's why ,"[We/PRP, have/VBP, to/TO, that/DT, 's/VBZ, why/WRB]",(ROOT (S (NP (PRP We)) (VP (VBP have) (PP (TO to) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (FRAG (WHADVP (WRB why))))))))))
+75801,"(62,)",Aye ,[Aye/NNP],(ROOT (NP (NNP Aye)))
+75801,"(63,)",Mm,[Mm/NN],(ROOT (NP (NN Mm)))
+75801,"(64,)",Too much ,"[Too/RB, much/RB]",(ROOT (ADVP (RB Too) (RB much)))
+75801,"(65,)", I got your er table things .,"[I/PRP, got/VBD, your/PRP$, er/NN, table/NN, things/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD got) (NP (PRP$ your) (NN er) (NN table) (NNS things))) (. .)))
+75801,"(66,)",They do them in packs of fifty but in,"[They/PRP, do/VBP, them/PRP, in/IN, packs/NNS, of/IN, fifty/CD, but/CC, in/IN]",(ROOT (S (NP (PRP They)) (VP (VBP do) (NP (PRP them)) (PP (PP (IN in) (NP (NP (NNS packs)) (PP (IN of) (NP (CD fifty))))) (CC but) (PP (IN in))))))
+75801,"(67,)",Oh,[Oh/UH],(ROOT (INTJ (UH Oh)))
+75801,"(68,)",a split pack I got sixty .,"[a/DT, split/NN, pack/NN, I/PRP, got/VBD, sixty/CD, ./.]",(ROOT (S (NP (DT a) (NN split) (NN pack)) (NP (PRP I)) (VP (VBD got) (NP (CD sixty))) (. .)))
+75801,"(69,)","That should be enough , shouldn 't it ?","[That/DT, should/MD, be/VB, enough/RB, ,/,, shouldn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (S (S (NP (DT That)) (VP (MD should) (VP (VB be) (ADJP (RB enough))))) (, ,) (S (NP (NP (NN shouldn)) (NP (PRP 't))) (NP (PRP it))) (. ?)))"
+75801,"(70,)",Oh,[Oh/UH],(ROOT (INTJ (UH Oh)))
+75801,"(71,)",Or did I get seventy ?,"[Or/CC, did/VBD, I/PRP, get/VB, seventy/CD, ?/.]",(ROOT (SQ (CC Or) (VBD did) (NP (PRP I)) (VP (VB get) (NP (CD seventy))) (. ?)))
+75801,"(72,)",I think I got seventy just to be sure .,"[I/PRP, think/VBP, I/PRP, got/VBD, seventy/CD, just/RB, to/TO, be/VB, sure/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBD got) (NP (CD seventy)) (ADVP (RB just)) (S (VP (TO to) (VP (VB be) (ADJP (JJ sure))))))))) (. .)))
+75801,"(73,)",I thought sixty,"[I/PRP, thought/VBD, sixty/CD]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (NP (CD sixty)))))
+75801,"(74,)",Oh alright .,"[Oh/UH, alright/JJ, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ alright)))) (. .)))
+75801,"(75,)",That 's alright .,"[That/DT, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
+75801,"(76,)",was enough so I got seventy ,"[was/VBD, enough/RB, so/RB, I/PRP, got/VBD, seventy/CD]",(ROOT (SINV (VBD was) (NP (RB enough)) (ADJP (RB so) (SBAR (S (NP (PRP I)) (VP (VBD got) (NP (CD seventy))))))))
+75801,"(77,)",Oh right .,"[Oh/UH, right/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. .)))
+75801,"(78,)",cos there 's only fifty ,"[cos/NN, there/EX, 's/VBZ, only/RB, fifty/CD]",(ROOT (FRAG (NP (NP (NN cos)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB only)) (NP (CD fifty))))))))
+75801,"(79,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(80,)",So I got seventy .,"[So/IN, I/PRP, got/VBD, seventy/CD, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (VBD got) (NP (CD seventy))) (. .)))
+75801,"(81,)","As I said , they do , they must do them themselves and sell","[As/IN, I/PRP, said/VBD, ,/,, they/PRP, do/VBP, ,/,, they/PRP, must/MD, do/VB, them/PRP, themselves/PRP, and/CC, sell/VB]","(ROOT (S (SBAR (IN As) (S (NP (PRP I)) (VP (VBD said)))) (, ,) (NP (PRP they)) (VP (VBP do) (, ,) (SBAR (S (NP (PRP they)) (VP (MD must) (VP (VP (VB do) (NP (PRP them)) (NP (PRP themselves))) (CC and) (VP (VB sell)))))))))"
+75801,"(82,)",Oh right .,"[Oh/UH, right/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. .)))
+75801,"(83,)",They 've got a well in that shop .,"[They/PRP, 've/VBP, got/VBD, a/DT, well/RB, in/IN, that/DT, shop/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (RB well)) (PP (IN in) (NP (DT that) (NN shop))))) (. .)))
+75801,"(84,)",Oh have they ?,"[Oh/UH, have/VBP, they/PRP, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VP (VBP have) (NP (PRP they)))) (. ?)))
+75801,"(85,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(86,)",It 's all bricked up .,"[It/PRP, 's/VBZ, all/DT, bricked/VBN, up/RP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT all)) (VP (VBN bricked) (PRT (RP up))))) (. .)))
+75801,"(87,)",What else you 've been doing ?,"[What/WP, else/RB, you/PRP, 've/VBP, been/VBN, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WP What) (RB else)) (SQ (NP (PRP you)) (VP (VBP 've) (VP (VBN been) (VP (VBG doing))))) (. ?)))
+75801,"(88,)",Oh I 've done a bit of drawing .,"[Oh/UH, I/PRP, 've/VBP, done/VBN, a/DT, bit/NN, of/IN, drawing/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NN drawing))))))) (. .)))
+75801,"(89,)", you wanna get your hair cut while you 're there  ,"[you/PRP, wanna/NNP, get/VB, your/PRP$, hair/NN, cut/NN, while/IN, you/PRP, 're/VBP, there/EX]",(ROOT (FRAG (NP (NP (PRP you)) (SBAR (S (NP (NNP wanna)) (VP (VB get) (NP (PRP$ your) (NN hair) (NN cut)) (SBAR (IN while) (S (NP (PRP you)) (VP (VBP 're) (NP (EX there)))))))))))
+75801,"(90,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(91,)",,[],X
+75801,"(92,)","Yeah , I ought to go and get changed ","[Yeah/UH, ,/,, I/PRP, ought/MD, to/TO, go/VB, and/CC, get/VB, changed/VBN]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD ought) (S (VP (TO to) (VP (VB go) (CC and) (VB get))))) (VBN changed)))"
+75801,"(93,)","Yeah , well don 't stand about  ","[Yeah/UH, ,/,, well/RB, don/NNP, 't/PRP, stand/VBP, about/IN]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (NNP don) (NP (PRP 't)) (VP (VBP stand) (PP (IN about)))))"
+75801,"(94,)","Yeah , that 's alight .","[Yeah/UH, ,/,, that/DT, 's/VBZ, alight/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (ADVP (RB alight))) (. .)))"
+75801,"(95,)",I 'll get,"[I/PRP, 'll/MD, get/VB]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB get)))))
+75801,"(96,)",Oh yes .,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
+75801,"(97,)",changed .,"[changed/VBN, ./.]",(ROOT (S (VP (VBN changed)) (. .)))
+75801,"(98,)",I 'll just leave them ticking over then ?,"[I/PRP, 'll/MD, just/RB, leave/VB, them/PRP, ticking/VBG, over/IN, then/RB, ?/.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB leave) (S (NP (PRP them)) (VP (VBG ticking) (PP (IN over) (NP (RB then))))))) (. ?)))
+75801,"(99,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75801,"(100,)",I won 't be long .,"[I/PRP, won/VBD, 't/PRP, be/VB, long/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB be) (ADJP (RB long))))) (. .)))
+75801,"(101,)","Yeah , okay .","[Yeah/UH, ,/,, okay/JJ, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (JJ okay)) (. .)))"
+75801,"(102,)",Just go and get myself changed .,"[Just/RB, go/VB, and/CC, get/VB, myself/PRP, changed/VBN, ./.]",(ROOT (S (VP (ADVP (RB Just)) (VB go) (CC and) (VB get) (NP (PRP myself)) (S (VP (VBN changed)))) (. .)))

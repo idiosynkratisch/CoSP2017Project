@@ -1,0 +1,7 @@
+36405,"(0,)","That doesn 't matter , whatever","[That/DT, doesn/NN, 't/PRP, matter/NN, ,/,, whatever/WDT]","(ROOT (FRAG (SBAR (WHNP (DT That)) (FRAG (NP (NP (NN doesn)) (NP (PRP 't) (NN matter))))) (, ,) (WHADVP (WDT whatever))))"
+36405,"(1,)",Right thanks a lot me dear for your trouble,"[Right/JJ, thanks/NNS, a/DT, lot/NN, me/PRP, dear/RB, for/IN, your/PRP$, trouble/NN]",(ROOT (S (NP (NP (NP (JJ Right) (NNS thanks)) (NP (DT a) (NN lot))) (NP (PRP me))) (ADJP (RB dear)) (PP (IN for) (NP (PRP$ your) (NN trouble)))))
+36405,"(2,)",,[],X
+36405,"(3,)",yeah ta ta,"[yeah/UH, ta/NNP, ta/NNP]",(ROOT (NP (UH yeah) (NNP ta) (NNP ta)))
+36405,"(4,)",Have you got another pen ?,"[Have/VB, you/PRP, got/VBD, another/DT, pen/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (DT another) (NN pen))))) (. ?)))
+36405,"(5,)","Yeah , sorry , sorry","[Yeah/UH, ,/,, sorry/JJ, ,/,, sorry/JJ]","(ROOT (FRAG (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (JJ sorry))) (, ,) (ADVP (JJ sorry))))"
+36405,"(6,)", That 's alright don 't worry,"[That/DT, 's/VBZ, alright/JJ, don/NNP, 't/PRP, worry/VBP]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (JJ alright) (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP worry))))))))

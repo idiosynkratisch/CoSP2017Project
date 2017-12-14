@@ -1,0 +1,11 @@
+46206,"(0,)",Who 's up ?,"[Who/WP, 's/VBZ, up/RP, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (ADVP (RP up))) (. ?)))
+46206,"(1,)",Good it 's er twenty past eight .,"[Good/JJ, it/PRP, 's/VBZ, er/NN, twenty/CD, past/JJ, eight/CD, ./.]",(ROOT (S (ADJP (JJ Good)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN er) (CD twenty)) (ADJP (JJ past) (NP (CD eight))))) (. .)))
+46206,"(2,)",I 've got diarrhoea again .,"[I/PRP, 've/VBP, got/VBN, diarrhoea/NN, again/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NN diarrhoea)) (ADVP (RB again)))) (. .)))
+46206,"(3,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+46206,"(4,)",Come on Patch .,"[Come/VB, on/IN, Patch/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN Patch)))) (. .)))
+46206,"(5,)",Patch .,"[Patch/NN, ./.]",(ROOT (INTJ (NN Patch) (. .)))
+46206,"(6,)", Do you want an egg ?,"[Do/VB, you/PRP, want/VBP, an/DT, egg/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (DT an) (NN egg)))))) (. ?)))
+46206,"(7,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+46206,"(8, 9)","Right , Patch  Get him down here Jean .","[Right/NN, ,/,, Patch/NN, Get/VB, him/PRP, down/RB, here/RB, Jean/NNP, ./.]","(ROOT (S (INTJ (NN Right) (, ,) (NN Patch)) (VP (VB Get) (S (NP (PRP him)) (ADVP (RB down) (RB here)) (NP (NNP Jean)))) (. .)))"
+46206,"(10,)",Alright love .,"[Alright/JJ, love/NN, ./.]",(ROOT (NP (JJ Alright) (NN love) (. .)))
+46206,"(11, 12, 13)", Ye gods . ,"[Ye/PRP, gods/NNS, ./.]",(ROOT (NP (NP (PRP Ye)) (NP (NNS gods)) (. .)))

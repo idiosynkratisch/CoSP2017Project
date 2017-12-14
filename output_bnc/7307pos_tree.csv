@@ -1,0 +1,14 @@
+7307,"(0,)",Come on darling .,"[Come/VB, on/IN, darling/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN darling)))) (. .)))
+7307,"(1,)",Well sit here then .,"[Well/RB, sit/NN, here/RB, then/RB, ./.]",(ROOT (NP (NP (ADVP (RB Well)) (NN sit)) (ADJP (RB here) (RB then)) (. .)))
+7307,"(2,)",,[],X
+7307,"(3,)","No , you 're not laying there and eating your dinner .","[No/DT, ,/,, you/PRP, 're/VBP, not/RB, laying/VBG, there/RB, and/CC, eating/VBG, your/PRP$, dinner/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VP (VBG laying) (ADVP (RB there))) (CC and) (VP (VBG eating) (NP (PRP$ your) (NN dinner))))) (. .)))"
+7307,"(4,)",Come and sit down here .,"[Come/VB, and/CC, sit/VB, down/RB, here/RB, ./.]",(ROOT (S (VP (VP (VB Come)) (CC and) (VP (VB sit) (ADVP (RB down) (RB here)))) (. .)))
+7307,"(5,)",It 's hot .,"[It/PRP, 's/VBZ, hot/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ hot))) (. .)))
+7307,"(6,)",It isn 't hot I 've let it cool down .,"[It/PRP, isn/VBD, 't/PRP, hot/JJ, I/PRP, 've/VBP, let/VB, it/PRP, cool/VB, down/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD isn) (S (NP (PRP 't)) (ADJP (JJ hot)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (S (VP (VB let) (S (NP (PRP it)) (VP (VB cool) (ADVP (RB down))))))))))) (. .)))
+7307,"(7,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+7307,"(8,)",,[],X
+7307,"(9,)",Pardon ?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+7307,"(10,)",,[],X
+7307,"(11,)",Come on darling look .,"[Come/VB, on/IN, darling/NN, look/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN darling) (NN look)))) (. .)))
+7307,"(12,)",You eat this pizza .,"[You/PRP, eat/VBP, this/DT, pizza/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP eat) (NP (DT this) (NN pizza))) (. .)))
+7307,"(13,)","Come on , you 've asked for it .","[Come/VB, on/RP, ,/,, you/PRP, 've/VBP, asked/VBN, for/IN, it/PRP, ./.]","(ROOT (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (VBN asked) (PP (IN for) (NP (PRP it))))) (. .)))"

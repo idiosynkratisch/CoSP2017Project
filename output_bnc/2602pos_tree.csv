@@ -1,0 +1,12 @@
+2602,"(0,)","Good dog , good dog .","[Good/JJ, dog/NN, ,/,, good/JJ, dog/NN, ./.]","(ROOT (FRAG (INTJ (JJ Good) (NN dog)) (, ,) (NP (JJ good) (NN dog) (. .))))"
+2602,"(1,)",Hello girls .,"[Hello/UH, girls/NNS, ./.]",(ROOT (S (VP (NP (INTJ (UH Hello)) (NP (NNS girls)))) (. .)))
+2602,"(2,)",Would you like your car washing ?,"[Would/MD, you/PRP, like/VB, your/PRP$, car/NN, washing/VBG, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (NP (PRP$ your) (NN car)) (VP (VBG washing)))) (. ?)))
+2602,"(3,)",Would you like your car washing ?,"[Would/MD, you/PRP, like/VB, your/PRP$, car/NN, washing/VBG, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (NP (PRP$ your) (NN car)) (VP (VBG washing)))) (. ?)))
+2602,"(4,)","What a lovely idea , I don 't think so though , thank you very much , you 're very well equipped , I 'm very impressed .","[What/WP, a/DT, lovely/JJ, idea/NN, ,/,, I/PRP, don/VBP, 't/PRP, think/VB, so/RB, though/RB, ,/,, thank/VB, you/PRP, very/RB, much/RB, ,/,, you/PRP, 're/VBP, very/RB, well/RB, equipped/VBN, ,/,, I/PRP, 'm/VBP, very/RB, impressed/JJ, ./.]","(ROOT (S (SBAR (WHNP (WP What)) (S (NP (DT a) (JJ lovely) (NN idea)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VP (VB think) (ADVP (RB so)) (ADVP (RB though))) (, ,) (VP (VB thank) (NP (PRP you)) (ADVP (RB very) (RB much))))))) (, ,)) (NP (PRP you)) (VP (VBP 're) (ADJP (RB very) (RB well) (VBN equipped))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADJP (RB very) (JJ impressed))) (. .)))"
+2602,"(5,)", No thanks very much indeed though .,"[No/DT, thanks/NNS, very/RB, much/RB, indeed/RB, though/IN, ./.]",(ROOT (FRAG (NP (DT No) (NNS thanks)) (ADVP (ADVP (RB very) (RB much)) (PP (RB indeed) (ADVP (IN though)))) (. .)))
+2602,"(6,)",Alright then .,"[Alright/JJ, then/RB, ./.]",(ROOT (S (NP (JJ Alright)) (VP (ADVP (RB then))) (. .)))
+2602,"(7,)",O K thanks .,"[O/NN, K/NN, thanks/NNS, ./.]",(ROOT (NP (NP (NN O)) (NP (NP (NN K)) (NP (NNS thanks))) (. .)))
+2602,"(8,)","Did , did get a swirl earlier this week , thank you very much .","[Did/VBD, ,/,, did/VBD, get/VB, a/DT, swirl/NN, earlier/RBR, this/DT, week/NN, ,/,, thank/VB, you/PRP, very/RB, much/RB, ./.]","(ROOT (S (S (VP (VBD Did))) (, ,) (VP (VBD did) (VP (VB get) (NP (DT a) (NN swirl)) (NP (RBR earlier) (DT this) (NN week)) (, ,) (S (VP (VB thank) (NP (PRP you)) (ADVP (RB very) (RB much)))))) (. .)))"
+2602,"(9,)",Bye .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))
+2602,"(10,)",Bye .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))
+2602,"(11,)",Bye .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

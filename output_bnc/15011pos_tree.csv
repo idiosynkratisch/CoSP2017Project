@@ -1,0 +1,11 @@
+15011,"(0,)",Which one is it Lee ?,"[Which/WDT, one/NN, is/VBZ, it/PRP, Lee/NNP, ?/.]",(ROOT (SBARQ (WHNP (WDT Which) (NN one)) (SQ (VBZ is) (NP (NP (PRP it)) (NP (NNP Lee)))) (. ?)))
+15011,"(1,)",  .,[./.],(ROOT (NP (. .)))
+15011,"(2,)","Don 't you like that other one ,  , it 's just plain leather strap ?","[Don/NNP, 't/PRP, you/PRP, like/IN, that/DT, other/JJ, one/CD, ,/,, ,/,, it/PRP, 's/VBZ, just/RB, plain/JJ, leather/NN, strap/NN, ?/.]","(ROOT (S (S (VP (NNP Don) (S (NP (PRP 't)) (NP (NP (PRP you)) (PP (IN like) (NP (DT that) (JJ other) (CD one))) (, ,))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (JJ plain) (NN leather) (NN strap))) (. ?)))"
+15011,"(3,)",There,[There/EX],(ROOT (NP (EX There)))
+15011,"(4,)",That one ?,"[That/DT, one/CD, ?/.]",(ROOT (FRAG (NP (DT That)) (NP (CD one)) (. ?)))
+15011,"(5,)","No up the top , third one down on the right hand side .","[No/DT, up/IN, the/DT, top/NN, ,/,, third/JJ, one/CD, down/RP, on/IN, the/DT, right/JJ, hand/NN, side/NN, ./.]","(ROOT (FRAG (NP (DT No) (ADJP (ADJP (PP (IN up) (NP (DT the) (NN top))) (, ,) (JJ third)) (PP (ADVP (NP (CD one)) (RP down)) (IN on) (NP (DT the) (JJ right) (NN hand)))) (NN side)) (. .)))"
+15011,"(6,)",With the grey strap ?,"[With/IN, the/DT, grey/JJ, strap/NN, ?/.]",(ROOT (FRAG (PP (IN With) (NP (DT the) (JJ grey) (NN strap))) (. ?)))
+15011,"(7, 8)","Yeah , I thought that was quite nice  on the right hand side page , that one ,  , three down , yeah .","[Yeah/UH, ,/,, I/PRP, thought/VBD, that/DT, was/VBD, quite/RB, nice/JJ, on/IN, the/DT, right/JJ, hand/NN, side/NN, page/NN, ,/,, that/IN, one/CD, ,/,, ,/,, three/CD, down/RB, ,/,, yeah/UH, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (DT that)) (VP (VBD was) (ADJP (RB quite) (JJ nice)) (PP (IN on) (NP (NP (NP (DT the) (JJ right) (NN hand) (NN side) (NN page)) (PRN (, ,) (SBAR (IN that) (FRAG (NP (CD one)))) (, ,))) (, ,) (ADVP (NP (CD three)) (RB down)))) (, ,) (NP (UH yeah)))))) (. .)))"
+15011,"(9,)",That one ?,"[That/DT, one/CD, ?/.]",(ROOT (FRAG (NP (DT That)) (NP (CD one)) (. ?)))
+15011,"(10,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+15011,"(11,)",Thought that was quite nice .,"[Thought/NN, that/WDT, was/VBD, quite/RB, nice/JJ, ./.]",(ROOT (S (VP (NN Thought) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (RB quite) (JJ nice)))))) (. .)))

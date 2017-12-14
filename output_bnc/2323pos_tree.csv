@@ -1,0 +1,4 @@
+2323,"(0,)",Suzannah said that she might be going up tomorrow evening .,"[Suzannah/NNP, said/VBD, that/IN, she/PRP, might/MD, be/VB, going/VBG, up/RB, tomorrow/NN, evening/NN, ./.]",(ROOT (S (NP (NNP Suzannah)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP she)) (VP (MD might) (VP (VB be) (VP (VBG going) (PRT (RB up)) (NP (NN tomorrow) (NN evening)))))))) (. .)))
+2323,"(1,)",Aha .,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
+2323,"(2,)",Not definitely .,"[Not/RB, definitely/RB, ./.]",(ROOT (FRAG (RB Not) (ADJP (RB definitely)) (. .)))
+2323,"(3,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

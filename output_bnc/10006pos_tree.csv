@@ -1,0 +1,4 @@
+10006,"(0, 1)",Did you turn that fire off  upstairs ?,"[Did/VBD, you/PRP, turn/VB, that/DT, fire/NN, off/IN, upstairs/NN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB turn) (NP (DT that) (NN fire)) (ADVP (IN off) (NN upstairs))) (. ?)))
+10006,"(2,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+10006,"(3,)",The fire .,"[The/DT, fire/NN, ./.]",(ROOT (NP (DT The) (NN fire) (. .)))
+10006,"(4,)",I did .,"[I/PRP, did/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD did)) (. .)))

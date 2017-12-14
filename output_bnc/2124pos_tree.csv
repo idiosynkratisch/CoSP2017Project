@@ -1,0 +1,6 @@
+2124,"(0,)","Gracious , makes you wonder doesn 't it ?","[Gracious/JJ, ,/,, makes/VBZ, you/PRP, wonder/VBP, doesn/JJ, 't/PRP, it/PRP, ?/.]","(ROOT (SINV (FRAG (ADJP (JJ Gracious))) (, ,) (VP (VBZ makes) (SBAR (S (NP (PRP you)) (VP (VBP wonder) (ADJP (JJ doesn)) (S (NP (PRP 't))))))) (NP (PRP it)) (. ?)))"
+2124,"(1,)",Green Tom Products Limited .,"[Green/JJ, Tom/NNP, Products/NNS, Limited/VBN, ./.]",(ROOT (S (NP (JJ Green) (NNP Tom) (NNS Products)) (VP (VBN Limited)) (. .)))
+2124,"(2,)",Green Tom ?,"[Green/JJ, Tom/NNP, ?/.]",(ROOT (FRAG (ADVP (JJ Green)) (NP (NNP Tom)) (. ?)))
+2124,"(3,)",Fume extraction engineers .,"[Fume/NN, extraction/NN, engineers/NNS, ./.]",(ROOT (NP (NP (NN Fume)) (NP (NN extraction) (NNS engineers)) (. .)))
+2124,"(4,)",  .,[./.],(ROOT (NP (. .)))
+2124,"(5,)",  .,[./.],(ROOT (NP (. .)))

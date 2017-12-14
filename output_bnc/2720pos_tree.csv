@@ -1,0 +1,7 @@
+2720,"(0,)",What would 've happened if the red ball had gone through ?,"[What/WP, would/MD, 've/VB, happened/VBN, if/IN, the/DT, red/JJ, ball/NN, had/VBD, gone/VBN, through/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (MD would) (VP (VB 've) (VP (VBN happened) (SBAR (IN if) (S (NP (DT the) (JJ red) (NN ball)) (VP (VBD had) (VP (VBN gone) (PP (IN through)))))))))) (. ?)))
+2720,"(1,)",Nothing .,"[Nothing/NN, ./.]",(ROOT (NP (NN Nothing) (. .)))
+2720,"(2,)",Nothing .,"[Nothing/NN, ./.]",(ROOT (NP (NN Nothing) (. .)))
+2720,"(3,)","If it had been your hoop , it would 've count .","[If/IN, it/PRP, had/VBD, been/VBN, your/PRP$, hoop/NN, ,/,, it/PRP, would/MD, 've/VB, count/NN, ./.]","(ROOT (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD had) (VP (VBN been) (NP (PRP$ your) (NN hoop)))))) (, ,) (NP (PRP it)) (VP (MD would) (VP (VB 've) (NP (NN count)))) (. .)))"
+2720,"(4, 5)","  , yes , yes , you  you would of   .","[,/,, yes/UH, ,/,, yes/UH, ,/,, you/PRP, you/PRP, would/MD, of/IN, ./.]","(ROOT (S (SBAR (PRN (, ,) (INTJ (UH yes) (, ,) (UH yes)) (, ,)) (S (NP (PRP you)) (VP (PRP you)))) (VP (MD would) (PP (IN of))) (. .)))"
+2720,"(6,)","Yep , good .","[Yep/NN, ,/,, good/JJ, ./.]","(ROOT (NP (NP (NN Yep)) (, ,) (NP (JJ good)) (. .)))"
+2720,"(7,)",,[],X

@@ -1,0 +1,8 @@
+2318,"(0,)", by prescription   .,"[by/IN, prescription/NN, ./.]",(ROOT (FRAG (PP (IN by) (NP (NN prescription))) (. .)))
+2318,"(1,)",For anything ?,"[For/IN, anything/NN, ?/.]",(ROOT (FRAG (PP (IN For) (NP (NN anything))) (. ?)))
+2318,"(2,)",Well for all the   .,"[Well/RB, for/IN, all/PDT, the/DT, ./.]",(ROOT (FRAG (PP (ADVP (RB Well)) (IN for) (NP (PDT all) (DT the))) (. .)))
+2318,"(3,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2318,"(4,)","Geraniums for one forty five each there , dear .","[Geraniums/NNS, for/IN, one/CD, forty/CD, five/CD, each/DT, there/RB, ,/,, dear/NNP, ./.]","(ROOT (NP (NP (NP (NNS Geraniums)) (PP (IN for) (NP (CD one)))) (NP (NP (NP (QP (CD forty) (CD five))) (NP (DT each)) (ADVP (RB there))) (, ,) (NP (NNP dear))) (. .)))"
+2318,"(5,)","Incredibly expensive , yes .","[Incredibly/RB, expensive/JJ, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (RB Incredibly) (JJ expensive)) (, ,) (INTJ (UH yes) (. .))))"
+2318,"(6,)",  .,[./.],(ROOT (NP (. .)))
+2318,"(7,)",These aren 't ,"[These/DT, aren/NNP, 't/PRP]",(ROOT (FRAG (NP (DT These) (NNP aren)) (NP (PRP 't))))

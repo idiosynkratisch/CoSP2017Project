@@ -1,0 +1,17 @@
+35702,"(0,)",He was ready to start arguing last night again .,"[He/PRP, was/VBD, ready/JJ, to/TO, start/VB, arguing/VBG, last/JJ, night/NN, again/RB, ./.]",(ROOT (S (NP (PRP He)) (VP (VBD was) (ADJP (JJ ready) (S (VP (TO to) (VP (VB start) (S (VP (VBG arguing) (NP (JJ last) (NN night)) (ADVP (RB again))))))))) (. .)))
+35702,"(1,)",Oh ! going on like he is .,"[Oh/UH, !/., going/VBG, on/IN, like/IN, he/PRP, is/VBZ, ./.]",(ROOT (S (INTJ (UH Oh) (. !)) (VP (VBG going) (PP (IN on) (SBAR (IN like) (S (NP (PRP he)) (VP (VBZ is)))))) (. .)))
+35702,"(2,)",That 's it !,"[That/DT, 's/VBZ, it/PRP, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it))) (. !)))
+35702,"(3,)",You didn 't say nothing ?,"[You/PRP, didn/VBP, 't/PRP, say/VB, nothing/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB say) (NP (NN nothing))))) (. ?)))
+35702,"(4, 5)","No , because he wanted  to take the car out .","[No/DT, ,/,, because/IN, he/PRP, wanted/VBD, to/TO, take/VB, the/DT, car/NN, out/RP, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (SBAR (IN because) (S (NP (PRP he)) (VP (VBD wanted) (S (VP (TO to) (VP (VB take) (NP (DT the) (NN car)) (PRT (RP out)))))))) (. .)))"
+35702,"(6, 7)",Erm  there was no way he could sort of get out it .,"[Erm/NN, there/EX, was/VBD, no/DT, way/NN, he/PRP, could/MD, sort/VB, of/IN, get/VB, out/IN, it/PRP, ./.]",(ROOT (S (NP (NP (NN Erm)) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN way)) (SBAR (S (NP (PRP he)) (VP (MD could) (VP (VB sort) (PP (IN of))))))))))) (VP (VB get) (PRT (IN out)) (NP (PRP it))) (. .)))
+35702,"(8,)",,[],X
+35702,"(9,)",Oh   something together now .,"[Oh/UH, something/NN, together/RB, now/RB, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (NN something)) (ADVP (RB together) (RB now))))) (. .)))
+35702,"(10,)",,[],X
+35702,"(11,)",,[],X
+35702,"(12,)",And it 's,"[And/CC, it/PRP, 's/VBZ]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBZ 's))))
+35702,"(13, 14)", What the hell will that do ?,"[What/WP, the/DT, hell/NN, will/MD, that/WDT, do/VBP, ?/.]",(ROOT (SBARQ (WHNP (WP What) (DT the) (NN hell)) (SQ (VP (VP (MD will)) (SBAR (WHNP (WDT that)) (S (VP (VBP do)))))) (. ?)))
+35702,"(15,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+35702,"(16,)",,[],X
+35702,"(17,)","What , Eh ?","[What/WP, ,/,, Eh/UH, ?/.]","(ROOT (X (X (WP What)) (, ,) (X (UH Eh)) (. ?)))"
+35702,"(18,)",,[],X
+35702,"(19,)",How long will it be ?,"[How/WRB, long/RB, will/MD, it/PRP, be/VB, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (RB long)) (SQ (MD will) (NP (PRP it)) (VP (VB be))) (. ?)))

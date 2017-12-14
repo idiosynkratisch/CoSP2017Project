@@ -1,0 +1,37 @@
+906,"(0,)", Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+906,"(1, 2)",Anita was saying yesterday about erm  where they 're living now .,"[Anita/NNP, was/VBD, saying/VBG, yesterday/NN, about/IN, erm/NN, where/WRB, they/PRP, 're/VBP, living/VBG, now/RB, ./.]",(ROOT (S (NP (NNP Anita)) (VP (VBD was) (VP (VBG saying) (NP (NN yesterday)) (PP (IN about) (NP (NP (NN erm)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG living) (ADVP (RB now)))))))))) (. .)))
+906,"(3, 4)",And er  you know there 's,"[And/CC, er/NN, you/PRP, know/VBP, there/EX, 's/POS]",(ROOT (FRAG (CC And) (NP (NP (NN er)) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (EX there))))))) (POS 's)))
+906,"(5,)", next one  ,"[next/IN, one/CD]",(ROOT (PP (IN next) (NP (CD one))))
+906,"(6,)",Next one .,"[Next/IN, one/CD, ./.]",(ROOT (FRAG (PP (IN Next) (NP (CD one))) (. .)))
+906,"(7,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+906,"(8, 9, 10)",There 's a lot of old people there and er  there 's a  quite a way to walk to the shops .,"[There/EX, 's/VBZ, a/DT, lot/NN, of/IN, old/JJ, people/NNS, there/RB, and/CC, er/NN, there/EX, 's/VBZ, a/DT, quite/RB, a/DT, way/NN, to/TO, walk/VB, to/TO, the/DT, shops/NNS, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (JJ old) (NNS people)) (ADVP (RB there))))) (CC and) (NP (NP (NN er)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (ADJP (RB quite) (DT a)) (NN way) (S (VP (TO to) (VP (VB walk) (PP (TO to) (NP (DT the) (NNS shops))))))))))))) (. .)))
+906,"(11,)",Yeah she 's not in a very good position ,"[Yeah/UH, she/PRP, 's/VBZ, not/RB, in/IN, a/DT, very/RB, good/JJ, position/NN]",(ROOT (SBAR (UH Yeah) (S (NP (PRP she)) (VP (VBZ 's) (RB not) (PP (IN in) (NP (DT a) (ADJP (RB very) (JJ good)) (NN position)))))))
+906,"(12,)",No she was saying they have built some shops where they are .,"[No/DT, she/PRP, was/VBD, saying/VBG, they/PRP, have/VBP, built/VBN, some/DT, shops/NNS, where/WRB, they/PRP, are/VBP, ./.]",(ROOT (S (NP (DT No) (PRP she)) (VP (VBD was) (VP (VBG saying) (SBAR (S (NP (PRP they)) (VP (VBP have) (VP (VBN built) (NP (DT some) (NNS shops)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP are)))))))))) (. .)))
+906,"(13, 14)",Thousand pounds a week or something  rent .,"[Thousand/CD, pounds/NNS, a/DT, week/NN, or/CC, something/NN, rent/NN, ./.]",(ROOT (NP (NP (CD Thousand) (NNS pounds)) (NP (DT a) (NN week) (CC or) (NN something) (NN rent)) (. .)))
+906,"(15,)",Yeah   .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+906,"(16,)",I told you that there was going to be some available but ,"[I/PRP, told/VBD, you/PRP, that/IN, there/EX, was/VBD, going/VBG, to/TO, be/VB, some/DT, available/JJ, but/CC]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (PRP you)) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (DT some) (JJ available)) (ADVP (CC but))))))))))))
+906,"(17,)",It 's it 's well .,"[It/PRP, 's/VBZ, it/PRP, 's/VBZ, well/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB well)))))) (. .)))
+906,"(18,)",They 're dreaming .,"[They/PRP, 're/VBP, dreaming/VBG, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG dreaming))) (. .)))
+906,"(19,)",,[],X
+906,"(20,)",Well nobody 's gonna take them .,"[Well/RB, nobody/NN, 's/POS, gonna/NNP, take/VB, them/PRP, ./.]",(ROOT (S (NP (RB Well) (NP (NN nobody) (POS 's)) (NNP gonna)) (VP (VB take) (NP (PRP them))) (. .)))
+906,"(21,)",,[],X
+906,"(22,)",Ah .,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
+906,"(23,)",She can 't afford to though can she ?,"[She/PRP, can/MD, 't/PRP, afford/VB, to/TO, though/IN, can/MD, she/PRP, ?/.]",(ROOT (S (NP (PRP She)) (VP (MD can) (NP (PRP 't)) (S (VP (VB afford) (PP (TO to) (SBAR (IN though) (S (VP (MD can)) (NP (PRP she)))))))) (. ?)))
+906,"(24,)","No , not now .","[No/DT, ,/,, not/RB, now/RB, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (ADVP (RB not) (RB now) (. .))))"
+906,"(25,)",That 's fine .,"[That/DT, 's/VBZ, fine/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN fine))) (. .)))
+906,"(26,)",I mean you might expect to ,"[I/PRP, mean/VBP, you/PRP, might/MD, expect/VB, to/TO]",(ROOT (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP you)) (VP (MD might) (VP (VB expect) (PP (TO to)))))))))
+906,"(27,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+906,"(28,)",They 've done it nicely .,"[They/PRP, 've/VBP, done/VBN, it/PRP, nicely/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBN done) (S (NP (PRP it)) (ADVP (RB nicely))))) (. .)))
+906,"(29,)", asleep now   .,"[asleep/RB, now/RB, ./.]",(ROOT (FRAG (ADVP (RB asleep)) (NP (RB now)) (. .)))
+906,"(30,)"," I mean , living up that end it 's not so bad is it ?","[I/PRP, mean/VBP, ,/,, living/VBG, up/RP, that/DT, end/NN, it/PRP, 's/VBZ, not/RB, so/RB, bad/JJ, is/VBZ, it/PRP, ?/.]","(ROOT (S (NP (PRP I)) (VP (VBP mean) (, ,) (S (VP (VBG living) (PRT (RP up)) (NP (NP (DT that) (NN end)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB so) (JJ bad) (SBAR (S (VP (VBZ is) (NP (PRP it))))))))))))) (. ?)))"
+906,"(31,)",Well yeah . ,"[Well/RB, yeah/UH, ./.]",(ROOT (S (VP (PP (RB Well) (NP (UH yeah)))) (. .)))
+906,"(32,)",Well no they 're just ,"[Well/RB, no/DT, they/PRP, 're/VBP, just/RB]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (DT no) (PRP they)) (SBAR (S (VP (VBP 're) (ADVP (RB just))))))))
+906,"(33,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+906,"(34,)",Yet   in comparison to what ,"[Yet/RB, in/IN, comparison/NN, to/TO, what/WP]",(ROOT (FRAG (ADVP (RB Yet)) (PP (IN in) (NP (NP (NN comparison)) (PP (TO to) (NP (WP what)))))))
+906,"(35,)",Whereabouts is this ?,"[Whereabouts/NN, is/VBZ, this/DT, ?/.]",(ROOT (S (NP (NN Whereabouts)) (VP (VBZ is) (NP (DT this))) (. ?)))
+906,"(36,)",,[],X
+906,"(37,)","Well , yes and , yes and no .","[Well/RB, ,/,, yes/RB, and/CC, ,/,, yes/RB, and/CC, no/DT, ./.]","(ROOT (FRAG (INTJ (RB Well)) (, ,) (NP (NP (RB yes)) (PP (CC and) (NP (NP (FRAG (, ,) (NP (RB yes)))) (CC and) (NP (DT no))))) (. .)))"
+906,"(38,)",,[],X
+906,"(39,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+906,"(40,)","It 's very er , very narrow road this isn 't it ?","[It/PRP, 's/VBZ, very/RB, er/NN, ,/,, very/RB, narrow/JJ, road/NN, this/DT, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB very) (NP (NP (NN er)) (, ,) (NP (NP (NP (ADJP (RB very) (JJ narrow)) (NN road)) (NP (DT this) (NN isn))) (NP (PRP 't))))) (NP (PRP it))) (. ?)))"
+906,"(41,)",Can 't get her in any tighter .,"[Can/MD, 't/PRP, get/VB, her/PRP$, in/IN, any/DT, tighter/JJR, ./.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB get) (NP (PRP$ her)) (PP (IN in) (NP (DT any) (JJR tighter)))) (. .)))

@@ -1,0 +1,7 @@
+2322,"(0,)","Oh , you had a good day today ?","[Oh/UH, ,/,, you/PRP, had/VBD, a/DT, good/JJ, day/NN, today/NN, ?/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP you)) (VP (VBD had) (NP (DT a) (ADJP (JJ good)) (NN day)) (NP (NN today))) (. ?)))"
+2322,"(1,)",,[],X
+2322,"(2,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2322,"(3,)"," bring a , I knew there was something else I had to bring fabric   .","[bring/VB, a/DT, ,/,, I/PRP, knew/VBD, there/EX, was/VBD, something/NN, else/RB, I/PRP, had/VBD, to/TO, bring/VB, fabric/NN, ./.]","(ROOT (S (S (VP (VB bring) (NP (DT a)))) (, ,) (NP (PRP I)) (VP (VBD knew) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (NN something) (RB else)) (SBAR (S (NP (PRP I)) (VP (VBD had) (S (VP (TO to) (VP (VB bring) (NP (NN fabric))))))))))))) (. .)))"
+2322,"(4,)",Did you get the library books back ?,"[Did/VBD, you/PRP, get/VB, the/DT, library/NN, books/NNS, back/RB, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB get) (NP (DT the) (NN library) (NNS books)) (ADVP (RB back))) (. ?)))
+2322,"(5,)",Not really warm is it ?,"[Not/RB, really/RB, warm/JJ, is/VBZ, it/PRP, ?/.]",(ROOT (FRAG (ADJP (RB Not) (RB really) (JJ warm)) (S (VP (VBZ is) (NP (PRP it)))) (. ?)))
+2322,"(6,)",It isn 't warm at all .,"[It/PRP, isn/VBD, 't/PRP, warm/JJ, at/IN, all/DT, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD isn) (S (NP (PRP 't)) (ADJP (JJ warm) (PP (IN at) (NP (DT all)))))) (. .)))

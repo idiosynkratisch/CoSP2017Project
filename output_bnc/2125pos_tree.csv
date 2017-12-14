@@ -1,0 +1,4 @@
+2125,"(0,)",Three of the people listed are in Exeter .,"[Three/CD, of/IN, the/DT, people/NNS, listed/VBN, are/VBP, in/IN, Exeter/NNP, ./.]",(ROOT (S (NP (NP (CD Three)) (PP (IN of) (NP (NP (DT the) (NNS people)) (VP (VBN listed))))) (VP (VBP are) (PP (IN in) (NP (NNP Exeter)))) (. .)))
+2125,"(1,)",That 's strange .,"[That/DT, 's/VBZ, strange/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ strange))) (. .)))
+2125,"(2, 3)",Hm  Gracious nearly half past twelve .,"[Hm/NNS, Gracious/JJ, nearly/RB, half/JJ, past/JJ, twelve/CD, ./.]",(ROOT (NP (NP (NNS Hm) (JJ Gracious)) (NP (NP (RB nearly) (JJ half)) (NP (JJ past) (CD twelve))) (. .)))
+2125,"(4,)",  .,[./.],(ROOT (NP (. .)))

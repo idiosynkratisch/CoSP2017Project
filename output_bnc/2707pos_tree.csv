@@ -1,0 +1,47 @@
+2707,"(0,)",That 's not bad .,"[That/DT, 's/VBZ, not/RB, bad/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (RB not) (ADJP (JJ bad))) (. .)))
+2707,"(1,)","No , that 's pretty good .","[No/DT, ,/,, that/DT, 's/VBZ, pretty/RB, good/JJ, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (RB pretty) (JJ good))) (. .)))"
+2707,"(2,)",It doesn 't matter where   .,"[It/PRP, doesn/VBD, 't/PRP, matter/VB, where/WRB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB matter) (FRAG (WHADVP (WRB where)))))) (. .)))
+2707,"(3,)","No , I need blue at this stage , yellow you need now .","[No/DT, ,/,, I/PRP, need/VBP, blue/JJ, at/IN, this/DT, stage/NN, ,/,, yellow/JJ, you/PRP, need/VBP, now/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP need) (ADJP (JJ blue)) (PP (IN at) (NP (DT this) (NN stage))) (, ,) (ADJP (JJ yellow) (SBAR (S (NP (PRP you)) (VP (VBP need) (ADVP (RB now))))))) (. .)))"
+2707,"(4,)","Or indeed , one , even if , even if the yellow goes off   .","[Or/CC, indeed/RB, ,/,, one/CD, ,/,, even/RB, if/IN, ,/,, even/RB, if/IN, the/DT, yellow/JJ, goes/VBZ, off/RP, ./.]","(ROOT (S (CC Or) (ADVP (RB indeed)) (, ,) (NP (NP (CD one)) (, ,) (RB even) (ADJP (IN if)) (, ,)) (ADVP (RB even) (PP (IN if) (NP (DT the) (JJ yellow)))) (VP (VBZ goes) (PRT (RP off))) (. .)))"
+2707,"(5,)",O K .,"[O/NN, K/NN, ./.]",(ROOT (NP (NP (NN O)) (NP (NN K)) (. .)))
+2707,"(6,)",  .,[./.],(ROOT (NP (. .)))
+2707,"(7,)",Smashing .,"[Smashing/VBG, ./.]",(ROOT (S (VP (VBG Smashing)) (. .)))
+2707,"(8,)","Well , a bit better   .","[Well/RB, ,/,, a/DT, bit/NN, better/RBR, ./.]","(ROOT (ADVP (ADVP (RB Well)) (, ,) (ADVP (NP (DT a) (NN bit)) (RBR better)) (. .)))"
+2707,"(9,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2707,"(10,)",The rest was   .,"[The/DT, rest/NN, was/VBD, ./.]",(ROOT (S (NP (DT The) (NN rest)) (VP (VBD was)) (. .)))
+2707,"(11,)","No , no , the red 's not terribly helpful to you at the moment .","[No/DT, ,/,, no/DT, ,/,, the/DT, red/NNP, 's/POS, not/RB, terribly/RB, helpful/JJ, to/TO, you/PRP, at/IN, the/DT, moment/NN, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NP (DT no)) (, ,) (NP (NP (DT the) (NNP red) (POS 's)) (ADJP (RB not) (RB terribly) (JJ helpful) (PP (TO to) (NP (PRP you))) (ADVP (IN at) (DT the))) (NN moment))) (. .)))"
+2707,"(12,)",,[],X
+2707,"(13,)","Yes , yes , yes .","[Yes/UH, ,/,, yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes) (, ,) (UH yes)) (, ,) (INTJ (UH yes) (. .))))"
+2707,"(14,)",,[],X
+2707,"(15,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2707,"(16,)", curled round   .,"[curled/VBN, round/NN, ./.]",(ROOT (S (VP (VBN curled) (NP (NN round))) (. .)))
+2707,"(17,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2707,"(18,)",Erm,[Erm/NN],(ROOT (NP (NN Erm)))
+2707,"(19,)",That was erm,"[That/DT, was/VBD, erm/NN]",(ROOT (S (NP (DT That)) (VP (VBD was) (NP (NN erm)))))
+2707,"(20,)",You 've got to move this ball,"[You/PRP, 've/VBP, got/VBN, to/TO, move/VB, this/DT, ball/NN]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB move) (NP (DT this) (NN ball)))))))))
+2707,"(21,)",O K .,"[O/NN, K/NN, ./.]",(ROOT (NP (NP (NN O)) (NP (NN K)) (. .)))
+2707,"(22,)","cos if you don 't , I shall just   your black to a take on","[cos/NN, if/IN, you/PRP, don/VBP, 't/PRP, ,/,, I/PRP, shall/MD, just/RB, your/PRP$, black/JJ, to/TO, a/DT, take/VB, on/RP]","(ROOT (S (SBAR (NP (NN cos)) (IN if) (S (NP (PRP you)) (VP (VBP don) (NP (PRP 't))))) (, ,) (NP (PRP I)) (VP (MD shall) (ADVP (RB just) (NP (NP (PRP$ your) (JJ black)) (PP (TO to) (NP (DT a))))) (VP (VB take) (PRT (RP on))))))"
+2707,"(23,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2707,"(24,)",and I 've got a ball in my hoop .,"[and/CC, I/PRP, 've/VBP, got/VBD, a/DT, ball/NN, in/IN, my/PRP$, hoop/NN, ./.]",(ROOT (S (CC and) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN ball)) (PP (IN in) (NP (PRP$ my) (NN hoop))))) (. .)))
+2707,"(25,)",I see .,"[I/PRP, see/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP see)) (. .)))
+2707,"(26,)",That 's the ball you 've got to   .,"[That/DT, 's/VBZ, the/DT, ball/NN, you/PRP, 've/VBP, got/VBN, to/TO, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (NN ball)) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to))))))))) (. .)))
+2707,"(27,)","Yes , fine .","[Yes/UH, ,/,, fine/JJ, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (ADVP (JJ fine)) (. .)))"
+2707,"(28,)","You can have a shot at red , you can do that , then I will do exactly what I did just now .","[You/PRP, can/MD, have/VB, a/DT, shot/NN, at/IN, red/NNP, ,/,, you/PRP, can/MD, do/VB, that/DT, ,/,, then/RB, I/PRP, will/MD, do/VB, exactly/RB, what/WP, I/PRP, did/VBD, just/RB, now/RB, ./.]","(ROOT (S (S (NP (PRP You)) (VP (MD can) (VP (VB have) (NP (NP (DT a) (NN shot)) (PP (IN at) (NP (NNP red))))))) (PRN (, ,) (S (NP (PRP you)) (VP (MD can) (VP (VB do) (NP (DT that))))) (, ,)) (RB then) (S (NP (PRP I)) (VP (MD will) (VP (VB do) (SBAR (WHADJP (RB exactly) (WP what)) (S (NP (PRP I)) (VP (VBD did) (ADVP (RB just)) (ADVP (RB now)))))))) (. .)))"
+2707,"(29,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2707,"(30,)","Try and eh , I shall , probably get it even better , mind , most people would have a shot at those two I think","[Try/VB, and/CC, eh/UH, ,/,, I/PRP, shall/MD, ,/,, probably/RB, get/VB, it/PRP, even/RB, better/RBR, ,/,, mind/NN, ,/,, most/JJS, people/NNS, would/MD, have/VB, a/DT, shot/NN, at/IN, those/DT, two/CD, I/PRP, think/VBP]","(ROOT (NP (S (S (VP (VB Try))) (CC and) (S (INTJ (UH eh)) (, ,) (S (NP (PRP I)) (VP (MD shall) (, ,) (ADVP (RB probably)) (VP (VB get) (S (NP (PRP it)) (ADJP (RB even) (RBR better))) (, ,) (NP (NN mind))))) (, ,) (S (NP (JJS most) (NNS people)) (VP (MD would) (VP (VB have) (NP (NP (DT a) (NN shot)) (PP (IN at) (NP (DT those) (CD two))) (SBAR (S (NP (PRP I)) (VP (VBP think))))))))))))"
+2707,"(31,)","Yes , O K .","[Yes/UH, ,/,, O/NN, K/NN, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (NP (NN O) (NN K)) (. .)))"
+2707,"(32,)",cos you 're not giving very much away .,"[cos/NNP, you/PRP, 're/VBP, not/RB, giving/VBG, very/RB, much/RB, away/RB, ./.]",(ROOT (S (NP (NNP cos) (PRP you)) (VP (VBP 're) (RB not) (VP (VBG giving) (ADVP (RB very) (RB much) (RB away)))) (. .)))
+2707,"(33,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2707,"(34,)",The other alternative is just to go off in that corner over there .,"[The/DT, other/JJ, alternative/NN, is/VBZ, just/RB, to/TO, go/VB, off/RP, in/IN, that/DT, corner/NN, over/IN, there/RB, ./.]",(ROOT (S (NP (DT The) (JJ other) (NN alternative)) (VP (VBZ is) (ADVP (RB just)) (S (VP (TO to) (VP (VB go) (PRT (RP off)) (PP (IN in) (NP (NP (DT that) (NN corner)) (PP (IN over) (NP (RB there))))))))) (. .)))
+2707,"(35,)",It 's very negative .,"[It/PRP, 's/VBZ, very/RB, negative/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB very) (JJ negative))) (. .)))
+2707,"(36,)","Well , I yes , yes , I   doesn 't appeal to me at all .","[Well/RB, ,/,, I/PRP, yes/RB, ,/,, yes/UH, ,/,, I/PRP, doesn/VBP, 't/PRP, appeal/VB, to/TO, me/PRP, at/IN, all/DT, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (NP (PRP I)) (NP (RB yes))) (, ,) (INTJ (UH yes)) (, ,) (NP (PRP I)) (VP (VBP doesn) (S (NP (PRP 't)) (VP (VB appeal) (PP (TO to) (NP (PRP me))) (ADVP (IN at) (DT all))))) (. .)))"
+2707,"(37,)",,[],X
+2707,"(38,)","Yes , right .","[Yes/UH, ,/,, right/RB, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (ADVP (RB right)) (. .)))"
+2707,"(39,)",,[],X
+2707,"(40,)","Move , move , move it out , right .","[Move/NN, ,/,, move/NN, ,/,, move/VB, it/PRP, out/RP, ,/,, right/RB, ./.]","(ROOT (S (NP (NP (NN Move)) (, ,) (NP (NN move)) (, ,)) (VP (VB move) (NP (PRP it)) (ADVP (RP out)) (, ,) (ADVP (RB right))) (. .)))"
+2707,"(41,)","Right I shall go for the blue , well actually , black , black is better cos blue went squiffy .","[Right/JJ, I/PRP, shall/MD, go/VB, for/IN, the/DT, blue/NN, ,/,, well/RB, actually/RB, ,/,, black/JJ, ,/,, black/JJ, is/VBZ, better/JJR, cos/NN, blue/JJ, went/VBD, squiffy/RB, ./.]","(ROOT (S (NP (NP (JJ Right)) (SBAR (S (NP (PRP I)) (VP (MD shall) (VP (VB go) (PP (IN for) (NP (NP (NP (DT the) (NN blue)) (PRN (, ,) (ADVP (RB well)) (ADVP (RB actually)) (, ,))) (ADJP (JJ black) (, ,) (JJ black))))))))) (VP (VBZ is) (NP (NP (JJR better) (NN cos)) (SBAR (S (NP (JJ blue)) (VP (VBD went) (ADVP (RB squiffy))))))) (. .)))"
+2707,"(42,)",Well   .,"[Well/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (. .)))
+2707,"(43,)",Yes that 's true .,"[Yes/UH, that/DT, 's/VBZ, true/JJ, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true)))) (. .)))
+2707,"(44,)",Ah .,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
+2707,"(45,)",,[],X
+2707,"(46,)","Right , right yes .","[Right/RB, ,/,, right/JJ, yes/RB, ./.]","(ROOT (X (ADVP (RB Right)) (, ,) (NP (NP (JJ right)) (NP (RB yes))) (. .)))"

@@ -1,0 +1,11 @@
+16302,"(0,)",It 's French next .,"[It/PRP, 's/VBZ, French/JJ, next/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (JJ French)) (ADJP (JJ next))) (. .)))
+16302,"(1,)",I haven 't got French next .,"[I/PRP, haven/NN, 't/PRP, got/VBD, French/JJ, next/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (JJ French)) (ADVP (JJ next)))))) (. .)))
+16302,"(2,)",I hate French .,"[I/PRP, hate/VBP, French/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (ADJP (JJ French))) (. .)))
+16302,"(3,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+16302,"(4,)",Cos I have to speak to her .,"[Cos/NNP, I/PRP, have/VBP, to/TO, speak/VB, to/TO, her/PRP, ./.]",(ROOT (S (NP (NNP Cos) (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB speak) (PP (TO to) (NP (PRP her))))))) (. .)))
+16302,"(5,)", about a conversation then ?,"[about/IN, a/DT, conversation/NN, then/RB, ?/.]",(ROOT (FRAG (ADVP (IN about) (NP (DT a) (NN conversation))) (RB then) (. ?)))
+16302,"(6,)","What about it , that 's worse isn 't it ?","[What/WP, about/IN, it/PRP, ,/,, that/DT, 's/VBZ, worse/JJR, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (SBARQ (WHNP (WHNP (WP What)) (PP (IN about) (NP (NP (PRP it)) (, ,) (NP (DT that))))) (SQ (VBZ 's) (NP (NP (NP (JJR worse) (NN isn)) (NP (PRP 't))) (NP (PRP it)))) (. ?)))"
+16302,"(7,)","Yeah , well it 's the same thing .","[Yeah/UH, ,/,, well/RB, it/PRP, 's/VBZ, the/DT, same/JJ, thing/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ 's) (NP (DT the) (JJ same) (NN thing))) (. .)))"
+16302,"(8,)",I mean you don 't   .,"[I/PRP, mean/VBP, you/PRP, don/VB, 't/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP you)) (VP (VB don) (NP (PRP 't))))) (. .)))
+16302,"(9,)",But not to her .,"[But/CC, not/RB, to/TO, her/PRP, ./.]",(ROOT (FRAG (CC But) (ADVP (RB not) (PP (TO to) (NP (PRP her)))) (. .)))
+16302,"(10,)","No ,  .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"

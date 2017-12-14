@@ -1,0 +1,19 @@
+7408,"(0,)",Well shall we keep some at home ?,"[Well/RB, shall/MD, we/PRP, keep/VB, some/DT, at/IN, home/NN, ?/.]",(ROOT (SINV (ADVP (RB Well)) (VP (MD shall)) (NP (PRP we)) (S (VP (VB keep) (NP (DT some)) (PP (IN at) (NP (NN home))))) (. ?)))
+7408,"(1,)",No ,[No/DT],(ROOT (FRAG (NP (DT No))))
+7408,"(2,)",Well you 've got lots in there .,"[Well/RB, you/PRP, 've/VBP, got/VBN, lots/NNS, in/IN, there/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS lots)) (PP (IN in) (NP (RB there)))))) (. .)))
+7408,"(3,)",I don 't think there 'll be any room on the table .,"[I/PRP, don/VBP, 't/PRP, think/VB, there/RB, 'll/MD, be/VB, any/DT, room/NN, on/IN, the/DT, table/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (RB there)) (VP (MD 'll) (VP (VB be) (NP (NP (DT any) (NN room)) (PP (IN on) (NP (DT the) (NN table))))))))))) (. .)))
+7408,"(4,)",Will there ?,"[Will/MD, there/EX, ?/.]",(ROOT (S (VP (MD Will) (VP (NP (EX there)))) (. ?)))
+7408,"(5,)",Can 't I put them on desk ? put them,"[Can/MD, 't/PRP, I/PRP, put/VBD, them/PRP, on/IN, desk/NN, ?/., put/VBD, them/PRP]",(ROOT (SINV (VP (MD Can)) (NP (NP (PRP 't)) (SBAR (S (NP (PRP I)) (VP (VBD put) (NP (PRP them)) (SBAR (PP (IN on) (NP (NN desk)) (. ?)) (S (VP (VBD put) (NP (PRP them)))))))))))
+7408,"(6,)",On the desk ?,"[On/IN, the/DT, desk/NN, ?/.]",(ROOT (FRAG (PP (IN On) (NP (DT the) (NN desk))) (. ?)))
+7408,"(7,)",Well you 've got to take these as well look .,"[Well/RB, you/PRP, 've/VBP, got/VBN, to/TO, take/VB, these/DT, as/RB, well/RB, look/VB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VP (VB take) (NP (DT these))) (CONJP (RB as) (RB well)) (VP (VB look))))))) (. .)))
+7408,"(8,)",Ooooooh .,"[Ooooooh/RB, ./.]",(ROOT (FRAG (ADVP (RB Ooooooh)) (. .)))
+7408,"(9,)",D 'you want to put that on the desk as well ?,"[D/NNP, 'you/NNP, want/VBP, to/TO, put/VB, that/DT, on/IN, the/DT, desk/NN, as/RB, well/RB, ?/.]",(ROOT (S (NP (NNP D) (NNP 'you)) (VP (VBP want) (S (VP (TO to) (VP (VB put) (NP (NP (DT that)) (PP (IN on) (NP (DT the) (NN desk)))) (ADVP (RB as) (RB well)))))) (. ?)))
+7408,"(10,)",Alright then .,"[Alright/JJ, then/RB, ./.]",(ROOT (S (NP (JJ Alright)) (VP (ADVP (RB then))) (. .)))
+7408,"(11,)", read book ,"[read/NNP, book/NNP]",(ROOT (NP (NNP read) (NNP book)))
+7408,"(12,)","Well , gonna eat your breakfast ?","[Well/RB, ,/,, gonna/NNP, eat/VB, your/PRP$, breakfast/NN, ?/.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (NNP gonna)) (VP (VB eat) (NP (PRP$ your) (NN breakfast))) (. ?)))"
+7408,"(13,)",Read book first .,"[Read/NNP, book/NNP, first/NNP, ./.]",(ROOT (NP (NNP Read) (NNP book) (NNP first) (. .)))
+7408,"(14,)","No , if you 're not going to eat your breakfast then we 'll go and have a bath and then I 'll read you a story .","[No/DT, ,/,, if/IN, you/PRP, 're/VBP, not/RB, going/VBG, to/TO, eat/VB, your/PRP$, breakfast/NN, then/RB, we/PRP, 'll/MD, go/VB, and/CC, have/VB, a/DT, bath/NN, and/CC, then/RB, I/PRP, 'll/MD, read/VB, you/PRP, a/DT, story/NN, ./.]","(ROOT (S (S (NP (DT No)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB eat) (NP (PRP$ your) (NN breakfast)) (ADVP (RB then))))))))) (NP (PRP we)) (VP (MD 'll) (VP (VP (VB go)) (CC and) (VP (VB have) (NP (DT a) (NN bath)))))) (CC and) (RB then) (S (NP (PRP I)) (VP (MD 'll) (VP (VB read) (S (NP (PRP you)) (NP (DT a) (NN story)))))) (. .)))"
+7408,"(15,)",Okay ?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
+7408,"(16,)",,[],X
+7408,"(17,)",Come on then .,"[Come/VB, on/IN, then/RB, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (RB then)))) (. .)))
+7408,"(18,)",Quick .,"[Quick/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Quick)) (. .)))

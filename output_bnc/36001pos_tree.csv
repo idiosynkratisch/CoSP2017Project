@@ -1,0 +1,27 @@
+36001,"(0,)","That 's right , it 's on now that is .","[That/DT, 's/VBZ, right/NN, ,/,, it/PRP, 's/VBZ, on/IN, now/RB, that/DT, is/VBZ, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (NN right)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (PP (IN on) (NP (NP (RB now)) (SBAR (WHNP (DT that)) (S (VP (VBZ is))))))) (. .)))"
+36001,"(1,)", talking is it ?,"[talking/VBG, is/VBZ, it/PRP, ?/.]",(ROOT (S (S (VP (VBG talking))) (VP (VBZ is) (NP (PRP it))) (. ?)))
+36001,"(2,)",,[],X
+36001,"(3,)",What 's it called love ?,"[What/WP, 's/VBZ, it/PRP, called/VBN, love/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP it)) (VP (VBN called) (NP (NN love)))) (. ?)))
+36001,"(4,)",Neville 's   .,"[Neville/NNP, 's/POS, ./.]",(ROOT (S (NP (NNP Neville)) (VP (POS 's)) (. .)))
+36001,"(5,)",Who ?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+36001,"(6,)",Neville >  .,"[Neville/NNP, >/JJR, ./.]",(ROOT (S (NP (NNP Neville)) (ADJP (JJR >)) (. .)))
+36001,"(7,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+36001,"(8,)",You got any first class stamps anywhere ?,"[You/PRP, got/VBD, any/DT, first/JJ, class/NN, stamps/NNS, anywhere/RB, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBD got) (NP (DT any) (JJ first) (NN class) (NNS stamps)) (ADVP (RB anywhere))) (. ?)))
+36001,"(9,)",Yeah ?,"[Yeah/UH, ?/.]",(ROOT (INTJ (UH Yeah) (. ?)))
+36001,"(10, 11)",I 'm   a first erm  class si- stamps .,"[I/PRP, 'm/VBP, a/DT, first/JJ, erm/NN, class/NN, si-/JJ, stamps/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a) (JJ first) (NN erm) (NN class)) (NP (JJ si-) (NNS stamps)))) (. .)))
+36001,"(12,)", stamps ?,"[stamps/NNS, ?/.]",(ROOT (NP (NNS stamps) (. ?)))
+36001,"(13,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+36001,"(14, 15)",Cos I 've got  I 've got a couple here twenty four pence .,"[Cos/NN, I/PRP, 've/VBP, got/VBN, I/PRP, 've/VBP, got/VBD, a/DT, couple/NN, here/RB, twenty/CD, four/CD, pence/NN, ./.]",(ROOT (S (NP (NP (NN Cos)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (PRP I))))))) (VP (VBP 've) (VP (VBD got) (ADVP (NP (DT a) (NN couple)) (RB here)) (NP (CD twenty) (CD four) (NN pence)))) (. .)))
+36001,"(16,)"," fifty , fifty pence ?","[fifty/CD, ,/,, fifty/CD, pence/NN, ?/.]","(ROOT (NP (NP (CD fifty)) (, ,) (NP (CD fifty) (NN pence)) (. ?)))"
+36001,"(17,)","No , I got some green in here .","[No/DT, ,/,, I/PRP, got/VBD, some/DT, green/JJ, in/IN, here/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBD got) (NP (DT some) (JJ green)) (PP (IN in) (NP (RB here)))) (. .)))"
+36001,"(18, 19)",Erm  two pence .,"[Erm/VB, two/CD, pence/NNS, ./.]",(ROOT (S (VP (VB Erm) (NP (CD two) (NNS pence))) (. .)))
+36001,"(20,)",No I can 't find any .,"[No/DT, I/PRP, can/MD, 't/PRP, find/VB, any/DT, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB find) (NP (DT any))))) (. .)))
+36001,"(21,)",  .,[./.],(ROOT (NP (. .)))
+36001,"(22,)","Here are , er","[Here/RB, are/VBP, ,/,, er/NN]","(ROOT (S (NP (NP (NP (RB Here)) (VP (VBP are))) (, ,) (NP (NN er)))))"
+36001,"(23,)",,[],X
+36001,"(24, 25)",Four at twenty four pence  and two at two pence .,"[Four/CD, at/IN, twenty/CD, four/CD, pence/NN, and/CC, two/CD, at/IN, two/CD, pence/NNS, ./.]",(ROOT (NP (NP (CD Four)) (PP (IN at) (NP (NP (CD twenty) (CD four) (NN pence)) (CC and) (NP (CD two)))) (PP (IN at) (NP (CD two) (NNS pence))) (. .)))
+36001,"(26,)",So that 's   .,"[So/IN, that/DT, 's/VBZ, ./.]",(ROOT (S (IN So) (NP (DT that)) (VP (VBZ 's)) (. .)))
+36001,"(27,)",And that if I post it tomorrow   Friday .,"[And/CC, that/IN, if/IN, I/PRP, post/VBP, it/PRP, tomorrow/NN, Friday/NNP, ./.]",(ROOT (FRAG (CC And) (SBAR (IN that) (IN if) (S (NP (PRP I)) (VP (VBP post) (S (NP (PRP it)) (NP (NP (NN tomorrow)) (NP (NNP Friday))))))) (. .)))
+36001,"(28,)","So if I put a twenty four one on then it could leave that like that , right ?","[So/RB, if/IN, I/PRP, put/VBP, a/DT, twenty/CD, four/CD, one/CD, on/IN, then/RB, it/PRP, could/MD, leave/VB, that/DT, like/IN, that/DT, ,/,, right/NN, ?/.]","(ROOT (S (ADVP (RB So) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP put) (NP (DT a) (CD twenty) (NP (NP (CD four) (CD one)) (PP (IN on) (NP (RB then))))))))) (NP (PRP it)) (VP (MD could) (VP (VB leave) (NP (DT that)) (PP (IN like) (NP (NP (DT that)) (, ,) (NP (NN right)))))) (. ?)))"
+36001,"(29,)",Don 't want her to pay any out at the other end do we ?,"[Don/NNP, 't/PRP, want/VB, her/PRP, to/TO, pay/VB, any/DT, out/RP, at/IN, the/DT, other/JJ, end/NN, do/VBP, we/PRP, ?/.]",(ROOT (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VB want) (S (NP (PRP her)) (VP (TO to) (VP (VB pay) (NP (DT any)) (PRT (RP out)) (PP (IN at) (NP (DT the) (JJ other) (NN end)))))))))) (VP (VBP do) (NP (PRP we))) (. ?)))
+36001,"(30,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))

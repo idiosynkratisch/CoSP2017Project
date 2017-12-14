@@ -1,0 +1,7 @@
+38903,"(0,)",It means that when the,"[It/PRP, means/VBZ, that/IN, when/WRB, the/DT]",(ROOT (S (NP (PRP It)) (VP (VBZ means) (VP (FRAG (SBAR (IN that) (FRAG (WHADVP (WRB when)) (ADJP (DT the)))))))))
+38903,"(1,)",When the other side have got,"[When/WRB, the/DT, other/JJ, side/NN, have/VBP, got/VBN]",(ROOT (SBAR (WHADVP (WRB When)) (S (NP (DT the) (JJ other) (NN side)) (VP (VBP have) (VP (VBN got))))))
+38903,"(2,)",,[],X
+38903,"(3,)",when the other have got one off .,"[when/WRB, the/DT, other/JJ, have/VBP, got/VBN, one/CD, off/RB, ./.]",(ROOT (FRAG (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ other)) (VP (VBP have) (VP (VBN got) (ADVP (NP (CD one)) (RB off)))))) (. .)))
+38903,"(4,)",Again .,"[Again/RB, ./.]",(ROOT (FRAG (ADVP (RB Again)) (. .)))
+38903,"(5,)",That 's two nil .,"[That/DT, 's/VBZ, two/CD, nil/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (CD two) (NN nil))) (. .)))
+38903,"(6,)",That 's it .,"[That/DT, 's/VBZ, it/PRP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it))) (. .)))

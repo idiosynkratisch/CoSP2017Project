@@ -1,0 +1,118 @@
+63603,"(0,)",Here we go .,"[Here/RB, we/PRP, go/VBP, ./.]",(ROOT (S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP go)) (. .)))
+63603,"(1, 2)", There we go .,"[There/EX, we/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
+63603,"(3,)",There we go !,"[There/EX, we/PRP, go/VBP, !/.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. !)))
+63603,"(4,)","Don 't have that , have that dungy on there .","[Don/NNP, 't/PRP, have/VBP, that/IN, ,/,, have/VB, that/DT, dungy/NN, on/IN, there/EX, ./.]","(ROOT (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VBP have) (ADVP (IN that)))))) (, ,) (VP (VB have) (NP (NP (DT that) (NN dungy)) (PP (IN on) (NP (EX there))))) (. .)))"
+63603,"(5,)",Have that one on your chair .,"[Have/VB, that/DT, one/CD, on/IN, your/PRP$, chair/NN, ./.]",(ROOT (S (VP (VB Have) (NP (NP (DT that) (CD one)) (PP (IN on) (NP (PRP$ your) (NN chair))))) (. .)))
+63603,"(6,)",Take it off this time .,"[Take/VB, it/PRP, off/RP, this/DT, time/NN, ./.]",(ROOT (S (VP (VB Take) (NP (PRP it)) (PRT (RP off)) (NP (DT this) (NN time))) (. .)))
+63603,"(7,)", There we are   .,"[There/EX, we/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP are)) (. .)))
+63603,"(8, 9)", Got that little bit sorted out now hasn 't it ?,"[Got/VBD, that/DT, little/JJ, bit/NN, sorted/VBD, out/RP, now/RB, hasn/VBP, 't/PRP, it/PRP, ?/.]",(ROOT (S (S (VP (VBD Got) (SBAR (S (NP (DT that) (JJ little) (NN bit)) (VP (VBD sorted) (PRT (RP out)) (ADVP (RB now))))))) (VP (VBP hasn) (S (NP (PRP 't)) (NP (PRP it)))) (. ?)))
+63603,"(10,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+63603,"(11, 12)",Some meat for daddy  tea .,"[Some/DT, meat/NN, for/IN, daddy/JJ, tea/NN, ./.]",(ROOT (NP (NP (DT Some) (NN meat)) (PP (IN for) (NP (JJ daddy) (NN tea))) (. .)))
+63603,"(13,)","Come on then , the pair of you .","[Come/VB, on/IN, then/RB, ,/,, the/DT, pair/NN, of/IN, you/PRP, ./.]","(ROOT (S (VP (VB Come) (PP (IN on) (NP (NP (RB then)) (, ,) (NP (NP (DT the) (NN pair)) (PP (IN of) (NP (PRP you))))))) (. .)))"
+63603,"(14,)",Whoops-a-daisy !,"[Whoops-a-daisy/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Whoops-a-daisy)) (. !)))
+63603,"(15, 16, 17)",  What you doing ?,"[What/WP, you/PRP, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WHNP (WP What)) (NP (PRP you))) (SQ (VP (VBG doing))) (. ?)))
+63603,"(18,)","Put it down , it 's dirty !","[Put/VB, it/PRP, down/RB, ,/,, it/PRP, 's/VBZ, dirty/JJ, !/.]","(ROOT (S (S (VP (VB Put) (NP (PRP it)) (ADVP (RB down)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ dirty))) (. !)))"
+63603,"(19,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+63603,"(20,)","No , don 't do that with it .","[No/DT, ,/,, don/NNP, 't/PRP, do/VBP, that/DT, with/IN, it/PRP, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP do) (NP (NP (DT that)) (PP (IN with) (NP (PRP it)))))))) (. .)))"
+63603,"(21,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+63603,"(22, 23)","Come on , let 's take your coat off and then you can have your  jam tart .","[Come/VB, on/RP, ,/,, let/VB, 's/POS, take/VB, your/PRP$, coat/NN, off/IN, and/CC, then/RB, you/PRP, can/MD, have/VB, your/PRP$, jam/NN, tart/JJ, ./.]","(ROOT (S (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (S (VP (VB let) (S (NP (POS 's)) (VP (VB take) (NP (PRP$ your) (NN coat)) (PRT (IN off))))))) (CC and) (RB then) (S (NP (PRP you)) (VP (MD can) (VP (VB have) (NP (NP (PRP$ your) (NN jam)) (JJ tart))))) (. .)))"
+63603,"(24,)",,[],X
+63603,"(25,)",,[],X
+63603,"(26,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+63603,"(27,)",Let 's get this coaties off .,"[Let/VB, 's/PRP, get/VB, this/DT, coaties/NNS, off/RP, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB get) (NP (DT this) (NNS coaties)) (PRT (RP off))))) (. .)))
+63603,"(28,)",And your hat .,"[And/CC, your/PRP$, hat/NN, ./.]",(ROOT (FRAG (CC And) (NP (NP (PRP$ your)) (NP (NN hat))) (. .)))
+63603,"(29,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+63603,"(30,)",,[],X
+63603,"(31,)",,[],X
+63603,"(32,)",Yes !,"[Yes/UH, !/.]",(ROOT (INTJ (UH Yes) (. !)))
+63603,"(33,)",Ooh !,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+63603,"(34,)",Ooh !,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+63603,"(35,)",It 's come of again .,"[It/PRP, 's/VBZ, come/VBN, of/IN, again/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN come) (PP (IN of) (ADVP (RB again))))) (. .)))
+63603,"(36,)",Have you got a dirty nappy ?,"[Have/VB, you/PRP, got/VBD, a/DT, dirty/JJ, nappy/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (DT a) (JJ dirty) (NN nappy))))) (. ?)))
+63603,"(37,)",,[],X
+63603,"(38,)",,[],X
+63603,"(39,)",And who have been to see ?,"[And/CC, who/WP, have/VBP, been/VBN, to/TO, see/VB, ?/.]",(ROOT (SBARQ (CC And) (WHNP (WP who)) (SQ (VP (VBP have) (VP (VBN been) (S (VP (TO to) (VP (VB see))))))) (. ?)))
+63603,"(40,)",To see Jade ?,"[To/TO, see/VB, Jade/NNP, ?/.]",(ROOT (S (VP (TO To) (VP (VB see) (NP (NNP Jade)))) (. ?)))
+63603,"(41,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(42,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(43,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(44,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+63603,"(45,)",She 's poorly now int she ?,"[She/PRP, 's/VBZ, poorly/RB, now/RB, int/VB, she/PRP, ?/.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (ADVP (RB poorly) (RB now) (S (VP (VB int) (NP (PRP she)))))) (. ?)))
+63603,"(46,)",Jadey !,"[Jadey/NNP, !/.]",(ROOT (FRAG (NP (NNP Jadey)) (. !)))
+63603,"(47,)",Jade 's poorly .,"[Jade/NNP, 's/POS, poorly/RB, ./.]",(ROOT (NP (NP (NP (NNP Jade) (POS 's)) (NP (RB poorly))) (. .)))
+63603,"(48,)",Jade 's poorly .,"[Jade/NNP, 's/POS, poorly/RB, ./.]",(ROOT (NP (NP (NP (NNP Jade) (POS 's)) (NP (RB poorly))) (. .)))
+63603,"(49,)","Yeah , she 's , er at , she 's a big girl now , she 's nearly two !","[Yeah/UH, ,/,, she/PRP, 's/VBZ, ,/,, er/NN, at/IN, ,/,, she/PRP, 's/VBZ, a/DT, big/JJ, girl/NN, now/RB, ,/,, she/PRP, 's/VBZ, nearly/RB, two/CD, !/.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (NP (PRP she)) (VP (VBZ 's))) (, ,) (NP (NN er)) (ADVP (IN at)) (PRN (, ,) (S (NP (PRP she)) (VP (VBZ 's) (NP (DT a) (JJ big) (NN girl)) (ADVP (RB now)))) (, ,)) (NP (PRP she)) (VP (VBZ 's) (NP (QP (RB nearly) (CD two)))) (. !)))"
+63603,"(50,)",Ee !,"[Ee/NN, !/.]",(ROOT (NP (NN Ee) (. !)))
+63603,"(51,)",Nearly two .,"[Nearly/RB, two/CD, ./.]",(ROOT (FRAG (NP (RB Nearly) (CD two)) (. .)))
+63603,"(52,)",And if you 're a good boy you 're going to Jade 's party .,"[And/CC, if/IN, you/PRP, 're/VBP, a/DT, good/JJ, boy/NN, you/PRP, 're/VBP, going/VBG, to/TO, Jade/NNP, 's/POS, party/NN, ./.]",(ROOT (S (CC And) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (JJ good) (NN boy))))) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (PP (TO to) (NP (NP (NNP Jade) (POS 's)) (NN party))))) (. .)))
+63603,"(53,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(54,)",You 've got to be a,"[You/PRP, 've/VBP, got/VBN, to/TO, be/VB, a/DT]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB be) (NP (DT a)))))))))
+63603,"(55,)",Party !,"[Party/NN, !/.]",(ROOT (INTJ (NN Party) (. !)))
+63603,"(56, 57)",good  yeah !,"[good/JJ, yeah/UH, !/.]",(ROOT (FRAG (PP (JJ good) (NP (UH yeah))) (. !)))
+63603,"(58,)",Jadey !,"[Jadey/NNP, !/.]",(ROOT (FRAG (NP (NNP Jadey)) (. !)))
+63603,"(59,)",Stand up .,"[Stand/VB, up/RP, ./.]",(ROOT (S (VP (VB Stand) (PRT (RP up))) (. .)))
+63603,"(60,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(61,)","Jade , yeah .","[Jade/NNP, ,/,, yeah/UH, ./.]","(ROOT (NP (NP (NNP Jade)) (, ,) (NP (UH yeah)) (. .)))"
+63603,"(62,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(63, 64)",Jade 's party  if you 're a good boy .,"[Jade/NNP, 's/POS, party/NN, if/IN, you/PRP, 're/VBP, a/DT, good/JJ, boy/NN, ./.]",(ROOT (NP (NP (NP (NP (NNP Jade) (POS 's)) (NN party)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (JJ good) (NN boy)))))) (. .)))
+63603,"(65,)",Jadey !,"[Jadey/NNP, !/.]",(ROOT (FRAG (NP (NNP Jadey)) (. !)))
+63603,"(66,)","Jadey 's party , if you 're a good boy .","[Jadey/NNP, 's/POS, party/NN, ,/,, if/IN, you/PRP, 're/VBP, a/DT, good/JJ, boy/NN, ./.]","(ROOT (NP (NP (NP (NP (NNP Jadey) (POS 's)) (NN party)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (JJ good) (NN boy)))))) (. .)))"
+63603,"(67,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(68,)",Mm !,"[Mm/NN, !/.]",(ROOT (NP (NN Mm) (. !)))
+63603,"(69,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(70,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(71,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(72,)", Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+63603,"(73,)",Jade   .,"[Jade/NNP, ./.]",(ROOT (FRAG (NP (NNP Jade)) (. .)))
+63603,"(74,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(75,)",Jade !,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
+63603,"(76,)",,[],X
+63603,"(77,)",D 'ya want your slippers on ?,"[D/NNP, 'ya/NNP, want/VB, your/PRP$, slippers/NNS, on/IN, ?/.]",(ROOT (S (NP (NNP D) (NNP 'ya)) (VP (VB want) (NP (PRP$ your) (NNS slippers)) (PP (IN on))) (. ?)))
+63603,"(78,)",Mum . ,"[Mum/NN, ./.]",(ROOT (NP (NN Mum) (. .)))
+63603,"(79,)",Get some new shoes for   party won 't we ?,"[Get/VB, some/DT, new/JJ, shoes/NNS, for/IN, party/NN, won/VBD, 't/PRP, we/PRP, ?/.]",(ROOT (SQ (VP (VB Get) (SBAR (S (NP (NP (DT some) (JJ new) (NNS shoes)) (PP (IN for) (NP (NN party)))) (VP (VBD won) (S (NP (PRP 't)) (NP (PRP we))))))) (. ?)))
+63603,"(80,)",,[],X
+63603,"(81,)",Show your daddy .,"[Show/VB, your/PRP$, daddy/NN, ./.]",(ROOT (S (VP (VB Show) (NP (PRP$ your) (NN daddy))) (. .)))
+63603,"(82,)",Daddy .,"[Daddy/NNP, ./.]",(ROOT (FRAG (NP (NNP Daddy)) (. .)))
+63603,"(83,)","Say , if you 're a good boy .","[Say/VB, ,/,, if/IN, you/PRP, 're/VBP, a/DT, good/JJ, boy/NN, ./.]","(ROOT (S (VP (VB Say) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (JJ good) (NN boy)))))) (. .)))"
+63603,"(84,)",Daddy .,"[Daddy/NNP, ./.]",(ROOT (FRAG (NP (NNP Daddy)) (. .)))
+63603,"(85,)",You 're going to get an invitation to Jadey 's party .,"[You/PRP, 're/VBP, going/VBG, to/TO, get/VB, an/DT, invitation/NN, to/TO, Jadey/NNP, 's/POS, party/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB get) (NP (DT an) (NN invitation)) (PP (TO to) (NP (NP (NNP Jadey) (POS 's)) (NN party)))))))) (. .)))
+63603,"(86,)",Won 't we ?,"[Won/VBN, 't/PRP, we/PRP, ?/.]",(ROOT (S (VP (VBN Won) (S (NP (PRP 't)) (NP (PRP we)))) (. ?)))
+63603,"(87,)",I told Aunty Sharon you have to be a good boy though .,"[I/PRP, told/VBD, Aunty/NNP, Sharon/NNP, you/PRP, have/VBP, to/TO, be/VB, a/DT, good/JJ, boy/NN, though/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (NP (NNP Aunty) (NNP Sharon)) (SBAR (S (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ good) (NN boy)) (ADVP (IN though)))))))))) (. .)))
+63603,"(88,)",,[],X
+63603,"(89,)",,[],X
+63603,"(90,)",Haven 't we ?,"[Haven/NNP, 't/PRP, we/PRP, ?/.]",(ROOT (NP (NP (NNP Haven)) (NP (NP (PRP 't)) (NP (PRP we))) (. ?)))
+63603,"(91,)",,[],X
+63603,"(92,)",,[],X
+63603,"(93,)",No !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+63603,"(94,)",Don 't touch yet .,"[Don/NNP, 't/PRP, touch/RB, yet/RB, ./.]",(ROOT (NP (NP (NNP Don)) (NP (NP (PRP 't)) (NP (RB touch) (RB yet))) (. .)))
+63603,"(95,)",Wait !,"[Wait/VB, !/.]",(ROOT (S (VP (VB Wait)) (. !)))
+63603,"(96,)",Eh !,"[Eh/UH, !/.]",(ROOT (INTJ (UH Eh) (. !)))
+63603,"(97,)","No , that one 's yours , but you 've got to wait .","[No/DT, ,/,, that/IN, one/CD, 's/POS, yours/PRP$, ,/,, but/CC, you/PRP, 've/VBP, got/VBN, to/TO, wait/VB, ./.]","(ROOT (S (NP (NP (ADJP (DT No) (PRN (, ,) (SBAR (IN that) (S (VP (NP (NP (CD one) (POS 's)) (NP (PRP$ yours)))))) (, ,)))) (PP (CC but) (NP (PRP you)))) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB wait)))))) (. .)))"
+63603,"(98,)",Let 's put your pram away first .,"[Let/VB, 's/PRP, put/VB, your/PRP$, pram/NN, away/RB, first/RB, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB put) (NP (PRP$ your) (NN pram)) (ADVP (RB away) (RB first))))) (. .)))
+63603,"(99,)","Yes , in a minute !","[Yes/UH, ,/,, in/IN, a/DT, minute/NN, !/.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (PP (IN in) (NP (DT a) (NN minute)) (. !))))"
+63603,"(100,)",Cakey !,"[Cakey/NN, !/.]",(ROOT (NP (NN Cakey) (. !)))
+63603,"(101,)",Cakey .,"[Cakey/NNP, ./.]",(ROOT (FRAG (NP (NNP Cakey)) (. .)))
+63603,"(102,)",Cakey !,"[Cakey/NN, !/.]",(ROOT (NP (NN Cakey) (. !)))
+63603,"(103,)",But let 's put your pram away .,"[But/CC, let/VB, 's/POS, put/VB, your/PRP$, pram/NN, away/RB, ./.]",(ROOT (S (CC But) (VP (VB let) (S (NP (POS 's)) (VP (VB put) (NP (PRP$ your) (NN pram)) (ADVP (RB away))))) (. .)))
+63603,"(104,)",,[],X
+63603,"(105,)",,[],X
+63603,"(106,)","  , let 's put your pram away first .","[,/,, let/VB, 's/POS, put/VB, your/PRP$, pram/NN, away/RB, first/RB, ./.]","(ROOT (PRN (, ,) (S (VP (VB let) (S (NP (POS 's)) (VP (VB put) (NP (PRP$ your) (NN pram)) (PP (RB away) (FRAG (ADVP (RB first)) (. .)))))))))"
+63603,"(107,)",Will you pick dungy up off the floor .,"[Will/MD, you/PRP, pick/VB, dungy/NNP, up/IN, off/IN, the/DT, floor/NN, ./.]",(ROOT (SQ (MD Will) (NP (PRP you)) (VP (VB pick) (NP (NNP dungy)) (ADVP (IN up) (PP (IN off) (NP (DT the) (NN floor))))) (. .)))
+63603,"(108,)",Get your dungy off the floor .,"[Get/VB, your/PRP$, dungy/NNP, off/IN, the/DT, floor/NN, ./.]",(ROOT (S (VP (VB Get) (NP (PRP$ your) (NNP dungy)) (PP (IN off) (NP (DT the) (NN floor)))) (. .)))
+63603,"(109,)",You 've got to start being a good boy now .,"[You/PRP, 've/VBP, got/VBN, to/TO, start/VB, being/VBG, a/DT, good/JJ, boy/NN, now/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB start) (S (VP (VBG being) (NP (DT a) (JJ good) (NN boy))))))) (ADVP (RB now)))) (. .)))
+63603,"(110,)",Whoops !,"[Whoops/NNP, !/.]",(ROOT (FRAG (NP (NNP Whoops)) (. !)))
+63603,"(111,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+63603,"(112,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+63603,"(113,)",Come in here .,"[Come/VB, in/IN, here/RB, ./.]",(ROOT (S (VP (VB Come) (PP (IN in) (NP (RB here)))) (. .)))
+63603,"(114,)",Come on !,"[Come/VB, on/IN, !/.]",(ROOT (S (VP (VB Come) (PP (IN on))) (. !)))
+63603,"(115,)",In you go .,"[In/IN, you/PRP, go/VBP, ./.]",(ROOT (S (PP (IN In)) (NP (PRP you)) (VP (VBP go)) (. .)))
+63603,"(116,)",Ee ee ee ee ee ee !,"[Ee/NN, ee/NN, ee/NN, ee/NN, ee/NN, ee/NN, !/.]",(ROOT (FRAG (NP (NN Ee) (NN ee)) (NP (NN ee) (NN ee) (NN ee) (NN ee)) (. !)))
+63603,"(117,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+63603,"(118,)",In your chair with your bib .,"[In/IN, your/PRP$, chair/NN, with/IN, your/PRP$, bib/NN, ./.]",(ROOT (FRAG (PP (IN In) (NP (NP (PRP$ your) (NN chair)) (PP (IN with) (NP (PRP$ your) (NN bib))))) (. .)))
+63603,"(119,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+63603,"(120, 121)"," No , not that one , that way .","[No/DT, ,/,, not/RB, that/IN, one/CD, ,/,, that/DT, way/NN, ./.]","(ROOT (NP (NP (NP (ADJP (DT No) (PRN (, ,) (PP (RB not) (IN that) (NP (CD one))) (, ,)))) (NP (DT that) (NN way))) (. .)))"
+63603,"(122,)",Come here .,"[Come/VBN, here/RB, ./.]",(ROOT (FRAG (PP (VBN Come) (NP (RB here))) (. .)))
+63603,"(123,)",Oi !,"[Oi/NN, !/.]",(ROOT (NP (NN Oi) (. !)))
+63603,"(124,)",In your chair first .,"[In/IN, your/PRP$, chair/NN, first/RB, ./.]",(ROOT (FRAG (PP (IN In) (NP (PRP$ your) (NN chair) (RB first))) (. .)))
+63603,"(125,)","Come on , and then mummy 'll get your cakey .","[Come/VB, on/RP, ,/,, and/CC, then/RB, mummy/NN, 'll/MD, get/VB, your/PRP$, cakey/NN, ./.]","(ROOT (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (CC and) (S (ADVP (RB then)) (NP (NN mummy)) (VP (MD 'll) (VP (VB get) (NP (PRP$ your) (NN cakey))))) (. .)))"
+63603,"(126,)",There 's a good boy .,"[There/EX, 's/VBZ, a/DT, good/JJ, boy/NN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN boy))) (. .)))

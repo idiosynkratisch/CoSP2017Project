@@ -1,0 +1,27 @@
+29808,"(0,)",Half past twelve !,"[Half/DT, past/JJ, twelve/CD, !/.]",(ROOT (NP (NP (QP (DT Half))) (PP (JJ past) (NP (CD twelve))) (. !)))
+29808,"(1,)","I might as well go through on this , I was gonna go in that one .","[I/PRP, might/MD, as/RB, well/RB, go/VB, through/IN, on/IN, this/DT, ,/,, I/PRP, was/VBD, gonna/NNP, go/VB, in/IN, that/DT, one/CD, ./.]","(ROOT (S (S (NP (PRP I)) (VP (MD might) (ADVP (RB as) (RB well)) (VP (VB go) (PP (IN through) (PP (IN on) (NP (DT this))))))) (, ,) (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB go) (PP (IN in) (NP (DT that) (CD one)))))) (. .)))"
+29808,"(2,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+29808,"(3,)","I 'll , I 'll go , this fellow 's moving now so I 'll go in there .","[I/PRP, 'll/MD, ,/,, I/PRP, 'll/MD, go/VB, ,/,, this/DT, fellow/NN, 's/POS, moving/VBG, now/RB, so/IN, I/PRP, 'll/MD, go/VB, in/IN, there/RB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (MD 'll))) (, ,) (S (NP (PRP I)) (VP (MD 'll) (VP (VB go)))) (, ,) (S (NP (DT this) (NN fellow) (POS 's)) (VP (VBG moving) (ADVP (RB now)) (SBAR (IN so) (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (PP (IN in) (NP (RB there))))))))) (. .)))"
+29808,"(4,)",So you 've got a big garden have you Arth ?,"[So/RB, you/PRP, 've/VBP, got/VBD, a/DT, big/JJ, garden/NN, have/VBP, you/PRP, Arth/NNP, ?/.]",(ROOT (S (RB So) (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (SBAR (S (NP (DT a) (JJ big) (NN garden)) (VP (VBP have) (S (NP (PRP you)) (NP (NNP Arth)))))))) (. ?)))
+29808,"(5,)","Oh , no","[Oh/UH, ,/,, no/DT]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (NP (DT no))))"
+29808,"(6,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+29808,"(7, 8)",got a  decent size back garden .,"[got/VBD, a/DT, decent/JJ, size/NN, back/RB, garden/NN, ./.]",(ROOT (S (VP (VBD got) (NP (DT a) (JJ decent) (NN size)) (PP (RB back) (NP (NN garden)))) (. .)))
+29808,"(9,)","Mine is , yes yes , yeah .","[Mine/NN, is/VBZ, ,/,, yes/UH, yes/UH, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (NN Mine)) (VP (VBZ is))) (, ,) (FRAG (INTJ (INTJ (UH yes) (UH yes)) (, ,) (INTJ (UH yeah)))) (. .)))"
+29808,"(10,)",It 's er Birkenhead you live is it ?,"[It/PRP, 's/VBZ, er/NN, Birkenhead/NN, you/PRP, live/VBP, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN er) (NN Birkenhead)) (SBAR (S (NP (PRP you)) (VP (VBP live) (SBAR (S (VP (VBZ is) (NP (PRP it)))))))))) (. ?)))
+29808,"(11,)",I live in ,"[I/PRP, live/VBP, in/IN]",(ROOT (S (NP (PRP I)) (VP (VBP live) (PP (IN in)))))
+29808,"(12,)",Oh you told me !,"[Oh/UH, you/PRP, told/VBD, me/PRP, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBD told) (NP (PRP me)))) (. !)))
+29808,"(13,)",But you 're a Birkenhead guy are you ?,"[But/CC, you/PRP, 're/VBP, a/DT, Birkenhead/NN, guy/NN, are/VBP, you/PRP, ?/.]",(ROOT (S (CC But) (NP (PRP you)) (VP (VBP 're) (NP (NP (DT a) (NN Birkenhead) (NN guy)) (SBAR (S (VP (VBP are) (NP (PRP you))))))) (. ?)))
+29808,"(14,)","No ,","[No/DT, ,/,]","(ROOT (FRAG (PP (DT No)) (, ,)))"
+29808,"(15,)",Oh you 're a scouser ?,"[Oh/UH, you/PRP, 're/VBP, a/DT, scouser/NN, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP 're) (NP (DT a) (NN scouser)))) (. ?)))
+29808,"(16,)",Mm mhm,"[Mm/NN, mhm/NN]",(ROOT (NP (NN Mm) (NN mhm)))
+29808,"(17,)",What part ?,"[What/WDT, part/NN, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NN part)) (. ?)))
+29808,"(18,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+29808,"(19,)",What part ?,"[What/WDT, part/NN, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NN part)) (. ?)))
+29808,"(20,)",Manfield .,"[Manfield/NNP, ./.]",(ROOT (FRAG (NP (NNP Manfield)) (. .)))
+29808,"(21,)","Oh that was the , the rough part .","[Oh/UH, that/WDT, was/VBD, the/DT, ,/,, the/DT, rough/JJ, part/NN, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBD was) (NP (DT the)))) (, ,) (FRAG (NP (DT the) (JJ rough) (NN part))) (. .)))"
+29808,"(22,)","Oh aye yeah , well I am rough aren 't I ?","[Oh/UH, aye/NNP, yeah/UH, ,/,, well/RB, I/PRP, am/VBP, rough/JJ, aren/NNP, 't/PRP, I/PRP, ?/.]","(ROOT (S (INTJ (UH Oh) (NNP aye) (UH yeah)) (, ,) (ADVP (RB well)) (NP (PRP I)) (VP (VBP am) (NP (NP (JJ rough)) (S (VP (NNP aren) (S (NP (PRP 't)) (NP (PRP I))))))) (. ?)))"
+29808,"(23, 24)",Highton Highton I came    a nice part .,"[Highton/NNP, Highton/NNP, I/PRP, came/VBD, a/DT, nice/JJ, part/NN, ./.]",(ROOT (S (NP (NNP Highton) (NNP Highton) (PRP I)) (VP (VBD came) (NP (DT a) (JJ nice) (NN part))) (. .)))
+29808,"(25,)", rough are they .,"[rough/JJ, are/VBP, they/PRP, ./.]",(ROOT (S (NP (JJ rough)) (VP (VBP are) (NP (PRP they))) (. .)))
+29808,"(26,)",,[],X
+29808,"(27,)", never used to fight with   lads .,"[never/RB, used/VBN, to/TO, fight/VB, with/IN, lads/NNS, ./.]",(ROOT (S (VP (ADVP (RB never)) (VBN used) (PP (TO to) (VP (VB fight) (PP (IN with) (NP (NNS lads)))))) (. .)))
+29808,"(28,)", they 're a tough crowd .,"[they/PRP, 're/VBP, a/DT, tough/JJ, crowd/NN, ./.]",(ROOT (S (NP (PRP they)) (VP (VBP 're) (NP (DT a) (JJ tough) (NN crowd))) (. .)))

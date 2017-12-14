@@ -1,0 +1,16 @@
+76305,"(0,)",Ooh !,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+76305,"(1,)",Anything more to do ?,"[Anything/NN, more/JJR, to/TO, do/VB, ?/.]",(ROOT (NP (NP (NP (NN Anything)) (NP (JJR more))) (SBAR (S (VP (TO to) (VP (VB do))))) (. ?)))
+76305,"(2,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+76305,"(3,)",I don 't think so .,"[I/PRP, don/VBP, 't/PRP, think/VB, so/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so))))) (. .)))
+76305,"(4,)",I 'm tired .,"[I/PRP, 'm/VBP, tired/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ tired))) (. .)))
+76305,"(5, 6)",Are you going to  finish off in the kid 's room ?,"[Are/VBP, you/PRP, going/VBG, to/TO, finish/VB, off/RP, in/IN, the/DT, kid/NN, 's/POS, room/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB finish) (PRT (RP off)) (PP (IN in) (NP (NP (DT the) (NN kid) (POS 's)) (NN room))))))) (. ?)))
+76305,"(7,)","Yeah , I 'll switch this thing off .","[Yeah/UH, ,/,, I/PRP, 'll/MD, switch/VB, this/DT, thing/NN, off/RP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB switch) (NP (DT this) (NN thing)) (PRT (RP off)))) (. .)))"
+76305,"(8,)",I 'll watch the rest of Newsnight in bed I think .,"[I/PRP, 'll/MD, watch/VB, the/DT, rest/NN, of/IN, Newsnight/NNP, in/IN, bed/NN, I/PRP, think/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB watch) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (NNP Newsnight)))) (PP (IN in) (NP (NP (NN bed)) (SBAR (S (NP (PRP I)) (VP (VBP think)))))))) (. .)))
+76305,"(9,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+76305,"(10,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+76305,"(11, 12)"," What 's this branch for , did you work out ?","[What/WP, 's/VBZ, this/DT, branch/NN, for/IN, ,/,, did/VBD, you/PRP, work/VB, out/RP, ?/.]","(ROOT (SBARQ (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (NP (NP (DT this) (NN branch)) (PP (IN for)))))) (, ,) (SQ (VBD did) (NP (PRP you)) (VP (VB work) (PRT (RP out)))) (. ?)))"
+76305,"(13, 14)",Well it looks like it 's a  handy   for one or something .,"[Well/RB, it/PRP, looks/VBZ, like/IN, it/PRP, 's/VBZ, a/DT, handy/JJ, for/IN, one/CD, or/CC, something/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBZ looks) (SBAR (IN like) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (JJ handy)) (PP (IN for) (NP (NP (CD one)) (CC or) (NP (NN something))))))))) (. .)))
+76305,"(15,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+76305,"(16,)",It is isn 't it ?,"[It/PRP, is/VBZ, isn/JJ, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ isn)) (NP (NP (PRP 't)) (NP (PRP it)))) (. ?)))
+76305,"(17, 18)",That 's why it 's got to be  with the making the bird table I suppose .,"[That/DT, 's/VBZ, why/WRB, it/PRP, 's/VBZ, got/VBN, to/TO, be/VB, with/IN, the/DT, making/VBG, the/DT, bird/NN, table/NN, I/PRP, suppose/VBP, ./.]",(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN got) (S (VP (TO to) (VP (VB be) (PP (IN with) (NP (DT the) (S (VP (VBG making) (NP (DT the) (NN bird)))) (NN table)))))))))))) (NP (PRP I)) (VP (VBP suppose)) (. .)))
+76305,"(19,)",It 's obviously   .,"[It/PRP, 's/VBZ, obviously/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB obviously))) (. .)))

@@ -1,0 +1,17 @@
+2503,"(0,)","Oh I recommend the Philip  > erm ,  .","[Oh/UH, I/PRP, recommend/VBP, the/DT, Philip/NNP, >/JJR, erm/NN, ,/,, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP recommend) (NP (NP (NP (DT the) (NNP Philip)) (NP (JJR >) (NN erm))) (, ,)))) (. .)))"
+2503,"(1,)", Snoopy have a good day today ?,"[Snoopy/NNP, have/VBP, a/DT, good/JJ, day/NN, today/NN, ?/.]",(ROOT (S (NP (NNP Snoopy)) (VP (VBP have) (NP (DT a) (JJ good) (NN day)) (NP (NN today))) (. ?)))
+2503,"(2,)",  .,[./.],(ROOT (NP (. .)))
+2503,"(3,)",Somebody else   .,"[Somebody/NN, else/RB, ./.]",(ROOT (FRAG (NP (NN Somebody) (RB else)) (. .)))
+2503,"(4,)","Oh she sweated at it , yes .","[Oh/UH, she/PRP, sweated/VBD, at/IN, it/PRP, ,/,, yes/UH, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP she)) (VP (VBD sweated) (PP (IN at) (NP (PRP it))))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
+2503,"(5,)","She did the sweating instead of the instruction , yes .","[She/PRP, did/VBD, the/DT, sweating/VBG, instead/RB, of/IN, the/DT, instruction/NN, ,/,, yes/UH, ./.]","(ROOT (S (S (NP (PRP She)) (VP (VBD did) (NP (NP (DT the) (VBG sweating)) (PP (RB instead) (IN of) (NP (DT the) (NN instruction)))))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
+2503,"(6,)","Atoms felling pollution , I like that .","[Atoms/NNS, felling/VBG, pollution/NN, ,/,, I/PRP, like/VBP, that/IN, ./.]","(ROOT (S (S (NP (NNS Atoms)) (VP (VBG felling) (NP (NN pollution)))) (, ,) (NP (PRP I)) (VP (VBP like) (ADVP (IN that))) (. .)))"
+2503,"(7,)","Mm , I heard this discussion on the radio this morning .","[Mm/NN, ,/,, I/PRP, heard/VBD, this/DT, discussion/NN, on/IN, the/DT, radio/NN, this/DT, morning/NN, ./.]","(ROOT (S (NP (NN Mm)) (, ,) (NP (PRP I)) (VP (VBD heard) (NP (DT this) (NN discussion)) (PP (IN on) (NP (DT the) (NN radio))) (NP (DT this) (NN morning))) (. .)))"
+2503,"(8,)",What about ?,"[What/WP, about/IN, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about)) (. ?)))
+2503,"(9,)","Erm , quoting .","[Erm/NN, ,/,, quoting/VBG, ./.]","(ROOT (NP (NP (NP (NN Erm)) (, ,) (VP (VBG quoting))) (. .)))"
+2503,"(10,)",Quoting ?,"[Quoting/VBG, ?/.]",(ROOT (S (VP (VBG Quoting)) (. ?)))
+2503,"(11,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2503,"(12,)",I do a lot of that .,"[I/PRP, do/VBP, a/DT, lot/NN, of/IN, that/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (DT that))))) (. .)))
+2503,"(13,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+2503,"(14,)","Do a lot of quoting , but don 't get many orders out of it .","[Do/VB, a/DT, lot/NN, of/IN, quoting/VBG, ,/,, but/CC, don/NNP, 't/PRP, get/VB, many/JJ, orders/NNS, out/IN, of/IN, it/PRP, ./.]","(ROOT (S (VP (VB Do) (NP (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG quoting))))) (, ,) (CC but) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VB get) (NP (JJ many) (NNS orders)) (ADVP (IN out) (PP (IN of) (NP (PRP it)))))))))) (. .)))"
+2503,"(15,)",,[],X
+2503,"(16,)",Oh yes .,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))

@@ -1,0 +1,26 @@
+63602,"(0,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+63602,"(1,)",Have you been proper poorly ?,"[Have/VB, you/PRP, been/VBN, proper/JJ, poorly/RB, ?/.]",(ROOT (SQ (VP (VB Have) (NP (PRP you)) (VP (VBN been) (ADJP (JJ proper)) (ADVP (RB poorly)))) (. ?)))
+63602,"(2,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+63602,"(3,)","How 's Paul , alright ?","[How/WRB, 's/POS, Paul/NNP, ,/,, alright/NNP, ?/.]","(ROOT (SBARQ (WHADVP (WRB How)) (SQ (POS 's) (NP (NNP Paul) (, ,) (NNP alright))) (. ?)))"
+63602,"(4,)","He 's alright , yeah .","[He/PRP, 's/VBZ, alright/JJ, ,/,, yeah/UH, ./.]","(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ alright)) (, ,) (INTJ (UH yeah))) (. .)))"
+63602,"(5,)","And how , oh , fully recovered now ?","[And/CC, how/WRB, ,/,, oh/UH, ,/,, fully/RB, recovered/VBN, now/RB, ?/.]","(ROOT (S (NP (CC And)) (VP (ADVP (WRB how)) (S (SBAR (PRN (, ,) (INTJ (UH oh)) (, ,)) (S (NP (RB fully)) (VP (VBN recovered) (ADVP (RB now))))))) (. ?)))"
+63602,"(6,)","Well , she took , sort of Friday .","[Well/RB, ,/,, she/PRP, took/VBD, ,/,, sort/NN, of/IN, Friday/NNP, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (PRP she)) (VP (VBD took) (, ,) (NP (NP (NN sort)) (PP (IN of) (NP (NNP Friday))))) (. .)))"
+63602,"(7,)","And I start waiting , I 've gotta wait for a report for that Wednesday .","[And/CC, I/PRP, start/VBP, waiting/VBG, ,/,, I/PRP, 've/VBP, gotta/NNP, wait/VB, for/IN, a/DT, report/NN, for/IN, that/DT, Wednesday/NNP, ./.]","(ROOT (S (S (CC And) (NP (PRP I)) (VP (VBP start) (S (VP (VBG waiting))))) (, ,) (NP (PRP I)) (VP (VBP 've) (S (NP (NNP gotta)) (VP (VB wait) (PP (IN for) (NP (NP (DT a) (NN report)) (PP (IN for) (NP (DT that))) (NP (NNP Wednesday))))))) (. .)))"
+63602,"(8,)",What a shame !,"[What/WP, a/DT, shame/NN, !/.]",(ROOT (FRAG (WHNP (WP What) (NP (DT a) (NN shame))) (. !)))
+63602,"(9,)",You 'll have to,"[You/PRP, 'll/MD, have/VB, to/TO]",(ROOT (S (NP (PRP You)) (VP (MD 'll) (VP (VB have) (S (VP (TO to)))))))
+63602,"(10,)",Friday .,"[Friday/NNP, ./.]",(ROOT (FRAG (NP (NNP Friday)) (. .)))
+63602,"(11,)",keep her warm .,"[keep/VB, her/PRP, warm/JJ, ./.]",(ROOT (S (VP (VB keep) (S (NP (PRP her)) (ADJP (JJ warm)))) (. .)))
+63602,"(12,)",They 're not,"[They/PRP, 're/VBP, not/RB]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (RB not))))
+63602,"(13,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+63602,"(14,)",gonna keep   .,"[gonna/NNP, keep/VB, ./.]",(ROOT (S (NP (NNP gonna)) (VP (VB keep)) (. .)))
+63602,"(15, 16)","Friday , he terrified me !  , even liquid  everything came back up !","[Friday/NNP, ,/,, he/PRP, terrified/VBD, me/PRP, !/., ,/,, even/RB, liquid/JJ, everything/NN, came/VBD, back/RB, up/RB, !/.]","(ROOT (S (NP (NNP Friday)) (, ,) (NP (PRP he)) (VP (VBD terrified) (SBAR (S (FRAG (NP (PRP me)) (. !)) (, ,) (NP (RB even) (JJ liquid) (NN everything)) (VP (VBD came) (ADVP (RB back) (RB up)))))) (. !)))"
+63602,"(17,)",Poor little,"[Poor/JJ, little/JJ]",(ROOT (FRAG (ADJP (JJ Poor)) (ADJP (JJ little))))
+63602,"(18,)",I thought great !,"[I/PRP, thought/VBD, great/JJ, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (ADJP (JJ great))) (. !)))
+63602,"(19,)","He 's looks a bit , he looks alright now though .","[He/PRP, 's/VBZ, looks/VBZ, a/DT, bit/NN, ,/,, he/PRP, looks/VBZ, alright/RB, now/RB, though/RB, ./.]","(ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (VP (VBZ looks) (NP (DT a) (NN bit))))) (, ,) (NP (PRP he)) (VP (VBZ looks) (PP (ADVP (RB alright)) (RB now) (ADVP (RB though)))) (. .)))"
+63602,"(20,)","Oh  , he 's alright now .","[Oh/UH, ,/,, he/PRP, 's/VBZ, alright/JJ, now/RB, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ alright)) (ADVP (RB now))) (. .)))"
+63602,"(21,)","But keep him warm , it 's","[But/CC, keep/VB, him/PRP, warm/JJ, ,/,, it/PRP, 's/VBZ]","(ROOT (FRAG (FRAG (CC But) (S (VP (VB keep) (S (NP (PRP him)) (ADJP (JJ warm)))))) (, ,) (FRAG (NP (PRP it)) (VP (VBZ 's)))))"
+63602,"(22,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+63602,"(23,)",bitter !,"[bitter/JJ, !/.]",(ROOT (FRAG (ADJP (JJ bitter)) (. !)))
+63602,"(24,)",Well my mate 's little one 's started with it now .,"[Well/RB, my/PRP$, mate/NN, 's/POS, little/JJ, one/NN, 's/POS, started/VBN, with/IN, it/PRP, now/RB, ./.]",(ROOT (NP (NP (ADVP (RB Well)) (NP (NP (PRP$ my) (NN mate) (POS 's)) (JJ little) (NN one))) (SBAR (S (NP (POS 's)) (VP (VBN started) (PP (IN with) (NP (PRP it))) (ADVP (RB now))))) (. .)))
+63602,"(25,)",Well you be careful you don 't get it .,"[Well/RB, you/PRP, be/VB, careful/JJ, you/PRP, don/VBP, 't/PRP, get/VB, it/PRP, ./.]",(ROOT (S (SBAR (ADVP (RB Well)) (S (NP (PRP you)) (VP (VB be) (ADJP (JJ careful))))) (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB get) (NP (PRP it))))) (. .)))
+63602,"(26, 27)", I hope    I could have done with that,"[I/PRP, hope/VBP, I/PRP, could/MD, have/VB, done/VBN, with/IN, that/DT]",(ROOT (S (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB have) (VP (VBN done) (PP (IN with) (NP (DT that)))))))))))

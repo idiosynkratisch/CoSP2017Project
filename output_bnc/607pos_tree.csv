@@ -1,0 +1,14 @@
+607,"(0, 1)", Step inside love    At least I left the light on .,"[Step/NN, inside/IN, love/NN, At/IN, least/JJS, I/PRP, left/VBD, the/DT, light/NN, on/IN, ./.]",(ROOT (S (NP (NP (NN Step)) (PP (IN inside) (NP (NP (NN love)) (ADVP (IN At) (JJS least))))) (NP (PRP I)) (VP (VBD left) (NP (DT the) (NN light)) (PP (IN on))) (. .)))
+607,"(2,)",,[],X
+607,"(3,)",You 're alright .,"[You/PRP, 're/VBP, alright/JJ, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (ADJP (JJ alright))) (. .)))
+607,"(4,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+607,"(5,)",Thanks very much Chris .,"[Thanks/NNS, very/RB, much/RB, Chris/NNP, ./.]",(ROOT (FRAG (ADVP (ADVP (NP (NNS Thanks)) (RB very)) (RB much)) (NP (NNP Chris)) (. .)))
+607,"(6,)",,[],X
+607,"(7,)",,[],X
+607,"(8,)",But of course .,"[But/CC, of/IN, course/NN, ./.]",(ROOT (FRAG (CC But) (PP (IN of) (NP (NN course)) (. .))))
+607,"(9, 10)", very rich      peanuts .,"[very/RB, rich/JJ, peanuts/NNS, ./.]",(ROOT (NP (NP (RB very) (JJ rich)) (NP (NNS peanuts)) (. .)))
+607,"(11,)",Sorry ?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
+607,"(12,)",The only one   .,"[The/DT, only/JJ, one/CD, ./.]",(ROOT (NP (NP (DT The) (JJ only)) (NP (CD one)) (. .)))
+607,"(13,)",Well this is it I miss you so much .,"[Well/RB, this/DT, is/VBZ, it/PRP, I/PRP, miss/VBP, you/PRP, so/RB, much/RB, ./.]",(ROOT (S (S (INTJ (RB Well)) (NP (DT this)) (VP (VBZ is) (NP (PRP it)))) (NP (PRP I)) (VP (VBP miss) (NP (PRP you)) (ADVP (RB so) (RB much))) (. .)))
+607,"(14,)",Yeah !,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
+607,"(15,)",That 's what I thought .,"[That/DT, 's/VBZ, what/WP, I/PRP, thought/VBD, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD thought))))) (. .)))

@@ -1,0 +1,24 @@
+2201,"(0,)",Moved the car     .,"[Moved/VBD, the/DT, car/NN, ./.]",(ROOT (S (VP (VBD Moved) (NP (DT the) (NN car))) (. .)))
+2201,"(1,)","Right , right .","[Right/NN, ,/,, right/NN, ./.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NN right)) (. .)))"
+2201,"(2,)",  .,[./.],(ROOT (NP (. .)))
+2201,"(3,)",I don 't do that,"[I/PRP, don/VBP, 't/PRP, do/VB, that/DT]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB do) (NP (DT that)))))))
+2201,"(4,)",Don 't chop the fence in two     a drastic time there .,"[Don/NNP, 't/PRP, chop/VB, the/DT, fence/NN, in/IN, two/CD, a/DT, drastic/JJ, time/NN, there/RB, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB chop) (NP (NP (DT the) (NN fence)) (PP (IN in) (NP (CD two)))) (NP (DT a) (JJ drastic) (NN time) (RB there))) (. .)))
+2201,"(5,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2201,"(6,)",,[],X
+2201,"(7,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+2201,"(8,)", cutting down the other end .,"[cutting/VBG, down/RP, the/DT, other/JJ, end/NN, ./.]",(ROOT (S (VP (VBG cutting) (PRT (RP down)) (NP (DT the) (JJ other) (NN end))) (. .)))
+2201,"(9,)",A stake be that big in there .,"[A/DT, stake/NN, be/VB, that/IN, big/JJ, in/IN, there/RB, ./.]",(ROOT (S (NP (DT A) (NN stake)) (VP (VB be) (ADJP (IN that) (JJ big)) (PP (IN in) (NP (RB there)))) (. .)))
+2201,"(10,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+2201,"(11,)","Big , it 's not   .","[Big/NNP, ,/,, it/PRP, 's/VBZ, not/RB, ./.]","(ROOT (S (NP (NNP Big)) (, ,) (NP (PRP it)) (VP (VBZ 's) (RB not)) (. .)))"
+2201,"(12,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2201,"(13,)",Three   .,"[Three/CD, ./.]",(ROOT (FRAG (NP (CD Three)) (. .)))
+2201,"(14,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+2201,"(15,)",His still running .,"[His/PRP$, still/RB, running/VBG, ./.]",(ROOT (NP (NP (PRP$ His)) (ADJP (RB still) (VBG running)) (. .)))
+2201,"(16,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2201,"(17,)","Yeah ,  , got a   for it .","[Yeah/UH, ,/,, ,/,, got/VBD, a/DT, for/IN, it/PRP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (, ,)) (VP (VBD got) (NP (NP (DT a)) (PP (IN for) (NP (PRP it))))) (. .)))"
+2201,"(18, 19, 20, 21, 22)","The  the  the trouble is it 's not  not  not that wrong with the fence but the ivy 's so thick , it 's been there so long hasn 't it ?","[The/DT, the/DT, the/DT, trouble/NN, is/VBZ, it/PRP, 's/VBZ, not/RB, not/RB, not/RB, that/IN, wrong/JJ, with/IN, the/DT, fence/NN, but/CC, the/DT, ivy/NNP, 's/POS, so/RB, thick/JJ, ,/,, it/PRP, 's/VBZ, been/VBN, there/RB, so/RB, long/JJ, hasn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (SINV (S (NP (NP (DT The) (DT the)) (NP (DT the) (NN trouble))) (VP (VBZ is) (NP (PRP it)))) (VP (VBZ 's) (RB not) (ADJP (ADVP (RB not) (RB not)) (SBAR (IN that) (FRAG (ADJP (JJ wrong))))) (PP (IN with) (NP (NP (DT the) (NN fence)) (CC but) (NP (NP (NP (DT the) (NNP ivy) (POS 's)) (ADJP (ADJP (RB so) (JJ thick)) (PRN (, ,) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN been) (ADVP (RB there)) (ADJP (RB so) (JJ long))))))) (NN hasn)) (PRN (NP (PRP 't))))))) (NP (PRP it)) (. ?)))"
+2201,"(23,)","Hopeless , anyway I 'll move the car out Bill .","[Hopeless/JJ, ,/,, anyway/RB, I/PRP, 'll/MD, move/VB, the/DT, car/NN, out/IN, Bill/NN, ./.]","(ROOT (S (NP (JJ Hopeless)) (, ,) (ADVP (RB anyway)) (NP (PRP I)) (VP (MD 'll) (VP (VB move) (NP (DT the) (NN car)) (PP (IN out) (NP (NN Bill))))) (. .)))"
+2201,"(24,)",O K .,"[O/NN, K/NN, ./.]",(ROOT (NP (NP (NN O)) (NP (NN K)) (. .)))
+2201,"(25,)",Thanks .,"[Thanks/NNS, ./.]",(ROOT (NP (NNS Thanks) (. .)))
+2201,"(26,)","If you don 't mind , do you come round here and","[If/IN, you/PRP, don/VBP, 't/PRP, mind/VB, ,/,, do/VBP, you/PRP, come/VB, round/NN, here/RB, and/CC]","(ROOT (SINV (SBAR (IN If) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB mind)))))) (, ,) (VP (VBP do) (S (NP (PRP you)) (VP (VB come) (NP (NN round))))) (NP (NP (RB here)) (ADVP (CC and)))))"
+2201,"(27, 28, 29)","Yes fine , if  if  if you 're happy too Bill , thank you .","[Yes/RB, fine/JJ, ,/,, if/IN, if/IN, if/IN, you/PRP, 're/VBP, happy/JJ, too/RB, Bill/NN, ,/,, thank/VB, you/PRP, ./.]","(ROOT (FRAG (ADJP (ADVP (RB Yes)) (JJ fine)) (, ,) (SBAR (IN if) (S (SBAR (IN if) (IN if) (S (NP (PRP you)) (VP (VBP 're) (NP (ADJP (JJ happy) (RB too)) (NN Bill))))) (, ,) (VP (VB thank) (NP (PRP you))))) (. .)))"

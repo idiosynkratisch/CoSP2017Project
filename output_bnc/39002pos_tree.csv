@@ -1,0 +1,7 @@
+39002,"(0,)","Makes you wonder how much erm ours is worth , not as much as that obviously but er","[Makes/VBZ, you/PRP, wonder/VB, how/WRB, much/JJ, erm/NN, ours/PRP, is/VBZ, worth/JJ, ,/,, not/RB, as/RB, much/JJ, as/IN, that/DT, obviously/RB, but/CC, er/NN]","(ROOT (SINV (VP (VBZ Makes) (S (NP (PRP you)) (VP (VB wonder) (FRAG (WHADJP (WRB how) (JJ much)))))) (NP (NP (NN erm)) (SBAR (S (NP (PRP ours)) (VP (VBZ is) (ADJP (ADJP (JJ worth)) (, ,) (ADJP (RB not) (RB as) (JJ much)) (PP (IN as) (NP (DT that)))) (ADVP (RB obviously)) (PP (CC but) (NP (NN er)))))))))"
+39002,"(1,)",Cos ours is eighteen something or other isn 't it ?,"[Cos/NNP, ours/PRP, is/VBZ, eighteen/CD, something/NN, or/CC, other/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (NNP Cos) (PRP ours)) (VP (VBZ is) (NP (NP (CD eighteen) (NN something)) (CC or) (NP (NP (JJ other) (NN isn)) (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+39002,"(2,)",Is it ?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
+39002,"(3,)",,[],X
+39002,"(4,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+39002,"(5, 6)", Ours looks homemade to me .,"[Ours/JJ, looks/NNS, homemade/VBP, to/TO, me/PRP, ./.]",(ROOT (S (NP (JJ Ours) (NNS looks)) (VP (VBP homemade) (PP (TO to) (NP (PRP me)))) (. .)))
+39002,"(7, 8)", No I don 't think it is .,"[No/DT, I/PRP, don/VBP, 't/PRP, think/VB, it/PRP, is/VBZ, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBZ is))))))) (. .)))

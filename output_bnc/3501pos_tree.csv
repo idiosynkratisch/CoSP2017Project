@@ -1,0 +1,44 @@
+3501,"(0,)","How did you , how many hours did you take to come back ?","[How/WRB, did/VBD, you/PRP, ,/,, how/WRB, many/JJ, hours/NNS, did/VBD, you/PRP, take/VB, to/TO, come/VB, back/RB, ?/.]","(ROOT (SBARQ (SBAR (WHADVP (WRB How)) (S (VP (VBD did) (NP (PRP you))))) (, ,) (WHNP (WHADJP (WRB how) (JJ many)) (NNS hours)) (SQ (VBD did) (NP (PRP you)) (VP (VB take) (S (VP (TO to) (VP (VB come) (ADVP (RB back))))))) (. ?)))"
+3501,"(1,)",,[],X
+3501,"(2,)",Sure .,"[Sure/JJ, ./.]",(ROOT (INTJ (JJ Sure) (. .)))
+3501,"(3,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3501,"(4,)",You came under   .,"[You/PRP, came/VBD, under/IN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD came) (PP (IN under))) (. .)))
+3501,"(5,)",,[],X
+3501,"(6,)","Ah , they 're not   .","[Ah/NN, ,/,, they/PRP, 're/VBP, not/RB, ./.]","(ROOT (S (NP (NN Ah)) (, ,) (NP (PRP they)) (VP (VBP 're) (RB not)) (. .)))"
+3501,"(7,)",Took her to Brussels .,"[Took/VBD, her/PRP, to/TO, Brussels/NNP, ./.]",(ROOT (S (VP (VBD Took) (NP (PRP her)) (PP (TO to) (NP (NNP Brussels)))) (. .)))
+3501,"(8,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3501,"(9,)","Takes seven to eight , eight hours .","[Takes/VBZ, seven/CD, to/TO, eight/CD, ,/,, eight/CD, hours/NNS, ./.]","(ROOT (S (VP (VBZ Takes) (NP (CD seven)) (PP (TO to) (NP (NP (CD eight)) (, ,) (NP (CD eight) (NNS hours))))) (. .)))"
+3501,"(10, 11)","Took me , I was , the ,do- doing all kind of roadwork on Belgian and Luxembourg highways ","[Took/VBD, me/PRP, ,/,, I/PRP, was/VBD, ,/,, the/DT, ,do-/JJ, doing/VBG, all/DT, kind/NN, of/IN, roadwork/NN, on/IN, Belgian/JJ, and/CC, Luxembourg/NNP, highways/NNS]","(ROOT (S (S (VP (VBD Took) (NP (PRP me)))) (, ,) (NP (PRP I)) (VP (VP (VBD was)) (, ,) (NP (NP (DT the) (JJ ,do-)) (VP (VBG doing) (NP (NP (DT all) (NN kind)) (PP (IN of) (NP (NN roadwork)))) (PP (IN on) (NP (NP (JJ Belgian)) (CC and) (NP (NNP Luxembourg) (NNS highways)))))))))"
+3501,"(12,)",,[],X
+3501,"(13,)",and I was stuck in Luxembourg for at least half,"[and/CC, I/PRP, was/VBD, stuck/VBN, in/IN, Luxembourg/NNP, for/IN, at/IN, least/JJS, half/NN]",(ROOT (PRN (CC and) (S (NP (PRP I)) (VP (VBD was) (VP (VBN stuck) (PP (IN in) (NP (NNP Luxembourg))) (PP (IN for) (NP (QP (IN at) (JJS least) (NN half)))))))))
+3501,"(14,)",,[],X
+3501,"(15,)",,[],X
+3501,"(16,)",Really ?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
+3501,"(17,)",Just it was twenty seven   .,"[Just/RB, it/PRP, was/VBD, twenty/CD, seven/CD, ./.]",(ROOT (S (ADVP (RB Just)) (NP (PRP it)) (VP (VBD was) (NP (CD twenty) (CD seven))) (. .)))
+3501,"(18,)","I just can 't believe it , it   Friday .","[I/PRP, just/RB, can/MD, 't/PRP, believe/VB, it/PRP, ,/,, it/PRP, Friday/NNP, ./.]","(ROOT (S (S (NP (PRP I)) (ADVP (RB just)) (VP (MD can) (NP (PRP 't)) (S (VP (VB believe) (NP (PRP it)))))) (, ,) (S (NP (PRP it)) (NP (NNP Friday))) (. .)))"
+3501,"(19,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+3501,"(20,)",,[],X
+3501,"(21,)",It was doing alright .,"[It/PRP, was/VBD, doing/VBG, alright/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (VP (VBG doing) (ADJP (JJ alright)))) (. .)))
+3501,"(22,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3501,"(23,)",Cos I was driving with the window open .,"[Cos/NNP, I/PRP, was/VBD, driving/VBG, with/IN, the/DT, window/NN, open/JJ, ./.]",(ROOT (S (NP (NP (NNP Cos)) (SBAR (S (NP (PRP I)) (VP (VBD was) (VP (VBG driving) (PP (IN with) (NP (DT the) (NN window)))))))) (VP (JJ open)) (. .)))
+3501,"(24,)",I know your landlady . ,"[I/PRP, know/VBP, your/PRP$, landlady/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (NP (PRP$ your) (NN landlady))) (. .)))
+3501,"(25,)",,[],X
+3501,"(26,)","I bought you a bed , I bought you a chair and   eh","[I/PRP, bought/VBD, you/PRP, a/DT, bed/NN, ,/,, I/PRP, bought/VBD, you/PRP, a/DT, chair/NN, and/CC, eh/UH]","(ROOT (S (NP (PRP I)) (VP (VBD bought) (S (NP (PRP you)) (NP (DT a) (NN bed))) (, ,) (SBAR (S (NP (PRP I)) (VP (VP (VBD bought) (S (NP (PRP you)) (NP (DT a) (NN chair)))) (CC and) (VP (FRAG (INTJ (UH eh))))))))))"
+3501,"(27,)","No ,  .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"
+3501,"(28,)","Just for you , what ?","[Just/RB, for/IN, you/PRP, ,/,, what/WP, ?/.]","(ROOT (FRAG (SBARQ (WHNP (PP (RB Just) (IN for) (NP (PRP you))) (, ,) (WHNP (WP what))) (. ?))))"
+3501,"(29,)",,[],X
+3501,"(30,)",I wonder who   .,"[I/PRP, wonder/VBP, who/WP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP wonder) (WHNP (WP who))) (. .)))
+3501,"(31,)",I hope she   .,"[I/PRP, hope/VBP, she/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP hope) (NP (PRP she))) (. .)))
+3501,"(32,)",No there wasn 't anyone   after me   .,"[No/DT, there/EX, wasn/VBP, 't/PRP, anyone/NN, after/IN, me/PRP, ./.]",(ROOT (S (NP (DT No) (S (NP (EX there)) (VP (VBP wasn) (NP (PRP 't))))) (VP (NN anyone) (PP (IN after) (NP (PRP me)))) (. .)))
+3501,"(33,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+3501,"(34,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+3501,"(35,)",Does she have difficulties to people   ?,"[Does/VBZ, she/PRP, have/VB, difficulties/NNS, to/TO, people/NNS, ?/.]",(ROOT (SQ (VBZ Does) (NP (PRP she)) (VP (VB have) (NP (NNS difficulties)) (PP (TO to) (NP (NNS people)))) (. ?)))
+3501,"(36,)",,[],X
+3501,"(37,)",What about that   ?,"[What/WP, about/IN, that/DT, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about) (NP (DT that))) (. ?)))
+3501,"(38,)",,[],X
+3501,"(39,)", aha .,"[aha/NNP, ./.]",(ROOT (FRAG (NP (NNP aha)) (. .)))
+3501,"(40,)",What about your   your   friend from the North ?,"[What/WP, about/IN, your/PRP$, your/PRP$, friend/NN, from/IN, the/DT, North/NN, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about) (NP (PRP$ your) (NP (NP (PRP$ your) (NN friend)) (PP (IN from) (NP (DT the) (NN North)))))) (. ?)))
+3501,"(41,)",Still see him ?,"[Still/RB, see/VB, him/PRP, ?/.]",(ROOT (SQ (VP (ADVP (RB Still)) (VB see) (NP (PRP him))) (. ?)))
+3501,"(42,)",Is he gone ?,"[Is/VBZ, he/PRP, gone/VBN, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP he)) (VP (VBN gone)) (. ?)))
+3501,"(43,)","No , I haven 't seen him since the   .","[No/DT, ,/,, I/PRP, haven/NN, 't/PRP, seen/VBD, him/PRP, since/IN, the/DT, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD seen) (NP (PRP him)) (ADVP (IN since) (DT the)))))) (. .)))"
+3501,"(44,)",You haven 't ?,"[You/PRP, haven/NN, 't/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (NN haven) (NP (PRP 't))) (. ?)))

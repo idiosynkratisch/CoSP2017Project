@@ -1,0 +1,4 @@
+61607,"(0,)",  ?,[?/.],(ROOT (NP (. ?)))
+61607,"(1,)",Mrs >  .,"[Mrs/NNP, >/JJR, ./.]",(ROOT (S (NP (NNP Mrs)) (ADJP (JJR >)) (. .)))
+61607,"(2,)",Is it ?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
+61607,"(3,)",Oh I know them .,"[Oh/UH, I/PRP, know/VBP, them/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP know) (NP (PRP them)))) (. .)))

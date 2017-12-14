@@ -1,0 +1,10 @@
+2422,"(0,)",Derek 's picking you up about two tomorrow .,"[Derek/NNP, 's/POS, picking/VBG, you/PRP, up/RP, about/IN, two/CD, tomorrow/NN, ./.]",(ROOT (S (S (NP (NNP Derek) (POS 's)) (VP (VBG picking) (NP (PRP you)) (PRT (RP up)) (PP (IN about) (NP (CD two) (NN tomorrow))))) (. .)))
+2422,"(1,)","Right , after lunch .","[Right/NN, ,/,, after/IN, lunch/NN, ./.]","(ROOT (FRAG (NP (NN Right)) (, ,) (PP (IN after) (NP (NN lunch))) (. .)))"
+2422,"(2,)",Yep .,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+2422,"(3,)",Do you have any indication when   ?,"[Do/VB, you/PRP, have/VBP, any/DT, indication/NN, when/WRB, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT any) (NN indication)) (FRAG (WHADVP (WRB when)))))))) (. ?)))
+2422,"(4,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+2422,"(5,)", pretty well .,"[pretty/RB, well/RB, ./.]",(ROOT (FRAG (ADVP (RB pretty) (RB well)) (. .)))
+2422,"(6,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2422,"(7,)",Before you go,"[Before/IN, you/PRP, go/VBP]",(ROOT (SBAR (IN Before) (S (NP (PRP you)) (VP (VBP go)))))
+2422,"(8,)","I don 't suppose we 'll be there for more than two , three hours .","[I/PRP, don/VBP, 't/PRP, suppose/VB, we/PRP, 'll/MD, be/VB, there/RB, for/IN, more/JJR, than/IN, two/CD, ,/,, three/CD, hours/NNS, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB suppose) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB be) (ADVP (RB there)) (PP (IN for) (NP (NP (QP (JJR more) (IN than) (CD two))) (, ,) (NP (CD three) (NNS hours))))))))))) (. .)))"
+2422,"(9,)","Oh , you might as well .","[Oh/UH, ,/,, you/PRP, might/MD, as/RB, well/RB, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP you)) (VP (MD might) (ADVP (RB as) (RB well))) (. .)))"

@@ -1,0 +1,7 @@
+2409,"(0,)",Oh your orange bit 's looking very good isn 't it ?,"[Oh/UH, your/PRP$, orange/NNP, bit/NN, 's/POS, looking/VBG, very/RB, good/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (UH Oh) (NP (PRP$ your) (NNP orange) (NN bit) (POS 's))) (VP (VBG looking) (NP (ADJP (RB very) (JJ good)) (NN isn)) (S (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+2409,"(1,)",Best   .,"[Best/JJS, ./.]",(ROOT (S (VP (ADVP (JJS Best))) (. .)))
+2409,"(2,)",I think   .,"[I/PRP, think/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think)) (. .)))
+2409,"(3,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2409,"(4,)",Can you shut the door   ?,"[Can/MD, you/PRP, shut/VB, the/DT, door/NN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB shut) (NP (DT the) (NN door))) (. ?)))
+2409,"(5,)",Hardly when we   steamed up like this .,"[Hardly/RB, when/WRB, we/PRP, steamed/VBD, up/RP, like/IN, this/DT, ./.]",(ROOT (FRAG (ADVP (RB Hardly)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBD steamed) (PRT (RP up)) (PP (IN like) (NP (DT this)))))) (. .)))
+2409,"(6,)",,[],X

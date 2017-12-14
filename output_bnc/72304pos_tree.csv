@@ -1,0 +1,157 @@
+72304,"(0,)",,[],X
+72304,"(1,)",,[],X
+72304,"(2,)",,[],X
+72304,"(3,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+72304,"(4,)", Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+72304,"(5,)",Not on the table   !,"[Not/RB, on/IN, the/DT, table/NN, !/.]",(ROOT (FRAG (RB Not) (PP (IN on) (NP (DT the) (NN table))) (. !)))
+72304,"(6,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+72304,"(7,)", Oh no   !,"[Oh/UH, no/DT, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. !)))
+72304,"(8,)", Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+72304,"(9,)",Don 't   !,"[Don/NNP, 't/PRP, !/.]",(ROOT (FRAG (NP (NNP Don)) (NP (PRP 't)) (. !)))
+72304,"(10,)",Go on .,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
+72304,"(11,)", I hate having my voice on tape   !,"[I/PRP, hate/VBP, having/VBG, my/PRP$, voice/NN, on/IN, tape/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (S (VP (VBG having) (NP (PRP$ my) (NN voice)) (PP (IN on) (NP (NN tape)))))) (. !)))
+72304,"(12,)",,[],X
+72304,"(13,)", I don 't care !,"[I/PRP, don/VBP, 't/PRP, care/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB care)))) (. !)))
+72304,"(14,)",I hate my voice,"[I/PRP, hate/VBP, my/PRP$, voice/NN]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (NP (PRP$ my) (NN voice)))))
+72304,"(15,)",You did that,"[You/PRP, did/VBD, that/DT]",(ROOT (S (NP (PRP You)) (VP (VBD did) (NP (DT that)))))
+72304,"(16,)",being on tape  !,"[being/VBG, on/IN, tape/NN, !/.]",(ROOT (S (VP (VBG being) (PP (IN on) (NP (NN tape)))) (. !)))
+72304,"(17,)", Explain it   .,"[Explain/VB, it/PRP, ./.]",(ROOT (S (VP (VB Explain) (NP (PRP it))) (. .)))
+72304,"(18,)", What a fucking     !,"[What/WP, a/DT, fucking/JJ, !/.]",(ROOT (FRAG (WHNP (WP What) (NP (DT a) (JJ fucking))) (. !)))
+72304,"(19, 20)", Who ?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+72304,"(21,)","No I wanna say something , say something .","[No/DT, I/PRP, wanna/NNP, say/NNP, something/NN, ,/,, say/VBP, something/NN, ./.]","(ROOT (S (NP (NP (DT No) (PRP I)) (NP (NNP wanna) (NNP say) (NN something))) (, ,) (VP (VBP say) (NP (NN something))) (. .)))"
+72304,"(22,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(23,)",I hate being taped !,"[I/PRP, hate/VBP, being/VBG, taped/VBN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (S (VP (VBG being) (VP (VBN taped))))) (. !)))
+72304,"(24,)",,[],X
+72304,"(25,)",,[],X
+72304,"(26,)",You have to say something now Rhiannon .,"[You/PRP, have/VBP, to/TO, say/VB, something/NN, now/RB, Rhiannon/NNP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP have) (S (VP (TO to) (VP (VB say) (NP (NN something)) (PP (RB now) (NP (NNP Rhiannon))))))) (. .)))
+72304,"(27,)",You can 't,"[You/PRP, can/MD, 't/PRP]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (NP (PRP 't))))))
+72304,"(28,)",No !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+72304,"(29,)",laughing,[laughing/VBG],(ROOT (S (VP (VBG laughing))))
+72304,"(30,)",I 'm not saying it !,"[I/PRP, 'm/VBP, not/RB, saying/VBG, it/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG saying) (NP (PRP it)))) (. !)))
+72304,"(31,)",laughing can 't go into it .,"[laughing/NN, can/MD, 't/PRP, go/VB, into/IN, it/PRP, ./.]",(ROOT (S (NP (NN laughing)) (VP (MD can) (NP (PRP 't)) (S (VP (VB go) (PP (IN into) (NP (PRP it)))))) (. .)))
+72304,"(32,)",,[],X
+72304,"(33,)",Shut up !,"[Shut/VBN, up/RP, !/.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. !)))
+72304,"(34,)","What have you , what have you done today ?","[What/WDT, have/VBP, you/PRP, ,/,, what/WDT, have/VBP, you/PRP, done/VBN, today/NN, ?/.]","(ROOT (SBARQ (SBAR (WHNP (WDT What)) (S (VP (VBP have) (NP (PRP you))))) (, ,) (WHNP (WDT what)) (SQ (VBP have) (NP (PRP you)) (VP (VBN done) (NP (NN today)))) (. ?)))"
+72304,"(35,)",You must have done something interesting ?,"[You/PRP, must/MD, have/VB, done/VBN, something/NN, interesting/JJ, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD must) (VP (VB have) (VP (VBN done) (S (NP (NN something)) (ADJP (JJ interesting)))))) (. ?)))
+72304,"(36,)",Er erm,"[Er/NN, erm/NN]",(ROOT (NP (NN Er) (NN erm)))
+72304,"(37,)",When you was out ?,"[When/WRB, you/PRP, was/VBD, out/RB, ?/.]",(ROOT (SBARQ (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBD was) (ADVP (RB out)))) (. ?)))
+72304,"(38,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+72304,"(39,)",I 'll put the tape back on .,"[I/PRP, 'll/MD, put/VB, the/DT, tape/NN, back/RB, on/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB put) (NP (DT the) (NN tape)) (ADVP (RB back)) (PP (IN on)))) (. .)))
+72304,"(40,)","I 've been giving the milkman a blow job , you know , that sort of thing .","[I/PRP, 've/VBP, been/VBN, giving/VBG, the/DT, milkman/NN, a/DT, blow/NN, job/NN, ,/,, you/PRP, know/VBP, ,/,, that/IN, sort/NN, of/IN, thing/NN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG giving) (NP (DT the) (NN milkman)) (NP (DT a) (NN blow) (NN job)))))) (, ,) (NP (PRP you)) (VP (VBP know) (, ,) (ADVP (IN that) (NN sort)) (PP (IN of) (NP (NN thing)))) (. .)))"
+72304,"(41,)",,[],X
+72304,"(42, 43)","  That 's all , I don 't know   .","[That/DT, 's/VBZ, all/RB, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (RB all))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))"
+72304,"(44,)", Are you on about there   ?,"[Are/VBP, you/PRP, on/IN, about/IN, there/EX, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (PP (IN on) (PP (IN about) (NP (EX there)))) (. ?)))
+72304,"(45,)","No , I 'm just telling you what I 've done today .","[No/DT, ,/,, I/PRP, 'm/VBP, just/RB, telling/VBG, you/PRP, what/WP, I/PRP, 've/VBP, done/VBN, today/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB just)) (VP (VBG telling) (NP (PRP you)) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (NP (NN today)))))))) (. .)))"
+72304,"(46,)",Oh right .,"[Oh/UH, right/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. .)))
+72304,"(47,)",No I haven 't done anything .,"[No/DT, I/PRP, haven/NN, 't/PRP, done/VBN, anything/NN, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (NN haven) (S (NP (PRP 't)) (VP (VBN done) (NP (NN anything))))) (. .)))
+72304,"(48,)",Oi !,"[Oi/NN, !/.]",(ROOT (NP (NN Oi) (. !)))
+72304,"(49,)",I 'm changing the subject !,"[I/PRP, 'm/VBP, changing/VBG, the/DT, subject/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG changing) (NP (DT the) (NN subject)))) (. !)))
+72304,"(50, 51)", Well I   .,"[Well/RB, I/PRP, ./.]",(ROOT (FRAG (ADVP (RB Well)) (NP (PRP I)) (. .)))
+72304,"(52, 53)", Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+72304,"(54, 55)",Gail 's got glandular fever .,"[Gail/NN, 's/POS, got/VBD, glandular/JJ, fever/NN, ./.]",(ROOT (NP (NP (NN Gail)) (SBAR (S (NP (POS 's)) (VP (VBD got) (NP (JJ glandular) (NN fever))))) (. .)))
+72304,"(56,)",Oh I 've missed Harry Enfield .,"[Oh/UH, I/PRP, 've/VBP, missed/VBN, Harry/NNP, Enfield/NNP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN missed) (NP (NNP Harry) (NNP Enfield))))) (. .)))
+72304,"(57,)",Oh I 'm gonna miss Harry Enfield cos of you .,"[Oh/UH, I/PRP, 'm/VBP, gonna/NNP, miss/NNP, Harry/NNP, Enfield/NNP, cos/NNP, of/IN, you/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP gonna) (NNP miss) (NNP Harry) (NNP Enfield) (NNP cos)) (PP (IN of) (NP (PRP you)))))) (. .)))
+72304,"(58,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(59,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(60,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(61,)",Get it taped .,"[Get/VB, it/PRP, taped/VBN, ./.]",(ROOT (S (VP (VB Get) (S (NP (PRP it)) (ADJP (VBN taped)))) (. .)))
+72304,"(62,)","I can 't , our video 's packed up .","[I/PRP, can/MD, 't/PRP, ,/,, our/PRP$, video/NN, 's/POS, packed/VBN, up/RP, ./.]","(ROOT (S (NP (PRP I)) (VP (MD can) (S (NP (NP (PRP 't)) (, ,) (NP (NP (PRP$ our) (NN video)) (SBAR (S (NP (POS 's)) (VP (VBN packed) (PRT (RP up))))))))) (. .)))"
+72304,"(63,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(64,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(65, 66)",Well  we could go down and watch it if you like .,"[Well/RB, we/PRP, could/MD, go/VB, down/RB, and/CC, watch/VB, it/PRP, if/IN, you/PRP, like/VBP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP we)) (VP (MD could) (VP (VP (VB go) (ADVP (RB down))) (CC and) (VP (VB watch) (NP (PRP it)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP like))))))) (. .)))
+72304,"(67,)",No it 's alright .,"[No/DT, it/PRP, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
+72304,"(68,)",Oh no .,"[Oh/UH, no/DT, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. .)))
+72304,"(69,)",I 'll let you if you want .,"[I/PRP, 'll/MD, let/VB, you/PRP, if/IN, you/PRP, want/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB let) (NP (PRP you)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want)))))) (. .)))
+72304,"(70,)",No it 's alright .,"[No/DT, it/PRP, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
+72304,"(71,)",That 's nasty !,"[That/DT, 's/VBZ, nasty/JJ, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ nasty))) (. !)))
+72304,"(72,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+72304,"(73,)",That .,"[That/DT, ./.]",(ROOT (FRAG (NP (DT That)) (. .)))
+72304,"(74,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+72304,"(75,)",On about all blacks .,"[On/IN, about/IN, all/DT, blacks/NNS, ./.]",(ROOT (FRAG (PP (IN On) (PP (IN about) (NP (DT all) (NNS blacks)))) (. .)))
+72304,"(76,)",You racist,"[You/PRP, racist/JJ]",(ROOT (NP (NP (PRP You)) (NP (JJ racist))))
+72304,"(77,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+72304,"(78,)",git !,"[git/NN, !/.]",(ROOT (NP (NN git) (. !)))
+72304,"(79,)"," That 's not nasty , that 's true   .","[That/DT, 's/VBZ, not/RB, nasty/JJ, ,/,, that/DT, 's/VBZ, true/JJ, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (RB not) (ADJP (JJ nasty)))) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true))) (. .)))"
+72304,"(80,)",,[],X
+72304,"(81,)",Tt .,"[Tt/NN, ./.]",(ROOT (NP (NN Tt) (. .)))
+72304,"(82,)",Pity all your bastards are blacks .,"[Pity/NN, all/DT, your/PRP$, bastards/NNS, are/VBP, blacks/NNS, ./.]",(ROOT (S (NP (NP (NP (NN Pity)) (NP (DT all))) (NP (PRP$ your) (NNS bastards))) (VP (VBP are) (NP (NNS blacks))) (. .)))
+72304,"(83,)",And you won-  cos I haven 't got a pin number .,"[And/CC, you/PRP, won-/JJ, cos/NN, I/NN, haven/NN, 't/PRP, got/VBD, a/DT, pin/NN, number/NN, ./.]",(ROOT (S (CC And) (NP (NP (PRP you)) (NP (JJ won-) (NN cos) (NN I) (NN haven))) (NP (PRP 't)) (VP (VBD got) (NP (DT a) (NN pin) (NN number))) (. .)))
+72304,"(84,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+72304,"(85, 86)"," Oh dear , it 's still ta- it 's still ta-","[Oh/UH, dear/RB, ,/,, it/PRP, 's/VBZ, still/RB, ta-/JJ, it/PRP, 's/VBZ, still/RB, ta-/JJ]","(ROOT (FRAG (VP (PP (NP (UH Oh)) (NP (NP (ADJP (RB dear))) (, ,) (NP (PRP it)))) (VBZ 's) (ADJP (RB still) (JJ ta-) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB still)) (ADJP (JJ ta-)))))))))"
+72304,"(87,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+72304,"(88,)",it 's still taping .,"[it/PRP, 's/VBZ, still/RB, taping/VBG, ./.]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB still)) (VP (VBG taping))) (. .)))
+72304,"(89,)","I don 't like tapes , they 're horrible .","[I/PRP, don/VBP, 't/PRP, like/IN, tapes/NNS, ,/,, they/PRP, 're/VBP, horrible/JJ, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (NNS tapes))))) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ horrible))) (. .)))"
+72304,"(90,)",They 're not .,"[They/PRP, 're/VBP, not/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (RB not)) (. .)))
+72304,"(91, 92)",So ? ,"[So/RB, ?/.]",(ROOT (FRAG (ADVP (RB So)) (. ?)))
+72304,"(93,)",What are you up to ?,"[What/WP, are/VBP, you/PRP, up/RP, to/TO, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (NP (PRP you)) (ADVP (RP up) (PP (TO to))))) (. ?)))
+72304,"(94, 95)",That .,"[That/DT, ./.]",(ROOT (FRAG (NP (DT That)) (. .)))
+72304,"(96,)",Oh fucking hell !,"[Oh/UH, fucking/VBG, hell/NN, !/.]",(ROOT (INTJ (UH Oh) (PP (VBG fucking) (NP (NN hell))) (. !)))
+72304,"(97,)",What was I saying ?,"[What/WP, was/VBD, I/PRP, saying/VBG, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (PRP I)) (VP (VBG saying))) (. ?)))
+72304,"(98,)",I don 't know .,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+72304,"(99, 100)","Er erm  not too bad , it 's going through to bad .","[Er/NN, erm/NN, not/RB, too/RB, bad/JJ, ,/,, it/PRP, 's/VBZ, going/VBG, through/IN, to/TO, bad/JJ, ./.]","(ROOT (S (S (NP (NP (NN Er) (NN erm)) (ADJP (RB not) (RB too) (JJ bad)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (PP (IN through) (PP (TO to) (ADJP (JJ bad)))))) (. .)))"
+72304,"(101,)",,[],X
+72304,"(102, 103)",I don 't  was is about school ?,"[I/PRP, don/VBP, 't/PRP, was/VBD, is/VBZ, about/IN, school/NN, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (SBAR (S (NP (PRP 't)) (VP (VBD was) (VP (VBZ is) (PP (IN about) (NP (NN school)))))))) (. ?)))
+72304,"(104,)",It can 't have been about school .,"[It/PRP, can/MD, 't/PRP, have/VB, been/VBN, about/RB, school/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (MD can) (NP (PRP 't)) (S (VP (VB have) (VP (VBN been) (NP (RB about) (NN school)))))) (. .)))
+72304,"(105,)",Was it something you heard at school ?,"[Was/VBD, it/PRP, something/NN, you/PRP, heard/VBD, at/IN, school/NN, ?/.]",(ROOT (S (S (VP (VBD Was) (NP (PRP it) (NN something)))) (NP (PRP you)) (VP (VBD heard) (PP (IN at) (NP (NN school)))) (. ?)))
+72304,"(106,)",Well I thought so .,"[Well/RB, I/PRP, thought/VBD, so/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBD thought) (ADVP (RB so))) (. .)))
+72304,"(107,)",,[],X
+72304,"(108,)",I can 't think .,"[I/PRP, can/MD, 't/PRP, think/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB think)))) (. .)))
+72304,"(109, 110, 111)",That was the     er er ooh !,"[That/DT, was/VBD, the/DT, er/NN, er/NN, ooh/NN, !/.]",(ROOT (S (NP (DT That)) (VP (VBD was) (NP (DT the) (NN er) (NN er) (NN ooh))) (. !)))
+72304,"(112,)",I love Benny Hill !,"[I/PRP, love/VBP, Benny/NNP, Hill/NNP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (NNP Benny) (NNP Hill))) (. !)))
+72304,"(113,)","I , I know !","[I/PRP, ,/,, I/PRP, know/VBP, !/.]","(ROOT (S (NP (PRP I)) (, ,) (NP (PRP I)) (VP (VBP know)) (. !)))"
+72304,"(114,)",I just turned it up to stop   .,"[I/PRP, just/RB, turned/VBD, it/PRP, up/RP, to/TO, stop/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (ADVP (RB just)) (VBD turned) (NP (PRP it)) (PRT (RP up)) (S (VP (TO to) (VP (VB stop))))) (. .)))
+72304,"(115,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+72304,"(116,)",You was gonna have a fever .,"[You/PRP, was/VBD, gonna/NNP, have/VB, a/DT, fever/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB have) (NP (DT a) (NN fever))))) (. .)))
+72304,"(117,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(118,)","See you are now , I reckon your , you 've got glandular fever .","[See/VB, you/PRP, are/VBP, now/RB, ,/,, I/PRP, reckon/VBP, your/PRP$, ,/,, you/PRP, 've/VBP, got/VBN, glandular/JJ, fever/NN, ./.]","(ROOT (S (S (S (VP (VB See) (SBAR (S (NP (PRP you)) (VP (VBP are) (ADVP (RB now))))))) (, ,) (NP (PRP I)) (VP (VBP reckon) (NP (PRP$ your)))) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (JJ glandular) (NN fever)))) (. .)))"
+72304,"(119,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+72304,"(120, 121)", Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+72304,"(122,)",I know what I was gonna do .,"[I/PRP, know/VBP, what/WP, I/PRP, was/VBD, gonna/NNP, do/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB do))))))) (. .)))
+72304,"(123,)",I know what it was .,"[I/PRP, know/VBP, what/WP, it/PRP, was/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBD was))))) (. .)))
+72304,"(124,)",It 's to do with Anthony .,"[It/PRP, 's/VBZ, to/TO, do/VB, with/IN, Anthony/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NNP Anthony))))))) (. .)))
+72304,"(125,)",I 'll tell you,"[I/PRP, 'll/MD, tell/VB, you/PRP]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you))))))
+72304,"(126,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+72304,"(127,)",later .,"[later/RB, ./.]",(ROOT (FRAG (ADVP (RB later)) (. .)))
+72304,"(128,)",Tell you about it,"[Tell/VB, you/PRP, about/IN, it/PRP]",(ROOT (S (VP (VB Tell) (NP (PRP you)) (PP (IN about) (NP (PRP it))))))
+72304,"(129,)",Tell me later .,"[Tell/VB, me/PRP, later/RBR, ./.]",(ROOT (S (VP (VB Tell) (NP (PRP me)) (ADVP (RBR later))) (. .)))
+72304,"(130,)",It 's just funny .,"[It/PRP, 's/VBZ, just/RB, funny/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ funny))) (. .)))
+72304,"(131,)",Well it wasn 't that funny .,"[Well/RB, it/PRP, wasn/VBD, 't/PRP, that/IN, funny/JJ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBD wasn) (NP (PRP 't)) (SBAR (IN that) (FRAG (ADJP (JJ funny))))) (. .)))
+72304,"(132,)",It 's,"[It/PRP, 's/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ 's))))
+72304,"(133,)",,[],X
+72304,"(134,)",,[],X
+72304,"(135,)",Oh dear !,"[Oh/UH, dear/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. !)))
+72304,"(136,)","He , he 's really cut up about poor old Alex .","[He/PRP, ,/,, he/PRP, 's/VBZ, really/RB, cut/VBN, up/RP, about/IN, poor/JJ, old/JJ, Alex/NNP, ./.]","(ROOT (S (NP (PRP He)) (, ,) (NP (PRP he)) (VP (VBZ 's) (ADVP (RB really)) (VP (VBN cut) (PRT (RP up)) (PP (IN about) (NP (ADJP (JJ poor) (JJ old)) (NNP Alex))))) (. .)))"
+72304,"(137,)","Oh , is it Alex ?","[Oh/UH, ,/,, is/VBZ, it/PRP, Alex/NNP, ?/.]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (, ,) (VP (VBZ is) (NP (PRP it))) (NP (NNP Alex)) (. ?)))"
+72304,"(138,)",Why did I think it was,"[Why/WRB, did/VBD, I/PRP, think/VBP, it/PRP, was/VBD]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBD was))))))))
+72304,"(139,)",Alex >  .,"[Alex/NNP, >/JJR, ./.]",(ROOT (S (NP (NNP Alex)) (ADJP (JJR >)) (. .)))
+72304,"(140,)",whe- I don 't know who she was   .,"[whe-/NN, I/PRP, don/VBP, 't/PRP, know/VB, who/WP, she/PRP, was/VBD, ./.]",(ROOT (S (NP (NN whe-)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP who)) (S (NP (PRP she)) (VP (VBD was))))))) (. .)))
+72304,"(141, 142)"," Oh , what 's she like ?","[Oh/UH, ,/,, what/WP, 's/VBZ, she/PRP, like/VB, ?/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (WP what)) (VP (VBZ 's) (S (NP (PRP she)) (VP (VB like)))) (. ?)))"
+72304,"(143,)",Dunno .,"[Dunno/NNP, ./.]",(ROOT (FRAG (NP (NNP Dunno)) (. .)))
+72304,"(144,)",I haven 't seen her .,"[I/PRP, haven/NN, 't/PRP, seen/VBD, her/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD seen) (NP (PRP her)))))) (. .)))
+72304,"(145,)","I apparently walked straight past her , but I don 't think she saw that .","[I/PRP, apparently/RB, walked/VBD, straight/JJ, past/IN, her/PRP, ,/,, but/CC, I/PRP, don/VBP, 't/PRP, think/VB, she/PRP, saw/VBD, that/IN, ./.]","(ROOT (S (S (NP (PRP I)) (ADVP (RB apparently)) (VP (VBD walked) (ADJP (JJ straight)) (PP (IN past) (NP (PRP her))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP she)) (VP (VBD saw) (ADVP (IN that))))))))) (. .)))"
+72304,"(146,)","Like , he didn 't point her out to me till I 'd gone past her .","[Like/IN, ,/,, he/PRP, didn/VBD, 't/PRP, point/VB, her/PRP, out/RP, to/TO, me/PRP, till/IN, I/PRP, 'd/MD, gone/VBN, past/IN, her/PRP, ./.]","(ROOT (S (PP (IN Like)) (, ,) (NP (PRP he)) (VP (VBD didn) (S (NP (PRP 't)) (VP (VB point) (NP (PRP her)) (ADVP (RP out) (PP (TO to) (NP (PRP me)))) (SBAR (IN till) (S (NP (PRP I)) (VP (MD 'd) (VP (VBN gone) (PP (IN past) (NP (PRP her)))))))))) (. .)))"
+72304,"(147,)",See ?,"[See/VB, ?/.]",(ROOT (SQ (VP (VB See)) (. ?)))
+72304,"(148,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+72304,"(149,)",But I   .,"[But/CC, I/PRP, ./.]",(ROOT (S (NP (CC But)) (VP (ADVP (PRP I))) (. .)))
+72304,"(150,)",Oh yes .,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
+72304,"(151,)",Ooh !,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+72304,"(152,)","Okay , so tell me , ooh my God !","[Okay/UH, ,/,, so/RB, tell/VB, me/PRP, ,/,, ooh/NNP, my/PRP$, God/NNP, !/.]","(ROOT (S (INTJ (UH Okay)) (, ,) (VP (ADVP (RB so)) (VB tell) (NP (NP (PRP me)) (, ,) (NP (NP (NNP ooh)) (NP (PRP$ my) (NNP God))))) (. !)))"
+72304,"(153,)",What have you done to your arm ?,"[What/WDT, have/VBP, you/PRP, done/VBN, to/TO, your/PRP$, arm/NN, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBP have) (NP (PRP you)) (VP (VBN done) (PP (TO to) (NP (PRP$ your) (NN arm))))) (. ?)))
+72304,"(154,)","Oh that was yesterday , when I was , when I was here .","[Oh/UH, that/WDT, was/VBD, yesterday/NN, ,/,, when/WRB, I/PRP, was/VBD, ,/,, when/WRB, I/PRP, was/VBD, here/RB, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBD was) (NP (NN yesterday)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD was)))))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB here))))) (. .)))"
+72304,"(155,)","Oh , and they laughed co-","[Oh/UH, ,/,, and/CC, they/PRP, laughed/VBD, co-/NN]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (CC and)) (ADVP (PRP they)) (VP (VBD laughed) (NP (NN co-)))))"
+72304,"(156,)",When you were laughing at me .,"[When/WRB, you/PRP, were/VBD, laughing/VBG, at/IN, me/PRP, ./.]",(ROOT (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBD were) (VP (VBG laughing) (PP (IN at) (NP (PRP me))))))) (. .)))
+72304,"(157,)",Sorry !,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))
+72304,"(158, 159)","But it was worse before , after I had a shower it went down a bit , but it was really red  and   .","[But/CC, it/PRP, was/VBD, worse/JJR, before/IN, ,/,, after/IN, I/PRP, had/VBD, a/DT, shower/NN, it/PRP, went/VBD, down/RP, a/DT, bit/NN, ,/,, but/CC, it/PRP, was/VBD, really/RB, red/JJ, and/CC, ./.]","(ROOT (S (CC But) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJR worse)) (PP (IN before)) (, ,) (SBAR (IN after) (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (NN shower)) (SBAR (S (NP (PRP it)) (VP (VBD went) (PRT (RP down)) (NP (DT a) (NN bit))))))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBD was) (ADJP (RB really) (JJ red)) (ADVP (CC and)))) (. .)))"
+72304,"(160,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+72304,"(161,)",Great !,"[Great/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Great)) (. !)))
+72304,"(162,)",You make me feel so good about myself .,"[You/PRP, make/VBP, me/PRP, feel/VB, so/RB, good/JJ, about/IN, myself/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP make) (S (NP (PRP me)) (VP (VB feel) (ADJP (RB so) (JJ good) (PP (IN about) (NP (PRP myself))))))) (. .)))
+72304,"(163,)", guilty laughing at you .,"[guilty/JJ, laughing/NN, at/IN, you/PRP, ./.]",(ROOT (NP (NP (JJ guilty) (NN laughing)) (PP (IN at) (NP (PRP you))) (. .)))
+72304,"(164,)",Oh thank you .,"[Oh/UH, thank/VB, you/PRP, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (VB thank) (NP (PRP you))) (. .)))
+72304,"(165,)","Yeah but you  , you   didn 't know I was in amazing pain though   , I don 't think .","[Yeah/UH, but/CC, you/PRP, ,/,, you/PRP, didn/VBP, 't/PRP, know/VB, I/PRP, was/VBD, in/IN, amazing/JJ, pain/NN, though/IN, ,/,, I/PRP, don/VBP, 't/PRP, think/VB, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (NP (CC but)) (VP (ADVP (PRP you)) (VP (PRN (, ,) (S (NP (PRP you)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB know) (NP (PRP I))))))) (VBD was) (NP (NP (IN in) (JJ amazing) (NN pain)) (ADJP (IN though)))))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think)))) (. .)))"
+72304,"(166,)",You know the,"[You/PRP, know/VBP, the/DT]",(ROOT (S (NP (PRP You)) (VP (VBP know) (NP (DT the)))))
+72304,"(167,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+72304,"(168,)",Can yo-,"[Can/MD, yo-/VB]",(ROOT (FRAG (VP (MD Can) (VP (VB yo-)))))
+72304,"(169,)",howls didn 't give it away .,"[howls/NNS, didn/VBP, 't/PRP, give/VB, it/PRP, away/RB, ./.]",(ROOT (S (NP (NNS howls)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB give) (NP (PRP it)) (ADVP (RB away))))) (. .)))
+72304,"(170,)",,[],X
+72304,"(171,)",,[],X
+72304,"(172, 173)","Oh go on  oh go on , tell , tell me what was Anthony saying ?","[Oh/UH, go/VB, on/IN, oh/NN, go/VB, on/IN, ,/,, tell/VB, ,/,, tell/VB, me/PRP, what/WP, was/VBD, Anthony/NNP, saying/VBG, ?/.]","(ROOT (S (INTJ (UH Oh)) (VP (VP (VB go) (PP (IN on) (NP (NN oh))) (S (VP (VB go) (PP (IN on))))) (, ,) (VP (VB tell)) (, ,) (VP (VB tell) (NP (PRP me)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (NP (NNP Anthony)) (VP (VBG saying)))))))) (. ?)))"

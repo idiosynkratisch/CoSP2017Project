@@ -1,0 +1,4 @@
+39004,"(0,)",and many more wearing them .,"[and/CC, many/JJ, more/JJR, wearing/VBG, them/PRP, ./.]",(ROOT (FRAG (CC and) (NP (NP (JJ many) (JJR more)) (SBAR (S (VP (VBG wearing) (NP (PRP them))))) (. .))))
+39004,"(1, 2)",Yes    ,[Yes/UH],(ROOT (INTJ (UH Yes)))
+39004,"(3,)","Yes she did , yeah , mhm .","[Yes/UH, she/PRP, did/VBD, ,/,, yeah/UH, ,/,, mhm/NNP, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP she)) (VP (VBD did))) (, ,) (FRAG (INTJ (UH yeah)) (, ,) (NP (NNP mhm))) (. .)))"
+39004,"(4,)",Yeah  ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))

@@ -1,0 +1,2 @@
+40902,"(0, 1)","Dad , how did you catch the shelf  when er it was just about to fall ?","[Dad/NNP, ,/,, how/WRB, did/VBD, you/PRP, catch/VB, the/DT, shelf/NN, when/WRB, er/NN, it/PRP, was/VBD, just/RB, about/RB, to/TO, fall/VB, ?/.]","(ROOT (SBARQ (NP (NNP Dad)) (, ,) (WHNP (WRB how)) (SQ (VBD did) (NP (PRP you)) (VP (VB catch) (NP (DT the) (NN shelf)) (SBAR (WHADVP (WRB when) (NP (NN er))) (S (NP (PRP it)) (VP (VBD was) (NP (RB just) (RB about) (SBAR (S (VP (TO to) (VP (VB fall))))))))))) (. ?)))"
+40902,"(2,)", shelf,[shelf/NN],(ROOT (NP (NN shelf)))

@@ -1,0 +1,9 @@
+39412,"(0,)",Ooh it 's a load of rubbish isn 't it ?,"[Ooh/VB, it/PRP, 's/VBZ, a/DT, load/NN, of/IN, rubbish/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (SQ (VP (VB Ooh) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (NN load)) (PP (IN of) (NP (NP (JJ rubbish) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it)))))))))) (. ?)))
+39412,"(1,)","I think if I take this lot to the tip now , I 'll come back","[I/PRP, think/VBP, if/IN, I/PRP, take/VBP, this/DT, lot/NN, to/TO, the/DT, tip/NN, now/RB, ,/,, I/PRP, 'll/MD, come/VB, back/RB]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (SBAR (IN if) (S (NP (PRP I)) (VP (VBP take) (NP (DT this) (NN lot)) (PP (TO to) (NP (DT the) (NN tip))) (ADVP (RB now))))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB come) (ADVP (RB back)))))))))"
+39412,"(2,)",Alright,[Alright/JJ],(ROOT (ADJP (JJ Alright)))
+39412,"(3,)",then perhaps we can dispose of,"[then/RB, perhaps/RB, we/PRP, can/MD, dispose/VB, of/IN]",(ROOT (FRAG (NP (RB then)) (ADJP (RB perhaps) (SBAR (S (NP (PRP we)) (VP (MD can) (VP (VB dispose) (PP (IN of)))))))))
+39412,"(4,)","Yes , there won 't be a lot left","[Yes/UH, ,/,, there/EX, won/VBD, 't/PRP, be/VB, a/DT, lot/NN, left/VBD]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (EX there)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB be) (NP (DT a) (NN lot))))) (VBD left)))"
+39412,"(5,)",the rest of the stuff,"[the/DT, rest/NN, of/IN, the/DT, stuff/NN]",(ROOT (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN stuff)))))
+39412,"(6,)",That 's right,"[That/DT, 's/VBZ, right/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right)))))
+39412,"(7,)",Okay ?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
+39412,"(8,)",Yep,[Yep/NN],(ROOT (NP (NN Yep)))

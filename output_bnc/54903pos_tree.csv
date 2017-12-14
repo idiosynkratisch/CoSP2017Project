@@ -1,0 +1,12 @@
+54903,"(0,)",Is that on or off ?,"[Is/VBZ, that/DT, on/IN, or/CC, off/IN, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT that)) (ADVP (ADVP (IN on)) (CC or) (ADVP (IN off))) (. ?)))
+54903,"(1,)",On .,"[On/IN, ./.]",(ROOT (FRAG (PP (IN On)) (. .)))
+54903,"(2,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+54903,"(3,)",Got to find something for it .,"[Got/VBN, to/TO, find/VB, something/NN, for/IN, it/PRP, ./.]",(ROOT (S (VP (VBN Got) (S (VP (TO to) (VP (VB find) (NP (NN something)) (PP (IN for) (NP (PRP it))))))) (. .)))
+54903,"(4,)",,[],X
+54903,"(5,)",Now look you should be pleased about that !,"[Now/RB, look/VBP, you/PRP, should/MD, be/VB, pleased/JJ, about/IN, that/DT, !/.]",(ROOT (S (NP (RB Now)) (VP (VBP look) (SBAR (S (NP (PRP you)) (VP (MD should) (VP (VB be) (ADJP (JJ pleased) (PP (IN about) (NP (DT that))))))))) (. !)))
+54903,"(6,)","Yes I am , I 'll go and stick them in in a minute .","[Yes/UH, I/PRP, am/VBP, ,/,, I/PRP, 'll/MD, go/VB, and/CC, stick/VB, them/PRP, in/IN, in/IN, a/DT, minute/NN, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP am))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB go) (CC and) (VB stick) (NP (PRP them)) (PP (IN in) (PP (IN in) (NP (DT a) (NN minute)))))) (. .)))"
+54903,"(7, 8)","Look at that , I tell you  that 's cos I    ","[Look/VB, at/IN, that/DT, ,/,, I/PRP, tell/VBP, you/PRP, that/DT, 's/VBZ, cos/NN, I/PRP]","(ROOT (SINV (VP (VB Look) (PP (IN at) (NP (NP (DT that)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you))))) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (NN cos)))))))) (NP (PRP I))))"
+54903,"(9,)", There 's still a nice fresh smell of ,"[There/EX, 's/VBZ, still/RB, a/DT, nice/JJ, fresh/JJ, smell/NN, of/IN]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB still)) (NP (NP (DT a) (JJ nice) (JJ fresh) (NN smell)) (PP (IN of))))))
+54903,"(10,)",,[],X
+54903,"(11,)",,[],X
+54903,"(12,)",There 's a lot of rain  ,"[There/EX, 's/VBZ, a/DT, lot/NN, of/IN, rain/NN]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN rain)))))))

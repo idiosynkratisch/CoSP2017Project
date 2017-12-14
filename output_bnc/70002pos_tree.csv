@@ -1,0 +1,12 @@
+70002,"(0,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+70002,"(1,)",Where 's your mum ?,"[Where/WRB, 's/POS, your/PRP$, mum/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (PRP$ your) (NN mum))) (. ?)))
+70002,"(2,)", parked over there .,"[parked/VBN, over/IN, there/RB, ./.]",(ROOT (S (VP (VBN parked) (PP (IN over) (NP (RB there)))) (. .)))
+70002,"(3,)","Alright , I 've gotta go and see her .","[Alright/NNP, ,/,, I/PRP, 've/VBP, gotta/NNP, go/VB, and/CC, see/VB, her/PRP, ./.]","(ROOT (S (NP (NNP Alright)) (, ,) (NP (PRP I)) (VP (VBP 've) (S (NP (NNP gotta)) (VP (VB go) (CC and) (VB see) (NP (PRP her))))) (. .)))"
+70002,"(4,)",Right pet .,"[Right/JJ, pet/NN, ./.]",(ROOT (NP (JJ Right) (NN pet) (. .)))
+70002,"(5,)",Your Granny Iris get here ?,"[Your/PRP$, Granny/NNP, Iris/NNP, get/VB, here/RB, ?/.]",(ROOT (S (NP (PRP$ Your) (NNP Granny) (NNP Iris)) (VP (VB get) (ADVP (RB here))) (. ?)))
+70002,"(6,)",Yeah she doesn 't come here ,"[Yeah/UH, she/PRP, doesn/VBZ, 't/PRP, come/VBN, here/RB]",(ROOT (SBAR (UH Yeah) (S (NP (PRP she)) (VP (VBZ doesn) (S (NP (PRP 't)) (VP (VBN come) (ADVP (RB here))))))))
+70002,"(7,)","No but she , she came , she 's come to stay with you .","[No/DT, but/CC, she/PRP, ,/,, she/PRP, came/VBD, ,/,, she/PRP, 's/VBZ, come/VBN, to/TO, stay/VB, with/IN, you/PRP, ./.]","(ROOT (S (ADVP (DT No) (CC but)) (PRN (S (NP (PRP she)) (, ,) (NP (PRP she)) (VP (VBD came))) (, ,)) (NP (PRP she)) (VP (VBZ 's) (VP (VBN come) (S (VP (TO to) (VP (VB stay) (PP (IN with) (NP (PRP you)))))))) (. .)))"
+70002,"(8,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+70002,"(9,)","Yes , alright pet .","[Yes/UH, ,/,, alright/JJ, pet/NN, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (NP (JJ alright) (NN pet) (. .))))"
+70002,"(10, 11)",See you  Bye !,"[See/VB, you/PRP, Bye/VBP, !/.]",(ROOT (S (VP (VB See) (SBAR (S (NP (PRP you)) (VP (VBP Bye))))) (. !)))
+70002,"(12,)",Whoops !,"[Whoops/NNP, !/.]",(ROOT (FRAG (NP (NNP Whoops)) (. !)))

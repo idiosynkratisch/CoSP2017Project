@@ -1,0 +1,19 @@
+62303,"(0,)",Oh that 's nice Tracy !,"[Oh/UH, that/DT, 's/VBZ, nice/JJ, Tracy/NNP, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (JJ nice) (NNP Tracy)))) (. !)))
+62303,"(1,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+62303,"(2,)", then you can pay me off if you want .,"[then/RB, you/PRP, can/MD, pay/VB, me/PRP, off/RP, if/IN, you/PRP, want/VBP, ./.]",(ROOT (S (ADVP (RB then)) (NP (PRP you)) (VP (MD can) (VP (VB pay) (NP (PRP me)) (ADVP (RP off)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want)))))) (. .)))
+62303,"(3,)",It 's alright .,"[It/PRP, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
+62303,"(4,)","With that , and that .","[With/IN, that/DT, ,/,, and/CC, that/IN, ./.]","(ROOT (FRAG (PP (IN With) (WHNP (WHNP (DT that)) (PRN (, ,) (CC and) (ADVP (IN that))))) (. .)))"
+62303,"(5,)",Oh that 's expensive !,"[Oh/UH, that/DT, 's/VBZ, expensive/JJ, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ expensive)))) (. !)))
+62303,"(6, 7)","Eleven  ten , and eleven .","[Eleven/CD, ten/CD, ,/,, and/CC, eleven/NNS, ./.]","(ROOT (NP (NP (CD Eleven)) (NP (NP (CD ten)) (, ,) (CC and) (NP (NNS eleven))) (. .)))"
+62303,"(8,)",Why don 't you get them ?,"[Why/WRB, don/NNP, 't/PRP, you/PRP, get/VBP, them/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why) (NP (NP (NNP don)) (NP (PRP 't)))) (S (NP (PRP you)) (VP (VBP get) (NP (PRP them)))) (. ?)))
+62303,"(9,)",Thirty quid 's just enough .,"[Thirty/CD, quid/NNP, 's/POS, just/RB, enough/RB, ./.]",(ROOT (NP (NP (CD Thirty)) (NP (NP (NNP quid) (POS 's)) (NP (RB just) (RB enough))) (. .)))
+62303,"(10,)",I don 't like those .,"[I/PRP, don/VBP, 't/PRP, like/IN, those/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (DT those)))) (. .)))
+62303,"(11,)",I like that one .,"[I/PRP, like/VBP, that/IN, one/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (ADVP (IN that) (NP (CD one)))) (. .)))
+62303,"(12,)",The red ones ?,"[The/DT, red/JJ, ones/NNS, ?/.]",(ROOT (FRAG (NP (DT The) (JJ red) (NNS ones)) (. ?)))
+62303,"(13,)",What about with a   ?,"[What/WP, about/IN, with/IN, a/DT, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about) (PP (IN with) (NP (DT a)))) (. ?)))
+62303,"(14,)",No I don 't like them .,"[No/DT, I/PRP, don/VBP, 't/PRP, like/IN, them/PRP, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP them)))) (. .)))
+62303,"(15,)",Get a   ?,"[Get/VB, a/DT, ?/.]",(ROOT (SQ (VP (VB Get) (NP (DT a))) (. ?)))
+62303,"(16,)",,[],X
+62303,"(17, 18)","No it 's not , those erm  they 're like those leggings it 's","[No/DT, it/PRP, 's/VBZ, not/RB, ,/,, those/DT, erm/NN, they/PRP, 're/VBP, like/IN, those/DT, leggings/NNS, it/PRP, 's/VBZ]","(ROOT (S (NP (DT No) (PRP it)) (VP (VP (VBZ 's) (RB not)) (, ,) (NP (NP (DT those) (NN erm)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (DT those) (NNS leggings)) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))))))"
+62303,"(19,)",Very comfy then ?,"[Very/RB, comfy/JJ, then/RB, ?/.]",(ROOT (FRAG (PP (PP (ADVP (RB Very)) (ADJP (JJ comfy))) (ADVP (RB then))) (. ?)))
+62303,"(20,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

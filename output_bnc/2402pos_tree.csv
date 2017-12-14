@@ -1,0 +1,10 @@
+2402,"(0, 1)","Madame , may I  pour you , have the pleasure of pouring you","[Madame/NNP, ,/,, may/MD, I/PRP, pour/VBP, you/PRP, ,/,, have/VBP, the/DT, pleasure/NN, of/IN, pouring/VBG, you/PRP]","(ROOT (S (NP (NP (NNP Madame)) (, ,) (VP (VP (MD may)) (SBAR (S (NP (PRP I)) (VP (VBP pour) (NP (PRP you)))))) (, ,)) (VP (VBP have) (NP (NP (DT the) (NN pleasure)) (PP (IN of) (S (VP (VBG pouring) (NP (PRP you)))))))))"
+2402,"(2,)",,[],X
+2402,"(3,)",hot   .,"[hot/JJ, ./.]",(ROOT (FRAG (ADJP (JJ hot)) (. .)))
+2402,"(4,)",  .,[./.],(ROOT (NP (. .)))
+2402,"(5,)","Right , by all means .","[Right/NN, ,/,, by/IN, all/DT, means/NNS, ./.]","(ROOT (FRAG (NP (NN Right)) (, ,) (PP (IN by) (NP (DT all) (NNS means))) (. .)))"
+2402,"(6,)",Dry or middling ?,"[Dry/JJ, or/CC, middling/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Dry) (CC or) (JJ middling)) (. ?)))
+2402,"(7,)",I 'm middling .,"[I/PRP, 'm/VBP, middling/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ middling))) (. .)))
+2402,"(8,)","Middling , I hope I 've got some middling , I 'll go and have a look .","[Middling/JJ, ,/,, I/PRP, hope/VBP, I/PRP, 've/VBP, got/VBD, some/DT, middling/JJ, ,/,, I/PRP, 'll/MD, go/VB, and/CC, have/VB, a/DT, look/NN, ./.]","(ROOT (S (S (S (ADJP (JJ Middling))) (, ,) (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (JJ middling)))))))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VP (VB go)) (CC and) (VP (VB have) (NP (DT a) (NN look))))) (. .)))"
+2402,"(9,)",,[],X
+2402,"(10,)","Right , I see what 's what .","[Right/NN, ,/,, I/PRP, see/VBP, what/WP, 's/VBZ, what/WP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (NP (PRP I)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (WHNP (WP what)))))) (. .)))"

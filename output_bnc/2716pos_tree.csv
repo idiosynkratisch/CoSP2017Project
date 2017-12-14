@@ -1,0 +1,11 @@
+2716,"(0,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2716,"(1,)","To the right , yes .","[To/TO, the/DT, right/NN, ,/,, yes/UH, ./.]","(ROOT (FRAG (PP (TO To) (NP (DT the) (NN right))) (, ,) (INTJ (UH yes)) (. .)))"
+2716,"(2, 3)",To  to the right ?,"[To/TO, to/TO, the/DT, right/NN, ?/.]",(ROOT (FRAG (PP (PP (TO To)) (PP (TO to) (NP (DT the) (NN right)))) (. ?)))
+2716,"(4,)",Yellow ball   .,"[Yellow/JJ, ball/NN, ./.]",(ROOT (NP (JJ Yellow) (NN ball) (. .)))
+2716,"(5,)","Of course I 'm sorry , for some strange reason I thought we were going that way , I 've got to go through the other way haven 't I ?","[Of/IN, course/NN, I/PRP, 'm/VBP, sorry/JJ, ,/,, for/IN, some/DT, strange/JJ, reason/NN, I/PRP, thought/VBD, we/PRP, were/VBD, going/VBG, that/DT, way/NN, ,/,, I/PRP, 've/VBP, got/VBN, to/TO, go/VB, through/IN, the/DT, other/JJ, way/NN, haven/NN, 't/PRP, I/PRP, ?/.]","(ROOT (S (S (PP (IN Of) (NP (NN course))) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry)) (, ,) (PP (IN for) (NP (NP (DT some) (JJ strange) (NN reason)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP we)) (VP (VBD were) (VP (VBG going) (NP (DT that) (NN way))))))))))))) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB go) (PP (IN through) (NP (DT the) (JJ other) (NN way) (NN haven))) (NP (NP (PRP 't)) (NP (PRP I)))))))) (. ?)))"
+2716,"(6,)",,[],X
+2716,"(7,)","It , it 's always from the out- outside in , yes ?","[It/PRP, ,/,, it/PRP, 's/VBZ, always/RB, from/IN, the/DT, out-/NN, outside/IN, in/IN, ,/,, yes/UH, ?/.]","(ROOT (NP (S (NP (PRP It)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB always)) (PP (IN from) (NP (NP (DT the) (NN out-)) (PP (IN outside) (FRAG (PP (IN in)) (, ,) (INTJ (UH yes)) (. ?)))))))))"
+2716,"(8,)","Well , except for on the way back .","[Well/RB, ,/,, except/IN, for/IN, on/IN, the/DT, way/NN, back/RB, ./.]","(ROOT (FRAG (INTJ (RB Well)) (, ,) (PP (IN except) (PP (IN for) (PP (IN on) (FRAG (NP (DT the) (NN way)) (ADVP (RB back)) (. .)))))))"
+2716,"(9,)",Ah .,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
+2716,"(10,)",,[],X
+2716,"(11,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

@@ -1,0 +1,43 @@
+21602,"(0,)",Your alarm clock went off this morning then Pete ?,"[Your/PRP$, alarm/NN, clock/NN, went/VBD, off/RB, this/DT, morning/NN, then/RB, Pete/NNP, ?/.]",(ROOT (S (NP (PRP$ Your) (NN alarm) (NN clock)) (VP (VBD went) (ADVP (RB off)) (NP (DT this) (NN morning)) (PP (RB then) (NP (NNP Pete)))) (. ?)))
+21602,"(1,)",Oh yes   ,"[Oh/UH, yes/UH]",(ROOT (INTJ (UH Oh) (UH yes)))
+21602,"(2,)",Yeah  ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+21602,"(3,)"," this morning he , did he actually remember to set it last evening","[this/DT, morning/NN, he/PRP, ,/,, did/VBD, he/PRP, actually/RB, remember/VBP, to/TO, set/VB, it/PRP, last/JJ, evening/NN]","(ROOT (FRAG (NP (DT this) (NN morning) (SBAR (S (NP (PRP he)) (, ,) (VP (VBD did) (SBAR (S (NP (PRP he)) (ADVP (RB actually)) (VP (VBP remember) (S (VP (TO to) (VP (VB set) (NP (PRP it)) (NP (JJ last) (NN evening))))))))))))))"
+21602,"(4,)",Ooh,[Ooh/NNP],(ROOT (NP (NNP Ooh)))
+21602,"(5,)","Sunday , he was a bit the worse ","[Sunday/NNP, ,/,, he/PRP, was/VBD, a/DT, bit/NN, the/DT, worse/JJR]","(ROOT (NP (S (NP (NNP Sunday)) (, ,) (NP (PRP he)) (VP (VBD was) (NP (NP (DT a) (NN bit)) (ADJP (DT the) (JJR worse)))))))"
+21602,"(6,)",,[],X
+21602,"(7,)", press the button before it ,"[press/VB, the/DT, button/NN, before/IN, it/PRP]",(ROOT (S (VP (VB press) (NP (DT the) (NN button)) (PP (IN before) (NP (PRP it))))))
+21602,"(8,)",,[],X
+21602,"(9,)",,[],X
+21602,"(10,)","How was it , game last night ?","[How/WRB, was/VBD, it/PRP, ,/,, game/NN, last/JJ, night/NN, ?/.]","(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBD was) (NP (NP (PRP it)) (, ,) (NP (NN game) (JJ last) (NN night)))) (. ?)))"
+21602,"(11,)",Terrible,[Terrible/JJ],(ROOT (FRAG (JJ Terrible)))
+21602,"(12,)",,[],X
+21602,"(13,)","No , no ","[No/DT, ,/,, no/DT]","(ROOT (NP (NP (DT No)) (, ,) (NP (DT no))))"
+21602,"(14,)",,[],X
+21602,"(15,)",He 's a bastard,"[He/PRP, 's/VBZ, a/DT, bastard/NN]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (DT a) (NN bastard)))))
+21602,"(16, 17)","Ha  what Wolverhampton was , yeah , like","[Ha/NNP, what/WDT, Wolverhampton/NNP, was/VBD, ,/,, yeah/UH, ,/,, like/IN]","(ROOT (FRAG (NP (NNP Ha)) (SBAR (WHNP (WDT what)) (S (NP (NNP Wolverhampton)) (VP (VBD was) (, ,) (INTJ (UH yeah)) (, ,) (PP (IN like)))))))"
+21602,"(18,)",He didn 't bloody tell me did he,"[He/PRP, didn/VBD, 't/PRP, bloody/JJ, tell/VB, me/PRP, did/VBD, he/PRP]",(ROOT (S (NP (PRP He)) (VP (VBD didn) (S (NP (PRP 't)) (ADJP (JJ bloody)) (S (VP (VB tell) (SBAR (S (NP (PRP me)) (VP (VBD did) (NP (PRP he)))))))))))
+21602,"(19,)", he,[he/PRP],(ROOT (FRAG (NP (PRP he))))
+21602,"(20,)",,[],X
+21602,"(21,)","he said he 'd been through recently , oh every time I 've been through Wolverhampton that ring road 's been awful the traffic like","[he/PRP, said/VBD, he/PRP, 'd/MD, been/VBN, through/IN, recently/RB, ,/,, oh/UH, every/DT, time/NN, I/PRP, 've/VBP, been/VBN, through/IN, Wolverhampton/NNP, that/WDT, ring/VBP, road/NN, 's/POS, been/VBN, awful/JJ, the/DT, traffic/NN, like/IN]","(ROOT (S (NP (PRP he)) (VP (VBD said) (S (NP (PRP he)) (VP (MD 'd) (VP (VBN been) (PP (IN through) (ADVP (RB recently))) (, ,) (NP (INTJ (UH oh)) (NP (DT every) (NN time)))))) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (PP (IN through) (NP (NP (NNP Wolverhampton)) (SBAR (WHNP (WDT that)) (S (VP (VBP ring) (SBAR (S (NP (NP (NN road)) (POS 's)) (VP (VBN been) (NP (JJ awful) (DT the) (NN traffic)) (PP (IN like)))))))))))))))))"
+21602,"(22,)","Yeah , the ","[Yeah/UH, ,/,, the/DT]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (DT the))))"
+21602,"(23,)",Probably gonna wait ten years  ,"[Probably/RB, gonna/NNP, wait/VB, ten/CD, years/NNS]",(ROOT (FRAG (ADVP (RB Probably)) (NP (NP (NNP gonna)) (SBAR (S (VP (VB wait) (NP (CD ten) (NNS years))))))))
+21602,"(24,)",,[],X
+21602,"(25, 26)","It was , it was a bastard  ","[It/PRP, was/VBD, ,/,, it/PRP, was/VBD, a/DT, bastard/NN]","(ROOT (S (NP (PRP It)) (VP (VBD was) (, ,) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NN bastard))))))))"
+21602,"(27,)","I think he 's , he 's moved in cos every morning","[I/PRP, think/VBP, he/PRP, 's/VBZ, ,/,, he/PRP, 's/VBZ, moved/VBN, in/IN, cos/NN, every/DT, morning/NN]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (, ,) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN moved) (PP (IN in) (NP (NN cos))) (NP (DT every) (NN morning))))))))))))"
+21602,"(28, 29)",He does  which one you doing ?,"[He/PRP, does/VBZ, which/WDT, one/CD, you/PRP, doing/VBG, ?/.]",(ROOT (S (NP (PRP He)) (VP (VBZ does) (SBAR (WHNP (WHNP (WDT which)) (NP (CD one))) (S (NP (PRP you)) (VP (VBG doing))))) (. ?)))
+21602,"(30,)",I 'd have a trainee,"[I/PRP, 'd/MD, have/VB, a/DT, trainee/NN]",(ROOT (S (NP (PRP I)) (VP (MD 'd) (VP (VB have) (NP (DT a) (NN trainee))))))
+21602,"(31,)","Yeah , not  ","[Yeah/UH, ,/,, not/RB]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (RB not))))"
+21602,"(32,)", it 'll be night time ,"[it/PRP, 'll/MD, be/VB, night/NN, time/NN]",(ROOT (S (NP (PRP it)) (VP (MD 'll) (VP (VB be) (NP (NN night) (NN time))))))
+21602,"(33,)",On the road,"[On/IN, the/DT, road/NN]",(ROOT (PP (IN On) (NP (DT the) (NN road))))
+21602,"(34,)",,[],X
+21602,"(35,)","Yeah , by the canal bridge ?","[Yeah/UH, ,/,, by/IN, the/DT, canal/NNP, bridge/NNP, ?/.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (PP (IN by) (NP (DT the) (NNP canal) (NNP bridge)) (. ?))))"
+21602,"(36,)",I would think,"[I/PRP, would/MD, think/VB]",(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB think)))))
+21602,"(37, 38)","that coming from that way you say and er , there 's normally a few spaces this time of day , well up the road there 's    and I thought","[that/DT, coming/VBG, from/IN, that/DT, way/NN, you/PRP, say/VBP, and/CC, er/NN, ,/,, there/EX, 's/VBZ, normally/RB, a/DT, few/JJ, spaces/NNS, this/DT, time/NN, of/IN, day/NN, ,/,, well/RB, up/IN, the/DT, road/NN, there/EX, 's/VBZ, and/CC, I/PRP, thought/VBD]","(ROOT (S (S (NP (DT that)) (VP (VBG coming) (PP (IN from) (NP (NP (NP (DT that) (NN way)) (SBAR (S (NP (PRP you)) (VP (VBP say))))) (CC and) (NP (NN er)))))) (, ,) (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB normally)) (NP (NP (DT a) (JJ few) (NNS spaces)) (NP (DT this) (NN time)) (PP (IN of) (NP (NN day)))))) (, ,) (S (ADVP (RB well) (PP (IN up) (NP (DT the) (NN road)))) (NP (EX there)) (VP (VBZ 's))) (CC and) (S (NP (PRP I)) (VP (VBD thought)))))"
+21602,"(39,)",Took mine round the corner ,"[Took/VBD, mine/PRP, round/VB, the/DT, corner/NN]",(ROOT (SINV (VP (VBD Took) (S (NP (PRP mine)) (VP (VB round)))) (NP (DT the) (NN corner))))
+21602,"(40,)",I 've got a B T van normally when I 'm working   parked underneath,"[I/PRP, 've/VBP, got/VBD, a/DT, B/NN, T/NN, van/NN, normally/RB, when/WRB, I/PRP, 'm/VBP, working/VBG, parked/VBN, underneath/IN]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN B) (NN T) (NN van)) (ADVP (RB normally)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG working) (S (VP (VBN parked) (PP (IN underneath))))))))))))
+21602,"(41,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+21602,"(42,)",it 's   car park you know .,"[it/PRP, 's/VBZ, car/NN, park/NN, you/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN car) (NN park)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))) (. .)))
+21602,"(43,)","Yeah , well that 's why I","[Yeah/UH, ,/,, well/RB, that/DT, 's/VBZ, why/WRB, I/PRP]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (RB well)) (ADVP (DT that)) (VP (VBZ 's) (FRAG (WHADVP (WRB why) (NP (PRP I)))))))"
+21602,"(44,)","get in , you 'd find your car right at the back .","[get/VB, in/IN, ,/,, you/PRP, 'd/MD, find/VB, your/PRP$, car/NN, right/NN, at/IN, the/DT, back/NN, ./.]","(ROOT (S (S (VP (VB get) (PP (IN in)))) (, ,) (NP (PRP you)) (VP (MD 'd) (VP (VB find) (NP (PRP$ your) (NN car) (NN right)) (PP (IN at) (NP (DT the) (NN back))))) (. .)))"
+21602,"(45,)","yeah ,","[yeah/UH, ,/,]","(ROOT (FRAG (PP (UH yeah)) (, ,)))"
+21602,"(46,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))

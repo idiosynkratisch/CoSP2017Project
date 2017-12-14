@@ -1,0 +1,6 @@
+44410,"(0,)",See you later .,"[See/VB, you/PRP, later/RB, ./.]",(ROOT (S (VP (VB See) (NP (PRP you)) (ADVP (RB later))) (. .)))
+44410,"(1, 2)", How long will you be ?,"[How/WRB, long/RB, will/MD, you/PRP, be/VB, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (RB long)) (SQ (MD will) (NP (PRP you)) (VP (VB be))) (. ?)))
+44410,"(3, 4)", I 'll phone you .,"[I/PRP, 'll/MD, phone/VB, you/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB phone) (NP (PRP you)))) (. .)))
+44410,"(5,)","Aye , how long ?","[Aye/NNP, ,/,, how/WRB, long/RB, ?/.]","(ROOT (S (NP (NNP Aye) (, ,)) (VP (NP (INTJ (WRB how)) (NP (RB long)))) (. ?)))"
+44410,"(6,)",Ten minutes ?,"[Ten/CD, minutes/NNS, ?/.]",(ROOT (NP (CD Ten) (NNS minutes) (. ?)))
+44410,"(7,)",Aye .,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))

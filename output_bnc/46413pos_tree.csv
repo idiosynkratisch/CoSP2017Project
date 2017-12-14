@@ -1,0 +1,21 @@
+46413,"(0,)"," Good afternoon , erm I wonder if it 's possible to book a table for high tea on er Tuesday the twenty first , that 's er Easter Tuesday","[Good/JJ, afternoon/NN, ,/,, erm/NN, I/PRP, wonder/VBP, if/IN, it/PRP, 's/VBZ, possible/JJ, to/TO, book/VB, a/DT, table/NN, for/IN, high/JJ, tea/NN, on/IN, er/NN, Tuesday/NNP, the/DT, twenty/CD, first/RB, ,/,, that/DT, 's/VBZ, er/NN, Easter/NNP, Tuesday/NNP]","(ROOT (FRAG (NP (NP (JJ Good) (NN afternoon) (, ,) (NN erm)) (SBAR (S (NP (PRP I)) (VP (VBP wonder) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ possible) (S (VP (TO to) (VP (VB book) (NP (DT a) (NN table)) (PP (IN for) (NP (NP (JJ high) (NN tea)) (PP (IN on) (NP (NN er))))) (NP (NNP Tuesday))))))))))))) (X (X (DT the)) (NP (NP (CD twenty)) (SBAR (S (ADVP (RB first)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NN er) (NNP Easter) (NNP Tuesday)))))))))"
+46413,"(1,)","Right , Tuesday , twenty first","[Right/NN, ,/,, Tuesday/NNP, ,/,, twenty/CD, first/JJ]","(ROOT (FRAG (NP (NP (NN Right)) (, ,) (NP (NNP Tuesday)) (, ,)) (ADJP (NP (CD twenty)) (JJ first))))"
+46413,"(2,)",Mm,[Mm/NN],(ROOT (NP (NN Mm)))
+46413,"(3,)","that 's okay , what time sir ?","[that/DT, 's/VBZ, okay/JJ, ,/,, what/WDT, time/NNP, sir/NNP, ?/.]","(ROOT (S (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ okay)))) (, ,) (S (NP (WDT what)) (NP (NNP time) (NNP sir))) (. ?)))"
+46413,"(4,)","Erm , what time do you serve it up to ?","[Erm/NN, ,/,, what/WDT, time/NN, do/VBP, you/PRP, serve/VB, it/PRP, up/RP, to/TO, ?/.]","(ROOT (SBARQ (NP (NN Erm)) (, ,) (WHNP (WDT what) (NN time)) (SQ (VBP do) (NP (PRP you)) (VP (VB serve) (NP (PRP it)) (PRT (RP up)) (PP (TO to)))) (. ?)))"
+46413,"(5,)","Erm , high tea 's from five until seven","[Erm/NN, ,/,, high/JJ, tea/NN, 's/POS, from/IN, five/CD, until/IN, seven/CD]","(ROOT (NP (NP (NP (NN Erm)) (, ,) (NP (NP (JJ high) (NN tea) (POS 's)) (PP (IN from) (NP (CD five))))) (PP (IN until) (NP (CD seven)))))"
+46413,"(6,)",Five until seven,"[Five/CD, until/IN, seven/CD]",(ROOT (FRAG (NP (CD Five)) (PP (IN until) (NP (CD seven)))))
+46413,"(7,)",Aha,[Aha/NNP],(ROOT (NP (NNP Aha)))
+46413,"(8,)",I would say probably about half past six,"[I/PRP, would/MD, say/VB, probably/RB, about/IN, half/DT, past/JJ, six/CD]",(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB say) (ADVP (RB probably)) (PP (IN about) (NP (DT half) (JJ past) (CD six)))))))
+46413,"(9,)","Alright , for how many ?","[Alright/NNP, ,/,, for/IN, how/WRB, many/JJ, ?/.]","(ROOT (FRAG (NP (NNP Alright)) (, ,) (PP (IN for) (WHNP (WRB how) (JJ many))) (. ?)))"
+46413,"(10,)",Er for five,"[Er/NN, for/IN, five/CD]",(ROOT (NP (NP (NN Er)) (PP (IN for) (NP (CD five)))))
+46413,"(11,)",For five and the name is ?,"[For/IN, five/CD, and/CC, the/DT, name/NN, is/VBZ, ?/.]",(ROOT (S (IN For) (NP (NP (CD five)) (CC and) (NP (DT the) (NN name))) (VP (VBZ is)) (. ?)))
+46413,"(12,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+46413,"(13,)",,[],X
+46413,"(14,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+46413,"(15,)",,[],X
+46413,"(16,)",That 's lovely we 'll see you on Easter Tuesday,"[That/DT, 's/VBZ, lovely/JJ, we/PRP, 'll/MD, see/VB, you/PRP, on/IN, Easter/NNP, Tuesday/NNP]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ lovely) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB see) (NP (PRP you)) (PP (IN on) (NP (NNP Easter) (NNP Tuesday)))))))))))
+46413,"(17,)",That 's great thank you very much indeed,"[That/DT, 's/VBZ, great/JJ, thank/VB, you/PRP, very/RB, much/RB, indeed/RB]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ great)) (S (VP (VB thank) (S (NP (PRP you)) (ADJP (RB very) (RB much)) (ADVP (RB indeed))))))))
+46413,"(18,)","Okay , much obliged bye bye","[Okay/UH, ,/,, much/JJ, obliged/JJ, bye/NN, bye/NN]","(ROOT (FRAG (INTJ (UH Okay)) (, ,) (ADVP (JJ much)) (NP (JJ obliged) (NN bye) (NN bye))))"
+46413,"(19,)",Bye bye,"[Bye/NNP, bye/NNP]",(ROOT (NP (NNP Bye) (NNP bye)))
+46413,"(20,)",Bye ,[Bye/NN],(ROOT (NP (NN Bye)))

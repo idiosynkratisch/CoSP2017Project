@@ -1,0 +1,76 @@
+3308,"(0,)",So you have only three hours ?,"[So/RB, you/PRP, have/VBP, only/RB, three/CD, hours/NNS, ?/.]",(ROOT (S (RB So) (NP (PRP you)) (VP (VBP have) (NP (QP (RB only) (CD three)) (NNS hours))) (. ?)))
+3308,"(1,)","Yeah , nine thirty to twelve thirty .","[Yeah/UH, ,/,, nine/CD, thirty/CD, to/TO, twelve/CD, thirty/CD, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NP (CD nine) (CD thirty)) (PP (TO to) (NP (CD twelve) (CD thirty)))) (. .)))"
+3308,"(2,)",Ah .,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
+3308,"(3, 4)","That 's why I 'm a little worried it 's that , you know they have three questions , so one quest- one hour for each .","[That/DT, 's/VBZ, why/WRB, I/PRP, 'm/VBP, a/DT, little/JJ, worried/JJ, it/PRP, 's/VBZ, that/IN, ,/,, you/PRP, know/VBP, they/PRP, have/VBP, three/CD, questions/NNS, ,/,, so/RB, one/CD, quest-/JJ, one/CD, hour/NN, for/IN, each/DT, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (NP (DT a) (JJ little)) (JJ worried))))))) (NP (PRP it)) (VP (VBZ 's) (SBAR (IN that) (, ,) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (NP (CD three) (NNS questions)) (, ,) (NP (NP (ADVP (RB so) (NP (CD one))) (JJ quest-) (CD one) (NN hour)) (PP (IN for) (NP (DT each)))))))))))) (. .)))"
+3308,"(5,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3308,"(6,)",They have to be very quick .,"[They/PRP, have/VBP, to/TO, be/VB, very/RB, quick/JJ, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ quick)))))) (. .)))
+3308,"(7,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3308,"(8,)",And I 'm not very quick .,"[And/CC, I/PRP, 'm/VBP, not/RB, very/RB, quick/JJ, ./.]",(ROOT (S (CC And) (NP (PRP I)) (VP (VBP 'm) (RB not) (ADJP (RB very) (JJ quick))) (. .)))
+3308,"(9,)","Yeah , well I 'm not   too .","[Yeah/UH, ,/,, well/RB, I/PRP, 'm/VBP, not/RB, too/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (NP (PRP I)) (VP (VBP 'm) (RB not) (ADVP (RB too))) (. .)))"
+3308,"(10,)","Funny , I 'm erm   , slow as well .","[Funny/NNP, ,/,, I/PRP, 'm/VBP, erm/NN, ,/,, slow/JJ, as/RB, well/RB, ./.]","(ROOT (S (NP (NNP Funny)) (, ,) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NN erm)) (, ,) (RRC (ADJP (JJ slow)) (ADVP (RB as) (RB well))))) (. .)))"
+3308,"(11,)",Well that 's just   isn 't it ?,"[Well/RB, that/DT, 's/VBZ, just/RB, isn/JJ, 't/PRP, it/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (RB just) (JJ isn)) (NP (NP (PRP 't)) (NP (PRP it)))) (. ?)))
+3308,"(12,)",,[],X
+3308,"(13,)",  .,[./.],(ROOT (NP (. .)))
+3308,"(14,)",There you are   .,"[There/EX, you/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP you)) (VP (VBP are)) (. .)))
+3308,"(15,)",,[],X
+3308,"(16,)","You see , and Michelle ?","[You/PRP, see/VBP, ,/,, and/CC, Michelle/NNP, ?/.]","(ROOT (S (NP (PRP You)) (VP (VP (VBP see)) (, ,) (CC and) (VP (NNP Michelle))) (. ?)))"
+3308,"(17,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+3308,"(18,)","No ,  .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"
+3308,"(19,)","But not as slow as I am ,  .","[But/CC, not/RB, as/RB, slow/JJ, as/IN, I/PRP, am/VBP, ,/,, ./.]","(ROOT (FRAG (CC But) (RB not) (NP (NP (RB as) (JJ slow)) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP am)) (, ,)))) (. .)))"
+3308,"(20,)",,[],X
+3308,"(21,)",,[],X
+3308,"(22,)",You would never have   .,"[You/PRP, would/MD, never/RB, have/VB, ./.]",(ROOT (S (NP (PRP You)) (VP (MD would) (ADVP (RB never)) (VP (VB have))) (. .)))
+3308,"(23,)","I wouldn 't mind eh , I would have  ","[I/PRP, wouldn/VBP, 't/PRP, mind/VB, eh/UH, ,/,, I/PRP, would/MD, have/VB]","(ROOT (S (NP (PRP I)) (VP (VBP wouldn) (S (NP (PRP 't)) (VP (VB mind) (S (INTJ (UH eh)) (, ,) (NP (PRP I)) (VP (MD would) (VP (VB have)))))))))"
+3308,"(24,)",That 's very   .,"[That/DT, 's/VBZ, very/RB, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (FRAG (ADVP (RB very) (. .))))))
+3308,"(25,)", too late .,"[too/RB, late/RB, ./.]",(ROOT (FRAG (ADVP (RB too) (RB late)) (. .)))
+3308,"(26,)","Yeah , whatever .","[Yeah/UH, ,/,, whatever/WDT, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (WDT whatever)) (. .)))"
+3308,"(27,)",There 's so many things I would of liked .,"[There/EX, 's/VBZ, so/RB, many/JJ, things/NNS, I/PRP, would/MD, of/IN, liked/VBN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB so)) (NP (NP (JJ many) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD would) (PP (IN of)) (VP (VBN liked))))))) (. .)))
+3308,"(28,)","Yes , yes , exactly , erm .","[Yes/UH, ,/,, yes/UH, ,/,, exactly/RB, ,/,, erm/NN, ./.]","(ROOT (FRAG (INTJ (UH Yes) (, ,) (UH yes)) (, ,) (ADVP (RB exactly)) (, ,) (NP (NN erm)) (. .)))"
+3308,"(29,)",You think then you 'll stay in Clifton ?,"[You/PRP, think/VBP, then/RB, you/PRP, 'll/MD, stay/VB, in/IN, Clifton/NNP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP think) (S (ADVP (RB then)) (NP (PRP you)) (VP (MD 'll) (VP (VB stay) (PP (IN in) (NP (NNP Clifton))))))) (. ?)))
+3308,"(30,)","I could stay , but I don 't know if I want to stay .","[I/PRP, could/MD, stay/VB, ,/,, but/CC, I/PRP, don/VBP, 't/PRP, know/VB, if/IN, I/PRP, want/VBP, to/TO, stay/VB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (MD could) (VP (VB stay)))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB stay))))))))))) (. .)))"
+3308,"(31,)",It 's quite bad   .,"[It/PRP, 's/VBZ, quite/RB, bad/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB quite) (JJ bad))) (. .)))
+3308,"(32,)",,[],X
+3308,"(33, 34)","Yeah , and I think you , you know in  increase the   , I 'm going to accept the ","[Yeah/UH, ,/,, and/CC, I/PRP, think/VBP, you/PRP, ,/,, you/PRP, know/VBP, in/IN, increase/NN, the/DT, ,/,, I/PRP, 'm/VBP, going/VBG, to/TO, accept/VB, the/DT]","(ROOT (NP (S (S (INTJ (UH Yeah)) (, ,) (S (CC and) (NP (PRP I)) (VP (VBP think) (NP (PRP you)))) (, ,) (S (NP (PRP you)) (VP (VBP know) (PP (IN in) (NP (NN increase) (DT the)))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB accept) (NP (DT the))))))))))"
+3308,"(35,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3308,"(36,)",and try to find another   .,"[and/CC, try/VB, to/TO, find/VB, another/DT, ./.]",(ROOT (S (CC and) (VP (VB try) (S (VP (TO to) (VP (VB find) (NP (DT another)))))) (. .)))
+3308,"(37,)", at the same time .,"[at/IN, the/DT, same/JJ, time/NN, ./.]",(ROOT (FRAG (PP (IN at) (NP (DT the) (JJ same) (NN time))) (. .)))
+3308,"(38,)","Yes , or big bank or something , who 'll invests in our   something like that .","[Yes/UH, ,/,, or/CC, big/JJ, bank/NN, or/CC, something/NN, ,/,, who/WP, 'll/MD, invests/VBZ, in/IN, our/PRP$, something/NN, like/IN, that/DT, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (CC or) (NP (JJ big) (NN bank)) (CC or) (NP (NN something))) (, ,) (PRN (SBAR (WHNP (WP who)) (S (VP (MD 'll))))) (VP (VBZ invests) (PP (IN in) (NP (NP (PRP$ our) (NN something)) (PP (IN like) (NP (DT that)))))) (. .)))"
+3308,"(39,)",Cos there are many banks in Zurich who doing this .,"[Cos/NN, there/EX, are/VBP, many/JJ, banks/NNS, in/IN, Zurich/NNP, who/WP, doing/VBG, this/DT, ./.]",(ROOT (S (NP (NN Cos)) (NP (EX there)) (VP (VBP are) (NP (NP (JJ many) (NNS banks)) (PP (IN in) (NP (NNP Zurich))) (SBAR (WHNP (WP who)) (S (VP (VBG doing) (NP (DT this))))))) (. .)))
+3308,"(40,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3308,"(41,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+3308,"(42,)","Yes , but are you already erm expert enough ?","[Yes/UH, ,/,, but/CC, are/VBP, you/PRP, already/RB, erm/VBP, expert/NN, enough/RB, ?/.]","(ROOT (S (INTJ (UH Yes)) (, ,) (ADVP (CC but)) (VP (VBP are) (SBAR (S (NP (PRP you)) (ADVP (RB already)) (VP (VBP erm) (NP (NN expert)) (ADVP (RB enough)))))) (. ?)))"
+3308,"(43, 44)","Well , it 's ,alrea- I mean  ","[Well/RB, ,/,, it/PRP, 's/VBZ, ,alrea-/JJ, I/PRP, mean/VBP]","(ROOT (S (ADVP (RB Well)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ ,alrea-) (SBAR (S (NP (PRP I)) (VP (VBP mean))))))))"
+3308,"(45,)", deal with eh ?,"[deal/NN, with/IN, eh/UH, ?/.]",(ROOT (NP (NP (NN deal)) (PP (IN with) (NP (INTJ (UH eh)))) (. ?)))
+3308,"(46,)","Eh , or , or , anything or public relations on art or something that you know .","[Eh/UH, ,/,, or/CC, ,/,, or/CC, ,/,, anything/NN, or/CC, public/JJ, relations/NNS, on/IN, art/NN, or/CC, something/NN, that/IN, you/PRP, know/VBP, ./.]","(ROOT (S (INTJ (UH Eh)) (, ,) (ADVP (CC or)) (, ,) (ADVP (CC or)) (, ,) (NP (NP (NN anything) (CC or) (JJ public) (NNS relations)) (PP (IN on) (NP (NP (NN art) (CC or) (NN something)) (PP (IN that) (NP (PRP you)))))) (VP (VBP know)) (. .)))"
+3308,"(47,)","No I don 't think I am , no I 'm not an expert , just say well   you know , you know .","[No/DT, I/PRP, don/VBP, 't/PRP, think/VB, I/PRP, am/VBP, ,/,, no/DT, I/PRP, 'm/VBP, not/RB, an/DT, expert/NN, ,/,, just/RB, say/VB, well/RB, you/PRP, know/VBP, ,/,, you/PRP, know/VBP, ./.]","(ROOT (S (S (NP (DT No) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (VBP am) (PRN (, ,) (S (NP (DT no) (PRP I)) (VP (VBP 'm) (RB not) (NP (DT an) (NN expert)))) (, ,)))))))))) (ADVP (RB just)) (VP (VB say) (S (ADVP (RB well)) (NP (PRP you)) (VP (VBP know))))) (, ,) (NP (PRP you)) (VP (VBP know)) (. .)))"
+3308,"(48,)",Aha .,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
+3308,"(49,)",Yeah you  ,"[Yeah/UH, you/PRP]",(ROOT (S (VP (UH Yeah) (NP (PRP you)))))
+3308,"(50,)","But erm , you know , where , a way to get , do some marketing to get flights into , more like , you know , Italy ,  , try to get people to buy work of art for you","[But/CC, erm/NN, ,/,, you/PRP, know/VBP, ,/,, where/WRB, ,/,, a/DT, way/NN, to/TO, get/VB, ,/,, do/VB, some/DT, marketing/NN, to/TO, get/VB, flights/NNS, into/IN, ,/,, more/JJR, like/IN, ,/,, you/PRP, know/VBP, ,/,, Italy/NNP, ,/,, ,/,, try/VB, to/TO, get/VB, people/NNS, to/TO, buy/VB, work/NN, of/IN, art/NN, for/IN, you/PRP]","(ROOT (S (CC But) (PRN (S (NP (NN erm)) (, ,) (NP (PRP you)) (VP (VBP know))) (, ,)) (SBAR (WHADVP (WRB where)) (, ,) (S (NP (DT a) (NN way)) (VP (TO to) (VP (VP (VB get)) (, ,) (VP (VB do) (NP (DT some) (NN marketing) (S (VP (TO to) (VP (VB get) (NP (NNS flights)) (PP (IN into))))))) (, ,) (NP (NP (JJR more)) (PP (IN like))))))) (, ,) (NP (PRP you)) (VP (VBP know) (, ,) (S (NP (NNP Italy) (, ,)) (, ,) (VP (VB try) (S (VP (TO to) (VP (VB get) (S (NP (NNS people)) (VP (TO to) (VP (VB buy) (NP (NP (NN work)) (PP (IN of) (NP (NN art)))) (PP (IN for) (NP (PRP you))))))))))))))"
+3308,"(51,)",Mhm yeah .,"[Mhm/NNP, yeah/UH, ./.]",(ROOT (S (VP (PP (NNP Mhm) (NP (UH yeah)))) (. .)))
+3308,"(52,)","beginning to erm , intermediate person you doing .","[beginning/VBG, to/TO, erm/NN, ,/,, intermediate/JJ, person/NN, you/PRP, doing/VBG, ./.]","(ROOT (FRAG (S (VP (VBG beginning) (PP (TO to) (NP (NN erm))))) (, ,) (NP (NP (JJ intermediate) (NN person)) (SBAR (S (NP (PRP you)) (VP (VBG doing))))) (. .)))"
+3308,"(53,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+3308,"(54,)",You have develop sort of .,"[You/PRP, have/VBP, develop/VB, sort/NN, of/IN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP have) (S (VP (VB develop) (ADVP (NN sort) (IN of))))) (. .)))
+3308,"(55,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+3308,"(56,)",,[],X
+3308,"(57,)",,[],X
+3308,"(58,)",So it sounds really interesting .,"[So/IN, it/PRP, sounds/VBZ, really/RB, interesting/JJ, ./.]",(ROOT (S (IN So) (NP (PRP it)) (VP (VBZ sounds) (ADJP (RB really) (JJ interesting))) (. .)))
+3308,"(59,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+3308,"(60,)",No   .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+3308,"(61,)",,[],X
+3308,"(62,)",You still have your cooker ?,"[You/PRP, still/RB, have/VBP, your/PRP$, cooker/NN, ?/.]",(ROOT (S (NP (PRP You)) (ADVP (RB still)) (VP (VBP have) (NP (PRP$ your) (NN cooker))) (. ?)))
+3308,"(63,)","No , no .","[No/DT, ,/,, no/DT, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (DT no)) (. .)))"
+3308,"(64,)","No , so your mother cooks when she comes home ?","[No/DT, ,/,, so/RB, your/PRP$, mother/NN, cooks/NNS, when/WRB, she/PRP, comes/VBZ, home/NN, ?/.]","(ROOT (NP (NP (NP (DT No)) (, ,) (RB so) (NP (NP (PRP$ your) (NN mother) (NNS cooks)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ comes) (NP (NN home))))))) (. ?)))"
+3308,"(65,)",Well at night   .,"[Well/RB, at/IN, night/NN, ./.]",(ROOT (FRAG (PP (ADVP (RB Well)) (IN at) (NP (NN night))) (. .)))
+3308,"(66,)",You have had a good   ?,"[You/PRP, have/VBP, had/VBD, a/DT, good/JJ, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP have) (VP (VBD had) (NP (DT a) (JJ good)))) (. ?)))
+3308,"(67,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+3308,"(68,)","Oh yeah , well , he has probably eat nothing even in the day and   .","[Oh/UH, yeah/UH, ,/,, well/RB, ,/,, he/PRP, has/VBZ, probably/RB, eat/VB, nothing/NN, even/RB, in/IN, the/DT, day/NN, and/CC, ./.]","(ROOT (S (INTJ (UH Oh)) (INTJ (INTJ (UH yeah)) (, ,) (INTJ (RB well))) (, ,) (NP (PRP he)) (VP (VBZ has) (ADVP (RB probably)) (S (VP (VB eat) (NP (NN nothing)) (ADVP (RB even)) (PP (IN in) (NP (NP (DT the) (NN day)) (ADVP (CC and))))))) (. .)))"
+3308,"(69,)","  .  .  . I like the way they   like that , you know .","[./., ./., ./., I/PRP, like/VBP, the/DT, way/NN, they/PRP, like/VBP, that/IN, ,/,, you/PRP, know/VBP, ./.]","(ROOT (S (INTJ (. .) (. .)) (. .) (NP (PRP I)) (VP (VBP like) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP they)) (VP (VBP like) (SBAR (IN that) (, ,) (S (NP (PRP you)) (VP (VBP know))))))))) (. .)))"
+3308,"(70,)",,[],X
+3308,"(71,)",  .,[./.],(ROOT (NP (. .)))
+3308,"(72,)","No onions , no onions , much better you   .","[No/DT, onions/NNS, ,/,, no/DT, onions/NNS, ,/,, much/RB, better/JJR, you/PRP, ./.]","(ROOT (NP (NP (DT No) (NNS onions)) (, ,) (NP (DT no) (NNS onions)) (, ,) (NP (NP (RB much) (JJR better)) (NP (PRP you))) (. .)))"
+3308,"(73,)","No , I don 't boil onions , I 'm not , I 've never been a big onions chap .","[No/DT, ,/,, I/PRP, don/VBP, 't/PRP, boil/VB, onions/NNS, ,/,, I/PRP, 'm/VBP, not/RB, ,/,, I/PRP, 've/VBP, never/RB, been/VBN, a/DT, big/JJ, onions/NNS, chap/NN, ./.]","(ROOT (S (S (NP (DT No)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB boil) (NP (NNS onions)))))) (, ,)) (NP (PRP I)) (VP (VBP 'm) (RB not))) (, ,) (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN been) (NP (DT a) (JJ big) (NNS onions) (NN chap)))) (. .)))"
+3308,"(74,)","No ,  .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"
+3308,"(75,)",You   .,"[You/PRP, ./.]",(ROOT (FRAG (NP (PRP You)) (. .)))
+3308,"(76,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+3308,"(77,)",Really ?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
+3308,"(78,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))

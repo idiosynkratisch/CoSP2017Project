@@ -1,0 +1,28 @@
+6711,"(0,)",Pardon ?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+6711,"(1,)",,[],X
+6711,"(2,)",I 'm going to have a bath now .,"[I/PRP, 'm/VBP, going/VBG, to/TO, have/VB, a/DT, bath/NN, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN bath)) (ADVP (RB now))))))) (. .)))
+6711,"(3,)",Go and get all your toys and bring them back inside .,"[Go/VB, and/CC, get/VB, all/DT, your/PRP$, toys/NNS, and/CC, bring/VB, them/PRP, back/RB, inside/RB, ./.]",(ROOT (S (VP (VP (VB Go) (CC and) (VB get) (NP (DT all) (PRP$ your) (NNS toys))) (CC and) (VP (VB bring) (NP (PRP them)) (ADVP (RB back) (RB inside)))) (. .)))
+6711,"(4,)",I don 't want to ,"[I/PRP, don/VBP, 't/PRP, want/VB, to/TO]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (PP (TO to)))))))
+6711,"(5,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+6711,"(6,)",I want your skates and your skateboard inside please .,"[I/PRP, want/VBP, your/PRP$, skates/NNS, and/CC, your/PRP$, skateboard/NN, inside/IN, please/UH, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP want) (NP (NP (PRP$ your) (NNS skates)) (CC and) (NP (NP (PRP$ your) (NN skateboard)) (PP (IN inside) (NP (UH please)))))) (. .)))
+6711,"(7,)",,[],X
+6711,"(8,)",Bring them indoors please .,"[Bring/VB, them/PRP, indoors/RB, please/VB, ./.]",(ROOT (S (VP (VB Bring) (NP (PRP them)) (ADVP (RB indoors)) (VP (VB please))) (. .)))
+6711,"(9,)",I don 't want to .,"[I/PRP, don/VBP, 't/PRP, want/VB, to/TO, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (PP (TO to))))) (. .)))
+6711,"(10,)",Oliver !,"[Oliver/NNP, !/.]",(ROOT (FRAG (NP (NNP Oliver)) (. !)))
+6711,"(11,)",Come on darling now be a good boy .,"[Come/VB, on/IN, darling/NN, now/RB, be/VB, a/DT, good/JJ, boy/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN darling)) (ADVP (RB now))) (S (VP (VB be) (NP (DT a) (JJ good) (NN boy))))) (. .)))
+6711,"(12,)",Now pick up the skateboard .,"[Now/RB, pick/VB, up/RP, the/DT, skateboard/NN, ./.]",(ROOT (S (ADVP (RB Now)) (VP (VB pick) (PRT (RP up)) (NP (DT the) (NN skateboard))) (. .)))
+6711,"(13,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+6711,"(14,)",Come on .,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+6711,"(15,)",Pick it up .,"[Pick/VB, it/PRP, up/RP, ./.]",(ROOT (S (VP (VB Pick) (NP (PRP it)) (PRT (RP up))) (. .)))
+6711,"(16,)",,[],X
+6711,"(17,)",Come on pick it up .,"[Come/VB, on/IN, pick/NN, it/PRP, up/RP, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN pick)) (NP (NP (PRP it)) (ADVP (RP up))))) (. .)))
+6711,"(18,)", here you are .,"[here/RB, you/PRP, are/VBP, ./.]",(ROOT (S (ADVP (RB here)) (NP (PRP you)) (VP (VBP are)) (. .)))
+6711,"(19,)",Oliver now come on darling be a good boy give me that .,"[Oliver/NNP, now/RB, come/VBP, on/IN, darling/NN, be/VB, a/DT, good/JJ, boy/NN, give/VB, me/PRP, that/IN, ./.]",(ROOT (S (NP (NNP Oliver)) (ADVP (RB now)) (VP (VBP come) (PP (IN on) (NP (NN darling))) (S (VP (VB be) (NP (DT a) (JJ good) (NN boy) (S (VP (VB give) (S (NP (PRP me)) (ADJP (IN that))))))))) (. .)))
+6711,"(20,)",,[],X
+6711,"(21,)",Now you 're coming in now because we 're going to have a bath and we 're going out .,"[Now/RB, you/PRP, 're/VBP, coming/VBG, in/IN, now/RB, because/IN, we/PRP, 're/VBP, going/VBG, to/TO, have/VB, a/DT, bath/NN, and/CC, we/PRP, 're/VBP, going/VBG, out/RP, ./.]",(ROOT (S (S (ADVP (RB Now)) (NP (PRP you)) (VP (VBP 're) (VP (VBG coming) (PP (IN in) (NP (RB now))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN bath)))))))))))) (CC and) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (PRT (RP out))))) (. .)))
+6711,"(22,)",Now will you pick this up for me ?,"[Now/RB, will/MD, you/PRP, pick/VB, this/DT, up/RP, for/IN, me/PRP, ?/.]",(ROOT (FRAG (SBAR (RB Now) (SINV (MD will) (NP (PRP you)) (VP (VB pick) (NP (DT this)) (PRT (RP up)) (PP (IN for) (NP (PRP me)))))) (. ?)))
+6711,"(23,)",Pick it up now !,"[Pick/VB, it/PRP, up/RB, now/RB, !/.]",(ROOT (S (VP (VB Pick) (NP (PRP it)) (ADVP (RB up) (RB now))) (. !)))
+6711,"(24,)",Oliver in a moment I 'm going to get very angry with you .,"[Oliver/NNP, in/IN, a/DT, moment/NN, I/PRP, 'm/VBP, going/VBG, to/TO, get/VB, very/RB, angry/JJ, with/IN, you/PRP, ./.]",(ROOT (S (NP (NNP Oliver)) (PP (IN in) (NP (DT a) (NN moment))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB get) (ADJP (RB very) (JJ angry)) (PP (IN with) (NP (PRP you)))))))) (. .)))
+6711,"(25,)",Now pick this pick it up now !,"[Now/RB, pick/VB, this/DT, pick/NN, it/PRP, up/RB, now/RB, !/.]",(ROOT (SQ (VP (ADVP (RB Now)) (VB pick) (S (NP (DT this) (NN pick)) (NP (PRP it))) (ADVP (RB up) (RB now))) (. !)))
+6711,"(26,)",Now go and get your skates now .,"[Now/RB, go/VB, and/CC, get/VB, your/PRP$, skates/NNS, now/RB, ./.]",(ROOT (S (ADVP (RB Now)) (VP (VP (VB go)) (CC and) (VP (VB get) (NP (PRP$ your) (NNS skates)) (ADVP (RB now)))) (. .)))
+6711,"(27,)",Go and get your skates now !,"[Go/VB, and/CC, get/VB, your/PRP$, skates/NNS, now/RB, !/.]",(ROOT (SQ (VP (VB Go) (CC and) (VB get) (NP (PRP$ your) (NNS skates)) (ADVP (RB now))) (. !)))

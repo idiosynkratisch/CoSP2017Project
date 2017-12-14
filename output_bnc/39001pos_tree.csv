@@ -1,0 +1,8 @@
+39001,"(0,)",They look rather nice don 't they ?,"[They/PRP, look/VBP, rather/RB, nice/JJ, don/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP look) (ADJP (RB rather) (JJ nice)) (S (VP (NNP don) (S (NP (PRP 't)) (NP (PRP they)))))) (. ?)))
+39001,"(1, 2)", great grandfather    a big house,"[great/JJ, grandfather/NN, a/DT, big/NNP, house/NNP]",(ROOT (NP (NP (JJ great) (NN grandfather)) (NP (DT a) (NNP big) (NNP house))))
+39001,"(3,)",,[],X
+39001,"(4,)",before he was married his employer   pictures off the wall and gave them to him,"[before/IN, he/PRP, was/VBD, married/VBN, his/PRP$, employer/NN, pictures/NNS, off/IN, the/DT, wall/NN, and/CC, gave/VBD, them/PRP, to/TO, him/PRP]",(ROOT (SBAR (IN before) (S (NP (PRP he)) (VP (VP (VBD was) (VP (VBN married) (NP (PRP$ his) (NN employer) (NNS pictures)) (PP (IN off) (NP (DT the) (NN wall))))) (CC and) (VP (VBD gave) (NP (PRP them)) (PP (TO to) (NP (PRP him))))))))
+39001,"(5,)",Gosh,[Gosh/NNP],(ROOT (NP (NNP Gosh)))
+39001,"(6,)",as a wedding present,"[as/IN, a/DT, wedding/NN, present/JJ]",(ROOT (FRAG (SBAR (IN as) (S (NP (DT a) (NN wedding)) (ADJP (JJ present))))))
+39001,"(7,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+39001,"(8,)",m,[m/NN],(ROOT (NP (NN m)))

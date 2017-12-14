@@ -1,0 +1,12 @@
+11704,"(0, 1)","Fucking twenty five to three  clamped up fucking arsehole , about to stick one on tramp .","[Fucking/VBG, twenty/CD, five/CD, to/TO, three/CD, clamped/VBN, up/RP, fucking/JJ, arsehole/NN, ,/,, about/IN, to/TO, stick/VB, one/CD, on/IN, tramp/NNP, ./.]","(ROOT (S (S (VP (VBG Fucking) (NP (CD twenty) (CD five)) (PP (TO to) (NP (CD three))))) (VP (VBN clamped) (PRT (RP up)) (NP (NP (JJ fucking) (NN arsehole)) (, ,) (VP (IN about) (S (VP (TO to) (VP (VB stick) (NP (CD one)) (PP (IN on) (NP (NNP tramp))))))))) (. .)))"
+11704,"(2,)","Yeah , don 't let him get that close to me .","[Yeah/UH, ,/,, don/NNP, 't/PRP, let/VBD, him/PRP, get/VB, that/DT, close/JJ, to/TO, me/PRP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (NNP don) (PRP 't)) (VP (VBD let) (S (NP (PRP him)) (VP (VB get) (S (NP (DT that)) (ADJP (JJ close) (PP (TO to) (NP (PRP me)))))))) (. .)))"
+11704,"(3,)","No , alright then .","[No/DT, ,/,, alright/JJ, then/RB, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (JJ alright) (RB then)) (. .)))"
+11704,"(4,)","Fuck off , the lot of ya .","[Fuck/VB, off/RP, ,/,, the/DT, lot/NN, of/IN, ya/PRP, ./.]","(ROOT (S (VP (VP (VB Fuck) (PRT (RP off))) (, ,) (NP (NP (DT the) (NN lot)) (PP (IN of) (NP (PRP ya))))) (. .)))"
+11704,"(5,)",We all gonna have a little sing a song   .,"[We/PRP, all/DT, gonna/NNS, have/VBP, a/DT, little/JJ, sing/VB, a/DT, song/NN, ./.]",(ROOT (S (NP (PRP We)) (NP (DT all) (NNS gonna)) (VP (VBP have) (S (NP (DT a) (JJ little)) (VP (VB sing) (NP (DT a) (NN song))))) (. .)))
+11704,"(6,)",I have been .,"[I/PRP, have/VBP, been/VBN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have) (VP (VBN been))) (. .)))
+11704,"(7,)",Have yeah .,"[Have/VB, yeah/UH, ./.]",(ROOT (S (VP (VB Have) (NP (UH yeah))) (. .)))
+11704,"(8,)",  .,[./.],(ROOT (NP (. .)))
+11704,"(9,)","Yeah , where have you been ?","[Yeah/UH, ,/,, where/WRB, have/VBP, you/PRP, been/VBN, ?/.]","(ROOT (SBARQ (WHADVP (UH Yeah)) (, ,) (WHADVP (WRB where)) (SQ (VBP have) (NP (PRP you)) (VP (VBN been))) (. ?)))"
+11704,"(10,)",It 's been   .  .,"[It/PRP, 's/VBZ, been/VBN, ./., ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN been))) (. .) (. .)))
+11704,"(11,)",I 've been having   .,"[I/PRP, 've/VBP, been/VBN, having/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG having)))) (. .)))
+11704,"(12,)","Ah , right .","[Ah/NN, ,/,, right/NN, ./.]","(ROOT (NP (NP (NN Ah)) (, ,) (NP (NN right)) (. .)))"

@@ -1,0 +1,8 @@
+2326,"(0,)",Quite incredible .,"[Quite/RB, incredible/JJ, ./.]",(ROOT (FRAG (NP (RB Quite) (JJ incredible)) (. .)))
+2326,"(1,)",Cos of me .,"[Cos/NN, of/IN, me/PRP, ./.]",(ROOT (NP (NP (NN Cos)) (PP (IN of) (NP (PRP me))) (. .)))
+2326,"(2,)",It 's not   .,"[It/PRP, 's/VBZ, not/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not)) (. .)))
+2326,"(3,)",,[],X
+2326,"(4,)",,[],X
+2326,"(5,)",No we 're not in the woods proper here .,"[No/DT, we/PRP, 're/VBP, not/RB, in/IN, the/DT, woods/NNS, proper/JJ, here/RB, ./.]",(ROOT (S (NP (DT No) (PRP we)) (VP (VBP 're) (ADVP (RB not) (PP (IN in) (NP (DT the) (NNS woods)))) (ADJP (JJ proper)) (ADVP (RB here))) (. .)))
+2326,"(6,)",This is   woods .,"[This/DT, is/VBZ, woods/NNS, ./.]",(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NNS woods))) (. .)))
+2326,"(7,)",,[],X

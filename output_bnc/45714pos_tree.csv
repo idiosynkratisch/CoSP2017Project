@@ -1,0 +1,8 @@
+45714,"(0,)",What Jean ?,"[What/WDT, Jean/NN, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NN Jean)) (. ?)))
+45714,"(1,)",Jean !,"[Jean/NNP, !/.]",(ROOT (FRAG (NP (NNP Jean)) (. !)))
+45714,"(2,)",Aye .,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
+45714,"(3,)",What did you say ?,"[What/WP, did/VBD, you/PRP, say/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP you)) (VP (VB say))) (. ?)))
+45714,"(4,)",,[],X
+45714,"(5, 6)",No it 's the best er  medicine for you .,"[No/DT, it/PRP, 's/VBZ, the/DT, best/JJS, er/NN, medicine/NN, for/IN, you/PRP, ./.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (NP (NP (DT the) (JJS best) (NN er) (NN medicine)) (PP (IN for) (NP (PRP you))))) (. .)))
+45714,"(7,)",You come in and I 'll do it .,"[You/PRP, come/VBP, in/IN, and/CC, I/PRP, 'll/MD, do/VB, it/PRP, ./.]",(ROOT (S (S (NP (PRP You)) (VP (VBP come) (PP (IN in)))) (CC and) (S (NP (PRP I)) (VP (MD 'll) (VP (VB do) (NP (PRP it))))) (. .)))
+45714,"(8, 9)", Excuse me !,"[Excuse/VB, me/PRP, !/.]",(ROOT (S (VP (VB Excuse) (NP (PRP me))) (. !)))

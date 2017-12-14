@@ -1,0 +1,7 @@
+61605,"(0,)",Disgusting !,"[Disgusting/VBG, !/.]",(ROOT (S (VP (VBG Disgusting)) (. !)))
+61605,"(1,)",Shut up yourself !,"[Shut/VBN, up/RP, yourself/PRP, !/.]",(ROOT (S (VP (VBN Shut) (PRT (RP up)) (NP (PRP yourself))) (. !)))
+61605,"(2,)",I 'm trying to watch this !,"[I/PRP, 'm/VBP, trying/VBG, to/TO, watch/VB, this/DT, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG trying) (S (VP (TO to) (VP (VB watch) (NP (DT this))))))) (. !)))
+61605,"(3,)",Shut up !,"[Shut/VBN, up/RP, !/.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. !)))
+61605,"(4,)","No , I can 't do your homework !","[No/DT, ,/,, I/PRP, can/MD, 't/PRP, do/VB, your/PRP$, homework/NN, !/.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP I)) (VP (MD can)))) (NP (PRP 't)) (VP (VB do) (NP (PRP$ your) (NN homework))) (. !)))"
+61605,"(5,)",You could do my homework please !,"[You/PRP, could/MD, do/VB, my/PRP$, homework/NN, please/VB, !/.]",(ROOT (S (NP (PRP You)) (VP (MD could) (VP (VB do) (S (NP (PRP$ my) (NN homework)) (VP (VB please))))) (. !)))
+61605,"(6,)",  !,[!/.],(ROOT (NP (. !)))

@@ -1,0 +1,23 @@
+45705,"(0, 1, 2)","Jean , that er  antique fair should be on  this month .","[Jean/NNP, ,/,, that/WDT, er/NN, antique/NN, fair/NN, should/MD, be/VB, on/IN, this/DT, month/NN, ./.]","(ROOT (FRAG (NP (NNP Jean)) (, ,) (SBAR (WHNP (WDT that)) (S (NP (NN er) (NN antique) (NN fair)) (VP (MD should) (VP (VB be) (PP (IN on) (NP (DT this) (NN month))))))) (. .)))"
+45705,"(3,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+45705,"(4,)",Do you wanna,"[Do/VB, you/PRP, wanna/NNP]",(ROOT (S (VP (VB Do) (S (NP (PRP you)) (NP (NNP wanna))))))
+45705,"(5,)",It is soon ?,"[It/PRP, is/VBZ, soon/RB, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB soon))) (. ?)))
+45705,"(6,)",I would imagine that it 's very soon .,"[I/PRP, would/MD, imagine/VB, that/IN, it/PRP, 's/VBZ, very/RB, soon/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB imagine) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB very) (RB soon))))))) (. .)))
+45705,"(7,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+45705,"(8,)",Should be near enough next Saturday .,"[Should/MD, be/VB, near/IN, enough/JJ, next/JJ, Saturday/NNP, ./.]",(ROOT (S (VP (MD Should) (VP (VB be) (PP (IN near) (ADJP (JJ enough))) (NP (JJ next) (NNP Saturday)))) (. .)))
+45705,"(9, 10)",Will it be as  close as that ?,"[Will/MD, it/PRP, be/VB, as/RB, close/RB, as/IN, that/IN, ?/.]",(ROOT (SQ (MD Will) (NP (PRP it)) (VP (VB be) (ADJP (ADVP (RB as) (RB close)) (SBAR (IN as) (FRAG (WHADVP (IN that)))))) (. ?)))
+45705,"(11,)",I would say so .,"[I/PRP, would/MD, say/VB, so/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB say) (ADVP (RB so)))) (. .)))
+45705,"(12,)","Ah , the first Saturday in every month .","[Ah/NN, ,/,, the/DT, first/JJ, Saturday/NNP, in/IN, every/DT, month/NN, ./.]","(ROOT (NP (NP (NN Ah)) (, ,) (NP (NP (DT the) (JJ first) (NNP Saturday)) (PP (IN in) (NP (DT every) (NN month)))) (. .)))"
+45705,"(13,)",It 's your first Saturday going .,"[It/PRP, 's/VBZ, your/PRP$, first/JJ, Saturday/NNP, going/VBG, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (PRP$ your) (JJ first) (NNP Saturday)) (VP (VBG going)))) (. .)))
+45705,"(14,)",I 'm supposed to be going on the third .,"[I/PRP, 'm/VBP, supposed/VBN, to/TO, be/VB, going/VBG, on/IN, the/DT, third/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (VP (VBG going) (PP (IN on) (NP (DT the) (JJ third))))))))) (. .)))
+45705,"(15,)",,[],X
+45705,"(16,)","Aye , maybe that 's what it is .","[Aye/NNP, ,/,, maybe/RB, that/DT, 's/VBZ, what/WP, it/PRP, is/VBZ, ./.]","(ROOT (S (NP (NNP Aye)) (, ,) (ADVP (RB maybe)) (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is))))) (. .)))"
+45705,"(17,)"," Bum bum , bum bum bum   !","[Bum/NNP, bum/NNP, ,/,, bum/NNP, bum/NNP, bum/NNP, !/.]","(ROOT (NP (NP (NNP Bum) (NNP bum)) (, ,) (NP (NNP bum) (NNP bum) (NNP bum)) (. !)))"
+45705,"(18,)", Urgh !,"[Urgh/NN, !/.]",(ROOT (NP (NN Urgh) (. !)))
+45705,"(19,)",God !,"[God/NNP, !/.]",(ROOT (FRAG (NP (NNP God)) (. !)))
+45705,"(20,)",I 'm tired   .,"[I/PRP, 'm/VBP, tired/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ tired))) (. .)))
+45705,"(21,)",Sure you are from half five this morning .,"[Sure/JJ, you/PRP, are/VBP, from/IN, half/DT, five/CD, this/DT, morning/NN, ./.]",(ROOT (S (ADVP (JJ Sure)) (NP (PRP you)) (VP (VBP are) (PP (IN from) (NP (NP (QP (DT half) (CD five))) (NP (DT this) (NN morning))))) (. .)))
+45705,"(22,)","I don 't like your man there , that politician !","[I/PRP, don/VBP, 't/PRP, like/VB, your/PRP$, man/NN, there/RB, ,/,, that/IN, politician/NN, !/.]","(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB like) (NP (PRP$ your) (NN man)) (ADVP (RB there)) (, ,) (PP (IN that) (NP (NN politician)))))) (. !)))"
+45705,"(23,)",Say he 's very hot tempered .,"[Say/VB, he/PRP, 's/VBZ, very/RB, hot/JJ, tempered/VBN, ./.]",(ROOT (S (VP (VB Say) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (ADJP (RB very) (JJ hot)) (S (VP (VBN tempered))))))) (. .)))
+45705,"(24,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+45705,"(25,)",Aargh !,"[Aargh/RB, !/.]",(ROOT (FRAG (ADVP (RB Aargh)) (. !)))

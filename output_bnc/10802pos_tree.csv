@@ -1,0 +1,22 @@
+10802,"(0,)","Tony , your office isn 't in there .","[Tony/NNP, ,/,, your/PRP$, office/NN, isn/NN, 't/PRP, in/IN, there/RB, ./.]","(ROOT (NP (NP (NNP Tony)) (, ,) (NP (NP (PRP$ your) (NN office) (NN isn)) (NP (NP (PRP 't)) (PP (IN in) (NP (RB there))))) (. .)))"
+10802,"(1,)", I thought they 'd hidden me away in a cupboard .,"[I/PRP, thought/VBD, they/PRP, 'd/MD, hidden/VBN, me/PRP, away/RP, in/IN, a/DT, cupboard/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (MD 'd) (VP (VBN hidden) (NP (PRP me)) (PRT (RP away)) (PP (IN in) (NP (DT a) (NN cupboard)))))))) (. .)))
+10802,"(2,)",Hello   .,"[Hello/UH, ./.]",(ROOT (INTJ (UH Hello) (. .)))
+10802,"(3,)",Hello .,"[Hello/UH, ./.]",(ROOT (INTJ (UH Hello) (. .)))
+10802,"(4,)",,[],X
+10802,"(5,)",I think it 's   to that one,"[I/PRP, think/VBP, it/PRP, 's/VBZ, to/TO, that/DT, one/CD]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (TO to) (NP (DT that) (CD one)))))))))
+10802,"(6,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+10802,"(7,)",cos er and if you say for all enquiries please call that .,"[cos/NNP, er/NN, and/CC, if/IN, you/PRP, say/VBP, for/IN, all/DT, enquiries/NNS, please/VB, call/VB, that/DT, ./.]",(ROOT (S (NP (NP (NNP cos)) (UCP (NP (NN er)) (CC and) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP say) (PP (IN for) (NP (DT all) (NNS enquiries)))))))) (VP (VB please) (VP (VB call) (NP (DT that)))) (. .)))
+10802,"(8, 9)",They  ,[They/PRP],(ROOT (FRAG (NP (PRP They))))
+10802,"(10,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+10802,"(11,)",They do actually call that,"[They/PRP, do/VBP, actually/RB, call/VB, that/IN]",(ROOT (S (NP (PRP They)) (VP (VBP do) (ADVP (RB actually)) (VP (VB call) (ADVP (IN that))))))
+10802,"(12,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+10802,"(13,)",still don 't know that this isn 't   office   .,"[still/RB, don/NNP, 't/PRP, know/VBP, that/IN, this/DT, isn/NN, 't/PRP, office/NN, ./.]",(ROOT (S (ADVP (RB still)) (NP (NNP don) (PRP 't)) (VP (VBP know) (ADVP (IN that) (NP (DT this) (NN isn))) (NP (PRP 't) (NN office))) (. .)))
+10802,"(14,)",Good .,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))
+10802,"(15,)",,[],X
+10802,"(16,)",Thank you very much for   .,"[Thank/VB, you/PRP, very/RB, much/RB, for/IN, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much)) (PP (IN for))) (. .)))
+10802,"(17,)",It was really nice .,"[It/PRP, was/VBD, really/RB, nice/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (RB really) (JJ nice))) (. .)))
+10802,"(18,)",Pleasure .,"[Pleasure/NN, ./.]",(ROOT (NP (NN Pleasure) (. .)))
+10802,"(19,)",,[],X
+10802,"(20, 21)",Well  can we deal with any of their enquiries ?,"[Well/RB, can/MD, we/PRP, deal/VB, with/IN, any/DT, of/IN, their/PRP$, enquiries/NNS, ?/.]",(ROOT (SBARQ (WHADVP (RB Well)) (SQ (MD can) (NP (PRP we)) (VP (VB deal) (PP (IN with) (NP (NP (DT any)) (PP (IN of) (NP (PRP$ their) (NNS enquiries))))))) (. ?)))
+10802,"(22,)",I don 't know ,"[I/PRP, don/VBP, 't/PRP, know/VB]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))))
+10802,"(23,)",,[],X

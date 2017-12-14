@@ -1,0 +1,32 @@
+2312,"(0,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2312,"(1,)",,[],X
+2312,"(2,)",Yes please .,"[Yes/UH, please/UH, ./.]",(ROOT (S (INTJ (UH Yes)) (VP (UH please)) (. .)))
+2312,"(3,)",Super .,"[Super/NNP, ./.]",(ROOT (FRAG (NP (NNP Super)) (. .)))
+2312,"(4,)",,[],X
+2312,"(5,)","I didn 't even write that one in the enquiry book , I 'll do it now , now the values come down a bit .","[I/PRP, didn/VBP, 't/PRP, even/RB, write/VB, that/IN, one/CD, in/IN, the/DT, enquiry/NN, book/NN, ,/,, I/PRP, 'll/MD, do/VB, it/PRP, now/RB, ,/,, now/RB, the/DT, values/NNS, come/VBP, down/RP, a/DT, bit/NN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP didn) (SBAR (S (NP (PRP 't)) (ADVP (RB even)) (VP (VB write) (SBAR (IN that) (S (PP (NP (CD one)) (IN in) (NP (DT the) (NN enquiry) (NN book))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB do) (NP (PRP it)) (ADVP (RB now))))))))))) (, ,) (ADVP (RB now)) (S (NP (DT the) (NNS values)) (VP (VBP come) (PRT (RP down)) (NP (DT a) (NN bit)))) (. .)))"
+2312,"(6,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+2312,"(7,)","Gosh , twelve orders are made out of it .","[Gosh/NNP, ,/,, twelve/CD, orders/NNS, are/VBP, made/VBN, out/IN, of/IN, it/PRP, ./.]","(ROOT (S (NP (NP (NNP Gosh)) (, ,) (NP (CD twelve) (NNS orders))) (VP (VBP are) (VP (VBN made) (PRT (IN out)) (PP (IN of) (NP (PRP it))))) (. .)))"
+2312,"(8,)",Can 't recall when we last had as many as that .,"[Can/MD, 't/PRP, recall/VB, when/WRB, we/PRP, last/RB, had/VBD, as/IN, many/JJ, as/IN, that/DT, ./.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB recall) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (ADVP (RB last)) (VP (VBD had) (NP (NP (IN as) (JJ many)) (PP (IN as) (NP (DT that)))))))) (. .)))
+2312,"(9,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+2312,"(10,)",Even   .,"[Even/RB, ./.]",(ROOT (FRAG (ADVP (RB Even)) (. .)))
+2312,"(11,)", Well we 'll except a,"[Well/RB, we/PRP, 'll/MD, except/VB, a/DT]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP we)) (SBAR (S (VP (MD 'll) (VP (VB except) (NP (DT a)))))))))
+2312,"(12,)",Where 's he going wrong ?,"[Where/WRB, 's/POS, he/PRP, going/VBG, wrong/JJ, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (PRP he)) (VP (VBG going) (ADJP (JJ wrong)))) (. ?)))
+2312,"(13,)",I thought I was superstition and not writing in the   .,"[I/PRP, thought/VBD, I/PRP, was/VBD, superstition/NN, and/CC, not/RB, writing/VBG, in/IN, the/DT, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (VBD was) (NP (NN superstition))))))) (CC and) (RB not) (S (VP (VBG writing) (PP (IN in) (NP (DT the))))) (. .)))
+2312,"(14,)","Yes , yes I think you could be well be right there Lynda .","[Yes/UH, ,/,, yes/UH, I/PRP, think/VBP, you/PRP, could/MD, be/VB, well/RB, be/VB, right/RB, there/RB, Lynda/NNP, ./.]","(ROOT (S (S (INTJ (UH Yes) (, ,) (UH yes)) (NP (PRP I)) (VP (VBP think))) (NP (PRP you)) (VP (MD could) (VP (VB be) (ADVP (RB well) (S (VP (VB be) (ADJP (RB right)) (NP (RB there) (NNP Lynda))))))) (. .)))"
+2312,"(15,)",You think it 's superstition do you ?,"[You/PRP, think/VBP, it/PRP, 's/VBZ, superstition/NN, do/VBP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN superstition)) (SBAR (S (VP (VBP do) (NP (PRP you)))))))))) (. ?)))
+2312,"(16,)",,[],X
+2312,"(17,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2312,"(18,)",,[],X
+2312,"(19,)",,[],X
+2312,"(20, 21)",Yes I 'm sorry to have  ,"[Yes/UH, I/PRP, 'm/VBP, sorry/JJ, to/TO, have/VB]",(ROOT (SBAR (UH Yes) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry) (S (VP (TO to) (VP (VB have)))))))))
+2312,"(22,)",Not wishing to waste the ink .,"[Not/RB, wishing/VBG, to/TO, waste/VB, the/DT, ink/NN, ./.]",(ROOT (S (VP (RB Not) (S (VP (VBG wishing) (S (VP (TO to) (VP (VB waste) (NP (DT the) (NN ink)))))))) (. .)))
+2312,"(23,)","We 're , we 're six thousand seven hundred pounds short of last year 's total .","[We/PRP, 're/VBP, ,/,, we/PRP, 're/VBP, six/CD, thousand/CD, seven/CD, hundred/CD, pounds/NNS, short/JJ, of/IN, last/JJ, year/NN, 's/POS, total/NN, ./.]","(ROOT (S (S (NP (PRP We)) (VP (VBP 're))) (, ,) (NP (PRP we)) (VP (VBP 're) (NP (NP (NP (QP (CD six) (CD thousand)) (CD seven)) (ADJP (NP (CD hundred) (NNS pounds)) (JJ short))) (PP (IN of) (NP (NP (JJ last) (NN year) (POS 's)) (NN total))))) (. .)))"
+2312,"(24,)","Six thousand , that 's one   .","[Six/CD, thousand/CD, ,/,, that/DT, 's/VBZ, one/CD, ./.]","(ROOT (S (FRAG (NP (CD Six) (CD thousand))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (CD one))) (. .)))"
+2312,"(25,)","Now , do what do we consider   ?","[Now/RB, ,/,, do/VBP, what/WP, do/VBP, we/PRP, consider/VB, ?/.]","(ROOT (S (ADVP (RB Now)) (, ,) (VP (VBP do) (SBAR (WHNP (WP what)) (S (VP (VBP do) (S (NP (PRP we)) (VP (VB consider))))))) (. ?)))"
+2312,"(26, 27)","Yes , I  I want you to add another five percent .","[Yes/UH, ,/,, I/PRP, I/PRP, want/VBP, you/PRP, to/TO, add/VB, another/DT, five/CD, percent/NN, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP I)) (NP (PRP I)) (VP (VBP want) (S (NP (PRP you)) (VP (TO to) (VP (VB add) (NP (DT another) (CD five) (NN percent)))))) (. .)))"
+2312,"(28,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+2312,"(29,)", Well the average is nudging fifty thousand a month Lynda .,"[Well/RB, the/DT, average/NN, is/VBZ, nudging/VBG, fifty/CD, thousand/CD, a/DT, month/NN, Lynda/NNP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (DT the) (NN average)) (VP (VBZ is) (VP (VBG nudging) (NP (CD fifty) (CD thousand)) (NP (NP (DT a) (NN month)) (NP (NNP Lynda))))) (. .)))
+2312,"(30,)",  .,[./.],(ROOT (NP (. .)))
+2312,"(31,)","All we got to do is keep it up , till the contact in   .","[All/DT, we/PRP, got/VBD, to/TO, do/VB, is/VBZ, keep/VB, it/PRP, up/RP, ,/,, till/IN, the/DT, contact/NN, in/IN, ./.]","(ROOT (S (NP (NP (DT All)) (SBAR (S (NP (PRP we)) (VP (VBD got) (S (VP (TO to) (VP (VB do)))))))) (VP (VBZ is) (VP (VB keep) (NP (PRP it)) (PRT (RP up)) (, ,) (PP (IN till) (NP (NP (DT the) (NN contact)) (PP (IN in)))))) (. .)))"
+2312,"(32,)",,[],X
+2312,"(33,)",,[],X

@@ -1,0 +1,28 @@
+5702,"(0,)",Don 't do phone calls .,"[Don/NNP, 't/PRP, do/VBP, phone/NN, calls/NNS, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP do) (NP (NN phone) (NNS calls))) (. .)))
+5702,"(1,)",,[],X
+5702,"(2,)", made your   .,"[made/VBN, your/PRP$, ./.]",(ROOT (S (VP (VBN made) (NP (PRP$ your))) (. .)))
+5702,"(3,)",International Longmans Dictionary .,"[International/NNP, Longmans/NNP, Dictionary/NNP, ./.]",(ROOT (NP (NNP International) (NNP Longmans) (NNP Dictionary) (. .)))
+5702,"(4,)",Really got a thing really .,"[Really/RB, got/VBD, a/DT, thing/NN, really/RB, ./.]",(ROOT (S (NP (ADVP (RB Really))) (VP (VBD got) (NP (DT a) (NN thing)) (ADVP (RB really))) (. .)))
+5702,"(5,)", Have any ?,"[Have/VB, any/DT, ?/.]",(ROOT (SQ (VP (VB Have) (NP (DT any))) (. ?)))
+5702,"(6,)",I think actually ask them .,"[I/PRP, think/VBP, actually/RB, ask/VB, them/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (ADVP (RB actually)) (VP (VB ask) (NP (PRP them)))) (. .)))
+5702,"(7,)","Oh , I see .","[Oh/UH, ,/,, I/PRP, see/VBP, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))"
+5702,"(8,)",Oh we 've been   .,"[Oh/UH, we/PRP, 've/VBP, been/VBN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP we)) (VP (VBP 've) (VP (VBN been)))) (. .)))
+5702,"(9,)",,[],X
+5702,"(10,)",What with the mileage .,"[What/WDT, with/IN, the/DT, mileage/NN, ./.]",(ROOT (FRAG (WHNP (WDT What)) (PP (IN with) (NP (DT the) (NN mileage))) (. .)))
+5702,"(11,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+5702,"(12,)",,[],X
+5702,"(13,)",,[],X
+5702,"(14,)",,[],X
+5702,"(15,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+5702,"(16,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+5702,"(17,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+5702,"(18,)",,[],X
+5702,"(19,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+5702,"(20,)",,[],X
+5702,"(21,)","Yeah that , that 's where you   .","[Yeah/UH, that/IN, ,/,, that/DT, 's/VBZ, where/WRB, you/PRP, ./.]","(ROOT (S (PP (NP (UH Yeah)) (IN that)) (, ,) (NP (DT that)) (VP (VBZ 's) (FRAG (WHADVP (WRB where) (NP (PRP you))))) (. .)))"
+5702,"(22,)", Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+5702,"(23,)"," gonna ring then cos I 'm , I 'm not staying like this .","[gonna/NNP, ring/NN, then/RB, cos/NN, I/PRP, 'm/VBP, ,/,, I/PRP, 'm/VBP, not/RB, staying/VBG, like/IN, this/DT, ./.]","(ROOT (S (S (NP (NP (NNP gonna) (NN ring)) (NP (RB then) (NN cos))) (NP (PRP I)) (VP (VBP 'm))) (, ,) (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG staying) (PP (IN like) (NP (DT this))))) (. .)))"
+5702,"(24,)",,[],X
+5702,"(25,)","Oh alright then ,  .","[Oh/UH, alright/JJ, then/RB, ,/,, ./.]","(ROOT (INTJ (UH Oh) (PP (JJ alright) (NP (NP (RB then)) (, ,))) (. .)))"
+5702,"(26,)", Oh sorry   .,"[Oh/UH, sorry/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB sorry)))) (. .)))
+5702,"(27,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))

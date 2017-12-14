@@ -1,0 +1,17 @@
+62302,"(0,)","Yeah , she needs somebody","[Yeah/UH, ,/,, she/PRP, needs/VBZ, somebody/NN]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP she)) (VP (VBZ needs)) (NN somebody)))"
+62302,"(1,)","She does , yeah .","[She/PRP, does/VBZ, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (PRP She)) (VP (VBZ does))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+62302,"(2,)",to talk to don 't she ?,"[to/TO, talk/VB, to/TO, don/NNP, 't/PRP, she/PRP, ?/.]",(ROOT (S (VP (TO to) (VP (VB talk) (S (VP (TO to) (VP (NNP don) (NP (PRP 't))))) (NP (PRP she)))) (. ?)))
+62302,"(3, 4, 5)","Yeah , she can 't obviously talk to  her husband about it because  George is her ex-husband and he","[Yeah/UH, ,/,, she/PRP, can/MD, 't/PRP, obviously/RB, talk/VBP, to/TO, her/PRP$, husband/NN, about/IN, it/PRP, because/IN, George/NNP, is/VBZ, her/PRP$, ex-husband/NN, and/CC, he/PRP]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (NP (PRP she)) (VP (MD can))) (PRP 't) (S (ADVP (RB obviously)) (VP (VBP talk) (PP (TO to) (NP (NP (PRP$ her) (NN husband)) (PP (IN about) (NP (PRP it))))) (SBAR (IN because) (S (NP (NNP George)) (VP (VBZ is) (NP (NP (PRP$ her) (NN ex-husband)) (CC and) (NP (PRP he))))))))))"
+62302,"(6,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+62302,"(7,)",might get,"[might/MD, get/VB]",(ROOT (FRAG (VP (MD might) (VP (VB get)))))
+62302,"(8,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+62302,"(9, 10)", Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+62302,"(11,)",Eh !,"[Eh/UH, !/.]",(ROOT (INTJ (UH Eh) (. !)))
+62302,"(12,)",It 's the twenty third   .,"[It/PRP, 's/VBZ, the/DT, twenty/CD, third/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT the) (ADJP (CD twenty) (JJ third)))) (. .)))
+62302,"(13,)",Look at all that fish !,"[Look/VB, at/IN, all/DT, that/DT, fish/NN, !/.]",(ROOT (SQ (VP (VB Look) (ADVP (IN at) (DT all)) (NP (DT that) (NN fish))) (. !)))
+62302,"(14,)",Cor !,"[Cor/NNP, !/.]",(ROOT (FRAG (NP (NNP Cor)) (. !)))
+62302,"(15,)", I hate fish   .,"[I/PRP, hate/VBP, fish/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (NP (NN fish))) (. .)))
+62302,"(16,)",,[],X
+62302,"(17,)",That will get up trainers .,"[That/DT, will/MD, get/VB, up/RP, trainers/NNS, ./.]",(ROOT (S (NP (DT That)) (VP (MD will) (VP (VB get) (PRT (RP up)) (NP (NNS trainers)))) (. .)))
+62302,"(18, 19)",That stuff that I 'm  buying from that company cleans trainers .,"[That/DT, stuff/NN, that/IN, I/PRP, 'm/VBP, buying/VBG, from/IN, that/DT, company/NN, cleans/VBZ, trainers/NNS, ./.]",(ROOT (S (NP (NP (DT That) (NN stuff)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG buying) (PP (IN from) (NP (DT that) (NN company)))))))) (VP (VBZ cleans) (NP (NNS trainers))) (. .)))
+62302,"(20, 21)",Oh well I  yeah I was just thinking he could do with something on them like .,"[Oh/UH, well/UH, I/PRP, yeah/UH, I/PRP, was/VBD, just/RB, thinking/VBG, he/PRP, could/MD, do/VB, with/IN, something/NN, on/IN, them/PRP, like/IN, ./.]",(ROOT (S (S (INTJ (UH Oh) (UH well)) (NP (PRP I)) (VP (UH yeah) (SBAR (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VBG thinking))))))) (NP (PRP he)) (VP (MD could) (VP (VB do) (PP (IN with) (NP (NP (NN something)) (PP (IN on) (NP (PRP them))))) (PP (IN like)))) (. .)))

@@ -1,0 +1,17 @@
+2507,"(0,)",Hello,[Hello/UH],(ROOT (INTJ (UH Hello)))
+2507,"(1,)",,[],X
+2507,"(2,)",Thank you very much .,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
+2507,"(3,)",Sign,[Sign/NN],(ROOT (NP (NN Sign)))
+2507,"(4,)",Yes sure .,"[Yes/UH, sure/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (RB sure)))) (. .)))
+2507,"(5,)","Right , just this , anywhere ?","[Right/NN, ,/,, just/RB, this/DT, ,/,, anywhere/RB, ?/.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NP (RB just) (DT this)) (, ,) (ADVP (RB anywhere))) (. ?)))"
+2507,"(6,)",sign it,"[sign/VB, it/PRP]",(ROOT (S (VP (VB sign) (NP (PRP it)))))
+2507,"(7,)","Right , what is this Datapost ?","[Right/NN, ,/,, what/WP, is/VBZ, this/DT, Datapost/NN, ?/.]","(ROOT (SBARQ (NP (NN Right)) (, ,) (WHNP (WP what)) (SQ (VBZ is) (NP (DT this) (NN Datapost))) (. ?)))"
+2507,"(8,)","No ,  .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"
+2507,"(9,)",Similar sort of thing is it ?,"[Similar/JJ, sort/NN, of/IN, thing/NN, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (NP (JJ Similar) (NN sort)) (PP (IN of) (NP (NN thing)))) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+2507,"(10,)",,[],X
+2507,"(11,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+2507,"(12,)",Lovely .,"[Lovely/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. .)))
+2507,"(13,)",Thank you very much .,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
+2507,"(14,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+2507,"(15,)",Bye .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))
+2507,"(16,)",Bye .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

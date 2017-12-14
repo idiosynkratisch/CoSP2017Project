@@ -1,0 +1,12 @@
+7010,"(0,)",Are you my friend now ?,"[Are/VBP, you/PRP, my/PRP$, friend/NN, now/RB, ?/.]",(ROOT (SQ (VBP Are) (NP (NP (PRP you)) (NP (PRP$ my) (NN friend))) (ADJP (RB now)) (. ?)))
+7010,"(1,)",Yes you are .,"[Yes/UH, you/PRP, are/VBP, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (VBP are))) (. .)))
+7010,"(2,)",Shall we be friends,"[Shall/MD, we/PRP, be/VB, friends/NNS]",(ROOT (SINV (MD Shall) (NP (PRP we)) (VP (VB be) (NP (NNS friends)))))
+7010,"(3,)",Don 't want  ,"[Don/NNP, 't/PRP, want/VBP]",(ROOT (FRAG (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VBP want)))))))
+7010,"(4,)",kiss and make up ?,"[kiss/VB, and/CC, make/VB, up/RP, ?/.]",(ROOT (SQ (VP (VP (VB kiss)) (CC and) (VP (VB make) (PRT (RP up)))) (. ?)))
+7010,"(5,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+7010,"(6,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+7010,"(7,)",Tetley make tea bags make tea .,"[Tetley/NNP, make/VBP, tea/NN, bags/NNS, make/VBP, tea/NN, ./.]",(ROOT (S (NP (NNP Tetley)) (VP (VBP make) (SBAR (S (NP (NN tea) (NNS bags)) (VP (VBP make) (NP (NN tea)))))) (. .)))
+7010,"(8,)",,[],X
+7010,"(9,)",Tetley make tea bags make tea .,"[Tetley/NNP, make/VBP, tea/NN, bags/NNS, make/VBP, tea/NN, ./.]",(ROOT (S (NP (NNP Tetley)) (VP (VBP make) (SBAR (S (NP (NN tea) (NNS bags)) (VP (VBP make) (NP (NN tea)))))) (. .)))
+7010,"(10,)",Don 't say that .,"[Don/NNP, 't/PRP, say/VBP, that/IN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP say) (ADVP (IN that))) (. .)))
+7010,"(11,)",That 's naughty .,"[That/DT, 's/VBZ, naughty/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ naughty))) (. .)))

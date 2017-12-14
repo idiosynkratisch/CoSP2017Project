@@ -1,0 +1,12 @@
+5701,"(0,)",Regur- regurgitate-arianism,"[Regur-/JJ, regurgitate-arianism/NN]",(ROOT (NP (JJ Regur-) (NN regurgitate-arianism)))
+5701,"(1,)",,[],X
+5701,"(2,)",,[],X
+5701,"(3,)",,[],X
+5701,"(4,)", you watch .,"[you/PRP, watch/VBP, ./.]",(ROOT (S (NP (PRP you)) (VP (VBP watch)) (. .)))
+5701,"(5,)",Can 't find it .,"[Can/MD, 't/PRP, find/VB, it/PRP, ./.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB find) (NP (PRP it))) (. .)))
+5701,"(6,)",  .,[./.],(ROOT (NP (. .)))
+5701,"(7,)",They 're probably looked out or something   the key .,"[They/PRP, 're/VBP, probably/RB, looked/VBN, out/RP, or/CC, something/NN, the/DT, key/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB probably)) (VP (VBN looked) (PRT (RP out)) (NP (CC or) (NP (NP (NN something)) (NP (DT the) (NN key)))))) (. .)))
+5701,"(8,)",,[],X
+5701,"(9,)",,[],X
+5701,"(10,)", Well .,"[Well/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (. .)))
+5701,"(11,)","Hello , hiya ,  .","[Hello/UH, ,/,, hiya/NNP, ,/,, ./.]","(ROOT (S (S (INTJ (UH Hello)) (, ,) (VP (NNP hiya)) (, ,)) (. .)))"

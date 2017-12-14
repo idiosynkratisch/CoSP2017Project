@@ -1,0 +1,6 @@
+26608,"(0,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+26608,"(1,)",,[],X
+26608,"(2,)",Can I borrow your writing device ?,"[Can/MD, I/PRP, borrow/VB, your/PRP$, writing/VBG, device/NN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB borrow) (NP (PRP$ your) (VBG writing) (NN device))) (. ?)))
+26608,"(3,)","Lovely , thank you .","[Lovely/JJ, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (NP (JJ Lovely)) (, ,) (VP (VB thank) (NP (PRP you))) (. .)))"
+26608,"(4,)",Twenty one twenty three please .,"[Twenty/CD, one/CD, twenty/CD, three/CD, please/UH, ./.]",(ROOT (NP (NP (NP (CD Twenty)) (VP (ADVP (ADVP (CD one)) (NP (CD twenty) (CD three))) (NP (UH please)))) (. .)))
+26608,"(5,)","Right , thank you .","[Right/NN, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VB thank) (NP (PRP you))) (. .)))"

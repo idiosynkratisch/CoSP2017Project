@@ -1,0 +1,11 @@
+5706,"(0,)","When we were in the room it smelled   , cos Si , Dave , Jolly   .","[When/WRB, we/PRP, were/VBD, in/IN, the/DT, room/NN, it/PRP, smelled/VBD, ,/,, cos/NNP, Si/NNP, ,/,, Dave/NNP, ,/,, Jolly/JJ, ./.]","(ROOT (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBD were) (PP (IN in) (NP (DT the) (NN room)))))) (NP (PRP it)) (VP (VBD smelled))) (, ,) (FRAG (NP (NP (NNP cos) (NNP Si)) (, ,) (NP (NNP Dave)) (, ,)) (ADJP (JJ Jolly))) (. .)))"
+5706,"(1,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+5706,"(2,)","  , Colin , someone else , Johnny >  .","[,/,, Colin/NNP, ,/,, someone/NN, else/RB, ,/,, Johnny/NNP, >/JJR, ./.]","(ROOT (S (FRAG (, ,) (NP (NNP Colin))) (, ,) (NP (NN someone) (RB else)) (, ,) (NP (NNP Johnny)) (VP (JJR >)) (. .)))"
+5706,"(3,)",,[],X
+5706,"(4,)",,[],X
+5706,"(5,)",,[],X
+5706,"(6,)",There 's her poxy car keys .,"[There/EX, 's/VBZ, her/PRP$, poxy/NN, car/NN, keys/NNS, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (PRP$ her) (NN poxy) (NN car) (NNS keys))) (. .)))
+5706,"(7, 8)", Is he alright there ?,"[Is/VBZ, he/PRP, alright/JJ, there/EX, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP he)) (NP (JJ alright) (NP (EX there))) (. ?)))
+5706,"(9,)",Yeah   .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+5706,"(10, 11)",Right  ,[Right/NN],(ROOT (NP (NN Right)))
+5706,"(12,)",,[],X

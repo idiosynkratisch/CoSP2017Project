@@ -1,0 +1,27 @@
+46705,"(0,)",I bet you shit yourself when your mum and dad weren 't there !,"[I/PRP, bet/VBP, you/PRP, shit/VB, yourself/PRP, when/WRB, your/PRP$, mum/NN, and/CC, dad/NNP, weren/NNP, 't/PRP, there/EX, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (S (NP (PRP you)) (VP (VB shit) (NP (NP (PRP yourself)) (SBAR (WHADVP (WRB when) (NP (NP (PRP$ your) (NN mum)) (CC and) (NP (NNP dad) (NNP weren)))) (S (NP (PRP 't)) (NP (EX there)))))))) (. !)))
+46705,"(1,)",Yeah !,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
+46705,"(2,)",Hey ?,"[Hey/UH, ?/.]",(ROOT (INTJ (UH Hey) (. ?)))
+46705,"(3,)",Cunt !,"[Cunt/NN, !/.]",(ROOT (NP (NN Cunt) (. !)))
+46705,"(4,)",You just suit yourself !,"[You/PRP, just/RB, suit/NN, yourself/PRP, !/.]",(ROOT (NP (NP (PRP You)) (NP (NP (RB just) (NN suit)) (NP (PRP yourself))) (. !)))
+46705,"(5, 6)","Oh , he was telling me , he said  hey !  ? ","[Oh/UH, ,/,, he/PRP, was/VBD, telling/VBG, me/PRP, ,/,, he/PRP, said/VBD, hey/UH, !/., ?/.]","(ROOT (S (S (INTJ (UH Oh)) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBG telling) (NP (PRP me))))) (, ,) (NP (PRP he)) (VP (VBD said) (INTJ (UH hey) (. !))) (. ?)))"
+46705,"(7, 8)", Start .,"[Start/NN, ./.]",(ROOT (INTJ (NN Start) (. .)))
+46705,"(9,)",,[],X
+46705,"(10, 11)",He 's  still in the door .,"[He/PRP, 's/VBZ, still/RB, in/IN, the/DT, door/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB still)) (PP (IN in) (NP (DT the) (NN door)))) (. .)))
+46705,"(12,)",Looks pretty sore like .,"[Looks/VBZ, pretty/RB, sore/JJ, like/IN, ./.]",(ROOT (S (VP (VBZ Looks) (ADJP (RB pretty) (JJ sore) (PP (IN like)))) (. .)))
+46705,"(13,)",Big lot of nice stitches .,"[Big/JJ, lot/NN, of/IN, nice/JJ, stitches/NNS, ./.]",(ROOT (NP (NP (JJ Big) (NN lot)) (PP (IN of) (NP (JJ nice) (NNS stitches))) (. .)))
+46705,"(14,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+46705,"(15,)",Big lot nice of stitches .,"[Big/JJ, lot/NN, nice/JJ, of/IN, stitches/NNS, ./.]",(ROOT (NP (NP (JJ Big) (NN lot)) (NP (NP (JJ nice)) (PP (IN of) (NP (NNS stitches)))) (. .)))
+46705,"(16,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+46705,"(17,)",Don 't get upset .,"[Don/NNP, 't/PRP, get/VB, upset/VBN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB get) (ADJP (VBN upset))) (. .)))
+46705,"(18,)",Do you know what you look like ?,"[Do/VB, you/PRP, know/VB, what/WP, you/PRP, look/VBP, like/IN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP look) (PP (IN like)))))))) (. ?)))
+46705,"(19,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+46705,"(20,)",,[],X
+46705,"(21,)",,[],X
+46705,"(22,)", Sometimes   !,"[Sometimes/RB, !/.]",(ROOT (FRAG (ADVP (RB Sometimes)) (. !)))
+46705,"(23,)",For your   .,"[For/IN, your/PRP$, ./.]",(ROOT (FRAG (PP (IN For) (NP (PRP$ your))) (. .)))
+46705,"(24,)",Do I ?,"[Do/VB, I/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP I))) (. ?)))
+46705,"(25,)", I hate them     .,"[I/PRP, hate/VBP, them/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (NP (PRP them))) (. .)))
+46705,"(26,)","I bet they went , ooh !","[I/PRP, bet/VBP, they/PRP, went/VBD, ,/,, ooh/NN, !/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP bet) (SBAR (S (NP (PRP they)) (VP (VBD went)))))) (, ,) (FRAG (NP (NN ooh))) (. !)))"
+46705,"(27,)",Ooh !,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+46705,"(28,)",It 's another one .,"[It/PRP, 's/VBZ, another/DT, one/CD, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (DT another) (CD one)))) (. .)))
+46705,"(29,)",It 's another one .,"[It/PRP, 's/VBZ, another/DT, one/CD, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (DT another) (CD one)))) (. .)))

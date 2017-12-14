@@ -1,0 +1,11 @@
+13201,"(0,)",Oh my fucking life,"[Oh/UH, my/PRP$, fucking/JJ, life/NN]",(ROOT (S (VP (UH Oh) (NP (PRP$ my) (JJ fucking) (NN life)))))
+13201,"(1,)",,[],X
+13201,"(2,)",Didn 't you know he used to be feather weight champion of Scotland ,"[Didn/NN, 't/PRP, you/PRP, know/VBP, he/PRP, used/VBN, to/TO, be/VB, feather/JJ, weight/NN, champion/NN, of/IN, Scotland/NNP]",(ROOT (FRAG (NP (NP (NN Didn)) (SBAR (S (NP (NP (PRP 't)) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP he)))))) (VP (VBN used) (S (VP (TO to) (VP (VB be) (NP (NP (JJ feather) (NN weight) (NN champion)) (PP (IN of) (NP (NNP Scotland)))))))))))))
+13201,"(3,)", paper weight .,"[paper/NN, weight/NN, ./.]",(ROOT (NP (NP (NN paper)) (NP (NN weight)) (. .)))
+13201,"(4,)", army did he ?,"[army/NNP, did/VBD, he/PRP, ?/.]",(ROOT (S (NP (NNP army)) (VP (VBD did) (NP (PRP he))) (. ?)))
+13201,"(5,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+13201,"(6,)", fucking   wrestling .,"[fucking/VBG, wrestling/NN, ./.]",(ROOT (S (VP (VBG fucking) (NP (NN wrestling))) (. .)))
+13201,"(7,)",I was lying .,"[I/PRP, was/VBD, lying/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG lying))) (. .)))
+13201,"(8,)",Go and ask him .,"[Go/VB, and/CC, ask/VB, him/PRP, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB ask) (NP (PRP him))) (. .)))
+13201,"(9,)","I was lying , ","[I/PRP, was/VBD, lying/VBG, ,/,]","(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG lying))) (, ,)))"
+13201,"(10,)","He 's actually in the guards , he 's fucking signed   .","[He/PRP, 's/VBZ, actually/RB, in/IN, the/DT, guards/NNS, ,/,, he/PRP, 's/VBZ, fucking/VBG, signed/VBN, ./.]","(ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB actually)) (PP (IN in) (NP (DT the) (NNS guards))))) (, ,) (NP (PRP he)) (VP (VBZ 's) (VP (VBG fucking) (S (VP (VBN signed))))) (. .)))"

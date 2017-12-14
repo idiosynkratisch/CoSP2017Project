@@ -1,0 +1,13 @@
+10315,"(0,)",Where is it ?,"[Where/WRB, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+10315,"(1,)",  .,[./.],(ROOT (NP (. .)))
+10315,"(2,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+10315,"(3,)",  .,[./.],(ROOT (NP (. .)))
+10315,"(4,)","No , but it 's near","[No/DT, ,/,, but/CC, it/PRP, 's/VBZ, near/IN]","(ROOT (S (NP (NP (DT No)) (, ,) (PP (CC but) (NP (PRP it)))) (VP (VBZ 's) (PP (IN near)))))"
+10315,"(5,)",Where about 's in   where about ?,"[Where/WRB, about/RB, 's/VBZ, in/IN, where/WRB, about/RB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (ADVP (RB about)) (VP (VBZ 's) (VP (PP (IN in) (FRAG (WHADVP (WRB where)))) (ADVP (RB about))))) (. ?)))
+10315,"(6, 7)",I don 't know  it 's not far away .,"[I/PRP, don/VBP, 't/PRP, know/VB, it/PRP, 's/VBZ, not/RB, far/RB, away/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADVP (RB far) (RB away)))))))) (. .)))
+10315,"(8,)",I wish I could go there   .,"[I/PRP, wish/VBP, I/PRP, could/MD, go/VB, there/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB go) (ADVP (RB there))))))) (. .)))
+10315,"(9,)",It 's landed .,"[It/PRP, 's/VBZ, landed/VBN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN landed))) (. .)))
+10315,"(10,)",Has it ?,"[Has/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Has) (NP (PRP it))) (. ?)))
+10315,"(11,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+10315,"(12,)","Do you know , do you know where it is ?","[Do/VB, you/PRP, know/VB, ,/,, do/VBP, you/PRP, know/VB, where/WRB, it/PRP, is/VBZ, ?/.]","(ROOT (S (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know))))) (, ,) (VP (VBP do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBZ is))))))) (. ?)))"
+10315,"(13, 14)","Not really  , anyway I 'm gonna get started , ok .","[Not/RB, really/RB, ,/,, anyway/RB, I/PRP, 'm/VBP, gonna/NNP, get/VB, started/VBN, ,/,, ok/UH, ./.]","(ROOT (S (RB Not) (ADVP (RB really)) (, ,) (ADVP (RB anyway)) (NP (PRP I)) (VP (VBP 'm) (S (NP (NNP gonna)) (VP (VB get) (VP (VBN started) (, ,) (NP (UH ok)))))) (. .)))"

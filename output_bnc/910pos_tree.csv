@@ -1,0 +1,18 @@
+910,"(0, 1)",Right    Ah I know where I am .,"[Right/JJ, Ah/NN, I/PRP, know/VBP, where/WRB, I/PRP, am/VBP, ./.]",(ROOT (S (NP (JJ Right) (NN Ah)) (NP (PRP I)) (VP (VBP know) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBP am))))) (. .)))
+910,"(2,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+910,"(3,)",We looked at a bakery down here .,"[We/PRP, looked/VBD, at/IN, a/DT, bakery/NN, down/RB, here/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBD looked) (PP (IN at) (NP (DT a) (NN bakery))) (ADVP (RB down) (RB here))) (. .)))
+910,"(4,)",,[],X
+910,"(5,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+910,"(6,)",And it was just so antiquated .,"[And/CC, it/PRP, was/VBD, just/RB, so/RB, antiquated/JJ, ./.]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBD was) (ADVP (RB just)) (ADJP (RB so) (JJ antiquated))) (. .)))
+910,"(7,)",Big old stone ovens you know ?,"[Big/JJ, old/NNP, stone/NNP, ovens/NNS, you/PRP, know/VB, ?/.]",(ROOT (FRAG (NP (NP (JJ Big) (NNP old) (NNP stone) (NNS ovens)) (SBAR (S (NP (PRP you)) (VP (VB know))))) (. ?)))
+910,"(8,)",Hole in the wall job .,"[Hole/NN, in/IN, the/DT, wall/NN, job/NN, ./.]",(ROOT (NP (NP (NN Hole)) (PP (IN in) (NP (DT the) (NN wall) (NN job))) (. .)))
+910,"(9,)",Oh yeah ?,"[Oh/UH, yeah/UH, ?/.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. ?)))
+910,"(10,)",Not really suitable .,"[Not/RB, really/RB, suitable/JJ, ./.]",(ROOT (FRAG (RB Not) (ADJP (RB really) (JJ suitable)) (. .)))
+910,"(11,)","Well , it would have taken a lot of investment .","[Well/RB, ,/,, it/PRP, would/MD, have/VB, taken/VBN, a/DT, lot/NN, of/IN, investment/NN, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (PRP it)) (VP (MD would) (VP (VB have) (VP (VBN taken) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN investment))))))) (. .)))"
+910,"(12, 13)",And it was only  it was a leasehold job .,"[And/CC, it/PRP, was/VBD, only/RB, it/PRP, was/VBD, a/DT, leasehold/JJ, job/NN, ./.]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBD was) (SBAR (RB only) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ leasehold) (NN job)))))) (. .)))
+910,"(14,)",Property needed quite a bit of work doing on it .,"[Property/NN, needed/VBD, quite/RB, a/DT, bit/NN, of/IN, work/NN, doing/VBG, on/IN, it/PRP, ./.]",(ROOT (S (NP (NN Property)) (VP (VBD needed) (NP (NP (RB quite) (DT a) (NN bit)) (PP (IN of) (NP (NP (NN work)) (VP (VBG doing) (PP (IN on) (NP (PRP it)))))))) (. .)))
+910,"(15,)",,[],X
+910,"(16,)",Just along here somewhere on the left .,"[Just/RB, along/IN, here/RB, somewhere/RB, on/IN, the/DT, left/NN, ./.]",(ROOT (FRAG (NP (RB Just)) (ADVP (IN along) (ADVP (RB here) (RB somewhere)) (PP (IN on) (NP (DT the) (NN left)))) (. .)))
+910,"(17,)",Yeah that 's it .,"[Yeah/UH, that/DT, 's/VBZ, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (DT that)) (VP (VBZ 's) (NP (PRP it)))) (. .)))
+910,"(18,)",There ?,"[There/EX, ?/.]",(ROOT (FRAG (WHNP (EX There)) (. ?)))
+910,"(19,)",Just gone past it yeah .,"[Just/RB, gone/VBN, past/IN, it/PRP, yeah/UH, ./.]",(ROOT (S (VP (ADVP (RB Just)) (VBN gone) (PP (IN past) (NP (NP (PRP it)) (FRAG (INTJ (UH yeah)))))) (. .)))

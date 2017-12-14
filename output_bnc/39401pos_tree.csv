@@ -1,0 +1,4 @@
+39401,"(0,)",Oh haven 't we ?,"[Oh/NN, haven/NN, 't/PRP, we/PRP, ?/.]",(ROOT (NP (NP (NN Oh) (NN haven)) (NP (NP (PRP 't)) (NP (PRP we))) (. ?)))
+39401,"(1,)",That one we had first so,"[That/DT, one/CD, we/PRP, had/VBD, first/RB, so/RB]",(ROOT (FRAG (NP (NP (DT That) (CD one)) (SBAR (S (NP (PRP we)) (VP (VBD had) (NP (RB first) (RB so))))))))
+39401,"(2,)","Oh finish that yeah , yeah","[Oh/UH, finish/VB, that/DT, yeah/UH, ,/,, yeah/UH]","(ROOT (S (INTJ (UH Oh)) (VP (VB finish) (NP (DT that)) (NP (UH yeah)) (, ,)) (UH yeah)))"
+39401,"(3,)",just find it in the fridge,"[just/RB, find/VB, it/PRP, in/IN, the/DT, fridge/NN]",(ROOT (S (ADVP (RB just)) (VP (VB find) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN fridge))))))

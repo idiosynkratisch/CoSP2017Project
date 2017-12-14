@@ -1,0 +1,6 @@
+11111,"(0,)",Er this course is going well .,"[Er/NN, this/DT, course/NN, is/VBZ, going/VBG, well/RB, ./.]",(ROOT (S (NP (NP (NN Er)) (NP (DT this) (NN course))) (VP (VBZ is) (VP (VBG going) (ADVP (RB well)))) (. .)))
+11111,"(1, 2)",Good  yeah .,"[Good/JJ, yeah/UH, ./.]",(ROOT (FRAG (PP (JJ Good) (NP (UH yeah))) (. .)))
+11111,"(3, 4, 5, 6)",Yeah  good group  and er  I take,"[Yeah/UH, good/JJ, group/NN, and/CC, er/NN, I/PRP, take/VBP]",(ROOT (SBAR (UCP (VP (NP (INTJ (UH Yeah)) (NP (JJ good))) (PP (NN group))) (CC and) (NP (NN er))) (S (NP (PRP I)) (VP (VBP take)))))
+11111,"(7,)",Interested ?,"[Interested/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Interested)) (. ?)))
+11111,"(8, 9, 10, 11)",Yeah  they 're interested  actually  and they 're quite quick as well .,"[Yeah/UH, they/PRP, 're/VBP, interested/JJ, actually/RB, and/CC, they/PRP, 're/VBP, quite/RB, quick/JJ, as/RB, well/RB, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ interested)) (ADVP (RB actually)))) (CC and) (S (NP (PRP they)) (VP (VBP 're) (ADJP (RB quite) (JJ quick)) (ADVP (RB as) (RB well)))) (. .)))
+11111,"(12,)",Good .,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))

@@ -1,0 +1,18 @@
+415,"(0,)",You should 've had an Expresso coffee .,"[You/PRP, should/MD, 've/VB, had/VBD, an/DT, Expresso/JJ, coffee/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD should) (VP (VB 've) (VP (VBD had) (NP (DT an) (JJ Expresso) (NN coffee))))) (. .)))
+415,"(1,)",Seen the price of them .,"[Seen/VBN, the/DT, price/NN, of/IN, them/PRP, ./.]",(ROOT (S (VP (VBN Seen) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (PRP them))))) (. .)))
+415,"(2,)", imagine Dennis 's face .,"[imagine/VB, Dennis/NNP, 's/POS, face/NN, ./.]",(ROOT (S (VP (VB imagine) (NP (NP (NNP Dennis) (POS 's)) (NN face))) (. .)))
+415,"(3,)",  .,[./.],(ROOT (NP (. .)))
+415,"(4,)",Cup of tea .,"[Cup/NNP, of/IN, tea/NN, ./.]",(ROOT (NP (NP (NNP Cup)) (PP (IN of) (NP (NN tea))) (. .)))
+415,"(5,)",Cup of tea Dave .,"[Cup/NNP, of/IN, tea/NNP, Dave/NNP, ./.]",(ROOT (NP (NP (NNP Cup)) (PP (IN of) (NP (NNP tea) (NNP Dave))) (. .)))
+415,"(6,)","Tea , and a milk , pint of , you got semi ?","[Tea/NN, ,/,, and/CC, a/DT, milk/NN, ,/,, pint/NN, of/IN, ,/,, you/PRP, got/VBD, semi/NNP, ?/.]","(ROOT (NP (NP (NP (NN Tea)) (, ,) (CC and) (NP (DT a) (NN milk)) (, ,)) (NP (NP (NN pint)) (PP (IN of) (PRN (, ,) (S (NP (PRP you)) (VP (VBD got)))) (NP (NNP semi)))) (. ?)))"
+415,"(7,)",Think so .,"[Think/VB, so/RB, ./.]",(ROOT (S (VP (VB Think) (ADVP (RB so))) (. .)))
+415,"(8,)",Mushroom/Ham .,"[Mushroom/Ham/NN, ./.]",(ROOT (NP (NN Mushroom/Ham) (. .)))
+415,"(9,)", on there without a .,"[on/IN, there/EX, without/IN, a/DT, ./.]",(ROOT (FRAG (PP (IN on) (NP (NP (EX there)) (PP (IN without) (NP (DT a))))) (. .)))
+415,"(10,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+415,"(11,)",Bloody milk .  .,"[Bloody/JJ, milk/NN, ./., ./.]",(ROOT (FRAG (NP (JJ Bloody) (NN milk) (. .)) (. .)))
+415,"(12, 13)", Two bread and butter .,"[Two/CD, bread/NN, and/CC, butter/NN, ./.]",(ROOT (NP (NP (CD Two)) (NP (NN bread) (CC and) (NN butter)) (. .)))
+415,"(14,)","Two bread and butter , eh , your going the whole hog today .","[Two/CD, bread/NN, and/CC, butter/NN, ,/,, eh/UH, ,/,, your/PRP$, going/VBG, the/DT, whole/JJ, hog/NN, today/NN, ./.]","(ROOT (FRAG (NP (NP (CD Two)) (SBAR (WHNP (NP (NN bread) (CC and) (NN butter)) (PRN (, ,) (INTJ (UH eh)) (, ,))) (S (NP (PRP$ your)) (VP (VBG going) (NP (DT the) (JJ whole) (NN hog)) (NP (NN today)))))) (. .)))"
+415,"(15,)",Two twenty two .,"[Two/CD, twenty/CD, two/CD, ./.]",(ROOT (FRAG (NP (CD Two)) (NP (CD twenty) (CD two)) (. .)))
+415,"(16,)",Have you got ya- have you got your bread and butter ?,"[Have/VB, you/PRP, got/VBD, ya-/NN, have/VBP, you/PRP, got/VBD, your/PRP$, bread/NN, and/CC, butter/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (SBAR (S (NP (NN ya-)) (VP (VBP have) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NN bread) (CC and) (NN butter)))))))))) (. ?)))
+415,"(17,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+415,"(18,)",Y h1 B,"[Y/NN, h1/NN, B/NN]",(ROOT (NP (NP (NN Y)) (NP (NN h1) (NN B))))

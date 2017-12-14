@@ -1,0 +1,8 @@
+10004,"(0,)",It either is or it ain 't .,"[It/PRP, either/CC, is/VBZ, or/CC, it/PRP, ain/FW, 't/PRP, ./.]",(ROOT (S (S (NP (PRP It)) (VP (CC either) (VP (VBZ is)))) (CC or) (S (NP (PRP it)) (NP (NP (FW ain)) (NP (PRP 't)))) (. .)))
+10004,"(1,)","Make sure you 've got , you 've got your tickets .","[Make/VB, sure/JJ, you/PRP, 've/VBP, got/VBN, ,/,, you/PRP, 've/VBP, got/VBN, your/PRP$, tickets/NNS, ./.]","(ROOT (S (S (VP (VB Make) (ADJP (JJ sure) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got)))))))) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (PRP$ your) (NNS tickets)))) (. .)))"
+10004,"(2,)",Alright .,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
+10004,"(3, 4)",February the fifteenth you were out a lot    .,"[February/NNP, the/DT, fifteenth/NNP, you/PRP, were/VBD, out/IN, a/DT, lot/NN, ./.]",(ROOT (S (NP (NNP February) (DT the) (NNP fifteenth)) (NP (PRP you)) (VP (VBD were) (PP (IN out) (NP (DT a) (NN lot)))) (. .)))
+10004,"(5,)",I got two .,"[I/PRP, got/VBD, two/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD got) (NP (CD two))) (. .)))
+10004,"(6,)","Yes , make sure they 're planned .","[Yes/UH, ,/,, make/VB, sure/JJ, they/PRP, 're/VBP, planned/VBN, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBN planned))))))) (. .)))"
+10004,"(7, 8, 9)",Yeah  it is  I wonder if I should find it   ?,"[Yeah/UH, it/PRP, is/VBZ, I/PRP, wonder/VBP, if/IN, I/PRP, should/MD, find/VB, it/PRP, ?/.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP it)) (VP (VBZ is))) (NP (PRP I)) (VP (VBP wonder) (SBAR (IN if) (S (NP (PRP I)) (VP (MD should) (VP (VB find) (NP (PRP it))))))) (. ?)))
+10004,"(10,)",Hello cat !,"[Hello/UH, cat/NN, !/.]",(ROOT (S (VP (NP (INTJ (UH Hello)) (NP (NN cat)))) (. !)))

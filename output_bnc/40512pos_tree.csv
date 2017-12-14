@@ -1,0 +1,5 @@
+40512,"(0,)",Oh that 's Jack 's towel .,"[Oh/UH, that/DT, 's/VBZ, Jack/NNP, 's/POS, towel/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (NP (NNP Jack) (POS 's)) (NN towel)))) (. .)))
+40512,"(1,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+40512,"(2,)",He takes it out into the   so I put it out,"[He/PRP, takes/VBZ, it/PRP, out/RP, into/IN, the/DT, so/RB, I/PRP, put/VBP, it/PRP, out/RP]",(ROOT (S (NP (PRP He)) (VP (VBZ takes) (NP (PRP it)) (PRT (RP out)) (PP (IN into) (NP (DT the) (RB so))) (SBAR (S (NP (PRP I)) (VP (VBP put) (NP (PRP it)) (PRT (RP out))))))))
+40512,"(3,)","Mm , yeah .","[Mm/NN, ,/,, yeah/UH, ./.]","(ROOT (NP (NP (NN Mm)) (, ,) (NP (UH yeah)) (. .)))"
+40512,"(4, 5)",so he can 't get up onto the  There 's a hole in Matt 's stuff !,"[so/IN, he/PRP, can/MD, 't/PRP, get/VB, up/RP, onto/IN, the/DT, There/EX, 's/VBZ, a/DT, hole/NN, in/IN, Matt/NNP, 's/POS, stuff/NN, !/.]",(ROOT (S (IN so) (NP (PRP he)) (PRN (SINV (MD can) (NP (PRP 't)) (VP (VB get) (PRT (RP up)) (PP (IN onto) (NP (DT the)))))) (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN hole)) (PP (IN in) (NP (NP (NNP Matt) (POS 's)) (NN stuff))))) (. !)))

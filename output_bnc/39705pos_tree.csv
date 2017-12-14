@@ -1,0 +1,12 @@
+39705,"(0,)",Good morning,"[Good/JJ, morning/NN]",(ROOT (INTJ (JJ Good) (NN morning)))
+39705,"(1,)","Hi , alright ?","[Hi/UH, ,/,, alright/JJ, ?/.]","(ROOT (FRAG (INTJ (UH Hi)) (, ,) (ADVP (JJ alright)) (. ?)))"
+39705,"(2,)",Yes thanks,"[Yes/UH, thanks/NNS]",(ROOT (INTJ (UH Yes) (NNS thanks)))
+39705,"(3,)","A fifty and a thirty , eighty pence today for you my love","[A/DT, fifty/CD, and/CC, a/DT, thirty/CD, ,/,, eighty/CD, pence/NN, today/NN, for/IN, you/PRP, my/PRP$, love/NN]","(ROOT (NP (NP (NP (DT A) (CD fifty)) (CC and) (NP (NP (DT a) (CD thirty)) (, ,) (NP (NP (CD eighty) (NN pence) (NN today)) (PP (IN for) (NP (PRP you)))))) (NP (PRP$ my) (NN love))))"
+39705,"(4,)","That 's right , yeah","[That/DT, 's/VBZ, right/NN, ,/,, yeah/UH]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (NN right)) (, ,) (INTJ (UH yeah)))))"
+39705,"(5,)","Thank you , breezy this morning isn 't it ?","[Thank/VB, you/PRP, ,/,, breezy/JJ, this/DT, morning/NN, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (SQ (VP (VB Thank) (S (NP (NP (PRP you)) (, ,) (NP (JJ breezy) (NP (NP (DT this) (NN morning) (NN isn)) (NP (PRP 't))))) (NP (PRP it)))) (. ?)))"
+39705,"(6,)",It is breezy yes it 's surprising how breezy it is,"[It/PRP, is/VBZ, breezy/JJ, yes/RB, it/PRP, 's/VBZ, surprising/JJ, how/WRB, breezy/JJ, it/PRP, is/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (JJ breezy) (RB yes)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ surprising)) (SBAR (WHADJP (WRB how) (JJ breezy)) (S (NP (PRP it)) (VP (VBZ is)))))))))))
+39705,"(7,)",Twenty five,"[Twenty/CD, five/CD]",(ROOT (FRAG (NP (CD Twenty) (CD five))))
+39705,"(8,)","Lovely  , okay thanks a lot","[Lovely/JJ, ,/,, okay/JJ, thanks/NNS, a/DT, lot/NN]","(ROOT (FRAG (NP (NP (ADJP (JJ Lovely) (, ,) (JJ okay)) (NNS thanks)) (NP (DT a) (NN lot)))))"
+39705,"(9,)","Thank you very much , thanks a lot","[Thank/VB, you/PRP, very/RB, much/RB, ,/,, thanks/NNS, a/DT, lot/NN]","(ROOT (SINV (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much)) (, ,) (ADVP (NNS thanks))) (NP (DT a) (NN lot))))"
+39705,"(10,)",Thank you bye,"[Thank/VB, you/PRP, bye/VBP]",(ROOT (S (VP (VB Thank) (SBAR (S (NP (PRP you)) (VP (VBP bye)))))))
+39705,"(11,)",Bye,[Bye/NN],(ROOT (NP (NN Bye)))

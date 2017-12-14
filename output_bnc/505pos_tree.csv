@@ -1,0 +1,22 @@
+505,"(0,)",It 's for market research .,"[It/PRP, 's/VBZ, for/IN, market/NN, research/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN for) (NP (NN market) (NN research)))) (. .)))
+505,"(1,)","Yeah , what ?","[Yeah/UH, ,/,, what/WP, ?/.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (WP what)) (. ?)))"
+505,"(2,)",Market research .,"[Market/NN, research/NN, ./.]",(ROOT (NP (NP (NN Market)) (NP (NN research)) (. .)))
+505,"(3,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+505,"(4,)",Do me a favour .,"[Do/VB, me/PRP, a/DT, favour/NN, ./.]",(ROOT (S (VP (VB Do) (S (NP (PRP me)) (NP (DT a) (NN favour)))) (. .)))
+505,"(5,)","Seriously , for a dictionary company .","[Seriously/RB, ,/,, for/IN, a/DT, dictionary/NN, company/NN, ./.]","(ROOT (X (ADVP (RB Seriously)) (, ,) (X (IN for)) (NP (NP (DT a) (NN dictionary)) (NP (NN company))) (. .)))"
+505,"(6,)",Doing ana- analysis of the erm .,"[Doing/VBG, ana-/NN, analysis/NN, of/IN, the/DT, erm/NN, ./.]",(ROOT (S (VP (VBG Doing) (NP (NP (NN ana-) (NN analysis)) (PP (IN of) (NP (DT the) (NN erm))))) (. .)))
+505,"(7,)",Do they have bollocks in it ?,"[Do/VB, they/PRP, have/VBP, bollocks/NNS, in/IN, it/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS bollocks)) (PP (IN in) (NP (PRP it)))))))) (. ?)))
+505,"(8,)",  .,[./.],(ROOT (NP (. .)))
+505,"(9,)","With one L , two S 's .","[With/IN, one/CD, L/NN, ,/,, two/CD, S/NNS, 's/POS, ./.]","(ROOT (FRAG (PP (IN With) (NP (NP (CD one) (NN L)) (, ,) (NP (NP (CD two)) (NP (NNS S) (POS 's))))) (. .)))"
+505,"(10,)",  .,[./.],(ROOT (NP (. .)))
+505,"(11,)","So eh , well it 's just a , seems worthwhile .","[So/RB, eh/UH, ,/,, well/RB, it/PRP, 's/VBZ, just/RB, a/DT, ,/,, seems/VBZ, worthwhile/JJ, ./.]","(ROOT (S (INTJ (RB So)) (INTJ (UH eh)) (, ,) (NP (RB well) (PRP it)) (VP (VBZ 's) (NP (NP (RB just) (DT a)) (, ,) (SBAR (S (VP (VBZ seems) (ADJP (JJ worthwhile))))))) (. .)))"
+505,"(12,)","Oh , good , got any more ?","[Oh/UH, ,/,, good/JJ, ,/,, got/VBD, any/DT, more/JJR, ?/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (ADVP (JJ good)) (, ,) (VP (VBD got) (ADVP (DT any) (JJR more))) (. ?)))"
+505,"(13,)",  .,[./.],(ROOT (NP (. .)))
+505,"(14,)",You could add some colour   .,"[You/PRP, could/MD, add/VB, some/DT, colour/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD could) (VP (VB add) (NP (DT some) (NN colour)))) (. .)))
+505,"(15,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+505,"(16,)",Oh dear .,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
+505,"(17,)",Suppose   .,"[Suppose/VB, ./.]",(ROOT (S (VP (VB Suppose)) (. .)))
+505,"(18,)","Treacle sponge , yes , no .","[Treacle/NN, sponge/NN, ,/,, yes/UH, ,/,, no/DT, ./.]","(ROOT (NP (NP (NP (NN Treacle)) (SBAR (S (NP (NP (NN sponge)) (, ,) (FRAG (INTJ (UH yes)) (, ,) (NP (DT no))))))) (. .)))"
+505,"(19,)",Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+505,"(20,)",  .,[./.],(ROOT (NP (. .)))
+505,"(21,)", ? o 3 c,"[?/., o/NN, 3/CD, c/NN]",(ROOT (SINV (VP (. ?) (NP (NN o))) (NP (CD 3) (NN c))))

@@ -1,0 +1,5 @@
+2721,"(0,)","The ball , I 've got a ball near my next two anyway","[The/DT, ball/NN, ,/,, I/PRP, 've/VBP, got/VBD, a/DT, ball/NN, near/IN, my/PRP$, next/JJ, two/CD, anyway/RB]","(ROOT (NP (S (NP (DT The) (NN ball)) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN ball)) (PP (IN near) (NP (PRP$ my) (JJ next) (NAC (NP (CD two)) (ADVP (RB anyway))))))))))"
+2721,"(1,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+2721,"(2,)","and I 've got to   , another out of , in play , which is always useful .","[and/CC, I/PRP, 've/VBP, got/VBN, to/TO, ,/,, another/DT, out/IN, of/IN, ,/,, in/IN, play/NN, ,/,, which/WDT, is/VBZ, always/RB, useful/JJ, ./.]","(ROOT (S (CC and) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to))) (, ,) (S (NP (NP (DT another)) (PP (IN out) (NP (IN of))))) (, ,) (PP (IN in) (NP (NP (NN play)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADVP (RB always)) (ADJP (JJ useful))))))))) (. .)))"
+2721,"(3,)", Right   .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2721,"(4,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

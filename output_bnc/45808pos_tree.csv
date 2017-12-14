@@ -1,0 +1,19 @@
+45808,"(0,)",I 'd have said there 's enough there wouldn 't you ?,"[I/PRP, 'd/MD, have/VB, said/VBD, there/EX, 's/VBZ, enough/RB, there/RB, wouldn/JJ, 't/PRP, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP I)) (VP (MD 'd) (VP (VB have)))) (VP (VBD said) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADVP (RB enough) (RB there)) (ADJP (JJ wouldn) (NP (PRP 't))))))) (NP (PRP you)) (. ?)))
+45808,"(1,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+45808,"(2,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+45808,"(3,)",Oh Jesus !,"[Oh/UH, Jesus/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP Jesus)))) (. !)))
+45808,"(4,)",Oh fuck !,"[Oh/UH, fuck/VB, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (VB fuck)) (. !)))
+45808,"(5,)",Why is it sitting there love ?,"[Why/WRB, is/VBZ, it/PRP, sitting/VBG, there/RB, love/VB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBZ is) (NP (PRP it)) (VP (VBG sitting) (ADVP (RB there)) (S (VP (VB love))))) (. ?)))
+45808,"(6,)","Oh that tape 's going , so that 's alright .","[Oh/UH, that/WDT, tape/NN, 's/POS, going/VBG, ,/,, so/IN, that/DT, 's/VBZ, alright/JJ, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (WDT that)) (VP (NN tape) (S (NP (POS 's)) (VP (VBG going))))) (, ,) (IN so) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ alright)))) (. .)))"
+45808,"(7, 8)","And to do  say one , two , three 's done .","[And/CC, to/TO, do/VB, say/VB, one/CD, ,/,, two/CD, ,/,, three/CD, 's/POS, done/VBN, ./.]","(ROOT (S (CC And) (VP (TO to) (VP (VB do) (VP (VB say) (SBAR (WHNP (WHNP (CD one)) (, ,) (NP (CD two)) (, ,)) (S (NP (NP (CD three)) (POS 's)) (VP (VBN done))))))) (. .)))"
+45808,"(9,)",Right ?,"[Right/NN, ?/.]",(ROOT (INTJ (NN Right) (. ?)))
+45808,"(10,)","One , two , three is done .","[One/CD, ,/,, two/CD, ,/,, three/CD, is/VBZ, done/VBN, ./.]","(ROOT (S (NP (NP (CD One)) (, ,) (NP (NP (CD two)) (, ,) (NP (CD three)))) (VP (VBZ is) (VP (VBN done))) (. .)))"
+45808,"(11, 12, 13, 14)","That 's one  two  three  and then , including number four , aye .","[That/DT, 's/VBZ, one/CD, two/CD, three/CD, and/CC, then/RB, ,/,, including/VBG, number/NN, four/CD, ,/,, aye/NNP, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (CD one) (CD two)) (UCP (NP (CD three)) (CC and) (ADVP (RB then)))) (, ,) (PP (VBG including) (NP (NP (NN number) (CD four)) (, ,) (NP (NNP aye))))) (. .)))"
+45808,"(15, 16)","Four  have to use that one , okay ?","[Four/CD, have/VBP, to/TO, use/VB, that/IN, one/CD, ,/,, okay/UH, ?/.]","(ROOT (S (NP (CD Four)) (VP (VBP have) (S (VP (TO to) (VP (VB use) (FRAG (PP (IN that) (NP (CD one))) (, ,) (INTJ (UH okay)) (. ?))))))))"
+45808,"(17,)",Do that in the morning .,"[Do/VB, that/DT, in/IN, the/DT, morning/NN, ./.]",(ROOT (S (VP (VB Do) (NP (NP (DT that)) (PP (IN in) (NP (DT the) (NN morning))))) (. .)))
+45808,"(18,)",Where are they ?,"[Where/WRB, are/VBP, they/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP are) (NP (PRP they))) (. ?)))
+45808,"(19,)",That is ano- another one to be done .,"[That/DT, is/VBZ, ano-/JJ, another/DT, one/CD, to/TO, be/VB, done/VBN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ is) (ADJP (JJ ano-) (NP (QP (DT another) (CD one)))) (S (VP (TO to) (VP (VB be) (VP (VBN done)))))) (. .)))
+45808,"(20,)",It 's the er,"[It/PRP, 's/VBZ, the/DT, er/NN]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT the) (NN er)))))
+45808,"(21,)","That 's Shaun , you can hear her talk .","[That/DT, 's/VBZ, Shaun/NNP, ,/,, you/PRP, can/MD, hear/VB, her/PRP$, talk/NN, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (NNP Shaun)))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB hear) (NP (PRP$ her) (NN talk)))) (. .)))"
+45808,"(22,)",Oh that 's right .,"[Oh/UH, that/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (NN right)))) (. .)))
+45808,"(23, 24)", Watch the dog behind you .,"[Watch/VB, the/DT, dog/NN, behind/IN, you/PRP, ./.]",(ROOT (S (VP (VB Watch) (NP (DT the) (NN dog)) (PP (IN behind) (NP (PRP you)))) (. .)))

@@ -1,0 +1,25 @@
+3202,"(0,)",It 's such an effort and yet I enjoy it so much .,"[It/PRP, 's/VBZ, such/JJ, an/DT, effort/NN, and/CC, yet/RB, I/PRP, enjoy/VBP, it/PRP, so/RB, much/RB, ./.]",(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (PP (JJ such) (NP (DT an) (NN effort))))) (CC and) (S (ADVP (RB yet)) (NP (PRP I)) (VP (VBP enjoy) (NP (PRP it)) (ADVP (RB so) (RB much)))) (. .)))
+3202,"(1,)",But,[But/CC],(ROOT (NP (CC But)))
+3202,"(2,)",Well,[Well/RB],(ROOT (INTJ (RB Well)))
+3202,"(3,)",really   you know when you like it so much   .,"[really/RB, you/PRP, know/VBP, when/WRB, you/PRP, like/IN, it/PRP, so/RB, much/RB, ./.]",(ROOT (S (ADVP (RB really)) (NP (PRP you)) (VP (VBP know) (NP (WRB when)) (PP (NP (PRP you)) (IN like) (NP (PRP it))) (ADVP (RB so) (RB much))) (. .)))
+3202,"(4,)","Oh yes , make some bread with the soup I 've got to go out .","[Oh/UH, yes/UH, ,/,, make/VB, some/DT, bread/NN, with/IN, the/DT, soup/NN, I/PRP, 've/VBP, got/VBN, to/TO, go/VB, out/RP, ./.]","(ROOT (S (INTJ (UH Oh) (UH yes)) (, ,) (VP (VB make) (NP (DT some) (NN bread)) (PP (IN with) (NP (NP (DT the) (NN soup)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB go) (PRT (RP out)))))))))))) (. .)))"
+3202,"(5, 6)","  you know what they do if , if they have to go away .","[you/PRP, know/VBP, what/WP, they/PRP, do/VBP, if/IN, ,/,, if/IN, they/PRP, have/VBP, to/TO, go/VB, away/RB, ./.]","(ROOT (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP do) (ADJP (IN if)) (, ,) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP have) (S (VP (TO to) (VP (VB go) (ADVP (RB away)))))))))))) (. .)))"
+3202,"(7,)",They don 't ,"[They/PRP, don/VBP, 't/PRP]",(ROOT (S (NP (PRP They)) (VP (VBP don) (NP (PRP 't)))))
+3202,"(8,)",Really ?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
+3202,"(9, 10)",And   again . ,"[And/CC, again/RB, ./.]",(ROOT (FRAG (CC And) (ADVP (RB again)) (. .)))
+3202,"(11,)",What did you say ?,"[What/WP, did/VBD, you/PRP, say/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP you)) (VP (VB say))) (. ?)))
+3202,"(12,)",They sometimes ,"[They/PRP, sometimes/RB]",(ROOT (FRAG (NP (NP (PRP They)) (ADVP (RB sometimes)))))
+3202,"(13,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+3202,"(14,)",,[],X
+3202,"(15,)", Harrow or Ealing or somewhere like this .,"[Harrow/NN, or/CC, Ealing/NN, or/CC, somewhere/RB, like/IN, this/DT, ./.]",(ROOT (NP (NP (NN Harrow) (CC or) (NN Ealing)) (NP (NP (QP (CC or) (RB somewhere))) (PP (IN like) (NP (DT this)))) (. .)))
+3202,"(16,)",Oh no ,"[Oh/UH, no/DT]",(ROOT (INTJ (UH Oh) (DT no)))
+3202,"(17,)",,[],X
+3202,"(18,)",,[],X
+3202,"(19,)",,[],X
+3202,"(20,)",,[],X
+3202,"(21,)","So when are you , when are you playing tennis , on the fifteenth ?","[So/RB, when/WRB, are/VBP, you/PRP, ,/,, when/WRB, are/VBP, you/PRP, playing/VBG, tennis/NN, ,/,, on/IN, the/DT, fifteenth/NNP, ?/.]","(ROOT (SBARQ (RB So) (SBAR (WHADVP (WRB when)) (S (VP (VBP are) (NP (PRP you))))) (, ,) (WHADVP (WRB when)) (SQ (VBP are) (NP (PRP you)) (VP (VBG playing) (NP (NN tennis)) (, ,) (PP (IN on) (NP (DT the) (NNP fifteenth))))) (. ?)))"
+3202,"(22,)",I have to know .,"[I/PRP, have/VBP, to/TO, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB know))))) (. .)))
+3202,"(23, 24)",The fifteenth so I could go  and that 's on a Sunday or a Saturday ?,"[The/DT, fifteenth/NNP, so/IN, I/PRP, could/MD, go/VB, and/CC, that/DT, 's/VBZ, on/IN, a/DT, Sunday/NNP, or/CC, a/DT, Saturday/NNP, ?/.]",(ROOT (FRAG (NP (NP (DT The) (NNP fifteenth)) (SBAR (IN so) (S (S (NP (PRP I)) (VP (MD could) (VP (VB go)))) (CC and) (S (NP (DT that)) (VP (VBZ 's) (PP (IN on) (NP (NP (DT a) (NNP Sunday)) (CC or) (NP (DT a) (NNP Saturday))))))))) (. ?)))
+3202,"(25,)",Saturday .,"[Saturday/NNP, ./.]",(ROOT (FRAG (NP (NNP Saturday)) (. .)))
+3202,"(26,)","So I could go   Monday , sixteenth Monday , yes ?","[So/IN, I/PRP, could/MD, go/VB, Monday/NNP, ,/,, sixteenth/NNP, Monday/NNP, ,/,, yes/UH, ?/.]","(ROOT (S (IN So) (NP (PRP I)) (VP (MD could) (VP (VB go) (NP (NP (NNP Monday) (, ,) (NNP sixteenth) (NNP Monday) (, ,)) (FRAG (INTJ (UH yes)))))) (. ?)))"
+3202,"(27,)",I may ,"[I/PRP, may/MD]",(ROOT (S (NP (PRP I)) (VP (MD may))))

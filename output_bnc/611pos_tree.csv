@@ -1,0 +1,10 @@
+611,"(0,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+611,"(1,)",Is that any way to treat your bottle ?,"[Is/VBZ, that/IN, any/DT, way/NN, to/TO, treat/VB, your/PRP$, bottle/NN, ?/.]",(ROOT (S (VP (VBZ Is) (SBAR (IN that) (S (NP (DT any) (NN way)) (VP (TO to) (VP (VB treat) (NP (PRP$ your) (NN bottle))))))) (. ?)))
+611,"(2,)",Want any more of this ?,"[Want/VB, any/DT, more/JJR, of/IN, this/DT, ?/.]",(ROOT (SQ (VP (VB Want) (NP (NP (DT any) (JJR more)) (PP (IN of) (NP (DT this))))) (. ?)))
+611,"(3,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+611,"(4,)",You ready to go down ?,"[You/PRP, ready/JJ, to/TO, go/VB, down/RP, ?/.]",(ROOT (FRAG (ADJP (NP (PRP You)) (JJ ready)) (S (VP (TO to) (VP (VB go) (PRT (RP down))))) (. ?)))
+611,"(5,)",Okey dokey .,"[Okey/NNP, dokey/NNP, ./.]",(ROOT (NP (NNP Okey) (NNP dokey) (. .)))
+611,"(6,)",There we go tiger .,"[There/EX, we/PRP, go/VBP, tiger/NNP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go) (NP (NNP tiger))) (. .)))
+611,"(7,)",There we go .,"[There/EX, we/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
+611,"(8,)",,[],X
+611,"(9,)",,[],X

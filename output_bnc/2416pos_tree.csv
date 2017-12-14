@@ -1,0 +1,14 @@
+2416,"(0,)",That 's quite a good idea .,"[That/DT, 's/VBZ, quite/RB, a/DT, good/JJ, idea/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (RB quite) (DT a) (JJ good) (NN idea))) (. .)))
+2416,"(1,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2416,"(2,)",Well we can do that from the oak container out there .,"[Well/RB, we/PRP, can/MD, do/VB, that/DT, from/IN, the/DT, oak/NN, container/NN, out/IN, there/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP we)) (VP (MD can) (VP (VB do) (NP (NP (DT that)) (PP (IN from) (NP (DT the) (NN oak) (NN container)))) (PP (IN out) (NP (RB there))))) (. .)))
+2416,"(3,)",That 's nice .,"[That/DT, 's/VBZ, nice/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ nice))) (. .)))
+2416,"(4,)",There were two different ivies in that weren 't there ?,"[There/EX, were/VBD, two/CD, different/JJ, ivies/NNS, in/IN, that/DT, weren/NN, 't/PRP, there/EX, ?/.]",(ROOT (S (NP (EX There)) (VP (VBD were) (S (NP (NP (CD two) (JJ different) (NNS ivies)) (PP (IN in) (NP (DT that) (NN weren) (PRP 't)))) (NP (EX there)))) (. ?)))
+2416,"(5,)"," plants in there , that 's the climbing cybilia the upright cybilia , pretty   in the top .","[plants/NNS, in/IN, there/RB, ,/,, that/DT, 's/VBZ, the/DT, climbing/VBG, cybilia/NN, the/DT, upright/JJ, cybilia/NN, ,/,, pretty/RB, in/IN, the/DT, top/NN, ./.]","(ROOT (S (S (NP (NP (NNS plants)) (PP (IN in) (NP (RB there))))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the)) (VP (VBG climbing) (NP (NP (NP (NN cybilia)) (NP (DT the) (JJ upright) (NN cybilia))) (, ,) (ADVP (RB pretty) (PP (IN in) (NP (DT the) (NN top)))))))) (. .)))"
+2416,"(6,)",,[],X
+2416,"(7,)",That looks like lettuce .,"[That/DT, looks/VBZ, like/IN, lettuce/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ looks) (PP (IN like) (NP (NN lettuce)))) (. .)))
+2416,"(8,)",Lettuce .,"[Lettuce/NN, ./.]",(ROOT (NP (NN Lettuce) (. .)))
+2416,"(9,)",I don 't care   .,"[I/PRP, don/VBP, 't/PRP, care/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB care)))) (. .)))
+2416,"(10,)","Ha , ha , ha , ha ,  .","[Ha/NNP, ,/,, ha/NNP, ,/,, ha/NNP, ,/,, ha/NNP, ,/,, ./.]","(ROOT (NP (NP (NNP Ha)) (, ,) (NP (NNP ha) (, ,) (NNP ha) (, ,) (NNP ha) (, ,)) (. .)))"
+2416,"(11,)", geranium .,"[geranium/NN, ./.]",(ROOT (NP (NN geranium) (. .)))
+2416,"(12,)",Sort of geranium crossed with ivy .,"[Sort/NN, of/IN, geranium/NN, crossed/VBD, with/IN, ivy/NNP, ./.]",(ROOT (S (NP (NP (NN Sort)) (PP (IN of) (NP (NN geranium)))) (VP (VBD crossed) (PP (IN with) (NP (NNP ivy)))) (. .)))
+2416,"(13,)",,[],X

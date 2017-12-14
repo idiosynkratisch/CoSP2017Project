@@ -1,0 +1,6 @@
+39601,"(0,)",Pigeon and bacon pies .,"[Pigeon/NN, and/CC, bacon/NN, pies/NNS, ./.]",(ROOT (NP (NP (NN Pigeon) (CC and) (NN bacon)) (NP (NNS pies)) (. .)))
+39601,"(1,)", meat on there .,"[meat/NN, on/IN, there/EX, ./.]",(ROOT (NP (NP (NN meat)) (PP (IN on) (NP (EX there))) (. .)))
+39601,"(2,)",Doubt it do you ?,"[Doubt/VB, it/PRP, do/VB, you/PRP, ?/.]",(ROOT (SQ (VP (VB Doubt) (S (NP (PRP it)) (VP (VB do) (NP (PRP you))))) (. ?)))
+39601,"(3,)",I shouldn 't think so .,"[I/PRP, shouldn/VBP, 't/PRP, think/VB, so/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP shouldn) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so))))) (. .)))
+39601,"(4, 5)",Minced beef and  four times this year .,"[Minced/VBN, beef/NN, and/CC, four/CD, times/NNS, this/DT, year/NN, ./.]",(ROOT (S (VP (VBN Minced) (NP (NP (NN beef)) (CC and) (NP (CD four) (NNS times))) (NP (DT this) (NN year))) (. .)))
+39601,"(6,)",Oh yeah .,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))

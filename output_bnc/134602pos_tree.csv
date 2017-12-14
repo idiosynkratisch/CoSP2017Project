@@ -1,0 +1,83 @@
+134602,"(0,)",You haven 't got   any more .,"[You/PRP, haven/NN, 't/PRP, got/VBD, any/DT, more/RBR, ./.]",(ROOT (S (NP (PRP You)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD got) (ADVP (DT any) (RBR more)))))) (. .)))
+134602,"(1,)",No ,[No/DT],(ROOT (FRAG (NP (DT No))))
+134602,"(2,)","Mm , and you can 't   can you .","[Mm/NN, ,/,, and/CC, you/PRP, can/MD, 't/PRP, can/MD, you/PRP, ./.]","(ROOT (S (NP (NN Mm)) (, ,) (PRN (S (CC and) (NP (PRP you)) (VP (MD can)))) (NP (PRP 't)) (VP (MD can) (VP (NP (PRP you)))) (. .)))"
+134602,"(3,)", watch Home and Away ,"[watch/NNP, Home/NNP, and/CC, Away/RB]",(ROOT (FRAG (NP (NP (NNP watch) (NNP Home)) (ADVP (CC and) (RB Away)))))
+134602,"(4,)",,[],X
+134602,"(5,)", watching Home and Away .,"[watching/VBG, Home/NN, and/CC, Away/RB, ./.]",(ROOT (UCP (S (VP (VBG watching) (NP (NN Home)))) (CC and) (ADVP (RB Away) (. .))))
+134602,"(6,)","You got visitors , ain 't it .","[You/PRP, got/VBD, visitors/NNS, ,/,, ain/NNP, 't/PRP, it/PRP, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBD got) (NP (NNS visitors)))) (, ,) (S (NP (NNP ain) (PRP 't)) (NP (PRP it))) (. .)))"
+134602,"(7,)",What .,"[What/WDT, ./.]",(ROOT (FRAG (WHNP (WDT What)) (. .)))
+134602,"(8,)",You got visitors .,"[You/PRP, got/VBD, visitors/NNS, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD got) (NP (NNS visitors))) (. .)))
+134602,"(9,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+134602,"(10,)",,[],X
+134602,"(11,)",,[],X
+134602,"(12,)",Two eight six .,"[Two/CD, eight/CD, six/CD, ./.]",(ROOT (NP (NP (CD Two)) (QP (CD eight) (CD six)) (. .)))
+134602,"(13,)","Two eight six , and you   for a two eight six .","[Two/CD, eight/CD, six/CD, ,/,, and/CC, you/PRP, for/IN, a/DT, two/CD, eight/CD, six/CD, ./.]","(ROOT (NP (NP (CD Two)) (NP (NP (QP (CD eight) (CD six))) (, ,) (CC and) (NP (NP (PRP you)) (PP (IN for) (NP (QP (DT a) (CD two)) (QP (CD eight) (CD six)))))) (. .)))"
+134602,"(14,)",Why not .,"[Why/WRB, not/RB, ./.]",(ROOT (FRAG (WHADVP (WRB Why)) (NP (RB not)) (. .)))
+134602,"(15,)",grrr ,[grrr/NNP],(ROOT (NP (NNP grrr)))
+134602,"(16,)", like it .,"[like/IN, it/PRP, ./.]",(ROOT (FRAG (PP (IN like) (NP (PRP it))) (. .)))
+134602,"(17,)","Two eight six , three eight six , will be a bit respectable .","[Two/CD, eight/CD, six/CD, ,/,, three/CD, eight/CD, six/CD, ,/,, will/MD, be/VB, a/DT, bit/NN, respectable/JJ, ./.]","(ROOT (S (NP (NP (QP (CD Two) (CD eight)) (CD six)) (, ,) (NP (NP (QP (CD three) (CD eight))) (NP (CD six))) (, ,)) (VP (MD will) (VP (VB be) (ADJP (NP (DT a) (NN bit)) (JJ respectable)))) (. .)))"
+134602,"(18,)","Four eight six , it would be okay , but","[Four/CD, eight/CD, six/CD, ,/,, it/PRP, would/MD, be/VB, okay/JJ, ,/,, but/CC]","(ROOT (S (ADVP (ADVP (CD Four)) (NP (CD eight) (CD six))) (, ,) (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ okay)) (, ,) (ADVP (CC but))))))"
+134602,"(19,)",,[],X
+134602,"(20,)",,[],X
+134602,"(21,)",Getting ,[Getting/VBG],(ROOT (S (VP (VBG Getting))))
+134602,"(22,)",I can get lots .,"[I/PRP, can/MD, get/VB, lots/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (VP (VB get) (NP (NNS lots)))) (. .)))
+134602,"(23,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+134602,"(24,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+134602,"(25,)",Stuff I 've already got there .,"[Stuff/NN, I/PRP, 've/VBP, already/RB, got/VBN, there/RB, ./.]",(ROOT (S (NP (NN Stuff)) (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN got) (ADVP (RB there)))) (. .)))
+134602,"(26,)",Excel .,"[Excel/NNP, ./.]",(ROOT (FRAG (NP (NNP Excel)) (. .)))
+134602,"(27,)",Got that .,"[Got/VBD, that/DT, ./.]",(ROOT (S (VP (VBD Got) (NP (DT that))) (. .)))
+134602,"(28,)",Draw .,"[Draw/NN, ./.]",(ROOT (INTJ (NN Draw) (. .)))
+134602,"(29,)",Got that .,"[Got/VBD, that/DT, ./.]",(ROOT (S (VP (VBD Got) (NP (DT that))) (. .)))
+134602,"(30,)",Dulux paint .,"[Dulux/NNP, paint/NN, ./.]",(ROOT (NP (NP (NNP Dulux)) (NP (NN paint)) (. .)))
+134602,"(31,)",,[],X
+134602,"(32,)",,[],X
+134602,"(33,)",What you got in there ?,"[What/WP, you/PRP, got/VBD, in/IN, there/EX, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (NP (PRP you)) (VP (VBD got) (PP (IN in) (NP (EX there))))) (. ?)))
+134602,"(34,)","Erm ,","[Erm/NN, ,/,]","(ROOT (FRAG (PP (NN Erm)) (, ,)))"
+134602,"(35,)","Let 's see it , let 's see it .","[Let/VB, 's/PRP, see/VB, it/PRP, ,/,, let/VB, 's/POS, see/VB, it/PRP, ./.]","(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VP (VB see) (NP (PRP it))) (, ,) (VP (VB let) (S (NP (POS 's)) (VP (VB see) (NP (PRP it)))))))) (. .)))"
+134602,"(36,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+134602,"(37,)", 'Cos I said .,"['Cos/NNS, I/PRP, said/VBD, ./.]",(ROOT (S (NP (NNS 'Cos)) (NP (PRP I)) (VP (VBD said)) (. .)))
+134602,"(38,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+134602,"(39,)",,[],X
+134602,"(40,)",I don 't believe you .,"[I/PRP, don/VBP, 't/PRP, believe/VB, you/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB believe) (NP (PRP you))))) (. .)))
+134602,"(41,)","Sod it , don 't believe me then , it 's up to you , innit .","[Sod/NN, it/PRP, ,/,, don/NNP, 't/PRP, believe/VB, me/PRP, then/RB, ,/,, it/PRP, 's/VBZ, up/RB, to/TO, you/PRP, ,/,, innit/RB, ./.]","(ROOT (S (S (NP (NN Sod)) (NP (PRP it))) (PRN (, ,) (S (NP (NNP don) (PRP 't)) (VP (VB believe) (NP (PRP me)) (ADVP (RB then)))) (, ,)) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB up) (PP (TO to) (NP (PRP you)))) (, ,) (ADVP (RB innit))) (. .)))"
+134602,"(42,)",,[],X
+134602,"(43,)","He ain 't got it , nn .","[He/PRP, ain/RB, 't/PRP, got/VBD, it/PRP, ,/,, nn/NNP, ./.]","(ROOT (S (NP (PRP He)) (SBAR (ADVP (RB ain)) (S (NP (PRP 't)) (VP (VBD got) (NP (NP (PRP it)) (, ,) (NP (NNP nn)))))) (. .)))"
+134602,"(44,)",,[],X
+134602,"(45,)","Don 't , you don 't think so .","[Don/NNP, 't/PRP, ,/,, you/PRP, don/VBP, 't/PRP, think/VB, so/RB, ./.]","(ROOT (S (S (VP (NNP Don) (NP (PRP 't)))) (, ,) (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so))))) (. .)))"
+134602,"(46,)",Your lying .,"[Your/PRP$, lying/VBG, ./.]",(ROOT (S (NP (PRP$ Your)) (VP (VBG lying)) (. .)))
+134602,"(47,)",,[],X
+134602,"(48,)",What you get up there .,"[What/WP, you/PRP, get/VBP, up/RB, there/RB, ./.]",(ROOT (FRAG (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP get) (ADVP (RB up) (RB there))))) (. .)))
+134602,"(49,)","College , ain 't it .","[College/NN, ,/,, ain/NNP, 't/PRP, it/PRP, ./.]","(ROOT (NP (NP (NN College)) (, ,) (NP (NP (NNP ain)) (NP (PRP 't)) (NP (PRP it))) (. .)))"
+134602,"(50,)",Er .,"[Er/NN, ./.]",(ROOT (NP (NN Er) (. .)))
+134602,"(51,)",College .,"[College/NN, ./.]",(ROOT (INTJ (NN College) (. .)))
+134602,"(52,)",,[],X
+134602,"(53,)"," they 're going out , aren 't they .","[they/PRP, 're/VBP, going/VBG, out/RP, ,/,, aren/NNP, 't/PRP, they/PRP, ./.]","(ROOT (S (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (PRT (RP out))))) (, ,) (S (NP (NNP aren) (PRP 't)) (NP (PRP they))) (. .)))"
+134602,"(54,)", what about ,"[what/WP, about/IN]",(ROOT (FRAG (X (WP what)) (PP (IN about))))
+134602,"(55,)","It 's alright , it 's up-gradable , ain 't it .","[It/PRP, 's/VBZ, alright/JJ, ,/,, it/PRP, 's/VBZ, up-gradable/JJ, ,/,, ain/NNP, 't/PRP, it/PRP, ./.]","(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright)))) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ up-gradable)))) (, ,) (S (NP (NNP ain) (PRP 't)) (NP (PRP it))) (. .)))"
+134602,"(56,)",,[],X
+134602,"(57,)",Five hundred was up-gradable .,"[Five/CD, hundred/CD, was/VBD, up-gradable/JJ, ./.]",(ROOT (S (NP (CD Five) (CD hundred)) (VP (VBD was) (ADJP (JJ up-gradable))) (. .)))
+134602,"(58,)","I don 't care , it 's cheap innit .","[I/PRP, don/VBP, 't/PRP, care/VB, ,/,, it/PRP, 's/VBZ, cheap/JJ, innit/NN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB care))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (JJ cheap) (NN innit))) (. .)))"
+134602,"(59,)","Why don 't you get twelve hundred , or something like that .","[Why/WRB, don/NNP, 't/PRP, you/PRP, get/VBP, twelve/CD, hundred/CD, ,/,, or/CC, something/NN, like/IN, that/DT, ./.]","(ROOT (FRAG (SBAR (WHADVP (WRB Why) (NP (NP (NNP don)) (NP (PRP 't)))) (S (NP (PRP you)) (VP (VBP get) (NP (NP (QP (CD twelve) (CD hundred))) (, ,) (CC or) (NP (NP (NN something)) (PP (IN like) (NP (DT that)))))))) (. .)))"
+134602,"(60,)",,[],X
+134602,"(61,)","Yeah , I might   so much .","[Yeah/UH, ,/,, I/PRP, might/MD, so/RB, much/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD might) (ADVP (RB so) (RB much))) (. .)))"
+134602,"(62,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+134602,"(63,)",,[],X
+134602,"(64,)","That 'll be your first twelve hundred , won 't it .","[That/DT, 'll/MD, be/VB, your/PRP$, first/JJ, twelve/CD, hundred/CD, ,/,, won/VBD, 't/PRP, it/PRP, ./.]","(ROOT (SINV (S (NP (DT That)) (VP (MD 'll) (VP (VB be) (NP (NP (PRP$ your) (JJ first)) (NP (CD twelve) (CD hundred)))))) (, ,) (VP (VBD won) (NP (PRP 't))) (NP (PRP it)) (. .)))"
+134602,"(65,)","Well , yeah .","[Well/RB, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (RB Well)) (, ,) (INTJ (UH yeah) (. .))))"
+134602,"(66,)", hundred .,"[hundred/CD, ./.]",(ROOT (FRAG (NP (CD hundred)) (. .)))
+134602,"(67,)",,[],X
+134602,"(68,)",U K twelve hundred .,"[U/NNP, K/NNP, twelve/NNP, hundred/CD, ./.]",(ROOT (S (NP (NNP U) (NNP K)) (VP (NNP twelve) (NP (CD hundred))) (. .)))
+134602,"(69,)","You had a twelve hundred before , you 're not ","[You/PRP, had/VBD, a/DT, twelve/CD, hundred/CD, before/IN, ,/,, you/PRP, 're/VBP, not/RB]","(ROOT (S (NP (PRP You)) (VP (VBD had) (NP (NP (DT a) (CD twelve) (CD hundred)) (SBAR (IN before) (, ,) (S (NP (PRP you)) (VP (VBP 're) (RB not))))))))"
+134602,"(70,)","Believe it or not , it 's up to you .","[Believe/VB, it/PRP, or/CC, not/RB, ,/,, it/PRP, 's/VBZ, up/RB, to/TO, you/PRP, ./.]","(ROOT (S (S (VP (VB Believe) (NP (PRP it)) (CC or) (RB not))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB up) (PP (TO to) (NP (PRP you))))) (. .)))"
+134602,"(71,)"," I 'm going in ,  'cos I 'm gonna miss Home and Away , so I 'll see two later .","[I/PRP, 'm/VBP, going/VBG, in/IN, ,/,, 'cos/NNS, I/PRP, 'm/VBP, gonna/NNP, miss/NNP, Home/NNP, and/CC, Away/RB, ,/,, so/IN, I/PRP, 'll/MD, see/VB, two/CD, later/RB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PP (IN in)) (, ,) (S (NP (NP (NNS 'cos)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNP gonna) (NNP miss) (NNP Home)) (ADVP (CC and) (RB Away))))))))))) (, ,) (IN so) (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (CD two)) (ADVP (RB later))))) (. .)))"
+134602,"(72,)",You know what  ,"[You/PRP, know/VBP, what/WP]",(ROOT (S (NP (PRP You)) (VP (VBP know) (NP (WP what)))))
+134602,"(73,)",,[],X
+134602,"(74,)","No , but come on then .","[No/DT, ,/,, but/CC, come/VB, on/IN, then/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (VP (ADVP (CC but)) (VB come) (PP (IN on) (NP (RB then)))) (. .)))"
+134602,"(75,)",,[],X
+134602,"(76,)",Keep it or something .,"[Keep/VB, it/PRP, or/CC, something/NN, ./.]",(ROOT (S (VP (VB Keep) (NP (NP (PRP it)) (CC or) (NP (NN something)))) (. .)))
+134602,"(77,)",Keep it .,"[Keep/VB, it/PRP, ./.]",(ROOT (S (VP (VB Keep) (NP (PRP it))) (. .)))
+134602,"(78,)","No , I can 't take ","[No/DT, ,/,, I/PRP, can/MD, 't/PRP, take/VB]","(ROOT (NP (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB take)))))))"
+134602,"(79,)",,[],X
+134602,"(80,)","Yeah , I might .","[Yeah/UH, ,/,, I/PRP, might/MD, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD might)) (. .)))"
+134602,"(81,)",So you 're never away yet . ,"[So/RB, you/PRP, 're/VBP, never/RB, away/RB, yet/RB, ./.]",(ROOT (S (RB So) (NP (PRP you)) (VP (VBP 're) (ADVP (RB never)) (ADVP (RB away) (RB yet))) (. .)))
+134602,"(82,)",,[],X

@@ -1,0 +1,7 @@
+38602,"(0,)",They 're not doing bad are they ?,"[They/PRP, 're/VBP, not/RB, doing/VBG, bad/JJ, are/VBP, they/PRP, ?/.]",(ROOT (SINV (S (NP (PRP They)) (VP (VBP 're) (RB not) (VP (VBG doing) (ADJP (JJ bad))))) (VP (VBP are)) (NP (PRP they)) (. ?)))
+38602,"(1,)",Well no !,"[Well/RB, no/DT, !/.]",(ROOT (FRAG (ADVP (RB Well)) (NP (DT no)) (. !)))
+38602,"(2,)",Doing very well .,"[Doing/VBG, very/RB, well/RB, ./.]",(ROOT (S (VP (VBG Doing) (ADVP (RB very) (RB well))) (. .)))
+38602,"(3, 4)",I thought there is  but I mean before   .,"[I/PRP, thought/VBD, there/EX, is/VBZ, but/CC, I/PRP, mean/VBP, before/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (EX there)) (VP (VBZ is) (SBAR (CC but) (S (NP (PRP I)) (VP (VBP mean) (ADVP (RB before))))))))) (. .)))
+38602,"(5,)",Yep !,"[Yep/RB, !/.]",(ROOT (FRAG (ADVP (RB Yep)) (. !)))
+38602,"(6,)",,[],X
+38602,"(7,)",Yep !,"[Yep/RB, !/.]",(ROOT (FRAG (ADVP (RB Yep)) (. !)))

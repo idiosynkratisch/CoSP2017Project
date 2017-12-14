@@ -1,0 +1,11 @@
+60303,"(0,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+60303,"(1,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+60303,"(2,)",What time 's dinner at ?,"[What/WDT, time/NN, 's/POS, dinner/NN, at/IN, ?/.]",(ROOT (X (SBARQ (WHNP (WHNP (WDT What) (NN time) (POS 's)) (NN dinner)) (ADVP (IN at))) (. ?)))
+60303,"(3,)",I don 't know .,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+60303,"(4, 5)",About  three .,"[About/IN, three/CD, ./.]",(ROOT (FRAG (PP (IN About) (NP (CD three))) (. .)))
+60303,"(6,)","Half two , three o 'clock ?","[Half/DT, two/CD, ,/,, three/CD, o/NN, 'clock/NN, ?/.]","(ROOT (NP (NP (NP (QP (DT Half))) (NP (CD two))) (, ,) (NP (NP (CD three) (NN o)) (NP (NN 'clock))) (. ?)))"
+60303,"(7,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+60303,"(8,)", alright ?,"[alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP alright)) (. ?)))
+60303,"(9,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+60303,"(10,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+60303,"(11,)",About that .,"[About/IN, that/DT, ./.]",(ROOT (FRAG (PP (IN About) (NP (DT that))) (. .)))

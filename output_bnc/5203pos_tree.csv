@@ -1,0 +1,10 @@
+5203,"(0,)",I said the putty knife .,"[I/PRP, said/VBD, the/DT, putty/NN, knife/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (NP (DT the) (NN putty) (NN knife))) (. .)))
+5203,"(1,)",What 's the putty knife ?,"[What/WP, 's/VBZ, the/DT, putty/NN, knife/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (DT the) (NN putty) (NN knife))) (. ?)))
+5203,"(2,)", flat   .,"[flat/JJ, ./.]",(ROOT (FRAG (ADJP (JJ flat)) (. .)))
+5203,"(3,)","What , that one ?","[What/WP, ,/,, that/IN, one/CD, ?/.]","(ROOT (NP (NP (WP What)) (PRN (, ,) (PP (IN that) (NP (CD one)))) (. ?)))"
+5203,"(4,)",  .,[./.],(ROOT (NP (. .)))
+5203,"(5,)","Well I don 't know , I don 't know where your putty knife is .","[Well/RB, I/PRP, don/VBP, 't/PRP, know/VB, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, where/WRB, your/PRP$, putty/NN, knife/NN, is/VBZ, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (PRP$ your) (NN putty) (NN knife)) (VP (VBZ is))))))) (. .)))"
+5203,"(6,)",It 's   .,"[It/PRP, 's/VBZ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's)) (. .)))
+5203,"(7,)",It 's the what ?,"[It/PRP, 's/VBZ, the/DT, what/WP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT the) (X (WP what)))) (. ?)))
+5203,"(8,)",Have too guess .,"[Have/VB, too/RB, guess/VB, ./.]",(ROOT (S (VP (VB Have) (NP (RB too) (S (VP (VB guess))))) (. .)))
+5203,"(9,)","Well I don 't know , they all look the same to me .","[Well/RB, I/PRP, don/VBP, 't/PRP, know/VB, ,/,, they/PRP, all/DT, look/VBP, the/DT, same/JJ, to/TO, me/PRP, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))) (, ,) (NP (PRP they)) (ADVP (DT all)) (VP (VBP look) (NP (DT the) (JJ same)) (PP (TO to) (NP (PRP me)))) (. .)))"

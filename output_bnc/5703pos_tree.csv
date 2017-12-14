@@ -1,0 +1,23 @@
+5703,"(0,)",That tiggles .,"[That/DT, tiggles/NNP, ./.]",(ROOT (NP (NP (DT That)) (NP (NNP tiggles)) (. .)))
+5703,"(1,)",Tiggles ?,"[Tiggles/NNP, ?/.]",(ROOT (FRAG (NP (NNP Tiggles)) (. ?)))
+5703,"(2,)","Yeah , what else   .","[Yeah/UH, ,/,, what/WP, else/RB, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NP (WP what)) (NP (RB else))) (. .)))"
+5703,"(3,)","Tickles , not tiggles .","[Tickles/NNP, ,/,, not/RB, tiggles/NNS, ./.]","(ROOT (NP (NP (NNP Tickles)) (, ,) (NP (RB not) (NNS tiggles)) (. .)))"
+5703,"(4,)",,[],X
+5703,"(5,)","It 's C , K .","[It/PRP, 's/VBZ, C/NN, ,/,, K/NN, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN C)) (, ,) (NP (NN K)))) (. .)))"
+5703,"(6,)",Alright .,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
+5703,"(7,)","Not G , tickles .","[Not/RB, G/NN, ,/,, tickles/VBZ, ./.]","(ROOT (S (RB Not) (ADVP (NN G)) (, ,) (VP (VBZ tickles)) (. .)))"
+5703,"(8,)","Yeah , it 's very flash then   .","[Yeah/UH, ,/,, it/PRP, 's/VBZ, very/RB, flash/VB, then/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB very) (S (VP (VB flash) (ADVP (RB then)))))) (. .)))"
+5703,"(9,)",,[],X
+5703,"(10,)",,[],X
+5703,"(11,)",,[],X
+5703,"(12,)",Yeah .  .,"[Yeah/UH, ./., ./.]",(ROOT (FRAG (ADVP (UH Yeah) (. .)) (. .)))
+5703,"(13,)",What ?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+5703,"(14,)",Have a nice three piece suite for you .,"[Have/VB, a/DT, nice/JJ, three/CD, piece/NN, suite/NN, for/IN, you/PRP, ./.]",(ROOT (S (VP (VB Have) (NP (NP (DT a) (JJ nice) (CD three) (NN piece) (NN suite)) (PP (IN for) (NP (PRP you))))) (. .)))
+5703,"(15,)",Take it,"[Take/VB, it/PRP]",(ROOT (S (VP (VB Take) (NP (PRP it)))))
+5703,"(16,)",Not,[Not/RB],(ROOT (FRAG (RB Not)))
+5703,"(17,)","Lucky   oh ,  .","[Lucky/JJ, oh/NN, ,/,, ./.]","(ROOT (S (VP (JJ Lucky) (PP (NN oh)) (, ,)) (. .)))"
+5703,"(18,)",Sean Connery ?,"[Sean/NNP, Connery/NNP, ?/.]",(ROOT (NP (NNP Sean) (NNP Connery) (. ?)))
+5703,"(19,)",,[],X
+5703,"(20,)","That on there , see ?","[That/DT, on/IN, there/EX, ,/,, see/VB, ?/.]","(ROOT (S (PP (NP (DT That)) (IN on) (NP (EX there))) (, ,) (VP (VB see)) (. ?)))"
+5703,"(21,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+5703,"(22,)",Good .,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))

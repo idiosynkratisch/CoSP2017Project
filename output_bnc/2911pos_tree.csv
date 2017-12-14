@@ -1,0 +1,12 @@
+2911,"(0,)",Her birthday 's the fourteenth .,"[Her/PRP$, birthday/NN, 's/VBZ, the/DT, fourteenth/JJ, ./.]",(ROOT (S (NP (PRP$ Her) (NN birthday)) (VP (VBZ 's) (NP (DT the) (JJ fourteenth))) (. .)))
+2911,"(1,)",Do you know which day of the week that is ?,"[Do/VB, you/PRP, know/VB, which/WDT, day/NN, of/IN, the/DT, week/NN, that/WDT, is/VBZ, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WHNP (WDT which) (NN day)) (PP (IN of) (NP (DT the) (NN week)))) (S (NP (WDT that)) (VP (VBZ is))))))) (. ?)))
+2911,"(2,)",I know the first is a Monday .,"[I/PRP, know/VBP, the/DT, first/JJ, is/VBZ, a/DT, Monday/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (DT the) (JJ first)) (VP (VBZ is) (NP (DT a) (NNP Monday)))))) (. .)))
+2911,"(3,)",So the fifteenth will be a Monday .,"[So/IN, the/DT, fifteenth/NNP, will/MD, be/VB, a/DT, Monday/NNP, ./.]",(ROOT (S (IN So) (NP (DT the) (NNP fifteenth)) (VP (MD will) (VP (VB be) (NP (DT a) (NNP Monday)))) (. .)))
+2911,"(4,)",So the fourteenth will be a Sunday .,"[So/IN, the/DT, fourteenth/JJ, will/MD, be/VB, a/DT, Sunday/NNP, ./.]",(ROOT (S (IN So) (NP (DT the) (JJ fourteenth)) (VP (MD will) (VP (VB be) (NP (DT a) (NNP Sunday)))) (. .)))
+2911,"(5,)",How long have you been working on that ?,"[How/WRB, long/RB, have/VBP, you/PRP, been/VBN, working/VBG, on/IN, that/IN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (RB long)) (SQ (VBP have) (NP (PRP you)) (VP (VBN been) (VP (VBG working) (PP (IN on) (ADVP (IN that)))))) (. ?)))
+2911,"(6,)",Saturday .,"[Saturday/NNP, ./.]",(ROOT (FRAG (NP (NNP Saturday)) (. .)))
+2911,"(7,)",She finishes in August did you say ?,"[She/PRP, finishes/VBZ, in/IN, August/NNP, did/VBD, you/PRP, say/VB, ?/.]",(ROOT (S (NP (PRP She)) (VP (VBZ finishes) (SBAR (IN in) (S (NP (NNP August)) (VP (VBD did) (S (NP (PRP you)) (VP (VB say))))))) (. ?)))
+2911,"(8,)",,[],X
+2911,"(9,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2911,"(10,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+2911,"(11,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))

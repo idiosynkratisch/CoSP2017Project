@@ -1,0 +1,7 @@
+12104,"(0,)",It 's just at an inch this innit Mark ?,"[It/PRP, 's/VBZ, just/RB, at/IN, an/DT, inch/NN, this/DT, innit/NN, Mark/NN, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB just) (PP (IN at) (NP (DT an) (NN inch)))) (NP (DT this) (NN innit) (NN Mark))) (. ?)))
+12104,"(1,)",Eh ?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+12104,"(2,)",About an inch deep .,"[About/IN, an/DT, inch/NN, deep/RB, ./.]",(ROOT (FRAG (PP (IN About) (ADVP (NP (DT an) (NN inch)) (RB deep))) (. .)))
+12104,"(3,)","Yeah ,  .","[Yeah/UH, ,/,, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (. .))))"
+12104,"(4,)",Another Terence special !,"[Another/DT, Terence/NNP, special/JJ, !/.]",(ROOT (NP (NP (DT Another) (NNP Terence)) (NP (JJ special)) (. !)))
+12104,"(5, 6)",Don 't forget to put the old  inserts in as well .,"[Don/NNP, 't/PRP, forget/VB, to/TO, put/VB, the/DT, old/JJ, inserts/NNS, in/IN, as/RB, well/RB, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB forget) (S (VP (TO to) (VP (VB put) (NP (DT the) (JJ old) (NNS inserts)) (PP (IN in) (ADVP (RB as) (RB well))))))) (. .)))
+12104,"(7,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

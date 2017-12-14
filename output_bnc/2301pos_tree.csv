@@ -1,0 +1,7 @@
+2301,"(0,)","Oh , can 't get the bag open .","[Oh/UH, ,/,, can/MD, 't/PRP, get/VB, the/DT, bag/NN, open/JJ, ./.]","(ROOT (SQ (INTJ (UH Oh)) (, ,) (MD can) (NP (PRP 't)) (VP (VB get) (S (NP (DT the) (NN bag)) (ADJP (JJ open)))) (. .)))"
+2301,"(1,)",,[],X
+2301,"(2,)",Ah   Would you like to record a song for posterity Lynda ?,"[Ah/NN, Would/MD, you/PRP, like/VB, to/TO, record/VB, a/DT, song/NN, for/IN, posterity/NN, Lynda/NNP, ?/.]",(ROOT (S (NP (NN Ah)) (VP (MD Would) (NP (PRP you)) (S (VP (VB like) (S (VP (TO to) (VP (VB record) (NP (NP (DT a) (NN song)) (PP (IN for) (NP (NN posterity) (NNP Lynda)))))))))) (. ?)))
+2301,"(3,)",  .,[./.],(ROOT (NP (. .)))
+2301,"(4,)","Er , I   .","[Er/NN, ,/,, I/PRP, ./.]","(ROOT (NP (NP (NN Er)) (, ,) (NP (PRP I)) (. .)))"
+2301,"(5,)","Yeah , well I 'll enjoy it   .","[Yeah/UH, ,/,, well/RB, I/PRP, 'll/MD, enjoy/VB, it/PRP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (NP (PRP I)) (VP (MD 'll) (VP (VB enjoy) (NP (PRP it)))) (. .)))"
+2301,"(6,)",,[],X

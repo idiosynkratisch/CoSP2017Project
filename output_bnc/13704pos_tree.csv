@@ -1,0 +1,4 @@
+13704,"(0,)",I 've got my own silk lips attached to the fucking ,"[I/PRP, 've/VBP, got/VBD, my/PRP$, own/JJ, silk/NN, lips/NNS, attached/VBN, to/TO, the/DT, fucking/VBG]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (PRP$ my) (JJ own) (NN silk) (NNS lips)) (VP (VBN attached) (PP (TO to) (NP (DT the) (VBG fucking)))))))))
+13704,"(1,)", like swallow it,"[like/IN, swallow/VB, it/PRP]",(ROOT (SBAR (IN like) (FRAG (VP (VB swallow) (NP (PRP it))))))
+13704,"(2,)",,[],X
+13704,"(3,)", stick it up her nose and say .,"[stick/VB, it/PRP, up/RP, her/PRP$, nose/NN, and/CC, say/VB, ./.]",(ROOT (S (VP (VP (VB stick) (NP (PRP it)) (PP (RP up) (NP (PRP$ her) (NN nose)))) (CC and) (VP (VB say))) (. .)))

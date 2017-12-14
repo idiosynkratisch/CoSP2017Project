@@ -1,0 +1,44 @@
+31703,"(0,)",Oh that 's pretty !,"[Oh/UH, that/DT, 's/VBZ, pretty/RB, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADVP (RB pretty)))) (. !)))
+31703,"(1,)",Ooh she 's beauty !,"[Ooh/NNP, she/PRP, 's/VBZ, beauty/NN, !/.]",(ROOT (S (NP (NNP Ooh) (PRP she)) (VP (VBZ 's) (NP (NN beauty))) (. !)))
+31703,"(2, 3, 4)","Ooh a little punky I was laughing at the sheep up at my mums tha- over the weekend , they had that many  you know they get branded  well","[Ooh/NNP, a/DT, little/JJ, punky/NN, I/PRP, was/VBD, laughing/VBG, at/IN, the/DT, sheep/NN, up/RP, at/IN, my/PRP$, mums/NNS, tha-/NN, over/IN, the/DT, weekend/NN, ,/,, they/PRP, had/VBD, that/IN, many/JJ, you/PRP, know/VBP, they/PRP, get/VB, branded/VBN, well/RB]","(ROOT (FRAG (NP (NP (NNP Ooh)) (SBAR (S (NP (NP (DT a) (JJ little) (NN punky)) (SBAR (S (NP (PRP I)) (VP (VBD was) (VP (VBG laughing) (PP (IN at) (NP (DT the) (NN sheep))) (PP (RP up) (PP (IN at) (NP (NP (PRP$ my) (NNS mums) (NN tha-)) (PP (IN over) (NP (DT the) (NN weekend))))))))))) (, ,) (NP (PRP they)) (VP (VBD had) (SBAR (WHADJP (WHADVP (IN that)) (JJ many)) (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP they)) (VP (VB get) (VP (VBN branded) (ADVP (RB well))))))))))))))"
+31703,"(5,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+31703,"(6,)","they had green , they had red and everything","[they/PRP, had/VBD, green/JJ, ,/,, they/PRP, had/VBD, red/JJ, and/CC, everything/NN]","(ROOT (S (NP (PRP they)) (VP (VBD had) (NP (NP (JJ green)) (, ,) (SBAR (S (NP (PRP they)) (VP (VBD had) (NP (NP (JJ red)) (CC and) (NP (NN everything))))))))))"
+31703,"(7,)",Ah !,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
+31703,"(8,)", they look like punk sheep !,"[they/PRP, look/VBP, like/IN, punk/NN, sheep/NN, !/.]",(ROOT (S (NP (PRP they)) (VP (VBP look) (PP (IN like) (NP (NN punk) (NN sheep)))) (. !)))
+31703,"(9, 10, 11)",Right what do you put a bit on and then  erm  dry it with a hairdryer .,"[Right/RB, what/WP, do/VBP, you/PRP, put/VB, a/DT, bit/NN, on/IN, and/CC, then/RB, erm/NN, dry/JJ, it/PRP, with/IN, a/DT, hairdryer/NN, ./.]",(ROOT (SBARQ (WHADJP (RB Right) (WP what)) (SQ (VBP do) (NP (PRP you)) (VP (VB put) (S (NP (NP (DT a) (NN bit)) (PP (IN on) (FRAG (CC and) (RB then) (NP (NN erm))))) (ADJP (JJ dry)) (NP (PRP it)) (PP (IN with) (NP (DT a) (NN hairdryer)))))) (. .)))
+31703,"(12,)",Oh this 'll be a good idea !,"[Oh/UH, this/DT, 'll/MD, be/VB, a/DT, good/JJ, idea/NN, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT this)) (VP (MD 'll) (VP (VB be) (NP (DT a) (JJ good) (NN idea))))) (. !)))
+31703,"(13,)","Right , we 'll do this .","[Right/NN, ,/,, we/PRP, 'll/MD, do/VB, this/DT, ./.]","(ROOT (S (NP (NN Right)) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB do) (NP (DT this)))) (. .)))"
+31703,"(14,)", What we 're doing   ?,"[What/WP, we/PRP, 're/VBP, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (NP (PRP we)) (VP (VBP 're) (VP (VBG doing)))) (. ?)))
+31703,"(15,)",,[],X
+31703,"(16,)",We 're gonna make it stay .,"[We/PRP, 're/VBP, gonna/NNS, make/VB, it/PRP, stay/VB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 're) (S (NP (NNS gonna)) (VP (VB make) (S (NP (PRP it)) (VP (VB stay)))))) (. .)))
+31703,"(17,)","So as that you don 't , you won 't even have to run your brush through it in the morning , how 's that ?","[So/RB, as/IN, that/IN, you/PRP, don/VBP, 't/PRP, ,/,, you/PRP, won/VBD, 't/PRP, even/RB, have/VBP, to/TO, run/VB, your/PRP$, brush/NN, through/IN, it/PRP, in/IN, the/DT, morning/NN, ,/,, how/WRB, 's/POS, that/WDT, ?/.]","(ROOT (S (ADVP (RB So) (PP (IN as) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP don) (NP (PRP 't))))))) (, ,) (NP (PRP you)) (VP (VBD won) (NP (PRP 't)) (SBAR (RB even) (S (VP (VBP have) (S (VP (TO to) (VP (VB run) (NP (NP (PRP$ your) (NN brush)) (VP (PP (IN through) (NP (NP (PRP it)) (PP (IN in) (NP (DT the) (NN morning))))) (, ,) (NP (WRB how)))) (S (NP (POS 's))))))) (NP (WDT that))))) (. ?)))"
+31703,"(18,)",Oh superb !,"[Oh/UH, superb/JJ, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ superb)))) (. !)))
+31703,"(19,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+31703,"(20, 21)", Stop it !,"[Stop/VB, it/PRP, !/.]",(ROOT (S (VP (VB Stop) (NP (PRP it))) (. !)))
+31703,"(22,)",,[],X
+31703,"(23,)","Yeah , yeah .","[Yeah/UH, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (UH yeah) (. .))))"
+31703,"(24,)",It 's   !,"[It/PRP, 's/VBZ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's)) (. !)))
+31703,"(25,)","No don 't , don 't cos you 'll hurt me !","[No/DT, don/NNP, 't/PRP, ,/,, don/NNP, 't/PRP, cos/NN, you/PRP, 'll/MD, hurt/VB, me/PRP, !/.]","(ROOT (S (NP (DT No) (NNP don)) (NP (PRP 't)) (, ,) (S (VP (NNP don) (S (NP (PRP 't)) (NP (NN cos))))) (NP (PRP you)) (VP (MD 'll) (VP (VB hurt) (NP (PRP me)))) (. !)))"
+31703,"(26,)",Oh !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+31703,"(27,)",Ooh that 's nice !,"[Ooh/NNP, that/WDT, 's/VBZ, nice/JJ, !/.]",(ROOT (FRAG (NP (NP (NNP Ooh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ nice)))))) (. !)))
+31703,"(28,)",Sit down !,"[Sit/VB, down/RB, !/.]",(ROOT (S (VP (VB Sit) (ADVP (RB down))) (. !)))
+31703,"(29,)",Tickle your ears !,"[Tickle/VB, your/PRP$, ears/NNS, !/.]",(ROOT (S (VP (VB Tickle) (NP (PRP$ your) (NNS ears))) (. !)))
+31703,"(30,)",    !,[!/.],(ROOT (NP (. !)))
+31703,"(31,)",Has it worked ?,"[Has/VBZ, it/PRP, worked/VBN, ?/.]",(ROOT (SQ (VBZ Has) (NP (PRP it)) (VP (VBN worked)) (. ?)))
+31703,"(32,)","Oh yes , I 've cracked it !","[Oh/UH, yes/UH, ,/,, I/PRP, 've/VBP, cracked/VBN, it/PRP, !/.]","(ROOT (S (INTJ (UH Oh)) (INTJ (UH yes)) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN cracked) (NP (PRP it)))) (. !)))"
+31703,"(33,)",,[],X
+31703,"(34,)",Oh love it !,"[Oh/UH, love/VBP, it/PRP, !/.]",(ROOT (FRAG (INTJ (UH Oh)) (VBP love) (NP (PRP it)) (. !)))
+31703,"(35,)","She 's got the hang of it at last Chloe , you 're alright now !","[She/PRP, 's/VBZ, got/VBD, the/DT, hang/NNP, of/IN, it/PRP, at/IN, last/JJ, Chloe/NNP, ,/,, you/PRP, 're/VBP, alright/JJ, now/RB, !/.]","(ROOT (S (S (NP (PRP She)) (VP (VBZ 's) (VP (VBD got) (NP (NP (DT the) (NNP hang)) (PP (IN of) (NP (PRP it)))) (PP (IN at) (NP (JJ last) (NNP Chloe)))))) (, ,) (NP (PRP you)) (VP (VBP 're) (ADJP (JJ alright)) (ADVP (RB now))) (. !)))"
+31703,"(36,)",We 're getting there .,"[We/PRP, 're/VBP, getting/VBG, there/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 're) (VP (VBG getting) (ADVP (RB there)))) (. .)))
+31703,"(37,)",We 're onto a winner now .,"[We/PRP, 're/VBP, onto/IN, a/DT, winner/NN, now/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 're) (PP (IN onto) (NP (DT a) (NN winner))) (ADVP (RB now))) (. .)))
+31703,"(38,)",And the next .,"[And/CC, the/DT, next/JJ, ./.]",(ROOT (FRAG (CC And) (SBAR (WHNP (DT the)) (FRAG (ADVP (JJ next)))) (. .)))
+31703,"(39,)",Oh stop it !,"[Oh/UH, stop/VB, it/PRP, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (VB stop) (NP (PRP it))) (. !)))
+31703,"(40,)",I think I might dye my hair blonde you know .,"[I/PRP, think/VBP, I/PRP, might/MD, dye/VB, my/PRP$, hair/NN, blonde/JJ, you/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (MD might) (VP (VB dye) (NP (NP (PRP$ my) (NN hair) (JJ blonde)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))) (. .)))
+31703,"(41,)",Peroxide .,"[Peroxide/NN, ./.]",(ROOT (NP (NN Peroxide) (. .)))
+31703,"(42,)",Do you think it will suit me ?,"[Do/VB, you/PRP, think/VB, it/PRP, will/MD, suit/VB, me/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB suit) (NP (PRP me))))))))) (. ?)))
+31703,"(43,)",I don 't know .,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+31703,"(44,)",Go on then .,"[Go/VB, on/IN, then/RB, ./.]",(ROOT (S (VP (VB Go) (PP (IN on) (NP (RB then)))) (. .)))
+31703,"(45,)",,[],X
+31703,"(46, 47)",Well if you use that streaks at the front  why don 't you try a wig on .,"[Well/RB, if/IN, you/PRP, use/VBP, that/IN, streaks/NNS, at/IN, the/DT, front/JJ, why/WRB, don/NNP, 't/PRP, you/PRP, try/VBP, a/DT, wig/NN, on/IN, ./.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP use) (SBAR (IN that) (S (NP (NP (NNS streaks)) (PP (IN at) (NP (NP (DT the) (JJ front)) (SBAR (WHADVP (WRB why)) (S (NP (NNP don) (PRP 't)) (NP (PRP you))))))) (VP (VBP try) (NP (DT a) (NN wig)) (PP (IN on)))))))) (. .)))
+31703,"(48,)", Werhh hoo hoo,"[Werhh/NNP, hoo/NNP, hoo/NNP]",(ROOT (NP (NNP Werhh) (NNP hoo) (NNP hoo)))
+31703,"(49,)",Good idea that is .,"[Good/JJ, idea/NN, that/WDT, is/VBZ, ./.]",(ROOT (FRAG (NP (NP (JJ Good) (NN idea)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is))))) (. .)))

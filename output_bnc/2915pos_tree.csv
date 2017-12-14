@@ -1,0 +1,12 @@
+2915,"(0,)",No no don 't push any more on me !,"[No/DT, no/NN, don/NNP, 't/PRP, push/VB, any/DT, more/RBR, on/IN, me/PRP, !/.]",(ROOT (NP (NP (NP (DT No) (NN no)) (NP (NNP don))) (SBAR (S (NP (PRP 't)) (VP (VB push) (ADVP (DT any) (RBR more)) (PP (IN on) (NP (PRP me)))))) (. !)))
+2915,"(1,)",Sorry .,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
+2915,"(2,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+2915,"(3,)",Hang on hang on .,"[Hang/NNP, on/IN, hang/NNP, on/IN, ./.]",(ROOT (NP (NP (NNP Hang)) (PP (IN on) (NP (NNP hang))) (PP (IN on)) (. .)))
+2915,"(4,)",It 's alright .,"[It/PRP, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
+2915,"(5,)",Move it up to the edge of your tray .,"[Move/VB, it/PRP, up/RP, to/TO, the/DT, edge/NN, of/IN, your/PRP$, tray/NNP, ./.]",(ROOT (S (VP (VB Move) (NP (PRP it)) (PP (RP up) (PP (TO to) (NP (NP (DT the) (NN edge)) (PP (IN of) (NP (PRP$ your) (NNP tray))))))) (. .)))
+2915,"(6,)",Oh bad luck .,"[Oh/UH, bad/JJ, luck/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ bad) (NN luck)))) (. .)))
+2915,"(7,)",Do you want some more chicken ?,"[Do/VB, you/PRP, want/VBP, some/DT, more/JJR, chicken/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (DT some) (JJR more) (NN chicken)))))) (. ?)))
+2915,"(8,)",Thank you .,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+2915,"(9,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2915,"(10,)",,[],X
+2915,"(11,)",I was holding it in such an awkward way that fingers eventually protested .,"[I/PRP, was/VBD, holding/VBG, it/PRP, in/IN, such/PDT, an/DT, awkward/JJ, way/NN, that/IN, fingers/NNS, eventually/RB, protested/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG holding) (NP (PRP it)) (PP (IN in) (NP (PDT such) (DT an) (JJ awkward) (NN way))) (SBAR (IN that) (S (NP (NNS fingers)) (ADVP (RB eventually)) (VP (VBD protested)))))) (. .)))

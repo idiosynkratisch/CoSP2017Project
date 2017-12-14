@@ -1,0 +1,32 @@
+2606,"(0,)",Those green things are for Susannah 's picnic .,"[Those/DT, green/JJ, things/NNS, are/VBP, for/IN, Susannah/NNP, 's/POS, picnic/NN, ./.]",(ROOT (S (NP (DT Those) (JJ green) (NNS things)) (VP (VBP are) (PP (IN for) (NP (NP (NNP Susannah) (POS 's)) (NN picnic)))) (. .)))
+2606,"(1,)",Oh when she having a picnic ?,"[Oh/UH, when/WRB, she/PRP, having/VBG, a/DT, picnic/NN, ?/.]",(ROOT (SBARQ (WHADVP (UH Oh) (WRB when)) (S (NP (PRP she)) (VP (VBG having) (NP (DT a) (NN picnic)))) (. ?)))
+2606,"(2,)",Well she has one every day .,"[Well/RB, she/PRP, has/VBZ, one/CD, every/DT, day/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP she)) (VP (VBZ has) (NP (NP (CD one)) (NP (DT every) (NN day)))) (. .)))
+2606,"(3,)","Oh I see , yes , I see .","[Oh/UH, I/PRP, see/VBP, ,/,, yes/UH, ,/,, I/PRP, see/VBP, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (, ,) (S (INTJ (UH yes)) (, ,) (NP (PRP I)) (VP (VBP see))) (. .)))"
+2606,"(4,)",What have we here ?,"[What/WDT, have/VBP, we/PRP, here/RB, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBP have) (NP (NP (PRP we)) (ADVP (RB here))))) (. ?)))
+2606,"(5,)","The pond , pond weed , water weed .","[The/DT, pond/NNP, ,/,, pond/NNP, weed/NN, ,/,, water/NN, weed/NN, ./.]","(ROOT (NP (NP (DT The) (NNP pond)) (, ,) (NP (NP (NNP pond) (NN weed)) (, ,) (NP (NN water) (NN weed))) (. .)))"
+2606,"(6,)", don 't touch that .,"[don/NNP, 't/PRP, touch/VBP, that/IN, ./.]",(ROOT (S (NP (NNP don) (PRP 't)) (VP (VBP touch) (ADVP (IN that))) (. .)))
+2606,"(7,)","Oh , got the beasties in too has it ?","[Oh/UH, ,/,, got/VBD, the/DT, beasties/NNS, in/IN, too/RB, has/VBZ, it/PRP, ?/.]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (, ,) (VP (VBD got)) (NP (NP (DT the) (NNS beasties)) (PP (IN in) (SBAR (S (ADVP (RB too)) (VP (VBZ has) (NP (PRP it))))))) (. ?)))"
+2606,"(8,)",I 'm going next door .,"[I/PRP, 'm/VBP, going/VBG, next/JJ, door/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (ADVP (JJ next) (NN door)))) (. .)))
+2606,"(9,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2606,"(10,)",I think I will have a drink .,"[I/PRP, think/VBP, I/PRP, will/MD, have/VB, a/DT, drink/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (MD will) (VP (VB have) (NP (DT a) (NN drink))))))) (. .)))
+2606,"(11,)","Yes , what would you like cider ?","[Yes/UH, ,/,, what/WP, would/MD, you/PRP, like/VB, cider/NN, ?/.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (WP what)) (VP (MD would) (NP (PRP you)) (S (VP (VB like) (NP (NN cider))))) (. ?)))"
+2606,"(12,)","No , a sherry .","[No/DT, ,/,, a/DT, sherry/NNP, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (DT a) (NNP sherry)) (. .)))"
+2606,"(13,)",Sherry right .,"[Sherry/NNP, right/NNP, ./.]",(ROOT (NP (NNP Sherry) (NNP right) (. .)))
+2606,"(14, 15)"," What you did was press , if it was water like        Just plenty of water and then put that in .","[What/WP, you/PRP, did/VBD, was/VBD, press/NN, ,/,, if/IN, it/PRP, was/VBD, water/NN, like/IN, Just/RB, plenty/NN, of/IN, water/NN, and/CC, then/RB, put/VBD, that/DT, in/IN, ./.]","(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBD did)))) (VP (VBD was) (NP (NN press)) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VP (VBD was) (NP (NN water)) (PP (IN like) (NP (NP (RB Just) (NN plenty)) (PP (IN of) (NP (NN water)))))) (CC and) (VP (ADVP (RB then)) (VBD put) (NP (DT that)) (PP (IN in))))))) (. .)))"
+2606,"(16,)","Yes , the water temperature 's well","[Yes/UH, ,/,, the/DT, water/NN, temperature/NN, 's/POS, well/RB]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (ADVP (NP (NP (DT the) (NN water) (NN temperature)) (ADVP (POS 's))) (RB well))))"
+2606,"(17,)",,[],X
+2606,"(18,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+2606,"(19,)",I 'll put the   cos there won 't be enough on .,"[I/PRP, 'll/MD, put/VB, the/DT, cos/NN, there/RB, won/VBD, 't/PRP, be/VB, enough/RB, on/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB put) (SBAR (S (NP (DT the) (NN cos)) (ADVP (RB there)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB be) (ADJP (RB enough)) (PP (IN on))))))))) (. .)))
+2606,"(20,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+2606,"(21,)",It 's cold air isn 't it   ?,"[It/PRP, 's/VBZ, cold/JJ, air/NN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (JJ cold) (NN air) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+2606,"(22,)",Oh really .,"[Oh/UH, really/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB really)))) (. .)))
+2606,"(23,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+2606,"(24,)",Oh brown one and a gold one .,"[Oh/UH, brown/NNP, one/CD, and/CC, a/DT, gold/NN, one/CD, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (NNP brown) (CD one)) (CC and) (NP (DT a) (NN gold) (CD one))))) (. .)))
+2606,"(25,)",Well actually when it 's in the sun one looks a silvery gold .,"[Well/RB, actually/RB, when/WRB, it/PRP, 's/VBZ, in/IN, the/DT, sun/NNP, one/CD, looks/VBZ, a/DT, silvery/JJ, gold/NN, ./.]",(ROOT (S (SBAR (ADVP (RB Well)) (WHADVP (ADVP (RB actually)) (WRB when)) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (DT the) (NNP sun) (CD one)))))) (VP (VBZ looks) (NP (DT a) (ADJP (JJ silvery)) (NN gold))) (. .)))
+2606,"(26,)",Oh yes .,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
+2606,"(27,)",One transparent   .,"[One/CD, transparent/JJ, ./.]",(ROOT (FRAG (ADJP (NP (CD One)) (JJ transparent)) (. .)))
+2606,"(28,)","Here , have a sherry dear .","[Here/RB, ,/,, have/VBP, a/DT, sherry/NNP, dear/NNP, ./.]","(ROOT (S (ADVP (RB Here)) (, ,) (VP (VBP have) (NP (DT a) (NNP sherry) (NNP dear))) (. .)))"
+2606,"(29,)",I will .,"[I/PRP, will/MD, ./.]",(ROOT (S (NP (PRP I)) (VP (MD will)) (. .)))
+2606,"(30,)",  . God I need a time and motion expert in this cupboard .,"[./., God/NNP, I/PRP, need/VBP, a/DT, time/NN, and/CC, motion/NN, expert/NN, in/IN, this/DT, cupboard/NN, ./.]",(ROOT (S (PP (. .) (NP (NNP God))) (NP (PRP I)) (VP (VBP need) (NP (NP (DT a) (NN time) (CC and) (NN motion) (NN expert)) (PP (IN in) (NP (DT this) (NN cupboard))))) (. .)))
+2606,"(31,)",Well it 's multi purpose cupboard dear .,"[Well/RB, it/PRP, 's/VBZ, multi/JJ, purpose/NN, cupboard/NN, dear/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ multi) (NN purpose) (NN cupboard)) (ADJP (RB dear)))) (. .)))
+2606,"(32,)", put that   .,"[put/VB, that/DT, ./.]",(ROOT (S (VP (VB put) (NP (DT that))) (. .)))

@@ -1,0 +1,7 @@
+13601,"(0,)",Stu done half fucking rabbit on don 't he ?,"[Stu/NNP, done/VBN, half/NN, fucking/VBG, rabbit/NN, on/IN, don/NNP, 't/PRP, he/PRP, ?/.]",(ROOT (S (NP (NNP Stu)) (VP (VBN done) (NP (NP (NN half) (VBG fucking) (NN rabbit)) (PP (IN on) (S (VP (NNP don) (S (NP (PRP 't)) (NP (PRP he)))))))) (. ?)))
+13601,"(1,)",On and on and on and,"[On/IN, and/CC, on/IN, and/CC, on/IN, and/CC]",(ROOT (PP (PP (IN On)) (CC and) (PP (IN on) (NP (NP (QP (CC and) (IN on))) (ADVP (CC and))))))
+13601,"(2,)",Oh have I upset Phil in some way ?,"[Oh/UH, have/VBP, I/PRP, upset/JJ, Phil/NNP, in/IN, some/DT, way/NN, ?/.]",(ROOT (S (NP (UH Oh)) (VP (VBP have) (S (NP (PRP I)) (VP (JJ upset) (NP (NP (NNP Phil)) (PP (IN in) (NP (DT some) (NN way))))))) (. ?)))
+13601,"(3,)",Why ?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+13601,"(4,)","dunno , seems to have got the hump","[dunno/NNP, ,/,, seems/VBZ, to/TO, have/VB, got/VBN, the/DT, hump/NNP]","(ROOT (S (NP (NNP dunno) (, ,)) (VP (VBZ seems) (S (VP (TO to) (VP (VB have) (VP (VBN got) (NP (DT the) (NNP hump)))))))))"
+13601,"(5,)",Phil ?,"[Phil/NNP, ?/.]",(ROOT (FRAG (NP (NNP Phil)) (. ?)))
+13601,"(6,)","Yeah , said good morning Phil , totally fucking ignored me .","[Yeah/UH, ,/,, said/VBD, good/JJ, morning/NN, Phil/NNP, ,/,, totally/RB, fucking/VBG, ignored/VBN, me/PRP, ./.]","(ROOT (SINV (FRAG (INTJ (UH Yeah))) (, ,) (VP (VBD said) (NP (JJ good) (NN morning))) (NP (NP (NNP Phil)) (, ,) (NP (NP (RB totally) (VBG fucking)) (VP (VBN ignored) (NP (PRP me))))) (. .)))"

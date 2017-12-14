@@ -1,0 +1,11 @@
+67501,"(0, 1, 2, 3)","In that , in  in that  in  you know","[In/IN, that/DT, ,/,, in/IN, in/IN, that/DT, in/IN, you/PRP, know/VBP]","(ROOT (PP (IN In) (NP (NP (DT that)) (, ,) (PP (IN in) (PP (IN in) (NP (NP (DT that)) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP know))))))))))"
+67501,"(4,)",Favourite T V programme   Neighbours .,"[Favourite/JJ, T/NN, V/NN, programme/NN, Neighbours/NNS, ./.]",(ROOT (NP (NP (JJ Favourite) (NN T) (NN V)) (NP (NN programme) (NNS Neighbours)) (. .)))
+67501,"(5,)",But look .,"[But/CC, look/VB, ./.]",(ROOT (S (CC But) (VP (VB look)) (. .)))
+67501,"(6, 7, 8)","Look here and it  and it  come here , over there my favourite one at the minute innit ?","[Look/VB, here/RB, and/CC, it/PRP, and/CC, it/PRP, come/VB, here/RB, ,/,, over/IN, there/EX, my/PRP$, favourite/JJ, one/CD, at/IN, the/DT, minute/NN, innit/NN, ?/.]","(ROOT (S (S (VP (VB Look) (ADVP (RB here)))) (CC and) (S (NP (PRP it) (CC and) (PRP it)) (VP (VB come) (ADVP (RB here)) (, ,) (PP (IN over) (NP (EX there)) (NP (PRP$ my) (ADJP (JJ favourite) (NP (CD one)) (PP (IN at) (NP (DT the) (NN minute)))) (NN innit))))) (. ?)))"
+67501,"(9,)",Mhm .,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+67501,"(10, 11)"," Yeah , I 'll put Neighbours .","[Yeah/UH, ,/,, I/PRP, 'll/MD, put/VB, Neighbours/NNS, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB put) (NP (NNS Neighbours)))) (. .)))"
+67501,"(12,)",Ha !,"[Ha/NNP, !/.]",(ROOT (FRAG (NP (NNP Ha)) (. !)))
+67501,"(13,)",Oh well .,"[Oh/UH, well/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB well)))) (. .)))
+67501,"(14,)",This is   .,"[This/DT, is/VBZ, ./.]",(ROOT (S (NP (DT This)) (VP (VBZ is)) (. .)))
+67501,"(15,)",The other ones are horrible .,"[The/DT, other/JJ, ones/NNS, are/VBP, horrible/JJ, ./.]",(ROOT (S (NP (DT The) (JJ other) (NNS ones)) (VP (VBP are) (ADJP (JJ horrible))) (. .)))
+67501,"(16,)", Doo da doo doo doo   .,"[Doo/NNP, da/NNP, doo/NNP, doo/NNP, doo/NNP, ./.]",(ROOT (NP (NNP Doo) (NNP da) (NNP doo) (NNP doo) (NNP doo) (. .)))

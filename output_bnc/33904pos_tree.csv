@@ -1,0 +1,38 @@
+33904,"(0,)",Where 's Jeff ?,"[Where/WRB, 's/POS, Jeff/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NNP Jeff))) (. ?)))
+33904,"(1,)",Ooh ooh ooh !,"[Ooh/NNP, ooh/NNP, ooh/NNP, !/.]",(ROOT (NP (NNP Ooh) (NNP ooh) (NNP ooh) (. !)))
+33904,"(2,)",I dunno .,"[I/PRP, dunno/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP dunno)) (. .)))
+33904,"(3,)",You heard biscuit didn 't you boy ?,"[You/PRP, heard/VBD, biscuit/NN, didn/NN, 't/PRP, you/PRP, boy/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBD heard) (NP (NN biscuit) (NN didn)) (NP (NP (PRP 't)) (NP (PRP you) (NN boy)))) (. ?)))
+33904,"(4,)",Yes you,"[Yes/UH, you/PRP]",(ROOT (INTJ (UH Yes) (PRP you)))
+33904,"(5,)",Well I know you 're not giving them our biscuit but then we just get through   .,"[Well/RB, I/PRP, know/VBP, you/PRP, 're/VBP, not/RB, giving/VBG, them/PRP, our/PRP$, biscuit/NN, but/CC, then/RB, we/PRP, just/RB, get/VB, through/IN, ./.]",(ROOT (S (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBG giving) (NP (PRP them)) (NP (PRP$ our) (NN biscuit)))))))) (CC but) (ADVP (RB then)) (S (NP (PRP we)) (ADVP (RB just)) (VP (VB get) (PP (IN through)))) (. .)))
+33904,"(6,)",They keep off the,"[They/PRP, keep/VBP, off/RP, the/DT]",(ROOT (S (NP (PRP They)) (VP (VBP keep) (PRT (RP off)) (NP (DT the)))))
+33904,"(7,)",That one was soft .,"[That/DT, one/CD, was/VBD, soft/JJ, ./.]",(ROOT (S (NP (DT That) (CD one)) (VP (VBD was) (ADJP (JJ soft))) (. .)))
+33904,"(8,)",I tried it first .,"[I/PRP, tried/VBD, it/PRP, first/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD tried) (NP (PRP it)) (ADVP (RB first))) (. .)))
+33904,"(9,)",Oh lovely !,"[Oh/UH, lovely/JJ, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ lovely)))) (. !)))
+33904,"(10,)",And it was soft as shit and horrible !,"[And/CC, it/PRP, was/VBD, soft/JJ, as/IN, shit/NN, and/CC, horrible/JJ, !/.]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBD was) (ADJP (ADJP (JJ soft) (PP (IN as) (NP (NN shit)))) (CC and) (ADJP (JJ horrible)))) (. !)))
+33904,"(11, 12)"," I hate the messy saucepans , they 're horrible !","[I/PRP, hate/VBP, the/DT, messy/JJ, saucepans/NNS, ,/,, they/PRP, 're/VBP, horrible/JJ, !/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP hate) (NP (DT the) (JJ messy) (NNS saucepans)))) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ horrible))) (. !)))"
+33904,"(13,)",Ugh !,"[Ugh/RB, !/.]",(ROOT (FRAG (ADVP (RB Ugh)) (. !)))
+33904,"(14, 15)", Hoo hoo hoo hoo  hoo hoo hoo hoo hoo hoo hoo hoo   !,"[Hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, hoo/NNP, !/.]",(ROOT (FRAG (NP (NNP Hoo) (NNP hoo) (NNP hoo) (NNP hoo)) (NP (NNP hoo) (NNP hoo) (NNP hoo) (NNP hoo) (NNP hoo) (NNP hoo) (NNP hoo) (NNP hoo)) (. !)))
+33904,"(16,)",You stinker !,"[You/PRP, stinker/VBP, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP stinker)) (. !)))
+33904,"(17,)",Do you know I haven 't farted all week !,"[Do/VB, you/PRP, know/VB, I/PRP, haven/NN, 't/PRP, farted/VBD, all/DT, week/NN, !/.]",(ROOT (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (S (NP (PRP I)) (NP (NP (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD farted) (NP (DT all) (NN week)))))))))) (. !)))
+33904,"(18,)",No kidding !,"[No/DT, kidding/NN, !/.]",(ROOT (NP (DT No) (NN kidding) (. !)))
+33904,"(19,)",Apart from,"[Apart/RB, from/IN]",(ROOT (PP (ADVP (RB Apart)) (IN from)))
+33904,"(20,)",,[],X
+33904,"(21, 22)",when I 've woken up  I have a   .,"[when/WRB, I/PRP, 've/VBP, woken/VBN, up/RP, I/PRP, have/VBP, a/DT, ./.]",(ROOT (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN woken) (PRT (RP up)))))) (NP (PRP I)) (VP (VBP have) (NP (DT a))) (. .)))
+33904,"(23,)",,[],X
+33904,"(24,)",,[],X
+33904,"(25,)","Well then you 've farted once then haven 't you , at least ?","[Well/RB, then/RB, you/PRP, 've/VBP, farted/VBN, once/RB, then/RB, haven/NN, 't/PRP, you/PRP, ,/,, at/IN, least/JJS, ?/.]","(ROOT (SINV (PP (ADVP (RB Well)) (RB then) (NP (PRP you))) (VP (VBP 've) (VP (VBN farted) (ADVP (RB once)) (ADVP (RB then)))) (NP (NP (NN haven)) (NP (NP (PRP 't)) (NP (PRP you)) (, ,) (ADVP (IN at) (JJS least)))) (. ?)))"
+33904,"(26,)","No , I 've farted once every morning , I love when you wake up .","[No/DT, ,/,, I/PRP, 've/VBP, farted/VBN, once/RB, every/DT, morning/NN, ,/,, I/PRP, love/VBP, when/WRB, you/PRP, wake/VBP, up/RP, ./.]","(ROOT (S (NP (DT No)) (, ,) (PRN (S (NP (PRP I)) (VP (VBP 've) (VP (VBN farted) (ADVP (RB once)) (NP (DT every) (NN morning)))))) (, ,) (NP (PRP I)) (VP (VBP love) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP wake) (PRT (RP up)))))) (. .)))"
+33904,"(27,)",Nothing like a good fart   !,"[Nothing/NN, like/IN, a/DT, good/JJ, fart/NN, !/.]",(ROOT (NP (NP (NN Nothing)) (PP (IN like) (NP (DT a) (JJ good) (NN fart))) (. !)))
+33904,"(28,)",You 're as relieved as I am .,"[You/PRP, 're/VBP, as/IN, relieved/JJ, as/IN, I/PRP, am/VBP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (ADJP (IN as) (JJ relieved)) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP am))))) (. .)))
+33904,"(29,)",Yep .,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+33904,"(30, 31)",  Ah no !,"[Ah/NN, no/NN, !/.]",(ROOT (FRAG (NP (NN Ah) (NN no)) (. !)))
+33904,"(32,)",You   !,"[You/PRP, !/.]",(ROOT (FRAG (NP (PRP You)) (. !)))
+33904,"(33,)",Oh clear it Mark   !,"[Oh/UH, clear/JJ, it/PRP, Mark/NN, !/.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (ADJP (JJ clear)) (NP (NP (PRP it)) (NP (NN Mark)))))) (. !)))
+33904,"(34,)",No !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+33904,"(35,)",Want us to cover everyday conversation !,"[Want/VB, us/PRP, to/TO, cover/VB, everyday/JJ, conversation/NN, !/.]",(ROOT (S (VP (VB Want) (S (NP (PRP us)) (VP (TO to) (VP (VB cover) (NP (JJ everyday) (NN conversation)))))) (. !)))
+33904,"(36,)","If you fart when the tapes running that 's your problem mate , not mine !","[If/IN, you/PRP, fart/VBP, when/WRB, the/DT, tapes/NNS, running/VBG, that/DT, 's/VBZ, your/PRP$, problem/NN, mate/NN, ,/,, not/RB, mine/NN, !/.]","(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP fart) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS tapes)) (ADJP (VBG running))))))) (NP (DT that)) (VP (VBZ 's) (NP (PRP$ your) (NN problem) (NN mate) (, ,) (RB not) (NN mine))) (. !)))"
+33904,"(37,)",I 'm not   !,"[I/PRP, 'm/VBP, not/RB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not)) (. !)))
+33904,"(38,)", I 'll have to do it in there !,"[I/PRP, 'll/MD, have/VB, to/TO, do/VB, it/PRP, in/IN, there/EX, !/.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (PRP it)) (PP (IN in) (NP (EX there)))))))) (. !)))
+33904,"(39,)",You better clear that   !,"[You/PRP, better/JJR, clear/JJ, that/IN, !/.]",(ROOT (FRAG (NP (PRP You)) (ADJP (NP (JJR better)) (JJ clear)) (ADVP (IN that)) (. !)))
+33904,"(40,)",,[],X
+33904,"(41,)",,[],X

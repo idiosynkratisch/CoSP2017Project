@@ -1,0 +1,22 @@
+2804,"(0,)",,[],X
+2804,"(1,)","Jolly good direction , but","[Jolly/JJ, good/JJ, direction/NN, ,/,, but/CC]","(ROOT (NP (NP (JJ Jolly)) (NP (JJ good) (NN direction)) (, ,) (ADVP (CC but))))"
+2804,"(2,)", Too jolly heavy .,"[Too/RB, jolly/JJ, heavy/NN, ./.]",(ROOT (FRAG (NP (RB Too) (JJ jolly)) (NP (NN heavy)) (. .)))
+2804,"(3,)",Very good .,"[Very/RB, good/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ good)) (. .)))
+2804,"(4,)",That 's lovely,"[That/DT, 's/VBZ, lovely/JJ]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ lovely)))))
+2804,"(5,)",Gosh !,"[Gosh/NNP, !/.]",(ROOT (FRAG (NP (NNP Gosh)) (. !)))
+2804,"(6,)",Fourth time at last,"[Fourth/JJ, time/NN, at/IN, last/JJ]",(ROOT (FRAG (ADVP (JJ Fourth) (NN time)) (PP (IN at) (NP (JJ last)))))
+2804,"(7,)","No , you 've got the wave right I mean you know","[No/DT, ,/,, you/PRP, 've/VBP, got/VBD, the/DT, wave/NN, right/NN, I/PRP, mean/VBP, you/PRP, know/VB]","(ROOT (NP (S (NP (DT No)) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (DT the) (NN wave) (NN right)) (SBAR (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP you)) (VP (VB know)))))))))))"
+2804,"(8,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2804,"(9,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2804,"(10,)",I mean you know loads of people like this don 't always get it right .,"[I/PRP, mean/VBP, you/PRP, know/VB, loads/NNS, of/IN, people/NNS, like/IN, this/DT, don/NNP, 't/PRP, always/RB, get/VBP, it/PRP, right/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP you)) (VP (VB know) (NP (NP (NNS loads)) (PP (IN of) (NP (NP (NNS people)) (PP (IN like) (NP (DT this) (NNP don))))) (SBAR (S (NP (PRP 't)) (ADVP (RB always)) (VP (VBP get) (S (NP (PRP it)) (ADJP (RB right)))))))))) (. .)))
+2804,"(11,)",Really .,"[Really/RB, ./.]",(ROOT (FRAG (ADVP (RB Really)) (. .)))
+2804,"(12,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2804,"(13,)",You want a nice little bit of lawn there .,"[You/PRP, want/VBP, a/DT, nice/JJ, little/JJ, bit/NN, of/IN, lawn/NN, there/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP want) (NP (NP (DT a) (JJ nice) (JJ little) (NN bit)) (PP (IN of) (NP (NN lawn)))) (ADVP (RB there))) (. .)))
+2804,"(14,)",That 's another thing that should be looked at because,"[That/DT, 's/VBZ, another/DT, thing/NN, that/WDT, should/MD, be/VB, looked/VBN, at/IN, because/IN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT another) (NN thing)) (SBAR (WHNP (WDT that)) (S (VP (MD should) (VP (VB be) (VP (VBN looked) (PP (IN at) (PP (IN because))))))))))))
+2804,"(15,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2804,"(16,)",Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
+2804,"(17,)",you could be on a rough patch or bumpy patch whatever yes yes,"[you/PRP, could/MD, be/VB, on/IN, a/DT, rough/JJ, patch/NN, or/CC, bumpy/JJ, patch/NN, whatever/WDT, yes/UH, yes/UH]",(ROOT (S (NP (PRP you)) (VP (MD could) (VP (VB be) (PP (IN on) (NP (NP (DT a) (JJ rough) (NN patch)) (CC or) (NP (JJ bumpy) (NN patch)))) (SBAR (WHADVP (WDT whatever)) (FRAG (INTJ (UH yes) (UH yes))))))))
+2804,"(18,)","Weedy patch yes , yes fine .","[Weedy/JJ, patch/NN, yes/RB, ,/,, yes/RB, fine/JJ, ./.]","(ROOT (NP (NP (JJ Weedy) (NN patch)) (NP (NP (RB yes)) (, ,) (NP (RB yes) (JJ fine))) (. .)))"
+2804,"(19,)",So you can rush that blue down to the one now,"[So/RB, you/PRP, can/MD, rush/VB, that/IN, blue/JJ, down/IN, to/TO, the/DT, one/CD, now/RB]",(ROOT (ADJP (RB So) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB rush) (SBAR (IN that) (S (ADJP (ADJP (JJ blue) (IN down)) (PP (TO to) (NP (DT the) (CD one)))) (ADVP (RB now))))))))))
+2804,"(20,)",Down beyond of the hoop ideally .,"[Down/IN, beyond/IN, of/IN, the/DT, hoop/NN, ideally/RB, ./.]",(ROOT (FRAG (PP (IN Down) (PP (IN beyond) (PP (IN of) (NP (DT the) (NN hoop)) (ADVP (RB ideally))))) (. .)))
+2804,"(21,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))

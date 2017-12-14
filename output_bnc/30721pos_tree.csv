@@ -1,0 +1,6 @@
+30721,"(0,)",From what I 've heard she 'd got no chance that lady !,"[From/IN, what/WP, I/PRP, 've/VBP, heard/VBN, she/PRP, 'd/MD, got/VBD, no/DT, chance/NN, that/WDT, lady/NN, !/.]",(ROOT (S (PP (IN From) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN heard)))))) (NP (PRP she)) (VP (MD 'd) (VP (VBD got) (NP (NP (DT no) (NN chance)) (SBAR (WHNP (WDT that)) (S (NP (NN lady))))))) (. !)))
+30721,"(1,)",,[],X
+30721,"(2,)",Well yes .,"[Well/RB, yes/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (NP (RB yes)) (. .)))
+30721,"(3,)",As long as you 're alright .,"[As/RB, long/RB, as/IN, you/PRP, 're/VBP, alright/JJ, ./.]",(ROOT (FRAG (ADVP (RB As) (RB long)) (SBAR (IN as) (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ alright))))) (. .)))
+30721,"(4,)",Bit shocked really I suppose .,"[Bit/NN, shocked/JJ, really/RB, I/PRP, suppose/VBP, ./.]",(ROOT (S (NP (NN Bit)) (VP (JJ shocked) (S (ADVP (RB really)) (NP (PRP I)) (VP (VBP suppose)))) (. .)))
+30721,"(5,)","Yes , well it is !","[Yes/UH, ,/,, well/RB, it/PRP, is/VBZ, !/.]","(ROOT (S (INTJ (UH Yes)) (, ,) (ADVP (RB well)) (NP (PRP it)) (VP (VBZ is)) (. !)))"

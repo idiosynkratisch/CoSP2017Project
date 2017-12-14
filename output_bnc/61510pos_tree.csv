@@ -1,0 +1,40 @@
+61510,"(0, 1)"," And I , if I see anybody I 'm not gonna stop and talk to them !","[And/CC, I/PRP, ,/,, if/IN, I/PRP, see/VBP, anybody/NN, I/PRP, 'm/VBP, not/RB, gonna/VB, stop/NN, and/CC, talk/NN, to/TO, them/PRP, !/.]","(ROOT (S (CC And) (NP (PRP I)) (, ,) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP see) (NP (NN anybody))))) (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VB gonna) (NP (NN stop) (CC and) (NN talk)) (PP (TO to) (NP (PRP them))))) (. !)))"
+61510,"(2,)",,[],X
+61510,"(3, 4)", could of  could of walked on   .,"[could/MD, of/IN, could/MD, of/IN, walked/VBN, on/IN, ./.]",(ROOT (S (S (VP (MD could) (PP (IN of)))) (VP (MD could) (PP (IN of)) (VP (VBN walked) (PP (IN on)))) (. .)))
+61510,"(5,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+61510,"(6, 7)","And every time , every time I 'm glad    she 's starting summat else   !","[And/CC, every/DT, time/NN, ,/,, every/DT, time/NN, I/PRP, 'm/VBP, glad/JJ, she/PRP, 's/VBZ, starting/VBG, summat/NN, else/RB, !/.]","(ROOT (FRAG (CC And) (NP (NP (DT every) (NN time)) (, ,) (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ glad) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG starting) (NP (NN summat) (RB else)))))))))))) (. !)))"
+61510,"(8,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+61510,"(9, 10, 11)",And then we went and had a look in that  that er    tape thing .,"[And/CC, then/RB, we/PRP, went/VBD, and/CC, had/VBD, a/DT, look/NN, in/IN, that/IN, that/DT, er/NN, tape/NN, thing/NN, ./.]",(ROOT (S (CC And) (ADVP (RB then)) (NP (PRP we)) (VP (VP (VBD went)) (CC and) (VP (VBD had) (NP (DT a) (NN look)) (PP (IN in) (PP (IN that) (NP (DT that) (NN er) (NN tape) (NN thing)))))) (. .)))
+61510,"(12,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+61510,"(13, 14)","No , so it will be possible  talk to them then ?","[No/DT, ,/,, so/IN, it/PRP, will/MD, be/VB, possible/JJ, talk/NN, to/TO, them/PRP, then/RB, ?/.]","(ROOT (FRAG (NP (DT No)) (, ,) (SBAR (IN so) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (NP (JJ possible) (NN talk)) (PP (TO to) (NP (PRP them))) (NP (RB then)))))) (. ?)))"
+61510,"(15,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+61510,"(16, 17, 18)","It 's alright to talk to him  you know i- giving you , just give you that bit of extra warmth without er","[It/PRP, 's/VBZ, alright/JJ, to/TO, talk/VB, to/TO, him/PRP, you/PRP, know/VBP, i-/JJ, giving/VBG, you/PRP, ,/,, just/RB, give/VB, you/PRP, that/IN, bit/NN, of/IN, extra/JJ, warmth/NN, without/IN, er/NN]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright) (S (VP (TO to) (VP (VB talk) (PP (TO to) (NP (NP (PRP him)) (SBAR (S (NP (PRP you)) (VP (VBP know) (ADJP (JJ i-) (S (VP (VBG giving) (NP (PRP you))))) (, ,) (S (ADVP (RB just)) (VP (VB give) (NP (PRP you))))))))) (SBAR (IN that) (S (NP (NP (NN bit)) (PP (IN of) (NP (JJ extra) (NN warmth)))) (PP (IN without) (NP (NN er))))))))))))"
+61510,"(19,)",The weight .,"[The/DT, weight/NN, ./.]",(ROOT (NP (DT The) (NN weight) (. .)))
+61510,"(20,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+61510,"(21, 22)","Well that weight , that weight it 's just  it felt comfortable to wear .","[Well/RB, that/IN, weight/NN, ,/,, that/WDT, weight/VBP, it/PRP, 's/VBZ, just/RB, it/PRP, felt/VBD, comfortable/JJ, to/TO, wear/VB, ./.]","(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (NP (NP (NN weight)) (, ,) (SBAR (WHNP (WDT that)) (S (VP (VBP weight) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (PRP it))))))))) (VP (VBD felt) (ADJP (JJ comfortable) (S (VP (TO to) (VP (VB wear)))))))) (. .)))"
+61510,"(23,)",Right .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+61510,"(24,)",Might as well go in behind if there 's football mightn 't I ?,"[Might/MD, as/RB, well/RB, go/VB, in/IN, behind/IN, if/IN, there/EX, 's/VBZ, football/NN, mightn/NN, 't/PRP, I/PRP, ?/.]",(ROOT (S (VP (MD Might) (ADVP (RB as) (RB well)) (VP (VB go) (PP (IN in) (PP (IN behind) (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NN football) (NN mightn)) (NP (NP (PRP 't)) (NP (PRP I))))))))))) (. ?)))
+61510,"(25, 26)", Golf on here .,"[Golf/NN, on/IN, here/RB, ./.]",(ROOT (NP (NP (NN Golf)) (PP (IN on) (NP (RB here))) (. .)))
+61510,"(27,)",You what ?,"[You/PRP, what/WP, ?/.]",(ROOT (NP (NP (PRP You)) (NP (WP what)) (. ?)))
+61510,"(28,)",Golf .,"[Golf/NN, ./.]",(ROOT (INTJ (NN Golf) (. .)))
+61510,"(29,)",I thought it was snooker on ?,"[I/PRP, thought/VBD, it/PRP, was/VBD, snooker/NN, on/IN, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NN snooker)) (PP (IN on)))))) (. ?)))
+61510,"(30,)",What is the time ?,"[What/WP, is/VBZ, the/DT, time/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (DT the) (NN time))) (. ?)))
+61510,"(31,)",Don 't know what time snooker comes on .,"[Don/NNP, 't/PRP, know/VBP, what/WP, time/NN, snooker/NN, comes/VBZ, on/IN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (NN time) (NN snooker)) (VP (VBZ comes) (PP (IN on)))))) (. .)))
+61510,"(32,)",Twenty past two you said .,"[Twenty/CD, past/JJ, two/CD, you/PRP, said/VBD, ./.]",(ROOT (S (NP (NP (CD Twenty)) (ADJP (JJ past) (NP (CD two)))) (NP (PRP you)) (VP (VBD said)) (. .)))
+61510,"(33,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+61510,"(34, 35, 36, 37)", It 's sport     sport .,"[It/PRP, 's/VBZ, sport/NN, sport/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NN sport) (NN sport))) (. .)))
+61510,"(38, 39)",Sport on a Friday afternoon  Friday afternoon sports or summat .,"[Sport/NN, on/IN, a/DT, Friday/NNP, afternoon/NN, Friday/NNP, afternoon/NN, sports/NNS, or/CC, summat/NN, ./.]",(ROOT (NP (NP (NP (NN Sport)) (PP (IN on) (NP (DT a) (NNP Friday) (NN afternoon)))) (NP (NP (NNP Friday) (NN afternoon) (NNS sports)) (CC or) (NP (NN summat))) (. .)))
+61510,"(40,)",Mm mm .,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+61510,"(41, 42)", There 's only Errol Flynn on other but they 're black and white .,"[There/EX, 's/VBZ, only/RB, Errol/NNP, Flynn/NNP, on/IN, other/JJ, but/CC, they/PRP, 're/VBP, black/JJ, and/CC, white/JJ, ./.]",(ROOT (S (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB only)) (NP (NP (NNP Errol) (NNP Flynn)) (PP (IN on) (NP (JJ other)))))) (CC but) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ black) (CC and) (JJ white)))) (. .)))
+61510,"(43,)",Is there ?,"[Is/VBZ, there/EX, ?/.]",(ROOT (S (VP (VBZ Is) (NP (EX there))) (. ?)))
+61510,"(44,)",What time 's that then ?,"[What/WDT, time/NN, 's/POS, that/WDT, then/RB, ?/.]",(ROOT (FRAG (SBARQ (WHNP (WHNP (WDT What) (NN time) (POS 's)) (NP (WDT that) (RB then))) (. ?))))
+61510,"(45,)",Ah ?,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
+61510,"(46,)",Steve and Anne .,"[Steve/NNP, and/CC, Anne/NNP, ./.]",(ROOT (NP (NNP Steve) (CC and) (NNP Anne) (. .)))
+61510,"(47,)",That 's it .,"[That/DT, 's/VBZ, it/PRP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it))) (. .)))
+61510,"(48,)",You seen these presents ?,"[You/PRP, seen/VBN, these/DT, presents/NNS, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBN seen) (NP (DT these) (NNS presents))) (. ?)))
+61510,"(49,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+61510,"(50,)",Not been through much have they ?,"[Not/RB, been/VBN, through/RB, much/RB, have/VBP, they/PRP, ?/.]",(ROOT (S (RB Not) (S (VP (VBN been) (PP (RB through)) (ADVP (RB much)))) (VP (VBP have) (NP (PRP they))) (. ?)))
+61510,"(51,)",Since   had that,"[Since/IN, had/VBD, that/DT]",(ROOT (SBAR (IN Since) (S (VP (VBD had) (NP (DT that))))))
+61510,"(52, 53, 54)", and they had er    .,"[and/CC, they/PRP, had/VBD, er/NN, ./.]",(ROOT (S (CC and) (NP (PRP they)) (VP (VBD had) (NP (NN er))) (. .)))
+61510,"(55,)",I know !,"[I/PRP, know/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. !)))
+61510,"(56, 57)","I don 't know , it 's  she might have had .","[I/PRP, don/VBP, 't/PRP, know/VB, ,/,, it/PRP, 's/VBZ, she/PRP, might/MD, have/VB, had/VBN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP she)) (VP (MD might) (VP (VB have) (VP (VBN had))))))) (. .)))"

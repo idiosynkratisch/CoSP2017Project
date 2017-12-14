@@ -1,0 +1,46 @@
+12901,"(0, 1, 2, 3)","Cos a mate of mine with a  moustache , didn 't have it for long , he  fucking ri- lighting up a roly , he 's gone fer like that , his fucking tash has gone boof !","[Cos/NNP, a/DT, mate/NN, of/IN, mine/NN, with/IN, a/DT, moustache/NN, ,/,, didn/NN, 't/PRP, have/VBP, it/PRP, for/IN, long/RB, ,/,, he/PRP, fucking/VBG, ri-/NN, lighting/NN, up/IN, a/DT, roly/NNP, ,/,, he/PRP, 's/VBZ, gone/VBN, fer/NNP, like/IN, that/DT, ,/,, his/PRP$, fucking/JJ, tash/NN, has/VBZ, gone/VBN, boof/NNP, !/.]","(ROOT (NP (NP (NP (NNP Cos)) (NP (NP (DT a) (NN mate)) (PP (IN of) (NP (NP (NN mine)) (PP (IN with) (NP (DT a) (NN moustache))))))) (, ,) (NP (NP (NN didn)) (SBAR (S (NP (PRP 't)) (VP (VBP have) (NP (PRP it)) (PP (IN for) (ADVP (RB long))))))) (, ,) (S (NP (PRP he)) (VP (VBG fucking) (NP (NN ri-) (NN lighting)) (PP (IN up) (NP (DT a) (NNP roly))))) (, ,) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN gone) (NP (NP (NNP fer)) (PP (IN like) (NP (DT that))))))) (, ,) (S (NP (PRP$ his) (JJ fucking) (NN tash)) (VP (VBZ has) (VP (VBN gone) (NP (NNP boof))))) (. !)))"
+12901,"(4,)",Straight up !,"[Straight/RB, up/RB, !/.]",(ROOT (FRAG (ADVP (RB Straight)) (ADVP (RB up) (. !))))
+12901,"(5,)",Yeah Tuftie 's granddad .,"[Yeah/UH, Tuftie/NNP, 's/POS, granddad/NN, ./.]",(ROOT (S (VP (PP (NP (UH Yeah)) (NP (NP (NNP Tuftie) (POS 's)) (NP (NN granddad))))) (. .)))
+12901,"(6,)",No   granddad hasn 't got a tash !,"[No/DT, granddad/NN, hasn/NN, 't/PRP, got/VBD, a/DT, tash/NN, !/.]",(ROOT (S (NP (DT No) (NN granddad) (NN hasn)) (NP (PRP 't)) (VP (VBD got) (NP (DT a) (NN tash))) (. !)))
+12901,"(7,)", you .,"[you/PRP, ./.]",(ROOT (FRAG (NP (PRP you)) (. .)))
+12901,"(8,)",,[],X
+12901,"(9,)",I popped into the ,"[I/PRP, popped/VBD, into/IN, the/DT]",(ROOT (S (NP (PRP I)) (VP (VBD popped) (PP (IN into) (NP (DT the))))))
+12901,"(10,)",Go on then !,"[Go/VB, on/IN, then/RB, !/.]",(ROOT (S (VP (VB Go) (PP (IN on) (NP (RB then)))) (. !)))
+12901,"(11, 12, 13)","Yeah   granddad he had er  an operation on his   , he had it all fucking   lamp-shade , light bulb , he 's gone   ","[Yeah/UH, granddad/NN, he/PRP, had/VBD, er/NN, an/DT, operation/NN, on/IN, his/PRP$, ,/,, he/PRP, had/VBD, it/PRP, all/DT, fucking/VBG, lamp-shade/NN, ,/,, light/NN, bulb/NN, ,/,, he/PRP, 's/VBZ, gone/VBN]","(ROOT (NP (S (S (INTJ (UH Yeah)) (NP (NN granddad)) (VP (ADVP (PRP he)) (VBD had) (S (NP (NP (NP (NP (NN er)) (NP (DT an) (NN operation))) (PP (IN on) (NP (PRP$ his)))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD had) (S (NP (PRP it)) (NP (DT all) (VBG fucking) (NN lamp-shade))))) (, ,)) (NP (NN light) (NN bulb)))))) (, ,) (NP (PRP he)) (VP (VBZ 's) (VP (VBN gone))))))"
+12901,"(14,)",,[],X
+12901,"(15,)",Fucking dressing   !,"[Fucking/VBG, dressing/VBG, !/.]",(ROOT (S (VP (VBG Fucking) (S (VP (VBG dressing)))) (. !)))
+12901,"(16,)", it .,"[it/PRP, ./.]",(ROOT (FRAG (NP (PRP it)) (. .)))
+12901,"(17,)",His fucking nose !,"[His/PRP$, fucking/JJ, nose/NN, !/.]",(ROOT (FRAG (NP (PRP$ His) (JJ fucking) (NN nose)) (. !)))
+12901,"(18,)",Do you ever watch London 's Burning ?,"[Do/VB, you/PRP, ever/RB, watch/VBP, London/NNP, 's/POS, Burning/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (ADVP (RB ever)) (VP (VBP watch) (NP (NP (NNP London) (POS 's)) (NN Burning)))))) (. ?)))
+12901,"(19,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+12901,"(20,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+12901,"(21,)",It 's really good .,"[It/PRP, 's/VBZ, really/RB, good/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB really) (JJ good))) (. .)))
+12901,"(22, 23)",No cos I had  I had another   fucking   !,"[No/DT, cos/NN, I/PRP, had/VBD, I/PRP, had/VBD, another/DT, fucking/VBG, !/.]",(ROOT (S (NP (NP (DT No) (NN cos)) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (PRP I)))))) (VP (VBD had) (NP (DT another) (VBG fucking))) (. !)))
+12901,"(24,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+12901,"(25,)",Look at that !,"[Look/VB, at/IN, that/DT, !/.]",(ROOT (S (VP (VB Look) (PP (IN at) (NP (DT that)))) (. !)))
+12901,"(26,)",,[],X
+12901,"(27, 28, 29)","See that , we 're all fucking erm    lying there , glaring under that fucking  bit of timber or something .","[See/VB, that/IN, ,/,, we/PRP, 're/VBP, all/DT, fucking/JJ, erm/NN, lying/VBG, there/RB, ,/,, glaring/VBG, under/IN, that/DT, fucking/JJ, bit/NN, of/IN, timber/NN, or/CC, something/NN, ./.]","(ROOT (S (VP (VB See) (SBAR (IN that) (, ,) (S (NP (PRP we)) (VP (VBP 're) (NP (NP (DT all) (JJ fucking) (NN erm)) (VP (VBG lying) (ADVP (RB there)) (, ,) (S (VP (VBG glaring) (PP (IN under) (NP (NP (DT that) (JJ fucking) (NN bit)) (PP (IN of) (NP (NN timber) (CC or) (NN something))))))))))))) (. .)))"
+12901,"(30,)",Fucking  ,[Fucking/VBG],(ROOT (S (VP (VBG Fucking))))
+12901,"(31,)",And there 's that bit of wood burning between his boots !,"[And/CC, there/EX, 's/VBZ, that/DT, bit/NN, of/IN, wood/NN, burning/NN, between/IN, his/PRP$, boots/NNS, !/.]",(ROOT (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT that) (NN bit)) (PP (IN of) (NP (NP (NN wood) (NN burning)) (PP (IN between) (NP (PRP$ his) (NNS boots))))))) (. !)))
+12901,"(32,)",Yeah that,"[Yeah/UH, that/WDT]",(ROOT (FRAG (WHPP (UH Yeah) (WHNP (WDT that)))))
+12901,"(33,)",And Pete 's going oh oh oh !,"[And/CC, Pete/NNP, 's/POS, going/VBG, oh/UH, oh/UH, oh/UH, !/.]",(ROOT (S (CC And) (ADVP (NNP Pete)) (S (NP (POS 's)) (VP (VBG going) (NP (UH oh)) (NP (UH oh)) (NP (UH oh)))) (. !)))
+12901,"(34,)","And he 's goes , does it hurt , does it hurt ?","[And/CC, he/PRP, 's/VBZ, goes/VBZ, ,/,, does/VBZ, it/PRP, hurt/VB, ,/,, does/VBZ, it/PRP, hurt/VB, ?/.]","(ROOT (SQ (S (CC And) (NP (PRP he)) (VP (VP (VBZ 's) (VP (VBZ goes))) (, ,) (VP (VBZ does) (S (NP (PRP it)) (VP (VB hurt)))))) (, ,) (SQ (VBZ does) (NP (PRP it)) (VP (VB hurt))) (. ?)))"
+12901,"(35, 36)",He goes  I 'm alight !,"[He/PRP, goes/VBZ, I/PRP, 'm/VBP, alight/RB, !/.]",(ROOT (S (NP (PRP He)) (VP (VBZ goes) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB alight)))))) (. !)))
+12901,"(37,)",I 'm alight !,"[I/PRP, 'm/VBP, alight/RB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB alight))) (. !)))
+12901,"(38,)",Well there 's nothing stopping those two !,"[Well/RB, there/EX, 's/VBZ, nothing/NN, stopping/VBG, those/DT, two/CD, !/.]",(ROOT (S (ADVP (RB Well)) (NP (EX there)) (VP (VBZ 's) (ADVP (NN nothing)) (VP (VBG stopping) (NP (DT those) (CD two)))) (. !)))
+12901,"(39,)",,[],X
+12901,"(40,)","Talk about fucking noses , there 's one !","[Talk/NN, about/IN, fucking/JJ, noses/NNS, ,/,, there/EX, 's/VBZ, one/CD, !/.]","(ROOT (S (S (NP (NP (NN Talk)) (PP (IN about) (NP (JJ fucking) (NNS noses))))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (CD one))) (. !)))"
+12901,"(41,)",Aha !,"[Aha/NNP, !/.]",(ROOT (FRAG (NP (NNP Aha)) (. !)))
+12901,"(42,)","Big nose , big ears , big   , big mouth !","[Big/JJ, nose/NN, ,/,, big/JJ, ears/NNS, ,/,, big/JJ, ,/,, big/JJ, mouth/NN, !/.]","(ROOT (NP (NP (JJ Big) (NN nose)) (, ,) (NP (NP (JJ big) (NNS ears)) (, ,) (NP (JJ big) (, ,) (JJ big) (NN mouth))) (. !)))"
+12901,"(43,)",,[],X
+12901,"(44,)",Big   .,"[Big/NNP, ./.]",(ROOT (FRAG (NP (NNP Big)) (. .)))
+12901,"(45,)",No way !,"[No/DT, way/NN, !/.]",(ROOT (NP (DT No) (NN way) (. !)))
+12901,"(46,)",Fucking nightmare !,"[Fucking/VBG, nightmare/NN, !/.]",(ROOT (S (VP (VBG Fucking) (NP (NN nightmare))) (. !)))
+12901,"(47,)","See you later on ,  .","[See/VB, you/PRP, later/RB, on/RB, ,/,, ./.]","(ROOT (S (VP (VB See) (NP (NP (NP (PRP you)) (ADVP (RB later) (RB on))) (, ,))) (. .)))"
+12901,"(48,)",Where you off to ?,"[Where/WRB, you/PRP, off/RP, to/TO, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (NP (PRP you)) (VP (RP off) (PP (TO to)))) (. ?)))
+12901,"(49,)",Gotta see a man about a job .,"[Gotta/NNP, see/VB, a/DT, man/NN, about/IN, a/DT, job/NN, ./.]",(ROOT (S (NP (NNP Gotta)) (VP (VB see) (NP (DT a) (NN man)) (PP (IN about) (NP (DT a) (NN job)))) (. .)))
+12901,"(50,)",    .,[./.],(ROOT (NP (. .)))
+12901,"(51,)",You stupid pratt !,"[You/PRP, stupid/JJ, pratt/NNP, !/.]",(ROOT (NP (NP (PRP You)) (NP (JJ stupid) (NNP pratt)) (. !)))
+12901,"(52,)",God he 's   !,"[God/NNP, he/PRP, 's/VBZ, !/.]",(ROOT (S (NP (NNP God) (PRP he)) (VP (VBZ 's)) (. !)))
+12901,"(53,)","Hurry up , he 's coming to get you !","[Hurry/VB, up/RP, ,/,, he/PRP, 's/VBZ, coming/VBG, to/TO, get/VB, you/PRP, !/.]","(ROOT (S (S (VP (VB Hurry) (PRT (RP up)))) (, ,) (NP (PRP he)) (VP (VBZ 's) (VP (VBG coming) (S (VP (TO to) (VP (VB get) (NP (PRP you))))))) (. !)))"
+12901,"(54,)",Sort them out .,"[Sort/VB, them/PRP, out/RP, ./.]",(ROOT (S (VP (VB Sort) (NP (PRP them)) (PRT (RP out))) (. .)))

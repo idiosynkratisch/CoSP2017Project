@@ -1,0 +1,11 @@
+6209,"(0,)",Morning Dave .,"[Morning/NN, Dave/NNP, ./.]",(ROOT (NP (NP (NN Morning)) (NP (NNP Dave)) (. .)))
+6209,"(1,)",Where is she ?,"[Where/WRB, is/VBZ, she/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ is) (NP (PRP she))) (. ?)))
+6209,"(2,)",Out the back there mate .,"[Out/IN, the/DT, back/RB, there/RB, mate/NN, ./.]",(ROOT (NP (NP (IN Out)) (NP (DT the) (RRC (ADVP (RB back) (RB there)) (NP (NN mate)))) (. .)))
+6209,"(3,)","Is she , oh right .","[Is/VBZ, she/PRP, ,/,, oh/UH, right/RB, ./.]","(ROOT (S (VP (VP (VBZ Is) (NP (PRP she))) (, ,) (VP (NP (UH oh)) (ADVP (RB right)))) (. .)))"
+6209,"(4,)",How are you ?,"[How/WRB, are/VBP, you/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (PRP you))) (. ?)))
+6209,"(5,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+6209,"(6,)", today or this afternoon ?,"[today/NN, or/CC, this/DT, afternoon/NN, ?/.]",(ROOT (FRAG (NP (NP (NN today)) (CC or) (NP (DT this) (NN afternoon))) (. ?)))
+6209,"(7,)",No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+6209,"(8, 9, 10)","There 's erm  there 's the question of erm  they said highlights , football , now what that is I don 't know .","[There/EX, 's/VBZ, erm/NN, there/EX, 's/VBZ, the/DT, question/NN, of/IN, erm/NN, they/PRP, said/VBD, highlights/NNS, ,/,, football/NN, ,/,, now/RB, what/WP, that/DT, is/VBZ, I/PRP, don/VBP, 't/PRP, know/VB, ./.]","(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (NN erm)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT the) (NN question)) (PP (IN of) (NP (NN erm))) (SBAR (S (NP (PRP they)) (VP (VBD said) (NP (NP (NNS highlights)) (, ,) (NP (NN football)) (, ,)) (SBAR (ADVP (RB now)) (WHNP (WP what)) (S (NP (DT that)) (VP (VBZ is) (SBAR (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))))))))))))))))) (. .)))"
+6209,"(11,)",,[],X
+6209,"(12,)",No I don 't think so   .,"[No/DT, I/PRP, don/VBP, 't/PRP, think/VB, so/RB, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so))))) (. .)))

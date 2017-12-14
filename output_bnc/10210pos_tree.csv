@@ -1,0 +1,8 @@
+10210,"(0,)",Oh little babies .,"[Oh/UH, little/RB, babies/NNS, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB little) (NNS babies)))) (. .)))
+10210,"(1,)",Oh dear .,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
+10210,"(2,)",It 's good actually cos it 's not obvious,"[It/PRP, 's/VBZ, good/JJ, actually/RB, cos/NN, it/PRP, 's/VBZ, not/RB, obvious/JJ]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ good) (SBAR (X (ADVP (RB actually)) (NP (NN cos))) (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ obvious)))))))))
+10210,"(3, 4)",I haven 't g- I haven 't got any other tapes .,"[I/PRP, haven/NN, 't/PRP, g-/NN, I/CD, haven/NN, 't/PRP, got/VBD, any/DT, other/JJ, tapes/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (S (NP (PRP 't)) (NP (NP (NN g-) (CD I) (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (DT any) (JJ other) (NNS tapes)))))))) (. .)))
+10210,"(5,)",Oh well wait until that 's finished it 's that 's it then,"[Oh/UH, well/RB, wait/VB, until/IN, that/DT, 's/VBZ, finished/VBN, it/PRP, 's/VBZ, that/DT, 's/VBZ, it/PRP, then/RB]",(ROOT (FRAG (CONJP (UH Oh) (RB well)) (S (VP (VB wait) (SBAR (IN until) (S (NP (DT that)) (VP (VBZ 's) (VP (VBN finished) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (PRP it)) (ADVP (RB then))))))))))))))))
+10210,"(6,)",That 's it then for today .,"[That/DT, 's/VBZ, it/PRP, then/RB, for/IN, today/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it)) (ADVP (RB then)) (PP (IN for) (NP (NN today)))) (. .)))
+10210,"(7,)",till tomorrow .,"[till/IN, tomorrow/NN, ./.]",(ROOT (FRAG (PP (IN till) (NP (NN tomorrow))) (. .)))
+10210,"(8,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

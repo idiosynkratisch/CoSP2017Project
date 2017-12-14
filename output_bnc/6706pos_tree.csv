@@ -1,0 +1,19 @@
+6706,"(0,)",What you doing ?,"[What/WP, you/PRP, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WHNP (WP What)) (NP (PRP you))) (SQ (VP (VBG doing))) (. ?)))
+6706,"(1,)",,[],X
+6706,"(2,)",Do you want to go outside ?,"[Do/VB, you/PRP, want/VBP, to/TO, go/VB, outside/JJ, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (JJ outside))))))))) (. ?)))
+6706,"(3,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+6706,"(4,)",Well you have to put shoes,"[Well/RB, you/PRP, have/VBP, to/TO, put/VB, shoes/NNS]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP you)) (SBAR (S (VP (VBP have) (S (VP (TO to) (VP (VB put) (NP (NNS shoes)))))))))))
+6706,"(5,)",,[],X
+6706,"(6,)",Oh you want to find it .,"[Oh/UH, you/PRP, want/VBP, to/TO, find/VB, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB find) (NP (PRP it))))))) (. .)))
+6706,"(7,)",Let 's go and get your wellies and a big jumper .,"[Let/VB, 's/PRP, go/VB, and/CC, get/VB, your/PRP$, wellies/NNS, and/CC, a/DT, big/JJ, jumper/NN, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB go) (CC and) (VB get) (NP (PRP$ your) (NNS wellies) (CC and) (DT a) (JJ big) (NN jumper))))) (. .)))
+6706,"(8,)",,[],X
+6706,"(9,)",Pardon ?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+6706,"(10,)",,[],X
+6706,"(11,)",Well you can find it can 't you ?,"[Well/RB, you/PRP, can/MD, find/VB, it/PRP, can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (MD can) (VP (VP (VB find) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (NP (PRP 't))))))) (NP (PRP you)))) (. ?)))
+6706,"(12,)",Go and get your wellingtons .,"[Go/VB, and/CC, get/VB, your/PRP$, wellingtons/NNS, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP$ your) (NNS wellingtons))) (. .)))
+6706,"(13,)",,[],X
+6706,"(14,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+6706,"(15,)",,[],X
+6706,"(16,)",Okay .,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+6706,"(17,)",Not today .,"[Not/RB, today/NN, ./.]",(ROOT (FRAG (RB Not) (NP (NN today)) (. .)))
+6706,"(18,)",No okay not today .,"[No/DT, okay/JJ, not/RB, today/NN, ./.]",(ROOT (FRAG (NP (DT No) (ADJP (JJ okay) (RB not)) (NN today)) (. .)))

@@ -1,0 +1,79 @@
+75603,"(0,)",Hello !,"[Hello/UH, !/.]",(ROOT (INTJ (UH Hello) (. !)))
+75603,"(1,)",Oh Christ !,"[Oh/UH, Christ/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP Christ)))) (. !)))
+75603,"(2,)",It 's warm in here !,"[It/PRP, 's/VBZ, warm/JJ, in/IN, here/RB, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ warm) (PP (IN in) (ADVP (RB here))))) (. !)))
+75603,"(3,)",It 's lovely !,"[It/PRP, 's/VBZ, lovely/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ lovely))) (. !)))
+75603,"(4,)",Every time I come in I 'm roasting !,"[Every/DT, time/NN, I/PRP, come/VBP, in/IN, I/PRP, 'm/VBP, roasting/VBG, !/.]",(ROOT (S (NP (DT Every) (NN time)) (NP (PRP I)) (VP (VBP come) (SBAR (IN in) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG roasting)))))) (. !)))
+75603,"(5,)",The wind is quite cold,"[The/DT, wind/NN, is/VBZ, quite/RB, cold/JJ]",(ROOT (S (NP (DT The) (NN wind)) (VP (VBZ is) (ADJP (RB quite) (JJ cold)))))
+75603,"(6,)",I know .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
+75603,"(7,)","Well , int really cold but it 's","[Well/RB, ,/,, int/NN, really/RB, cold/JJ, but/CC, it/PRP, 's/VBZ]","(ROOT (S (ADVP (RB Well)) (, ,) (NP (NP (NP (NN int)) (ADJP (RB really) (JJ cold))) (PP (CC but) (NP (PRP it)))) (VP (VBZ 's))))"
+75603,"(8,)",Open that one as well cos I 'm off .,"[Open/JJ, that/IN, one/CD, as/RB, well/RB, cos/NN, I/PRP, 'm/VBP, off/RP, ./.]",(ROOT (FRAG (ADJP (JJ Open)) (SBAR (IN that) (S (NP (NP (CD one)) (CONJP (RB as) (RB well)) (NP (NP (NN cos)) (NP (PRP I)))) (VP (VBP 'm) (ADJP (RP off))))) (. .)))
+75603,"(9, 10)",Can you tell me how to get Staithes and get to Scarborough and get to  from Scarborough to Whitby by bus presumably .,"[Can/MD, you/PRP, tell/VB, me/PRP, how/WRB, to/TO, get/VB, Staithes/NNS, and/CC, get/VB, to/TO, Scarborough/NNP, and/CC, get/VB, to/TO, from/IN, Scarborough/NNP, to/TO, Whitby/VB, by/IN, bus/NN, presumably/RB, ./.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB tell) (NP (PRP me)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VP (VB get) (NP (NNS Staithes))) (CC and) (VP (VP (VB get) (PP (TO to) (NP (NNP Scarborough)))) (CC and) (VP (VB get) (PP (TO to)) (PP (IN from) (NP (NNP Scarborough))) (S (VP (TO to) (VP (VB Whitby) (PP (IN by) (NP (NN bus))) (ADVP (RB presumably)))))))))))) (. .)))
+75603,"(11,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+75603,"(12,)",Do you have any timetables,"[Do/VB, you/PRP, have/VBP, any/DT, timetables/NNS]",(ROOT (S (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP have) (NP (DT any) (NNS timetables))))))))
+75603,"(13,)",Er,[Er/NN],(ROOT (NP (NN Er)))
+75603,"(14,)",or anything ?,"[or/CC, anything/NN, ?/.]",(ROOT (FRAG (PP (CC or) (NP (NN anything))) (. ?)))
+75603,"(15,)",the only thing I have is   to Scarborough .,"[the/DT, only/JJ, thing/NN, I/PRP, have/VBP, is/VBZ, to/TO, Scarborough/NNP, ./.]",(ROOT (S (NP (NP (DT the) (JJ only) (NN thing)) (SBAR (S (NP (PRP I)) (VP (VBP have))))) (VP (VBZ is) (PP (TO to) (NP (NNP Scarborough)))) (. .)))
+75603,"(16,)",No !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+75603,"(17,)","The only information I have , I 'm afraid cos that 's as far as  ","[The/DT, only/JJ, information/NN, I/PRP, have/VBP, ,/,, I/PRP, 'm/VBP, afraid/JJ, cos/NN, that/WDT, 's/VBZ, as/RB, far/RB, as/IN]","(ROOT (FRAG (NP (NP (DT The) (JJ only) (NN information)) (SBAR (S (S (NP (PRP I)) (VP (VBP have))) (, ,) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ afraid))))))) (X (NP (NN cos)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (RB as) (RB far)) (PP (IN as))))))))"
+75603,"(18,)","Well , where do I get the information then ?","[Well/RB, ,/,, where/WRB, do/VBP, I/PRP, get/VB, the/DT, information/NN, then/RB, ?/.]","(ROOT (SBARQ (FRAG (RB Well)) (, ,) (SBARQ (WHADVP (WRB where)) (SQ (VBP do) (NP (PRP I)) (VP (VB get) (NP (DT the) (NN information)) (ADVP (RB then))))) (. ?)))"
+75603,"(19,)",Who from ?,"[Who/WP, from/IN, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (PP (IN from)) (. ?)))
+75603,"(20,)","Erm , I would think you 'll either have to get it from Scarborough or Whitby .","[Erm/NN, ,/,, I/PRP, would/MD, think/VB, you/PRP, 'll/MD, either/RB, have/VB, to/TO, get/VB, it/PRP, from/IN, Scarborough/NNP, or/CC, Whitby/NNP, ./.]","(ROOT (S (NP (NN Erm)) (PRN (, ,) (S (NP (PRP I)) (VP (MD would) (VP (VB think) (NP (PRP you)))))) (VP (MD 'll) (RB either) (VP (VB have) (S (VP (TO to) (VP (VB get) (NP (PRP it)) (PP (IN from) (NP (NNP Scarborough) (CC or) (NNP Whitby)))))))) (. .)))"
+75603,"(21,)",Is it Staithes ?,"[Is/VBZ, it/PRP, Staithes/VBZ, ?/.]",(ROOT (S (S (VP (VBZ Is) (NP (PRP it)))) (VP (VBZ Staithes)) (. ?)))
+75603,"(22, 23)","Yes , it 's erm  about   I think at Whitby .","[Yes/UH, ,/,, it/PRP, 's/VBZ, erm/NN, about/IN, I/PRP, think/VBP, at/IN, Whitby/NNP, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NN erm)) (SBAR (IN about) (S (NP (PRP I)) (VP (VBP think) (PP (IN at) (NP (NNP Whitby))))))) (. .)))"
+75603,"(24,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75603,"(25,)","It 's a different bus company ,","[It/PRP, 's/VBZ, a/DT, different/JJ, bus/NN, company/NN, ,/,]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (JJ different) (NN bus) (NN company))) (, ,)))"
+75603,"(26,)",Er ri-,"[Er/NN, ri-/NN]",(ROOT (NP (NN Er) (NN ri-)))
+75603,"(27,)",you see .,"[you/PRP, see/VBP, ./.]",(ROOT (S (NP (PRP you)) (VP (VBP see)) (. .)))
+75603,"(28,)","Ah well , can you , have you","[Ah/NN, well/RB, ,/,, can/MD, you/PRP, ,/,, have/VBP, you/PRP]","(ROOT (S (NP (NP (NN Ah) (RB well)) (PRN (, ,) (SINV (VP (MD can)) (NP (PRP you))) (, ,))) (VP (VBP have) (NP (PRP you)))))"
+75603,"(29,)",,[],X
+75603,"(30,)",got the tele- their telephone number for Scarborough ?,"[got/VBD, the/DT, tele-/NN, their/PRP$, telephone/NN, number/NN, for/IN, Scarborough/NNP, ?/.]",(ROOT (S (VP (VBD got) (S (NP (DT the) (NN tele-)) (NP (NP (PRP$ their) (NN telephone) (NN number)) (PP (IN for) (NP (NNP Scarborough)))))) (. ?)))
+75603,"(31, 32)",Erm  >,"[Erm/NN, >/JJR]",(ROOT (NP (NP (NN Erm)) (NP (JJR >))))
+75603,"(33,)",Sorry ?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
+75603,"(34,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+75603,"(35,)",> yes .,"[>/JJR, yes/UH, ./.]",(ROOT (FRAG (JJR >) (INTJ (UH yes)) (. .)))
+75603,"(36,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+75603,"(37,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+75603,"(38,)",>,[>/JJR],(ROOT (ADJP (JJR >)))
+75603,"(39,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+75603,"(40,)",And what bus company is it then ?,"[And/CC, what/WP, bus/NN, company/NN, is/VBZ, it/PRP, then/RB, ?/.]",(ROOT (FRAG (CC And) (SBAR (WHNP (WP what)) (S (NP (NN bus) (NN company)) (VP (VBZ is) (NP (PRP it)) (ADVP (RB then))))) (. ?)))
+75603,"(41,)",Just Scarborough ?,"[Just/RB, Scarborough/NNP, ?/.]",(ROOT (FRAG (ADVP (RB Just)) (NP (NNP Scarborough)) (. ?)))
+75603,"(42,)",Scarborough District .,"[Scarborough/NNP, District/NNP, ./.]",(ROOT (NP (NNP Scarborough) (NNP District) (. .)))
+75603,"(43,)","They 're useless , aren 't they ?","[They/PRP, 're/VBP, useless/JJ, ,/,, aren/NNP, 't/PRP, they/PRP, ?/.]","(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ useless)) (, ,) (S (NP (NNP aren) (PRP 't)) (NP (PRP they)))) (. ?)))"
+75603,"(44,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+75603,"(45,)","I don 't , I mean , I haven 't , I 'm not useless cos I can give you information we have here but I 'm not at that end I can 't you see  ","[I/PRP, don/VBP, 't/PRP, ,/,, I/PRP, mean/VBP, ,/,, I/PRP, haven/NN, 't/PRP, ,/,, I/PRP, 'm/VBP, not/RB, useless/JJ, cos/NN, I/PRP, can/MD, give/VB, you/PRP, information/NN, we/PRP, have/VBP, here/RB, but/CC, I/PRP, 'm/VBP, not/RB, at/IN, that/DT, end/NN, I/PRP, can/MD, 't/PRP, you/PRP, see/VBP]","(ROOT (S (NP (PRP I)) (VP (VBP don) (S (S (NP (PRP 't)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP mean) (, ,) (S (NP (PRP I)) (VP (NN haven) (NP (PRP 't)))))) (, ,)) (NP (PRP I)) (VP (VBP 'm) (NP (ADJP (RB not) (JJ useless)) (NN cos)))) (S (NP (PRP I)) (VP (MD can) (VP (VB give) (NP (PRP you)) (NP (NN information))))) (S (NP (PRP we)) (VP (VBP have) (ADVP (RB here)))) (CC but) (S (NP (PRP I)) (VP (VBP 'm) (RB not) (PP (IN at) (NP (NP (DT that) (NN end)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (NP (PRP 't)))))))))) (S (NP (PRP you)) (VP (VBP see)))))))"
+75603,"(46,)","Oh , erm","[Oh/UH, ,/,, erm/NN]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (NP (NN erm))))"
+75603,"(47,)",Scarborough .,"[Scarborough/NNP, ./.]",(ROOT (FRAG (NP (NNP Scarborough)) (. .)))
+75603,"(48,)",oh .,"[oh/UH, ./.]",(ROOT (INTJ (UH oh) (. .)))
+75603,"(49,)","Oh , I would 've thought","[Oh/UH, ,/,, I/PRP, would/MD, 've/VB, thought/VBN]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (MD would) (VP (VB 've))) (VBN thought)))"
+75603,"(50,)",But they could,"[But/CC, they/PRP, could/MD]",(ROOT (S (CC But) (NP (PRP they)) (VP (MD could))))
+75603,"(51,)",you might 've had some timetables like they have on the train,"[you/PRP, might/MD, 've/VB, had/VBD, some/DT, timetables/NNS, like/IN, they/PRP, have/VBP, on/IN, the/DT, train/NN]",(ROOT (S (NP (PRP you)) (VP (MD might) (VP (VB 've) (VP (VBD had) (NP (NP (DT some) (NNS timetables)) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP have) (VP (PP (IN on) (NP (DT the) (NN train)))))))))))))
+75603,"(52,)",Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+75603,"(53,)",now,[now/RB],(ROOT (ADVP (RB now)))
+75603,"(54,)","yeah , I know .","[yeah/UH, ,/,, I/PRP, know/VBP, ./.]","(ROOT (S (INTJ (UH yeah)) (, ,) (NP (PRP I)) (VP (VBP know)) (. .)))"
+75603,"(55,)",I mean it 's funny   anyway .,"[I/PRP, mean/VBP, it/PRP, 's/VBZ, funny/JJ, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ funny)) (ADVP (RB anyway)))))) (. .)))
+75603,"(56,)", Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+75603,"(57,)",Going to be a long journey I would think cos it 's an hour and a half from here to Scarborough on the bus .,"[Going/VBG, to/TO, be/VB, a/DT, long/JJ, journey/NN, I/PRP, would/MD, think/VB, cos/NN, it/PRP, 's/VBZ, an/DT, hour/NN, and/CC, a/DT, half/NN, from/IN, here/RB, to/TO, Scarborough/NNP, on/IN, the/DT, bus/NN, ./.]",(ROOT (S (S (VP (VBG Going) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ long) (NN journey))))))) (NP (PRP I)) (VP (MD would) (VP (VB think) (NP (NP (NN cos)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT an) (NN hour)) (CC and) (NP (DT a) (NN half))))))) (PP (IN from) (NP (RB here))) (PP (TO to) (NP (NP (NNP Scarborough)) (PP (IN on) (NP (DT the) (NN bus))))))) (. .)))
+75603,"(58,)",I can be making ,"[I/PRP, can/MD, be/VB, making/VBG]",(ROOT (S (NP (PRP I)) (VP (MD can) (VP (VB be) (VP (VBG making))))))
+75603,"(59,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75603,"(60,)",One and a half ?,"[One/CD, and/CC, a/DT, half/NN, ?/.]",(ROOT (NP (NP (CD One)) (QP (CC and) (DT a) (NN half)) (. ?)))
+75603,"(61,)",,[],X
+75603,"(62,)",,[],X
+75603,"(63,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75603,"(64,)",Will I go from here to ,"[Will/MD, I/PRP, go/VB, from/IN, here/RB, to/TO]",(ROOT (SINV (MD Will) (NP (PRP I)) (VP (VB go) (PP (IN from) (NP (RB here))) (PP (TO to)))))
+75603,"(65,)",To where ?,"[To/TO, where/WRB, ?/.]",(ROOT (SQ (VP (TO To) (SBARQ (WHADVP (WRB where)))) (. ?)))
+75603,"(66,)", mother-in-law 's there and by the time I get to Filey ,"[mother-in-law/NN, 's/POS, there/EX, and/CC, by/IN, the/DT, time/NN, I/PRP, get/VBP, to/TO, Filey/VB]",(ROOT (FRAG (NP (NP (NN mother-in-law)) (SBAR (S (S (NP (POS 's)) (NP (EX there))) (CC and) (S (PP (IN by) (NP (DT the) (NN time))) (NP (PRP I)) (VP (VBP get) (S (VP (TO to) (VP (VB Filey)))))))))))
+75603,"(67,)",,[],X
+75603,"(68,)", I do !,"[I/PRP, do/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP do)) (. !)))
+75603,"(69,)","Mind you , when I get to Filey   take me home and I think that 's  ","[Mind/VB, you/PRP, ,/,, when/WRB, I/PRP, get/VBP, to/TO, Filey/NNP, take/VB, me/PRP, home/NN, and/CC, I/PRP, think/VBP, that/DT, 's/VBZ]","(ROOT (S (VP (VB Mind) (NP (PRP you)) (, ,) (SBAR (WHADVP (WRB when)) (S (S (NP (PRP I)) (VP (VBP get) (PP (TO to) (NP (NNP Filey))) (S (VP (VB take) (NP (PRP me)) (ADVP (NN home)))))) (CC and) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's)))))))))))"
+75603,"(70,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75603,"(71,)",Do they go to Pocklington occasionally  ,"[Do/VB, they/PRP, go/VB, to/TO, Pocklington/NNP, occasionally/RB]",(ROOT (S (VP (VB Do) (S (NP (PRP they)) (VP (VB go) (PP (TO to) (NP (NNP Pocklington))) (ADVP (RB occasionally)))))))
+75603,"(72,)", I can imagine,"[I/PRP, can/MD, imagine/VB]",(ROOT (S (NP (PRP I)) (VP (MD can) (VP (VB imagine)))))
+75603,"(73,)",You know when it takes you what,"[You/PRP, know/VBP, when/WRB, it/PRP, takes/VBZ, you/PRP, what/WDT]",(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ takes) (S (NP (PRP you)) (NP (WDT what)))))))))
+75603,"(74,)",Yeah .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+75603,"(75,)","twenty five minutes in a car and it takes you about an , an hour on the bus .","[twenty/CD, five/CD, minutes/NNS, in/IN, a/DT, car/NN, and/CC, it/PRP, takes/VBZ, you/PRP, about/IN, an/DT, ,/,, an/DT, hour/NN, on/IN, the/DT, bus/NN, ./.]","(ROOT (S (NP (NP (CD twenty) (CD five) (NNS minutes)) (PP (IN in) (NP (NP (DT a) (NN car)) (CC and) (NP (PRP it))))) (VP (VP (VBZ takes) (NP (PRP you)) (PP (IN about) (NP (DT an)))) (, ,) (NP (NP (DT an) (NN hour)) (PP (IN on) (NP (DT the) (NN bus))))) (. .)))"
+75603,"(76,)","Yeah , that 's it , innit ?","[Yeah/UH, ,/,, that/DT, 's/VBZ, it/PRP, ,/,, innit/NNP, ?/.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (PRP it)) (, ,) (NP (NNP innit)))) (. ?)))"
+75603,"(77,)","Anyway , thanks very much !","[Anyway/RB, ,/,, thanks/NNS, very/RB, much/RB, !/.]","(ROOT (FRAG (ADVP (RB Anyway)) (, ,) (ADVP (ADVP (NP (NNS thanks)) (RB very)) (RB much)) (. !)))"
+75603,"(78,)",Bye !,"[Bye/NN, !/.]",(ROOT (NP (NN Bye) (. !)))
+75603,"(79,)",Sorry !,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))
+75603,"(80,)",Bye !,"[Bye/NN, !/.]",(ROOT (NP (NN Bye) (. !)))
+75603,"(81,)",Bye !,"[Bye/NN, !/.]",(ROOT (NP (NN Bye) (. !)))

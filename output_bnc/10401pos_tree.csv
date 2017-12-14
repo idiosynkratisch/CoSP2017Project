@@ -1,0 +1,5 @@
+10401,"(0,)",I haven 't done the dusting .,"[I/PRP, haven/NN, 't/PRP, done/VBD, the/DT, dusting/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD done) (NP (DT the) (VBG dusting)))))) (. .)))
+10401,"(1,)","Oh , terrible .","[Oh/UH, ,/,, terrible/JJ, ./.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (JJ terrible)) (. .)))"
+10401,"(2,)","But , huh .","[But/CC, ,/,, huh/NNP, ./.]","(ROOT (FRAG (CC But) (, ,) (NP (NNP huh)) (. .)))"
+10401,"(3,)",  .,[./.],(ROOT (NP (. .)))
+10401,"(4,)","But , erm , I have done the hoovering .","[But/CC, ,/,, erm/NN, ,/,, I/PRP, have/VBP, done/VBN, the/DT, hoovering/NN, ./.]","(ROOT (S (CC But) (, ,) (NP (NN erm)) (, ,) (NP (PRP I)) (VP (VBP have) (VP (VBN done) (NP (DT the) (NN hoovering)))) (. .)))"

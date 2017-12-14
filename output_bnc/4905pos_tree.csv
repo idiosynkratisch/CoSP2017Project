@@ -1,0 +1,13 @@
+4905,"(0,)",No I should put your anorak on cos it 's getting cooler .,"[No/DT, I/PRP, should/MD, put/VB, your/PRP$, anorak/NN, on/IN, cos/NN, it/PRP, 's/VBZ, getting/VBG, cooler/JJR, ./.]",(ROOT (S (S (NP (DT No) (PRP I)) (VP (MD should) (VP (VB put) (NP (PRP$ your) (NN anorak)) (PP (IN on) (NP (NN cos)))))) (NP (PRP it)) (VP (VBZ 's) (VP (VBG getting) (NP (JJR cooler)))) (. .)))
+4905,"(1,)","Oh , alright .","[Oh/UH, ,/,, alright/JJ, ./.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (JJ alright)) (. .)))"
+4905,"(2,)","I wouldn 't be out too long cos , it .","[I/PRP, wouldn/VBP, 't/PRP, be/VB, out/RB, too/RB, long/JJ, cos/NN, ,/,, it/PRP, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP wouldn) (S (NP (PRP 't)) (VP (VB be) (NP (NP (ADJP (RB out) (RB too) (JJ long)) (NN cos)) (, ,) (NP (PRP it)))))) (. .)))"
+4905,"(3,)",Do what ?,"[Do/VB, what/WP, ?/.]",(ROOT (S (VP (VB Do) (FRAG (SBARQ (WHNP (WP what)) (. ?))))))
+4905,"(4,)",Well you tend to cough don 't you ?,"[Well/RB, you/PRP, tend/VBP, to/TO, cough/VB, don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP tend) (S (VP (TO to) (VP (VB cough) (S (VP (NNP don) (S (NP (PRP 't)) (NP (PRP you))))))))) (. ?)))
+4905,"(5,)",Hm .,"[Hm/NNS, ./.]",(ROOT (NP (NNS Hm) (. .)))
+4905,"(6, 7)", I 'd really rather you wo-  got a bit better .,"[I/PRP, 'd/MD, really/RB, rather/RB, you/PRP, wo-/JJ, got/VBD, a/DT, bit/NN, better/RBR, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'd) (ADVP (RB really)) (VP (ADVP (RB rather) (ADJP (NP (PRP you)) (JJ wo-))) (VBD got) (S (NP (DT a) (NN bit)) (ADJP (RBR better))))) (. .)))
+4905,"(8,)",Is that   .,"[Is/VBZ, that/IN, ./.]",(ROOT (S (VP (VBZ Is) (ADJP (IN that))) (. .)))
+4905,"(9,)",Pardon .,"[Pardon/NN, ./.]",(ROOT (NP (NN Pardon) (. .)))
+4905,"(10,)",Are you going to put your anorak on ?,"[Are/VBP, you/PRP, going/VBG, to/TO, put/VB, your/PRP$, anorak/NN, on/IN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB put) (NP (PRP$ your) (NN anorak)) (PP (IN on)))))) (. ?)))
+4905,"(11,)",No I 'm not going to   .,"[No/DT, I/PRP, 'm/VBP, not/RB, going/VBG, to/TO, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG going) (PP (TO to)))) (. .)))
+4905,"(12,)","What you going , oh , oh I see  .","[What/WP, you/PRP, going/VBG, ,/,, oh/UH, ,/,, oh/UH, I/PRP, see/VBP, ./.]","(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBG going)))) (, ,) (S (INTJ (UH oh) (, ,) (UH oh)) (NP (PRP I)) (VP (VBP see))) (. .)))"
+4905,"(13,)",  .,[./.],(ROOT (NP (. .)))

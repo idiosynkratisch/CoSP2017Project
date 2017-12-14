@@ -1,0 +1,20 @@
+67502,"(0,)",What 's in it ?,"[What/WP, 's/VBZ, in/IN, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (PP (IN in) (NP (PRP it)))) (. ?)))
+67502,"(1,)",Mm .,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+67502,"(2,)",Nothing much .,"[Nothing/NN, much/RB, ./.]",(ROOT (FRAG (NP (NN Nothing) (RB much)) (. .)))
+67502,"(3,)",That .,"[That/DT, ./.]",(ROOT (FRAG (NP (DT That)) (. .)))
+67502,"(4,)",Ha ?,"[Ha/NNP, ?/.]",(ROOT (FRAG (NP (NNP Ha)) (. ?)))
+67502,"(5,)",Mummy .,"[Mummy/NN, ./.]",(ROOT (NP (NN Mummy) (. .)))
+67502,"(6,)",Mummy .,"[Mummy/NN, ./.]",(ROOT (NP (NN Mummy) (. .)))
+67502,"(7,)",Who are you gonna go up with now then ?,"[Who/WP, are/VBP, you/PRP, gonna/VB, go/VB, up/RP, with/IN, now/RB, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBP are) (NP (PRP you)) (VP (VB gonna) (VP (VB go) (PRT (RP up)) (PP (IN with) (NP (RB now))) (ADVP (RB then))))) (. ?)))
+67502,"(8,)",If you went up .,"[If/IN, you/PRP, went/VBD, up/RB, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBD went) (ADVP (RB up))))) (. .)))
+67502,"(9,)","No , I don 't know .","[No/DT, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))"
+67502,"(10,)",Good enough .,"[Good/JJ, enough/RB, ./.]",(ROOT (FRAG (ADJP (JJ Good) (RB enough)) (. .)))
+67502,"(11,)",If you want it .,"[If/IN, you/PRP, want/VBP, it/PRP, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (NP (PRP it))))) (. .)))
+67502,"(12,)",You 've dropped it .,"[You/PRP, 've/VBP, dropped/VBD, it/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBD dropped) (NP (PRP it)))) (. .)))
+67502,"(13,)",,[],X
+67502,"(14,)",,[],X
+67502,"(15,)",,[],X
+67502,"(16,)",,[],X
+67502,"(17,)",,[],X
+67502,"(18,)",,[],X
+67502,"(19, 20)", And she 's just found out that he    ,"[And/CC, she/PRP, 's/VBZ, just/RB, found/VBN, out/IN, that/IN, he/PRP]",(ROOT (S (CC And) (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN found) (S (ADJP (IN out))) (SBAR (IN that) (S (NP (PRP he))))))))

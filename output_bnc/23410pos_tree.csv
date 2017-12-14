@@ -1,0 +1,20 @@
+23410,"(0,)","Come on , you 're losing your touch now .","[Come/VB, on/RP, ,/,, you/PRP, 're/VBP, losing/VBG, your/PRP$, touch/NN, now/RB, ./.]","(ROOT (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBG losing) (NP (PRP$ your) (NN touch)) (ADVP (RB now)))) (. .)))"
+23410,"(1,)","Come on , give me a kiss .","[Come/VB, on/RP, ,/,, give/VB, me/PRP, a/DT, kiss/NN, ./.]","(ROOT (S (VP (VP (VB Come) (PRT (RP on))) (, ,) (VP (VB give) (NP (PRP me)) (NP (DT a) (NN kiss)))) (. .)))"
+23410,"(2,)",Go on .,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
+23410,"(3,)","Quick , quick quick quick .","[Quick/JJ, ,/,, quick/JJ, quick/JJ, quick/JJ, ./.]","(ROOT (FRAG (ADJP (JJ Quick) (, ,) (JJ quick) (JJ quick)) (ADJP (JJ quick) (. .))))"
+23410,"(4,)",Good boy  ,"[Good/JJ, boy/NN]",(ROOT (INTJ (JJ Good) (NN boy)))
+23410,"(5,)",,[],X
+23410,"(6,)",Go on .,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
+23410,"(7,)",Get it Rick .,"[Get/VB, it/PRP, Rick/NNP, ./.]",(ROOT (S (VP (VB Get) (S (NP (PRP it)) (NP (NNP Rick)))) (. .)))
+23410,"(8,)",Go on .,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
+23410,"(9,)",Hey !,"[Hey/UH, !/.]",(ROOT (INTJ (UH Hey) (. !)))
+23410,"(10,)", Kiss .,"[Kiss/VB, ./.]",(ROOT (S (VP (VB Kiss)) (. .)))
+23410,"(11,)",And me .,"[And/CC, me/PRP, ./.]",(ROOT (S (NP (CC And)) (VP (ADVP (PRP me))) (. .)))
+23410,"(12,)",Give me one .,"[Give/VB, me/PRP, one/CD, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (CD one))) (. .)))
+23410,"(13,)",Give me a kiss .,"[Give/VB, me/PRP, a/DT, kiss/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (DT a) (NN kiss))) (. .)))
+23410,"(14,)",Kiss .,"[Kiss/VB, ./.]",(ROOT (S (VP (VB Kiss)) (. .)))
+23410,"(15,)",Give me a kiss .,"[Give/VB, me/PRP, a/DT, kiss/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (DT a) (NN kiss))) (. .)))
+23410,"(16,)",Give me a kiss .,"[Give/VB, me/PRP, a/DT, kiss/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (DT a) (NN kiss))) (. .)))
+23410,"(17,)","If you don 't kiss , kiss  ","[If/IN, you/PRP, don/VBP, 't/PRP, kiss/VB, ,/,, kiss/VB]","(ROOT (NP (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB kiss)))))) (, ,) (VP (VB kiss)))))"
+23410,"(18,)",Rick Rick Rick Rick Hey .,"[Rick/NNP, Rick/NNP, Rick/NNP, Rick/NNP, Hey/UH, ./.]",(ROOT (S (NP (NNP Rick) (NNP Rick) (NNP Rick)) (VP (NNP Rick) (NP (UH Hey))) (. .)))
+23410,"(19,)",Oh thanks Rick .,"[Oh/UH, thanks/NNS, Rick/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNS thanks) (NNP Rick)))) (. .)))

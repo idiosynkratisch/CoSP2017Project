@@ -1,0 +1,4 @@
+2702,"(0,)","Yes , that 's the , that 's the sort of problem I 'm in for isn 't it ?","[Yes/UH, ,/,, that/DT, 's/VBZ, the/DT, ,/,, that/DT, 's/VBZ, the/DT, sort/NN, of/IN, problem/NN, I/PRP, 'm/VBP, in/IN, for/IN, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the)) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN sort)) (PP (IN of) (NP (NN problem))) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (IN in) (PP (IN for) (NP (NN isn)))) (NP (PRP 't))))))) (NP (PRP it)))))) (. ?)))"
+2702,"(1,)",,[],X
+2702,"(2,)",Yes .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+2702,"(3,)",,[],X

@@ -1,0 +1,9 @@
+39805,"(0,)","I 've got a funny hat on , ah that 's fair enough isn 't it ?","[I/PRP, 've/VBP, got/VBD, a/DT, funny/JJ, hat/NN, on/IN, ,/,, ah/NN, that/WDT, 's/VBZ, fair/JJ, enough/JJ, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NP (DT a) (JJ funny) (NN hat)) (PP (IN on))) (, ,) (NP (NP (NN ah)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (JJ fair) (JJ enough) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))))))))) (. ?)))"
+39805,"(1,)", Some people like it .,"[Some/DT, people/NNS, like/IN, it/PRP, ./.]",(ROOT (NP (NP (DT Some) (NNS people)) (PP (IN like) (NP (PRP it))) (. .)))
+39805,"(2,)",It keeps  ,"[It/PRP, keeps/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ keeps))))
+39805,"(3,)", That 's right .,"[That/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right))) (. .)))
+39805,"(4,)",It needs to .,"[It/PRP, needs/VBZ, to/TO, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ needs) (PP (TO to))) (. .)))
+39805,"(5,)",,[],X
+39805,"(6,)",,[],X
+39805,"(7,)",,[],X
+39805,"(8, 9)",  funny hat ,"[funny/JJ, hat/NN]",(ROOT (NP (JJ funny) (NN hat)))

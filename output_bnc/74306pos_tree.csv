@@ -1,0 +1,4 @@
+74306,"(0,)",But mum I haven 't,"[But/CC, mum/NN, I/CD, haven/NN, 't/PRP]",(ROOT (NP (NP (NP (ADVP (CC But)) (NN mum)) (NP (CD I) (NN haven))) (NP (PRP 't))))
+74306,"(1,)",You like a   don 't ya ?,"[You/PRP, like/IN, a/DT, don/NNP, 't/PRP, ya/PRP, ?/.]",(ROOT (X (NP (NP (PRP You)) (PP (IN like) (NP (DT a) (NNP don)))) (NP (NP (PRP 't)) (NP (PRP ya))) (. ?)))
+74306,"(2,)",yes please mum,"[yes/UH, please/UH, mum/SYM]",(ROOT (S (VP (UH yes) (NP (UH please)) (X (SYM mum)))))
+74306,"(3,)","right , er","[right/NN, ,/,, er/NN]","(ROOT (NP (NP (NN right)) (, ,) (NP (NN er))))"
