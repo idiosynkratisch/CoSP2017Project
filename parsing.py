@@ -29,7 +29,8 @@ unannotated = set(unannotated) - set(untagged)
 #start the JVM
 stanford_folder = "stanford-parser-full-2017-06-09"
 startJVM(getDefaultJVMPath(),
-         "-ea", 
+         "-ea",
+         "-mx2048m",
          "-Djava.class.path={}".format(stanford_folder))
 
 #import all needed Java classes
