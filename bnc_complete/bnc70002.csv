@@ -1,0 +1,14 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB8.xml,KB8RE00M,70002,0,,A,1,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KB/KB8.xml,KB8RE00M,70002,1,,A,1,2,Where's your mum?,"[Where/WRB, 's/POS, your/PRP$, mum/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (PRP$ your) (NN mum))) (. ?)))
+K/KB/KB8.xml,KB8RE00M,70002,2,,B,2,1,(()) parked over there.,"[parked/VBN, over/IN, there/RB, ./.]",(ROOT (S (VP (VBN parked) (PP (IN over) (NP (RB there)))) (. .)))
+K/KB/KB8.xml,KB8RE00M,70002,3,,A,3,1,"Alright, I've gotta go and see her.","[Alright/NNP, ,/,, I/PRP, 've/VBP, gotta/NNP, go/VB, and/CC, see/VB, her/PRP, ./.]","(ROOT (S (NP (NNP Alright)) (, ,) (NP (PRP I)) (VP (VBP 've) (S (NP (NNP gotta)) (VP (VB go) (CC and) (VB see) (NP (PRP her))))) (. .)))"
+K/KB/KB8.xml,KB8RE00M,70002,4,,A,3,2,Right pet.,"[Right/JJ, pet/NN, ./.]",(ROOT (NP (JJ Right) (NN pet) (. .)))
+K/KB/KB8.xml,KB8RE00M,70002,5,,A,3,3,Your Granny Iris get here?,"[Your/PRP$, Granny/NNP, Iris/NNP, get/VB, here/RB, ?/.]",(ROOT (S (NP (PRP$ Your) (NNP Granny) (NNP Iris)) (VP (VB get) (ADVP (RB here))) (. ?)))
+K/KB/KB8.xml,KB8RE00M,70002,6,,B,4,1,Yeah she doesn't come here (()) ,"[Yeah/UH, she/PRP, doesn/VBZ, 't/PRP, come/VBN, here/RB]",(ROOT (SBAR (UH Yeah) (S (NP (PRP she)) (VP (VBZ doesn) (S (NP (PRP 't)) (VP (VBN come) (ADVP (RB here))))))))
+K/KB/KB8.xml,KB8RE00M,70002,7,,A,5,1,"No but she, she came, she's come to stay with you.","[No/DT, but/CC, she/PRP, ,/,, she/PRP, came/VBD, ,/,, she/PRP, 's/VBZ, come/VBN, to/TO, stay/VB, with/IN, you/PRP, ./.]","(ROOT (S (ADVP (DT No) (CC but)) (PRN (S (NP (PRP she)) (, ,) (NP (PRP she)) (VP (VBD came))) (, ,)) (NP (PRP she)) (VP (VBZ 's) (VP (VBN come) (S (VP (TO to) (VP (VB stay) (PP (IN with) (NP (PRP you)))))))) (. .)))"
+K/KB/KB8.xml,KB8RE00M,70002,8,,B,6,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KB8.xml,KB8RE00M,70002,9,,A,7,1,"Yes, alright pet.","[Yes/UH, ,/,, alright/JJ, pet/NN, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (NP (JJ alright) (NN pet) (. .))))"
+K/KB/KB8.xml,KB8RE00M,70002,10,,A,7,2,See you  --,"[See/VB, you/PRP, Bye/VBP, !/.]",(ROOT (S (VP (VB See) (SBAR (S (NP (PRP you)) (VP (VBP Bye))))) (. !)))
+K/KB/KB8.xml,KB8RE00M,70002,11,,A,7,3,--Bye!,"[See/VB, you/PRP, Bye/VBP, !/.]",(ROOT (S (VP (VB See) (SBAR (S (NP (PRP you)) (VP (VBP Bye))))) (. !)))
+K/KB/KB8.xml,KB8RE00M,70002,12,,A,7,4,Whoops!,"[Whoops/NNP, !/.]",(ROOT (FRAG (NP (NNP Whoops)) (. !)))

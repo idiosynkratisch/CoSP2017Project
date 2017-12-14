@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE00L,6904,0,,A,1,1,Mu who's that?,"[Mu/NN, who/WP, 's/VBZ, that/IN, ?/.]",(ROOT (FRAG (NP (NP (NN Mu)) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (ADJP (IN that)))))) (. ?)))
+K/KD/KDE.xml,KDERE00L,6904,1,,B,2,1,Mhm?,"[Mhm/NNP, ?/.]",(ROOT (FRAG (NP (NNP Mhm)) (. ?)))
+K/KD/KDE.xml,KDERE00L,6904,2,,A,3,1,Who (()) ,[Who/WP],(ROOT (FRAG (WHNP (WP Who))))
+K/KD/KDE.xml,KDERE00L,6904,3,,B,4,1,Who's what?,"[Who/WP, 's/VBZ, what/WP, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (NP (WP what)))) (. ?)))
+K/KD/KDE.xml,KDERE00L,6904,4,,A,5,1,Who's in that car.,"[Who/WP, 's/VBZ, in/IN, that/DT, car/NN, ./.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (PP (IN in) (NP (DT that) (NN car)))) (. .)))
+K/KD/KDE.xml,KDERE00L,6904,5,,B,6,1,Well they're just people.,"[Well/RB, they/PRP, 're/VBP, just/RB, people/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP 're) (ADVP (RB just)) (NP (NNS people))) (. .)))
+K/KD/KDE.xml,KDERE00L,6904,6,,B,6,2,"<car horn> Go on, out the way for god's sake.","[Go/VB, on/IN, ,/,, out/IN, the/DT, way/NN, for/IN, god/NNP, 's/POS, sake/NN, ./.]","(ROOT (S (VP (VB Go) (PP (IN on)) (, ,) (PP (IN out) (NP (NP (DT the) (NN way)) (PP (IN for) (NP (NP (NNP god) (POS 's)) (NN sake)))))) (. .)))"
+K/KD/KDE.xml,KDERE00L,6904,7,,A,7,1,Why (()) ,[Why/WRB],(ROOT (INTJ (WRB Why)))
+K/KD/KDE.xml,KDERE00L,6904,8,,B,8,1,Well it's just a stupid person who can't drive properly.,"[Well/RB, it/PRP, 's/VBZ, just/RB, a/DT, stupid/JJ, person/NN, who/WP, can/MD, 't/PRP, drive/VB, properly/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (NP (DT a) (JJ stupid) (NN person)) (SBAR (WHNP (WP who)) (SINV (MD can) (NP (PRP 't)) (VP (VB drive) (ADVP (RB properly))))))) (. .)))

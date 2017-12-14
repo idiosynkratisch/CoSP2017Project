@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE059,2718,0,,A,1,1,I've got to get up to that next (()) .,"[I/PRP, 've/VBP, got/VBN, to/TO, get/VB, up/RP, to/TO, that/DT, next/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB get) (PRT (RP up)) (PP (TO to) (NP (DT that) (JJ next)))))))) (. .)))
+K/KB/KBK.xml,KBKRE059,2718,1,,A,1,2,"<hits ball> I put the yellow up onto hoop three,(()) <hits ball> Gone the wrong side.","[I/PRP, put/VBD, the/DT, yellow/JJ, up/IN, onto/IN, hoop/NN, three/CD, ,/,, Gone/VBN, the/DT, wrong/JJ, side/NN, ./.]","(ROOT (S (NP (PRP I)) (VP (VBD put) (NP (DT the) (JJ yellow)) (ADVP (IN up) (PP (IN onto) (NP (NP (NN hoop) (CD three)) (, ,) (VP (VBN Gone) (NP (DT the) (JJ wrong) (NN side))))))) (. .)))"
+K/KB/KBK.xml,KBKRE059,2718,2,,B,2,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KB/KBK.xml,KBKRE059,2718,3,,B,2,2,"Yellow's nice, yeah, ah.","[Yellow/NNP, 's/POS, nice/JJ, ,/,, yeah/UH, ,/,, ah/NN, ./.]","(ROOT (NP (NP (NP (NNP Yellow) (POS 's)) (NP (NP (ADJP (ADJP (JJ nice)) (PRN (, ,) (INTJ (UH yeah)) (, ,)))) (NP (NN ah)))) (. .)))"
+K/KB/KBK.xml,KBKRE059,2718,4,,A,3,1,I don't think I'll have a chance (()) .,"[I/PRP, don/VBP, 't/PRP, think/VB, I/PRP, 'll/MD, have/VB, a/DT, chance/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (DT a) (NN chance))))))))) (. .)))
+K/KB/KBK.xml,KBKRE059,2718,5,,B,4,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE059,2718,6,,B,4,2,Can you change your own ball during a go?,"[Can/MD, you/PRP, change/VB, your/PRP$, own/JJ, ball/NN, during/IN, a/DT, go/NN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB change) (NP (PRP$ your) (JJ own) (NN ball)) (PP (IN during) (NP (DT a) (NN go)))) (. ?)))
+K/KB/KBK.xml,KBKRE059,2718,7,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE059,2718,8,,B,6,1,Right.<hits ball> ,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KB/KBK.xml,KBKRE059,2718,9,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE059,2718,10,,B,8,1,"Right, right.","[Right/NN, ,/,, right/NN, ./.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NN right)) (. .)))"

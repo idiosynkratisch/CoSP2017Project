@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD0.xml,KD0RE00J,17007,0,,A,1,1,Recording commences at three past two.,"[Recording/VBG, commences/NNS, at/IN, three/CD, past/JJ, two/CD, ./.]",(ROOT (NP (NP (VBG Recording) (NNS commences)) (PP (IN at) (NP (CD three) (JJ past) (NX (CD two)))) (. .)))
+K/KD/KD0.xml,KD0RE00J,17007,1,,A,1,2,With   <laughing> (()) </laughing> .,"[With/IN, ./.]",(ROOT (FRAG (PP (IN With)) (. .)))
+K/KD/KD0.xml,KD0RE00J,17007,2,,B,2,1,Got a Palace  --,"[Got/VBD, a/DT, Palace/NN, picture/NN, on/IN, ./.]",(ROOT (S (VP (VBD Got) (NP (DT a) (NN Palace) (NN picture)) (PP (IN on))) (. .)))
+K/KD/KD0.xml,KD0RE00J,17007,3,,B,2,2,--picture on.,"[Got/VBD, a/DT, Palace/NN, picture/NN, on/IN, ./.]",(ROOT (S (VP (VBD Got) (NP (DT a) (NN Palace) (NN picture)) (PP (IN on))) (. .)))
+K/KD/KD0.xml,KD0RE00J,17007,4,,A,3,1,Man United!,"[Man/NN, United/NNP, !/.]",(ROOT (NP (NP (NN Man)) (NP (NNP United)) (. !)))
+K/KD/KD0.xml,KD0RE00J,17007,5,,B,4,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+K/KD/KD0.xml,KD0RE00J,17007,6,,B,4,2,Don't let them out.,"[Don/NNP, 't/PRP, let/VB, them/PRP, out/RP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB let) (NP (PRP them)) (PRT (RP out))) (. .)))
+K/KD/KD0.xml,KD0RE00J,17007,7,,B,4,3,They can stay there.,"[They/PRP, can/MD, stay/VB, there/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (MD can) (VP (VB stay) (ADVP (RB there)))) (. .)))
+K/KD/KD0.xml,KD0RE00J,17007,8,,B,4,4,We hate United.,"[We/PRP, hate/VBP, United/NNP, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP hate) (NP (NNP United))) (. .)))

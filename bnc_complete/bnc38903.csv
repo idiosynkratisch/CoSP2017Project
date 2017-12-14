@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01W,38903,0,,A,1,1,It means that when the,"[It/PRP, means/VBZ, that/IN, when/WRB, the/DT]",(ROOT (S (NP (PRP It)) (VP (VBZ means) (VP (FRAG (SBAR (IN that) (FRAG (WHADVP (WRB when)) (ADJP (DT the)))))))))
+K/KE/KE2.xml,KE2RE01W,38903,1,,B,2,1,When the other side have got ,"[When/WRB, the/DT, other/JJ, side/NN, have/VBP, got/VBN]",(ROOT (SBAR (WHADVP (WRB When)) (S (NP (DT the) (JJ other) (NN side)) (VP (VBP have) (VP (VBN got))))))
+K/KE/KE2.xml,KE2RE01W,38903,2,,A,3,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE01W,38903,3,,B,4,1,when the other have got one off.,"[when/WRB, the/DT, other/JJ, have/VBP, got/VBN, one/CD, off/RB, ./.]",(ROOT (FRAG (SBAR (WHADVP (WRB when)) (S (NP (DT the) (JJ other)) (VP (VBP have) (VP (VBN got) (ADVP (NP (CD one)) (RB off)))))) (. .)))
+K/KE/KE2.xml,KE2RE01W,38903,4,,B,4,2,Again.,"[Again/RB, ./.]",(ROOT (FRAG (ADVP (RB Again)) (. .)))
+K/KE/KE2.xml,KE2RE01W,38903,5,,B,4,3,That's two nil.,"[That/DT, 's/VBZ, two/CD, nil/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (CD two) (NN nil))) (. .)))
+K/KE/KE2.xml,KE2RE01W,38903,6,,B,4,4,That's it.,"[That/DT, 's/VBZ, it/PRP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it))) (. .)))

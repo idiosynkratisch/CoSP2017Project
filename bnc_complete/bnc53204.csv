@@ -1,0 +1,36 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCM.xml,KCMRE002,53204,0,,A,1,1,Nineteen.,"[Nineteen/CD, ./.]",(ROOT (FRAG (NP (CD Nineteen)) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,1,,A,1,2,Ought to do it.,"[Ought/MD, to/TO, do/VB, it/PRP, ./.]",(ROOT (S (VP (MD Ought) (S (VP (TO to) (VP (VB do) (NP (PRP it)))))) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,2,,A,1,3,Ooh!,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+K/KC/KCM.xml,KCMRE002,53204,3,,A,1,4,Sixteen.,"[Sixteen/CD, ./.]",(ROOT (FRAG (NP (CD Sixteen)) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,4,,B,2,1,Ooh!,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+K/KC/KCM.xml,KCMRE002,53204,5,,A,3,1,Jono   --,"[Jono/NNP, Jon/NNP, ./.]",(ROOT (NP (NNP Jono) (NNP Jon) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,6,,A,3,2,--(()) Jon.,"[Jono/NNP, Jon/NNP, ./.]",(ROOT (NP (NNP Jono) (NNP Jon) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,7,,A,3,3,<laugh> Is it twenty?(()) ,"[Is/VBZ, it/PRP, twenty/CD, ?/.]",(ROOT (S (VP (VBZ Is) (NP (NP (PRP it)) (ADJP (CD twenty)))) (. ?)))
+K/KC/KCM.xml,KCMRE002,53204,8,,B,4,1,(()) ,[],X
+K/KC/KCM.xml,KCMRE002,53204,9,,A,5,1,Afraid it is.,"[Afraid/JJ, it/PRP, is/VBZ, ./.]",(ROOT (S (ADJP (JJ Afraid)) (NP (PRP it)) (VP (VBZ is)) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,10,,A,5,2,Ooh  --,"[Ooh/NNP, yes/UH, !/.]",(ROOT (S (VP (PP (NNP Ooh) (NP (UH yes)))) (. !)))
+K/KC/KCM.xml,KCMRE002,53204,11,,A,5,3,--yes!,"[Ooh/NNP, yes/UH, !/.]",(ROOT (S (VP (PP (NNP Ooh) (NP (UH yes)))) (. !)))
+K/KC/KCM.xml,KCMRE002,53204,12,,A,5,4,Sixteen  --,"[Sixteen/CD, thirty/CD, ,/,, forty/CD, one/CD, ./., ?/.]","(ROOT (FRAG (NP (NP (CD Sixteen) (CD thirty)) (, ,) (NP (CD forty) (CD one)) (. .)) (. ?)))"
+K/KC/KCM.xml,KCMRE002,53204,13,,A,5,5,"--thirty, forty one.--","[Sixteen/CD, thirty/CD, ,/,, forty/CD, one/CD, ./., ?/.]","(ROOT (FRAG (NP (NP (CD Sixteen) (CD thirty)) (, ,) (NP (CD forty) (CD one)) (. .)) (. ?)))"
+K/KC/KCM.xml,KCMRE002,53204,14,,A,5,6,--(()) ?,"[Sixteen/CD, thirty/CD, ,/,, forty/CD, one/CD, ./., ?/.]","(ROOT (FRAG (NP (NP (CD Sixteen) (CD thirty)) (, ,) (NP (CD forty) (CD one)) (. .)) (. ?)))"
+K/KC/KCM.xml,KCMRE002,53204,15,,B,6,1,<laughing> Hundred and forty </laughing> ,"[Hundred/CD, and/CC, forty/CD]",(ROOT (NP (NP (CD Hundred)) (CC and) (NP (CD forty))))
+K/KC/KCM.xml,KCMRE002,53204,16,,A,7,1,Hundred and forty left.,"[Hundred/CD, and/CC, forty/CD, left/VBN, ./.]",(ROOT (S (NP (CD Hundred) (CC and) (CD forty)) (VP (VBN left)) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,17,,A,7,2,Treble twenty.,"[Treble/NNP, twenty/CD, ./.]",(ROOT (NP (NP (NNP Treble)) (NP (CD twenty)) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,18,,A,7,3,Ooh ,[Ooh/NNP],(ROOT (NP (NNP Ooh)))
+K/KC/KCM.xml,KCMRE002,53204,19,,B,8,1,(()) ,[],X
+K/KC/KCM.xml,KCMRE002,53204,20,,A,9,1,And the tops!(()) ,"[And/CC, the/DT, tops/NNS, !/.]",(ROOT (FRAG (CC And) (SBAR (WHNP (DT the)) (FRAG (NP (NNS tops)))) (. !)))
+K/KC/KCM.xml,KCMRE002,53204,21,,B,10,1,Ooh thirty eighty scored.,"[Ooh/NNP, thirty/CD, eighty/CD, scored/VBN, ./.]",(ROOT (S (NP (NP (NNP Ooh) (CD thirty)) (NP (CD eighty))) (VP (VBN scored)) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,22,,A,11,1,Jono,[Jono/NNP],(ROOT (NP (NNP Jono)))
+K/KC/KCM.xml,KCMRE002,53204,23,,B,12,1,Four O three  --,"[Four/CD, O/NN, three/CD, thirty/CD, eight/CD, Oh/UH, God/NNP, !four/NNP, O/NN, three/CD, thirty/CD, eight/CD]",(ROOT (FRAG (X (X (NP (NP (CD Four)) (NP (NN O))) (NP (CD three)) (NP (NP (CD thirty)) (NP (NP (CD eight)) (SBAR (S (VP (NP (INTJ (UH Oh)) (NP (NNP God) (NNP !four))))))))) (NP (NN O) (CD three))) (NP (CD thirty) (CD eight))))
+K/KC/KCM.xml,KCMRE002,53204,24,,B,12,2,--thirty eight  <laugh> Oh God!--,"[Four/CD, O/NN, three/CD, thirty/CD, eight/CD, Oh/UH, God/NNP, !four/NNP, O/NN, three/CD, thirty/CD, eight/CD]",(ROOT (FRAG (X (X (NP (NP (CD Four)) (NP (NN O))) (NP (CD three)) (NP (NP (CD thirty)) (NP (NP (CD eight)) (SBAR (S (VP (NP (INTJ (UH Oh)) (NP (NNP God) (NNP !four))))))))) (NP (NN O) (CD three))) (NP (CD thirty) (CD eight))))
+K/KC/KCM.xml,KCMRE002,53204,25,,B,12,3,--four O three   (()) --,"[Four/CD, O/NN, three/CD, thirty/CD, eight/CD, Oh/UH, God/NNP, !four/NNP, O/NN, three/CD, thirty/CD, eight/CD]",(ROOT (FRAG (X (X (NP (NP (CD Four)) (NP (NN O))) (NP (CD three)) (NP (NP (CD thirty)) (NP (NP (CD eight)) (SBAR (S (VP (NP (INTJ (UH Oh)) (NP (NNP God) (NNP !four))))))))) (NP (NN O) (CD three))) (NP (CD thirty) (CD eight))))
+K/KC/KCM.xml,KCMRE002,53204,26,,B,12,4,--thirty eight (()) ,"[Four/CD, O/NN, three/CD, thirty/CD, eight/CD, Oh/UH, God/NNP, !four/NNP, O/NN, three/CD, thirty/CD, eight/CD]",(ROOT (FRAG (X (X (NP (NP (CD Four)) (NP (NN O))) (NP (CD three)) (NP (NP (CD thirty)) (NP (NP (CD eight)) (SBAR (S (VP (NP (INTJ (UH Oh)) (NP (NNP God) (NNP !four))))))))) (NP (NN O) (CD three))) (NP (CD thirty) (CD eight))))
+K/KC/KCM.xml,KCMRE002,53204,27,,A,13,1,Hey these look good on my darts.,"[Hey/UH, these/DT, look/VBP, good/JJ, on/IN, my/PRP$, darts/NN, ./.]",(ROOT (S (S (INTJ (UH Hey)) (NP (DT these)) (VP (VBP look) (ADJP (JJ good)) (PP (IN on) (NP (PRP$ my) (NN darts))))) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,28,,A,13,2,(()) fit  --,"[fit/VB, Just/RB, get/VB, out/IN, of/IN, my/PRP$, way/NN, ./.]",(ROOT (S (VP (VB fit) (RB Just) (VP (VB get) (PRT (IN out)) (PP (IN of) (NP (PRP$ my) (NN way))))) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,29,,A,13,3,--Just get out of my way.,"[fit/VB, Just/RB, get/VB, out/IN, of/IN, my/PRP$, way/NN, ./.]",(ROOT (S (VP (VB fit) (RB Just) (VP (VB get) (PRT (IN out)) (PP (IN of) (NP (PRP$ my) (NN way))))) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,30,,B,14,1,<laugh> ,[],X
+K/KC/KCM.xml,KCMRE002,53204,31,,A,15,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,32,,A,15,2,Yes!,"[Yes/UH, !/.]",(ROOT (INTJ (UH Yes) (. !)))
+K/KC/KCM.xml,KCMRE002,53204,33,,A,15,3,Sixty.,"[Sixty/CD, ./.]",(ROOT (FRAG (NP (CD Sixty)) (. .)))
+K/KC/KCM.xml,KCMRE002,53204,34,,B,16,1,Jono now ,"[Jono/NNP, now/RB]",(ROOT (FRAG (NP (NNP Jono)) (NP (RB now))))

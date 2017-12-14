@@ -1,0 +1,83 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB5.xml,KB5RE003,5704,0,,A,1,1,<strange clucking noise> ,[],X
+K/KB/KB5.xml,KB5RE003,5704,1,,B,2,1,Come through (()) .,"[Come/VBN, through/IN, ./.]",(ROOT (FRAG (PP (VBN Come) (PP (IN through))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,2,,A,3,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,3,,B,4,1,That's disgusting.,"[That/DT, 's/VBZ, disgusting/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ disgusting))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,4,,A,5,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE003,5704,5,,A,5,2,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,6,,B,6,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,7,,A,7,1,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
+K/KB/KB5.xml,KB5RE003,5704,8,,B,8,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,9,,A,9,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,10,,A,9,2,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE003,5704,11,,B,10,1,<laugh> Right (()) .,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,12,,A,11,1,Yeah it'll have to be count.,"[Yeah/UH, it/PRP, 'll/MD, have/VB, to/TO, be/VB, count/NN, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP it)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB be) (NP (NN count)))))))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,13,,B,12,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE003,5704,14,,A,13,1,It's out of order.,"[It/PRP, 's/VBZ, out/IN, of/IN, order/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (IN out) (PP (IN of) (NP (NN order))))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,15,,B,14,1,"Yeah, I know.","[Yeah/UH, ,/,, I/PRP, know/VBP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBP know)) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,16,,A,15,1,Get on to.,"[Get/VB, on/IN, to/TO, ./.]",(ROOT (S (VP (VB Get) (PP (IN on) (PP (TO to)))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,17,,B,16,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,18,,A,17,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,19,,B,18,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE003,5704,20,,A,19,1,"(()) I'm gonna grow erm, because I could","[I/PRP, 'm/VBP, gonna/NNP, grow/VB, erm/NN, ,/,, because/IN, I/PRP, could/MD]","(ROOT (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NNP gonna)) (VP (VB grow) (NP (NN erm)))) (, ,) (SBAR (IN because) (S (NP (PRP I)) (VP (MD could)))))))"
+K/KB/KB5.xml,KB5RE003,5704,21,,B,20,1,"Yeah, she's got eyes like (()) , she (()) .","[Yeah/UH, ,/,, she/PRP, 's/VBZ, got/VBN, eyes/NNS, like/IN, ,/,, she/PRP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (NNS eyes)) (PP (IN like)) (, ,) (S (NP (PRP she))))) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,22,,A,21,1,Did she?,"[Did/VBD, she/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP she))) (. ?)))
+K/KB/KB5.xml,KB5RE003,5704,23,,A,21,2,Woman.,"[Woman/NN, ./.]",(ROOT (INTJ (NN Woman) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,24,,B,22,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,25,,A,23,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,26,,B,24,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,27,,A,25,1,I (()) .,"[I/PRP, ./.]",(ROOT (FRAG (NP (PRP I)) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,28,,B,26,1,It's covered.,"[It/PRP, 's/VBZ, covered/VBN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN covered))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,29,,A,27,1,"I meant cut the erm,(()) .","[I/PRP, meant/VBD, cut/VBN, the/DT, erm/NN, ,/,, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD meant) (VP (VBN cut) (NP (DT the) (NN erm)))) (, ,)) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,30,,B,28,1,So I've given you five (()) .,"[So/IN, I/PRP, 've/VBP, given/VBN, you/PRP, five/CD, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (VBP 've) (VP (VBN given) (NP (PRP you)) (NP (CD five)))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,31,,A,29,1,Think you can  (()) alright?,"[Think/VB, you/PRP, can/MD, alright/VB, ?/.]",(ROOT (SQ (VP (VB Think) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (VB alright)))))) (. ?)))
+K/KB/KB5.xml,KB5RE003,5704,32,,B,30,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,33,,A,31,1,Yeah I'll get around to it.,"[Yeah/UH, I/PRP, 'll/MD, get/VB, around/IN, to/TO, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (MD 'll) (VP (VB get) (PP (IN around) (PP (TO to) (NP (PRP it))))))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,34,,B,32,1,Darling.,"[Darling/NN, ./.]",(ROOT (NP (NN Darling) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,35,,A,33,1,"I will, honest  --","[I/PRP, will/MD, ,/,, honest/JJ, You/PRP, ./.]","(ROOT (S (NP (PRP I)) (VP (VP (MD will)) (, ,) (VP (ADVP (JJ honest)) (NP (PRP You)))) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,36,,A,33,2,--You (()) .,"[I/PRP, will/MD, ,/,, honest/JJ, You/PRP, ./.]","(ROOT (S (NP (PRP I)) (VP (VP (MD will)) (, ,) (VP (ADVP (JJ honest)) (NP (PRP You)))) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,37,,B,34,1,I (()) .,"[I/PRP, ./.]",(ROOT (FRAG (NP (PRP I)) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,38,,A,35,1,Hi Eric.,"[Hi/UH, Eric/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Hi)) (NP (NNP Eric)))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,39,,B,36,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,40,,A,37,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,41,,B,38,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,42,,A,39,1,Nor for the fun of  (()) like.,"[Nor/CC, for/IN, the/DT, fun/NN, of/IN, like/IN, ./.]",(ROOT (FRAG (CC Nor) (SBAR (IN for) (FRAG (NP (NP (DT the) (NN fun)) (PP (IN of) (PP (IN like)))))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,43,,B,40,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE003,5704,44,,A,41,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,45,,A,41,2,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE003,5704,46,,B,42,1,I have (()) .,"[I/PRP, have/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,47,,A,43,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,48,,B,44,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,49,,A,45,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,50,,A,45,2,What is it I (()) .,"[What/WP, is/VBZ, it/PRP, I/PRP, ./.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (PRP it)) (NP (PRP I)) (. .))))
+K/KB/KB5.xml,KB5RE003,5704,51,,A,45,3,It's dark and (()) .,"[It/PRP, 's/VBZ, dark/JJ, and/CC, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ dark)) (ADVP (CC and))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,52,,B,46,1,No.<laugh> ,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,53,,A,47,1,It (()) .,"[It/PRP, ./.]",(ROOT (FRAG (NP (PRP It)) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,54,,B,48,1,(()) chance to see him in (()) .,"[chance/NN, to/TO, see/VB, him/PRP, in/IN, ./.]",(ROOT (FRAG (NP (NN chance)) (S (VP (TO to) (VP (VB see) (NP (PRP him)) (PP (IN in))))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,55,,A,49,1,"Erm, actually he's darker than (()) , it's yellow.","[Erm/NN, ,/,, actually/RB, he/PRP, 's/VBZ, darker/JJR, than/IN, ,/,, it/PRP, 's/VBZ, yellow/JJ, ./.]","(ROOT (S (NP (NN Erm)) (, ,) (ADVP (RB actually)) (NP (PRP he)) (VP (VBZ 's) (NP (JJR darker)) (SBAR (IN than) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ yellow)))))) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,56,,B,50,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,57,,A,51,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KB/KB5.xml,KB5RE003,5704,58,,A,51,2,It's yellow.(()) ,"[It/PRP, 's/VBZ, yellow/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ yellow))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,59,,B,52,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,60,,A,53,1,"No, it's me doing that not someone else.","[No/DT, ,/,, it/PRP, 's/VBZ, me/PRP, doing/VBG, that/IN, not/RB, someone/NN, else/RB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP me)) (VP (VBG doing) (SBAR (IN that) (RB not) (FRAG (NP (NN someone) (RB else))))))) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,61,,B,54,1,What?<laugh> (()) ,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KB/KB5.xml,KB5RE003,5704,62,,A,55,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,63,,B,56,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,64,,A,57,1,Nothing (()) .,"[Nothing/NN, ./.]",(ROOT (NP (NN Nothing) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,65,,B,58,1,(()) Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,66,,A,59,1,Sorry  (()) eh.,"[Sorry/JJ, eh/UH, ./.]",(ROOT (FRAG (PP (JJ Sorry) (NP (UH eh))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,67,,B,60,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KB/KB5.xml,KB5RE003,5704,68,,A,61,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KB/KB5.xml,KB5RE003,5704,69,,A,61,2,I'm not gonna shave that for three weeks.,"[I/PRP, 'm/VBP, not/RB, gonna/VB, shave/VB, that/DT, for/IN, three/CD, weeks/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VB gonna) (VP (VB shave) (NP (NP (DT that)) (PP (IN for) (NP (CD three) (NNS weeks))))))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,70,,B,62,1,That'll look nice.(()) ,"[That/DT, 'll/MD, look/VB, nice/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (MD 'll) (VP (VB look) (ADJP (JJ nice)))) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,71,,A,63,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,72,,A,63,2,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,73,,B,64,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,74,,A,65,1,"No that, that is right really threatening.","[No/DT, that/IN, ,/,, that/DT, is/VBZ, right/JJ, really/RB, threatening/VBG, ./.]","(ROOT (S (ADVP (DT No) (IN that)) (, ,) (NP (DT that)) (VP (VBZ is) (ADJP (JJ right)) (S (ADVP (RB really)) (VP (VBG threatening)))) (. .)))"
+K/KB/KB5.xml,KB5RE003,5704,75,,B,66,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KB5.xml,KB5RE003,5704,76,,A,67,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,77,,B,68,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,78,,A,69,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,79,,B,70,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,80,,A,71,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE003,5704,81,,B,72,1,<laugh> ,[],X

@@ -1,0 +1,38 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC1.xml,KC1RE00V,41103,0,,A,1,1,"I say, I'll pop in on the old (()) .","[I/PRP, say/VBP, ,/,, I/PRP, 'll/MD, pop/VB, in/IN, on/IN, the/DT, old/JJ, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP say))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB pop) (PP (IN in) (PP (IN on) (NP (DT the) (JJ old)))))) (. .)))"
+K/KC/KC1.xml,KC1RE00V,41103,1,,A,1,2,Yeah!,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
+K/KC/KC1.xml,KC1RE00V,41103,2,,A,1,3,"Certainly, yeah!","[Certainly/RB, ,/,, yeah/UH, !/.]","(ROOT (INTJ (INTJ (RB Certainly)) (, ,) (INTJ (UH yeah) (. !))))"
+K/KC/KC1.xml,KC1RE00V,41103,3,,A,1,4,So I I'd do it today ,"[So/IN, I/PRP, I/PRP, 'd/MD, do/VB, it/PRP, today/NN]",(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB do) (NP (PRP it)) (NP (NN today)))))))))
+K/KC/KC1.xml,KC1RE00V,41103,4,,A,1,5,Fix you up with something.,"[Fix/VB, you/PRP, up/RP, with/IN, something/NN, ./.]",(ROOT (S (VP (VB Fix) (NP (PRP you)) (PP (RP up) (PP (IN with) (NP (NN something))))) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,5,,A,1,6,but I'm a bit pushed for time ,"[but/CC, I/PRP, 'm/VBP, a/DT, bit/NN, pushed/VBD, for/IN, time/NN]",(ROOT (S (CC but) (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a) (NN bit)) (SBAR (S (VP (VBD pushed) (PP (IN for) (NP (NN time))))))))))
+K/KC/KC1.xml,KC1RE00V,41103,6,,A,1,7,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,7,,A,1,8,today.,"[today/NN, ./.]",(ROOT (NP (NN today) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,8,,A,1,9,Cos I'm,"[Cos/NNP, I/PRP, 'm/VBP]",(ROOT (FRAG (NP (NP (NNP Cos)) (SBAR (S (NP (PRP I)) (VP (VBP 'm)))))))
+K/KC/KC1.xml,KC1RE00V,41103,9,,A,1,10,The F S T's ,"[The/DT, F/NN, S/NNS, T/NN, 's/POS]",(ROOT (NP (NP (DT The) (NN F)) (NP (NP (NNS S)) (NP (NN T) (POS 's)))))
+K/KC/KC1.xml,KC1RE00V,41103,10,,A,1,11,"Cos I'm always, I'm always down here you see,e- anyway.","[Cos/NNP, I/PRP, 'm/VBP, always/RB, ,/,, I/PRP, 'm/VBP, always/RB, down/RB, here/RB, you/PRP, see/VBP, ,e-/JJ, anyway/RB, ./.]","(ROOT (S (NP (NP (NNP Cos)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB always)))))) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADVP (RB always) (RB down)) (NP (NP (RB here)) (SBAR (S (NP (PRP you)) (VP (VBP see) (NP (JJ ,e-)) (ADVP (RB anyway))))))) (. .)))"
+K/KC/KC1.xml,KC1RE00V,41103,11,,A,1,12,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,12,,A,1,13,"The F S T ones with the guarantee about one fifty, but that's ","[The/DT, F/NN, S/NNS, T/NN, ones/NNS, with/IN, the/DT, guarantee/NN, about/IN, one/CD, fifty/CD, ,/,, but/CC, that/DT, 's/VBZ]","(ROOT (UCP (PP (NP (DT The) (NN F) (NNS S) (NN T) (NNS ones)) (PP (IN with) (NP (NP (DT the) (NN guarantee)) (PP (IN about) (NP (CD one) (CD fifty)))))) (, ,) (CC but) (SBAR (WHNP (DT that)) (S (VP (VBZ 's))))))"
+K/KC/KC1.xml,KC1RE00V,41103,13,,A,1,14,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,14,,A,1,15,about  --,"[about/IN, a/DT, four/CD, hundred/CD, could/MD, set/VB, you/PRP]",(ROOT (PP (IN about) (NP (NP (DT a) (QP (CD four) (CD hundred))) (SBAR (S (VP (MD could) (VP (VB set) (NP (PRP you)))))))))
+K/KC/KC1.xml,KC1RE00V,41103,15,,A,1,16,--a four hundred  --,"[about/IN, a/DT, four/CD, hundred/CD, could/MD, set/VB, you/PRP]",(ROOT (PP (IN about) (NP (NP (DT a) (QP (CD four) (CD hundred))) (SBAR (S (VP (MD could) (VP (VB set) (NP (PRP you)))))))))
+K/KC/KC1.xml,KC1RE00V,41103,16,,A,1,17,--could set you,"[about/IN, a/DT, four/CD, hundred/CD, could/MD, set/VB, you/PRP]",(ROOT (PP (IN about) (NP (NP (DT a) (QP (CD four) (CD hundred))) (SBAR (S (VP (MD could) (VP (VB set) (NP (PRP you)))))))))
+K/KC/KC1.xml,KC1RE00V,41103,17,,A,1,18,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,18,,A,1,19,"But, we get cheaper ones as well.","[But/CC, ,/,, we/PRP, get/VBP, cheaper/JJR, ones/NNS, as/RB, well/RB, ./.]","(ROOT (S (CC But) (, ,) (NP (PRP we)) (VP (VBP get) (NP (JJR cheaper) (NNS ones)) (ADVP (RB as) (RB well))) (. .)))"
+K/KC/KC1.xml,KC1RE00V,41103,19,,A,1,20,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,20,,A,1,21,Alright!,"[Alright/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Alright)) (. !)))
+K/KC/KC1.xml,KC1RE00V,41103,21,,A,1,22,Alright!,"[Alright/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Alright)) (. !)))
+K/KC/KC1.xml,KC1RE00V,41103,22,,A,1,23,Lovely!,"[Lovely/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. !)))
+K/KC/KC1.xml,KC1RE00V,41103,23,,A,1,24,Cheers then!,"[Cheers/NNS, then/RB, !/.]",(ROOT (FRAG (NP (NNS Cheers)) (ADVP (RB then)) (. !)))
+K/KC/KC1.xml,KC1RE00V,41103,24,,A,1,25,Two boxes from Toshiba handsets.,"[Two/CD, boxes/NNS, from/IN, Toshiba/NNP, handsets/NNS, ./.]",(ROOT (NP (NP (CD Two) (NNS boxes)) (PP (IN from) (NP (NNP Toshiba) (NNS handsets))) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,25,,B,2,1,Ah yes!,"[Ah/NN, yes/RB, !/.]",(ROOT (FRAG (NP (NN Ah) (RB yes)) (. !)))
+K/KC/KC1.xml,KC1RE00V,41103,26,,B,2,2,Have you got any  --,"[Have/VB, you/PRP, got/VBD, any/DT, zero/CD, one/CD, two/CD, seven/CD, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (NP (DT any) (CD zero) (CD one)) (NP (CD two) (CD seven)))))) (. ?)))
+K/KC/KC1.xml,KC1RE00V,41103,27,,B,2,3,--zero one two seven?,"[Have/VB, you/PRP, got/VBD, any/DT, zero/CD, one/CD, two/CD, seven/CD, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (NP (DT any) (CD zero) (CD one)) (NP (CD two) (CD seven)))))) (. ?)))
+K/KC/KC1.xml,KC1RE00V,41103,28,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,29,,B,4,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE00V,41103,30,,A,5,1,Well actually I want some Toshiba  --,"[Well/RB, actually/RB, I/PRP, want/VBP, some/DT, Toshiba/NNP, zero/CD, two/CD, eights/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (RB actually) (PRP I)) (VP (VBP want) (NP (NP (DT some) (NNP Toshiba) (CD zero)) (NP (CD two) (NNS eights)))) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,31,,A,5,2,--zero two eights.,"[Well/RB, actually/RB, I/PRP, want/VBP, some/DT, Toshiba/NNP, zero/CD, two/CD, eights/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (RB actually) (PRP I)) (VP (VBP want) (NP (NP (DT some) (NNP Toshiba) (CD zero)) (NP (CD two) (NNS eights)))) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,32,,B,6,1,Have you got some?,"[Have/VB, you/PRP, got/VBD, some/RB, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (RB some))))) (. ?)))
+K/KC/KC1.xml,KC1RE00V,41103,33,,A,7,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,34,,A,7,2,Got some.,"[Got/VBD, some/DT, ./.]",(ROOT (S (VP (VBD Got) (NP (DT some))) (. .)))
+K/KC/KC1.xml,KC1RE00V,41103,35,,A,7,3,"Ninety pence each, not too bad I suppose.","[Ninety/CD, pence/NN, each/DT, ,/,, not/RB, too/RB, bad/JJ, I/PRP, suppose/VBP, ./.]","(ROOT (S (NP (NP (NP (CD Ninety) (NN pence)) (NP (DT each))) (, ,) (ADJP (RB not) (RB too) (JJ bad))) (NP (PRP I)) (VP (VBP suppose)) (. .)))"
+K/KC/KC1.xml,KC1RE00V,41103,36,,B,8,1,Cheap!,"[Cheap/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Cheap)) (. !)))

@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBL.xml,KBLRE00K,40505,0,,A,1,1,Well speak Jessica!,"[Well/RB, speak/VB, Jessica/NNP, !/.]",(ROOT (S (INTJ (RB Well)) (VP (VB speak) (NP (NNP Jessica))) (. !)))
+K/KB/KBL.xml,KBLRE00K,40505,1,,A,1,2,Is that beetroot nice?,"[Is/VBZ, that/IN, beetroot/NN, nice/JJ, ?/.]",(ROOT (SQ (VBZ Is) (NP (NP (IN that)) (NP (NN beetroot))) (ADJP (JJ nice)) (. ?)))
+K/KB/KBL.xml,KBLRE00K,40505,2,,B,2,1,Don't know.,"[Don/NNP, 't/PRP, know/VBP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP know)) (. .)))
+K/KB/KBL.xml,KBLRE00K,40505,3,,A,3,1,What's wrong with it?,"[What/WP, 's/VBZ, wrong/JJ, with/IN, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBZ 's) (ADJP (JJ wrong) (PP (IN with) (NP (PRP it)))))) (. ?)))
+K/KB/KBL.xml,KBLRE00K,40505,4,,A,3,2,Why aren't you using a spoon?(()) !,"[Why/WRB, aren/NNP, 't/PRP, you/PRP, using/VBG, a/DT, spoon/NNP, ?/., !/.]",(ROOT (FRAG (SBAR (WHADVP (WRB Why) (NP (NP (NNP aren)) (NP (PRP 't)))) (S (NP (PRP you)) (VP (VBG using) (NP (DT a) (NNP spoon)))) (. ?)) (. !)))
+K/KB/KBL.xml,KBLRE00K,40505,5,,B,4,1,I'll spoon it in!,"[I/PRP, 'll/MD, spoon/NNP, it/PRP, in/IN, !/.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (S (NP (NNP spoon) (PRP it))) (PP (IN in)))) (. !)))
+K/KB/KBL.xml,KBLRE00K,40505,6,,A,5,1,Don't be funny!,"[Don/NNP, 't/PRP, be/VB, funny/JJ, !/.]",(ROOT (SQ (NNP Don) (NP (PRP 't)) (VP (VB be) (ADJP (JJ funny))) (. !)))

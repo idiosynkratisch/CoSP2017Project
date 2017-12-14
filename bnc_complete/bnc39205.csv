@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE02N,39205,0,,A,1,1,I couldn't hear you then?,"[I/PRP, couldn/VBP, 't/PRP, hear/VB, you/PRP, then/RB, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP couldn) (S (NP (PRP 't)) (VP (VB hear) (NP (PRP you)) (ADVP (RB then))))) (. ?)))
+K/KE/KE2.xml,KE2RE02N,39205,1,,B,2,1,"No it's alright I, I answered myself.","[No/DT, it/PRP, 's/VBZ, alright/JJ, I/PRP, ,/,, I/PRP, answered/VBD, myself/PRP, ./.]","(ROOT (S (S (NP (DT No) (PRP it)) (VP (VBZ 's) (ADJP (JJ alright) (NP (PRP I))))) (, ,) (NP (PRP I)) (VP (VBD answered) (NP (PRP myself))) (. .)))"
+K/KE/KE2.xml,KE2RE02N,39205,2,,B,2,2,I said yes you did.,"[I/PRP, said/VBD, yes/UH, you/PRP, did/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (INTJ (UH yes)) (NP (PRP you)) (VP (VBD did))))) (. .)))
+K/KE/KE2.xml,KE2RE02N,39205,3,,A,3,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KE/KE2.xml,KE2RE02N,39205,4,,B,4,1,<laughing> Bring out knives </laughing> .,"[Bring/VB, out/RP, knives/NNS, ./.]",(ROOT (S (VP (VB Bring) (PRT (RP out)) (NP (NNS knives))) (. .)))
+K/KE/KE2.xml,KE2RE02N,39205,5,,A,5,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))

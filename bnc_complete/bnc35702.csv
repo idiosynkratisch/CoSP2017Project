@@ -1,0 +1,21 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD7.xml,KD7RE00F,35702,0,,A,1,1,He was ready to start arguing last night again.,"[He/PRP, was/VBD, ready/JJ, to/TO, start/VB, arguing/VBG, last/JJ, night/NN, again/RB, ./.]",(ROOT (S (NP (PRP He)) (VP (VBD was) (ADJP (JJ ready) (S (VP (TO to) (VP (VB start) (S (VP (VBG arguing) (NP (JJ last) (NN night)) (ADVP (RB again))))))))) (. .)))
+K/KD/KD7.xml,KD7RE00F,35702,1,,B,2,1,Oh!(()) going on like he is.,"[Oh/UH, !/., going/VBG, on/IN, like/IN, he/PRP, is/VBZ, ./.]",(ROOT (S (INTJ (UH Oh) (. !)) (VP (VBG going) (PP (IN on) (SBAR (IN like) (S (NP (PRP he)) (VP (VBZ is)))))) (. .)))
+K/KD/KD7.xml,KD7RE00F,35702,2,,A,3,1,That's it!(()) ,"[That/DT, 's/VBZ, it/PRP, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it))) (. !)))
+K/KD/KD7.xml,KD7RE00F,35702,3,,B,4,1,You didn't say nothing?,"[You/PRP, didn/VBP, 't/PRP, say/VB, nothing/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB say) (NP (NN nothing))))) (. ?)))
+K/KD/KD7.xml,KD7RE00F,35702,4,,A,5,1,"No, because he wanted  --","[No/DT, ,/,, because/IN, he/PRP, wanted/VBD, to/TO, take/VB, the/DT, car/NN, out/RP, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (SBAR (IN because) (S (NP (PRP he)) (VP (VBD wanted) (S (VP (TO to) (VP (VB take) (NP (DT the) (NN car)) (PRT (RP out)))))))) (. .)))"
+K/KD/KD7.xml,KD7RE00F,35702,5,,A,5,2,--to take the car out.,"[No/DT, ,/,, because/IN, he/PRP, wanted/VBD, to/TO, take/VB, the/DT, car/NN, out/RP, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (SBAR (IN because) (S (NP (PRP he)) (VP (VBD wanted) (S (VP (TO to) (VP (VB take) (NP (DT the) (NN car)) (PRT (RP out)))))))) (. .)))"
+K/KD/KD7.xml,KD7RE00F,35702,6,,A,5,3,Erm  --,"[Erm/NN, there/EX, was/VBD, no/DT, way/NN, he/PRP, could/MD, sort/VB, of/IN, get/VB, out/IN, it/PRP, ./.]",(ROOT (S (NP (NP (NN Erm)) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN way)) (SBAR (S (NP (PRP he)) (VP (MD could) (VP (VB sort) (PP (IN of))))))))))) (VP (VB get) (PRT (IN out)) (NP (PRP it))) (. .)))
+K/KD/KD7.xml,KD7RE00F,35702,7,,A,5,4,--there was no way he could sort of get out it.,"[Erm/NN, there/EX, was/VBD, no/DT, way/NN, he/PRP, could/MD, sort/VB, of/IN, get/VB, out/IN, it/PRP, ./.]",(ROOT (S (NP (NP (NN Erm)) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN way)) (SBAR (S (NP (PRP he)) (VP (MD could) (VP (VB sort) (PP (IN of))))))))))) (VP (VB get) (PRT (IN out)) (NP (PRP it))) (. .)))
+K/KD/KD7.xml,KD7RE00F,35702,8,,B,6,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE00F,35702,9,,A,7,1,Oh  (()) something together now.,"[Oh/UH, something/NN, together/RB, now/RB, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (NN something)) (ADVP (RB together) (RB now))))) (. .)))
+K/KD/KD7.xml,KD7RE00F,35702,10,,B,8,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE00F,35702,11,,A,9,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE00F,35702,12,,B,10,1,And it's,"[And/CC, it/PRP, 's/VBZ]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBZ 's))))
+K/KD/KD7.xml,KD7RE00F,35702,13,,A,11,1,(()) --,"[What/WP, the/DT, hell/NN, will/MD, that/WDT, do/VBP, ?/.]",(ROOT (SBARQ (WHNP (WP What) (DT the) (NN hell)) (SQ (VP (VP (MD will)) (SBAR (WHNP (WDT that)) (S (VP (VBP do)))))) (. ?)))
+K/KD/KD7.xml,KD7RE00F,35702,14,,A,11,2,--What the hell will that do?,"[What/WP, the/DT, hell/NN, will/MD, that/WDT, do/VBP, ?/.]",(ROOT (SBARQ (WHNP (WP What) (DT the) (NN hell)) (SQ (VP (VP (MD will)) (SBAR (WHNP (WDT that)) (S (VP (VBP do)))))) (. ?)))
+K/KD/KD7.xml,KD7RE00F,35702,15,,A,11,3,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KD/KD7.xml,KD7RE00F,35702,16,,B,12,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE00F,35702,17,,A,13,1,"What, Eh?","[What/WP, ,/,, Eh/UH, ?/.]","(ROOT (X (X (WP What)) (, ,) (X (UH Eh)) (. ?)))"
+K/KD/KD7.xml,KD7RE00F,35702,18,,B,14,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE00F,35702,19,,A,15,1,How long will it be?,"[How/WRB, long/RB, will/MD, it/PRP, be/VB, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (RB long)) (SQ (MD will) (NP (PRP it)) (VP (VB be))) (. ?)))

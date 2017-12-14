@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC5.xml,KC5RE001,9702,0,,A,1,1,"That's what I do with his football boots I bought him,(()) .","[That/DT, 's/VBZ, what/WP, I/PRP, do/VBP, with/IN, his/PRP$, football/NN, boots/NNS, I/PRP, bought/VBD, him/PRP, ,/,, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (S (NP (PRP I)) (VP (VBP do) (PP (IN with) (NP (PRP$ his) (NN football) (NNS boots))))) (PRN (S (NP (PRP I)) (VP (VBD bought) (NP (PRP him)))) (, ,))))) (. .)))"
+K/KC/KC5.xml,KC5RE001,9702,1,,A,1,2,"I, I  (()) looking at them (()) .","[I/PRP, ,/,, I/PRP, looking/VBG, at/IN, them/PRP, ./.]","(ROOT (NP (NP (PRP I)) (, ,) (S (NP (PRP I)) (VP (VBG looking) (PP (IN at) (NP (PRP them))))) (. .)))"
+K/KC/KC5.xml,KC5RE001,9702,2,,B,2,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC5.xml,KC5RE001,9702,3,,A,3,1,They look big enough don't they?,"[They/PRP, look/VBP, big/JJ, enough/JJ, don/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP look) (S (NP (JJ big) (JJ enough)) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP they)))))) (. ?)))
+K/KC/KC5.xml,KC5RE001,9702,4,,B,4,1,Yeah ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+K/KC/KC5.xml,KC5RE001,9702,5,,A,5,1,(()) ,[],X
+K/KC/KC5.xml,KC5RE001,9702,6,,B,6,1,"Yeah, alright then.","[Yeah/UH, ,/,, alright/JJ, then/RB, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (ADVP (JJ alright)) (RB then)) (. .)))"
+K/KC/KC5.xml,KC5RE001,9702,7,,A,7,1,I'll see you later on.,"[I/PRP, 'll/MD, see/VB, you/PRP, later/RB, on/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (PRP you)) (ADVP (RB later) (RB on)))) (. .)))

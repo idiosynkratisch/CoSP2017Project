@@ -1,0 +1,20 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDK.xml,KDKRE009,16703,0,,A,1,1,People from Air Canada were talking about (()) .,"[People/NNS, from/IN, Air/NNP, Canada/NNP, were/VBD, talking/VBG, about/RB, ./.]",(ROOT (S (NP (NP (NNS People)) (PP (IN from) (NP (NNP Air) (NNP Canada)))) (VP (VBD were) (VP (VBG talking) (ADVP (RB about)))) (. .)))
+K/KD/KDK.xml,KDKRE009,16703,1,,A,1,2,"Louise erm, two years ago we meet at the seven four seven for Bangkok air New York (()) , we were in (()) .","[Louise/NNP, erm/NNP, ,/,, two/CD, years/NNS, ago/IN, we/PRP, meet/VBP, at/IN, the/DT, seven/CD, four/CD, seven/CD, for/IN, Bangkok/NNP, air/NNP, New/NNP, York/NNP, ,/,, we/PRP, were/VBD, in/IN, ./.]","(ROOT (S (S (NP (NNP Louise) (NNP erm)) (, ,) (ADVP (NP (CD two) (NNS years)) (IN ago)) (NP (PRP we)) (VP (VBP meet) (PP (IN at) (NP (NP (DT the) (QP (CD seven) (CD four)) (NX (CD seven))) (PP (IN for) (NP (NNP Bangkok) (NNP air) (NNP New) (NNP York))))))) (, ,) (NP (PRP we)) (VP (VBD were) (PP (IN in))) (. .)))"
+K/KD/KDK.xml,KDKRE009,16703,2,,B,2,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDK.xml,KDKRE009,16703,3,,A,3,1,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,4,,A,3,2,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,5,,B,4,1,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,6,,A,5,1,To have  (()) and (()) ,"[To/TO, have/VB, and/CC]",(ROOT (FRAG (S (VP (TO To) (VP (VB have) (S (ADVP (CC and))))))))
+K/KD/KDK.xml,KDKRE009,16703,7,,B,6,1,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,8,,A,7,1,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,9,,A,7,2,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,10,,B,8,1,"Oh, it should be announced yeah, I think that Kevin should take the  (()) job, he might have five hundred passengers aboard the airline, he might have ","[Oh/UH, ,/,, it/PRP, should/MD, be/VB, announced/VBN, yeah/UH, ,/,, I/PRP, think/VBP, that/IN, Kevin/NNP, should/MD, take/VB, the/DT, job/NN, ,/,, he/PRP, might/MD, have/VB, five/CD, hundred/CD, passengers/NNS, aboard/IN, the/DT, airline/NN, ,/,, he/PRP, might/MD, have/VB]","(ROOT (NP (S (S (INTJ (UH Oh)) (, ,) (S (NP (PRP it)) (VP (MD should) (VP (VB be) (VP (VBN announced) (S (INTJ (UH yeah)) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (NP (NNP Kevin)) (VP (MD should) (VP (VB take) (NP (DT the) (NN job)))))))))))) (, ,) (S (NP (PRP he)) (VP (MD might) (VP (VB have) (NP (NP (QP (CD five) (CD hundred)) (NNS passengers)) (PP (IN aboard) (NP (DT the) (NN airline)))))))) (, ,) (NP (PRP he)) (VP (MD might) (VP (VB have))))))"
+K/KD/KDK.xml,KDKRE009,16703,11,,A,9,1,He have four hundred five,"[He/PRP, have/VBP, four/CD, hundred/CD, five/CD]",(ROOT (S (NP (PRP He)) (VP (VBP have) (NP (QP (CD four) (CD hundred)) (CD five)))))
+K/KD/KDK.xml,KDKRE009,16703,12,,B,10,1,Four hundred and five and six ,"[Four/CD, hundred/CD, and/CC, five/CD, and/CC, six/CD]",(ROOT (NP (NP (CD Four) (CD hundred)) (CC and) (NP (CD five) (CC and) (CD six))))
+K/KD/KDK.xml,KDKRE009,16703,13,,A,11,1,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,14,,B,12,1,of them.(()) ,"[of/IN, them/PRP, ./.]",(ROOT (FRAG (PP (IN of) (NP (PRP them))) (. .)))
+K/KD/KDK.xml,KDKRE009,16703,15,,A,13,1,(()) ,[],X
+K/KD/KDK.xml,KDKRE009,16703,16,,B,14,1,"(()) like us, he (()) .","[like/IN, us/PRP, ,/,, he/PRP, ./.]","(ROOT (FRAG (PP (IN like) (NP (PRP us))) (, ,) (NP (PRP he)) (. .)))"
+K/KD/KDK.xml,KDKRE009,16703,17,,A,15,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDK.xml,KDKRE009,16703,18,,B,16,1,(()) .,[./.],(ROOT (NP (. .)))

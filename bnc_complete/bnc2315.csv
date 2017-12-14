@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02G,2315,0,,A,1,1,Are you ready Chris?,"[Are/VBP, you/PRP, ready/JJ, Chris/NNP, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (PP (JJ ready) (NP (NNP Chris))) (. ?)))
+K/KB/KBK.xml,KBKRE02G,2315,1,,B,2,1,Any second now.,"[Any/DT, second/JJ, now/RB, ./.]",(ROOT (S (NP (DT Any) (JJ second)) (VP (ADVP (RB now))) (. .)))
+K/KB/KBK.xml,KBKRE02G,2315,2,,B,2,2,"Leave it all till Monday Lynda, it's been a long hard week.","[Leave/VB, it/PRP, all/DT, till/IN, Monday/NNP, Lynda/NNP, ,/,, it/PRP, 's/VBZ, been/VBN, a/DT, long/RB, hard/JJ, week/NN, ./.]","(ROOT (S (S (VP (VB Leave) (NP (PRP it)) (PP (DT all) (IN till) (NP (NNP Monday) (NNP Lynda))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBN been) (NP (DT a) (ADJP (RB long) (JJ hard)) (NN week)))) (. .)))"

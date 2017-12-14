@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBV.xml,KBVRE006,21505,0,,A,1,1,"It's okay, just keep it for now, that's it","[It/PRP, 's/VBZ, okay/JJ, ,/,, just/RB, keep/VB, it/PRP, for/IN, now/RB, ,/,, that/DT, 's/VBZ, it/PRP]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ okay)) (, ,) (S (ADVP (RB just)) (VP (VB keep) (NP (PRP it)) (PP (IN for) (NP (NP (RB now)) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (PRP it))))))))))))"
+K/KB/KBV.xml,KBVRE006,21505,1,,B,2,1,"I'm just  (()) wait  (()) top gear, you can go to  (()) can't you just by the side of Worcester","[I/PRP, 'm/VBP, just/RB, wait/VB, top/JJ, gear/NN, ,/,, you/PRP, can/MD, go/VB, to/TO, can/MD, 't/PRP, you/PRP, just/RB, by/IN, the/DT, side/NN, of/IN, Worcester/NNP]","(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (ADVP (RB just)) (S (S (VP (VB wait) (NP (JJ top) (NN gear)))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB go) (PP (TO to)) (SBAR (SINV (VP (MD can)) (NP (PRP 't)) (NP (PRP you)) (PP (RB just) (IN by) (NP (NP (DT the) (NN side)) (PP (IN of) (NP (NNP Worcester))))))))))))))"
+K/KB/KBV.xml,KBVRE006,21505,2,,A,3,1,How can you?,"[How/WRB, can/MD, you/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SINV (VP (MD can)) (NP (PRP you))) (. ?)))
+K/KB/KBV.xml,KBVRE006,21505,3,,B,4,1,(()) ,[],X
+K/KB/KBV.xml,KBVRE006,21505,4,,A,5,1,(()) ,[],X
+K/KB/KBV.xml,KBVRE006,21505,5,,B,6,1,one minute (()) ,"[one/CD, minute/NN]",(ROOT (NP (CD one) (NN minute)))
+K/KB/KBV.xml,KBVRE006,21505,6,,A,7,1,Oh,[Oh/UH],(ROOT (INTJ (UH Oh)))

@@ -1,0 +1,17 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBW.xml,KBWRE00X,22603,0,,A,1,1,Come quickly cos there's a car on its way.,"[Come/VB, quickly/RB, cos/NN, there/EX, 's/VBZ, a/DT, car/NN, on/IN, its/PRP$, way/NN, ./.]",(ROOT (S (VP (VB Come) (ADVP (RB quickly)) (NP (NP (NN cos)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN car)) (PP (IN on) (NP (PRP$ its) (NN way))))))))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,1,,B,2,1,Where?,"[Where/WRB, ?/.]",(ROOT (FRAG (WHADVP (WRB Where) (. ?))))
+K/KB/KBW.xml,KBWRE00X,22603,2,,A,3,1,Here.,"[Here/RB, ./.]",(ROOT (FRAG (ADVP (RB Here)) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,3,,A,3,2,That red one.,"[That/DT, red/JJ, one/CD, ./.]",(ROOT (NP (NP (DT That)) (NP (JJ red) (CD one)) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,4,,B,4,1,It's gone now.,"[It/PRP, 's/VBZ, gone/VBN, now/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN gone) (ADVP (RB now)))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,5,,A,5,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,6,,A,5,2,Come on then.,"[Come/VB, on/IN, then/RB, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (RB then)))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,7,,B,6,1,It's a dustbin day.,"[It/PRP, 's/VBZ, a/DT, dustbin/NN, day/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN dustbin) (NN day))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,8,,A,7,1,It is a dustbin day.,"[It/PRP, is/VBZ, a/DT, dustbin/NN, day/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (NN dustbin) (NN day))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,9,,A,7,2,It's not a dustbin day for us though.,"[It/PRP, 's/VBZ, not/RB, a/DT, dustbin/NN, day/NN, for/IN, us/PRP, though/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (DT a) (NN dustbin) (NN day)) (PP (IN for) (NP (PRP us))) (ADVP (RB though))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,10,,A,7,3,Our dustbin day was yesterday.,"[Our/PRP$, dustbin/NN, day/NN, was/VBD, yesterday/NN, ./.]",(ROOT (S (NP (PRP$ Our) (NN dustbin) (NN day)) (VP (VBD was) (NP (NN yesterday))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,11,,B,8,1,(()) cars.,"[cars/NNS, ./.]",(ROOT (NP (NNS cars) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,12,,A,9,1,Can you hear the wood pigeon?,"[Can/MD, you/PRP, hear/VB, the/DT, wood/NN, pigeon/NN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB hear) (NP (DT the) (NN wood) (NN pigeon))) (. ?)))
+K/KB/KBW.xml,KBWRE00X,22603,13,,A,9,2,The ducks are here today.,"[The/DT, ducks/NNS, are/VBP, here/RB, today/NN, ./.]",(ROOT (S (NP (DT The) (NNS ducks)) (VP (VBP are) (ADVP (RB here)) (NP (NN today))) (. .)))
+K/KB/KBW.xml,KBWRE00X,22603,14,,A,9,3,"No, no ducks out today.","[No/DT, ,/,, no/DT, ducks/NNS, out/IN, today/NN, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NP (DT no) (NNS ducks)) (PP (IN out) (NP (NN today)))) (. .)))"
+K/KB/KBW.xml,KBWRE00X,22603,15,,A,9,4,They must be still asleep.,"[They/PRP, must/MD, be/VB, still/RB, asleep/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (MD must) (VP (VB be) (ADVP (RB still)) (ADJP (RB asleep)))) (. .)))

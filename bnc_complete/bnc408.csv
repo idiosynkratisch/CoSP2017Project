@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE002,408,0,,A,1,1,I'll put this order in with erm Fred.,"[I/PRP, 'll/MD, put/VB, this/DT, order/NN, in/IN, with/IN, erm/NN, Fred/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB put) (NP (DT this) (NN order)) (PP (IN in) (PP (IN with) (NP (NN erm) (NNP Fred)))))) (. .)))
+K/KD/KDP.xml,KDPRE002,408,1,,B,2,1,"Yes, I won't bother taking it upstairs er mine.","[Yes/UH, ,/,, I/PRP, won/VBD, 't/PRP, bother/VB, taking/VBG, it/PRP, upstairs/RB, er/NN, mine/NN, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP I)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB bother) (S (VP (VBG taking) (S (NP (PRP it)) (NP (NP (RB upstairs) (NN er)) (NP (NN mine))))))))) (. .)))"
+K/KD/KDP.xml,KDPRE002,408,2,,A,3,1,"No, this I'll go straight down there.","[No/DT, ,/,, this/DT, I/PRP, 'll/MD, go/VB, straight/RB, down/RB, there/RB, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NP (DT this)) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (ADVP (RB straight)) (ADVP (RB down) (RB there))))))) (. .)))"
+K/KD/KDP.xml,KDPRE002,408,3,,B,4,1,Yeah (()) .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDP.xml,KDPRE002,408,4,,B,4,2,So if he wants to leave it  (()) I'll can come (()) .,"[So/RB, if/IN, he/PRP, wants/VBZ, to/TO, leave/VB, it/PRP, I/PRP, 'll/MD, can/MD, come/VB, ./.]",(ROOT (S (ADVP (RB So) (SBAR (IN if) (S (NP (PRP he)) (VP (VBZ wants) (S (VP (TO to) (VP (VB leave) (NP (PRP it))))))))) (NP (PRP I)) (VP (MD 'll) (X (MD can)) (VP (VB come))) (. .)))
+K/KD/KDP.xml,KDPRE002,408,5,,A,5,1,I (()) .,"[I/PRP, ./.]",(ROOT (FRAG (NP (PRP I)) (. .)))
+K/KD/KDP.xml,KDPRE002,408,6,,B,6,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KD/KDP.xml,KDPRE002,408,7,,A,7,1,Great.,"[Great/NNP, ./.]",(ROOT (FRAG (NP (NNP Great)) (. .)))
+K/KD/KDP.xml,KDPRE002,408,8,,B,8,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KD/KDP.xml,KDPRE002,408,9,,A,9,1,"Yeah, it's on my er notice board.","[Yeah/UH, ,/,, it/PRP, 's/VBZ, on/IN, my/PRP$, er/NN, notice/NNP, board/NNP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP it)) (VP (VBZ 's) (PP (IN on) (NP (NP (PRP$ my) (NN er)) (NP (NNP notice) (NNP board))))) (. .)))"
+K/KD/KDP.xml,KDPRE002,408,10,,B,10,1,Ta.,"[Ta/NNP, ./.]",(ROOT (FRAG (NP (NNP Ta)) (. .)))

@@ -1,0 +1,18 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE040,2507,0,,A,1,1,Hello ,[Hello/UH],(ROOT (INTJ (UH Hello)))
+K/KB/KBK.xml,KBKRE040,2507,1,,B,2,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE040,2507,2,,A,3,1,Thank you very much.,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
+K/KB/KBK.xml,KBKRE040,2507,3,,B,4,1,Sign,[Sign/NN],(ROOT (NP (NN Sign)))
+K/KB/KBK.xml,KBKRE040,2507,4,,A,5,1,Yes sure.,"[Yes/UH, sure/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (RB sure)))) (. .)))
+K/KB/KBK.xml,KBKRE040,2507,5,,A,5,2,"Right, just this, anywhere?","[Right/NN, ,/,, just/RB, this/DT, ,/,, anywhere/RB, ?/.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NP (RB just) (DT this)) (, ,) (ADVP (RB anywhere))) (. ?)))"
+K/KB/KBK.xml,KBKRE040,2507,6,,B,6,1,sign it,"[sign/VB, it/PRP]",(ROOT (S (VP (VB sign) (NP (PRP it)))))
+K/KB/KBK.xml,KBKRE040,2507,7,,A,7,1,"Right, what is this Datapost?","[Right/NN, ,/,, what/WP, is/VBZ, this/DT, Datapost/NN, ?/.]","(ROOT (SBARQ (NP (NN Right)) (, ,) (WHNP (WP what)) (SQ (VBZ is) (NP (DT this) (NN Datapost))) (. ?)))"
+K/KB/KBK.xml,KBKRE040,2507,8,,B,8,1,"No,(()) .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"
+K/KB/KBK.xml,KBKRE040,2507,9,,A,9,1,Similar sort of thing is it?,"[Similar/JJ, sort/NN, of/IN, thing/NN, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (NP (JJ Similar) (NN sort)) (PP (IN of) (NP (NN thing)))) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+K/KB/KBK.xml,KBKRE040,2507,10,,B,10,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE040,2507,11,,A,11,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+K/KB/KBK.xml,KBKRE040,2507,12,,B,12,1,Lovely.,"[Lovely/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. .)))
+K/KB/KBK.xml,KBKRE040,2507,13,,A,13,1,Thank you very much.,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
+K/KB/KBK.xml,KBKRE040,2507,14,,B,14,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+K/KB/KBK.xml,KBKRE040,2507,15,,B,14,2,Bye.,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))
+K/KB/KBK.xml,KBKRE040,2507,16,,A,15,1,Bye.,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

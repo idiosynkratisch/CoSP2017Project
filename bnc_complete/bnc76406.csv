@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCH.xml,KCHRE00J,76406,0,,A,1,1,This is Thunderbird Four David.,"[This/DT, is/VBZ, Thunderbird/NNP, Four/NNP, David/NNP, ./.]",(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NNP Thunderbird) (NNP Four) (NNP David))) (. .)))
+K/KC/KCH.xml,KCHRE00J,76406,1,,B,2,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KCH.xml,KCHRE00J,76406,2,,A,3,1,"Right, come on.","[Right/NN, ,/,, come/VBN, on/IN, ./.]","(ROOT (NP (NP (NN Right)) (, ,) (VP (VBN come) (PP (IN on))) (. .)))"
+K/KC/KCH.xml,KCHRE00J,76406,3,,A,3,2,Let's go!,"[Let/VB, 's/PRP, go/VB, !/.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB go)))) (. !)))

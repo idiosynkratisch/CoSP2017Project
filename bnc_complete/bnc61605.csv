@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD2.xml,KD2RE002,61605,0,,A,1,1,Disgusting!,"[Disgusting/VBG, !/.]",(ROOT (S (VP (VBG Disgusting)) (. !)))
+K/KD/KD2.xml,KD2RE002,61605,1,,A,1,2,Shut up yourself!,"[Shut/VBN, up/RP, yourself/PRP, !/.]",(ROOT (S (VP (VBN Shut) (PRT (RP up)) (NP (PRP yourself))) (. !)))
+K/KD/KD2.xml,KD2RE002,61605,2,,B,2,1,I'm trying to watch this!,"[I/PRP, 'm/VBP, trying/VBG, to/TO, watch/VB, this/DT, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG trying) (S (VP (TO to) (VP (VB watch) (NP (DT this))))))) (. !)))
+K/KD/KD2.xml,KD2RE002,61605,3,,B,2,2,Shut up!,"[Shut/VBN, up/RP, !/.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. !)))
+K/KD/KD2.xml,KD2RE002,61605,4,,A,3,1,"No, I can't do your homework!","[No/DT, ,/,, I/PRP, can/MD, 't/PRP, do/VB, your/PRP$, homework/NN, !/.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP I)) (VP (MD can)))) (NP (PRP 't)) (VP (VB do) (NP (PRP$ your) (NN homework))) (. !)))"
+K/KD/KD2.xml,KD2RE002,61605,5,,A,3,2,You could do my homework please!,"[You/PRP, could/MD, do/VB, my/PRP$, homework/NN, please/VB, !/.]",(ROOT (S (NP (PRP You)) (VP (MD could) (VP (VB do) (S (NP (PRP$ my) (NN homework)) (VP (VB please))))) (. !)))
+K/KD/KD2.xml,KD2RE002,61605,6,,B,4,1,(()) !,[!/.],(ROOT (NP (. !)))

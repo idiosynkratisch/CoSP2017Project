@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE040,13906,0,,A,1,1,See old Sarah's been kidnapped on Emmerdale Farm?,"[See/VB, old/JJ, Sarah/NNP, 's/POS, been/VBN, kidnapped/VBN, on/IN, Emmerdale/NNP, Farm/NNP, ?/.]",(ROOT (SQ (VP (VB See) (ADJP (JJ old) (SBAR (S (NP (NNP Sarah) (POS 's)) (VP (VBN been) (VP (VBN kidnapped) (PP (IN on) (NP (NNP Emmerdale) (NNP Farm))))))))) (. ?)))
+K/KD/KDA.xml,KDARE040,13906,1,,B,2,1,Don't watch it.,"[Don/NNP, 't/PRP, watch/VBP, it/PRP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP watch) (NP (PRP it))) (. .)))
+K/KD/KDA.xml,KDARE040,13906,2,,A,3,1,Do you watch it Cherub?,"[Do/VB, you/PRP, watch/VB, it/PRP, Cherub/VB, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB watch) (S (NP (PRP it)) (VP (VB Cherub)))))) (. ?)))
+K/KD/KDA.xml,KDARE040,13906,3,,A,3,2,No you wouldn't.,"[No/DT, you/PRP, wouldn/VBP, 't/PRP, ./.]",(ROOT (S (NP (DT No) (PRP you)) (VP (VBP wouldn) (NP (PRP 't))) (. .)))
+K/KD/KDA.xml,KDARE040,13906,4,,A,3,3,You'd be down the pub wouldn't you?,"[You/PRP, 'd/MD, be/VB, down/IN, the/DT, pub/NN, wouldn/NN, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD 'd) (VP (VB be) (PP (IN down) (NP (DT the) (NN pub) (NN wouldn))) (NP (NP (PRP 't)) (NP (PRP you))))) (. ?)))

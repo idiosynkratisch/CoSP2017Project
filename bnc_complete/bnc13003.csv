@@ -1,0 +1,21 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02K,13003,0,,A,1,1,Quelle heure est-il old boy?,"[Quelle/NNP, heure/NNP, est-il/NNP, old/NNP, boy/NNP, ?/.]",(ROOT (NP (NNP Quelle) (NNP heure) (NNP est-il) (NNP old) (NNP boy) (. ?)))
+K/KD/KDA.xml,KDARE02K,13003,1,,B,2,1,(()) twenty-five past ,"[twenty-five/CD, past/NN]",(ROOT (NP (CD twenty-five) (NN past)))
+K/KD/KDA.xml,KDARE02K,13003,2,,B,2,2,Third time  (()) ,"[Third/JJ, time/NN]",(ROOT (NP (JJ Third) (NN time)))
+K/KD/KDA.xml,KDARE02K,13003,3,,B,2,3,(()) ,[],X
+K/KD/KDA.xml,KDARE02K,13003,4,,B,2,4,(()) ,[],X
+K/KD/KDA.xml,KDARE02K,13003,5,,B,2,5,"Yeah, but they're nothing but a bunch of wankers  (()) speak (()) ","[Yeah/UH, ,/,, but/CC, they/PRP, 're/VBP, nothing/NN, but/CC, a/DT, bunch/NN, of/IN, wankers/NNS, speak/VBP]","(ROOT (NP (S (S (INTJ (UH Yeah)) (, ,) (CC but) (NP (PRP they)) (VP (VBP 're) (NP (NN nothing)))) (CC but) (S (NP (NP (DT a) (NN bunch)) (PP (IN of) (NP (NNS wankers)))) (VP (VBP speak))))))"
+K/KD/KDA.xml,KDARE02K,13003,6,,B,2,6,Don't know.,"[Don/NNP, 't/PRP, know/VBP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP know)) (. .)))
+K/KD/KDA.xml,KDARE02K,13003,7,,B,2,7,"What man, what  (()) (()) ","[What/WDT, man/NN, ,/,, what/WDT]","(ROOT (FRAG (SBAR (WHNP (WDT What)) (FRAG (NP (NN man)))) (, ,) (WHADVP (WDT what))))"
+K/KD/KDA.xml,KDARE02K,13003,8,,B,2,8,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
+K/KD/KDA.xml,KDARE02K,13003,9,,B,2,9,Oh its alright ,"[Oh/UH, its/PRP$, alright/JJ]",(ROOT (INTJ (UH Oh) (PRP$ its) (JJ alright)))
+K/KD/KDA.xml,KDARE02K,13003,10,,B,2,10,You might have to get it going first.,"[You/PRP, might/MD, have/VB, to/TO, get/VB, it/PRP, going/VBG, first/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (MD might) (VP (VB have) (S (VP (TO to) (VP (VB get) (S (NP (PRP it)) (VP (VBG going) (ADVP (RB first))))))))) (. .)))
+K/KD/KDA.xml,KDARE02K,13003,11,,B,2,11,"Hold on, that's have a look ","[Hold/VB, on/RP, ,/,, that/DT, 's/VBZ, have/VB, a/DT, look/NN]","(ROOT (S (S (VP (VB Hold) (PRT (RP on)))) (, ,) (NP (DT that)) (VP (VBZ 's) (VP (VB have) (NP (DT a) (NN look))))))"
+K/KD/KDA.xml,KDARE02K,13003,12,,B,2,12,I said that'll be perfectly alright on there (()) ,"[I/PRP, said/VBD, that/IN, 'll/MD, be/VB, perfectly/RB, alright/JJ, on/IN, there/EX]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (IN that) (S (VP (MD 'll) (VP (VB be) (ADJP (RB perfectly) (JJ alright) (PP (IN on) (NP (EX there)))))))))))
+K/KD/KDA.xml,KDARE02K,13003,13,,B,2,13,"Hold on, wait there, I'll get the better stuff than that Tramp","[Hold/VB, on/RP, ,/,, wait/VB, there/RB, ,/,, I/PRP, 'll/MD, get/VB, the/DT, better/JJR, stuff/NN, than/IN, that/DT, Tramp/NNP]","(ROOT (S (VP (VP (VB Hold) (PRT (RP on))) (, ,) (VP (VB wait) (S (ADVP (RB there)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB get) (NP (DT the) (JJR better) (NN stuff)) (PP (IN than) (NP (DT that) (NNP Tramp))))))))))"
+K/KD/KDA.xml,KDARE02K,13003,14,,B,2,14,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+K/KD/KDA.xml,KDARE02K,13003,15,,B,2,15,"Yeah, get some shit hot stuff for that","[Yeah/UH, ,/,, get/VB, some/DT, shit/NN, hot/JJ, stuff/NN, for/IN, that/DT]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (PP (VB get) (NP (NP (DT some) (NN shit) (JJ hot) (NN stuff)) (PP (IN for) (NP (DT that)))))))"
+K/KD/KDA.xml,KDARE02K,13003,16,,B,2,16,(()) ,[],X
+K/KD/KDA.xml,KDARE02K,13003,17,,B,2,17,He caught his fingers together,"[He/PRP, caught/VBD, his/PRP$, fingers/NNS, together/RB]",(ROOT (S (NP (PRP He)) (VP (VBD caught) (NP (PRP$ his) (NNS fingers)) (ADVP (RB together)))))
+K/KD/KDA.xml,KDARE02K,13003,18,,B,2,18,(()) ,[],X
+K/KD/KDA.xml,KDARE02K,13003,19,,B,2,19,at work.,"[at/IN, work/NN, ./.]",(ROOT (FRAG (PP (IN at) (NP (NN work))) (. .)))

@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD0.xml,KD0RE021,17805,0,,A,1,1,<shouting> Paulie I want my back scratched.,"[Paulie/NNP, I/NNP, want/VBP, my/PRP$, back/JJ, scratched/VBN, ./.]",(ROOT (S (NP (NNP Paulie) (NNP I)) (VP (VBP want) (NP (NP (PRP$ my) (JJ back)) (VP (VBN scratched)))) (. .)))
+K/KD/KD0.xml,KD0RE021,17805,1,,A,1,2,Come on!</shouting> ,"[Come/VB, on/IN, !/.]",(ROOT (S (VP (VB Come) (PP (IN on))) (. !)))
+K/KD/KD0.xml,KD0RE021,17805,2,,B,2,1,Get out of it!,"[Get/VB, out/IN, of/IN, it/PRP, !/.]",(ROOT (S (VP (VB Get) (PRT (IN out)) (PP (IN of) (NP (PRP it)))) (. !)))
+K/KD/KD0.xml,KD0RE021,17805,3,,A,3,1,Means money.,"[Means/NNS, money/NN, ./.]",(ROOT (NP (NP (NNS Means)) (NP (NN money)) (. .)))
+K/KD/KD0.xml,KD0RE021,17805,4,,B,4,1,Not a chance.,"[Not/RB, a/DT, chance/NN, ./.]",(ROOT (NP (RB Not) (DT a) (NN chance) (. .)))
+K/KD/KD0.xml,KD0RE021,17805,5,,B,4,2,Not a chance in a million.,"[Not/RB, a/DT, chance/NN, in/IN, a/DT, million/CD, ./.]",(ROOT (FRAG (RB Not) (NP (NP (DT a) (NN chance)) (PP (IN in) (NP (QP (DT a) (CD million))))) (. .)))

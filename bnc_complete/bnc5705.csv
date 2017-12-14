@@ -1,0 +1,19 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB5.xml,KB5RE004,5705,0,,A,1,1,Think you're hard?,"[Think/VB, you/PRP, 're/VBP, hard/JJ, ?/.]",(ROOT (SQ (VP (VB Think) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ hard)))))) (. ?)))
+K/KB/KB5.xml,KB5RE004,5705,1,,B,2,1,<laugh> (()) oh my god.,"[oh/UH, my/PRP$, god/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH oh)) (NP (PRP$ my) (NNP god)))) (. .)))
+K/KB/KB5.xml,KB5RE004,5705,2,,A,3,1,Well hard.,"[Well/RB, hard/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (ADVP (RB hard) (. .))))
+K/KB/KB5.xml,KB5RE004,5705,3,,A,3,2,"That was well funny last time, you see me in a room, we're playing er games.","[That/DT, was/VBD, well/RB, funny/JJ, last/JJ, time/NN, ,/,, you/PRP, see/VBP, me/PRP, in/IN, a/DT, room/NN, ,/,, we/PRP, 're/VBP, playing/VBG, er/NN, games/NNS, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBD was) (ADJP (RB well) (JJ funny)) (NP (JJ last) (NN time)))) (, ,) (S (NP (PRP you)) (VP (VBP see) (NP (PRP me)) (PP (IN in) (NP (DT a) (NN room))))) (, ,) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG playing) (NP (NN er) (NNS games))))) (. .)))"
+K/KB/KB5.xml,KB5RE004,5705,4,,A,3,3,"I, I say a word","[I/PRP, ,/,, I/PRP, say/VBP, a/DT, word/NN]","(ROOT (NP (S (NP (PRP I)) (, ,) (NP (PRP I)) (VP (VBP say) (NP (DT a) (NN word))))))"
+K/KB/KB5.xml,KB5RE004,5705,5,,B,4,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KB5.xml,KB5RE004,5705,6,,A,5,1,"and, and you, you have to say another word that sounds like it.","[and/CC, ,/,, and/CC, you/PRP, ,/,, you/PRP, have/VBP, to/TO, say/VB, another/DT, word/NN, that/WDT, sounds/VBZ, like/IN, it/PRP, ./.]","(ROOT (S (CC and) (, ,) (CC and) (ADVP (PRP you)) (, ,) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB say) (NP (NP (DT another) (NN word)) (SBAR (WHNP (WDT that)) (S (VP (VBZ sounds) (PP (IN like) (NP (PRP it))))))))))) (. .)))"
+K/KB/KB5.xml,KB5RE004,5705,7,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KB5.xml,KB5RE004,5705,8,,A,7,1,"And eh, like I, if I say loverks","[And/CC, eh/UH, ,/,, like/IN, I/PRP, ,/,, if/IN, I/PRP, say/VBP, loverks/NNS]","(ROOT (FRAG (CC And) (S (VP (UH eh) (, ,) (PP (IN like) (NP (PRP I))) (, ,) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP say) (NP (NNS loverks)))))))))"
+K/KB/KB5.xml,KB5RE004,5705,9,,B,8,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KB5.xml,KB5RE004,5705,10,,A,9,1,"You say bloverks, souverks,(()) .","[You/PRP, say/VBP, bloverks/NNS, ,/,, souverks/NNP, ,/,, ./.]","(ROOT (S (NP (PRP You)) (VP (VBP say) (NP (NP (NNS bloverks)) (, ,) (NP (NNP souverks)) (, ,))) (. .)))"
+K/KB/KB5.xml,KB5RE004,5705,11,,B,10,1,(()) proper words (()) .,"[proper/JJ, words/NNS, ./.]",(ROOT (FRAG (NP (JJ proper) (NNS words)) (. .)))
+K/KB/KB5.xml,KB5RE004,5705,12,,A,11,1,"No you, we're doing it, well this  (()) a large.","[No/DT, you/PRP, ,/,, we/PRP, 're/VBP, doing/VBG, it/PRP, ,/,, well/RB, this/DT, a/DT, large/JJ, ./.]","(ROOT (S (NP (DT No) (PRP you)) (, ,) (NP (PRP we)) (VP (VBP 're) (VP (VBG doing) (S (NP (NP (PRP it)) (, ,) (RB well) (NP (DT this)) (DT a)) (ADJP (JJ large))))) (. .)))"
+K/KB/KB5.xml,KB5RE004,5705,13,,B,12,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KB5.xml,KB5RE004,5705,14,,A,13,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE004,5705,15,,B,14,1,"Mm,(()) can't imagine this (()) .","[Mm/NN, ,/,, can/MD, 't/PRP, imagine/VB, this/DT, ./.]","(ROOT (S (NP (NN Mm)) (, ,) (VP (MD can) (NP (PRP 't)) (S (VP (VB imagine) (NP (DT this))))) (. .)))"
+K/KB/KB5.xml,KB5RE004,5705,16,,A,15,1,(()) You  (()) has to come down (()) .,"[You/PRP, has/VBZ, to/TO, come/VB, down/RP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBZ has) (S (VP (TO to) (VP (VB come) (PRT (RP down)))))) (. .)))
+K/KB/KB5.xml,KB5RE004,5705,17,,B,16,1,"It's really funny , oh.","[It/PRP, 's/VBZ, really/RB, funny/JJ, ,/,, oh/UH, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB really) (JJ funny)) (, ,) (INTJ (UH oh))) (. .)))"

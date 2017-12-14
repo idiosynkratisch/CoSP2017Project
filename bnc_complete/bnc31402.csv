@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD8.xml,KD8RE00F,31402,0,,A,1,1,What've you got to do then to that thingy then sheet Jan?,"[What/WDT, 've/VBP, you/PRP, got/VBD, to/TO, do/VB, then/RB, to/TO, that/DT, thingy/NN, then/RB, sheet/NN, Jan/NNP, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBP 've) (NP (PRP you)) (VP (VBD got) (S (VP (TO to) (VP (VB do) (ADVP (RB then)) (PP (TO to) (NP (DT that) (NN thingy))) (PP (RB then) (NP (NN sheet)) (NP (NNP Jan)))))))) (. ?)))
+K/KD/KD8.xml,KD8RE00F,31402,1,,A,1,2,"Er got to work through it, new","[Er/NN, got/VBD, to/TO, work/VB, through/IN, it/PRP, ,/,, new/JJ]","(ROOT (S (NP (NN Er)) (VP (VBD got) (S (VP (TO to) (VP (VB work) (PP (IN through) (NP (PRP it))) (, ,) (ADJP (JJ new))))))))"
+K/KD/KD8.xml,KD8RE00F,31402,2,,B,2,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00F,31402,3,,A,3,1,and get down to,"[and/CC, get/VB, down/RB, to/TO]",(ROOT (FRAG (CC and) (S (VP (VB get) (ADVP (RB down) (PP (TO to)))))))
+K/KD/KD8.xml,KD8RE00F,31402,4,,B,4,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00F,31402,5,,A,5,1,mm  --,"[mm/NN, when/WRB, do/VBP, you/PRP, want/VB, to/TO, go/VB, through/IN, it/PRP, then/RB, ?/.]",(ROOT (FRAG (NP (NP (NN mm)) (SBAR (WHADVP (WRB when)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB want) (S (VP (TO to) (VP (VB go) (PP (IN through) (NP (PRP it))) (ADVP (RB then))))))))))) (. ?)))
+K/KD/KD8.xml,KD8RE00F,31402,6,,A,5,2,--when do you want to go through it then?,"[mm/NN, when/WRB, do/VBP, you/PRP, want/VB, to/TO, go/VB, through/IN, it/PRP, then/RB, ?/.]",(ROOT (FRAG (NP (NP (NN mm)) (SBAR (WHADVP (WRB when)) (S (VP (VBP do) (S (NP (PRP you)) (VP (VB want) (S (VP (TO to) (VP (VB go) (PP (IN through) (NP (PRP it))) (ADVP (RB then))))))))))) (. ?)))
+K/KD/KD8.xml,KD8RE00F,31402,7,,A,5,3,If I could just erm get this done,"[If/IN, I/PRP, could/MD, just/RB, erm/VB, get/VB, this/DT, done/VBN]",(ROOT (SBAR (IN If) (S (NP (PRP I)) (VP (MD could) (ADVP (RB just)) (VP (VB erm) (VP (VB get) (NP (NP (DT this)) (VP (VBN done)))))))))
+K/KD/KD8.xml,KD8RE00F,31402,8,,A,5,4,Okay,[Okay/JJ],(ROOT (FRAG (JJ Okay)))
+K/KD/KD8.xml,KD8RE00F,31402,9,,A,5,5,but erm ,"[but/CC, erm/NN]",(ROOT (FRAG (CC but) (NP (NN erm))))

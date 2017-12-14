@@ -1,0 +1,15 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE02B,7307,0,,A,1,1,Come on darling.,"[Come/VB, on/IN, darling/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN darling)))) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,1,,A,1,2,Well sit here then.,"[Well/RB, sit/NN, here/RB, then/RB, ./.]",(ROOT (NP (NP (ADVP (RB Well)) (NN sit)) (ADJP (RB here) (RB then)) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,2,,B,2,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02B,7307,3,,A,3,1,"No, you're not laying there and eating your dinner.","[No/DT, ,/,, you/PRP, 're/VBP, not/RB, laying/VBG, there/RB, and/CC, eating/VBG, your/PRP$, dinner/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VP (VBG laying) (ADVP (RB there))) (CC and) (VP (VBG eating) (NP (PRP$ your) (NN dinner))))) (. .)))"
+K/KD/KDE.xml,KDERE02B,7307,4,,A,3,2,Come and sit down here.,"[Come/VB, and/CC, sit/VB, down/RB, here/RB, ./.]",(ROOT (S (VP (VP (VB Come)) (CC and) (VP (VB sit) (ADVP (RB down) (RB here)))) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,5,,B,4,1,It's hot.,"[It/PRP, 's/VBZ, hot/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ hot))) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,6,,A,5,1,It isn't hot I've let it cool down.,"[It/PRP, isn/VBD, 't/PRP, hot/JJ, I/PRP, 've/VBP, let/VB, it/PRP, cool/VB, down/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD isn) (S (NP (PRP 't)) (ADJP (JJ hot)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (S (VP (VB let) (S (NP (PRP it)) (VP (VB cool) (ADVP (RB down))))))))))) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,7,,A,5,2,Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,8,,B,6,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02B,7307,9,,A,7,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+K/KD/KDE.xml,KDERE02B,7307,10,,B,8,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02B,7307,11,,A,9,1,Come on darling look.,"[Come/VB, on/IN, darling/NN, look/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN darling) (NN look)))) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,12,,A,9,2,You eat this pizza.,"[You/PRP, eat/VBP, this/DT, pizza/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP eat) (NP (DT this) (NN pizza))) (. .)))
+K/KD/KDE.xml,KDERE02B,7307,13,,A,9,3,"Come on, you've asked for it.","[Come/VB, on/RP, ,/,, you/PRP, 've/VBP, asked/VBN, for/IN, it/PRP, ./.]","(ROOT (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (NP (PRP you)) (VP (VBP 've) (VP (VBN asked) (PP (IN for) (NP (PRP it))))) (. .)))"

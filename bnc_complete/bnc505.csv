@@ -1,0 +1,23 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE00K,505,0,,A,1,1,It's for market research.,"[It/PRP, 's/VBZ, for/IN, market/NN, research/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN for) (NP (NN market) (NN research)))) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,1,,B,2,1,"Yeah, what?","[Yeah/UH, ,/,, what/WP, ?/.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (WP what)) (. ?)))"
+K/KD/KDP.xml,KDPRE00K,505,2,,B,2,2,Market research.,"[Market/NN, research/NN, ./.]",(ROOT (NP (NP (NN Market)) (NP (NN research)) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,3,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,4,,B,4,1,Do me a favour.,"[Do/VB, me/PRP, a/DT, favour/NN, ./.]",(ROOT (S (VP (VB Do) (S (NP (PRP me)) (NP (DT a) (NN favour)))) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,5,,A,5,1,"Seriously, for a dictionary company.","[Seriously/RB, ,/,, for/IN, a/DT, dictionary/NN, company/NN, ./.]","(ROOT (X (ADVP (RB Seriously)) (, ,) (X (IN for)) (NP (NP (DT a) (NN dictionary)) (NP (NN company))) (. .)))"
+K/KD/KDP.xml,KDPRE00K,505,6,,A,5,2,Doing ana- analysis of the erm.,"[Doing/VBG, ana-/NN, analysis/NN, of/IN, the/DT, erm/NN, ./.]",(ROOT (S (VP (VBG Doing) (NP (NP (NN ana-) (NN analysis)) (PP (IN of) (NP (DT the) (NN erm))))) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,7,,B,6,1,Do they have bollocks in it?,"[Do/VB, they/PRP, have/VBP, bollocks/NNS, in/IN, it/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS bollocks)) (PP (IN in) (NP (PRP it)))))))) (. ?)))
+K/KD/KDP.xml,KDPRE00K,505,8,,A,7,1,<laugh> .,[./.],(ROOT (NP (. .)))
+K/KD/KDP.xml,KDPRE00K,505,9,,B,8,1,"With one L, two S's.","[With/IN, one/CD, L/NN, ,/,, two/CD, S/NNS, 's/POS, ./.]","(ROOT (FRAG (PP (IN With) (NP (NP (CD one) (NN L)) (, ,) (NP (NP (CD two)) (NP (NNS S) (POS 's))))) (. .)))"
+K/KD/KDP.xml,KDPRE00K,505,10,,B,8,2,(()) .,[./.],(ROOT (NP (. .)))
+K/KD/KDP.xml,KDPRE00K,505,11,,A,9,1,"So eh, well it's just a, seems worthwhile.","[So/RB, eh/UH, ,/,, well/RB, it/PRP, 's/VBZ, just/RB, a/DT, ,/,, seems/VBZ, worthwhile/JJ, ./.]","(ROOT (S (INTJ (RB So)) (INTJ (UH eh)) (, ,) (NP (RB well) (PRP it)) (VP (VBZ 's) (NP (NP (RB just) (DT a)) (, ,) (SBAR (S (VP (VBZ seems) (ADJP (JJ worthwhile))))))) (. .)))"
+K/KD/KDP.xml,KDPRE00K,505,12,,B,10,1,"Oh, good, got any more?","[Oh/UH, ,/,, good/JJ, ,/,, got/VBD, any/DT, more/JJR, ?/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (ADVP (JJ good)) (, ,) (VP (VBD got) (ADVP (DT any) (JJR more))) (. ?)))"
+K/KD/KDP.xml,KDPRE00K,505,13,,A,11,1,<laugh> .,[./.],(ROOT (NP (. .)))
+K/KD/KDP.xml,KDPRE00K,505,14,,B,12,1,You could add some colour (()) .,"[You/PRP, could/MD, add/VB, some/DT, colour/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD could) (VP (VB add) (NP (DT some) (NN colour)))) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,15,,B,12,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,16,,A,13,1,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,17,,B,14,1,Suppose (()) .,"[Suppose/VB, ./.]",(ROOT (S (VP (VB Suppose)) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,18,,B,14,2,"Treacle sponge, yes, no.","[Treacle/NN, sponge/NN, ,/,, yes/UH, ,/,, no/DT, ./.]","(ROOT (NP (NP (NP (NN Treacle)) (SBAR (S (NP (NP (NN sponge)) (, ,) (FRAG (INTJ (UH yes)) (, ,) (NP (DT no))))))) (. .)))"
+K/KD/KDP.xml,KDPRE00K,505,19,,B,14,3,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+K/KD/KDP.xml,KDPRE00K,505,20,,A,15,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KD/KDP.xml,KDPRE00K,505,21,,A,15,2,? o 3 c,"[?/., o/NN, 3/CD, c/NN]",(ROOT (SINV (VP (. ?) (NP (NN o))) (NP (CD 3) (NN c))))

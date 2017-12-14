@@ -1,0 +1,17 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE02R,7504,0,,A,1,1,What's cowboys got?,"[What/WP, 's/VBZ, cowboys/NNPS, got/VBD, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NNPS cowboys)) (VP (VBD got))) (. ?)))
+K/KD/KDE.xml,KDERE02R,7504,1,,A,1,2,What've they got?,"[What/WDT, 've/VBP, they/PRP, got/VBD, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBP 've) (NP (PRP they)) (VP (VBD got))) (. ?)))
+K/KD/KDE.xml,KDERE02R,7504,2,,B,2,1,What cowboys?,"[What/WDT, cowboys/NNS, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NNS cowboys)) (. ?)))
+K/KD/KDE.xml,KDERE02R,7504,3,,B,2,2,Umm  --,"[Umm/NNP, horses/NNS, and/CC, hats/NNS, and/CC, guns/NNS, ./.]",(ROOT (NP (NP (NNP Umm)) (NP (NP (NNS horses)) (CC and) (NP (NNS hats) (CC and) (NNS guns))) (. .)))
+K/KD/KDE.xml,KDERE02R,7504,4,,B,2,3,--horses and hats  --,"[Umm/NNP, horses/NNS, and/CC, hats/NNS, and/CC, guns/NNS, ./.]",(ROOT (NP (NP (NNP Umm)) (NP (NP (NNS horses)) (CC and) (NP (NNS hats) (CC and) (NNS guns))) (. .)))
+K/KD/KDE.xml,KDERE02R,7504,5,,B,2,4,--and guns.,"[Umm/NNP, horses/NNS, and/CC, hats/NNS, and/CC, guns/NNS, ./.]",(ROOT (NP (NP (NNP Umm)) (NP (NP (NNS horses)) (CC and) (NP (NNS hats) (CC and) (NNS guns))) (. .)))
+K/KD/KDE.xml,KDERE02R,7504,6,,A,3,1,And what guns do?,"[And/CC, what/WP, guns/NNS, do/VB, ?/.]",(ROOT (SBARQ (CC And) (WHNP (WP what)) (SQ (NP (NNS guns)) (VP (VB do))) (. ?)))
+K/KD/KDE.xml,KDERE02R,7504,7,,B,4,1,"Well guns are very, very nasty.","[Well/RB, guns/NNS, are/VBP, very/RB, ,/,, very/RB, nasty/JJ, ./.]","(ROOT (S (ADVP (RB Well)) (NP (NNS guns)) (VP (VBP are) (ADJP (RB very) (, ,) (RB very) (JJ nasty))) (. .)))"
+K/KD/KDE.xml,KDERE02R,7504,8,,A,5,1,They go peeow peeow.,"[They/PRP, go/VBP, peeow/JJ, peeow/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP go) (NP (JJ peeow) (NN peeow))) (. .)))
+K/KD/KDE.xml,KDERE02R,7504,9,,B,6,1,Peel peel <laugh> .,"[Peel/NNP, peel/NNP, ./.]",(ROOT (NP (NNP Peel) (NNP peel) (. .)))
+K/KD/KDE.xml,KDERE02R,7504,10,,A,7,1,They say (()) ,"[They/PRP, say/VBP]",(ROOT (S (NP (PRP They)) (VP (VBP say))))
+K/KD/KDE.xml,KDERE02R,7504,11,,B,8,1,Do they?,"[Do/VB, they/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP they))) (. ?)))
+K/KD/KDE.xml,KDERE02R,7504,12,,A,9,1,and they come out with the gun.,"[and/CC, they/PRP, come/VBP, out/RP, with/IN, the/DT, gun/NN, ./.]",(ROOT (S (CC and) (NP (PRP they)) (VP (VBP come) (PRT (RP out)) (PP (IN with) (NP (DT the) (NN gun)))) (. .)))
+K/KD/KDE.xml,KDERE02R,7504,13,,B,10,1,"Look, they're on the horses now.","[Look/VB, ,/,, they/PRP, 're/VBP, on/IN, the/DT, horses/NNS, now/RB, ./.]","(ROOT (S (S (VP (VB Look))) (, ,) (NP (PRP they)) (VP (VBP 're) (PP (IN on) (NP (DT the) (NNS horses))) (ADVP (RB now))) (. .)))"
+K/KD/KDE.xml,KDERE02R,7504,14,,A,11,1,Where they going now mum.,"[Where/WRB, they/PRP, going/VBG, now/RB, mum/NN, ./.]",(ROOT (SBARQ (WHADVP (WRB Where)) (S (NP (PRP they)) (VP (VBG going) (ADVP (RB now)) (NP (NN mum)))) (. .)))
+K/KD/KDE.xml,KDERE02R,7504,15,,B,12,1,They're going to find all the cows.,"[They/PRP, 're/VBP, going/VBG, to/TO, find/VB, all/PDT, the/DT, cows/NNS, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB find) (NP (PDT all) (DT the) (NNS cows))))))) (. .)))

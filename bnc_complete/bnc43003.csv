@@ -1,0 +1,42 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCB.xml,KCBRE002,43003,0,,A,1,1,Excuse me.,"[Excuse/VB, me/PRP, ./.]",(ROOT (S (VP (VB Excuse) (NP (PRP me))) (. .)))
+K/KC/KCB.xml,KCBRE002,43003,1,,B,2,1,Can I help you please?,"[Can/MD, I/PRP, help/VB, you/PRP, please/VB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB help) (S (NP (PRP you)) (VP (VB please)))) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,2,,A,3,1,Six pound of granary flour please?,"[Six/CD, pound/NN, of/IN, granary/JJ, flour/NN, please/VB, ?/.]",(ROOT (S (NP (NP (CD Six) (NN pound)) (PP (IN of) (NP (JJ granary) (NN flour)))) (VP (VB please)) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,3,,B,4,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+K/KC/KCB.xml,KCBRE002,43003,4,,B,4,2,This bag is for the granary George.,"[This/DT, bag/NN, is/VBZ, for/IN, the/DT, granary/NNP, George/NNP, ./.]",(ROOT (S (NP (DT This) (NN bag)) (VP (VBZ is) (PP (IN for) (NP (DT the) (NNP granary) (NNP George)))) (. .)))
+K/KC/KCB.xml,KCBRE002,43003,5,,B,4,3,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KC/KCB.xml,KCBRE002,43003,6,,B,4,4,<laugh> --,"[One/CD, six/CD, five/CD, please/VB, ?/.]",(ROOT (S (NP (NP (CD One)) (NP (CD six) (CD five))) (VP (VB please)) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,7,,B,4,5,--One six five please?,"[One/CD, six/CD, five/CD, please/VB, ?/.]",(ROOT (S (NP (NP (CD One)) (NP (CD six) (CD five))) (VP (VB please)) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,8,,B,4,6,(()) ,[],X
+K/KC/KCB.xml,KCBRE002,43003,9,,A,5,1,<sneeze> --,"[Had/VBD, a/DT, change/NN, round/NN, ?/.]",(ROOT (SQ (VBD Had) (NP (DT a) (NN change)) (NP (NN round)) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,10,,A,5,2,--<sneeze> --,"[Had/VBD, a/DT, change/NN, round/NN, ?/.]",(ROOT (SQ (VBD Had) (NP (DT a) (NN change)) (NP (NN round)) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,11,,A,5,3,--Had a change round?,"[Had/VBD, a/DT, change/NN, round/NN, ?/.]",(ROOT (SQ (VBD Had) (NP (DT a) (NN change)) (NP (NN round)) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,12,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KCB.xml,KCBRE002,43003,13,,A,7,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,14,,B,8,1,(()) ,[],X
+K/KC/KCB.xml,KCBRE002,43003,15,,A,9,1,Is that to fool the staff or fool the customers?,"[Is/VBZ, that/IN, to/TO, fool/VB, the/DT, staff/NN, or/CC, fool/VB, the/DT, customers/NNS, ?/.]",(ROOT (S (VP (VBZ Is) (SBAR (IN that) (S (VP (TO to) (VP (VP (VB fool) (NP (DT the) (NN staff))) (CC or) (VP (VB fool) (NP (DT the) (NNS customers)))))))) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,16,,B,10,1,"Both, I think.","[Both/CC, ,/,, I/PRP, think/VBP, ./.]","(ROOT (S (NP (CC Both)) (, ,) (NP (PRP I)) (VP (VBP think)) (. .)))"
+K/KC/KCB.xml,KCBRE002,43003,17,,A,11,1,Both is it?,"[Both/DT, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (DT Both)) (VP (VBZ is) (NP (PRP it))) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,18,,A,11,2,Er er er,"[Er/NN, er/NN, er/NN]",(ROOT (NP (NP (NN Er)) (NP (NN er) (NN er))))
+K/KC/KCB.xml,KCBRE002,43003,19,,B,12,1,Twenty  --,"[Twenty/CD, one/CD, ninety/CD, two/CD, please/VB, ?/.]",(ROOT (NP (NP (NP (CD Twenty) (CD one)) (NP (QP (CD ninety) (CD two)))) (SBAR (S (VP (VB please)))) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,20,,B,12,2,--one ninety two please?,"[Twenty/CD, one/CD, ninety/CD, two/CD, please/VB, ?/.]",(ROOT (NP (NP (NP (CD Twenty) (CD one)) (NP (QP (CD ninety) (CD two)))) (SBAR (S (VP (VB please)))) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,21,,A,13,1,One  --,"[One/CD, I/PRP, 've/VBP, got/VBD, the/DT, two/CD, anyway/RB, ,/,, fifty/CD, ,/,, sixty/CD, eighty/CD, ,/,, eighty/CD, five/CD]","(ROOT (FRAG (NP (NP (CD One)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NP (DT the) (CD two)) (ADVP (RB anyway))) (, ,) (NP (NP (CD fifty)) (, ,) (NP (CD sixty) (CD eighty)) (, ,) (NP (CD eighty) (CD five)))))))))))"
+K/KC/KCB.xml,KCBRE002,43003,22,,A,13,2,"--I've got the two anyway, fifty, sixty  --","[One/CD, I/PRP, 've/VBP, got/VBD, the/DT, two/CD, anyway/RB, ,/,, fifty/CD, ,/,, sixty/CD, eighty/CD, ,/,, eighty/CD, five/CD]","(ROOT (FRAG (NP (NP (CD One)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NP (DT the) (CD two)) (ADVP (RB anyway))) (, ,) (NP (NP (CD fifty)) (, ,) (NP (CD sixty) (CD eighty)) (, ,) (NP (CD eighty) (CD five)))))))))))"
+K/KC/KCB.xml,KCBRE002,43003,23,,A,13,3,"--eighty, eighty five","[One/CD, I/PRP, 've/VBP, got/VBD, the/DT, two/CD, anyway/RB, ,/,, fifty/CD, ,/,, sixty/CD, eighty/CD, ,/,, eighty/CD, five/CD]","(ROOT (FRAG (NP (NP (CD One)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (NP (DT the) (CD two)) (ADVP (RB anyway))) (, ,) (NP (NP (CD fifty)) (, ,) (NP (CD sixty) (CD eighty)) (, ,) (NP (CD eighty) (CD five)))))))))))"
+K/KC/KCB.xml,KCBRE002,43003,24,,B,14,1,That's it!,"[That/DT, 's/VBZ, it/PRP, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it))) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,25,,B,14,2,Exactly.,"[Exactly/RB, ./.]",(ROOT (FRAG (ADVP (RB Exactly)) (. .)))
+K/KC/KCB.xml,KCBRE002,43003,26,,A,15,1,"Exactly, isn't it?","[Exactly/RB, ,/,, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (X (ADVP (RB Exactly)) (, ,) (NP (NP (NN isn)) (NP (NP (PRP 't)) (NP (PRP it)))) (. ?)))"
+K/KC/KCB.xml,KCBRE002,43003,27,,B,16,1,That's a miracle!,"[That/DT, 's/VBZ, a/DT, miracle/NN, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (NN miracle))) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,28,,A,17,1,<laugh> --,"[Cleaned/VBD, me/PRP, out/RP, !/.]",(ROOT (S (VP (VBD Cleaned) (NP (PRP me)) (PRT (RP out))) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,29,,A,17,2,--Cleaned me out!,"[Cleaned/VBD, me/PRP, out/RP, !/.]",(ROOT (S (VP (VBD Cleaned) (NP (PRP me)) (PRT (RP out))) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,30,,B,18,1,You worked that out didn't you?,"[You/PRP, worked/VBD, that/DT, out/IN, didn/NN, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBD worked) (NP (NP (DT that)) (PP (IN out) (NP (NN didn)))) (NP (NP (PRP 't)) (NP (PRP you)))) (. ?)))
+K/KC/KCB.xml,KCBRE002,43003,31,,A,19,1,"I know, I hadn't.","[I/PRP, know/VBP, ,/,, I/PRP, hadn/VBP, 't/PRP, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP know))) (, ,) (NP (PRP I)) (VP (VBP hadn) (NP (PRP 't))) (. .)))"
+K/KC/KCB.xml,KCBRE002,43003,32,,A,19,2,No I hadn't!,"[No/DT, I/PRP, hadn/VBP, 't/PRP, !/.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP hadn) (NP (PRP 't))) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,33,,B,20,1,<laugh> ,[],X
+K/KC/KCB.xml,KCBRE002,43003,34,,A,21,1,"Cleaned me out completely, there are.<laugh> ","[Cleaned/VBD, me/PRP, out/RP, completely/RB, ,/,, there/EX, are/VBP, ./.]","(ROOT (S (S (VP (VBD Cleaned) (NP (PRP me)) (PRT (RP out)) (ADVP (RB completely)))) (, ,) (NP (EX there)) (VP (VBP are)) (. .)))"
+K/KC/KCB.xml,KCBRE002,43003,35,,B,22,1,That's what we're like!,"[That/DT, 's/VBZ, what/WP, we/PRP, 're/VBP, like/IN, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP 're) (PP (IN like)))))) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,36,,A,23,1,<laugh> --,"[Cheerio/NNP, !/.]",(ROOT (FRAG (NP (NNP Cheerio)) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,37,,A,23,2,--Cheerio!,"[Cheerio/NNP, !/.]",(ROOT (FRAG (NP (NNP Cheerio)) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,38,,B,24,1,Okay then.,"[Okay/JJ, then/RB, ./.]",(ROOT (FRAG (ADVP (JJ Okay)) (RB then) (. .)))
+K/KC/KCB.xml,KCBRE002,43003,39,,B,24,2,Bye!,"[Bye/NN, !/.]",(ROOT (NP (NN Bye) (. !)))
+K/KC/KCB.xml,KCBRE002,43003,40,,A,25,1,Bye bye!,"[Bye/NNP, bye/NNP, !/.]",(ROOT (NP (NNP Bye) (NNP bye) (. !)))

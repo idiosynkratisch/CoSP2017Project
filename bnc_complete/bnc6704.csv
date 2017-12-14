@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE003,6704,0,,A,1,1,Oliver why don't you leave Sammy alone?,"[Oliver/NNP, why/WRB, don/NNP, 't/PRP, you/PRP, leave/VBP, Sammy/NN, alone/RB, ?/.]",(ROOT (FRAG (NP (NP (NNP Oliver)) (SBAR (WHADVP (WRB why) (NP (NP (NNP don)) (NP (PRP 't)))) (S (NP (PRP you)) (VP (VBP leave) (NP (NN Sammy)) (ADVP (RB alone)))))) (. ?)))
+K/KD/KDE.xml,KDERE003,6704,1,,B,2,1,(()) ,[],X
+K/KD/KDE.xml,KDERE003,6704,2,,A,3,1,You wouldn't like to be chased all over the place the whole time would you?,"[You/PRP, wouldn/VBP, 't/PRP, like/IN, to/TO, be/VB, chased/VBN, all/DT, over/IN, the/DT, place/NN, the/DT, whole/JJ, time/NN, would/MD, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP You)) (VP (VBP wouldn) (NP (PRP 't)) (SBAR (IN like) (S (VP (TO to) (VP (VB be) (VP (VBN chased) (PP (DT all) (IN over) (NP (NP (DT the) (NN place)) (NP (DT the) (JJ whole) (NN time))))))))))) (VP (MD would)) (NP (PRP you)) (. ?)))
+K/KD/KDE.xml,KDERE003,6704,3,,B,4,1,(()) But I like George.,"[But/CC, I/PRP, like/VBP, George/NNP, ./.]",(ROOT (S (CC But) (NP (PRP I)) (VP (VBP like) (NP (NNP George))) (. .)))
+K/KD/KDE.xml,KDERE003,6704,4,,A,5,1,No!,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
+K/KD/KDE.xml,KDERE003,6704,5,,A,5,2,I said you wouldn't like to be chased all the time ,"[I/PRP, said/VBD, you/PRP, wouldn/VBP, 't/PRP, like/IN, to/TO, be/VB, chased/VBN, all/PDT, the/DT, time/NN]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP you)) (VP (VBP wouldn) (NP (PRP 't)) (SBAR (IN like) (S (VP (TO to) (VP (VB be) (VP (VBN chased) (NP (PDT all) (DT the) (NN time)))))))))))))
+K/KD/KDE.xml,KDERE003,6704,6,,B,6,1,I'm the hunter.,"[I/PRP, 'm/VBP, the/DT, hunter/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (DT the) (NNP hunter))) (. .)))
+K/KD/KDE.xml,KDERE003,6704,7,,A,7,1,Were you?,"[Were/VBD, you/PRP, ?/.]",(ROOT (S (VP (VBD Were) (NP (PRP you))) (. ?)))
+K/KD/KDE.xml,KDERE003,6704,8,,B,8,1,(()) ,[],X

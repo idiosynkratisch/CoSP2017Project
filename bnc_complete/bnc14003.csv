@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC9.xml,KC9RE002,14003,0,,A,1,1,Is she coming?,"[Is/VBZ, she/PRP, coming/VBG, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP she)) (VP (VBG coming)) (. ?)))
+K/KC/KC9.xml,KC9RE002,14003,1,,A,1,2,Go and get her.,"[Go/VB, and/CC, get/VB, her/PRP, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP her))) (. .)))
+K/KC/KC9.xml,KC9RE002,14003,2,,A,1,3,Go and get her.,"[Go/VB, and/CC, get/VB, her/PRP, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP her))) (. .)))
+K/KC/KC9.xml,KC9RE002,14003,3,,A,1,4,Go and get her.,"[Go/VB, and/CC, get/VB, her/PRP, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP her))) (. .)))
+K/KC/KC9.xml,KC9RE002,14003,4,,A,1,5,Oh there's a lot of shopping.,"[Oh/UH, there/EX, 's/VBZ, a/DT, lot/NN, of/IN, shopping/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN shopping)))))) (. .)))
+K/KC/KC9.xml,KC9RE002,14003,5,,B,2,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))

@@ -1,0 +1,19 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDM.xml,KDMRE023,30701,0,,A,1,1,Ten pounds and ten P  --,"[Ten/CD, pounds/NNS, and/CC, ten/CD, P/NN, please/UH, ./.]",(ROOT (NP (NP (CD Ten) (NNS pounds)) (PP (CC and) (NP (NP (CD ten) (NN P)) (FRAG (INTJ (UH please))))) (. .)))
+K/KD/KDM.xml,KDMRE023,30701,1,,A,1,2,--please.,"[Ten/CD, pounds/NNS, and/CC, ten/CD, P/NN, please/UH, ./.]",(ROOT (NP (NP (CD Ten) (NNS pounds)) (PP (CC and) (NP (NP (CD ten) (NN P)) (FRAG (INTJ (UH please))))) (. .)))
+K/KD/KDM.xml,KDMRE023,30701,2,,B,2,1,How's that?,"[How/WRB, 's/POS, that/WDT, ?/.]",(ROOT (SBARQ (WHNP (WRB How)) (SQ (VP (POS 's) (WHNP (WDT that)))) (. ?)))
+K/KD/KDM.xml,KDMRE023,30701,3,,B,2,2,It's there somewhere!,"[It/PRP, 's/VBZ, there/EX, somewhere/RB, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (EX there)) (ADVP (RB somewhere))) (. !)))
+K/KD/KDM.xml,KDMRE023,30701,4,,A,3,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+K/KD/KDM.xml,KDMRE023,30701,5,,B,4,1,"Cards for everything now isn't it, hey?","[Cards/NNS, for/IN, everything/NN, now/RB, isn/VBP, 't/PRP, it/PRP, ,/,, hey/UH, ?/.]","(ROOT (S (S (NP (NP (NNS Cards)) (PP (IN for) (NP (NN everything)))) (ADVP (RB now)) (VP (VBP isn) (S (NP (PRP 't)) (NP (PRP it))))) (, ,) (FRAG (INTJ (UH hey))) (. ?)))"
+K/KD/KDM.xml,KDMRE023,30701,6,,A,5,1,"That's it, yes.","[That/DT, 's/VBZ, it/PRP, ,/,, yes/UH, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it)))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
+K/KD/KDM.xml,KDMRE023,30701,7,,B,6,1,<laugh> --,"[Cards/NNS, and/CC, buttons/NNS, !/.]",(ROOT (NP (NP (NP (NNS Cards)) (CC and) (NP (NNS buttons))) (. !)))
+K/KD/KDM.xml,KDMRE023,30701,8,,B,6,2,--Cards and buttons!,"[Cards/NNS, and/CC, buttons/NNS, !/.]",(ROOT (NP (NP (NP (NNS Cards)) (CC and) (NP (NNS buttons))) (. !)))
+K/KD/KDM.xml,KDMRE023,30701,9,,A,7,1,Press the wrong button and you've had it!,"[Press/VB, the/DT, wrong/JJ, button/NN, and/CC, you/PRP, 've/VBP, had/VBD, it/PRP, !/.]",(ROOT (S (S (VP (VB Press) (NP (DT the) (JJ wrong) (NN button)))) (CC and) (S (NP (PRP you)) (VP (VBP 've) (VP (VBD had) (NP (PRP it))))) (. !)))
+K/KD/KDM.xml,KDMRE023,30701,10,,B,8,1,"Well that's it, yeah.","[Well/RB, that/DT, 's/VBZ, it/PRP, ,/,, yeah/UH, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (PRP it)))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+K/KD/KDM.xml,KDMRE023,30701,11,,A,9,1,"After all, it used a be a tenner  <laugh> for  (()) ","[After/IN, all/DT, ,/,, it/PRP, used/VBD, a/DT, be/VB, a/DT, tenner/NN, for/IN]","(ROOT (S (PP (IN After) (NP (DT all))) (, ,) (NP (PRP it)) (VP (VBD used) (S (NP (DT a)) (VP (VB be) (NP (NP (DT a) (NN tenner)) (PP (IN for))))))))"
+K/KD/KDM.xml,KDMRE023,30701,12,,B,10,1,"I'd be no, I'd be no good!","[I/PRP, 'd/MD, be/VB, no/RB, ,/,, I/PRP, 'd/MD, be/VB, no/DT, good/JJ, !/.]","(ROOT (S (S (NP (PRP I)) (VP (MD 'd) (VP (VB be) (NP (RB no))))) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (VB be) (ADJP (DT no) (JJ good)))) (. !)))"
+K/KD/KDM.xml,KDMRE023,30701,13,,A,11,1,<laughing> (()) run to town </laughing> !,"[run/VB, to/TO, town/NN, !/.]",(ROOT (S (VP (VB run) (PP (TO to) (NP (NN town)))) (. !)))
+K/KD/KDM.xml,KDMRE023,30701,14,,B,12,1,I've no patience me.,"[I/PRP, 've/VBP, no/DT, patience/NN, me/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (S (NP (DT no) (NN patience)) (NP (PRP me)))) (. .)))
+K/KD/KDM.xml,KDMRE023,30701,15,,A,13,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE023,30701,16,,B,14,1,"<laughing> Okay, love bye </laughing> !","[Okay/UH, ,/,, love/VBP, bye/NN, !/.]","(ROOT (SINV (FRAG (INTJ (UH Okay))) (, ,) (VP (VBP love)) (NP (NN bye)) (. !)))"
+K/KD/KDM.xml,KDMRE023,30701,17,,A,15,1,(()) thank you.,"[thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB thank) (NP (PRP you))) (. .)))

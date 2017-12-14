@@ -1,0 +1,25 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE016,613,0,,A,1,1,Bet you Perivale's no good to us is it?,"[Bet/VB, you/PRP, Perivale/NNP, 's/POS, no/DT, good/JJ, to/TO, us/PRP, is/VBZ, it/PRP, ?/.]",(ROOT (S (S (VP (VB Bet) (S (NP (PRP you)) (NP (NP (NNP Perivale) (POS 's)) (NP (DT no) (JJ good)) (PP (TO to) (NP (PRP us))))))) (VP (VBZ is) (NP (PRP it))) (. ?)))
+K/KD/KDP.xml,KDPRE016,613,1,,B,2,1,(()) it was er  --,"[it/PRP, was/VBD, er/NN, good/JJ, night/NN, ./.]",(ROOT (S (NP (PRP it)) (VP (VBD was) (NP (NN er)) (NP (JJ good) (NN night))) (. .)))
+K/KD/KDP.xml,KDPRE016,613,2,,B,2,2,--good night.,"[it/PRP, was/VBD, er/NN, good/JJ, night/NN, ./.]",(ROOT (S (NP (PRP it)) (VP (VBD was) (NP (NN er)) (NP (JJ good) (NN night))) (. .)))
+K/KD/KDP.xml,KDPRE016,613,3,,A,3,1,I'll see what if we come up with anything with Trevor if I go over this weekend.,"[I/PRP, 'll/MD, see/VB, what/WP, if/IN, we/PRP, come/VBP, up/RP, with/IN, anything/NN, with/IN, Trevor/NNP, if/IN, I/PRP, go/VBP, over/IN, this/DT, weekend/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (WP what)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP come) (PRT (RP up)) (PP (IN with) (NP (NN anything))) (PP (IN with) (NP (NNP Trevor))) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP go) (PP (IN over) (NP (DT this) (NN weekend))))))))))) (. .)))
+K/KD/KDP.xml,KDPRE016,613,4,,B,4,1,Yeah (()) ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+K/KD/KDP.xml,KDPRE016,613,5,,A,5,1,I can always take Guy with us.,"[I/PRP, can/MD, always/RB, take/VB, Guy/NN, with/IN, us/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (ADVP (RB always)) (VP (VB take) (NP (NN Guy)) (PP (IN with) (NP (PRP us))))) (. .)))
+K/KD/KDP.xml,KDPRE016,613,6,,A,5,2,Be alright won't it?,"[Be/VB, alright/JJ, won/VBD, 't/PRP, it/PRP, ?/.]",(ROOT (SQ (VP (VB Be) (ADJP (JJ alright) (SBAR (S (VP (VBD won) (S (NP (PRP 't)) (NP (PRP it)))))))) (. ?)))
+K/KD/KDP.xml,KDPRE016,613,7,,A,5,3,Ride you round in the car.,"[Ride/NN, you/PRP, round/VBP, in/IN, the/DT, car/NN, ./.]",(ROOT (S (NP (NN Ride)) (NP (PRP you)) (VP (VBP round) (PP (IN in) (NP (DT the) (NN car)))) (. .)))
+K/KD/KDP.xml,KDPRE016,613,8,,B,6,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE016,613,9,,B,6,2,(()) ,[],X
+K/KD/KDP.xml,KDPRE016,613,10,,A,7,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDP.xml,KDPRE016,613,11,,B,8,1,(()) sixty-five thousand now.,"[sixty-five/CD, thousand/CD, now/RB, ./.]",(ROOT (FRAG (NP (CD sixty-five) (CD thousand)) (ADVP (RB now)) (. .)))
+K/KD/KDP.xml,KDPRE016,613,12,,A,9,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KD/KDP.xml,KDPRE016,613,13,,B,10,1,Barbara and Ian (()) ,"[Barbara/NNP, and/CC, Ian/NNP]",(ROOT (NP (NP (NNP Barbara)) (CC and) (NP (NNP Ian))))
+K/KD/KDP.xml,KDPRE016,613,14,,A,11,1,Increasing it?,"[Increasing/VBG, it/PRP, ?/.]",(ROOT (S (VP (VBG Increasing) (NP (PRP it))) (. ?)))
+K/KD/KDP.xml,KDPRE016,613,15,,B,12,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDP.xml,KDPRE016,613,16,,A,13,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KD/KDP.xml,KDPRE016,613,17,,B,14,1,To sixty-five thousand.,"[To/TO, sixty-five/CD, thousand/CD, ./.]",(ROOT (FRAG (PP (TO To) (NP (CD sixty-five) (CD thousand))) (. .)))
+K/KD/KDP.xml,KDPRE016,613,18,,B,14,2,I don't know what is now (()) ,"[I/PRP, don/VBP, 't/PRP, know/VB, what/WP, is/VBZ, now/RB]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADVP (RB now))))))))))
+K/KD/KDP.xml,KDPRE016,613,19,,A,15,1,Then he ,"[Then/RB, he/PRP]",(ROOT (FRAG (ADVP (RB Then)) (NP (PRP he))))
+K/KD/KDP.xml,KDPRE016,613,20,,B,16,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE016,613,21,,A,17,1,then he's been put on a short week?,"[then/RB, he/PRP, 's/VBZ, been/VBN, put/VBN, on/IN, a/DT, short/JJ, week/NN, ?/.]",(ROOT (S (ADVP (RB then)) (NP (PRP he)) (VP (VBZ 's) (VP (VBN been) (VP (VBN put) (PP (IN on) (NP (DT a) (JJ short) (NN week)))))) (. ?)))
+K/KD/KDP.xml,KDPRE016,613,22,,B,18,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KD/KDP.xml,KDPRE016,613,23,,A,19,1,They're crazy?,"[They/PRP, 're/VBP, crazy/JJ, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ crazy))) (. ?)))

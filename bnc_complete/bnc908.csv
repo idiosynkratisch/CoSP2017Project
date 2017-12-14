@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE01W,908,0,,A,1,1,Straight over?,"[Straight/RB, over/IN, ?/.]",(ROOT (FRAG (PP (ADVP (RB Straight)) (IN over)) (. ?)))
+K/KD/KDP.xml,KDPRE01W,908,1,,B,2,1,Haven't been down here for a while.,"[Haven/NNP, 't/PRP, been/VBN, down/RB, here/RB, for/IN, a/DT, while/NN, ./.]",(ROOT (NP (NP (NP (NNP Haven)) (NP (PRP 't))) (VP (VBN been) (ADVP (RB down) (RB here)) (PP (IN for) (NP (DT a) (NN while)))) (. .)))
+K/KD/KDP.xml,KDPRE01W,908,2,,B,2,2,It's all  (()) new to me.,"[It/PRP, 's/VBZ, all/DT, new/JJ, to/TO, me/PRP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (DT all) (JJ new) (PP (TO to) (NP (PRP me))))) (. .)))
+K/KD/KDP.xml,KDPRE01W,908,3,,B,2,3,(()) . I've not been down here (()) ,"[./., I/PRP, 've/VBP, not/RB, been/VBN, down/RB, here/RB]",(ROOT (SBAR (. .) (S (NP (PRP I)) (VP (VBP 've) (RB not) (VP (VBN been) (ADVP (RB down)) (ADVP (RB here)))))))

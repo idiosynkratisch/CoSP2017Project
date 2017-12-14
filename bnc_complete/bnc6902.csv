@@ -1,0 +1,45 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE00J,6902,0,,A,1,1,Mhm I like giants.,"[Mhm/NNP, I/NNP, like/IN, giants/NNPS, ./.]",(ROOT (NP (NP (NNP Mhm) (NNP I)) (PP (IN like) (NP (NNPS giants))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,1,,B,2,1,Giants?,"[Giants/NNPS, ?/.]",(ROOT (FRAG (WHNP (NNPS Giants)) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,2,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,3,,A,3,2,Th- they're knives.,"[Th-/IN, they/PRP, 're/VBP, knives/NNS, ./.]",(ROOT (FRAG (SBAR (IN Th-) (S (NP (PRP they)) (VP (VBP 're) (NP (NNS knives))))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,4,,B,4,1,They're what?,"[They/PRP, 're/VBP, what/WP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (WP what))) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,5,,A,5,1,They're knives.,"[They/PRP, 're/VBP, knives/NNS, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NNS knives))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,6,,B,6,1,Knives?,"[Knives/NNS, ?/.]",(ROOT (NP (NNS Knives) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,7,,A,7,1,Knifes.,"[Knifes/NNS, ./.]",(ROOT (NP (NNS Knifes) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,8,,B,8,1,A knife.,"[A/DT, knife/NN, ./.]",(ROOT (NP (DT A) (NN knife) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,9,,A,9,1,"And th-, they cut theirselves.","[And/CC, th-/NN, ,/,, they/PRP, cut/VBD, theirselves/NNS, ./.]","(ROOT (S (CC And) (NP (NN th-)) (, ,) (NP (PRP they)) (VP (VBD cut) (NP (NNS theirselves))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,10,,B,10,1,They cut (()) ,"[They/PRP, cut/VBD]",(ROOT (S (NP (PRP They)) (VP (VBD cut))))
+K/KD/KDE.xml,KDERE00J,6902,11,,A,11,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,12,,A,11,2,Oh what's the giant got?,"[Oh/UH, what/WP, 's/VBZ, the/DT, giant/JJ, got/VBN, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (WP what)) (VP (VBZ 's) (NP (NP (DT the) (JJ giant)) (VP (VBN got))))) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,13,,B,12,1,The giant.,"[The/DT, giant/NN, ./.]",(ROOT (NP (DT The) (NN giant) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,14,,B,12,2,With a tee at the end.,"[With/IN, a/DT, tee/NN, at/IN, the/DT, end/NN, ./.]",(ROOT (FRAG (PP (IN With) (NP (NP (DT a) (NN tee)) (PP (IN at) (NP (DT the) (NN end))))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,15,,A,13,1,Well what's he got?,"[Well/RB, what/WP, 's/VBZ, he/PRP, got/VBD, ?/.]",(ROOT (SBARQ (WHADJP (RB Well) (WP what)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got))) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,16,,B,14,1,What's he got.<emphasizing t> ,"[What/WP, 's/VBZ, he/PRP, got/VBD, ./.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,17,,A,15,1,What's he got in his hand?,"[What/WP, 's/VBZ, he/PRP, got/VBD, in/IN, his/PRP$, hand/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got) (PP (IN in) (NP (PRP$ his) (NN hand))))) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,18,,B,16,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,19,,A,17,1,He's got a sword.,"[He/PRP, 's/VBZ, got/VBD, a/DT, sword/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (NN sword)))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,20,,B,18,1,A sword?,"[A/DT, sword/NN, ?/.]",(ROOT (NP (DT A) (NN sword) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,21,,A,19,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,22,,B,20,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,23,,B,20,2,"Right, stand up.","[Right/NN, ,/,, stand/VB, up/RP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VB stand) (PRT (RP up))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,24,,A,21,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00J,6902,25,,B,22,1,"Left, right.","[Left/VBN, ,/,, right/RB, ./.]","(ROOT (NP (NP (NP (VBN Left)) (, ,) (NP (RB right))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,26,,A,23,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,27,,A,23,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,28,,B,24,1,Put your coat on.,"[Put/VB, your/PRP$, coat/NN, on/IN, ./.]",(ROOT (S (VP (VB Put) (NP (PRP$ your) (NN coat)) (PP (IN on))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,29,,A,25,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00J,6902,30,,A,25,2,(()) ,[],X
+K/KD/KDE.xml,KDERE00J,6902,31,,B,26,1,(()) are you?,"[are/VBP, you/PRP, ?/.]",(ROOT (S (VP (VBP are) (NP (PRP you))) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,32,,A,27,1,Mhm.(()) ,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,33,,B,28,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KD/KDE.xml,KDERE00J,6902,34,,A,29,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00J,6902,35,,B,30,1,"No, you can't wear that going out.","[No/DT, ,/,, you/PRP, can/MD, 't/PRP, wear/VB, that/DT, going/VBG, out/RP, ./.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP you)) (VP (MD can)))) (NP (PRP 't)) (VP (VB wear) (NP (NP (DT that)) (VP (VBG going) (PRT (RP out))))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,36,,A,31,1,Please.,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,37,,B,32,1,"You can't darling, don't you start being angry.","[You/PRP, can/MD, 't/PRP, darling/NN, ,/,, don/NNP, 't/PRP, you/PRP, start/VBP, being/VBG, angry/JJ, ./.]","(ROOT (S (NP (PRP You)) (VP (MD can) (VP (NP (PRP 't)) (NP (NP (NN darling)) (, ,) (NP (NNP don))) (S (NP (NP (PRP 't)) (SBAR (S (NP (PRP you)) (VP (VBP start) (S (VP (VBG being) (ADJP (JJ angry))))))))))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,38,,B,32,2,"Right, hold this, hold this.","[Right/NN, ,/,, hold/VBP, this/DT, ,/,, hold/VB, this/DT, ./.]","(ROOT (S (NP (NP (NN Right)) (, ,) (VP (VBP hold) (NP (DT this))) (, ,)) (VP (VB hold) (NP (DT this))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,39,,B,32,3,"And stop showing off, no, no, no, no, no.","[And/CC, stop/VB, showing/VBG, off/RP, ,/,, no/DT, ,/,, no/DT, ,/,, no/DT, ,/,, no/DT, ,/,, no/DT, ./.]","(ROOT (S (CC And) (VP (VP (VB stop) (S (VP (VBG showing) (PRT (RP off))))) (, ,) (NP (NP (NP (ADJP (DT no) (PRN (, ,) (ADVP (DT no)) (, ,))) (DT no)) (, ,) (NP (DT no)) (, ,)) (ADVP (DT no)))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,40,,A,33,1,Don't want it.,"[Don/NNP, 't/PRP, want/VBP, it/PRP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP want) (NP (PRP it))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,41,,B,34,1,Well don't have it then.,"[Well/RB, don/NNP, 't/PRP, have/VBP, it/PRP, then/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (NNP don) (PRP 't)) (VP (VBP have) (NP (PRP it)) (NP (RB then))) (. .)))
+K/KD/KDE.xml,KDERE00J,6902,42,,A,35,1,"Please, please it's mine.","[Please/UH, ,/,, please/VB, it/PRP, 's/VBZ, mine/NN, ./.]","(ROOT (S (INTJ (UH Please)) (, ,) (VP (VB please) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NN mine)))))) (. .)))"
+K/KD/KDE.xml,KDERE00J,6902,43,,B,36,1,Alright well have it then.,"[Alright/NNP, well/RB, have/VBP, it/PRP, then/RB, ./.]",(ROOT (S (NP (NNP Alright)) (ADVP (RB well)) (VP (VBP have) (NP (PRP it)) (NP (RB then))) (. .)))

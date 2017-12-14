@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBL.xml,KBLRE012,40604,0,,A,1,1,Where's the old  --,"[Where/WRB, 's/VBZ, the/DT, old/JJ, Shake/NN, and/CC, Vac/NN, mum/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (NP (DT the) (JJ old) (NN Shake)) (CC and) (NP (NN Vac) (NN mum)))) (. ?)))
+K/KB/KBL.xml,KBLRE012,40604,1,,A,1,2,--Shake and Vac mum?,"[Where/WRB, 's/VBZ, the/DT, old/JJ, Shake/NN, and/CC, Vac/NN, mum/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (NP (DT the) (JJ old) (NN Shake)) (CC and) (NP (NN Vac) (NN mum)))) (. ?)))
+K/KB/KBL.xml,KBLRE012,40604,2,,B,2,1,Oh I dunno!,"[Oh/UH, I/PRP, dunno/VBP, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP dunno))) (. !)))
+K/KB/KBL.xml,KBLRE012,40604,3,,B,2,2,Erm  --,"[Erm/NN, in/IN, the/DT, bedroom/NN, ?/.]",(ROOT (NP (NP (NN Erm)) (PP (IN in) (NP (DT the) (NN bedroom))) (. ?)))
+K/KB/KBL.xml,KBLRE012,40604,4,,B,2,3,--in the bedroom?,"[Erm/NN, in/IN, the/DT, bedroom/NN, ?/.]",(ROOT (NP (NP (NN Erm)) (PP (IN in) (NP (DT the) (NN bedroom))) (. ?)))
+K/KB/KBL.xml,KBLRE012,40604,5,,B,2,4,Is it in there?,"[Is/VBZ, it/PRP, in/IN, there/EX, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (ADVP (IN in)) (NP (EX there)) (. ?)))

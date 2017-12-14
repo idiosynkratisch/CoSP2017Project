@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE00J,45613,0,,A,1,1,When?,"[When/WRB, ?/.]",(ROOT (FRAG (WHADVP (WRB When) (. ?))))
+K/KD/KDN.xml,KDNRE00J,45613,1,,B,2,1,Now.,"[Now/RB, ./.]",(ROOT (FRAG (ADVP (RB Now)) (. .)))
+K/KD/KDN.xml,KDNRE00J,45613,2,,A,3,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+K/KD/KDN.xml,KDNRE00J,45613,3,,B,4,1,It's over.,"[It/PRP, 's/VBZ, over/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB over))) (. .)))
+K/KD/KDN.xml,KDNRE00J,45613,4,,A,5,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KD/KDN.xml,KDNRE00J,45613,5,,A,5,2,You better get up the stairs and tell Johnny what's happening.,"[You/PRP, better/JJR, get/VB, up/RP, the/DT, stairs/NNS, and/CC, tell/VB, Johnny/NNP, what/WP, 's/VBZ, happening/VBG, ./.]",(ROOT (S (NP (PRP You)) (ADVP (JJR better)) (VP (VP (VB get) (PRT (RP up)) (NP (DT the) (NNS stairs))) (CC and) (VP (VB tell) (NP (NP (NNP Johnny)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VBG happening)))))))) (. .)))

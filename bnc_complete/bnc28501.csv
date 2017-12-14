@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCF.xml,KCFRE00M,28501,0,,A,1,1,Well they all haven't got a soft mum and dad like you.,"[Well/RB, they/PRP, all/DT, haven/NN, 't/PRP, got/VBD, a/DT, soft/JJ, mum/NN, and/CC, dad/NN, like/IN, you/PRP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (NP (PRP they)) (NP (DT all) (NN haven))) (NP (PRP 't)) (VP (VBD got) (NP (NP (DT a) (JJ soft) (NN mum) (CC and) (NN dad)) (PP (IN like) (NP (PRP you))))) (. .)))
+K/KC/KCF.xml,KCFRE00M,28501,1,,B,2,1,(()) mum?(()) --,"[mum/NN, ?/.]",(ROOT (FRAG (NP (NN mum)) (. ?)))
+K/KC/KCF.xml,KCFRE00M,28501,2,,B,2,2,--(()) ,"[mum/NN, ?/.]",(ROOT (FRAG (NP (NN mum)) (. ?)))

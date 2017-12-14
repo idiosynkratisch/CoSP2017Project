@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE01P,902,0,,A,1,1,Do you need anything from the house?,"[Do/VB, you/PRP, need/VB, anything/NN, from/IN, the/DT, house/NNP, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB need) (NP (NN anything)) (PP (IN from) (NP (DT the) (NNP house)))))) (. ?)))
+K/KD/KDP.xml,KDPRE01P,902,1,,B,2,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KD/KDP.xml,KDPRE01P,902,2,,B,2,2,You got the bottle?,"[You/PRP, got/VBD, the/DT, bottle/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBD got) (NP (DT the) (NN bottle))) (. ?)))
+K/KD/KDP.xml,KDPRE01P,902,3,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDP.xml,KDPRE01P,902,4,,A,3,2,There's the bottle.,"[There/EX, 's/VBZ, the/DT, bottle/NN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT the) (NN bottle))) (. .)))

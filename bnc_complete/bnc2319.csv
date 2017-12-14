@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02L,2319,0,,A,1,1,"Right, do you want to go to the garden centre at Mottingham?","[Right/NN, ,/,, do/VBP, you/PRP, want/VB, to/TO, go/VB, to/TO, the/DT, garden/NN, centre/NN, at/IN, Mottingham/NNP, ?/.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VBP do) (S (NP (PRP you)) (VP (VB want) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT the) (NN garden) (NN centre))) (PP (IN at) (NP (NNP Mottingham))))))))) (. ?)))"
+K/KB/KBK.xml,KBKRE02L,2319,1,,B,2,1,Where's the garden centre?,"[Where/WRB, 's/VBZ, the/DT, garden/NN, centre/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (DT the) (NN garden) (NN centre))) (. ?)))
+K/KB/KBK.xml,KBKRE02L,2319,2,,A,3,1,Other end of Mottingham Lane.,"[Other/JJ, end/NN, of/IN, Mottingham/NNP, Lane/NNP, ./.]",(ROOT (NP (NP (JJ Other) (NN end)) (PP (IN of) (NP (NNP Mottingham) (NNP Lane))) (. .)))
+K/KB/KBK.xml,KBKRE02L,2319,3,,B,4,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02L,2319,4,,A,5,1,"Oh thank you, yes.","[Oh/UH, thank/VB, you/PRP, ,/,, yes/UH, ./.]","(ROOT (S (INTJ (UH Oh)) (VP (VB thank) (NP (PRP you)) (, ,) (NP (UH yes))) (. .)))"
+K/KB/KBK.xml,KBKRE02L,2319,5,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02L,2319,6,,A,7,1,Oh hang on a minute  (()) my wallet.,"[Oh/UH, hang/VB, on/IN, a/DT, minute/JJ, my/PRP$, wallet/NN, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (VB hang) (PP (IN on) (NP (NP (DT a) (JJ minute)) (NP (PRP$ my) (NN wallet))))) (. .)))
+K/KB/KBK.xml,KBKRE02L,2319,7,,B,8,1,I've got some money.,"[I/PRP, 've/VBP, got/VBD, some/DT, money/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (NN money)))) (. .)))
+K/KB/KBK.xml,KBKRE02L,2319,8,,A,9,1,I've only got three  (()) thank you.,"[I/PRP, 've/VBP, only/RB, got/VBN, three/CD, thank/VB, you/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB only)) (VP (VBN got) (NP (CD three)) (S (VP (VB thank) (NP (PRP you)))))) (. .)))
+K/KB/KBK.xml,KBKRE02L,2319,9,,B,10,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02L,2319,10,,A,11,1,"Yeah, thanks.","[Yeah/UH, ,/,, thanks/NNS, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NNS thanks)) (. .)))"

@@ -1,0 +1,20 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE043,2601,0,,A,1,1,"It's alright, we don't have to do anything","[It/PRP, 's/VBZ, alright/JJ, ,/,, we/PRP, don/VBP, 't/PRP, have/VB, to/TO, do/VB, anything/NN]","(ROOT (S (NP (PRP It)) (VP (VP (VBZ 's) (ADJP (JJ alright))) (PRN (, ,) (S (NP (PRP we)) (VP (VBP don) (NP (PRP 't))))) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NN anything)))))))))"
+K/KB/KBK.xml,KBKRE043,2601,1,,B,2,1,"Really, aha.","[Really/RB, ,/,, aha/NN, ./.]","(ROOT (FRAG (ADVP (RB Really)) (, ,) (NP (NN aha)) (. .)))"
+K/KB/KBK.xml,KBKRE043,2601,2,,A,3,1,for a minute.,"[for/IN, a/DT, minute/NN, ./.]",(ROOT (FRAG (PP (IN for) (NP (DT a) (NN minute))) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,3,,B,4,1,(()) ready to cook.,"[ready/JJ, to/TO, cook/VB, ./.]",(ROOT (FRAG (ADJP (JJ ready)) (S (VP (TO to) (VP (VB cook)))) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,4,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE043,2601,5,,B,6,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,6,,B,6,2,"Goody, goody.","[Goody/NNP, ,/,, goody/NNP, ./.]","(ROOT (NP (NP (NNP Goody)) (, ,) (NP (NNP goody)) (. .)))"
+K/KB/KBK.xml,KBKRE043,2601,7,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE043,2601,8,,B,8,1,"Sorry, you're going to freeze it?","[Sorry/JJ, ,/,, you/PRP, 're/VBP, going/VBG, to/TO, freeze/VB, it/PRP, ?/.]","(ROOT (S (S (ADJP (JJ Sorry))) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB freeze) (NP (PRP it))))))) (. ?)))"
+K/KB/KBK.xml,KBKRE043,2601,9,,A,9,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,10,,B,10,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,11,,A,11,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE043,2601,12,,B,12,1,Oh well done.,"[Oh/UH, well/RB, done/VBN, ./.]",(ROOT (S (NP (UH Oh)) (ADVP (RB well)) (VP (VBN done)) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,13,,A,13,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE043,2601,14,,B,14,1,Very good.,"[Very/RB, good/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ good)) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,15,,B,14,2,"What time you due at the hairdresser, quarter to?","[What/WDT, time/NN, you/PRP, due/RB, at/IN, the/DT, hairdresser/NN, ,/,, quarter/NN, to/TO, ?/.]","(ROOT (FRAG (WHNP (WDT What) (NN time)) (ADVP (PRP you) (RB due)) (PP (IN at) (NP (NP (DT the) (NN hairdresser)) (, ,) (NP (NP (NN quarter)) (SBAR (S (VP (TO to))))))) (. ?)))"
+K/KB/KBK.xml,KBKRE043,2601,16,,B,14,3,Five minutes to go.,"[Five/CD, minutes/NNS, to/TO, go/VB, ./.]",(ROOT (S (NP (CD Five) (NNS minutes)) (VP (TO to) (VP (VB go))) (. .)))
+K/KB/KBK.xml,KBKRE043,2601,17,,B,14,4,Would you like me to try Veronica later or deliver that?,"[Would/MD, you/PRP, like/VB, me/PRP, to/TO, try/VB, Veronica/NN, later/RB, or/CC, deliver/VB, that/IN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (S (NP (PRP me)) (VP (TO to) (VP (VP (VB try) (NP (NN Veronica)) (ADVP (RB later))) (CC or) (VP (VB deliver) (ADVP (IN that))))))) (. ?)))
+K/KB/KBK.xml,KBKRE043,2601,18,,A,15,1,(()) ,[],X

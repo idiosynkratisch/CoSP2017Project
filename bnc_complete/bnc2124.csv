@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE00S,2124,0,,A,1,1,"Gracious, makes you wonder doesn't it?","[Gracious/JJ, ,/,, makes/VBZ, you/PRP, wonder/VBP, doesn/JJ, 't/PRP, it/PRP, ?/.]","(ROOT (SINV (FRAG (ADJP (JJ Gracious))) (, ,) (VP (VBZ makes) (SBAR (S (NP (PRP you)) (VP (VBP wonder) (ADJP (JJ doesn)) (S (NP (PRP 't))))))) (NP (PRP it)) (. ?)))"
+K/KB/KBK.xml,KBKRE00S,2124,1,,A,1,2,Green Tom Products Limited.,"[Green/JJ, Tom/NNP, Products/NNS, Limited/VBN, ./.]",(ROOT (S (NP (JJ Green) (NNP Tom) (NNS Products)) (VP (VBN Limited)) (. .)))
+K/KB/KBK.xml,KBKRE00S,2124,2,,B,2,1,Green Tom?,"[Green/JJ, Tom/NNP, ?/.]",(ROOT (FRAG (ADVP (JJ Green)) (NP (NNP Tom)) (. ?)))
+K/KB/KBK.xml,KBKRE00S,2124,3,,A,3,1,Fume extraction engineers.,"[Fume/NN, extraction/NN, engineers/NNS, ./.]",(ROOT (NP (NP (NN Fume)) (NP (NN extraction) (NNS engineers)) (. .)))
+K/KB/KBK.xml,KBKRE00S,2124,4,,B,4,1,<laugh> .,[./.],(ROOT (NP (. .)))
+K/KB/KBK.xml,KBKRE00S,2124,5,,A,5,1,<laugh> .,[./.],(ROOT (NP (. .)))

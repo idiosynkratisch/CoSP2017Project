@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KP/KPG.xml,KPGRE003,132604,0,,A,1,1,<laughing> I'm going </laughing> .,"[I/PRP, 'm/VBP, going/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going))) (. .)))
+K/KP/KPG.xml,KPGRE003,132604,1,,B,2,1,(()) ,[],X
+K/KP/KPG.xml,KPGRE003,132604,2,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KP/KPG.xml,KPGRE003,132604,3,,A,3,2,"I'm going, you lot are  --","[I/PRP, 'm/VBP, going/VBG, ,/,, you/PRP, lot/RB, are/VBP, you/PRP, lot/NN, are/VBP, mad/JJ, !/.]","(ROOT (S (NP (PRP I)) (VP (VP (VBP 'm) (VP (VBG going))) (, ,) (NP (NP (NP (PRP you)) (RB lot) (SBAR (S (VP (VBP are) (NP (PRP you)))))) (SBAR (S (NP (NN lot)) (VP (VBP are) (ADJP (JJ mad))))))) (. !)))"
+K/KP/KPG.xml,KPGRE003,132604,4,,A,3,3,--you lot are mad!,"[I/PRP, 'm/VBP, going/VBG, ,/,, you/PRP, lot/RB, are/VBP, you/PRP, lot/NN, are/VBP, mad/JJ, !/.]","(ROOT (S (NP (PRP I)) (VP (VP (VBP 'm) (VP (VBG going))) (, ,) (NP (NP (NP (PRP you)) (RB lot) (SBAR (S (VP (VBP are) (NP (PRP you)))))) (SBAR (S (NP (NN lot)) (VP (VBP are) (ADJP (JJ mad))))))) (. !)))"

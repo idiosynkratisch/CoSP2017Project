@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE01S,45909,0,,A,1,1,<<REDACTED (telephone number)>> .,"[>/JJR, ./.]",(ROOT (FRAG (ADJP (JJR >)) (. .)))
+K/KD/KDN.xml,KDNRE01S,45909,1,,A,1,2,<<REDACTED (telephone number)>> isn't it?--,"[>/JJR, isn/NN, 't/PRP, it/PRP, ?>/SYM]",(ROOT (NP (NP (JJR >)) (NP (NP (NN isn)) (SBAR (S (VP (NP (NP (NP (PRP 't)) (NP (PRP it))) (X (SYM ?>)))))))))
+K/KD/KDN.xml,KDNRE01S,45909,2,,A,1,3,--<<REDACTED (telephone number)>> ,"[>/JJR, isn/NN, 't/PRP, it/PRP, ?>/SYM]",(ROOT (NP (NP (JJR >)) (NP (NP (NN isn)) (SBAR (S (VP (NP (NP (NP (PRP 't)) (NP (PRP it))) (X (SYM ?>)))))))))
+K/KD/KDN.xml,KDNRE01S,45909,3,,B,2,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE01S,45909,4,,A,3,1,(()) love.,"[love/NN, ./.]",(ROOT (NP (NN love) (. .)))
+K/KD/KDN.xml,KDNRE01S,45909,5,,B,4,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE01S,45909,6,,A,5,1,Where's Stephen?,"[Where/WRB, 's/POS, Stephen/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NNP Stephen))) (. ?)))
+K/KD/KDN.xml,KDNRE01S,45909,7,,B,6,1,(()) ,[],X

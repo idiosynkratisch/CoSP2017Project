@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB2.xml,KB2RE00M,61507,0,,A,1,1,Cos I'm taping aren't I?,"[Cos/NNP, I/PRP, 'm/VBP, taping/VBG, aren/NNP, 't/PRP, I/PRP, ?/.]",(ROOT (S (NP (NNP Cos) (PRP I)) (VP (VBP 'm) (VP (VBG taping) (S (NP (NNP aren) (PRP 't)) (NP (PRP I))))) (. ?)))
+K/KB/KB2.xml,KB2RE00M,61507,1,,B,2,1,Oh another one?,"[Oh/UH, another/DT, one/CD, ?/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT another) (CD one)))) (. ?)))
+K/KB/KB2.xml,KB2RE00M,61507,2,,B,2,2,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KB/KB2.xml,KB2RE00M,61507,3,,B,2,3,How many tapes is that then?,"[How/WRB, many/JJ, tapes/NNS, is/VBZ, that/IN, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS tapes)) (SQ (VBZ is) (ADJP (IN that) (ADVP (RB then)))) (. ?)))
+K/KB/KB2.xml,KB2RE00M,61507,4,,B,2,4,Six?,"[Six/CD, ?/.]",(ROOT (FRAG (NP (CD Six)) (. ?)))
+K/KB/KB2.xml,KB2RE00M,61507,5,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KB2.xml,KB2RE00M,61507,6,,B,4,1,Six?,"[Six/CD, ?/.]",(ROOT (FRAG (NP (CD Six)) (. ?)))
+K/KB/KB2.xml,KB2RE00M,61507,7,,B,4,2,You can smell them onions can't you?,"[You/PRP, can/MD, smell/VB, them/PRP, onions/NNS, can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB smell) (S (NP (NP (PRP them)) (SBAR (S (NP (NNS onions)) (VP (MD can) (VP (NP (PRP 't))))))) (NP (PRP you))))) (. ?)))
+K/KB/KB2.xml,KB2RE00M,61507,8,,A,5,1,Mm mm.,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
+K/KB/KB2.xml,KB2RE00M,61507,9,,A,5,2,Mm mm.,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))

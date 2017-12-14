@@ -1,0 +1,14 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB5.xml,KB5RE005,5706,0,,A,1,1,"When we were in the room it smelled (()) , cos Si, Dave, Jolly (()) .","[When/WRB, we/PRP, were/VBD, in/IN, the/DT, room/NN, it/PRP, smelled/VBD, ,/,, cos/NNP, Si/NNP, ,/,, Dave/NNP, ,/,, Jolly/JJ, ./.]","(ROOT (S (S (SBAR (WHADVP (WRB When)) (S (NP (PRP we)) (VP (VBD were) (PP (IN in) (NP (DT the) (NN room)))))) (NP (PRP it)) (VP (VBD smelled))) (, ,) (FRAG (NP (NP (NNP cos) (NNP Si)) (, ,) (NP (NNP Dave)) (, ,)) (ADJP (JJ Jolly))) (. .)))"
+K/KB/KB5.xml,KB5RE005,5706,1,,B,2,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KB5.xml,KB5RE005,5706,2,,A,3,1,"(()) , Colin, someone else, Johnny <<REDACTED (name)>> .","[,/,, Colin/NNP, ,/,, someone/NN, else/RB, ,/,, Johnny/NNP, >/JJR, ./.]","(ROOT (S (FRAG (, ,) (NP (NNP Colin))) (, ,) (NP (NN someone) (RB else)) (, ,) (NP (NNP Johnny)) (VP (JJR >)) (. .)))"
+K/KB/KB5.xml,KB5RE005,5706,3,,B,4,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE005,5706,4,,A,5,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE005,5706,5,,B,6,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE005,5706,6,,A,7,1,There's her poxy car keys.,"[There/EX, 's/VBZ, her/PRP$, poxy/NN, car/NN, keys/NNS, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (PRP$ her) (NN poxy) (NN car) (NNS keys))) (. .)))
+K/KB/KB5.xml,KB5RE005,5706,7,,A,7,2,(()) --,"[Is/VBZ, he/PRP, alright/JJ, there/EX, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP he)) (NP (JJ alright) (NP (EX there))) (. ?)))
+K/KB/KB5.xml,KB5RE005,5706,8,,A,7,3,--Is he alright there?,"[Is/VBZ, he/PRP, alright/JJ, there/EX, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP he)) (NP (JJ alright) (NP (EX there))) (. ?)))
+K/KB/KB5.xml,KB5RE005,5706,9,,B,8,1,Yeah (()) .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KB5.xml,KB5RE005,5706,10,,A,9,1,Right  --,[Right/NN],(ROOT (NP (NN Right)))
+K/KB/KB5.xml,KB5RE005,5706,11,,A,9,2,--(()) ,[Right/NN],(ROOT (NP (NN Right)))
+K/KB/KB5.xml,KB5RE005,5706,12,,B,10,1,(()) ,[],X

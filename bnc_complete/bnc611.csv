@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE014,611,0,,A,1,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KD/KDP.xml,KDPRE014,611,1,,A,1,2,Is that any way to treat your bottle?,"[Is/VBZ, that/IN, any/DT, way/NN, to/TO, treat/VB, your/PRP$, bottle/NN, ?/.]",(ROOT (S (VP (VBZ Is) (SBAR (IN that) (S (NP (DT any) (NN way)) (VP (TO to) (VP (VB treat) (NP (PRP$ your) (NN bottle))))))) (. ?)))
+K/KD/KDP.xml,KDPRE014,611,2,,A,1,3,Want any more of this?,"[Want/VB, any/DT, more/JJR, of/IN, this/DT, ?/.]",(ROOT (SQ (VP (VB Want) (NP (NP (DT any) (JJR more)) (PP (IN of) (NP (DT this))))) (. ?)))
+K/KD/KDP.xml,KDPRE014,611,3,,A,1,4,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KD/KDP.xml,KDPRE014,611,4,,A,1,5,You ready to go down?,"[You/PRP, ready/JJ, to/TO, go/VB, down/RP, ?/.]",(ROOT (FRAG (ADJP (NP (PRP You)) (JJ ready)) (S (VP (TO to) (VP (VB go) (PRT (RP down))))) (. ?)))
+K/KD/KDP.xml,KDPRE014,611,5,,A,1,6,Okey dokey.,"[Okey/NNP, dokey/NNP, ./.]",(ROOT (NP (NNP Okey) (NNP dokey) (. .)))
+K/KD/KDP.xml,KDPRE014,611,6,,A,1,7,There we go tiger.,"[There/EX, we/PRP, go/VBP, tiger/NNP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go) (NP (NNP tiger))) (. .)))
+K/KD/KDP.xml,KDPRE014,611,7,,A,1,8,There we go.,"[There/EX, we/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
+K/KD/KDP.xml,KDPRE014,611,8,,B,2,1,<baby noise> ,[],X
+K/KD/KDP.xml,KDPRE014,611,9,,A,3,1,(()) ,[],X

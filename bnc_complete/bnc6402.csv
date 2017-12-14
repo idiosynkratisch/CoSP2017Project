@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC4.xml,KC4RE001,6402,0,,A,1,1,Ah how's the old prep going eh?,"[Ah/NN, how/WRB, 's/POS, the/DT, old/JJ, prep/NNP, going/VBG, eh/UH, ?/.]",(ROOT (FRAG (ADJP (NN Ah)) (SBAR (WHADVP (WRB how)) (S (S (NP (POS 's)) (X (X (DT the) (ADJP (JJ old))) (S (ADJP (NNP prep)) (S (VP (VBG going)))))) (VP (UH eh)))) (. ?)))
+K/KC/KC4.xml,KC4RE001,6402,1,,B,2,1,Well I've finished it.,"[Well/RB, I/PRP, 've/VBP, finished/VBN, it/PRP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP 've) (VP (VBN finished) (NP (PRP it)))) (. .)))
+K/KC/KC4.xml,KC4RE001,6402,2,,A,3,1,"Oh you've finished it, oh good.","[Oh/UH, you/PRP, 've/VBP, finished/VBN, it/PRP, ,/,, oh/UH, good/JJ, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP 've) (VP (VP (VBN finished) (NP (PRP it))) (, ,) (NP (INTJ (UH oh)) (NP (JJ good)))))) (. .)))"
+K/KC/KC4.xml,KC4RE001,6402,3,,A,3,2,Alright?,"[Alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP Alright)) (. ?)))
+K/KC/KC4.xml,KC4RE001,6402,4,,B,4,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+K/KC/KC4.xml,KC4RE001,6402,5,,A,5,1,Well I hope you get on well with  --,"[Well/RB, I/PRP, hope/VBP, you/PRP, get/VB, on/RP, well/RB, with/IN, what/WP, you/PRP, 're/VBP, doing/VBG, for/IN, your/PRP$, scenery/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP hope) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)))) (PP (RB well) (IN with) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG doing) (PP (IN for) (NP (PRP$ your) (NN scenery))))))))) (. .)))
+K/KC/KC4.xml,KC4RE001,6402,6,,A,5,2,--what you're doing for your scenery.,"[Well/RB, I/PRP, hope/VBP, you/PRP, get/VB, on/RP, well/RB, with/IN, what/WP, you/PRP, 're/VBP, doing/VBG, for/IN, your/PRP$, scenery/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP hope) (S (NP (PRP you)) (VP (VB get) (PRT (RP on)))) (PP (RB well) (IN with) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG doing) (PP (IN for) (NP (PRP$ your) (NN scenery))))))))) (. .)))
+K/KC/KC4.xml,KC4RE001,6402,7,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC4.xml,KC4RE001,6402,8,,A,7,1,Alright?,"[Alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP Alright)) (. ?)))
+K/KC/KC4.xml,KC4RE001,6402,9,,B,8,1,O K.,"[O/NN, K/NN, ./.]",(ROOT (NP (NP (NN O)) (NP (NN K)) (. .)))
+K/KC/KC4.xml,KC4RE001,6402,10,,A,9,1,See you later.,"[See/VB, you/PRP, later/RB, ./.]",(ROOT (S (VP (VB See) (NP (PRP you)) (ADVP (RB later))) (. .)))
+K/KC/KC4.xml,KC4RE001,6402,11,,B,10,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

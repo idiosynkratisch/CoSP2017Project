@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD3.xml,KD3RE014,25401,0,,A,1,1,Where are they then?,"[Where/WRB, are/VBP, they/PRP, then/RB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP are) (NP (PRP they)) (NP (RB then))) (. ?)))
+K/KD/KD3.xml,KD3RE014,25401,1,,A,1,2,Where's Fun in the Sun?,"[Where/WRB, 's/POS, Fun/NN, in/IN, the/DT, Sun/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NP (NN Fun)) (PP (IN in) (NP (DT the) (NN Sun))))) (. ?)))
+K/KD/KD3.xml,KD3RE014,25401,2,,A,1,3,Today?,"[Today/NN, ?/.]",(ROOT (FRAG (NP (NN Today)) (. ?)))
+K/KD/KD3.xml,KD3RE014,25401,3,,B,2,1,Dunno.,"[Dunno/NNP, ./.]",(ROOT (FRAG (NP (NNP Dunno)) (. .)))
+K/KD/KD3.xml,KD3RE014,25401,4,,B,2,2,Er   <belch> --,"[Er/NN, ah/NN, excuse/NN, me/PRP, !/.]",(ROOT (NP (NP (NN Er) (NN ah) (NN excuse)) (NP (PRP me)) (. !)))
+K/KD/KD3.xml,KD3RE014,25401,5,,B,2,3,--ah excuse me!,"[Er/NN, ah/NN, excuse/NN, me/PRP, !/.]",(ROOT (NP (NP (NN Er) (NN ah) (NN excuse)) (NP (PRP me)) (. !)))
+K/KD/KD3.xml,KD3RE014,25401,6,,A,3,1,(()) .,[./.],(ROOT (NP (. .)))

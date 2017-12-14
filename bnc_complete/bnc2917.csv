@@ -1,0 +1,18 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE06G,2917,0,,A,1,1,They're having it earlier this afternoon  (()) ,"[They/PRP, 're/VBP, having/VBG, it/PRP, earlier/RBR, this/DT, afternoon/NN]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG having) (NP (NP (PRP it)) (NP (RBR earlier) (DT this) (NN afternoon)))))))
+K/KB/KBK.xml,KBKRE06G,2917,1,,B,2,1,Oh yes.,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,2,,A,3,1,If your marriage is consummated before  (()) never consummated after the marriage service is that an annulment?(()) ,"[If/IN, your/PRP$, marriage/NN, is/VBZ, consummated/VBN, before/IN, never/RB, consummated/VBN, after/IN, the/DT, marriage/NN, service/NN, is/VBZ, that/IN, an/DT, annulment/NN, ?/.]",(ROOT (S (SBAR (IN If) (S (NP (PRP$ your) (NN marriage)) (VP (VBZ is) (VP (VBN consummated) (SBAR (IN before) (S (ADVP (RB never)) (VP (VBN consummated) (PP (IN after) (NP (DT the) (NN marriage) (NN service)))))))))) (VP (VBZ is) (ADVP (IN that) (NP (DT an) (NN annulment)))) (. ?)))
+K/KB/KBK.xml,KBKRE06G,2917,3,,B,4,1,Oddly I would have thought.(()) ,"[Oddly/RB, I/PRP, would/MD, have/VB, thought/VBN, ./.]",(ROOT (S (ADVP (RB Oddly)) (NP (PRP I)) (VP (MD would) (VP (VB have) (VP (VBN thought)))) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,4,,A,5,1,It's false.,"[It/PRP, 's/VBZ, false/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ false))) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,5,,B,6,1,Really?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
+K/KB/KBK.xml,KBKRE06G,2917,6,,A,7,1,(()) quickly.,"[quickly/RB, ./.]",(ROOT (FRAG (ADVP (RB quickly)) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,7,,A,7,2,"Because presumably what you do before the marriage,(()) of marriage.","[Because/IN, presumably/RB, what/WP, you/PRP, do/VBP, before/IN, the/DT, marriage/NN, ,/,, of/IN, marriage/NN, ./.]","(ROOT (S (PP (IN Because) (ADVP (RB presumably))) (S (NP (WP what))) (NP (PRP you)) (VP (VBP do) (PP (IN before) (NP (NP (DT the) (NN marriage)) (, ,) (PP (IN of) (NP (NN marriage)))))) (. .)))"
+K/KB/KBK.xml,KBKRE06G,2917,8,,B,8,1,It wasn't  (()) mm.,"[It/PRP, wasn/VBD, 't/PRP, mm/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD wasn) (S (NP (PRP 't)) (NP (NN mm)))) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,9,,B,8,2,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,10,,B,8,3,Well.,"[Well/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,11,,B,8,4,Interesting idea.,"[Interesting/JJ, idea/NN, ./.]",(ROOT (NP (JJ Interesting) (NN idea) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,12,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06G,2917,13,,B,10,1,One side said yes the other side says no.,"[One/CD, side/NN, said/VBD, yes/RB, the/DT, other/JJ, side/NN, says/VBZ, no/DT, ./.]",(ROOT (S (NP (CD One) (NN side)) (VP (VBD said) (SBAR (S (NP (RB yes) (DT the) (JJ other) (NN side)) (VP (VBZ says) (NP (DT no)))))) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,14,,B,10,2,Ha?,"[Ha/NNP, ?/.]",(ROOT (FRAG (NP (NNP Ha)) (. ?)))
+K/KB/KBK.xml,KBKRE06G,2917,15,,A,11,1,That's what they said.,"[That/DT, 's/VBZ, what/WP, they/PRP, said/VBD, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBD said))))) (. .)))
+K/KB/KBK.xml,KBKRE06G,2917,16,,A,11,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

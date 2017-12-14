@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02C,12808,0,,A,1,1,What does Sud Milsch mean?,"[What/WP, does/VBZ, Sud/NNP, Milsch/NNP, mean/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (NNP Sud) (NNP Milsch)) (VP (VB mean))) (. ?)))
+K/KD/KDA.xml,KDARE02C,12808,1,,B,2,1,Fresh milk  --,"[Fresh/JJ, milk/NN, fresh/JJ, milk/NN, ./.]",(ROOT (NP (NP (JJ Fresh) (NN milk)) (NP (JJ fresh) (NN milk)) (. .)))
+K/KD/KDA.xml,KDARE02C,12808,2,,B,2,2,--fresh milk.,"[Fresh/JJ, milk/NN, fresh/JJ, milk/NN, ./.]",(ROOT (NP (NP (JJ Fresh) (NN milk)) (NP (JJ fresh) (NN milk)) (. .)))
+K/KD/KDA.xml,KDARE02C,12808,3,,A,3,1,Could be.,"[Could/MD, be/VB, ./.]",(ROOT (S (VP (MD Could) (VP (VB be))) (. .)))
+K/KD/KDA.xml,KDARE02C,12808,4,,B,4,1,Ask Graham.,"[Ask/VB, Graham/NNP, ./.]",(ROOT (S (VP (VB Ask) (NP (NNP Graham))) (. .)))
+K/KD/KDA.xml,KDARE02C,12808,5,,A,5,1,No  --,"[No/DT, not/RB, that/IN, bothered/VBN, ha/NNP, next/JJ, time/NN, ./.]",(ROOT (FRAG (NP (NP (DT No) (RB not)) (SBAR (WHNP (IN that)) (S (VP (VBN bothered) (NP (NNP ha)) (NP (JJ next) (NN time)))))) (. .)))
+K/KD/KDA.xml,KDARE02C,12808,6,,A,5,2,--not that bothered ha  --,"[No/DT, not/RB, that/IN, bothered/VBN, ha/NNP, next/JJ, time/NN, ./.]",(ROOT (FRAG (NP (NP (DT No) (RB not)) (SBAR (WHNP (IN that)) (S (VP (VBN bothered) (NP (NNP ha)) (NP (JJ next) (NN time)))))) (. .)))
+K/KD/KDA.xml,KDARE02C,12808,7,,A,5,3,--next time.,"[No/DT, not/RB, that/IN, bothered/VBN, ha/NNP, next/JJ, time/NN, ./.]",(ROOT (FRAG (NP (NP (DT No) (RB not)) (SBAR (WHNP (IN that)) (S (VP (VBN bothered) (NP (NNP ha)) (NP (JJ next) (NN time)))))) (. .)))

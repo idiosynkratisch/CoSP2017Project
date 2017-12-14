@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE033,5312,0,,A,1,1,Is that alright?,"[Is/VBZ, that/IN, alright/NN, ?/.]",(ROOT (S (VP (VBZ Is) (PP (IN that) (NP (NN alright)))) (. ?)))
+K/KC/KCD.xml,KCDRE033,5312,1,,B,2,1,It's not far out is it?,"[It/PRP, 's/VBZ, not/RB, far/RB, out/RP, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADVP (RB far) (RP out)) (SBAR (S (VP (VBZ is) (NP (PRP it)))))) (. ?)))
+K/KC/KCD.xml,KCDRE033,5312,2,,A,3,1,What  (()) that lot out I think.,"[What/WDT, that/WDT, lot/NN, out/IN, I/PRP, think/VBP, ./.]",(ROOT (FRAG (WHNP (WDT What)) (SBAR (WHNP (WDT that)) (S (NP (NP (NN lot)) (PP (IN out) (NP (PRP I)))) (VP (VBP think)))) (. .)))
+K/KC/KCD.xml,KCDRE033,5312,3,,A,3,2,(()) . Alright.,"[./., Alright/NN, ./.]",(ROOT (INTJ (. .) (NN Alright) (. .)))
+K/KC/KCD.xml,KCDRE033,5312,4,,A,3,3,There's too many fingers in the way isn't there?,"[There/EX, 's/VBZ, too/RB, many/JJ, fingers/NNS, in/IN, the/DT, way/NN, isn/NN, 't/PRP, there/EX, ?/.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB too) (NP (JJ many) (NNS fingers)) (PP (IN in) (NP (NP (DT the) (NN way) (NN isn)) (NP (PRP 't))))) (NP (EX there))) (. ?)))
+K/KC/KCD.xml,KCDRE033,5312,5,,B,4,1,Well if we put a cut in here that might (()) .,"[Well/RB, if/IN, we/PRP, put/VBD, a/DT, cut/NN, in/IN, here/RB, that/IN, might/NN, ./.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBD put) (NP (DT a) (NN cut)) (PP (IN in) (NP (NP (RB here)) (SBAR (IN that) (S (VP (NN might))))))))) (. .)))
+K/KC/KCD.xml,KCDRE033,5312,6,,A,5,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KC/KCD.xml,KCDRE033,5312,7,,A,5,2,"Oh no, I want these,(()) .","[Oh/UH, no/DT, ,/,, I/PRP, want/VBP, these/DT, ,/,, ./.]","(ROOT (S (S (INTJ (UH Oh) (DT no)) (, ,) (NP (PRP I)) (VP (VBP want) (NP (DT these))) (, ,)) (. .)))"
+K/KC/KCD.xml,KCDRE033,5312,8,,B,6,1,Just cut it (()) .,"[Just/RB, cut/VB, it/PRP, ./.]",(ROOT (S (ADVP (RB Just)) (VP (VB cut) (NP (PRP it))) (. .)))

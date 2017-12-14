@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB2.xml,KB2RE003,61004,0,,A,1,1,It's not done yet,"[It/PRP, 's/VBZ, not/RB, done/VBN, yet/RB]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VBN done) (ADVP (RB yet))))))
+K/KB/KB2.xml,KB2RE003,61004,1,,B,2,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KB/KB2.xml,KB2RE003,61004,2,,A,3,1,It's not done yet,"[It/PRP, 's/VBZ, not/RB, done/VBN, yet/RB]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VBN done) (ADVP (RB yet))))))
+K/KB/KB2.xml,KB2RE003,61004,3,,B,4,1,"Oh, can't have it then can I?--","[Oh/UH, ,/,, can/MD, 't/PRP, have/VB, it/PRP, then/RB, can/MD, I/PRP, ?see/VB, now/RB]","(ROOT (SQ (INTJ (UH Oh)) (, ,) (MD can) (NP (PRP 't)) (VP (VB have) (S (NP (PRP it)) (ADVP (RB then)) (VP (MD can) (NP (PRP I)) (S (VP (VB ?see)))))) (RB now)))"
+K/KB/KB2.xml,KB2RE003,61004,4,,B,4,2,--see now,"[Oh/UH, ,/,, can/MD, 't/PRP, have/VB, it/PRP, then/RB, can/MD, I/PRP, ?see/VB, now/RB]","(ROOT (SQ (INTJ (UH Oh)) (, ,) (MD can) (NP (PRP 't)) (VP (VB have) (S (NP (PRP it)) (ADVP (RB then)) (VP (MD can) (NP (PRP I)) (S (VP (VB ?see)))))) (RB now)))"
+K/KB/KB2.xml,KB2RE003,61004,5,,A,5,1,Well ,[Well/RB],(ROOT (INTJ (RB Well)))

@@ -1,0 +1,3 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE03E,39413,0,,A,1,1,You'll be here for as I come back won't you?,"[You/PRP, 'll/MD, be/VB, here/RB, for/IN, as/IN, I/PRP, come/VBP, back/RB, won/VBN, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD 'll) (VP (VB be) (ADVP (RB here)) (SBAR (IN for) (IN as) (S (NP (PRP I)) (VP (VBP come) (ADVP (RB back)) (VP (VBN won) (NP (PRP 't)) (NP (PRP you)))))))) (. ?)))
+K/KE/KE2.xml,KE2RE03E,39413,1,,B,2,1,Er yeah I'll be here ,"[Er/NN, yeah/UH, I/PRP, 'll/MD, be/VB, here/RB]",(ROOT (FRAG (NP (NP (NN Er)) (SBAR (S (INTJ (UH yeah)) (NP (PRP I)) (VP (MD 'll) (VP (VB be) (ADVP (RB here)))))))))

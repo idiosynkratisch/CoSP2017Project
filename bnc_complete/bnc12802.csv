@@ -1,0 +1,24 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE027,12802,0,,A,1,1,Hope we go to fucking Cal- er  --,"[Hope/NN, we/PRP, go/VBP, to/TO, fucking/VBG, Cal-/JJ, er/NN, Boulogne/NN, !/.]",(ROOT (FRAG (ADJP (NN Hope)) (S (NP (PRP we)) (VP (VBP go) (PP (TO to) (S (VP (VBG fucking) (NP (JJ Cal-) (NN er) (NN Boulogne))))))) (. !)))
+K/KD/KDA.xml,KDARE027,12802,1,,A,1,2,--Boulogne!,"[Hope/NN, we/PRP, go/VBP, to/TO, fucking/VBG, Cal-/JJ, er/NN, Boulogne/NN, !/.]",(ROOT (FRAG (ADJP (NN Hope)) (S (NP (PRP we)) (VP (VBP go) (PP (TO to) (S (VP (VBG fucking) (NP (JJ Cal-) (NN er) (NN Boulogne))))))) (. !)))
+K/KD/KDA.xml,KDARE027,12802,2,,A,1,3,Fucking weekend!,"[Fucking/VBG, weekend/NN, !/.]",(ROOT (S (VP (VBG Fucking) (NP (NN weekend))) (. !)))
+K/KD/KDA.xml,KDARE027,12802,3,,B,2,1,So he's still doing it is he?,"[So/IN, he/PRP, 's/VBZ, still/RB, doing/VBG, it/PRP, is/VBZ, he/PRP, ?/.]",(ROOT (S (IN So) (NP (PRP he)) (VP (VBZ 's) (ADVP (RB still)) (VP (VBG doing) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (PRP he))))))) (. ?)))
+K/KD/KDA.xml,KDARE027,12802,4,,B,2,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDA.xml,KDARE027,12802,5,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDA.xml,KDARE027,12802,6,,B,4,1,Are you going?,"[Are/VBP, you/PRP, going/VBG, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going)) (. ?)))
+K/KD/KDA.xml,KDARE027,12802,7,,B,4,2,Oops!,"[Oops/UH, !/.]",(ROOT (INTJ (UH Oops) (. !)))
+K/KD/KDA.xml,KDARE027,12802,8,,A,5,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KD/KDA.xml,KDARE027,12802,9,,B,6,1,Are you going?,"[Are/VBP, you/PRP, going/VBG, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going)) (. ?)))
+K/KD/KDA.xml,KDARE027,12802,10,,A,7,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KD/KDA.xml,KDARE027,12802,11,,B,8,1,Well I  (()) I ain't going.,"[Well/RB, I/PRP, I/PRP, ain/VBP, 't/PRP, going/VBG, ./.]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP I)) (SBAR (S (NP (PRP I)) (VP (VBP ain) (S (NP (PRP 't)) (VP (VBG going))))))) (. .)))
+K/KD/KDA.xml,KDARE027,12802,12,,A,9,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KD/KDA.xml,KDARE027,12802,13,,B,10,1,That'll only be where all the places nearly everybody goes.,"[That/DT, 'll/MD, only/RB, be/VB, where/WRB, all/PDT, the/DT, places/NNS, nearly/RB, everybody/NN, goes/VBZ, ./.]",(ROOT (S (NP (DT That)) (VP (MD 'll) (ADVP (RB only)) (VP (VB be) (SBAR (WHADVP (WRB where)) (S (NP (NP (PDT all) (DT the) (NNS places)) (NP (RB nearly) (NN everybody))) (VP (VBZ goes)))))) (. .)))
+K/KD/KDA.xml,KDARE027,12802,14,,B,10,2,<whistling> ,[],X
+K/KD/KDA.xml,KDARE027,12802,15,,A,11,1,"I know, Boulogne  --","[I/PRP, know/VBP, ,/,, Boulogne/VBP, well/RB, it/PRP, don/VB, 't/PRP, matter/VB]","(ROOT (S (NP (PRP I)) (VP (VBP know) (, ,) (VBP Boulogne) (NP (INTJ (RB well)) (NP (PRP it))) (S (VP (VB don) (S (NP (PRP 't)) (VP (VB matter))))))))"
+K/KD/KDA.xml,KDARE027,12802,16,,A,11,2,--well it don't matter,"[I/PRP, know/VBP, ,/,, Boulogne/VBP, well/RB, it/PRP, don/VB, 't/PRP, matter/VB]","(ROOT (S (NP (PRP I)) (VP (VBP know) (, ,) (VBP Boulogne) (NP (INTJ (RB well)) (NP (PRP it))) (S (VP (VB don) (S (NP (PRP 't)) (VP (VB matter))))))))"
+K/KD/KDA.xml,KDARE027,12802,17,,B,12,1,Most of them  --,"[Most/JJS, of/IN, them/PRP, with/IN]",(ROOT (NP (NP (NP (JJS Most)) (PP (IN of) (NP (PRP them)))) (PP (IN with))))
+K/KD/KDA.xml,KDARE027,12802,18,,B,12,2,--with (()) ,"[Most/JJS, of/IN, them/PRP, with/IN]",(ROOT (NP (NP (NP (JJS Most)) (PP (IN of) (NP (PRP them)))) (PP (IN with))))
+K/KD/KDA.xml,KDARE027,12802,19,,A,13,1,Yeah?,"[Yeah/UH, ?/.]",(ROOT (INTJ (UH Yeah) (. ?)))
+K/KD/KDA.xml,KDARE027,12802,20,,B,14,1,Yeah  --,"[Yeah/UH, quite/PDT, a/DT, long/JJ, way/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Yeah)) (NP (PDT quite) (DT a) (JJ long) (NN way)))) (. .)))
+K/KD/KDA.xml,KDARE027,12802,21,,B,14,2,--quite a long way.,"[Yeah/UH, quite/PDT, a/DT, long/JJ, way/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Yeah)) (NP (PDT quite) (DT a) (JJ long) (NN way)))) (. .)))
+K/KD/KDA.xml,KDARE027,12802,22,,B,14,3,When I was thinking of doing.,"[When/WRB, I/PRP, was/VBD, thinking/VBG, of/IN, doing/VBG, ./.]",(ROOT (FRAG (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD was) (VP (VBG thinking) (PP (IN of) (S (VP (VBG doing)))))))) (. .)))

@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE036,2403,0,,A,1,1,I might buy another pair tomorrow.,"[I/PRP, might/MD, buy/VB, another/DT, pair/NN, tomorrow/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD might) (VP (VB buy) (NP (DT another) (NN pair)) (NP (NN tomorrow)))) (. .)))
+K/KB/KBK.xml,KBKRE036,2403,1,,B,2,1,"Right, were you going to sit  (()) now?","[Right/NN, ,/,, were/VBD, you/PRP, going/VBG, to/TO, sit/VB, now/RB, ?/.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VBD were) (NP (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB sit) (ADVP (RB now)))))))) (. ?)))"
+K/KB/KBK.xml,KBKRE036,2403,2,,A,3,1,I'm going up to.,"[I/PRP, 'm/VBP, going/VBG, up/RB, to/TO, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (ADVP (RB up) (PP (TO to))))) (. .)))
+K/KB/KBK.xml,KBKRE036,2403,3,,B,4,1,Right well.,"[Right/RB, well/RB, ./.]",(ROOT (FRAG (ADVP (RB Right) (RB well)) (. .)))
+K/KB/KBK.xml,KBKRE036,2403,4,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE036,2403,5,,B,6,1,Taking Ceila with you or what?,"[Taking/VBG, Ceila/NN, with/IN, you/PRP, or/CC, what/WP, ?/.]",(ROOT (S (VP (VBG Taking) (NP (NN Ceila)) (PP (IN with) (NP (NP (PRP you)) (CC or) (NP (WP what))))) (. ?)))
+K/KB/KBK.xml,KBKRE036,2403,6,,A,7,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KB/KBK.xml,KBKRE036,2403,7,,B,8,1,Alright,[Alright/JJ],(ROOT (ADJP (JJ Alright)))

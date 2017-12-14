@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE028,39004,0,,A,1,1,and many more wearing them.,"[and/CC, many/JJ, more/JJR, wearing/VBG, them/PRP, ./.]",(ROOT (FRAG (CC and) (NP (NP (JJ many) (JJR more)) (SBAR (S (VP (VBG wearing) (NP (PRP them))))) (. .))))
+K/KE/KE2.xml,KE2RE028,39004,1,,B,2,1,Yes   (()) --,[Yes/UH],(ROOT (INTJ (UH Yes)))
+K/KE/KE2.xml,KE2RE028,39004,2,,B,2,2,--(()) ,[Yes/UH],(ROOT (INTJ (UH Yes)))
+K/KE/KE2.xml,KE2RE028,39004,3,,A,3,1,"Yes she did, yeah, mhm.","[Yes/UH, she/PRP, did/VBD, ,/,, yeah/UH, ,/,, mhm/NNP, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP she)) (VP (VBD did))) (, ,) (FRAG (INTJ (UH yeah)) (, ,) (NP (NNP mhm))) (. .)))"
+K/KE/KE2.xml,KE2RE028,39004,4,,A,3,2,Yeah  <clears throat> ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))

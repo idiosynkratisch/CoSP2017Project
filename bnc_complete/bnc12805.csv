@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02A,12805,0,,A,1,1,"What tape number is it, in there now Mark?","[What/WDT, tape/NN, number/NN, is/VBZ, it/PRP, ,/,, in/IN, there/RB, now/RB, Mark/VB, ?/.]","(ROOT (SBARQ (WHNP (WDT What) (NN tape) (NN number)) (SQ (VP (VBZ is) (NP (NP (PRP it)) (, ,) (PP (IN in) (NP (RB there))))) (NP (RB now)) (VP (VB Mark))) (. ?)))"
+K/KD/KDA.xml,KDARE02A,12805,1,,B,2,1,Er  --,"[Er/NN, thirteen/CD, I/PRP, think/VBP, ,/,, thirteen/CD, ./.]","(ROOT (NP (NP (NP (NP (NN Er) (CD thirteen)) (SBAR (S (NP (PRP I)) (VP (VBP think))))) (, ,) (NP (CD thirteen))) (. .)))"
+K/KD/KDA.xml,KDARE02A,12805,2,,B,2,2,"--thirteen I think, thirteen.","[Er/NN, thirteen/CD, I/PRP, think/VBP, ,/,, thirteen/CD, ./.]","(ROOT (NP (NP (NP (NP (NN Er) (CD thirteen)) (SBAR (S (NP (PRP I)) (VP (VBP think))))) (, ,) (NP (CD thirteen))) (. .)))"
+K/KD/KDA.xml,KDARE02A,12805,3,,A,3,1,Fourteen.,"[Fourteen/CD, ./.]",(ROOT (FRAG (NP (CD Fourteen)) (. .)))
+K/KD/KDA.xml,KDARE02A,12805,4,,B,4,1,Fourteen.,"[Fourteen/CD, ./.]",(ROOT (FRAG (NP (CD Fourteen)) (. .)))

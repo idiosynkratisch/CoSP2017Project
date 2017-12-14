@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBF.xml,KBFRE000,15001,0,,A,1,1,What time do you get there   (()) --,"[What/WDT, time/NN, do/VBP, you/PRP, get/VB, there/RB, what/WP, ,/,, what/WDT, time/NN, did/VBD, you/PRP, get/VB, there/RB, ?/.]","(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VBP do) (NP (PRP you)) (VP (VB get) (NP (RB there)) (SBAR (SBARQ (WHNP (WP what)) (, ,) (WHNP (WDT what) (NN time)) (SQ (VBD did) (NP (PRP you)) (VP (VB get) (ADVP (RB there)))))))) (. ?)))"
+K/KB/KBF.xml,KBFRE000,15001,1,,A,1,2,"--what, what time did you get there?","[What/WDT, time/NN, do/VBP, you/PRP, get/VB, there/RB, what/WP, ,/,, what/WDT, time/NN, did/VBD, you/PRP, get/VB, there/RB, ?/.]","(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VBP do) (NP (PRP you)) (VP (VB get) (NP (RB there)) (SBAR (SBARQ (WHNP (WP what)) (, ,) (WHNP (WDT what) (NN time)) (SQ (VBD did) (NP (PRP you)) (VP (VB get) (ADVP (RB there)))))))) (. ?)))"
+K/KB/KBF.xml,KBFRE000,15001,2,,B,2,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KB/KBF.xml,KBFRE000,15001,3,,A,3,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KB/KBF.xml,KBFRE000,15001,4,,B,4,1,"No,(()) .","[No/DT, ,/,, ./.]","(ROOT (NP (DT No) (, ,) (. .)))"
+K/KB/KBF.xml,KBFRE000,15001,5,,A,5,1,You said this morning  (()) didn't ya?,"[You/PRP, said/VBD, this/DT, morning/NN, didn/NN, 't/PRP, ya/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBD said) (S (NP (NP (DT this) (NN morning) (NN didn)) (NP (PRP 't))) (NP (PRP ya)))) (. ?)))

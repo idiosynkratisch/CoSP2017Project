@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBS.xml,KBSRE007,54902,0,,A,1,1,I entered Whacker in the book  --,"[I/PRP, entered/VBD, Whacker/NN, in/IN, the/DT, book/NN, and/CC]",(ROOT (S (NP (PRP I)) (VP (VBD entered) (NP (NN Whacker)) (PP (IN in) (NP (DT the) (NX (NX (NN book)) (CC and)))))))
+K/KB/KBS.xml,KBSRE007,54902,1,,A,1,2,--and  (()) ,"[I/PRP, entered/VBD, Whacker/NN, in/IN, the/DT, book/NN, and/CC]",(ROOT (S (NP (PRP I)) (VP (VBD entered) (NP (NN Whacker)) (PP (IN in) (NP (DT the) (NX (NX (NN book)) (CC and)))))))
+K/KB/KBS.xml,KBSRE007,54902,2,,B,2,1,(()) ,[],X
+K/KB/KBS.xml,KBSRE007,54902,3,,A,3,1,Well you have to make a list you see.,"[Well/RB, you/PRP, have/VBP, to/TO, make/VB, a/DT, list/NN, you/PRP, see/VBP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB make) (NP (NP (DT a) (NN list)) (SBAR (S (NP (PRP you)) (VP (VBP see))))))))) (. .)))
+K/KB/KBS.xml,KBSRE007,54902,4,,B,4,1,Oh I see.,"[Oh/UH, I/PRP, see/VBP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (. .)))
+K/KB/KBS.xml,KBSRE007,54902,5,,A,5,1,I put him down as a schoolboy.,"[I/PRP, put/VBD, him/PRP, down/RP, as/IN, a/DT, schoolboy/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD put) (NP (PRP him)) (PRT (RP down)) (PP (IN as) (NP (DT a) (NN schoolboy)))) (. .)))
+K/KB/KBS.xml,KBSRE007,54902,6,,A,5,2,(()) --,"[You/PRP, know/VBP, if/IN, you/PRP, want/VBP, to/TO, darling/NN, you/PRP]",(ROOT (SINV (FRAG (NP (PRP You))) (VP (VBP know) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (PP (TO to) (NP (NN darling))))))) (NP (PRP you))))
+K/KB/KBS.xml,KBSRE007,54902,7,,A,5,3,--You know if you want to darling you ,"[You/PRP, know/VBP, if/IN, you/PRP, want/VBP, to/TO, darling/NN, you/PRP]",(ROOT (SINV (FRAG (NP (PRP You))) (VP (VBP know) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (PP (TO to) (NP (NN darling))))))) (NP (PRP you))))
+K/KB/KBS.xml,KBSRE007,54902,8,,B,6,1,No I don't.,"[No/DT, I/PRP, don/VBP, 't/PRP, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (NP (PRP 't))) (. .)))
+K/KB/KBS.xml,KBSRE007,54902,9,,A,7,1,cos I might look through there for a job you see.,"[cos/NNP, I/PRP, might/MD, look/VB, through/IN, there/EX, for/IN, a/DT, job/NN, you/PRP, see/VBP, ./.]",(ROOT (S (NP (NNP cos)) (PRN (S (NP (PRP I)) (VP (MD might) (VP (VB look) (PP (IN through) (NP (EX there))) (PP (IN for) (NP (DT a) (NN job))))))) (NP (PRP you)) (VP (VBP see)) (. .)))
+K/KB/KBS.xml,KBSRE007,54902,10,,B,8,1,Oh yes?,"[Oh/UH, yes/UH, ?/.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. ?)))
+K/KB/KBS.xml,KBSRE007,54902,11,,A,9,1,(()) ,[],X

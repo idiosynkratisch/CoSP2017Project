@@ -1,0 +1,17 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBT.xml,KBTRE001,60302,0,,A,1,1,"And er, you can take that frigging fisherman's and all!","[And/CC, er/NN, ,/,, you/PRP, can/MD, take/VB, that/DT, frigging/JJ, fisherman/NN, 's/POS, and/CC, all/DT, !/.]","(ROOT (S (CC And) (NP (NN er)) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB take) (S (NP (DT that)) (NP (NP (JJ frigging) (NN fisherman) (POS 's)) (CC and) (NP (DT all)))))) (. !)))"
+K/KB/KBT.xml,KBTRE001,60302,1,,B,2,1,What fisherman's pie?,"[What/WDT, fisherman/NN, 's/POS, pie/NN, ?/.]",(ROOT (FRAG (SBARQ (WHNP (WDT What) (NP (NN fisherman) (POS 's)) (NN pie)) (. ?))))
+K/KB/KBT.xml,KBTRE001,60302,2,,A,3,1,We don't like them!,"[We/PRP, don/VBP, 't/PRP, like/IN, them/PRP, !/.]",(ROOT (S (NP (PRP We)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP them)))) (. !)))
+K/KB/KBT.xml,KBTRE001,60302,3,,A,3,2,"Well, I do but our Karen don't, so I'm not doing one for mesen.","[Well/RB, ,/,, I/PRP, do/VBP, but/CC, our/PRP$, Karen/NNP, don/NNP, 't/PRP, ,/,, so/IN, I/PRP, 'm/VBP, not/RB, doing/VBG, one/CD, for/IN, mesen/NNP, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (PRP I)) (VP (VBP do) (PP (CC but) (NP (PRP$ our) (NNP Karen) (NNP don))) (NP (NP (PRP 't)) (, ,) (SBAR (IN so) (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG doing) (NP (CD one)) (PP (IN for) (NP (NNP mesen))))))))) (. .)))"
+K/KB/KBT.xml,KBTRE001,60302,4,,A,3,3,It'll do you on Friday.,"[It/PRP, 'll/MD, do/VB, you/PRP, on/IN, Friday/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (MD 'll) (VP (VB do) (NP (PRP you)) (PP (IN on) (NP (NNP Friday))))) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,5,,B,4,1,Well leave it there till I'm ready.(()) ,"[Well/RB, leave/VB, it/PRP, there/EX, till/IN, I/PRP, 'm/VBP, ready/JJ, ./.]",(ROOT (S (INTJ (RB Well)) (VP (VB leave) (S (NP (PRP it)) (NP (EX there))) (SBAR (IN till) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ ready)))))) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,6,,A,5,1,Well you're not going back there tomorrow are you?,"[Well/RB, you/PRP, 're/VBP, not/RB, going/VBG, back/RB, there/RB, tomorrow/NN, are/VBP, you/PRP, ?/.]",(ROOT (SINV (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBG going) (ADVP (RB back) (RB there)) (NP (NN tomorrow))))) (VP (VBP are)) (NP (PRP you)) (. ?)))
+K/KB/KBT.xml,KBTRE001,60302,7,,B,6,1,Tonight.,"[Tonight/NN, ./.]",(ROOT (INTJ (NN Tonight) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,8,,A,7,1,Tonight.,"[Tonight/NN, ./.]",(ROOT (INTJ (NN Tonight) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,9,,B,8,1,See how I go.,"[See/VB, how/WRB, I/PRP, go/VBP, ./.]",(ROOT (S (VP (VB See) (SBAR (WHADVP (WRB how)) (S (NP (PRP I)) (VP (VBP go))))) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,10,,B,8,2,Sales meeting coming up.,"[Sales/NNS, meeting/NN, coming/VBG, up/RP, ./.]",(ROOT (NP (NP (NNS Sales) (NN meeting)) (VP (VBG coming) (PRT (RP up))) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,11,,A,9,1,Eggs with the fish.,"[Eggs/NNS, with/IN, the/DT, fish/NN, ./.]",(ROOT (NP (NP (NNS Eggs)) (PP (IN with) (NP (DT the) (NN fish))) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,12,,A,9,2,Urgh!,"[Urgh/NN, !/.]",(ROOT (NP (NN Urgh) (. !)))
+K/KB/KBT.xml,KBTRE001,60302,13,,B,10,1,Down here.,"[Down/RB, here/RB, ./.]",(ROOT (FRAG (ADVP (RB Down)) (NP (RB here)) (. .)))
+K/KB/KBT.xml,KBTRE001,60302,14,,A,11,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KB/KBT.xml,KBTRE001,60302,15,,A,11,2,Oh!(()) ,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))

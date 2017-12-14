@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE017,2207,0,,A,1,1,"I, Susan's thinking of ","[I/PRP, ,/,, Susan/NNP, 's/POS, thinking/NN, of/IN]","(ROOT (NP (NP (NP (PRP I)) (, ,) (NP (NP (NNP Susan) (POS 's)) (NN thinking))) (PP (IN of))))"
+K/KB/KBK.xml,KBKRE017,2207,1,,B,2,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KB/KBK.xml,KBKRE017,2207,2,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE017,2207,3,,B,4,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE017,2207,4,,B,4,2,I think Joyce has got one up.,"[I/PRP, think/VBP, Joyce/NNP, has/VBZ, got/VBN, one/CD, up/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Joyce)) (VP (VBZ has) (VP (VBN got) (ADVP (NP (CD one)) (RB up))))))) (. .)))
+K/KB/KBK.xml,KBKRE017,2207,5,,A,5,1,She's got what?,"[She/PRP, 's/VBZ, got/VBD, what/WP, ?/.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBD got) (WHNP (WP what)))) (. ?)))
+K/KB/KBK.xml,KBKRE017,2207,6,,B,6,1,"Planning application, notice, for her first floor extension over the garage.","[Planning/VBG, application/NN, ,/,, notice/NN, ,/,, for/IN, her/PRP$, first/JJ, floor/NN, extension/NN, over/IN, the/DT, garage/NN, ./.]","(ROOT (S (VP (VBG Planning) (NP (NP (NP (NN application)) (, ,) (NP (NN notice)) (, ,)) (PP (IN for) (NP (PRP$ her) (JJ first) (NN floor) (NN extension)))) (PP (IN over) (NP (DT the) (NN garage)))) (. .)))"
+K/KB/KBK.xml,KBKRE017,2207,7,,B,6,2,That wall,"[That/IN, wall/NN]",(ROOT (FRAG (SBAR (IN That) (FRAG (NP (NN wall))))))
+K/KB/KBK.xml,KBKRE017,2207,8,,A,7,1,(()) downstairs.,"[downstairs/RB, ./.]",(ROOT (FRAG (ADVP (RB downstairs)) (. .)))
+K/KB/KBK.xml,KBKRE017,2207,9,,B,8,1,over their downstairs loo (()) .,"[over/IN, their/PRP$, downstairs/NNS, loo/NN, ./.]",(ROOT (FRAG (PP (IN over) (NP (PRP$ their) (NNS downstairs) (NN loo))) (. .)))
+K/KB/KBK.xml,KBKRE017,2207,10,,A,9,1,Oh .,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+K/KB/KBK.xml,KBKRE017,2207,11,,B,10,1,More for you?,"[More/RBR, for/IN, you/PRP, ?/.]",(ROOT (S (VP (ADVP (RBR More) (PP (IN for) (NP (PRP you))))) (. ?)))

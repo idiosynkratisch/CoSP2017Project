@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03A,2407,0,,A,1,1,"Smells delicious, have some more wine, sherry?","[Smells/VBZ, delicious/NNP, ,/,, have/VBP, some/DT, more/JJR, wine/NN, ,/,, sherry/NNP, ?/.]","(ROOT (SINV (SINV (VP (VBZ Smells)) (NP (NNP delicious))) (, ,) (VP (VBP have)) (NP (NP (DT some) (JJR more) (NN wine)) (, ,) (NP (NNP sherry))) (. ?)))"
+K/KB/KBK.xml,KBKRE03A,2407,1,,B,2,1,"Erm,(()) .","[Erm/NN, ,/,, ./.]","(ROOT (S (NP (NN Erm)) (VP (, ,)) (. .)))"
+K/KB/KBK.xml,KBKRE03A,2407,2,,A,3,1,Good.,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))
+K/KB/KBK.xml,KBKRE03A,2407,3,,A,3,2,"I think smoked haddock has a really good flavour, aroma, aroma, as well as flavour.","[I/PRP, think/VBP, smoked/JJ, haddock/NN, has/VBZ, a/DT, really/RB, good/JJ, flavour/NN, ,/,, aroma/NN, ,/,, aroma/NN, ,/,, as/RB, well/RB, as/IN, flavour/NN, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (JJ smoked) (NN haddock)) (VP (VBZ has) (NP (NP (NP (DT a) (ADJP (RB really) (JJ good)) (NN flavour)) (, ,) (NP (NP (NN aroma)) (, ,) (NP (NN aroma)) (, ,))) (CONJP (RB as) (RB well) (IN as)) (NP (NN flavour))))))) (. .)))"
+K/KB/KBK.xml,KBKRE03A,2407,4,,B,4,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+K/KB/KBK.xml,KBKRE03A,2407,5,,A,5,1,You're welcome.,"[You/PRP, 're/VBP, welcome/JJ, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (ADJP (JJ welcome))) (. .)))

@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE02U,7507,0,,A,1,1,It's coming on!,"[It/PRP, 's/VBZ, coming/VBG, on/IN, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG coming) (PP (IN on)))) (. !)))
+K/KD/KDE.xml,KDERE02U,7507,1,,B,2,1,Well watch it then.,"[Well/RB, watch/VB, it/PRP, then/RB, ./.]",(ROOT (S (INTJ (RB Well)) (VP (VB watch) (NP (PRP it)) (ADVP (RB then))) (. .)))
+K/KD/KDE.xml,KDERE02U,7507,2,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDE.xml,KDERE02U,7507,3,,A,3,2,(()) mummy (()) ,[mummy/NN],(ROOT (NP (NN mummy)))
+K/KD/KDE.xml,KDERE02U,7507,4,,B,4,1,"Yeah, give me those scissors, you're not rushing around with those.","[Yeah/UH, ,/,, give/VB, me/PRP, those/DT, scissors/NNS, ,/,, you/PRP, 're/VBP, not/RB, rushing/VBG, around/RP, with/IN, those/DT, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (VP (VB give) (NP (PRP me)) (NP (DT those) (NNS scissors)))) (, ,) (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBG rushing) (PRT (RP around)) (PP (IN with) (NP (DT those))))) (. .)))"
+K/KD/KDE.xml,KDERE02U,7507,5,,B,4,2,Are you eating this yoghurt?,"[Are/VBP, you/PRP, eating/VBG, this/DT, yoghurt/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG eating) (NP (DT this) (NN yoghurt))) (. ?)))
+K/KD/KDE.xml,KDERE02U,7507,6,,A,5,1,What's that mummy?,"[What/WP, 's/VBZ, that/DT, mummy/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (DT that) (NN mummy))) (. ?)))
+K/KD/KDE.xml,KDERE02U,7507,7,,A,5,2,Bang.--,"[Bang/NN, ./.]",(ROOT (INTJ (NN Bang) (. .)))
+K/KD/KDE.xml,KDERE02U,7507,8,,A,5,3,--(()) ,"[Bang/NN, ./.]",(ROOT (INTJ (NN Bang) (. .)))

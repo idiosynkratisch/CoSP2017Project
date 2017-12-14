@@ -1,0 +1,20 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE00F,6805,0,,A,1,1,They're sheep.,"[They/PRP, 're/VBP, sheep/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NN sheep))) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,1,,A,1,2,They're sheep.,"[They/PRP, 're/VBP, sheep/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NN sheep))) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,2,,A,1,3,Who's going there?,"[Who/WP, 's/VBZ, going/VBG, there/RB, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (VP (VBG going) (ADVP (RB there))))) (. ?)))
+K/KD/KDE.xml,KDERE00F,6805,3,,B,2,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+K/KD/KDE.xml,KDERE00F,6805,4,,A,3,1,Who's going there?,"[Who/WP, 's/VBZ, going/VBG, there/RB, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (VP (VBG going) (ADVP (RB there))))) (. ?)))
+K/KD/KDE.xml,KDERE00F,6805,5,,B,4,1,That's where the sheep go when they want to go to bed.,"[That/DT, 's/VBZ, where/WRB, the/DT, sheep/NN, go/VB, when/WRB, they/PRP, want/VBP, to/TO, go/VB, to/TO, bed/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN sheep)) (VP (VB go) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NN bed))))))))))))) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,6,,A,5,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,7,,A,5,2,(()) sheep dead.,"[sheep/NNP, dead/NNP, ./.]",(ROOT (NP (NNP sheep) (NNP dead) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,8,,B,6,1,Bed.,"[Bed/NN, ./.]",(ROOT (NP (NN Bed) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,9,,B,6,2,Go to bed.,"[Go/VB, to/TO, bed/NN, ./.]",(ROOT (S (VP (VB Go) (PP (TO to) (NP (NN bed)))) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,10,,A,7,1,Dead.,"[Dead/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Dead)) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,11,,B,8,1,"No, bed.","[No/DT, ,/,, bed/NN, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NN bed)) (. .)))"
+K/KD/KDE.xml,KDERE00F,6805,12,,B,8,2,Bed.,"[Bed/NN, ./.]",(ROOT (NP (NN Bed) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,13,,B,8,3,Let's put your socks on.,"[Let/VB, 's/PRP, put/VB, your/PRP$, socks/NNS, on/IN, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB put) (NP (PRP$ your) (NNS socks)) (PP (IN on))))) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,14,,A,9,1,"What's this one called, mummy?","[What/WP, 's/VBZ, this/DT, one/CD, called/VBN, ,/,, mummy/NN, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT this) (CD one)) (VP (VBN called) (, ,) (NP (NN mummy))))) (. ?)))"
+K/KD/KDE.xml,KDERE00F,6805,15,,A,9,2,What's this one called.,"[What/WP, 's/VBZ, this/DT, one/CD, called/VBN, ./.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT this) (CD one)) (VP (VBN called)))) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,16,,B,10,1,That one's called When the Saints go Marching In.,"[That/DT, one/NN, 's/POS, called/VBN, When/WRB, the/DT, Saints/NNS, go/VBP, Marching/VBG, In/IN, ./.]",(ROOT (NP (NP (DT That) (NP (NN one) (POS 's))) (VP (VBN called) (SBAR (WHADVP (WRB When)) (S (NP (DT the) (NNS Saints)) (VP (VBP go) (S (VP (VBG Marching) (PP (IN In)))))))) (. .)))
+K/KD/KDE.xml,KDERE00F,6805,17,,A,11,1,Will you do this one for me?,"[Will/MD, you/PRP, do/VB, this/DT, one/CD, for/IN, me/PRP, ?/.]",(ROOT (SQ (MD Will) (NP (PRP you)) (VP (VB do) (NP (NP (DT this) (CD one)) (PP (IN for) (NP (PRP me))))) (. ?)))
+K/KD/KDE.xml,KDERE00F,6805,18,,B,12,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

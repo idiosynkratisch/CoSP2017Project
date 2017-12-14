@@ -1,0 +1,26 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE002,6703,0,,A,1,1,That's clever.,"[That/DT, 's/VBZ, clever/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ clever))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,1,,B,2,1,Isn't that a (()) ,"[Isn/NNP, 't/PRP, that/IN, a/DT]",(ROOT (NP (NP (NNP Isn)) (NP (NP (PRP 't)) (ADJP (ADVP (IN that)) (DT a)))))
+K/KD/KDE.xml,KDERE002,6703,2,,A,3,1,Mm it's round isn't it?,"[Mm/NN, it/PRP, 's/VBZ, round/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (FRAG (NP (NP (NN Mm)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ round) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it)))))))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,3,,A,3,2,I can  --,"[I/PRP, can/MD, what/WP, 's/VBZ, round/NN, ?/.]",(ROOT (S (NP (PRP I)) (VP (MD can) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NN round)))))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,4,,A,3,3,--what's round?,"[I/PRP, can/MD, what/WP, 's/VBZ, round/NN, ?/.]",(ROOT (S (NP (PRP I)) (VP (MD can) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NN round)))))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,5,,B,4,1,Has we has been you is get is get  (()) and you to paint it.(()) ,"[Has/VBZ, we/PRP, has/VBZ, been/VBN, you/PRP, is/VBZ, get/VB, is/VBZ, get/VB, and/CC, you/PRP, to/TO, paint/VB, it/PRP, ./.]",(ROOT (S (S (VP (VBZ Has) (SBAR (S (NP (PRP we)) (VP (VBZ has) (VP (VBN been) (NP (PRP you)))))))) (VP (VBZ is) (VP (VB get) (SBAR (SBAR (S (VP (VBZ is) (VP (VB get))))) (CC and) (SBAR (S (NP (PRP you)) (VP (TO to) (VP (VB paint) (NP (PRP it))))))))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,6,,A,5,1,Oh is it?,"[Oh/UH, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,7,,B,6,1,That's (()) ,"[That/DT, 's/VBZ]",(ROOT (S (NP (DT That)) (VP (VBZ 's))))
+K/KD/KDE.xml,KDERE002,6703,8,,A,7,1,What shape is that?,"[What/WDT, shape/NN, is/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN shape)) (SQ (VBZ is) (ADJP (IN that))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,9,,B,8,1,Er  --,"[Er/NN, it/PRP, 's/VBZ, a/DT, line/NN, ./.]",(ROOT (S (NP (NN Er)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN line))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,10,,B,8,2,--it's a line.,"[Er/NN, it/PRP, 's/VBZ, a/DT, line/NN, ./.]",(ROOT (S (NP (NN Er)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN line))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,11,,B,8,3,It's a line er (()) ,"[It/PRP, 's/VBZ, a/DT, line/NN, er/NN]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN line) (NN er)))))
+K/KD/KDE.xml,KDERE002,6703,12,,A,9,1,No what shape is that?,"[No/DT, what/WDT, shape/NN, is/VBZ, that/IN, ?/.]",(ROOT (S (NP (DT No) (NP (WDT what) (NX (NN shape)))) (VP (VBZ is) (ADJP (IN that))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,13,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE002,6703,14,,A,11,1,No go and draw the shape on your chalking board.,"[No/DT, go/NN, and/CC, draw/VB, the/DT, shape/NN, on/IN, your/PRP$, chalking/VBG, board/NN, ./.]",(ROOT (NP (NP (NP (DT No) (NN go)) (CC and) (S (VP (VB draw) (NP (DT the) (NN shape))))) (PP (IN on) (NP (PRP$ your) (VBG chalking) (NN board))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,15,,A,11,2,No this side with your chalk.,"[No/DT, this/DT, side/NN, with/IN, your/PRP$, chalk/NN, ./.]",(ROOT (NP (NP (DT No) (DT this) (NN side)) (PP (IN with) (NP (PRP$ your) (NN chalk))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,16,,A,11,3,"There, draw  --","[There/RB, ,/,, draw/VB, What/WP, 's/VBZ, that/IN, ?/.]","(ROOT (S (ADVP (RB There)) (, ,) (VP (VB draw) (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (IN that)))))) (. ?)))"
+K/KD/KDE.xml,KDERE002,6703,17,,A,11,4,--What's that?,"[There/RB, ,/,, draw/VB, What/WP, 's/VBZ, that/IN, ?/.]","(ROOT (S (ADVP (RB There)) (, ,) (VP (VB draw) (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (IN that)))))) (. ?)))"
+K/KD/KDE.xml,KDERE002,6703,18,,A,11,5,What shape is that?,"[What/WDT, shape/NN, is/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN shape)) (SQ (VBZ is) (ADJP (IN that))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,19,,B,12,1,Erm that's a square.,"[Erm/NN, that/WDT, 's/VBZ, a/DT, square/NN, ./.]",(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (NN square)))))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,20,,A,13,1,That's a circle.,"[That/DT, 's/VBZ, a/DT, circle/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (NN circle))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,21,,B,14,1,Mm that's a circle.,"[Mm/NN, that/WDT, 's/VBZ, a/DT, circle/NN, ./.]",(ROOT (FRAG (NP (NP (NN Mm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT a) (NN circle)))))) (. .)))
+K/KD/KDE.xml,KDERE002,6703,22,,A,15,1,That's a very good circle isn't it?,"[That/DT, 's/VBZ, a/DT, very/RB, good/JJ, circle/NN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (RB very) (JJ good)) (NN circle) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))
+K/KD/KDE.xml,KDERE002,6703,23,,A,15,2,Oh look!,"[Oh/UH, look/VB, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (VB look)) (. !)))
+K/KD/KDE.xml,KDERE002,6703,24,,A,15,3,The little boy's cleaning his teeth.,"[The/DT, little/JJ, boy/NN, 's/POS, cleaning/VBG, his/PRP$, teeth/NNS, ./.]",(ROOT (NP (NP (DT The) (NP (JJ little) (NN boy) (POS 's))) (VP (VBG cleaning) (NP (PRP$ his) (NNS teeth))) (. .)))

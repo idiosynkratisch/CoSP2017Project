@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03S,2422,0,,A,1,1,Derek's picking you up about two tomorrow.,"[Derek/NNP, 's/POS, picking/VBG, you/PRP, up/RP, about/IN, two/CD, tomorrow/NN, ./.]",(ROOT (S (S (NP (NNP Derek) (POS 's)) (VP (VBG picking) (NP (PRP you)) (PRT (RP up)) (PP (IN about) (NP (CD two) (NN tomorrow))))) (. .)))
+K/KB/KBK.xml,KBKRE03S,2422,1,,B,2,1,"Right, after lunch.","[Right/NN, ,/,, after/IN, lunch/NN, ./.]","(ROOT (FRAG (NP (NN Right)) (, ,) (PP (IN after) (NP (NN lunch))) (. .)))"
+K/KB/KBK.xml,KBKRE03S,2422,2,,A,3,1,Yep.,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+K/KB/KBK.xml,KBKRE03S,2422,3,,B,4,1,Do you have any indication when (()) ?,"[Do/VB, you/PRP, have/VBP, any/DT, indication/NN, when/WRB, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT any) (NN indication)) (FRAG (WHADVP (WRB when)))))))) (. ?)))
+K/KB/KBK.xml,KBKRE03S,2422,4,,A,5,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KB/KBK.xml,KBKRE03S,2422,5,,B,6,1,(()) pretty well.,"[pretty/RB, well/RB, ./.]",(ROOT (FRAG (ADVP (RB pretty) (RB well)) (. .)))
+K/KB/KBK.xml,KBKRE03S,2422,6,,A,7,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KBK.xml,KBKRE03S,2422,7,,B,8,1,Before you go,"[Before/IN, you/PRP, go/VBP]",(ROOT (SBAR (IN Before) (S (NP (PRP you)) (VP (VBP go)))))
+K/KB/KBK.xml,KBKRE03S,2422,8,,A,9,1,"I don't suppose we'll be there for more than two, three hours.","[I/PRP, don/VBP, 't/PRP, suppose/VB, we/PRP, 'll/MD, be/VB, there/RB, for/IN, more/JJR, than/IN, two/CD, ,/,, three/CD, hours/NNS, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB suppose) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB be) (ADVP (RB there)) (PP (IN for) (NP (NP (QP (JJR more) (IN than) (CD two))) (, ,) (NP (CD three) (NNS hours))))))))))) (. .)))"
+K/KB/KBK.xml,KBKRE03S,2422,9,,B,10,1,"Oh, you might as well.","[Oh/UH, ,/,, you/PRP, might/MD, as/RB, well/RB, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP you)) (VP (MD might) (ADVP (RB as) (RB well))) (. .)))"

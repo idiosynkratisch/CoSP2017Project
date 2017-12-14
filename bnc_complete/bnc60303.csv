@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBT.xml,KBTRE002,60303,0,,A,1,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KB/KBT.xml,KBTRE002,60303,1,,B,2,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KB/KBT.xml,KBTRE002,60303,2,,B,2,2,What time's dinner at?,"[What/WDT, time/NN, 's/POS, dinner/NN, at/IN, ?/.]",(ROOT (X (SBARQ (WHNP (WHNP (WDT What) (NN time) (POS 's)) (NN dinner)) (ADVP (IN at))) (. ?)))
+K/KB/KBT.xml,KBTRE002,60303,3,,A,3,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+K/KB/KBT.xml,KBTRE002,60303,4,,A,3,2,About  --,"[About/IN, three/CD, ./.]",(ROOT (FRAG (PP (IN About) (NP (CD three))) (. .)))
+K/KB/KBT.xml,KBTRE002,60303,5,,A,3,3,--three.,"[About/IN, three/CD, ./.]",(ROOT (FRAG (PP (IN About) (NP (CD three))) (. .)))
+K/KB/KBT.xml,KBTRE002,60303,6,,B,4,1,"Half two, three o'clock?","[Half/DT, two/CD, ,/,, three/CD, o/NN, 'clock/NN, ?/.]","(ROOT (NP (NP (NP (QP (DT Half))) (NP (CD two))) (, ,) (NP (NP (CD three) (NN o)) (NP (NN 'clock))) (. ?)))"
+K/KB/KBT.xml,KBTRE002,60303,7,,A,5,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBT.xml,KBTRE002,60303,8,,A,5,2,(()) alright?,"[alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP alright)) (. ?)))
+K/KB/KBT.xml,KBTRE002,60303,9,,A,5,3,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KB/KBT.xml,KBTRE002,60303,10,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBT.xml,KBTRE002,60303,11,,A,7,1,About that.,"[About/IN, that/DT, ./.]",(ROOT (FRAG (PP (IN About) (NP (DT that))) (. .)))

@@ -1,0 +1,22 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE4.xml,KE4RE00E,67502,0,,A,1,1,What's in it?,"[What/WP, 's/VBZ, in/IN, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (PP (IN in) (NP (PRP it)))) (. ?)))
+K/KE/KE4.xml,KE4RE00E,67502,1,,B,2,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,2,,B,2,2,Nothing much.,"[Nothing/NN, much/RB, ./.]",(ROOT (FRAG (NP (NN Nothing) (RB much)) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,3,,A,3,1,That.,"[That/DT, ./.]",(ROOT (FRAG (NP (DT That)) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,4,,A,3,2,Ha?,"[Ha/NNP, ?/.]",(ROOT (FRAG (NP (NNP Ha)) (. ?)))
+K/KE/KE4.xml,KE4RE00E,67502,5,,A,3,3,Mummy.,"[Mummy/NN, ./.]",(ROOT (NP (NN Mummy) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,6,,A,3,4,Mummy.,"[Mummy/NN, ./.]",(ROOT (NP (NN Mummy) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,7,,B,4,1,Who are you gonna go up with now then?,"[Who/WP, are/VBP, you/PRP, gonna/VB, go/VB, up/RP, with/IN, now/RB, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBP are) (NP (PRP you)) (VP (VB gonna) (VP (VB go) (PRT (RP up)) (PP (IN with) (NP (RB now))) (ADVP (RB then))))) (. ?)))
+K/KE/KE4.xml,KE4RE00E,67502,8,,B,4,2,If you went up.,"[If/IN, you/PRP, went/VBD, up/RB, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBD went) (ADVP (RB up))))) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,9,,A,5,1,"No, I don't know.","[No/DT, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))"
+K/KE/KE4.xml,KE4RE00E,67502,10,,A,5,2,Good enough.,"[Good/JJ, enough/RB, ./.]",(ROOT (FRAG (ADJP (JJ Good) (RB enough)) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,11,,A,5,3,If you want it.,"[If/IN, you/PRP, want/VBP, it/PRP, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (NP (PRP it))))) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,12,,B,6,1,You've dropped it.,"[You/PRP, 've/VBP, dropped/VBD, it/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBD dropped) (NP (PRP it)))) (. .)))
+K/KE/KE4.xml,KE4RE00E,67502,13,,A,7,1,<humming> ,[],X
+K/KE/KE4.xml,KE4RE00E,67502,14,,A,7,2,<humming> ,[],X
+K/KE/KE4.xml,KE4RE00E,67502,15,,A,7,3,<whispering> ,[],X
+K/KE/KE4.xml,KE4RE00E,67502,16,,A,7,4,(()) ,[],X
+K/KE/KE4.xml,KE4RE00E,67502,17,,A,7,5,</whispering> ,[],X
+K/KE/KE4.xml,KE4RE00E,67502,18,,B,8,1,<laugh> ,[],X
+K/KE/KE4.xml,KE4RE00E,67502,19,,A,9,1,<whispering> And she's just found out that he   (()) --,"[And/CC, she/PRP, 's/VBZ, just/RB, found/VBN, out/IN, that/IN, he/PRP]",(ROOT (S (CC And) (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN found) (S (ADJP (IN out))) (SBAR (IN that) (S (NP (PRP he))))))))
+K/KE/KE4.xml,KE4RE00E,67502,20,,A,9,2,--(()) ,"[And/CC, she/PRP, 's/VBZ, just/RB, found/VBN, out/IN, that/IN, he/PRP]",(ROOT (S (CC And) (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN found) (S (ADJP (IN out))) (SBAR (IN that) (S (NP (PRP he))))))))

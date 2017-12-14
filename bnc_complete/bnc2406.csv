@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE039,2406,0,,A,1,1,Yes Christine was happy enough.,"[Yes/UH, Christine/NNP, was/VBD, happy/JJ, enough/RB, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (NNP Christine)) (VP (VBD was) (ADJP (JJ happy) (RB enough)))) (. .)))
+K/KB/KBK.xml,KBKRE039,2406,1,,A,1,2,All is well down in Devon.,"[All/DT, is/VBZ, well/RB, down/RB, in/IN, Devon/NNP, ./.]",(ROOT (S (NP (DT All)) (VP (VBZ is) (ADVP (RB well) (RB down)) (PP (IN in) (NP (NNP Devon)))) (. .)))
+K/KB/KBK.xml,KBKRE039,2406,2,,A,1,3,Steven and his numerous family are still on the canal's somewhere having a hol- .,"[Steven/NNP, and/CC, his/PRP$, numerous/JJ, family/NN, are/VBP, still/RB, on/IN, the/DT, canal/NN, 's/POS, somewhere/RB, having/VBG, a/DT, hol-/NN, ./.]",(ROOT (S (NP (NP (NNP Steven)) (CC and) (NP (PRP$ his) (JJ numerous) (NN family))) (VP (VBP are) (ADVP (RB still)) (PP (IN on) (NP (NP (DT the) (NN canal) (POS 's)) (VP (ADVP (RB somewhere)) (VBG having) (NP (DT a) (NN hol-)))))) (. .)))
+K/KB/KBK.xml,KBKRE039,2406,3,,A,1,4,Did you enjoy that little nonsense.,"[Did/VBD, you/PRP, enjoy/VB, that/DT, little/JJ, nonsense/NN, ./.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB enjoy) (NP (DT that) (JJ little) (NN nonsense))) (. .)))
+K/KB/KBK.xml,KBKRE039,2406,4,,A,1,5,"Do they go too, Snoopy, or not?","[Do/VB, they/PRP, go/VB, too/RB, ,/,, Snoopy/NNP, ,/,, or/CC, not/RB, ?/.]","(ROOT (SQ (VP (VB Do) (S (NP (PRP they)) (VP (VB go) (ADVP (RB too)))) (, ,) (NP (NP (NNP Snoopy)) (, ,) (CC or) (ADVP (RB not)))) (. ?)))"
+K/KB/KBK.xml,KBKRE039,2406,5,,B,2,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE039,2406,6,,A,3,1,"Yes, yes, yes, yes.","[Yes/UH, ,/,, yes/UH, ,/,, yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (INTJ (UH yes) (, ,) (UH yes)) (, ,) (INTJ (UH yes) (. .)))))"
+K/KB/KBK.xml,KBKRE039,2406,7,,B,4,1,(()) darling.,"[darling/NN, ./.]",(ROOT (NP (NN darling) (. .)))
+K/KB/KBK.xml,KBKRE039,2406,8,,A,5,1,Too good.,"[Too/RB, good/JJ, ./.]",(ROOT (FRAG (ADJP (RB Too) (JJ good)) (. .)))

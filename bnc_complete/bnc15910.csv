@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBF.xml,KBFRE032,15910,0,,A,1,1,You looking forward to Greece?,"[You/PRP, looking/VBG, forward/RB, to/TO, Greece/NNP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBG looking) (ADVP (RB forward)) (PP (TO to) (NP (NNP Greece)))) (. ?)))
+K/KB/KBF.xml,KBFRE032,15910,1,,B,2,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBF.xml,KBFRE032,15910,2,,A,3,1,Who's going then?,"[Who/WP, 's/VBZ, going/VBG, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's) (VP (VBG going) (ADVP (RB then))))) (. ?)))
+K/KB/KBF.xml,KBFRE032,15910,3,,A,3,2,Just  --,"[Just/RB, year/NN, seven/CD, ?/.]",(ROOT (X (ADVP (RB Just)) (NP (NN year) (CD seven)) (. ?)))
+K/KB/KBF.xml,KBFRE032,15910,4,,A,3,3,--year seven?,"[Just/RB, year/NN, seven/CD, ?/.]",(ROOT (X (ADVP (RB Just)) (NP (NN year) (CD seven)) (. ?)))
+K/KB/KBF.xml,KBFRE032,15910,5,,A,3,4,Carla?,"[Carla/NNP, ?/.]",(ROOT (FRAG (NP (NNP Carla)) (. ?)))
+K/KB/KBF.xml,KBFRE032,15910,6,,B,4,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBF.xml,KBFRE032,15910,7,,A,5,1,Carla.,"[Carla/NNP, ./.]",(ROOT (FRAG (NP (NNP Carla)) (. .)))
+K/KB/KBF.xml,KBFRE032,15910,8,,A,5,2,Can you talk.,"[Can/MD, you/PRP, talk/VB, ./.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB talk)) (. .)))
+K/KB/KBF.xml,KBFRE032,15910,9,,B,6,1,I am talking.,"[I/PRP, am/VBP, talking/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP am) (VP (VBG talking))) (. .)))
+K/KB/KBF.xml,KBFRE032,15910,10,,A,7,1,Is it just year seven.,"[Is/VBZ, it/PRP, just/RB, year/NN, seven/CD, ./.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (NP (RB just) (NN year)) (NP (CD seven))) (. .)))
+K/KB/KBF.xml,KBFRE032,15910,11,,B,8,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

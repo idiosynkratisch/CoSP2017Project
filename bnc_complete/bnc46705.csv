@@ -1,0 +1,31 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE1.xml,KE1RE003,46705,0,,A,1,1,I bet you shit yourself when your mum and dad weren't there!,"[I/PRP, bet/VBP, you/PRP, shit/VB, yourself/PRP, when/WRB, your/PRP$, mum/NN, and/CC, dad/NNP, weren/NNP, 't/PRP, there/EX, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (S (NP (PRP you)) (VP (VB shit) (NP (NP (PRP yourself)) (SBAR (WHADVP (WRB when) (NP (NP (PRP$ your) (NN mum)) (CC and) (NP (NNP dad) (NNP weren)))) (S (NP (PRP 't)) (NP (EX there)))))))) (. !)))
+K/KE/KE1.xml,KE1RE003,46705,1,,A,1,2,Yeah!,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
+K/KE/KE1.xml,KE1RE003,46705,2,,A,1,3,Hey?,"[Hey/UH, ?/.]",(ROOT (INTJ (UH Hey) (. ?)))
+K/KE/KE1.xml,KE1RE003,46705,3,,A,1,4,Cunt!,"[Cunt/NN, !/.]",(ROOT (NP (NN Cunt) (. !)))
+K/KE/KE1.xml,KE1RE003,46705,4,,A,1,5,You just suit yourself!,"[You/PRP, just/RB, suit/NN, yourself/PRP, !/.]",(ROOT (NP (NP (PRP You)) (NP (NP (RB just) (NN suit)) (NP (PRP yourself))) (. !)))
+K/KE/KE1.xml,KE1RE003,46705,5,,B,2,1,"Oh, he was telling me, he said  --","[Oh/UH, ,/,, he/PRP, was/VBD, telling/VBG, me/PRP, ,/,, he/PRP, said/VBD, hey/UH, !/., ?/.]","(ROOT (S (S (INTJ (UH Oh)) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBG telling) (NP (PRP me))))) (, ,) (NP (PRP he)) (VP (VBD said) (INTJ (UH hey) (. !))) (. ?)))"
+K/KE/KE1.xml,KE1RE003,46705,6,,B,2,2,--hey!(()) ?<laugh> <break in recording> ,"[Oh/UH, ,/,, he/PRP, was/VBD, telling/VBG, me/PRP, ,/,, he/PRP, said/VBD, hey/UH, !/., ?/.]","(ROOT (S (S (INTJ (UH Oh)) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBG telling) (NP (PRP me))))) (, ,) (NP (PRP he)) (VP (VBD said) (INTJ (UH hey) (. !))) (. ?)))"
+K/KE/KE1.xml,KE1RE003,46705,7,,B,2,3,<sigh> --,"[Start/NN, ./.]",(ROOT (INTJ (NN Start) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,8,,B,2,4,--Start.,"[Start/NN, ./.]",(ROOT (INTJ (NN Start) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,9,,A,3,1,(()) ,[],X
+K/KE/KE1.xml,KE1RE003,46705,10,,B,4,1,He's  --,"[He/PRP, 's/VBZ, still/RB, in/IN, the/DT, door/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB still)) (PP (IN in) (NP (DT the) (NN door)))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,11,,B,4,2,--still in the door.,"[He/PRP, 's/VBZ, still/RB, in/IN, the/DT, door/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB still)) (PP (IN in) (NP (DT the) (NN door)))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,12,,B,4,3,Looks pretty sore like.,"[Looks/VBZ, pretty/RB, sore/JJ, like/IN, ./.]",(ROOT (S (VP (VBZ Looks) (ADJP (RB pretty) (JJ sore) (PP (IN like)))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,13,,B,4,4,Big lot of nice stitches.,"[Big/JJ, lot/NN, of/IN, nice/JJ, stitches/NNS, ./.]",(ROOT (NP (NP (JJ Big) (NN lot)) (PP (IN of) (NP (JJ nice) (NNS stitches))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,14,,A,5,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KE/KE1.xml,KE1RE003,46705,15,,B,6,1,Big lot nice of stitches.,"[Big/JJ, lot/NN, nice/JJ, of/IN, stitches/NNS, ./.]",(ROOT (NP (NP (JJ Big) (NN lot)) (NP (NP (JJ nice)) (PP (IN of) (NP (NNS stitches)))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,16,,A,7,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,17,,B,8,1,Don't get upset.,"[Don/NNP, 't/PRP, get/VB, upset/VBN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB get) (ADJP (VBN upset))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,18,,A,9,1,Do you know what you look like?,"[Do/VB, you/PRP, know/VB, what/WP, you/PRP, look/VBP, like/IN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP look) (PP (IN like)))))))) (. ?)))
+K/KE/KE1.xml,KE1RE003,46705,19,,B,10,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KE/KE1.xml,KE1RE003,46705,20,,A,11,1,(()) ,[],X
+K/KE/KE1.xml,KE1RE003,46705,21,,B,12,1,<laugh> ,[],X
+K/KE/KE1.xml,KE1RE003,46705,22,,A,13,1,<laughing> Sometimes </laughing> !,"[Sometimes/RB, !/.]",(ROOT (FRAG (ADVP (RB Sometimes)) (. !)))
+K/KE/KE1.xml,KE1RE003,46705,23,,B,14,1,For your (()) .,"[For/IN, your/PRP$, ./.]",(ROOT (FRAG (PP (IN For) (NP (PRP$ your))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,24,,A,15,1,Do I?,"[Do/VB, I/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP I))) (. ?)))
+K/KE/KE1.xml,KE1RE003,46705,25,,A,15,2,<laughing> I hate them  (()) </laughing> .,"[I/PRP, hate/VBP, them/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (NP (PRP them))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,26,,B,16,1,"I bet they went, ooh!","[I/PRP, bet/VBP, they/PRP, went/VBD, ,/,, ooh/NN, !/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP bet) (SBAR (S (NP (PRP they)) (VP (VBD went)))))) (, ,) (FRAG (NP (NN ooh))) (. !)))"
+K/KE/KE1.xml,KE1RE003,46705,27,,B,16,2,Ooh!,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
+K/KE/KE1.xml,KE1RE003,46705,28,,A,17,1,It's another one.,"[It/PRP, 's/VBZ, another/DT, one/CD, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (DT another) (CD one)))) (. .)))
+K/KE/KE1.xml,KE1RE003,46705,29,,B,18,1,It's another one.,"[It/PRP, 's/VBZ, another/DT, one/CD, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (DT another) (CD one)))) (. .)))

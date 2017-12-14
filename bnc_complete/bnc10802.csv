@@ -1,0 +1,25 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE3.xml,KE3RE02R,10802,0,,A,1,1,"Tony, your office isn't in there.","[Tony/NNP, ,/,, your/PRP$, office/NN, isn/NN, 't/PRP, in/IN, there/RB, ./.]","(ROOT (NP (NP (NNP Tony)) (, ,) (NP (NP (PRP$ your) (NN office) (NN isn)) (NP (NP (PRP 't)) (PP (IN in) (NP (RB there))))) (. .)))"
+K/KE/KE3.xml,KE3RE02R,10802,1,,B,2,1,<laugh> I thought they'd hidden me away in a cupboard.,"[I/PRP, thought/VBD, they/PRP, 'd/MD, hidden/VBN, me/PRP, away/RP, in/IN, a/DT, cupboard/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP they)) (VP (MD 'd) (VP (VBN hidden) (NP (PRP me)) (PRT (RP away)) (PP (IN in) (NP (DT a) (NN cupboard)))))))) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,2,,A,3,1,Hello (()) .,"[Hello/UH, ./.]",(ROOT (INTJ (UH Hello) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,3,,A,3,2,Hello.,"[Hello/UH, ./.]",(ROOT (INTJ (UH Hello) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,4,,A,3,3,(()) ,[],X
+K/KE/KE3.xml,KE3RE02R,10802,5,,A,3,4,I think it's  (()) to that one,"[I/PRP, think/VBP, it/PRP, 's/VBZ, to/TO, that/DT, one/CD]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (TO to) (NP (DT that) (CD one)))))))))
+K/KE/KE3.xml,KE3RE02R,10802,6,,A,3,5,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+K/KE/KE3.xml,KE3RE02R,10802,7,,A,3,6,cos er and if you say for all enquiries please call that.,"[cos/NNP, er/NN, and/CC, if/IN, you/PRP, say/VBP, for/IN, all/DT, enquiries/NNS, please/VB, call/VB, that/DT, ./.]",(ROOT (S (NP (NP (NNP cos)) (UCP (NP (NN er)) (CC and) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP say) (PP (IN for) (NP (DT all) (NNS enquiries)))))))) (VP (VB please) (VP (VB call) (NP (DT that)))) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,8,,A,3,7,They  --,[They/PRP],(ROOT (FRAG (NP (PRP They))))
+K/KE/KE3.xml,KE3RE02R,10802,9,,A,3,8,--,[They/PRP],(ROOT (FRAG (NP (PRP They))))
+K/KE/KE3.xml,KE3RE02R,10802,10,,A,3,9,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,11,,A,3,10,They do actually call that ,"[They/PRP, do/VBP, actually/RB, call/VB, that/IN]",(ROOT (S (NP (PRP They)) (VP (VBP do) (ADVP (RB actually)) (VP (VB call) (ADVP (IN that))))))
+K/KE/KE3.xml,KE3RE02R,10802,12,,A,3,11,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,13,,A,3,12,still don't know that this isn't  (()) office (()) .,"[still/RB, don/NNP, 't/PRP, know/VBP, that/IN, this/DT, isn/NN, 't/PRP, office/NN, ./.]",(ROOT (S (ADVP (RB still)) (NP (NNP don) (PRP 't)) (VP (VBP know) (ADVP (IN that) (NP (DT this) (NN isn))) (NP (PRP 't) (NN office))) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,14,,A,3,13,Good.,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,15,,A,3,14,(()) ,[],X
+K/KE/KE3.xml,KE3RE02R,10802,16,,A,3,15,Thank you very much for (()) .,"[Thank/VB, you/PRP, very/RB, much/RB, for/IN, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much)) (PP (IN for))) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,17,,A,3,16,It was really nice.,"[It/PRP, was/VBD, really/RB, nice/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (RB really) (JJ nice))) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,18,,A,3,17,Pleasure.,"[Pleasure/NN, ./.]",(ROOT (NP (NN Pleasure) (. .)))
+K/KE/KE3.xml,KE3RE02R,10802,19,,A,3,18,(()) ,[],X
+K/KE/KE3.xml,KE3RE02R,10802,20,,A,3,19,Well  --,"[Well/RB, can/MD, we/PRP, deal/VB, with/IN, any/DT, of/IN, their/PRP$, enquiries/NNS, ?/.]",(ROOT (SBARQ (WHADVP (RB Well)) (SQ (MD can) (NP (PRP we)) (VP (VB deal) (PP (IN with) (NP (NP (DT any)) (PP (IN of) (NP (PRP$ their) (NNS enquiries))))))) (. ?)))
+K/KE/KE3.xml,KE3RE02R,10802,21,,A,3,20,--can we deal with any of their enquiries?,"[Well/RB, can/MD, we/PRP, deal/VB, with/IN, any/DT, of/IN, their/PRP$, enquiries/NNS, ?/.]",(ROOT (SBARQ (WHADVP (RB Well)) (SQ (MD can) (NP (PRP we)) (VP (VB deal) (PP (IN with) (NP (NP (DT any)) (PP (IN of) (NP (PRP$ their) (NNS enquiries))))))) (. ?)))
+K/KE/KE3.xml,KE3RE02R,10802,22,,A,3,21,I don't know (()) ,"[I/PRP, don/VBP, 't/PRP, know/VB]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))))
+K/KE/KE3.xml,KE3RE02R,10802,23,,A,3,22,(()) ,[],X

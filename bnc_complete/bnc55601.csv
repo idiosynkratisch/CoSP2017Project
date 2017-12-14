@@ -1,0 +1,17 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC6.xml,KC6RE000,55601,0,,A,1,1,"You alright babe, yeah?","[You/PRP, alright/JJ, babe/NNP, ,/,, yeah/UH, ?/.]","(ROOT (NP (NP (NP (PRP You)) (VP (PP (JJ alright) (NP (NNP babe))) (, ,) (NP (UH yeah)))) (. ?)))"
+K/KC/KC6.xml,KC6RE000,55601,1,,B,2,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,2,,B,2,2,(()) put in the car.,"[put/VBN, in/IN, the/DT, car/NN, ./.]",(ROOT (S (VP (VBN put) (PP (IN in) (NP (DT the) (NN car)))) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,3,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,4,,B,4,1,(()) ,[],X
+K/KC/KC6.xml,KC6RE000,55601,5,,A,5,1,(()) to work.,"[to/TO, work/VB, ./.]",(ROOT (S (VP (TO to) (VP (VB work))) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,6,,B,6,1,(()) work?,"[work/VB, ?/.]",(ROOT (SQ (VP (VB work)) (. ?)))
+K/KC/KC6.xml,KC6RE000,55601,7,,A,7,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,8,,B,8,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,9,,B,8,2,(()) have one piece of (()) ?,"[have/VB, one/CD, piece/NN, of/IN, ?/.]",(ROOT (SQ (VP (VB have) (NP (NP (CD one) (NN piece)) (PP (IN of)))) (. ?)))
+K/KC/KC6.xml,KC6RE000,55601,10,,B,8,3,Two pieces.,"[Two/CD, pieces/NNS, ./.]",(ROOT (NP (CD Two) (NNS pieces) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,11,,A,9,1,It's whole babe.,"[It/PRP, 's/VBZ, whole/JJ, babe/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ whole) (NNP babe))) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,12,,B,10,1,Mm.(()) ,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,13,,A,11,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KC/KC6.xml,KC6RE000,55601,14,,B,12,1,Need a  (()) to do it.,"[Need/VB, a/DT, to/TO, do/VB, it/PRP, ./.]",(ROOT (S (VP (VB Need) (S (NP (DT a)) (VP (TO to) (VP (VB do) (NP (PRP it)))))) (. .)))
+K/KC/KC6.xml,KC6RE000,55601,15,,A,13,1,<sigh> ,[],X

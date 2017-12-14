@@ -1,0 +1,58 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02N,13102,0,,A,1,1,"Yeah, I'll have it in a minute I'm all glued up at the moment.","[Yeah/UH, ,/,, I/PRP, 'll/MD, have/VB, it/PRP, in/IN, a/DT, minute/NN, I/PRP, 'm/VBP, all/DT, glued/VBN, up/RP, at/IN, the/DT, moment/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (PRP it)) (PP (IN in) (NP (NP (DT a) (NN minute)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADVP (DT all)) (VP (VBN glued) (PRT (RP up)) (PP (IN at) (NP (DT the) (NN moment))))))))))) (. .)))"
+K/KD/KDA.xml,KDARE02N,13102,1,,B,2,1,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,2,,B,2,2,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,3,,B,2,3,<laugh> ,[],X
+K/KD/KDA.xml,KDARE02N,13102,4,,B,2,4,He had a  (()) ,"[He/PRP, had/VBD, a/DT]",(ROOT (S (NP (PRP He)) (VP (VBD had) (NP (DT a)))))
+K/KD/KDA.xml,KDARE02N,13102,5,,B,2,5,"(()) luck ah?,(()) ","[luck/NN, ah/NN, ?/., ,/,]","(ROOT (FRAG (PP (NN luck) (NP (NN ah)) (. ?)) (, ,)))"
+K/KD/KDA.xml,KDARE02N,13102,6,,B,2,6,Two black eyes,"[Two/CD, black/JJ, eyes/NNS]",(ROOT (NP (NP (CD Two)) (NP (JJ black) (NNS eyes))))
+K/KD/KDA.xml,KDARE02N,13102,7,,B,2,7,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,8,,B,2,8,"two black eyes, a broken nose, dislocated jaw and sore bollocks","[two/CD, black/JJ, eyes/NNS, ,/,, a/DT, broken/JJ, nose/NN, ,/,, dislocated/VBN, jaw/NN, and/CC, sore/JJ, bollocks/NNPS]","(ROOT (FRAG (NP (NP (CD two) (JJ black) (NNS eyes)) (, ,) (NP (NP (DT a) (JJ broken) (NN nose)) (, ,) (VP (VBN dislocated) (NP (NP (NN jaw)) (CC and) (NP (JJ sore) (NNPS bollocks))))))))"
+K/KD/KDA.xml,KDARE02N,13102,9,,B,2,9,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,10,,B,2,10,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,11,,B,2,11,"Yeah, but he was with the coach and all that (()) ","[Yeah/UH, ,/,, but/CC, he/PRP, was/VBD, with/IN, the/DT, coach/NN, and/CC, all/PDT, that/DT]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (CC but)) (ADVP (PRP he)) (VP (VBD was) (PP (IN with) (NP (NP (DT the) (NN coach)) (CC and) (NP (PDT all) (DT that)))))))"
+K/KD/KDA.xml,KDARE02N,13102,12,,B,2,12,Take you home,"[Take/VB, you/PRP, home/NN]",(ROOT (S (VP (VB Take) (NP (PRP you)) (NP (NN home)))))
+K/KD/KDA.xml,KDARE02N,13102,13,,B,2,13,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,14,,B,2,14,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+K/KD/KDA.xml,KDARE02N,13102,15,,B,2,15,Oh  (()) ,[Oh/UH],(ROOT (INTJ (UH Oh)))
+K/KD/KDA.xml,KDARE02N,13102,16,,B,2,16,Oh Mark,"[Oh/UH, Mark/NNP]",(ROOT (INTJ (UH Oh) (NNP Mark)))
+K/KD/KDA.xml,KDARE02N,13102,17,,A,3,1,"Oh, see you ain't (()) ","[Oh/UH, ,/,, see/VB, you/PRP, ain/FW, 't/PRP]","(ROOT (S (INTJ (UH Oh)) (, ,) (VP (VB see) (S (NP (PRP you)) (NP (FW ain)))) (PRP 't)))"
+K/KD/KDA.xml,KDARE02N,13102,18,,B,4,1,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,19,,B,4,2,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,20,,B,4,3,"Na, give it a stir (()) ","[Na/TO, ,/,, give/VB, it/PRP, a/DT, stir/VBP]","(ROOT (S (VP (VP (TO Na)) (, ,) (VP (VB give) (SBAR (S (NP (PRP it) (DT a)) (VP (VBP stir))))))))"
+K/KD/KDA.xml,KDARE02N,13102,21,,B,4,4,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,22,,B,4,5,Cos I'm a generous kind of person,"[Cos/NNP, I/PRP, 'm/VBP, a/DT, generous/JJ, kind/NN, of/IN, person/NN]",(ROOT (FRAG (NP (NP (NNP Cos)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (DT a) (JJ generous) (NN kind)) (PP (IN of) (NP (NN person))))))))))
+K/KD/KDA.xml,KDARE02N,13102,23,,B,4,6,I was gonna have it anyway.,"[I/PRP, was/VBD, gonna/NNP, have/VB, it/PRP, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB have) (NP (PRP it)) (ADVP (RB anyway))))) (. .)))
+K/KD/KDA.xml,KDARE02N,13102,24,,B,4,7,"<laugh> , I was (()) ","[,/,, I/PRP, was/VBD]","(ROOT (PRN (, ,) (S (NP (PRP I)) (VP (VBD was)))))"
+K/KD/KDA.xml,KDARE02N,13102,25,,B,4,8,I thought (()) ,"[I/PRP, thought/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD thought))))
+K/KD/KDA.xml,KDARE02N,13102,26,,B,4,9,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,27,,B,4,10,"Is it,(()) ","[Is/VBZ, it/PRP, ,/,]","(ROOT (FRAG (PP (VBZ Is) (NP (PRP it))) (, ,)))"
+K/KD/KDA.xml,KDARE02N,13102,28,,B,4,11,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KD/KDA.xml,KDARE02N,13102,29,,B,4,12,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,30,,B,4,13,"Na,(()) ","[Na/TO, ,/,]","(ROOT (FRAG (PP (TO Na)) (, ,)))"
+K/KD/KDA.xml,KDARE02N,13102,31,,B,4,14,What time is it?,"[What/WDT, time/NN, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+K/KD/KDA.xml,KDARE02N,13102,32,,B,4,15,Chelsea.,"[Chelsea/NNP, ./.]",(ROOT (FRAG (NP (NNP Chelsea)) (. .)))
+K/KD/KDA.xml,KDARE02N,13102,33,,B,4,16,"Two, twenty eight.","[Two/CD, ,/,, twenty/CD, eight/CD, ./.]","(ROOT (FRAG (NP (CD Two)) (, ,) (NP (CD twenty) (CD eight)) (. .)))"
+K/KD/KDA.xml,KDARE02N,13102,34,,B,4,17,"Two, twenty eight.","[Two/CD, ,/,, twenty/CD, eight/CD, ./.]","(ROOT (FRAG (NP (CD Two)) (, ,) (NP (CD twenty) (CD eight)) (. .)))"
+K/KD/KDA.xml,KDARE02N,13102,35,,B,4,18,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,36,,B,4,19,"twenty nine, something like that.","[twenty/CD, nine/CD, ,/,, something/NN, like/IN, that/DT, ./.]","(ROOT (NP (NP (CD twenty) (CD nine)) (, ,) (NP (NP (NN something)) (PP (IN like) (NP (DT that)))) (. .)))"
+K/KD/KDA.xml,KDARE02N,13102,37,,B,4,20,Stew we get erm,"[Stew/NN, we/PRP, get/VBP, erm/NN]",(ROOT (FRAG (NP (NP (NN Stew)) (SBAR (S (NP (PRP we)) (VP (VBP get) (NP (NN erm))))))))
+K/KD/KDA.xml,KDARE02N,13102,38,,B,4,21,(()) what the fuck am I doing this,"[what/WP, the/DT, fuck/NN, am/VBP, I/PRP, doing/VBG, this/DT]",(ROOT (SBARQ (WHNP (WHNP (WP what)) (NP (DT the) (NN fuck))) (SQ (VBP am) (NP (PRP I)) (VP (VBG doing) (NP (DT this))))))
+K/KD/KDA.xml,KDARE02N,13102,39,,B,4,22,I've got two twenty nine (()) ,"[I/PRP, 've/VBP, got/VBD, two/CD, twenty/CD, nine/CD]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (CD twenty)) (NP (CD nine))))))
+K/KD/KDA.xml,KDARE02N,13102,40,,B,4,23,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,41,,B,4,24,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,42,,B,4,25,Ah?(()) <noisy> ,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
+K/KD/KDA.xml,KDARE02N,13102,43,,B,4,26,"What's the story of this not  (()) stuff, are they (()) ","[What/WP, 's/VBZ, the/DT, story/NN, of/IN, this/DT, not/RB, stuff/NN, ,/,, are/VBP, they/PRP]","(ROOT (SINV (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT the) (NN story)) (PP (IN of) (NP (DT this) (RB not) (NN stuff) (, ,)))))) (VP (VBP are)) (NP (PRP they))))"
+K/KD/KDA.xml,KDARE02N,13102,44,,B,4,27,Probably  --,[Probably/RB],(ROOT (ADVP (RB Probably)))
+K/KD/KDA.xml,KDARE02N,13102,45,,B,4,28,--(()) ,[Probably/RB],(ROOT (ADVP (RB Probably)))
+K/KD/KDA.xml,KDARE02N,13102,46,,B,4,29,You can't beat Liverpool ,"[You/PRP, can/MD, 't/PRP, beat/VB, Liverpool/NNP]",(ROOT (S (NP (PRP You)) (VP (MD can) (NP (PRP 't)) (S (VP (VB beat) (NP (NNP Liverpool)))))))
+K/KD/KDA.xml,KDARE02N,13102,47,,B,4,30,Do what?,"[Do/VB, what/WP, ?/.]",(ROOT (S (VP (VB Do) (FRAG (SBARQ (WHNP (WP what)) (. ?))))))
+K/KD/KDA.xml,KDARE02N,13102,48,,B,4,31,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,49,,B,4,32,"Fuck Liverpool, better than you'll ever  (()) ","[Fuck/NN, Liverpool/NNP, ,/,, better/JJR, than/IN, you/PRP, 'll/MD, ever/RB]","(ROOT (FRAG (NP (NP (NN Fuck) (NNP Liverpool)) (, ,) (ADJP (JJR better))) (SBAR (IN than) (S (NP (PRP you)) (VP (MD 'll) (ADVP (RB ever)))))))"
+K/KD/KDA.xml,KDARE02N,13102,50,,B,4,33,Come on you Liverpool,"[Come/VB, on/IN, you/PRP, Liverpool/NNP]",(ROOT (SINV (VP (VB Come) (PP (IN on) (NP (PRP you)))) (NP (NNP Liverpool))))
+K/KD/KDA.xml,KDARE02N,13102,51,,B,4,34,(()) ,[],X
+K/KD/KDA.xml,KDARE02N,13102,52,,B,4,35,Really great  (()) (()) ,"[Really/RB, great/JJ]",(ROOT (ADJP (RB Really) (JJ great)))
+K/KD/KDA.xml,KDARE02N,13102,53,,B,4,36,I've got a self  (()) ,"[I/PRP, 've/VBP, got/VBD, a/DT, self/NN]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN self))))))
+K/KD/KDA.xml,KDARE02N,13102,54,,B,4,37,Ah got another  (()) (()) ,"[Ah/NN, got/VBD, another/DT]",(ROOT (S (NP (NN Ah)) (VP (VBD got) (NP (DT another)))))
+K/KD/KDA.xml,KDARE02N,13102,55,,B,4,38,<singing> Always look on the bright side of life  </singing> <whistling> .,"[Always/RB, look/VB, on/IN, the/DT, bright/JJ, side/NN, of/IN, life/NN, ./.]",(ROOT (S (ADVP (RB Always)) (VP (VB look) (PP (IN on) (NP (NP (DT the) (JJ bright) (NN side)) (PP (IN of) (NP (NN life)))))) (. .)))
+K/KD/KDA.xml,KDARE02N,13102,56,,B,4,39,Give the old  (()) up there  (()) the old (()) .,"[Give/VB, the/DT, old/JJ, up/IN, there/EX, the/DT, old/JJ, ./.]",(ROOT (S (VP (VB Give) (NP (DT the) (ADJP (JJ old) (PP (IN up) (NP (EX there)))) (NP (DT the) (JJ old)))) (. .)))

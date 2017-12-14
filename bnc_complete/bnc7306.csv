@@ -1,0 +1,23 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE02A,7306,0,,A,1,1,Where're we going on Saturday?,"[Where/WRB, 're/VBP, we/PRP, going/VBG, on/IN, Saturday/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VP (VBP 're)) (NP (PRP we)) (PP (VBG going) (PP (IN on) (NP (NNP Saturday))))) (. ?)))
+K/KD/KDE.xml,KDERE02A,7306,1,,A,1,2,I don't know darling.,"[I/PRP, don/VBP, 't/PRP, know/VB, darling/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (NP (NN darling))))) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,2,,A,1,3,You name a place and we'll go.,"[You/PRP, name/VB, a/DT, place/NN, and/CC, we/PRP, 'll/MD, go/VB, ./.]",(ROOT (S (S (NP (PRP You)) (VP (VB name) (NP (DT a) (NN place)))) (CC and) (S (NP (PRP we)) (VP (MD 'll) (VP (VB go)))) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,3,,A,1,4,<banging> Ooh Oliver.,"[Ooh/NNP, Oliver/NNP, ./.]",(ROOT (NP (NNP Ooh) (NNP Oliver) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,4,,B,2,1,(()) birds isn't it?,"[birds/NNS, isn/VBP, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (NNS birds)) (VP (VBP isn) (S (NP (PRP 't)) (NP (PRP it)))) (. ?)))
+K/KD/KDE.xml,KDERE02A,7306,5,,A,3,1,What's that bird called?,"[What/WP, 's/VBZ, that/DT, bird/NN, called/VBN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (DT that) (NN bird)) (VP (VBN called))) (. ?)))
+K/KD/KDE.xml,KDERE02A,7306,6,,B,4,1,That's (()) ,"[That/DT, 's/VBZ]",(ROOT (S (NP (DT That)) (VP (VBZ 's))))
+K/KD/KDE.xml,KDERE02A,7306,7,,A,5,1,Oh is it?,"[Oh/UH, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
+K/KD/KDE.xml,KDERE02A,7306,8,,B,6,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,9,,A,7,1,Oh I like her.,"[Oh/UH, I/PRP, like/IN, her/PRP, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (PRP I)) (PP (IN like) (NP (PRP her)))))) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,10,,B,8,1,I don't.,"[I/PRP, don/VBP, 't/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't))) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,11,,A,9,1,Don't you?,"[Don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (NP (NP (NNP Don)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
+K/KD/KDE.xml,KDERE02A,7306,12,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02A,7306,13,,A,11,1,Why don't you like her?,"[Why/WRB, don/NNP, 't/PRP, you/PRP, like/IN, her/PRP$, ?/.]",(ROOT (FRAG (SBARQ (WHADVP (WRB Why) (NP (NP (NNP don)) (NP (PRP 't)))) (SQ (NP (PRP you)) (PP (IN like) (NP (PRP$ her)))) (. ?))))
+K/KD/KDE.xml,KDERE02A,7306,14,,B,12,1,She's being nasty.,"[She/PRP, 's/VBZ, being/VBG, nasty/JJ, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG being) (ADJP (JJ nasty)))) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,15,,A,13,1,Why is she being nasty?,"[Why/WRB, is/VBZ, she/PRP, being/VBG, nasty/JJ, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBZ is) (NP (PRP she)) (VP (VBG being) (ADJP (JJ nasty)))) (. ?)))
+K/KD/KDE.xml,KDERE02A,7306,16,,B,14,1,(()) don't like her.,"[don/NNP, 't/PRP, like/IN, her/PRP, ./.]",(ROOT (NP (NP (NNP don)) (NP (NP (PRP 't)) (PP (IN like) (NP (PRP her)))) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,17,,A,15,1,Why is she being nasty?,"[Why/WRB, is/VBZ, she/PRP, being/VBG, nasty/JJ, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBZ is) (NP (PRP she)) (VP (VBG being) (ADJP (JJ nasty)))) (. ?)))
+K/KD/KDE.xml,KDERE02A,7306,18,,B,16,1,That's why I don't like her.,"[That/DT, 's/VBZ, why/WRB, I/PRP, don/VBP, 't/PRP, like/IN, her/PRP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP her))))))) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,19,,A,17,1,"What be-, because she's nasty?","[What/WDT, be-/NN, ,/,, because/IN, she/PRP, 's/VBZ, nasty/JJ, ?/.]","(ROOT (SBARQ (WHNP (WHNP (WDT What)) (PP (NP (NP (NN be-)) (, ,)) (IN because) (NP (PRP she)))) (SQ (VP (VBZ 's) (ADJP (JJ nasty)))) (. ?)))"
+K/KD/KDE.xml,KDERE02A,7306,20,,B,18,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDE.xml,KDERE02A,7306,21,,A,19,1,Oh I see.,"[Oh/UH, I/PRP, see/VBP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (. .)))

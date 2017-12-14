@@ -1,0 +1,26 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KC4.xml,KC4RE000,6401,0,,A,1,1,Are you staying in all day today?,"[Are/VBP, you/PRP, staying/VBG, in/IN, all/DT, day/NN, today/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG staying) (PP (IN in) (NP (DT all) (NN day))) (NP (NN today))) (. ?)))
+K/KC/KC4.xml,KC4RE000,6401,1,,B,2,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,2,,A,3,1,"Erm, cos I've got to go down to Horley I've got to go to the bank.","[Erm/NN, ,/,, cos/NN, I/PRP, 've/VBP, got/VBN, to/TO, go/VB, down/RB, to/TO, Horley/NN, I/PRP, 've/VBP, got/VBN, to/TO, go/VB, to/TO, the/DT, bank/NN, ./.]","(ROOT (S (NP (NP (NN Erm)) (, ,) (NP (NP (NN cos)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB go) (ADVP (RB down) (PP (TO to) (NP (NN Horley)))) (NP (PRP I))))))))))) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT the) (NN bank)))))))) (. .)))"
+K/KC/KC4.xml,KC4RE000,6401,3,,A,3,2,You'll be alright?,"[You/PRP, 'll/MD, be/VB, alright/JJ, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD 'll) (VP (VB be) (ADJP (JJ alright)))) (. ?)))
+K/KC/KC4.xml,KC4RE000,6401,4,,B,4,1,"Yeah, alright.","[Yeah/UH, ,/,, alright/JJ, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (JJ alright)) (. .)))"
+K/KC/KC4.xml,KC4RE000,6401,5,,A,5,1,Here on your own?,"[Here/RB, on/IN, your/PRP$, own/JJ, ?/.]",(ROOT (FRAG (PP (ADVP (RB Here)) (IN on) (NP (PRP$ your) (JJ own))) (. ?)))
+K/KC/KC4.xml,KC4RE000,6401,6,,B,6,1,Yep.,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,7,,A,7,1,(()) won't you?,"[won/VBN, 't/PRP, you/PRP, ?/.]",(ROOT (S (VP (VBN won) (S (NP (PRP 't)) (NP (PRP you)))) (. ?)))
+K/KC/KC4.xml,KC4RE000,6401,8,,B,8,1,Yep.,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,9,,A,9,1,You know I'm not going ,"[You/PRP, know/VBP, I/PRP, 'm/VBP, not/RB, going/VBG]",(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG going))))))))
+K/KC/KC4.xml,KC4RE000,6401,10,,B,10,1,Yeah I've got a lot of English prep to do.,"[Yeah/UH, I/PRP, 've/VBP, got/VBD, a/DT, lot/NN, of/IN, English/NNP, prep/NNP, to/TO, do/VB, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNP English) (NNP prep)))) (S (VP (TO to) (VP (VB do))))))) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,11,,A,11,1,Have you?,"[Have/VB, you/PRP, ?/.]",(ROOT (SQ (VP (VB Have) (NP (PRP you))) (. ?)))
+K/KC/KC4.xml,KC4RE000,6401,12,,B,12,1,A lot of grammar work.,"[A/DT, lot/NN, of/IN, grammar/NN, work/NN, ./.]",(ROOT (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (NN grammar) (NN work))) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,13,,A,13,1,Have you?,"[Have/VB, you/PRP, ?/.]",(ROOT (SQ (VP (VB Have) (NP (PRP you))) (. ?)))
+K/KC/KC4.xml,KC4RE000,6401,14,,A,13,2,O K.,"[O/NN, K/NN, ./.]",(ROOT (NP (NP (NN O)) (NP (NN K)) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,15,,B,14,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,16,,A,15,1,"Yes, O K well I'm going to er I've got lots of work to do before I can go.","[Yes/UH, ,/,, O/NN, K/NN, well/RB, I/PRP, 'm/VBP, going/VBG, to/TO, er/NN, I/PRP, 've/VBP, got/VBN, lots/NNS, of/IN, work/NN, to/TO, do/VB, before/IN, I/PRP, can/MD, go/VB, ./.]","(ROOT (S (S (INTJ (UH Yes)) (, ,) (NP (NP (NN O) (NN K)) (PP (RB well) (NP (PRP I)))) (VP (VBP 'm) (VP (VBG going) (PP (TO to) (NP (NN er)))))) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (NNS lots)) (PP (IN of) (NP (NN work)))) (S (VP (TO to) (VP (VB do) (SBAR (IN before) (S (NP (PRP I)) (VP (MD can) (VP (VB go)))))))))) (. .)))"
+K/KC/KC4.xml,KC4RE000,6401,17,,B,16,1,Yeah I know.,"[Yeah/UH, I/PRP, know/VBP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP know))) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,18,,A,17,1,I shan't be going until about  --,"[I/PRP, shan/VBP, 't/PRP, be/VB, going/VBG, until/IN, about/IN, lunch/NN, time/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP shan) (S (NP (PRP 't)) (VP (VB be) (S (VP (VBG going) (PP (IN until) (PP (IN about) (NP (NN lunch) (NN time))))))))) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,19,,A,17,2,--lunch time.,"[I/PRP, shan/VBP, 't/PRP, be/VB, going/VBG, until/IN, about/IN, lunch/NN, time/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP shan) (S (NP (PRP 't)) (VP (VB be) (S (VP (VBG going) (PP (IN until) (PP (IN about) (NP (NN lunch) (NN time))))))))) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,20,,A,17,3,And you'll be O K?,"[And/CC, you/PRP, 'll/MD, be/VB, O/NN, K/NN, ?/.]",(ROOT (S (CC And) (NP (PRP you)) (VP (MD 'll) (VP (VB be) (NP (NN O) (NN K)))) (. ?)))
+K/KC/KC4.xml,KC4RE000,6401,21,,B,18,1,Yep.,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,22,,A,19,1,Alright.,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
+K/KC/KC4.xml,KC4RE000,6401,23,,A,19,2,"I'll leave it to you, to your prep then.","[I/PRP, 'll/MD, leave/VB, it/PRP, to/TO, you/PRP, ,/,, to/TO, your/PRP$, prep/NNP, then/RB, ./.]","(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB leave) (NP (PRP it)) (PP (TO to) (NP (PRP you))) (, ,) (PP (TO to) (NP (PRP$ your) (NNP prep))) (ADVP (RB then)))) (. .)))"
+K/KC/KC4.xml,KC4RE000,6401,24,,B,20,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

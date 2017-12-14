@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBA.xml,KBARE00A,9911,0,,A,1,1,I didn't put it over there anyway.,"[I/PRP, didn/VBP, 't/PRP, put/VB, it/PRP, over/IN, there/EX, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB put) (NP (PRP it)) (PP (IN over) (NP (EX there)) (ADVP (RB anyway)))))) (. .)))
+K/KB/KBA.xml,KBARE00A,9911,1,,B,2,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KB/KBA.xml,KBARE00A,9911,2,,A,3,1,I didn't put it over there anyway.,"[I/PRP, didn/VBP, 't/PRP, put/VB, it/PRP, over/IN, there/EX, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB put) (NP (PRP it)) (PP (IN over) (NP (EX there)) (ADVP (RB anyway)))))) (. .)))
+K/KB/KBA.xml,KBARE00A,9911,3,,B,4,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KB/KBA.xml,KBARE00A,9911,4,,B,4,2,<banging> That's what I said.,"[That/DT, 's/VBZ, what/WP, I/PRP, said/VBD, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD said))))) (. .)))
+K/KB/KBA.xml,KBARE00A,9911,5,,B,4,3,Miles away.,"[Miles/NNS, away/RB, ./.]",(ROOT (FRAG (NP (NNS Miles)) (ADVP (RB away)) (. .)))

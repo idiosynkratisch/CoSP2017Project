@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01V,38902,0,,A,1,1,Tuesday.,"[Tuesday/NNP, ./.]",(ROOT (FRAG (NP (NNP Tuesday)) (. .)))
+K/KE/KE2.xml,KE2RE01V,38902,1,,B,2,1,"It's Tuesday, yeah.","[It/PRP, 's/VBZ, Tuesday/NNP, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (NP (NNP Tuesday)))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
+K/KE/KE2.xml,KE2RE01V,38902,2,,B,2,2,I've got this  --,"[I/PRP, 've/VBP, got/VBN, this/DT, you/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (DT this)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))) (. .)))
+K/KE/KE2.xml,KE2RE01V,38902,3,,B,2,3,--you know (()) .,"[I/PRP, 've/VBP, got/VBN, this/DT, you/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (NP (DT this)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))) (. .)))

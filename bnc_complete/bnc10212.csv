@@ -1,0 +1,17 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE3.xml,KE3RE00B,10212,0,,A,1,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,1,,B,2,1,Nice gooey cake <laugh> .,"[Nice/JJ, gooey/NNP, cake/NN, ./.]",(ROOT (NP (NP (JJ Nice) (NNP gooey)) (NP (NN cake)) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,2,,A,3,1,We shouldn't should we?,"[We/PRP, shouldn/VBP, 't/PRP, should/MD, we/PRP, ?/.]",(ROOT (S (NP (PRP We)) (VP (VBP shouldn) (SBAR (S (NP (PRP 't)) (VP (MD should) (VP (NP (PRP we))))))) (. ?)))
+K/KE/KE3.xml,KE3RE00B,10212,3,,B,4,1,No  --,"[No/DT, which/WDT, one/CD, do/VBP, you/PRP, want/VB, then/RB, ./.]",(ROOT (S (NP (DT No) (NP (WDT which) (NX (CD one)))) (VP (VBP do) (S (NP (PRP you)) (VP (VB want) (ADVP (RB then))))) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,4,,B,4,2,--which one do you want then <laugh> .,"[No/DT, which/WDT, one/CD, do/VBP, you/PRP, want/VB, then/RB, ./.]",(ROOT (S (NP (DT No) (NP (WDT which) (NX (CD one)))) (VP (VBP do) (S (NP (PRP you)) (VP (VB want) (ADVP (RB then))))) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,5,,A,5,1,No  --,"[No/DT, okay/JJ, ./.]",(ROOT (S (VP (NP (DT No) (ADJP (JJ okay)))) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,6,,A,5,2,--okay.,"[No/DT, okay/JJ, ./.]",(ROOT (S (VP (NP (DT No) (ADJP (JJ okay)))) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,7,,B,6,1,Those are nice.,"[Those/DT, are/VBP, nice/JJ, ./.]",(ROOT (S (NP (DT Those)) (VP (VBP are) (ADJP (JJ nice))) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,8,,A,7,1,"What, those or those?","[What/WP, ,/,, those/DT, or/CC, those/DT, ?/.]","(ROOT (NP (NP (WP What)) (, ,) (NP (NP (DT those)) (CC or) (NP (DT those))) (. ?)))"
+K/KE/KE3.xml,KE3RE00B,10212,9,,B,8,1,This.,"[This/DT, ./.]",(ROOT (FRAG (NP (DT This)) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,10,,A,9,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,11,,B,10,1,They're all nice actually aren't they?,"[They/PRP, 're/VBP, all/DT, nice/JJ, actually/RB, aren/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NP (DT all) (ADJP (JJ nice) (ADVP (RB actually))) (NNP aren)) (NP (NP (PRP 't)) (NP (PRP they))))) (. ?)))
+K/KE/KE3.xml,KE3RE00B,10212,12,,A,11,1,"Is that alright, yeah.","[Is/VBZ, that/IN, alright/JJ, ,/,, yeah/UH, ./.]","(ROOT (S (VP (VBZ Is) (ADJP (IN that) (JJ alright)) (, ,) (INTJ (UH yeah))) (. .)))"
+K/KE/KE3.xml,KE3RE00B,10212,13,,B,12,1,(()) kitchen cupboard let's do it properly.<laugh> ,"[kitchen/NN, cupboard/NN, let/VBD, 's/POS, do/VBP, it/PRP, properly/RB, ./.]",(ROOT (S (NP (NN kitchen) (NN cupboard)) (VP (VBD let) (SBAR (S (NP (POS 's)) (VP (VBP do) (NP (PRP it)) (ADVP (RB properly)))))) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,14,,A,13,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+K/KE/KE3.xml,KE3RE00B,10212,15,,B,14,1,Do you only want sweet (()) ,"[Do/VB, you/PRP, only/RB, want/VBP, sweet/JJ]",(ROOT (S (VP (VB Do) (SBAR (S (NP (PRP you)) (ADVP (RB only)) (VP (VBP want) (ADJP (JJ sweet))))))))

@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDN.xml,KDNRE00P,45704,0,,A,1,1,Are you going down to John's tomorrow  --,"[Are/VBP, you/PRP, going/VBG, down/RB, to/TO, John/NNP, 's/POS, tomorrow/NN, or/CC, Friday/NNP, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (UCP (ADVP (RB down) (PP (TO to) (NP (NP (NNP John) (POS 's)) (NN tomorrow)))) (CC or) (NP (NNP Friday)))) (. ?)))
+K/KD/KDN.xml,KDNRE00P,45704,1,,A,1,2,--or Friday?,"[Are/VBP, you/PRP, going/VBG, down/RB, to/TO, John/NNP, 's/POS, tomorrow/NN, or/CC, Friday/NNP, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (UCP (ADVP (RB down) (PP (TO to) (NP (NP (NNP John) (POS 's)) (NN tomorrow)))) (CC or) (NP (NNP Friday)))) (. ?)))
+K/KD/KDN.xml,KDNRE00P,45704,2,,B,2,1,Friday.,"[Friday/NNP, ./.]",(ROOT (FRAG (NP (NNP Friday)) (. .)))
+K/KD/KDN.xml,KDNRE00P,45704,3,,A,3,1,I told him Friday.,"[I/PRP, told/VBD, him/PRP, Friday/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (PRP him)) (NP (NNP Friday))) (. .)))
+K/KD/KDN.xml,KDNRE00P,45704,4,,B,4,1,Yeah.--,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDN.xml,KDNRE00P,45704,5,,B,4,2,--(()) ,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDN.xml,KDNRE00P,45704,6,,A,5,1,Say no.,"[Say/VB, no/DT, ./.]",(ROOT (S (VP (VB Say) (NP (DT no))) (. .)))
+K/KD/KDN.xml,KDNRE00P,45704,7,,B,6,1,I think I can.,"[I/PRP, think/VBP, I/PRP, can/MD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (MD can))))) (. .)))
+K/KD/KDN.xml,KDNRE00P,45704,8,,B,6,2,She'll just stay.,"[She/PRP, 'll/MD, just/RB, stay/VB, ./.]",(ROOT (S (NP (PRP She)) (VP (MD 'll) (ADVP (RB just)) (VP (VB stay))) (. .)))
+K/KD/KDN.xml,KDNRE00P,45704,9,,B,6,3,"Is she very happy, Jan?","[Is/VBZ, she/PRP, very/RB, happy/JJ, ,/,, Jan/NNP, ?/.]","(ROOT (SQ (VBZ Is) (NP (PRP she)) (NP (NP (RB very) (JJ happy)) (, ,) (NP (NNP Jan))) (. ?)))"

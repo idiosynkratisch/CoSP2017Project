@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE014,2204,0,,A,1,1,"So, do you feel your shopping was successful this morning?","[So/RB, ,/,, do/VBP, you/PRP, feel/VB, your/PRP$, shopping/NN, was/VBD, successful/JJ, this/DT, morning/NN, ?/.]","(ROOT (SBARQ (SBAR (RB So)) (, ,) (SQ (VBP do) (NP (PRP you)) (VP (VB feel) (SBAR (S (NP (PRP$ your) (NN shopping)) (VP (VBD was) (ADJP (JJ successful)) (NP (DT this) (NN morning))))))) (. ?)))"
+K/KB/KBK.xml,KBKRE014,2204,1,,B,2,1,"Quite successful, yeah,(()) .","[Quite/RB, successful/JJ, ,/,, yeah/UH, ,/,, ./.]","(ROOT (S (NP (RB Quite)) (ADJP (ADJP (JJ successful)) (PRN (, ,) (INTJ (UH yeah)) (, ,))) (. .)))"
+K/KB/KBK.xml,KBKRE014,2204,2,,B,2,2,Delivered to Veronica.,"[Delivered/VBN, to/TO, Veronica/NNP, ./.]",(ROOT (S (VP (VBN Delivered) (PP (TO to) (NP (NNP Veronica)))) (. .)))
+K/KB/KBK.xml,KBKRE014,2204,3,,A,3,1,Ah yes.,"[Ah/NN, yes/RB, ./.]",(ROOT (FRAG (NP (NN Ah) (RB yes)) (. .)))

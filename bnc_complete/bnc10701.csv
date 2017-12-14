@@ -1,0 +1,14 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE3.xml,KE3RE02E,10701,0,,A,1,1,Okay?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
+K/KE/KE3.xml,KE3RE02E,10701,1,,B,2,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KE/KE3.xml,KE3RE02E,10701,2,,A,3,1,Now I have to put you first on the list instead of me.,"[Now/RB, I/PRP, have/VBP, to/TO, put/VB, you/PRP, first/RB, on/IN, the/DT, list/NN, instead/RB, of/IN, me/PRP, ./.]",(ROOT (S (ADVP (RB Now)) (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB put) (NP (PRP you)) (ADVP (RB first)) (PP (IN on) (NP (NP (DT the) (NN list)) (PP (RB instead) (IN of) (NP (PRP me))))))))) (. .)))
+K/KE/KE3.xml,KE3RE02E,10701,3,,A,3,2,Stay then.,"[Stay/VB, then/RB, ./.]",(ROOT (S (VP (VB Stay) (ADVP (RB then))) (. .)))
+K/KE/KE3.xml,KE3RE02E,10701,4,,B,4,1,Why cos I went wow?<laugh> ,"[Why/WRB, cos/NN, I/PRP, went/VBD, wow/UH, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why) (NP (NN cos))) (S (NP (PRP I)) (VP (VBD went) (INTJ (UH wow)))) (. ?)))
+K/KE/KE3.xml,KE3RE02E,10701,5,,A,5,1,No you said what you're doing?,"[No/DT, you/PRP, said/VBD, what/WP, you/PRP, 're/VBP, doing/VBG, ?/.]",(ROOT (S (NP (DT No) (PRP you)) (VP (VBD said) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG doing)))))) (. ?)))
+K/KE/KE3.xml,KE3RE02E,10701,6,,A,5,2,You you spent first and then,"[You/PRP, you/PRP, spent/VBD, first/RB, and/CC, then/RB]",(ROOT (FRAG (NP (NP (PRP You)) (SBAR (S (NP (PRP you)) (VP (VBD spent) (ADVP (RB first) (CC and) (RB then))))))))
+K/KE/KE3.xml,KE3RE02E,10701,7,,B,6,1,Have you got your door keys?,"[Have/VB, you/PRP, got/VBD, your/PRP$, door/NN, keys/NNS, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NN door) (NNS keys))))) (. ?)))
+K/KE/KE3.xml,KE3RE02E,10701,8,,A,7,1,And they'll have great difficulty telling your voice and mine apart won't they?,"[And/CC, they/PRP, 'll/MD, have/VB, great/JJ, difficulty/NN, telling/VBG, your/PRP$, voice/NN, and/CC, mine/NN, apart/RB, won/VBD, 't/PRP, they/PRP, ?/.]",(ROOT (S (CC And) (S (NP (PRP they)) (VP (MD 'll) (VP (VB have) (NP (NP (JJ great) (NN difficulty)) (VP (VBG telling) (NP (PRP$ your) (NN voice))))))) (CC and) (S (NP (NN mine)) (ADVP (RB apart)) (VP (VBD won) (S (NP (PRP 't)) (NP (PRP they))))) (. ?)))
+K/KE/KE3.xml,KE3RE02E,10701,9,,B,8,1,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
+K/KE/KE3.xml,KE3RE02E,10701,10,,B,8,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE3.xml,KE3RE02E,10701,11,,B,8,3,"Great difficulty.),","[Great/JJ, difficulty/NN, ./., ,/,]","(ROOT (FRAG (PP (JJ Great) (NP (NN difficulty)) (. .)) (, ,)))"
+K/KE/KE3.xml,KE3RE02E,10701,12,,B,8,4,I,[I/PRP],(ROOT (FRAG (NP (PRP I))))

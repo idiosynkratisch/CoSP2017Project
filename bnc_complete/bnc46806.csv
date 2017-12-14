@@ -1,0 +1,21 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE1.xml,KE1RE009,46806,0,,A,1,1,<phonecall starts> From your mum and dad or  --,"[From/IN, your/PRP$, mum/NN, and/CC, dad/NN, or/CC, from/IN, work/NN, ?/.]",(ROOT (FRAG (PP (PP (IN From) (NP (PRP$ your) (NN mum) (CC and) (NN dad))) (CC or) (PP (IN from) (NP (NN work)))) (. ?)))
+K/KE/KE1.xml,KE1RE009,46806,1,,A,1,2,--from work?,"[From/IN, your/PRP$, mum/NN, and/CC, dad/NN, or/CC, from/IN, work/NN, ?/.]",(ROOT (FRAG (PP (PP (IN From) (NP (PRP$ your) (NN mum) (CC and) (NN dad))) (CC or) (PP (IN from) (NP (NN work)))) (. ?)))
+K/KE/KE1.xml,KE1RE009,46806,2,,B,2,1,"No, from somewhere else.","[No/DT, ,/,, from/IN, somewhere/RB, else/RB, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (PP (IN from) (NP (RB somewhere) (RB else))) (. .)))"
+K/KE/KE1.xml,KE1RE009,46806,3,,A,3,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+K/KE/KE1.xml,KE1RE009,46806,4,,B,4,1,Another source.,"[Another/DT, source/NN, ./.]",(ROOT (NP (DT Another) (NN source) (. .)))
+K/KE/KE1.xml,KE1RE009,46806,5,,A,5,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+K/KE/KE1.xml,KE1RE009,46806,6,,B,6,1,"No, I have to go.","[No/DT, ,/,, I/PRP, have/VBP, to/TO, go/VB, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB go))))) (. .)))"
+K/KE/KE1.xml,KE1RE009,46806,7,,A,7,1,Tell me who!,"[Tell/VB, me/PRP, who/WP, !/.]",(ROOT (VP (VB Tell) (NP (PRP me)) (FRAG (WHNP (WP who)) (. !))))
+K/KE/KE1.xml,KE1RE009,46806,8,,A,7,2,Your granddad.,"[Your/PRP$, granddad/NN, ./.]",(ROOT (FRAG (NP (PRP$ Your) (NN granddad)) (. .)))
+K/KE/KE1.xml,KE1RE009,46806,9,,B,8,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KE/KE1.xml,KE1RE009,46806,10,,A,9,1,Who.,"[Who/WP, ./.]",(ROOT (FRAG (WHNP (WP Who)) (. .)))
+K/KE/KE1.xml,KE1RE009,46806,11,,B,10,1,Look!,"[Look/VB, !/.]",(ROOT (S (VP (VB Look)) (. !)))
+K/KE/KE1.xml,KE1RE009,46806,12,,B,10,2,I just have to go.,"[I/PRP, just/RB, have/VBP, to/TO, go/VB, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (S (VP (TO to) (VP (VB go))))) (. .)))
+K/KE/KE1.xml,KE1RE009,46806,13,,B,10,3,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+K/KE/KE1.xml,KE1RE009,46806,14,,A,11,1,Fine!,"[Fine/NN, !/.]",(ROOT (INTJ (NN Fine) (. !)))
+K/KE/KE1.xml,KE1RE009,46806,15,,B,12,1,<laugh> ,[],X
+K/KE/KE1.xml,KE1RE009,46806,16,,A,13,1,Cheerio!,"[Cheerio/NNP, !/.]",(ROOT (FRAG (NP (NNP Cheerio)) (. !)))
+K/KE/KE1.xml,KE1RE009,46806,17,,B,14,1,"<laughing> Right, see you </laughing> .","[Right/NN, ,/,, see/VBP, you/PRP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VBP see) (NP (PRP you))) (. .)))"
+K/KE/KE1.xml,KE1RE009,46806,18,,A,15,1,Bye!,"[Bye/NN, !/.]",(ROOT (NP (NN Bye) (. !)))
+K/KE/KE1.xml,KE1RE009,46806,19,,B,16,1,<laughing> Bye  </laughing> <phonecall ends> .,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

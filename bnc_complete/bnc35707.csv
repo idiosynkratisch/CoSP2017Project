@@ -1,0 +1,15 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD7.xml,KD7RE00K,35707,0,,A,1,1,Matt?,"[Matt/NNP, ?/.]",(ROOT (FRAG (NP (NNP Matt)) (. ?)))
+K/KD/KD7.xml,KD7RE00K,35707,1,,B,2,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KD/KD7.xml,KD7RE00K,35707,2,,A,3,1,Would you say there was anything wrong with (()) ?,"[Would/MD, you/PRP, say/VB, there/EX, was/VBD, anything/NN, wrong/JJ, with/IN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB say) (SBAR (S (NP (EX there)) (VP (VBD was) (ADJP (NN anything) (JJ wrong) (PP (IN with))))))) (. ?)))
+K/KD/KD7.xml,KD7RE00K,35707,3,,A,3,2,Ha?,"[Ha/NNP, ?/.]",(ROOT (FRAG (NP (NNP Ha)) (. ?)))
+K/KD/KD7.xml,KD7RE00K,35707,4,,B,4,1,I don't mind.,"[I/PRP, don/VBP, 't/PRP, mind/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB mind)))) (. .)))
+K/KD/KD7.xml,KD7RE00K,35707,5,,B,4,2,"Aye, they must be the same (()) .","[Aye/NNP, ,/,, they/PRP, must/MD, be/VB, the/DT, same/JJ, ./.]","(ROOT (S (NP (NNP Aye)) (, ,) (NP (PRP they)) (VP (MD must) (VP (VB be) (NP (DT the) (JJ same)))) (. .)))"
+K/KD/KD7.xml,KD7RE00K,35707,6,,B,4,3,I was only having a joke!,"[I/PRP, was/VBD, only/RB, having/VBG, a/DT, joke/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (ADVP (RB only)) (VBG having) (NP (DT a) (NN joke)))) (. !)))
+K/KD/KD7.xml,KD7RE00K,35707,7,,B,4,4,I'm sorry I opened my mouth!,"[I/PRP, 'm/VBP, sorry/JJ, I/PRP, opened/VBD, my/PRP$, mouth/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry) (SBAR (S (NP (PRP I)) (VP (VBD opened) (NP (PRP$ my) (NN mouth))))))) (. !)))
+K/KD/KD7.xml,KD7RE00K,35707,8,,A,5,1,Oh that's fine.<whispering> (()) </whispering> .,"[Oh/UH, that/DT, 's/VBZ, fine/NN, ./., ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (FRAG (INTJ (NN fine) (. .))))) (. .)))
+K/KD/KD7.xml,KD7RE00K,35707,9,,B,6,1,Well we're getting there.,"[Well/RB, we/PRP, 're/VBP, getting/VBG, there/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP we)) (VP (VBP 're) (VP (VBG getting) (ADVP (RB there)))) (. .)))
+K/KD/KD7.xml,KD7RE00K,35707,10,,A,7,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+K/KD/KD7.xml,KD7RE00K,35707,11,,B,8,1,<whistling> ,[],X
+K/KD/KD7.xml,KD7RE00K,35707,12,,A,9,1,I'm gonna go and watch the telly!,"[I/PRP, 'm/VBP, gonna/NN, go/VB, and/CC, watch/VB, the/DT, telly/NNP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NN gonna)) (VP (VB go) (CC and) (VB watch) (NP (DT the) (NNP telly))))) (. !)))
+K/KD/KD7.xml,KD7RE00K,35707,13,,A,9,2,Ooh ooh ooh!<banging> ,"[Ooh/NNP, ooh/NNP, ooh/NNP, !/.]",(ROOT (NP (NNP Ooh) (NNP ooh) (NNP ooh) (. !)))

@@ -1,0 +1,20 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE005,6706,0,,A,1,1,What you doing?,"[What/WP, you/PRP, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WHNP (WP What)) (NP (PRP you))) (SQ (VP (VBG doing))) (. ?)))
+K/KD/KDE.xml,KDERE005,6706,1,,B,2,1,(()) ,[],X
+K/KD/KDE.xml,KDERE005,6706,2,,A,3,1,Do you want to go outside?,"[Do/VB, you/PRP, want/VBP, to/TO, go/VB, outside/JJ, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (JJ outside))))))))) (. ?)))
+K/KD/KDE.xml,KDERE005,6706,3,,B,4,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDE.xml,KDERE005,6706,4,,A,5,1,Well you have to put shoes,"[Well/RB, you/PRP, have/VBP, to/TO, put/VB, shoes/NNS]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP you)) (SBAR (S (VP (VBP have) (S (VP (TO to) (VP (VB put) (NP (NNS shoes)))))))))))
+K/KD/KDE.xml,KDERE005,6706,5,,B,6,1,(()) ,[],X
+K/KD/KDE.xml,KDERE005,6706,6,,A,7,1,Oh you want to find it.,"[Oh/UH, you/PRP, want/VBP, to/TO, find/VB, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB find) (NP (PRP it))))))) (. .)))
+K/KD/KDE.xml,KDERE005,6706,7,,A,7,2,Let's go and get your wellies and a big jumper.,"[Let/VB, 's/PRP, go/VB, and/CC, get/VB, your/PRP$, wellies/NNS, and/CC, a/DT, big/JJ, jumper/NN, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB go) (CC and) (VB get) (NP (PRP$ your) (NNS wellies) (CC and) (DT a) (JJ big) (NN jumper))))) (. .)))
+K/KD/KDE.xml,KDERE005,6706,8,,B,8,1,(()) ,[],X
+K/KD/KDE.xml,KDERE005,6706,9,,A,9,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
+K/KD/KDE.xml,KDERE005,6706,10,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE005,6706,11,,A,11,1,Well you can find it can't you?,"[Well/RB, you/PRP, can/MD, find/VB, it/PRP, can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (MD can) (VP (VP (VB find) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (NP (PRP 't))))))) (NP (PRP you)))) (. ?)))
+K/KD/KDE.xml,KDERE005,6706,12,,A,11,2,Go and get your wellingtons.,"[Go/VB, and/CC, get/VB, your/PRP$, wellingtons/NNS, ./.]",(ROOT (S (VP (VB Go) (CC and) (VB get) (NP (PRP$ your) (NNS wellingtons))) (. .)))
+K/KD/KDE.xml,KDERE005,6706,13,,B,12,1,(()) ,[],X
+K/KD/KDE.xml,KDERE005,6706,14,,A,13,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KD/KDE.xml,KDERE005,6706,15,,B,14,1,(()) ,[],X
+K/KD/KDE.xml,KDERE005,6706,16,,A,15,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
+K/KD/KDE.xml,KDERE005,6706,17,,B,16,1,Not today.,"[Not/RB, today/NN, ./.]",(ROOT (FRAG (RB Not) (NP (NN today)) (. .)))
+K/KD/KDE.xml,KDERE005,6706,18,,A,17,1,No okay not today.,"[No/DT, okay/JJ, not/RB, today/NN, ./.]",(ROOT (FRAG (NP (DT No) (ADJP (JJ okay) (RB not)) (NN today)) (. .)))

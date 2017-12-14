@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCN.xml,KCNRE01F,27505,0,,A,1,1,Three pound and three please?,"[Three/CD, pound/NN, and/CC, three/CD, please/VB, ?/.]",(ROOT (S (NP (NP (CD Three) (NN pound)) (CC and) (NP (CD three))) (VP (VB please)) (. ?)))
+K/KC/KCN.xml,KCNRE01F,27505,1,,A,1,2,"Three's five ten, and ten is twenty.","[Three/CD, 's/POS, five/CD, ten/CD, ,/,, and/CC, ten/CD, is/VBZ, twenty/CD, ./.]","(ROOT (S (NP (NP (CD Three) (POS 's)) (NP (NP (CD five) (CD ten)) (, ,) (CC and) (NP (CD ten)))) (VP (VBZ is) (NP (CD twenty))) (. .)))"
+K/KC/KCN.xml,KCNRE01F,27505,2,,A,1,3,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+K/KC/KCN.xml,KCNRE01F,27505,3,,B,2,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))

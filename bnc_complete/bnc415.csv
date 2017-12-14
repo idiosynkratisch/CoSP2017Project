@@ -1,0 +1,20 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDP.xml,KDPRE008,415,0,,A,1,1,You should've had an Expresso coffee.,"[You/PRP, should/MD, 've/VB, had/VBD, an/DT, Expresso/JJ, coffee/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD should) (VP (VB 've) (VP (VBD had) (NP (DT an) (JJ Expresso) (NN coffee))))) (. .)))
+K/KD/KDP.xml,KDPRE008,415,1,,B,2,1,Seen the price of them.,"[Seen/VBN, the/DT, price/NN, of/IN, them/PRP, ./.]",(ROOT (S (VP (VBN Seen) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (PRP them))))) (. .)))
+K/KD/KDP.xml,KDPRE008,415,2,,A,3,1,<laugh> imagine Dennis's face.,"[imagine/VB, Dennis/NNP, 's/POS, face/NN, ./.]",(ROOT (S (VP (VB imagine) (NP (NP (NNP Dennis) (POS 's)) (NN face))) (. .)))
+K/KD/KDP.xml,KDPRE008,415,3,,B,4,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KD/KDP.xml,KDPRE008,415,4,,A,5,1,Cup of tea.,"[Cup/NNP, of/IN, tea/NN, ./.]",(ROOT (NP (NP (NNP Cup)) (PP (IN of) (NP (NN tea))) (. .)))
+K/KD/KDP.xml,KDPRE008,415,5,,B,6,1,Cup of tea Dave.,"[Cup/NNP, of/IN, tea/NNP, Dave/NNP, ./.]",(ROOT (NP (NP (NNP Cup)) (PP (IN of) (NP (NNP tea) (NNP Dave))) (. .)))
+K/KD/KDP.xml,KDPRE008,415,6,,A,7,1,"Tea, and a milk, pint of, you got semi?","[Tea/NN, ,/,, and/CC, a/DT, milk/NN, ,/,, pint/NN, of/IN, ,/,, you/PRP, got/VBD, semi/NNP, ?/.]","(ROOT (NP (NP (NP (NN Tea)) (, ,) (CC and) (NP (DT a) (NN milk)) (, ,)) (NP (NP (NN pint)) (PP (IN of) (PRN (, ,) (S (NP (PRP you)) (VP (VBD got)))) (NP (NNP semi)))) (. ?)))"
+K/KD/KDP.xml,KDPRE008,415,7,,B,8,1,Think so.,"[Think/VB, so/RB, ./.]",(ROOT (S (VP (VB Think) (ADVP (RB so))) (. .)))
+K/KD/KDP.xml,KDPRE008,415,8,,A,9,1,Mushroom/Ham.,"[Mushroom/Ham/NN, ./.]",(ROOT (NP (NN Mushroom/Ham) (. .)))
+K/KD/KDP.xml,KDPRE008,415,9,,A,9,2,(()) on there without a.,"[on/IN, there/EX, without/IN, a/DT, ./.]",(ROOT (FRAG (PP (IN on) (NP (NP (EX there)) (PP (IN without) (NP (DT a))))) (. .)))
+K/KD/KDP.xml,KDPRE008,415,10,,B,10,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KD/KDP.xml,KDPRE008,415,11,,A,11,1,Bloody milk.(()) .,"[Bloody/JJ, milk/NN, ./., ./.]",(ROOT (FRAG (NP (JJ Bloody) (NN milk) (. .)) (. .)))
+K/KD/KDP.xml,KDPRE008,415,12,,A,11,2,(()) --,"[Two/CD, bread/NN, and/CC, butter/NN, ./.]",(ROOT (NP (NP (CD Two)) (NP (NN bread) (CC and) (NN butter)) (. .)))
+K/KD/KDP.xml,KDPRE008,415,13,,A,11,3,--Two bread and butter.,"[Two/CD, bread/NN, and/CC, butter/NN, ./.]",(ROOT (NP (NP (CD Two)) (NP (NN bread) (CC and) (NN butter)) (. .)))
+K/KD/KDP.xml,KDPRE008,415,14,,B,12,1,"Two bread and butter, eh, your going the whole hog today.","[Two/CD, bread/NN, and/CC, butter/NN, ,/,, eh/UH, ,/,, your/PRP$, going/VBG, the/DT, whole/JJ, hog/NN, today/NN, ./.]","(ROOT (FRAG (NP (NP (CD Two)) (SBAR (WHNP (NP (NN bread) (CC and) (NN butter)) (PRN (, ,) (INTJ (UH eh)) (, ,))) (S (NP (PRP$ your)) (VP (VBG going) (NP (DT the) (JJ whole) (NN hog)) (NP (NN today)))))) (. .)))"
+K/KD/KDP.xml,KDPRE008,415,15,,B,12,2,Two twenty two.,"[Two/CD, twenty/CD, two/CD, ./.]",(ROOT (FRAG (NP (CD Two)) (NP (CD twenty) (CD two)) (. .)))
+K/KD/KDP.xml,KDPRE008,415,16,,B,12,3,Have you got ya- have you got your bread and butter?,"[Have/VB, you/PRP, got/VBD, ya-/NN, have/VBP, you/PRP, got/VBD, your/PRP$, bread/NN, and/CC, butter/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (SBAR (S (NP (NN ya-)) (VP (VBP have) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NN bread) (CC and) (NN butter)))))))))) (. ?)))
+K/KD/KDP.xml,KDPRE008,415,17,,A,13,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KD/KDP.xml,KDPRE008,415,18,,A,13,2,Y h1 B,"[Y/NN, h1/NN, B/NN]",(ROOT (NP (NP (NN Y)) (NP (NN h1) (NN B))))

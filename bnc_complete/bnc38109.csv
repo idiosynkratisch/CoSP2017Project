@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE00F,38109,0,,A,1,1,Is this the new marmalade?,"[Is/VBZ, this/DT, the/DT, new/JJ, marmalade/NNP, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT this)) (NP (DT the) (JJ new) (NNP marmalade)) (. ?)))
+K/KE/KE2.xml,KE2RE00F,38109,1,,B,2,1,No,[No/DT],(ROOT (FRAG (NP (DT No))))
+K/KE/KE2.xml,KE2RE00F,38109,2,,A,3,1,No it's  --,"[No/DT, it/PRP, 's/VBZ, mm/NN]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (NP (NN mm)))))
+K/KE/KE2.xml,KE2RE00F,38109,3,,A,3,2,--mm ,"[No/DT, it/PRP, 's/VBZ, mm/NN]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (NP (NN mm)))))

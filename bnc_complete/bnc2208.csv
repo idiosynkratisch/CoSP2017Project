@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE018,2208,0,,A,1,1,Is the office still being occupied?,"[Is/VBZ, the/DT, office/NN, still/RB, being/VBG, occupied/VBN, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT the) (NN office)) (VP (ADVP (RB still)) (VBG being) (VP (VBN occupied))) (. ?)))
+K/KB/KBK.xml,KBKRE018,2208,1,,B,2,1,"No, not  (()) occupied.","[No/DT, ,/,, not/RB, occupied/VBN, ./.]","(ROOT (S (VP (NP (NP (DT No)) (, ,) (ADJP (RB not) (VBN occupied)))) (. .)))"
+K/KB/KBK.xml,KBKRE018,2208,2,,B,2,2,"No it's not actually, busy.","[No/DT, it/PRP, 's/VBZ, not/RB, actually/RB, ,/,, busy/JJ, ./.]","(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (ADVP (RB not)) (ADVP (RB actually)) (, ,) (ADJP (JJ busy))) (. .)))"
+K/KB/KBK.xml,KBKRE018,2208,3,,A,3,1,(()) pouring in here.,"[pouring/VBG, in/IN, here/RB, ./.]",(ROOT (S (VP (VBG pouring) (PP (IN in) (NP (RB here)))) (. .)))
+K/KB/KBK.xml,KBKRE018,2208,4,,B,4,1,"Well we had one or two earlier this week, I must say.","[Well/RB, we/PRP, had/VBD, one/CD, or/CC, two/CD, earlier/RBR, this/DT, week/NN, ,/,, I/PRP, must/MD, say/VB, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (PRP we)) (VP (VBD had) (NP (NP (CD one)) (CC or) (NP (CD two))) (NP (RBR earlier) (DT this) (NN week)))) (, ,) (NP (PRP I)) (VP (MD must) (VP (VB say))) (. .)))"
+K/KB/KBK.xml,KBKRE018,2208,5,,B,4,2,Nothing today.,"[Nothing/NN, today/NN, ./.]",(ROOT (NP (NP (NN Nothing)) (NP (NN today)) (. .)))
+K/KB/KBK.xml,KBKRE018,2208,6,,A,5,1,Still  --,"[Still/RB, still/RB, ./.]",(ROOT (FRAG (ADVP (RB Still)) (RB still) (. .)))
+K/KB/KBK.xml,KBKRE018,2208,7,,A,5,2,--still (()) .,"[Still/RB, still/RB, ./.]",(ROOT (FRAG (ADVP (RB Still)) (RB still) (. .)))
+K/KB/KBK.xml,KBKRE018,2208,8,,B,6,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))

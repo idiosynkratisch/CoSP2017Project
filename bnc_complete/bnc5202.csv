@@ -1,0 +1,18 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE02A,5202,0,,A,1,1,Yep  --,"[Yep/NN, do/VBP, we/PRP, want/VBP, the/DT, stuff/NN, to/TO, fill/VB, the/DT, holes/NNS, with/IN, ?/.]",(ROOT (S (NP (NN Yep)) (VP (VBP do) (SBAR (S (NP (PRP we)) (VP (VBP want) (S (NP (DT the) (NN stuff)) (VP (TO to) (VP (VB fill) (NP (DT the) (NNS holes)) (PP (IN with))))))))) (. ?)))
+K/KC/KCD.xml,KCDRE02A,5202,1,,A,1,2,--do we want the stuff to fill the holes with?,"[Yep/NN, do/VBP, we/PRP, want/VBP, the/DT, stuff/NN, to/TO, fill/VB, the/DT, holes/NNS, with/IN, ?/.]",(ROOT (S (NP (NN Yep)) (VP (VBP do) (SBAR (S (NP (PRP we)) (VP (VBP want) (S (NP (DT the) (NN stuff)) (VP (TO to) (VP (VB fill) (NP (DT the) (NNS holes)) (PP (IN with))))))))) (. ?)))
+K/KC/KCD.xml,KCDRE02A,5202,2,,B,2,1,"I don't know whether we did really to be honest, don't worry,(()) .","[I/PRP, don/VBP, 't/PRP, know/VB, whether/IN, we/PRP, did/VBD, really/RB, to/TO, be/VB, honest/JJ, ,/,, don/NNP, 't/PRP, worry/VBP, ,/,, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (IN whether) (S (NP (PRP we)) (VP (VBD did) (ADVP (RB really)) (S (VP (TO to) (VP (VB be) (ADJP (JJ honest)) (PRN (, ,) (S (NP (NNP don) (PRP 't)) (VP (VBP worry))) (, ,))))))))))) (. .)))"
+K/KC/KCD.xml,KCDRE02A,5202,3,,A,3,1,Poly filler.,"[Poly/NN, filler/NN, ./.]",(ROOT (NP (NP (NN Poly)) (NP (NN filler)) (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,4,,B,4,1,Poly filler and eh.,"[Poly/NN, filler/NN, and/CC, eh/UH, ./.]",(ROOT (NP (NP (NN Poly) (NN filler)) (PP (CC and) (NP (UH eh))) (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,5,,A,5,1,Got some sand paper.,"[Got/VBD, some/DT, sand/NN, paper/NN, ./.]",(ROOT (S (VP (VBD Got) (NP (DT some) (NN sand) (NN paper))) (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,6,,B,6,1,I'm not going (()) .,"[I/PRP, 'm/VBP, not/RB, going/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG going))) (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,7,,A,7,1,Put it on the bed or something.,"[Put/VB, it/PRP, on/IN, the/DT, bed/NN, or/CC, something/NN, ./.]",(ROOT (S (VP (VB Put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN bed) (CC or) (NN something)))) (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,8,,B,8,1,Put it on the bed.,"[Put/VB, it/PRP, on/IN, the/DT, bed/NN, ./.]",(ROOT (S (VP (VB Put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN bed)))) (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,9,,A,9,1,Wants some poly  --,"[Wants/VBZ, some/DT, poly/NN, uhum/NNP, some/DT, sand/NN, paper/NN, ?/.]",(ROOT (S (VP (VBZ Wants) (NP (DT some) (NN poly)) (NP (NP (NNP uhum)) (NP (DT some) (NN sand) (NN paper)))) (. ?)))
+K/KC/KCD.xml,KCDRE02A,5202,10,,A,9,2,--uhum some sand paper?,"[Wants/VBZ, some/DT, poly/NN, uhum/NNP, some/DT, sand/NN, paper/NN, ?/.]",(ROOT (S (VP (VBZ Wants) (NP (DT some) (NN poly)) (NP (NP (NNP uhum)) (NP (DT some) (NN sand) (NN paper)))) (. ?)))
+K/KC/KCD.xml,KCDRE02A,5202,11,,B,10,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,12,,A,11,1,Is it alright?,"[Is/VBZ, it/PRP, alright/JJ, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (ADJP (JJ alright)) (. ?)))
+K/KC/KCD.xml,KCDRE02A,5202,13,,B,12,1,"With the uhum, the putty knife.","[With/IN, the/DT, uhum/NN, ,/,, the/DT, putty/NN, knife/NN, ./.]","(ROOT (FRAG (PP (IN With) (NP (DT the) (NN uhum))) (, ,) (NP (DT the) (NN putty) (NN knife)) (. .)))"
+K/KC/KCD.xml,KCDRE02A,5202,14,,A,13,1,Oh right.,"[Oh/UH, right/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,15,,B,14,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KC/KCD.xml,KCDRE02A,5202,16,,A,15,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

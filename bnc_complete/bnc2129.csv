@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE00X,2129,0,,A,1,1,Why do we know how much  (()) be?(()) .,"[Why/WRB, do/VBP, we/PRP, know/VB, how/WRB, much/JJ, be/VB, ?/., ./.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP we)) (VP (VB know) (SBAR (SBARQ (WHNP (WRB how) (JJ much)) (SQ (VP (VB be))) (. ?))))) (. .)))
+K/KB/KBK.xml,KBKRE00X,2129,1,,B,2,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KB/KBK.xml,KBKRE00X,2129,2,,A,3,1,(()) ,[],X

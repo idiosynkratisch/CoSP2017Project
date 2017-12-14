@@ -1,0 +1,19 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE02T,2325,0,,A,1,1,"She waits all day for this, it's the best bit, this and supper.","[She/PRP, waits/VBZ, all/DT, day/NN, for/IN, this/DT, ,/,, it/PRP, 's/VBZ, the/DT, best/JJS, bit/NN, ,/,, this/DT, and/CC, supper/NN, ./.]","(ROOT (S (S (NP (PRP She)) (VP (VBZ waits) (NP (NP (DT all) (NN day)) (PP (IN for) (NP (DT this)))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT the) (JJS best) (NN bit)) (, ,) (NP (DT this)) (CC and) (NP (NN supper)))) (. .)))"
+K/KB/KBK.xml,KBKRE02T,2325,1,,B,2,1,<laugh> .,[./.],(ROOT (NP (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,2,,B,2,2,It's not supper time yet Digger.,"[It/PRP, 's/VBZ, not/RB, supper/NN, time/NN, yet/RB, Digger/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADVP (NN supper) (NN time) (RB yet)) (NP (NN Digger))) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,3,,A,3,1,Yeah (()) .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,4,,A,3,2,Use up all in the fridge,"[Use/VB, up/RP, all/DT, in/IN, the/DT, fridge/NN]",(ROOT (S (VP (VB Use) (PRT (RP up)) (NP (NP (DT all)) (PP (IN in) (NP (DT the) (NN fridge)))))))
+K/KB/KBK.xml,KBKRE02T,2325,5,,B,4,1,Has you got lots of bits left over?,"[Has/VBZ, you/PRP, got/VBD, lots/NNS, of/IN, bits/NNS, left/VBD, over/RP, ?/.]",(ROOT (S (S (VP (VBZ Has) (SBAR (S (NP (PRP you)) (VP (VBD got) (NP (NP (NNS lots)) (PP (IN of) (NP (NNS bits))))))))) (VP (VBD left) (PRT (RP over))) (. ?)))
+K/KB/KBK.xml,KBKRE02T,2325,6,,A,5,1,before I go shopping .,"[before/IN, I/PRP, go/VBP, shopping/NN, ./.]",(ROOT (FRAG (SBAR (IN before) (S (NP (PRP I)) (VP (VBP go) (NP (NN shopping))))) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,7,,A,5,2,Well I got some (()) .,"[Well/RB, I/PRP, got/VBD, some/DT, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBD got) (NP (DT some))) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,8,,A,5,3,Things  (()) never come and they have (()) .,"[Things/NNS, never/RB, come/VBP, and/CC, they/PRP, have/VBP, ./.]",(ROOT (S (S (NP (NNS Things)) (ADVP (RB never)) (VP (VBP come))) (CC and) (S (NP (PRP they)) (VP (VBP have))) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,9,,B,6,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,10,,A,7,1,(()) fridge require  --,"[fridge/NNP, require/VBP, ./.]",(ROOT (S (NP (NNP fridge)) (VP (VBP require)) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,11,,A,7,2,--(()) .,"[fridge/NNP, require/VBP, ./.]",(ROOT (S (NP (NNP fridge)) (VP (VBP require)) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,12,,B,8,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,13,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02T,2325,14,,B,10,1,"Yes, she's very disheartening the way she picks at it I should think.","[Yes/UH, ,/,, she/PRP, 's/VBZ, very/RB, disheartening/VBG, the/DT, way/NN, she/PRP, picks/VBZ, at/IN, it/PRP, I/PRP, should/MD, think/VB, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP she)) (VP (VBZ 's) (ADJP (RB very) (S (VP (VBG disheartening) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP she)) (VP (VBZ picks) (PP (IN at) (NP (PRP it))) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB think))))))))))))) (. .)))"
+K/KB/KBK.xml,KBKRE02T,2325,15,,B,10,2,Very disagreeable that's for sure.,"[Very/RB, disagreeable/JJ, that/DT, 's/VBZ, for/IN, sure/JJ, ./.]",(ROOT (S (ADJP (RB Very) (JJ disagreeable)) (NP (DT that)) (VP (VBZ 's) (PP (IN for) (ADJP (JJ sure)))) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,16,,A,11,1,Besides (()) .,"[Besides/IN, ./.]",(ROOT (FRAG (ADVP (IN Besides)) (. .)))
+K/KB/KBK.xml,KBKRE02T,2325,17,,B,12,1,"Yes I like it, fish pie or something.","[Yes/UH, I/PRP, like/VBP, it/PRP, ,/,, fish/NN, pie/NN, or/CC, something/NN, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP like) (NP (PRP it)))) (, ,) (S (NP (NN fish)) (NP (NN pie) (CC or) (NN something))) (. .)))"

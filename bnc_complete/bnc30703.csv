@@ -1,0 +1,24 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDM.xml,KDMRE025,30703,0,,A,1,1,Early?,"[Early/RB, ?/.]",(ROOT (FRAG (ADVP (RB Early)) (. ?)))
+K/KD/KDM.xml,KDMRE025,30703,1,,B,2,1,Good Morning Ray?,"[Good/JJ, Morning/NN, Ray/NNP, ?/.]",(ROOT (FRAG (NP (JJ Good) (NN Morning)) (NP (NNP Ray)) (. ?)))
+K/KD/KDM.xml,KDMRE025,30703,2,,A,3,1,Morning Mary  --,"[Morning/NN, Mary/NNP, how/WRB, are/VBP, you/PRP, ?/.]",(ROOT (S (NP (NN Morning) (NNP Mary)) (ADVP (WRB how)) (VP (VBP are) (NP (PRP you))) (. ?)))
+K/KD/KDM.xml,KDMRE025,30703,3,,A,3,2,--how are you?,"[Morning/NN, Mary/NNP, how/WRB, are/VBP, you/PRP, ?/.]",(ROOT (S (NP (NN Morning) (NNP Mary)) (ADVP (WRB how)) (VP (VBP are) (NP (PRP you))) (. ?)))
+K/KD/KDM.xml,KDMRE025,30703,4,,B,4,1,"Yes, alright.","[Yes/UH, ,/,, alright/JJ, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (ADVP (JJ alright)) (. .)))"
+K/KD/KDM.xml,KDMRE025,30703,5,,A,5,1,Is that you in the flash car pushing my little one out of the way?,"[Is/VBZ, that/IN, you/PRP, in/IN, the/DT, flash/NN, car/NN, pushing/VBG, my/PRP$, little/JJ, one/CD, out/IN, of/IN, the/DT, way/NN, ?/.]",(ROOT (SQ (VBZ Is) (SBAR (IN that) (S (NP (PRP you)) (PP (IN in) (S (NP (DT the) (NN flash) (NN car)) (VP (VBG pushing) (NP (PRP$ my))))))) (ADJP (JJ little) (PP (ADVP (NP (CD one)) (IN out)) (IN of) (NP (DT the) (NN way)))) (. ?)))
+K/KD/KDM.xml,KDMRE025,30703,6,,B,6,1,<laugh> ,[],X
+K/KD/KDM.xml,KDMRE025,30703,7,,B,6,2,(()) ,[],X
+K/KD/KDM.xml,KDMRE025,30703,8,,B,6,3,(()) car park.,"[car/NN, park/NN, ./.]",(ROOT (NP (NP (NN car)) (NP (NN park)) (. .)))
+K/KD/KDM.xml,KDMRE025,30703,9,,A,7,1,"Oh it's awful isn't it, on a Thursday?","[Oh/UH, it/PRP, 's/VBZ, awful/JJ, isn/NN, 't/PRP, it/PRP, ,/,, on/IN, a/DT, Thursday/NNP, ?/.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJ awful) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it)))))) (, ,) (FRAG (PP (IN on) (NP (DT a) (NNP Thursday)))) (. ?)))"
+K/KD/KDM.xml,KDMRE025,30703,10,,A,7,2,It's terrible!,"[It/PRP, 's/VBZ, terrible/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ terrible))) (. !)))
+K/KD/KDM.xml,KDMRE025,30703,11,,B,8,1,It is.,"[It/PRP, is/VBZ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ is)) (. .)))
+K/KD/KDM.xml,KDMRE025,30703,12,,A,9,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE025,30703,13,,B,10,1,"Ee, you (()) , actually I left my boot open and there were five cars behind me, so he said well if we get our spaces nicked (()) .","[Ee/NNP, ,/,, you/PRP, ,/,, actually/RB, I/PRP, left/VBD, my/PRP$, boot/NN, open/JJ, and/CC, there/EX, were/VBD, five/CD, cars/NNS, behind/IN, me/PRP, ,/,, so/IN, he/PRP, said/VBD, well/RB, if/IN, we/PRP, get/VBP, our/PRP$, spaces/NNS, nicked/VBD, ./.]","(ROOT (NP (NP (NNP Ee)) (, ,) (S (S (S (NP (PRP you)) (, ,) (ADVP (RB actually)) (NP (PRP I)) (VP (VBD left) (S (NP (PRP$ my) (NN boot)) (ADJP (JJ open))))) (CC and) (S (NP (EX there)) (VP (VBD were) (NP (NP (CD five) (NNS cars)) (PP (IN behind) (NP (PRP me))))))) (, ,) (IN so) (S (NP (PRP he)) (VP (VBD said) (ADVP (RB well)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP get) (SBAR (S (NP (PRP$ our) (NNS spaces)) (VP (VBD nicked)))))))))) (. .)))"
+K/KD/KDM.xml,KDMRE025,30703,14,,A,11,1,That's right.,"[That/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right))) (. .)))
+K/KD/KDM.xml,KDMRE025,30703,15,,B,12,1,I still got a free one.,"[I/PRP, still/RB, got/VBD, a/DT, free/JJ, one/CD, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB still)) (VP (VBD got) (NP (DT a) (JJ free) (CD one))) (. .)))
+K/KD/KDM.xml,KDMRE025,30703,16,,A,13,1,<laugh> ,[],X
+K/KD/KDM.xml,KDMRE025,30703,17,,B,14,1,Isn't there a mail box here in the college?,"[Isn/NNP, 't/PRP, there/EX, a/DT, mail/NN, box/NN, here/RB, in/IN, the/DT, college/NN, ?/.]",(ROOT (NP (NP (NNP Isn)) (NP (NP (PRP 't)) (NP (EX there))) (NP (NP (DT a) (NN mail) (NN box)) (PP (ADVP (RB here)) (IN in) (NP (DT the) (NN college)))) (. ?)))
+K/KD/KDM.xml,KDMRE025,30703,18,,A,15,1,I don't think so.,"[I/PRP, don/VBP, 't/PRP, think/VB, so/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so))))) (. .)))
+K/KD/KDM.xml,KDMRE025,30703,19,,B,16,1,It's on the way (()) ,"[It/PRP, 's/VBZ, on/IN, the/DT, way/NN]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN on) (NP (DT the) (NN way))))))
+K/KD/KDM.xml,KDMRE025,30703,20,,B,16,2,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KD/KDM.xml,KDMRE025,30703,21,,B,16,3,Should be one!,"[Should/MD, be/VB, one/CD, !/.]",(ROOT (S (VP (MD Should) (VP (VB be) (NP (CD one)))) (. !)))
+K/KD/KDM.xml,KDMRE025,30703,22,,A,17,1,Would of thought,"[Would/MD, of/IN, thought/NN]",(ROOT (FRAG (S (VP (MD Would) (PP (IN of) (NP (NN thought)))))))

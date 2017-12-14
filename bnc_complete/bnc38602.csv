@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01A,38602,0,,A,1,1,They're not doing bad are they?,"[They/PRP, 're/VBP, not/RB, doing/VBG, bad/JJ, are/VBP, they/PRP, ?/.]",(ROOT (SINV (S (NP (PRP They)) (VP (VBP 're) (RB not) (VP (VBG doing) (ADJP (JJ bad))))) (VP (VBP are)) (NP (PRP they)) (. ?)))
+K/KE/KE2.xml,KE2RE01A,38602,1,,B,2,1,Well no!,"[Well/RB, no/DT, !/.]",(ROOT (FRAG (ADVP (RB Well)) (NP (DT no)) (. !)))
+K/KE/KE2.xml,KE2RE01A,38602,2,,B,2,2,Doing very well.,"[Doing/VBG, very/RB, well/RB, ./.]",(ROOT (S (VP (VBG Doing) (ADVP (RB very) (RB well))) (. .)))
+K/KE/KE2.xml,KE2RE01A,38602,3,,B,2,3,I thought there is  --,"[I/PRP, thought/VBD, there/EX, is/VBZ, but/CC, I/PRP, mean/VBP, before/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (EX there)) (VP (VBZ is) (SBAR (CC but) (S (NP (PRP I)) (VP (VBP mean) (ADVP (RB before))))))))) (. .)))
+K/KE/KE2.xml,KE2RE01A,38602,4,,B,2,4,--but I mean before (()) .,"[I/PRP, thought/VBD, there/EX, is/VBZ, but/CC, I/PRP, mean/VBP, before/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (EX there)) (VP (VBZ is) (SBAR (CC but) (S (NP (PRP I)) (VP (VBP mean) (ADVP (RB before))))))))) (. .)))
+K/KE/KE2.xml,KE2RE01A,38602,5,,A,3,1,Yep!,"[Yep/RB, !/.]",(ROOT (FRAG (ADVP (RB Yep)) (. !)))
+K/KE/KE2.xml,KE2RE01A,38602,6,,B,4,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE01A,38602,7,,A,5,1,Yep!,"[Yep/RB, !/.]",(ROOT (FRAG (ADVP (RB Yep)) (. !)))

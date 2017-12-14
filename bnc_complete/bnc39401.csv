@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE032,39401,0,,A,1,1,Oh haven't we?,"[Oh/NN, haven/NN, 't/PRP, we/PRP, ?/.]",(ROOT (NP (NP (NN Oh) (NN haven)) (NP (NP (PRP 't)) (NP (PRP we))) (. ?)))
+K/KE/KE2.xml,KE2RE032,39401,1,,B,2,1,That one we had first so,"[That/DT, one/CD, we/PRP, had/VBD, first/RB, so/RB]",(ROOT (FRAG (NP (NP (DT That) (CD one)) (SBAR (S (NP (PRP we)) (VP (VBD had) (NP (RB first) (RB so))))))))
+K/KE/KE2.xml,KE2RE032,39401,2,,A,3,1,"Oh finish that yeah, yeah","[Oh/UH, finish/VB, that/DT, yeah/UH, ,/,, yeah/UH]","(ROOT (S (INTJ (UH Oh)) (VP (VB finish) (NP (DT that)) (NP (UH yeah)) (, ,)) (UH yeah)))"
+K/KE/KE2.xml,KE2RE032,39401,3,,B,4,1,just find it in the fridge,"[just/RB, find/VB, it/PRP, in/IN, the/DT, fridge/NN]",(ROOT (S (ADVP (RB just)) (VP (VB find) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN fridge))))))

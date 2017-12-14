@@ -1,0 +1,4 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE03U,2502,0,,A,1,1,The promise of rain is rather pleasant isn't it?,"[The/DT, promise/NN, of/IN, rain/NN, is/VBZ, rather/RB, pleasant/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (NP (DT The) (NN promise)) (PP (IN of) (NP (NN rain)))) (VP (VBZ is) (PP (RB rather) (NP (JJ pleasant) (NN isn))) (NP (NP (PRP 't)) (NP (PRP it)))) (. ?)))
+K/KB/KBK.xml,KBKRE03U,2502,1,,A,1,2,You  (()) my love.,"[You/PRP, my/PRP$, love/NN, ./.]",(ROOT (NP (NP (PRP You)) (NP (PRP$ my) (NN love)) (. .)))
+K/KB/KBK.xml,KBKRE03U,2502,2,,B,2,1,(()) ,[],X

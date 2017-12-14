@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE00W,2128,0,,A,1,1,"WARM, the Wood Burning Association of Retailers and Manufacturers.","[WARM/JJ, ,/,, the/DT, Wood/NN, Burning/NN, Association/NN, of/IN, Retailers/NNS, and/CC, Manufacturers/NNS, ./.]","(ROOT (NP (NP (JJ WARM)) (, ,) (NP (NP (DT the) (NN Wood) (NN Burning) (NN Association)) (PP (IN of) (NP (NNS Retailers) (CC and) (NNS Manufacturers)))) (. .)))"
+K/KB/KBK.xml,KBKRE00W,2128,1,,B,2,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+K/KB/KBK.xml,KBKRE00W,2128,2,,A,3,1,<laugh> .,[./.],(ROOT (NP (. .)))
+K/KB/KBK.xml,KBKRE00W,2128,3,,A,3,2,It's all so obvious isn't it!,"[It/PRP, 's/VBZ, all/DT, so/RB, obvious/JJ, isn/NN, 't/PRP, it/PRP, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT all) (ADJP (RB so) (JJ obvious)) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. !)))

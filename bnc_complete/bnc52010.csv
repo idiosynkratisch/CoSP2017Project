@@ -1,0 +1,10 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBJ.xml,KBJRE009,52010,0,,A,1,1,It's not doing anything.,"[It/PRP, 's/VBZ, not/RB, doing/VBG, anything/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VBG doing) (NP (NN anything)))) (. .)))
+K/KB/KBJ.xml,KBJRE009,52010,1,,A,1,2,Is it the right way round?,"[Is/VBZ, it/PRP, the/DT, right/JJ, way/NN, round/NN, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (DT the) (JJ right) (NN way) (NN round)) (. ?)))
+K/KB/KBJ.xml,KBJRE009,52010,2,,A,1,3,The light's not on.,"[The/DT, light/NN, 's/POS, not/RB, on/IN, ./.]",(ROOT (NP (NP (DT The) (NP (NN light) (POS 's))) (ADJP (RB not) (PP (IN on))) (. .)))
+K/KB/KBJ.xml,KBJRE009,52010,3,,A,1,4,"Oh, the light ","[Oh/UH, ,/,, the/DT, light/NN]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (NP (DT the) (NN light))))"
+K/KB/KBJ.xml,KBJRE009,52010,4,,B,2,1,It is!,"[It/PRP, is/VBZ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ is)) (. !)))
+K/KB/KBJ.xml,KBJRE009,52010,5,,A,3,1,is on.,"[is/VBZ, on/IN, ./.]",(ROOT (S (VP (VBZ is) (PP (IN on))) (. .)))
+K/KB/KBJ.xml,KBJRE009,52010,6,,B,4,1,<laugh> ,[],X
+K/KB/KBJ.xml,KBJRE009,52010,7,,A,5,1,Wait a minute then.,"[Wait/VB, a/DT, minute/NN, then/RB, ./.]",(ROOT (S (VP (VB Wait) (NP (DT a) (NN minute)) (ADVP (RB then))) (. .)))
+K/KB/KBJ.xml,KBJRE009,52010,8,,A,5,2,Tell me in a bit Emma.,"[Tell/VB, me/PRP, in/IN, a/DT, bit/NN, Emma/NNP, ./.]",(ROOT (S (VP (VB Tell) (NP (PRP me)) (PP (IN in) (NP (DT a) (NN bit) (NNP Emma)))) (. .)))

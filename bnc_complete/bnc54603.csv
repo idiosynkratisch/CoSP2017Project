@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBS.xml,KBSRE001,54603,0,,A,1,1,(()) the Russians are accepting our beef.,"[the/DT, Russians/NNPS, are/VBP, accepting/VBG, our/PRP$, beef/NN, ./.]",(ROOT (S (NP (DT the) (NNPS Russians)) (VP (VBP are) (VP (VBG accepting) (NP (PRP$ our) (NN beef)))) (. .)))
+K/KB/KBS.xml,KBSRE001,54603,1,,B,2,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBS.xml,KBSRE001,54603,2,,B,2,2,They ,[They/PRP],(ROOT (FRAG (NP (PRP They))))
+K/KB/KBS.xml,KBSRE001,54603,3,,A,3,1,Very kind.,"[Very/RB, kind/RB, ./.]",(ROOT (FRAG (ADVP (RB Very)) (ADVP (RB kind) (. .))))
+K/KB/KBS.xml,KBSRE001,54603,4,,B,4,1,Oh Linda  <<REDACTED (name)>> she's having a bit of a,"[Oh/UH, Linda/NNP, >/JJR, she/PRP, 's/VBZ, having/VBG, a/DT, bit/NN, of/IN, a/DT]",(ROOT (SINV (PP (NP (UH Oh)) (PP (NNP Linda) (NP (NP (JJR >)) (NP (PRP she))))) (VP (VBZ 's) (VP (VBG having) (NP (NP (DT a) (NN bit)) (PP (IN of))))) (NP (DT a))))
+K/KB/KBS.xml,KBSRE001,54603,5,,A,5,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KB/KBS.xml,KBSRE001,54603,6,,A,5,2,Some indication of what she's up against?,"[Some/DT, indication/NN, of/IN, what/WP, she/PRP, 's/VBZ, up/RP, against/IN, ?/.]",(ROOT (NP (NP (DT Some) (NN indication)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RP up)) (PP (IN against)))))) (. ?)))
+K/KB/KBS.xml,KBSRE001,54603,7,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBS.xml,KBSRE001,54603,8,,B,6,2,I can't see (()) ,"[I/PRP, can/MD, 't/PRP, see/VB]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB see))))))
+K/KB/KBS.xml,KBSRE001,54603,9,,A,7,1,Perhaps they're not.,"[Perhaps/RB, they/PRP, 're/VBP, not/RB, ./.]",(ROOT (S (ADVP (RB Perhaps)) (NP (PRP they)) (VP (VBP 're) (RB not)) (. .)))

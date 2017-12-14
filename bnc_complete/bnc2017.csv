@@ -1,0 +1,18 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE00F,2017,0,,A,1,1,<sneeze> Excuse me.,"[Excuse/VB, me/PRP, ./.]",(ROOT (S (VP (VB Excuse) (NP (PRP me))) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,1,,B,2,1,Bless you.,"[Bless/VB, you/PRP, ./.]",(ROOT (S (VP (VB Bless) (NP (PRP you))) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,2,,B,2,2,How come Graham's playing golf again today anyway?,"[How/WRB, come/VBP, Graham/NNP, 's/POS, playing/VBG, golf/NN, again/RB, today/NN, anyway/RB, ?/.]",(ROOT (SBARQ (WHNP (WRB How)) (SQ (VP (VBP come) (S (NP (NNP Graham) (POS 's)) (VP (VBG playing) (NP (NN golf)) (ADVP (RB again) (NN today)) (ADVP (RB anyway)))))) (. ?)))
+K/KB/KBK.xml,KBKRE00F,2017,3,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00F,2017,4,,B,4,1,Oh it's business is it?,"[Oh/UH, it/PRP, 's/VBZ, business/NN, is/VBZ, it/PRP, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBZ 's))) (NP (NN business)) (VP (VBZ is) (NP (PRP it))) (. ?)))
+K/KB/KBK.xml,KBKRE00F,2017,5,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00F,2017,6,,B,6,1,Amazing.,"[Amazing/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Amazing)) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,7,,B,6,2,Amazing.,"[Amazing/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Amazing)) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,8,,B,6,3,He's out officially currying favour ha?,"[He/PRP, 's/VBZ, out/RP, officially/RB, currying/VBG, favour/NN, ha/NN, ?/.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RP out) (RB officially)) (VP (VBG currying) (NP (NN favour) (NN ha)))) (. ?)))
+K/KB/KBK.xml,KBKRE00F,2017,9,,A,7,1,(()) good (()) ,[good/JJ],(ROOT (ADJP (JJ good)))
+K/KB/KBK.xml,KBKRE00F,2017,10,,B,8,1,Of course they are.,"[Of/IN, course/NN, they/PRP, are/VBP, ./.]",(ROOT (S (PP (IN Of) (NP (NN course))) (NP (PRP they)) (VP (VBP are)) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,11,,B,8,2,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,12,,B,8,3,I mean it it's really quite fascinating that isn't it?,"[I/PRP, mean/VBP, it/PRP, it/PRP, 's/VBZ, really/RB, quite/RB, fascinating/JJ, that/IN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (SINV (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (NP (PRP it))))) (VP (VBZ 's) (ADVP (RB really) (RB quite)) (ADJP (JJ fascinating) (SBAR (IN that) (S (NP (NN isn)) (NP (PRP 't)))))) (NP (PRP it)) (. ?)))
+K/KB/KBK.xml,KBKRE00F,2017,13,,B,8,4,They are making the bank a lot of money.,"[They/PRP, are/VBP, making/VBG, the/DT, bank/NN, a/DT, lot/NN, of/IN, money/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP are) (VP (VBG making) (NP (NP (DT the) (NN bank)) (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money)))))) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,14,,A,9,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,15,,A,9,2,(()) playing golf this morning having a posh lunch and then playing golf this afternoon then having a buffet supper with prize giving.,"[playing/VBG, golf/NN, this/DT, morning/NN, having/VBG, a/DT, posh/JJ, lunch/NN, and/CC, then/RB, playing/VBG, golf/NN, this/DT, afternoon/NN, then/RB, having/VBG, a/DT, buffet/NN, supper/NN, with/IN, prize/NN, giving/VBG, ./.]",(ROOT (S (VP (VP (VBG playing) (NP (NN golf)) (NP (DT this) (NN morning)) (VP (VBG having) (NP (DT a) (JJ posh) (NN lunch)))) (CC and) (ADVP (RB then)) (VP (VBG playing) (NP (NN golf)) (NP (DT this) (NN afternoon)) (S (ADVP (RB then)) (VP (VBG having) (S (NP (NP (DT a) (NN buffet) (NN supper)) (PP (IN with) (NP (NN prize)))) (VP (VBG giving))))))) (. .)))
+K/KB/KBK.xml,KBKRE00F,2017,16,,A,9,3,Last time he won a beautiful (()) .,"[Last/JJ, time/NN, he/PRP, won/VBD, a/DT, beautiful/JJ, ./.]",(ROOT (S (NP (JJ Last) (NN time)) (NP (PRP he)) (VP (VBD won) (NP (DT a) (JJ beautiful))) (. .)))

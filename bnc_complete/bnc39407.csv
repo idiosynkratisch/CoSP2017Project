@@ -1,0 +1,9 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE038,39407,0,,A,1,1,Hello there you are ,"[Hello/UH, there/EX, you/PRP, are/VBP]",(ROOT (S (PP (UH Hello) (NP (EX there))) (NP (PRP you)) (VP (VBP are))))
+K/KE/KE2.xml,KE2RE038,39407,1,,B,2,1,How are you today?,"[How/WRB, are/VBP, you/PRP, today/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (PRP you)) (NP (NN today))) (. ?)))
+K/KE/KE2.xml,KE2RE038,39407,2,,B,2,2,Thank you very much,"[Thank/VB, you/PRP, very/RB, much/RB]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much)))))
+K/KE/KE2.xml,KE2RE038,39407,3,,A,3,1,Thank you,"[Thank/VB, you/PRP]",(ROOT (S (VP (VB Thank) (NP (PRP you)))))
+K/KE/KE2.xml,KE2RE038,39407,4,,B,4,1,Thank you,"[Thank/VB, you/PRP]",(ROOT (S (VP (VB Thank) (NP (PRP you)))))
+K/KE/KE2.xml,KE2RE038,39407,5,,A,5,1,A bit thick isn't it?,"[A/DT, bit/NN, thick/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (DT A) (ADJP (NN bit) (JJ thick)) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
+K/KE/KE2.xml,KE2RE038,39407,6,,B,6,1,Isn't it just?,"[Isn/NNP, 't/PRP, it/PRP, just/RB, ?/.]",(ROOT (NP (NP (NNP Isn)) (NP (NP (PRP 't)) (NP (NP (PRP it)) (ADVP (RB just)))) (. ?)))
+K/KE/KE2.xml,KE2RE038,39407,7,,A,7,1,"Yeah, okay ","[Yeah/UH, ,/,, okay/JJ]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (JJ okay))))"

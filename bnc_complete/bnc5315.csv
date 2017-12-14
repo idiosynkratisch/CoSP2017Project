@@ -1,0 +1,14 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCD.xml,KCDRE036,5315,0,,A,1,1,That one worked fine.,"[That/DT, one/CD, worked/VBD, fine/NN, ./.]",(ROOT (S (NP (DT That) (CD one)) (VP (VBD worked) (NP (NN fine))) (. .)))
+K/KC/KCD.xml,KCDRE036,5315,1,,B,2,1,"Oh, good.","[Oh/UH, ,/,, good/JJ, ./.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (JJ good)) (. .)))"
+K/KC/KCD.xml,KCDRE036,5315,2,,A,3,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KC/KCD.xml,KCDRE036,5315,3,,B,4,1,I think it'll probably got the other one.,"[I/PRP, think/VBP, it/PRP, 'll/MD, probably/RB, got/VBD, the/DT, other/JJ, one/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (MD 'll) (ADVP (RB probably)) (VP (VBD got) (NP (DT the) (JJ other) (CD one))))))) (. .)))
+K/KC/KCD.xml,KCDRE036,5315,4,,A,5,1,Do what?,"[Do/VB, what/WP, ?/.]",(ROOT (S (VP (VB Do) (FRAG (SBARQ (WHNP (WP what)) (. ?))))))
+K/KC/KCD.xml,KCDRE036,5315,5,,B,6,1,I think I've got another one.,"[I/PRP, think/VBP, I/PRP, 've/VBP, got/VBD, another/DT, one/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT another) (CD one))))))) (. .)))
+K/KC/KCD.xml,KCDRE036,5315,6,,B,6,2,"The other one, completing the other.<talk in background> .","[The/DT, other/JJ, one/CD, ,/,, completing/VBG, the/DT, other/JJ, ./., ./.]","(ROOT (NP (NP (DT The)) (SBAR (FRAG (ADJP (JJ other) (NP (CD one))) (, ,) (VP (VBG completing) (NP (DT the) (JJ other))) (. .))) (. .)))"
+K/KC/KCD.xml,KCDRE036,5315,7,,A,7,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KCD.xml,KCDRE036,5315,8,,B,8,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KC/KCD.xml,KCDRE036,5315,9,,A,9,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KC/KCD.xml,KCDRE036,5315,10,,B,10,1,"Right, so if I cut the top of this.","[Right/NN, ,/,, so/RB, if/IN, I/PRP, cut/VBD, the/DT, top/NN, of/IN, this/DT, ./.]","(ROOT (FRAG (NP (NN Right)) (, ,) (SBAR (RB so) (IN if) (S (NP (PRP I)) (VP (VBD cut) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (DT this))))))) (. .)))"
+K/KC/KCD.xml,KCDRE036,5315,11,,B,10,2,"So I think we put the, take the other one off and paper it.","[So/IN, I/PRP, think/VBP, we/PRP, put/VBD, the/DT, ,/,, take/VB, the/DT, other/JJ, one/CD, off/RB, and/CC, paper/NN, it/PRP, ./.]","(ROOT (S (IN So) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (VBD put) (NP (DT the)) (, ,) (S (VP (VB take) (NP (DT the) (JJ other) (CD one)) (ADVP (RB off))))))))) (CC and) (S (NP (NN paper)) (NP (PRP it))) (. .)))"
+K/KC/KCD.xml,KCDRE036,5315,12,,A,11,1,(()) .,[./.],(ROOT (NP (. .)))

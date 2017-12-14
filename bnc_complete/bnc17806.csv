@@ -1,0 +1,15 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KD0.xml,KD0RE022,17806,0,,A,1,1,Dad.,"[Dad/NNP, ./.]",(ROOT (FRAG (NP (NNP Dad)) (. .)))
+K/KD/KD0.xml,KD0RE022,17806,1,,A,1,2,D'you know what that guy's name is?,"[D/NNP, 'you/NNP, know/VB, what/WP, that/DT, guy/NN, 's/POS, name/NN, is/VBZ, ?/.]",(ROOT (S (NP (NNP D) (NNP 'you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (NP (DT that) (NN guy) (POS 's)) (NN name)) (VP (VBZ is))))) (. ?)))
+K/KD/KD0.xml,KD0RE022,17806,2,,B,2,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
+K/KD/KD0.xml,KD0RE022,17806,3,,A,3,1,Desmond.,"[Desmond/NNP, ./.]",(ROOT (FRAG (NP (NNP Desmond)) (. .)))
+K/KD/KD0.xml,KD0RE022,17806,4,,B,4,1,Which one is Desmond?,"[Which/WDT, one/NN, is/VBZ, Desmond/NNP, ?/.]",(ROOT (SBARQ (WHNP (WDT Which) (NN one)) (SQ (VBZ is) (NP (NNP Desmond))) (. ?)))
+K/KD/KD0.xml,KD0RE022,17806,5,,A,5,1,<laughing> Desmond!</laughing> ,"[Desmond/NNP, !/.]",(ROOT (FRAG (NP (NNP Desmond)) (. !)))
+K/KD/KD0.xml,KD0RE022,17806,6,,B,6,1,Which one?,"[Which/WDT, one/CD, ?/.]",(ROOT (FRAG (WHNP (WDT Which) (NP (CD one))) (. ?)))
+K/KD/KD0.xml,KD0RE022,17806,7,,B,6,2,Oh the old one?,"[Oh/UH, the/DT, old/JJ, one/CD, ?/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT the) (JJ old) (CD one)))) (. ?)))
+K/KD/KD0.xml,KD0RE022,17806,8,,A,7,1,Yeah Desmond  <singing> doo doo doo Desmond.,"[Yeah/UH, Desmond/NNP, doo/NNP, doo/NNP, doo/NNP, Desmond/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Yeah)) (NP (NNP Desmond) (NNP doo) (NNP doo) (NNP doo) (NNP Desmond)))) (. .)))
+K/KD/KD0.xml,KD0RE022,17806,9,,A,7,2,His name is Desmond.,"[His/PRP$, name/NN, is/VBZ, Desmond/NNP, ./.]",(ROOT (S (NP (PRP$ His) (NN name)) (VP (VBZ is) (NP (NNP Desmond))) (. .)))
+K/KD/KD0.xml,KD0RE022,17806,10,,A,7,3,Da da da Desmond.,"[Da/NN, da/NN, da/NN, Desmond/NNP, ./.]",(ROOT (NP (NP (NN Da) (NN da) (NN da)) (NP (NNP Desmond)) (. .)))
+K/KD/KD0.xml,KD0RE022,17806,11,,A,7,4,His name is Desmond.,"[His/PRP$, name/NN, is/VBZ, Desmond/NNP, ./.]",(ROOT (S (NP (PRP$ His) (NN name)) (VP (VBZ is) (NP (NNP Desmond))) (. .)))
+K/KD/KD0.xml,KD0RE022,17806,12,,A,7,5,"Desmond, his name is Desmond.","[Desmond/NNP, ,/,, his/PRP$, name/NN, is/VBZ, Desmond/NNP, ./.]","(ROOT (S (NP (NNP Desmond)) (, ,) (NP (PRP$ his) (NN name)) (VP (VBZ is) (NP (NNP Desmond))) (. .)))"
+K/KD/KD0.xml,KD0RE022,17806,13,,A,7,6,Da da da da </singing> .,"[Da/NN, da/NN, da/NN, da/NN, ./.]",(ROOT (FRAG (NP (NN Da) (NN da) (NN da) (NN da)) (. .)))

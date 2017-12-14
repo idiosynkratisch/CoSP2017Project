@@ -1,0 +1,42 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE6.xml,KE6RE00Y,37303,0,,A,1,1,"<cough> Oh God, those blasted sweets!","[Oh/UH, God/NNP, ,/,, those/DT, blasted/VBD, sweets/NNS, !/.]","(ROOT (S (INTJ (UH Oh) (NNP God)) (, ,) (NP (DT those)) (VP (VBD blasted) (NP (NNS sweets))) (. !)))"
+K/KE/KE6.xml,KE6RE00Y,37303,1,,B,2,1,He looks  (()) that I know mum.,"[He/PRP, looks/VBZ, that/IN, I/PRP, know/VBP, mum/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ looks) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP know) (NP (NN mum)))))) (. .)))
+K/KE/KE6.xml,KE6RE00Y,37303,2,,A,3,1,Does he really?,"[Does/VBZ, he/PRP, really/RB, ?/.]",(ROOT (S (VP (VBZ Does) (NP (PRP he)) (ADVP (RB really))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,3,,B,4,1,"The, long hair I reckon.","[The/DT, ,/,, long/RB, hair/NN, I/PRP, reckon/VBP, ./.]","(ROOT (S (NP (DT The)) (, ,) (X (ADVP (RB long)) (NP (NN hair))) (NP (PRP I)) (VP (VBP reckon)) (. .)))"
+K/KE/KE6.xml,KE6RE00Y,37303,4,,A,5,1,What there?,"[What/WDT, there/EX, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (EX there))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,5,,A,5,2,"Yeah, that's a mole.","[Yeah/UH, ,/,, that/DT, 's/VBZ, a/DT, mole/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (DT a) (NN mole))) (. .)))"
+K/KE/KE6.xml,KE6RE00Y,37303,6,,B,6,1,Cos then it catches the light.,"[Cos/NNP, then/RB, it/PRP, catches/VBZ, the/DT, light/NN, ./.]",(ROOT (S (NP (NNP Cos)) (RB then) (NP (PRP it)) (VP (VBZ catches) (NP (DT the) (NN light))) (. .)))
+K/KE/KE6.xml,KE6RE00Y,37303,7,,A,7,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KE/KE6.xml,KE6RE00Y,37303,8,,B,8,1,It looks like a line.,"[It/PRP, looks/VBZ, like/IN, a/DT, line/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ looks) (PP (IN like) (NP (DT a) (NN line)))) (. .)))
+K/KE/KE6.xml,KE6RE00Y,37303,9,,A,9,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE00Y,37303,10,,B,10,1,Which makes him real menacing!,"[Which/WDT, makes/VBZ, him/PRP, real/JJ, menacing/JJ, !/.]",(ROOT (S (NP (WDT Which)) (VP (VBZ makes) (S (NP (PRP him)) (ADJP (JJ real) (JJ menacing)))) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,11,,A,11,1,Mm!,"[Mm/NN, !/.]",(ROOT (NP (NN Mm) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,12,,B,12,1,Horrible!,"[Horrible/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Horrible)) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,13,,A,13,1,Mm!(()) innit?,"[Mm/NN, !/., innit/NNP, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. !) (NP (NNP innit)) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,14,,B,14,1,"<singing> children of my own, they asked what will I be?","[children/NNS, of/IN, my/PRP$, own/JJ, ,/,, they/PRP, asked/VBD, what/WP, will/MD, I/PRP, be/VB, ?/.]","(ROOT (S (S (NP (NP (NNS children)) (PP (IN of) (NP (PRP$ my) (JJ own))))) (, ,) (NP (PRP they)) (VP (VBD asked) (SBAR (SBARQ (WHNP (WP what)) (SQ (MD will) (NP (PRP I)) (VP (VB be)))))) (. ?)))"
+K/KE/KE6.xml,KE6RE00Y,37303,15,,B,14,2,Will I (()) ?,"[Will/MD, I/PRP, ?/.]",(ROOT (S (VP (MD Will) (VP (NP (PRP I)))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,16,,B,14,3,Will I be rich?,"[Will/MD, I/PRP, be/VB, rich/JJ, ?/.]",(ROOT (SQ (MD Will) (NP (PRP I)) (VP (VB be) (ADJP (JJ rich))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,17,,B,14,4,"Ca cera cera, whatever will be will be, the future's not ours to see, Ca cera cera, what will be  --","[Ca/NNP, cera/NNP, cera/NNP, ,/,, whatever/WDT, will/MD, be/VB, will/MD, be/VB, ,/,, the/DT, future/NN, 's/POS, not/RB, ours/JJ, to/TO, see/VB, ,/,, Ca/MD, cera/NNP, cera/NNP, ,/,, what/WP, will/MD, be/VB, Ca/JJ, cera/NNP, cera/NNP, !/.]","(ROOT (S (NP (NNP Ca) (NNP cera) (NNP cera)) (, ,) (SBAR (WHNP (WDT whatever)) (S (VP (MD will) (VP (VB be) (VP (MD will) (VP (VB be))))))) (, ,) (S (NP (DT the) (NN future) (POS 's)) (X (X (RB not)) (ADJP (JJ ours) (S (VP (TO to) (VP (VB see))))))) (, ,) (VP (MD Ca) (S (NP (NP (NP (NNP cera) (NNP cera)) (, ,) (SBAR (WHNP (WP what)) (S (VP (MD will) (VP (VB be) (ADJP (JJ Ca))))))) (NP (NNP cera) (NNP cera))))) (. !)))"
+K/KE/KE6.xml,KE6RE00Y,37303,18,,B,14,5,--Ca cera cera </singing> !,"[Ca/NNP, cera/NNP, cera/NNP, ,/,, whatever/WDT, will/MD, be/VB, will/MD, be/VB, ,/,, the/DT, future/NN, 's/POS, not/RB, ours/JJ, to/TO, see/VB, ,/,, Ca/MD, cera/NNP, cera/NNP, ,/,, what/WP, will/MD, be/VB, Ca/JJ, cera/NNP, cera/NNP, !/.]","(ROOT (S (NP (NNP Ca) (NNP cera) (NNP cera)) (, ,) (SBAR (WHNP (WDT whatever)) (S (VP (MD will) (VP (VB be) (VP (MD will) (VP (VB be))))))) (, ,) (S (NP (DT the) (NN future) (POS 's)) (X (X (RB not)) (ADJP (JJ ours) (S (VP (TO to) (VP (VB see))))))) (, ,) (VP (MD Ca) (S (NP (NP (NP (NNP cera) (NNP cera)) (, ,) (SBAR (WHNP (WP what)) (S (VP (MD will) (VP (VB be) (ADJP (JJ Ca))))))) (NP (NNP cera) (NNP cera))))) (. !)))"
+K/KE/KE6.xml,KE6RE00Y,37303,19,,A,15,1,<yawning> Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,20,,A,15,2,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,21,,A,15,3,Oh </yawning> !,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,22,,A,15,4,Urgh!(()) ,"[Urgh/NN, !/.]",(ROOT (NP (NN Urgh) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,23,,B,16,1,(()) --,"[that/DT, 's/VBZ, horrible/JJ, innit/NN, ?/.]",(ROOT (SBARQ (WHADVP (DT that)) (SQ (VBZ 's) (NP (JJ horrible) (NN innit))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,24,,B,16,2,--that's horrible innit?,"[that/DT, 's/VBZ, horrible/JJ, innit/NN, ?/.]",(ROOT (SBARQ (WHADVP (DT that)) (SQ (VBZ 's) (NP (JJ horrible) (NN innit))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,25,,B,16,3,It looks awful!,"[It/PRP, looks/VBZ, awful/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ looks) (ADJP (JJ awful))) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,26,,B,16,4,Looks like Granny <<REDACTED (name)>> .,"[Looks/NNS, like/IN, Granny/NNP, >/JJR, ./.]",(ROOT (NP (NP (NP (NNS Looks)) (PP (IN like) (NP (NNP Granny)))) (ADJP (JJR >)) (. .)))
+K/KE/KE6.xml,KE6RE00Y,37303,27,,A,17,1,<laugh> --,"[Does/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Does) (NP (PRP it))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,28,,A,17,2,--Does it?,"[Does/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Does) (NP (PRP it))) (. ?)))
+K/KE/KE6.xml,KE6RE00Y,37303,29,,B,18,1,Well really!,"[Well/RB, really/RB, !/.]",(ROOT (FRAG (ADVP (RB Well)) (RB really) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,30,,A,19,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE6.xml,KE6RE00Y,37303,31,,B,20,1,"And this, bit (()) .","[And/CC, this/DT, ,/,, bit/NN, ./.]","(ROOT (FRAG (CC And) (NP (NP (DT this)) (, ,) (NP (NN bit)) (. .))))"
+K/KE/KE6.xml,KE6RE00Y,37303,32,,B,20,2,I have!,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,33,,B,20,3,I have!,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,34,,B,20,4,I have!,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,35,,B,20,5,I have!,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,36,,A,21,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE00Y,37303,37,,B,22,1,I have!,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,38,,B,22,2,I have!(()) ,"[I/PRP, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP have)) (. !)))
+K/KE/KE6.xml,KE6RE00Y,37303,39,,A,23,1,<laugh> ,[],X
+K/KE/KE6.xml,KE6RE00Y,37303,40,,B,24,1,"<yawning> Yoh, ho ho ho ho ho </yawning> !","[Yoh/NNP, ,/,, ho/NNP, ho/NNP, ho/NNP, ho/NNP, ho/NNP, !/.]","(ROOT (NP (NP (NNP Yoh)) (, ,) (NP (NNP ho) (NNP ho) (NNP ho) (NNP ho) (NNP ho)) (. !)))"

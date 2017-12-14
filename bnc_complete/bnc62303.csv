@@ -1,0 +1,22 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB9.xml,KB9RE00E,62303,0,,A,1,1,Oh that's nice Tracy!,"[Oh/UH, that/DT, 's/VBZ, nice/JJ, Tracy/NNP, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (JJ nice) (NNP Tracy)))) (. !)))
+K/KB/KB9.xml,KB9RE00E,62303,1,,A,1,2,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KB/KB9.xml,KB9RE00E,62303,2,,A,1,3,(()) then you can pay me off if you want.,"[then/RB, you/PRP, can/MD, pay/VB, me/PRP, off/RP, if/IN, you/PRP, want/VBP, ./.]",(ROOT (S (ADVP (RB then)) (NP (PRP you)) (VP (MD can) (VP (VB pay) (NP (PRP me)) (ADVP (RP off)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want)))))) (. .)))
+K/KB/KB9.xml,KB9RE00E,62303,3,,B,2,1,It's alright.,"[It/PRP, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
+K/KB/KB9.xml,KB9RE00E,62303,4,,B,2,2,"With that, and that.","[With/IN, that/DT, ,/,, and/CC, that/IN, ./.]","(ROOT (FRAG (PP (IN With) (WHNP (WHNP (DT that)) (PRN (, ,) (CC and) (ADVP (IN that))))) (. .)))"
+K/KB/KB9.xml,KB9RE00E,62303,5,,A,3,1,Oh that's expensive!,"[Oh/UH, that/DT, 's/VBZ, expensive/JJ, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ expensive)))) (. !)))
+K/KB/KB9.xml,KB9RE00E,62303,6,,B,4,1,Eleven  --,"[Eleven/CD, ten/CD, ,/,, and/CC, eleven/NNS, ./.]","(ROOT (NP (NP (CD Eleven)) (NP (NP (CD ten)) (, ,) (CC and) (NP (NNS eleven))) (. .)))"
+K/KB/KB9.xml,KB9RE00E,62303,7,,B,4,2,"--ten, and eleven.","[Eleven/CD, ten/CD, ,/,, and/CC, eleven/NNS, ./.]","(ROOT (NP (NP (CD Eleven)) (NP (NP (CD ten)) (, ,) (CC and) (NP (NNS eleven))) (. .)))"
+K/KB/KB9.xml,KB9RE00E,62303,8,,A,5,1,Why don't you get them?,"[Why/WRB, don/NNP, 't/PRP, you/PRP, get/VBP, them/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why) (NP (NP (NNP don)) (NP (PRP 't)))) (S (NP (PRP you)) (VP (VBP get) (NP (PRP them)))) (. ?)))
+K/KB/KB9.xml,KB9RE00E,62303,9,,A,5,2,Thirty quid's just enough.,"[Thirty/CD, quid/NNP, 's/POS, just/RB, enough/RB, ./.]",(ROOT (NP (NP (CD Thirty)) (NP (NP (NNP quid) (POS 's)) (NP (RB just) (RB enough))) (. .)))
+K/KB/KB9.xml,KB9RE00E,62303,10,,B,6,1,I don't like those.,"[I/PRP, don/VBP, 't/PRP, like/IN, those/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (DT those)))) (. .)))
+K/KB/KB9.xml,KB9RE00E,62303,11,,B,6,2,I like that one.,"[I/PRP, like/VBP, that/IN, one/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (ADVP (IN that) (NP (CD one)))) (. .)))
+K/KB/KB9.xml,KB9RE00E,62303,12,,A,7,1,The red ones?,"[The/DT, red/JJ, ones/NNS, ?/.]",(ROOT (FRAG (NP (DT The) (JJ red) (NNS ones)) (. ?)))
+K/KB/KB9.xml,KB9RE00E,62303,13,,A,7,2,What about with a (()) ?,"[What/WP, about/IN, with/IN, a/DT, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about) (PP (IN with) (NP (DT a)))) (. ?)))
+K/KB/KB9.xml,KB9RE00E,62303,14,,B,8,1,No I don't like them.,"[No/DT, I/PRP, don/VBP, 't/PRP, like/IN, them/PRP, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP them)))) (. .)))
+K/KB/KB9.xml,KB9RE00E,62303,15,,A,9,1,Get a (()) ?,"[Get/VB, a/DT, ?/.]",(ROOT (SQ (VP (VB Get) (NP (DT a))) (. ?)))
+K/KB/KB9.xml,KB9RE00E,62303,16,,B,10,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE00E,62303,17,,A,11,1,"No it's not, those erm  --","[No/DT, it/PRP, 's/VBZ, not/RB, ,/,, those/DT, erm/NN, they/PRP, 're/VBP, like/IN, those/DT, leggings/NNS, it/PRP, 's/VBZ]","(ROOT (S (NP (DT No) (PRP it)) (VP (VP (VBZ 's) (RB not)) (, ,) (NP (NP (DT those) (NN erm)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (DT those) (NNS leggings)) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))))))"
+K/KB/KB9.xml,KB9RE00E,62303,18,,A,11,2,--they're like those leggings it's,"[No/DT, it/PRP, 's/VBZ, not/RB, ,/,, those/DT, erm/NN, they/PRP, 're/VBP, like/IN, those/DT, leggings/NNS, it/PRP, 's/VBZ]","(ROOT (S (NP (DT No) (PRP it)) (VP (VP (VBZ 's) (RB not)) (, ,) (NP (NP (DT those) (NN erm)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (DT those) (NNS leggings)) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))))))"
+K/KB/KB9.xml,KB9RE00E,62303,19,,B,12,1,Very comfy then?,"[Very/RB, comfy/JJ, then/RB, ?/.]",(ROOT (FRAG (PP (PP (ADVP (RB Very)) (ADJP (JJ comfy))) (ADVP (RB then))) (. ?)))
+K/KB/KB9.xml,KB9RE00E,62303,20,,A,13,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

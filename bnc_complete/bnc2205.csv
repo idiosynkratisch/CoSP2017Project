@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE015,2205,0,,A,1,1,Is there any oil and vinegar on here?,"[Is/VBZ, there/EX, any/DT, oil/NN, and/CC, vinegar/NN, on/IN, here/RB, ?/.]",(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (NP (DT any) (NN oil) (CC and) (NN vinegar)) (PP (IN on) (NP (RB here)))) (. ?)))
+K/KB/KBK.xml,KBKRE015,2205,1,,B,2,1,"No, cos there's  (()) sauce of ","[No/DT, ,/,, cos/NN, there/EX, 's/VBZ, sauce/NN, of/IN]","(ROOT (FRAG (NP (NP (DT No)) (, ,) (NP (NP (NN cos)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NN sauce)) (PP (IN of))))))))))"
+K/KB/KBK.xml,KBKRE015,2205,2,,A,3,1,(()) meat.,"[meat/NN, ./.]",(ROOT (NP (NN meat) (. .)))
+K/KB/KBK.xml,KBKRE015,2205,3,,B,4,1,No (()) .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))

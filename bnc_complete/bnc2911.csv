@@ -1,0 +1,13 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE06A,2911,0,,A,1,1,Her birthday's the fourteenth.,"[Her/PRP$, birthday/NN, 's/VBZ, the/DT, fourteenth/JJ, ./.]",(ROOT (S (NP (PRP$ Her) (NN birthday)) (VP (VBZ 's) (NP (DT the) (JJ fourteenth))) (. .)))
+K/KB/KBK.xml,KBKRE06A,2911,1,,A,1,2,Do you know which day of the week that is?,"[Do/VB, you/PRP, know/VB, which/WDT, day/NN, of/IN, the/DT, week/NN, that/WDT, is/VBZ, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WHNP (WDT which) (NN day)) (PP (IN of) (NP (DT the) (NN week)))) (S (NP (WDT that)) (VP (VBZ is))))))) (. ?)))
+K/KB/KBK.xml,KBKRE06A,2911,2,,B,2,1,I know the first is a Monday.,"[I/PRP, know/VBP, the/DT, first/JJ, is/VBZ, a/DT, Monday/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (DT the) (JJ first)) (VP (VBZ is) (NP (DT a) (NNP Monday)))))) (. .)))
+K/KB/KBK.xml,KBKRE06A,2911,3,,A,3,1,So the fifteenth will be a Monday.,"[So/IN, the/DT, fifteenth/NNP, will/MD, be/VB, a/DT, Monday/NNP, ./.]",(ROOT (S (IN So) (NP (DT the) (NNP fifteenth)) (VP (MD will) (VP (VB be) (NP (DT a) (NNP Monday)))) (. .)))
+K/KB/KBK.xml,KBKRE06A,2911,4,,A,3,2,So the fourteenth will be a Sunday.,"[So/IN, the/DT, fourteenth/JJ, will/MD, be/VB, a/DT, Sunday/NNP, ./.]",(ROOT (S (IN So) (NP (DT the) (JJ fourteenth)) (VP (MD will) (VP (VB be) (NP (DT a) (NNP Sunday)))) (. .)))
+K/KB/KBK.xml,KBKRE06A,2911,5,,B,4,1,How long have you been working on that?,"[How/WRB, long/RB, have/VBP, you/PRP, been/VBN, working/VBG, on/IN, that/IN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (RB long)) (SQ (VBP have) (NP (PRP you)) (VP (VBN been) (VP (VBG working) (PP (IN on) (ADVP (IN that)))))) (. ?)))
+K/KB/KBK.xml,KBKRE06A,2911,6,,A,5,1,Saturday.,"[Saturday/NNP, ./.]",(ROOT (FRAG (NP (NNP Saturday)) (. .)))
+K/KB/KBK.xml,KBKRE06A,2911,7,,A,5,2,She finishes in August did you say?,"[She/PRP, finishes/VBZ, in/IN, August/NNP, did/VBD, you/PRP, say/VB, ?/.]",(ROOT (S (NP (PRP She)) (VP (VBZ finishes) (SBAR (IN in) (S (NP (NNP August)) (VP (VBD did) (S (NP (PRP you)) (VP (VB say))))))) (. ?)))
+K/KB/KBK.xml,KBKRE06A,2911,8,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06A,2911,9,,A,7,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
+K/KB/KBK.xml,KBKRE06A,2911,10,,A,7,2,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
+K/KB/KBK.xml,KBKRE06A,2911,11,,A,7,3,Thank you.(()) ,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))

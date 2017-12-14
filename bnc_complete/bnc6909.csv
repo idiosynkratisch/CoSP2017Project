@@ -1,0 +1,26 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDE.xml,KDERE00S,6909,0,,A,1,1,What noise they make?,"[What/WDT, noise/NN, they/PRP, make/VBP, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN noise)) (SQ (NP (PRP they)) (VP (VBP make))) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,1,,B,2,1,What noise do doggies make?,"[What/WDT, noise/NN, do/VBP, doggies/NNS, make/VB, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN noise)) (SQ (VBP do) (NP (NNS doggies)) (VP (VB make))) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,2,,A,3,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,3,,B,4,1,What noise do you think doggies make?,"[What/WDT, noise/NN, do/VBP, you/PRP, think/VB, doggies/NNS, make/VB, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN noise)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (S (NP (NNS doggies)) (VP (VB make))))) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,4,,A,5,1,Woof woof.,"[Woof/NNP, woof/NNP, ./.]",(ROOT (NP (NNP Woof) (NNP woof) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,5,,B,6,1,Woof woof?,"[Woof/NNP, woof/NNP, ?/.]",(ROOT (NP (NNP Woof) (NNP woof) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,6,,A,7,1,Mm that's what they do.,"[Mm/NN, that/WDT, 's/VBZ, what/WP, they/PRP, do/VBP, ./.]",(ROOT (FRAG (NP (NP (NN Mm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP do)))))))) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,7,,B,8,1,Do they?,"[Do/VB, they/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP they))) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,8,,A,9,1,I got pussycat.,"[I/PRP, got/VBD, pussycat/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD got) (NP (NN pussycat))) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,9,,B,10,1,"You've got a pussycat, that's right.","[You/PRP, 've/VBP, got/VBD, a/DT, pussycat/NN, ,/,, that/DT, 's/VBZ, right/NN, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN pussycat))))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NN right))) (. .)))"
+K/KD/KDE.xml,KDERE00S,6909,10,,A,11,1,(()) ?,[?/.],(ROOT (NP (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,11,,B,12,1,Pardon darling?,"[Pardon/NN, darling/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon) (NN darling)) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,12,,A,13,1,I saw a doggie with daddy.,"[I/PRP, saw/VBD, a/DT, doggie/NN, with/IN, daddy/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD saw) (NP (DT a) (NN doggie)) (PP (IN with) (NP (NN daddy)))) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,13,,B,14,1,"You saw that, you saw that doggie with daddy?","[You/PRP, saw/VBD, that/IN, ,/,, you/PRP, saw/VBD, that/IN, doggie/NN, with/IN, daddy/NNP, ?/.]","(ROOT (S (NP (PRP You)) (VP (VBD saw) (SBAR (IN that) (, ,) (S (NP (PRP you)) (VP (VBD saw) (PP (IN that) (NP (NN doggie))) (PP (IN with) (NP (NNP daddy))))))) (. ?)))"
+K/KD/KDE.xml,KDERE00S,6909,14,,A,15,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,15,,B,16,1,And what's his name?,"[And/CC, what/WP, 's/VBZ, his/PRP$, name/NN, ?/.]",(ROOT (SBARQ (CC And) (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP$ his) (NN name))) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,16,,A,17,1,Mm I don't know what it's,"[Mm/NN, I/PRP, don/VBP, 't/PRP, know/VB, what/WP, it/PRP, 's/VBZ]",(ROOT (FRAG (NP (NP (NN Mm)) (SBAR (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ 's))))))))))))
+K/KD/KDE.xml,KDERE00S,6909,17,,B,18,1,His name is Barney.,"[His/PRP$, name/NN, is/VBZ, Barney/NNP, ./.]",(ROOT (S (NP (PRP$ His) (NN name)) (VP (VBZ is) (NP (NNP Barney))) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,18,,B,18,2,Isn't it?,"[Isn/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (NNP Isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
+K/KD/KDE.xml,KDERE00S,6909,19,,A,19,1,He's barmy as well.,"[He/PRP, 's/VBZ, barmy/JJ, as/RB, well/RB, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ barmy)) (ADVP (RB as) (RB well))) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,20,,B,20,1,No Barney.,"[No/DT, Barney/NNP, ./.]",(ROOT (FRAG (NP (DT No) (NNP Barney)) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,21,,B,20,2,"That's what his name is, Barney.","[That/DT, 's/VBZ, what/WP, his/PRP$, name/NN, is/VBZ, ,/,, Barney/NNP, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP$ his) (NN name)) (VP (VBZ is) (, ,) (NP (NNP Barney)))))) (. .)))"
+K/KD/KDE.xml,KDERE00S,6909,22,,B,20,3,There we are.,"[There/EX, we/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP are)) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,23,,B,20,4,Woops a daisy.,"[Woops/NNP, a/DT, daisy/NNP, ./.]",(ROOT (NP (NP (NNP Woops)) (NP (DT a) (NNP daisy)) (. .)))
+K/KD/KDE.xml,KDERE00S,6909,24,,B,20,5,Right come out in the hallway and take your coat and shoes off.,"[Right/JJ, come/VBN, out/RP, in/IN, the/DT, hallway/NN, and/CC, take/VB, your/PRP$, coat/NN, and/CC, shoes/NNS, off/RB, ./.]",(ROOT (NP (NP (JJ Right)) (VP (VP (VBN come) (PRT (RP out)) (PP (IN in) (NP (DT the) (NN hallway)))) (CC and) (VP (VB take) (NP (PRP$ your) (NN coat) (CC and) (NNS shoes)) (ADVP (RB off)))) (. .)))

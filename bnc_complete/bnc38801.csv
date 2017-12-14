@@ -1,0 +1,11 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE01M,38801,0,,A,1,1,They reckon the driver of that car fell asleep!,"[They/PRP, reckon/VBP, the/DT, driver/NN, of/IN, that/DT, car/NN, fell/VBD, asleep/RB, !/.]",(ROOT (S (NP (PRP They)) (VP (VBP reckon) (SBAR (S (NP (NP (DT the) (NN driver)) (PP (IN of) (NP (DT that) (NN car)))) (VP (VBD fell) (ADJP (RB asleep)))))) (. !)))
+K/KE/KE2.xml,KE2RE01M,38801,1,,B,2,1,Gosh!,"[Gosh/NNP, !/.]",(ROOT (FRAG (NP (NNP Gosh)) (. !)))
+K/KE/KE2.xml,KE2RE01M,38801,2,,A,3,1,Because apparently there was no brake marks on the road at all!,"[Because/IN, apparently/RB, there/EX, was/VBD, no/DT, brake/NNP, marks/NNS, on/IN, the/DT, road/NN, at/IN, all/DT, !/.]",(ROOT (S (PP (IN Because) (ADVP (RB apparently))) (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NNP brake) (NNS marks)) (PP (IN on) (NP (NP (DT the) (NN road)) (ADVP (IN at) (DT all)))))) (. !)))
+K/KE/KE2.xml,KE2RE01M,38801,3,,A,3,2,Just swerved off into the erm,"[Just/RB, swerved/VBN, off/RP, into/IN, the/DT, erm/NN]",(ROOT (S (VP (ADVP (RB Just)) (VBN swerved) (PRT (RP off)) (PP (IN into) (NP (DT the) (NN erm))))))
+K/KE/KE2.xml,KE2RE01M,38801,4,,B,4,1,Probably  (()) ,[Probably/RB],(ROOT (ADVP (RB Probably)))
+K/KE/KE2.xml,KE2RE01M,38801,5,,A,5,1,hard shoulder.,"[hard/JJ, shoulder/NN, ./.]",(ROOT (NP (JJ hard) (NN shoulder) (. .)))
+K/KE/KE2.xml,KE2RE01M,38801,6,,B,6,1,safely.,"[safely/RB, ./.]",(ROOT (FRAG (ADVP (RB safely)) (. .)))
+K/KE/KE2.xml,KE2RE01M,38801,7,,B,6,2,Yo- mean you know cos of,"[Yo-/JJ, mean/NN, you/PRP, know/VBP, cos/NN, of/IN]",(ROOT (FRAG (NP (NP (JJ Yo-) (NN mean)) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NP (NN cos)) (PP (IN of)))))))))
+K/KE/KE2.xml,KE2RE01M,38801,8,,A,7,1,Yeah that's right.,"[Yeah/UH, that/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (DT that)) (VP (VBZ 's) (NP (NN right)))) (. .)))
+K/KE/KE2.xml,KE2RE01M,38801,9,,B,8,1,Been a nasty accident happening to us.,"[Been/VBN, a/DT, nasty/JJ, accident/NN, happening/VBG, to/TO, us/PRP, ./.]",(ROOT (S (VP (VBN Been) (NP (NP (DT a) (JJ nasty) (NN accident)) (VP (VBG happening) (PP (TO to) (NP (PRP us)))))) (. .)))

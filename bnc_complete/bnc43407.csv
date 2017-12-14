@@ -1,0 +1,12 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KS/KSV.xml,KSVRE00L,43407,0,,A,1,1,Two gammon  --,"[Two/CD, gammon/JJ, salads/NNS, ./.]",(ROOT (NP (NP (CD Two)) (NP (JJ gammon) (NNS salads)) (. .)))
+K/KS/KSV.xml,KSVRE00L,43407,1,,A,1,2,--salads.,"[Two/CD, gammon/JJ, salads/NNS, ./.]",(ROOT (NP (NP (CD Two)) (NP (JJ gammon) (NNS salads)) (. .)))
+K/KS/KSV.xml,KSVRE00L,43407,2,,A,1,3,Sodding well running after you!,"[Sodding/VBG, well/RB, running/VBG, after/IN, you/PRP, !/.]",(ROOT (S (VP (VBG Sodding) (ADVP (RB well)) (S (VP (VBG running) (PP (IN after) (NP (PRP you)))))) (. !)))
+K/KS/KSV.xml,KSVRE00L,43407,3,,A,1,4,It's not fair!,"[It/PRP, 's/VBZ, not/RB, fair/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADJP (JJ fair))) (. !)))
+K/KS/KSV.xml,KSVRE00L,43407,4,,B,2,1,Perfectly fair (()) .,"[Perfectly/RB, fair/JJ, ./.]",(ROOT (FRAG (ADJP (RB Perfectly) (JJ fair)) (. .)))
+K/KS/KSV.xml,KSVRE00L,43407,5,,B,2,2,Ah shut up Richard!,"[Ah/NN, shut/VBD, up/RP, Richard/NNP, !/.]",(ROOT (S (NP (NN Ah)) (VP (VBD shut) (PRT (RP up)) (NP (NNP Richard))) (. !)))
+K/KS/KSV.xml,KSVRE00L,43407,6,,A,3,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
+K/KS/KSV.xml,KSVRE00L,43407,7,,A,3,2,I'm still here!,"[I/PRP, 'm/VBP, still/RB, here/RB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB still)) (ADVP (RB here))) (. !)))
+K/KS/KSV.xml,KSVRE00L,43407,8,,A,3,3,<laugh> --,"[Oi/NN, !/.]",(ROOT (NP (NN Oi) (. !)))
+K/KS/KSV.xml,KSVRE00L,43407,9,,A,3,4,--Oi!,"[Oi/NN, !/.]",(ROOT (NP (NN Oi) (. !)))
+K/KS/KSV.xml,KSVRE00L,43407,10,,A,3,5,It's here mum!,"[It/PRP, 's/VBZ, here/RB, mum/RB, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB here)) (ADVP (RB mum))) (. !)))

@@ -1,0 +1,30 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE3.xml,KE3RE00G,10303,0,,A,1,1,"That's Wales, is it North Wales?","[That/DT, 's/VBZ, Wales/NNP, ,/,, is/VBZ, it/PRP, North/JJ, Wales/NNP, ?/.]","(ROOT (SINV (S (NP (DT That)) (VP (VBZ 's) (NP (NNP Wales)))) (, ,) (VP (VBZ is) (ADJP (NP (PRP it)) (JJ North))) (NP (NNP Wales)) (. ?)))"
+K/KE/KE3.xml,KE3RE00G,10303,1,,A,1,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,2,,B,2,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,3,,A,3,1,"Yeah, how long did it take you to get up?","[Yeah/UH, ,/,, how/WRB, long/RB, did/VBD, it/PRP, take/VB, you/PRP, to/TO, get/VB, up/RP, ?/.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (WRB how)) (VP (ADVP (RB long)) (VBD did) (S (NP (PRP it)) (VP (VB take) (S (NP (PRP you)) (VP (TO to) (VP (VB get) (PRT (RP up)))))))) (. ?)))"
+K/KE/KE3.xml,KE3RE00G,10303,4,,B,4,1,(()) I went up (()) .,"[I/PRP, went/VBD, up/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD went) (ADVP (RB up))) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,5,,A,5,1,"Not that, yeah.","[Not/RB, that/IN, ,/,, yeah/UH, ./.]","(ROOT (FRAG (PP (ADVP (RB Not)) (IN that)) (, ,) (INTJ (UH yeah)) (. .)))"
+K/KE/KE3.xml,KE3RE00G,10303,6,,B,6,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,7,,A,7,1,"Yeah, yeah, yeah it must be because it's erm, is it two hundred miles or not quite?","[Yeah/UH, ,/,, yeah/UH, ,/,, yeah/UH, it/PRP, must/MD, be/VB, because/IN, it/PRP, 's/VBZ, erm/NN, ,/,, is/VBZ, it/PRP, two/CD, hundred/CD, miles/NNS, or/CC, not/RB, quite/RB, ?/.]","(ROOT (S (S (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (UH yeah) (, ,) (UH yeah))) (NP (PRP it)) (VP (MD must) (VP (VB be) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN erm)))))))) (, ,) (VP (VBZ is) (NP (PRP it))) (NP (NP (CD two) (CD hundred) (NNS miles)) (CC or) (NP (RB not) (RB quite))) (. ?)))"
+K/KE/KE3.xml,KE3RE00G,10303,8,,B,8,1,I don't know (()) .,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,9,,A,9,1,"Ah yeah, yeah, so what are the roads like is it  (()) any roads or","[Ah/NN, yeah/UH, ,/,, yeah/UH, ,/,, so/RB, what/WP, are/VBP, the/DT, roads/NNS, like/VBP, is/VBZ, it/PRP, any/DT, roads/NNS, or/CC]","(ROOT (FRAG (NP (NP (NN Ah)) (SBAR (S (S (INTJ (UH yeah) (, ,) (UH yeah)) (, ,) (S (ADJP (RB so) (SBAR (WHNP (WP what)) (S (VP (VBP are)))))) (NP (DT the) (NNS roads)) (VP (VBP like))) (VP (VBZ is) (NP (PRP it) (NP (DT any) (NX (NX (NNS roads)) (CC or))))))))))"
+K/KE/KE3.xml,KE3RE00G,10303,10,,B,10,1,Some of them are.(()) .,"[Some/DT, of/IN, them/PRP, are/VBP, ./., ./.]",(ROOT (S (NP (NP (DT Some)) (PP (IN of) (NP (PRP them)))) (VP (VBP are)) (. .) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,11,,A,11,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,12,,B,12,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,13,,A,13,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,14,,B,14,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,15,,A,15,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,16,,A,15,2,"Is it quite hilly er, quite twisty or what (()) .","[Is/VBZ, it/PRP, quite/RB, hilly/JJ, er/NN, ,/,, quite/RB, twisty/JJ, or/CC, what/WP, ./.]","(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (NP (RB quite) (JJ hilly)) (NP (NP (NN er)) (, ,) (UCP (ADJP (RB quite) (JJ twisty)) (CC or) (NP (WP what))))) (. .)))"
+K/KE/KE3.xml,KE3RE00G,10303,17,,B,16,1,It varies quite a lot.,"[It/PRP, varies/VBZ, quite/RB, a/DT, lot/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ varies) (NP (RB quite) (DT a) (NN lot))) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,18,,B,16,2,With erm  (()) in the dark it (()) .,"[With/IN, erm/NN, in/IN, the/DT, dark/JJ, it/PRP, ./.]",(ROOT (FRAG (PP (IN With) (NP (NP (NN erm)) (PP (IN in) (NP (DT the) (ADJP (JJ dark) (NP (PRP it))))))) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,19,,A,17,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,20,,B,18,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,21,,A,19,1,<laugh> .,[./.],(ROOT (NP (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,22,,B,20,1,And guess what they did (()) ,"[And/CC, guess/VB, what/WP, they/PRP, did/VBD]",(ROOT (FRAG (CC And) (S (VP (VB guess) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBD did))))))))
+K/KE/KE3.xml,KE3RE00G,10303,23,,A,21,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,24,,B,22,1,And that (()) .,"[And/CC, that/DT, ./.]",(ROOT (FRAG (CC And) (ADVP (DT that)) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,25,,A,23,1,"Mm, mm, yeah, yeah,(()) .","[Mm/NN, ,/,, mm/NN, ,/,, yeah/UH, ,/,, yeah/UH, ,/,, ./.]","(ROOT (NP (NP (NN Mm)) (PRN (, ,) (SBAR (WHNP (NP (NN mm)) (PRN (, ,) (INTJ (UH yeah)) (, ,))) (FRAG (INTJ (UH yeah)))) (, ,)) (. .)))"
+K/KE/KE3.xml,KE3RE00G,10303,26,,B,24,1,But it was such a lovely (()) .,"[But/CC, it/PRP, was/VBD, such/JJ, a/DT, lovely/JJ, ./.]",(ROOT (S (CC But) (NP (PRP it)) (VP (VBD was) (PP (JJ such) (NP (DT a) (JJ lovely)))) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,27,,A,25,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KE/KE3.xml,KE3RE00G,10303,28,,B,26,1,(()) .,[./.],(ROOT (NP (. .)))

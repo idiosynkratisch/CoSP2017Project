@@ -1,0 +1,26 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE05F,2724,0,,A,1,1,Yeah I think (()) .,"[Yeah/UH, I/PRP, think/VBP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP think))) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,1,,B,2,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,2,,A,3,1,Professional game.,"[Professional/JJ, game/NN, ./.]",(ROOT (NP (JJ Professional) (NN game) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,3,,B,4,1,"Yes, yes, I seem  (()) yes.","[Yes/UH, ,/,, yes/UH, ,/,, I/PRP, seem/VBP, yes/RB, ./.]","(ROOT (S (INTJ (UH Yes) (, ,) (UH yes)) (, ,) (NP (PRP I)) (VP (VBP seem) (NP (RB yes))) (. .)))"
+K/KB/KBK.xml,KBKRE05F,2724,4,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05F,2724,5,,B,6,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,6,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05F,2724,7,,B,8,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE05F,2724,8,,A,9,1,(()) .,[./.],(ROOT (NP (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,9,,A,9,2,Purpose of the game.,"[Purpose/NN, of/IN, the/DT, game/NN, ./.]",(ROOT (NP (NP (NN Purpose)) (PP (IN of) (NP (DT the) (NN game))) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,10,,B,10,1,"Yes, yes.","[Yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH yes) (. .))))"
+K/KB/KBK.xml,KBKRE05F,2724,11,,A,11,1,And (()) .,"[And/CC, ./.]",(ROOT (S (VP (CC And)) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,12,,A,11,2,"(()) , I said, she said but I expect him to (()) .","[,/,, I/PRP, said/VBD, ,/,, she/PRP, said/VBD, but/CC, I/PRP, expect/VBP, him/PRP, to/TO, ./.]","(ROOT (PRN (, ,) (S (NP (PRP I)) (VP (VBD said) (, ,) (SBAR (S (NP (PRP she)) (VP (VBD said) (SBAR (CC but) (S (NP (PRP I)) (VP (VBP expect) (S (NP (PRP him)) (VP (TO to))))))) (. .)))))))"
+K/KB/KBK.xml,KBKRE05F,2724,13,,B,12,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE05F,2724,14,,A,13,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05F,2724,15,,B,14,1,Silly isn't it?,"[Silly/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (JJ Silly) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
+K/KB/KBK.xml,KBKRE05F,2724,16,,B,14,2,Very silly.,"[Very/RB, silly/RB, ./.]",(ROOT (FRAG (ADJP (RB Very) (RB silly)) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,17,,A,15,1,I didn't take any notice of them after that.,"[I/PRP, didn/VBP, 't/PRP, take/VB, any/DT, notice/NN, of/IN, them/PRP, after/IN, that/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB take) (NP (NP (DT any) (NN notice)) (PP (IN of) (NP (PRP them)))) (PP (IN after) (NP (DT that)))))) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,18,,B,16,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,19,,A,17,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05F,2724,20,,B,18,1,"No, no, no tut.","[No/DT, ,/,, no/DT, ,/,, no/DT, tut/NN, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NP (DT no)) (, ,) (NP (DT no) (NN tut))) (. .)))"
+K/KB/KBK.xml,KBKRE05F,2724,21,,A,19,1,(()) in fact they make me aggravated.(()) .,"[in/IN, fact/NN, they/PRP, make/VBP, me/PRP, aggravated/VBN, ./., ./.]",(ROOT (S (PP (IN in) (NP (NN fact))) (NP (PRP they)) (VP (VBP make) (S (NP (PRP me)) (VP (VBN aggravated)))) (. .) (. .)))
+K/KB/KBK.xml,KBKRE05F,2724,22,,B,20,1,"No quite, quite, yeah.","[No/DT, quite/RB, ,/,, quite/RB, ,/,, yeah/UH, ./.]","(ROOT (NP (NP (NP (DT No)) (VP (ADVP (ADVP (RB quite)) (PRN (, ,) (ADVP (RB quite)) (, ,))) (NP (UH yeah)))) (. .)))"
+K/KB/KBK.xml,KBKRE05F,2724,23,,A,21,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05F,2724,24,,B,22,1,"Yes, just enjoy the game and company, yes I (()) .","[Yes/UH, ,/,, just/RB, enjoy/VB, the/DT, game/NN, and/CC, company/NN, ,/,, yes/UH, I/PRP, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (VP (RB just) (VP (VP (VB enjoy) (NP (DT the) (NN game) (CC and) (NN company))) (, ,) (NP (INTJ (UH yes)) (NP (PRP I))))) (. .)))"

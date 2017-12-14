@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBF.xml,KBFRE00B,15012,0,,A,1,1,Her dad said he lives there and erm.,"[Her/PRP$, dad/NN, said/VBD, he/PRP, lives/VBZ, there/EX, and/CC, erm/NN, ./.]",(ROOT (S (NP (PRP$ Her) (NN dad)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBZ lives) (NP (NP (EX there)) (CC and) (NP (NN erm))))))) (. .)))
+K/KB/KBF.xml,KBFRE00B,15012,1,,B,2,1,"Pick that one up now,(()) the bits.","[Pick/VB, that/DT, one/CD, up/RB, now/RB, ,/,, the/DT, bits/NNS, ./.]","(ROOT (S (VP (VB Pick) (NP (DT that) (CD one)) (ADVP (RB up) (RB now)) (, ,) (NP (DT the) (NNS bits))) (. .)))"
+K/KB/KBF.xml,KBFRE00B,15012,2,,A,3,1,"and erm,(()) .","[and/CC, erm/NN, ,/,, ./.]","(ROOT (S (CC and) (NP (NN erm)) (VP (, ,)) (. .)))"
+K/KB/KBF.xml,KBFRE00B,15012,3,,B,4,1,"Won't hurt, spying on them in it?","[Won/VBN, 't/PRP, hurt/VB, ,/,, spying/VBG, on/IN, them/PRP, in/IN, it/PRP, ?/.]","(ROOT (S (VP (VP (VBN Won) (S (NP (PRP 't)) (VP (VB hurt)))) (, ,) (NP (NP (VBG spying)) (PP (IN on) (NP (PRP them))) (PP (IN in) (NP (PRP it))))) (. ?)))"

@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE027,39003,0,,A,1,1,I bet the local shop sold out of helmets.,"[I/PRP, bet/VBP, the/DT, local/JJ, shop/NN, sold/VBN, out/IN, of/IN, helmets/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (NP (NP (DT the) (JJ local) (NN shop)) (VP (VBN sold) (PRT (IN out)) (PP (IN of) (NP (NNS helmets)))))) (. .)))
+K/KE/KE2.xml,KE2RE027,39003,1,,B,2,1,Mm?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
+K/KE/KE2.xml,KE2RE027,39003,2,,A,3,1,Bet the local shop sold out of helmets.,"[Bet/VB, the/DT, local/JJ, shop/NN, sold/VBN, out/IN, of/IN, helmets/NNS, ./.]",(ROOT (S (VP (VB Bet) (NP (NP (DT the) (JJ local) (NN shop)) (VP (VBN sold) (PRT (IN out)) (PP (IN of) (NP (NNS helmets)))))) (. .)))
+K/KE/KE2.xml,KE2RE027,39003,3,,B,4,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
+K/KE/KE2.xml,KE2RE027,39003,4,,B,4,2,You couldn't get them actually.,"[You/PRP, couldn/VBP, 't/PRP, get/VB, them/PRP, actually/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP couldn) (S (NP (PRP 't)) (VP (VB get) (NP (PRP them)) (ADVP (RB actually))))) (. .)))
+K/KE/KE2.xml,KE2RE027,39003,5,,A,5,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

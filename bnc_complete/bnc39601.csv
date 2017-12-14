@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE2.xml,KE2RE03S,39601,0,,A,1,1,Pigeon and bacon pies.,"[Pigeon/NN, and/CC, bacon/NN, pies/NNS, ./.]",(ROOT (NP (NP (NN Pigeon) (CC and) (NN bacon)) (NP (NNS pies)) (. .)))
+K/KE/KE2.xml,KE2RE03S,39601,1,,B,2,1,(()) meat on there.,"[meat/NN, on/IN, there/EX, ./.]",(ROOT (NP (NP (NN meat)) (PP (IN on) (NP (EX there))) (. .)))
+K/KE/KE2.xml,KE2RE03S,39601,2,,B,2,2,Doubt it do you?,"[Doubt/VB, it/PRP, do/VB, you/PRP, ?/.]",(ROOT (SQ (VP (VB Doubt) (S (NP (PRP it)) (VP (VB do) (NP (PRP you))))) (. ?)))
+K/KE/KE2.xml,KE2RE03S,39601,3,,A,3,1,I shouldn't think so.,"[I/PRP, shouldn/VBP, 't/PRP, think/VB, so/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP shouldn) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so))))) (. .)))
+K/KE/KE2.xml,KE2RE03S,39601,4,,B,4,1,Minced beef and  --,"[Minced/VBN, beef/NN, and/CC, four/CD, times/NNS, this/DT, year/NN, ./.]",(ROOT (S (VP (VBN Minced) (NP (NP (NN beef)) (CC and) (NP (CD four) (NNS times))) (NP (DT this) (NN year))) (. .)))
+K/KE/KE2.xml,KE2RE03S,39601,5,,B,4,2,--four times this year.,"[Minced/VBN, beef/NN, and/CC, four/CD, times/NNS, this/DT, year/NN, ./.]",(ROOT (S (VP (VBN Minced) (NP (NP (NN beef)) (CC and) (NP (CD four) (NNS times))) (NP (DT this) (NN year))) (. .)))
+K/KE/KE2.xml,KE2RE03S,39601,6,,A,5,1,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))

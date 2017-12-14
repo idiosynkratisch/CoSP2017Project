@@ -1,0 +1,6 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBA.xml,KBARE00G,10006,0,,A,1,1,Did you turn that fire off  --,"[Did/VBD, you/PRP, turn/VB, that/DT, fire/NN, off/IN, upstairs/NN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB turn) (NP (DT that) (NN fire)) (ADVP (IN off) (NN upstairs))) (. ?)))
+K/KB/KBA.xml,KBARE00G,10006,1,,A,1,2,--upstairs?,"[Did/VBD, you/PRP, turn/VB, that/DT, fire/NN, off/IN, upstairs/NN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP you)) (VP (VB turn) (NP (DT that) (NN fire)) (ADVP (IN off) (NN upstairs))) (. ?)))
+K/KB/KBA.xml,KBARE00G,10006,2,,B,2,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KB/KBA.xml,KBARE00G,10006,3,,A,3,1,The fire.,"[The/DT, fire/NN, ./.]",(ROOT (NP (DT The) (NN fire) (. .)))
+K/KB/KBA.xml,KBARE00G,10006,4,,B,4,1,I did.,"[I/PRP, did/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD did)) (. .)))

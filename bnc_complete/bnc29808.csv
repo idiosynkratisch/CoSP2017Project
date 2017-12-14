@@ -1,0 +1,30 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDM.xml,KDMRE007,29808,0,,A,1,1,Half past twelve!,"[Half/DT, past/JJ, twelve/CD, !/.]",(ROOT (NP (NP (QP (DT Half))) (PP (JJ past) (NP (CD twelve))) (. !)))
+K/KD/KDM.xml,KDMRE007,29808,1,,A,1,2,"I might as well go through on this, I was gonna go in that one.","[I/PRP, might/MD, as/RB, well/RB, go/VB, through/IN, on/IN, this/DT, ,/,, I/PRP, was/VBD, gonna/NNP, go/VB, in/IN, that/DT, one/CD, ./.]","(ROOT (S (S (NP (PRP I)) (VP (MD might) (ADVP (RB as) (RB well)) (VP (VB go) (PP (IN through) (PP (IN on) (NP (DT this))))))) (, ,) (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB go) (PP (IN in) (NP (DT that) (CD one)))))) (. .)))"
+K/KD/KDM.xml,KDMRE007,29808,2,,B,2,1,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
+K/KD/KDM.xml,KDMRE007,29808,3,,A,3,1,"I'll, I'll go, this fellow's moving now so I'll go in there.","[I/PRP, 'll/MD, ,/,, I/PRP, 'll/MD, go/VB, ,/,, this/DT, fellow/NN, 's/POS, moving/VBG, now/RB, so/IN, I/PRP, 'll/MD, go/VB, in/IN, there/RB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (MD 'll))) (, ,) (S (NP (PRP I)) (VP (MD 'll) (VP (VB go)))) (, ,) (S (NP (DT this) (NN fellow) (POS 's)) (VP (VBG moving) (ADVP (RB now)) (SBAR (IN so) (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (PP (IN in) (NP (RB there))))))))) (. .)))"
+K/KD/KDM.xml,KDMRE007,29808,4,,B,4,1,So you've got a big garden have you Arth?,"[So/RB, you/PRP, 've/VBP, got/VBD, a/DT, big/JJ, garden/NN, have/VBP, you/PRP, Arth/NNP, ?/.]",(ROOT (S (RB So) (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (SBAR (S (NP (DT a) (JJ big) (NN garden)) (VP (VBP have) (S (NP (PRP you)) (NP (NNP Arth)))))))) (. ?)))
+K/KD/KDM.xml,KDMRE007,29808,5,,A,5,1,"Oh, no","[Oh/UH, ,/,, no/DT]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (NP (DT no))))"
+K/KD/KDM.xml,KDMRE007,29808,6,,B,6,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,7,,A,7,1,got a  --,"[got/VBD, a/DT, decent/JJ, size/NN, back/RB, garden/NN, ./.]",(ROOT (S (VP (VBD got) (NP (DT a) (JJ decent) (NN size)) (PP (RB back) (NP (NN garden)))) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,8,,A,7,2,--decent size back garden.,"[got/VBD, a/DT, decent/JJ, size/NN, back/RB, garden/NN, ./.]",(ROOT (S (VP (VBD got) (NP (DT a) (JJ decent) (NN size)) (PP (RB back) (NP (NN garden)))) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,9,,B,8,1,"Mine is, yes yes, yeah.","[Mine/NN, is/VBZ, ,/,, yes/UH, yes/UH, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (NN Mine)) (VP (VBZ is))) (, ,) (FRAG (INTJ (INTJ (UH yes) (UH yes)) (, ,) (INTJ (UH yeah)))) (. .)))"
+K/KD/KDM.xml,KDMRE007,29808,10,,B,8,2,It's er Birkenhead you live is it?,"[It/PRP, 's/VBZ, er/NN, Birkenhead/NN, you/PRP, live/VBP, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN er) (NN Birkenhead)) (SBAR (S (NP (PRP you)) (VP (VBP live) (SBAR (S (VP (VBZ is) (NP (PRP it)))))))))) (. ?)))
+K/KD/KDM.xml,KDMRE007,29808,11,,A,9,1,I live in (()) ,"[I/PRP, live/VBP, in/IN]",(ROOT (S (NP (PRP I)) (VP (VBP live) (PP (IN in)))))
+K/KD/KDM.xml,KDMRE007,29808,12,,B,10,1,Oh you told me!,"[Oh/UH, you/PRP, told/VBD, me/PRP, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBD told) (NP (PRP me)))) (. !)))
+K/KD/KDM.xml,KDMRE007,29808,13,,B,10,2,But you're a Birkenhead guy are you?,"[But/CC, you/PRP, 're/VBP, a/DT, Birkenhead/NN, guy/NN, are/VBP, you/PRP, ?/.]",(ROOT (S (CC But) (NP (PRP you)) (VP (VBP 're) (NP (NP (DT a) (NN Birkenhead) (NN guy)) (SBAR (S (VP (VBP are) (NP (PRP you))))))) (. ?)))
+K/KD/KDM.xml,KDMRE007,29808,14,,A,11,1,"No,(()) ","[No/DT, ,/,]","(ROOT (FRAG (PP (DT No)) (, ,)))"
+K/KD/KDM.xml,KDMRE007,29808,15,,B,12,1,Oh you're a scouser?,"[Oh/UH, you/PRP, 're/VBP, a/DT, scouser/NN, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP 're) (NP (DT a) (NN scouser)))) (. ?)))
+K/KD/KDM.xml,KDMRE007,29808,16,,A,13,1,Mm mhm ,"[Mm/NN, mhm/NN]",(ROOT (NP (NN Mm) (NN mhm)))
+K/KD/KDM.xml,KDMRE007,29808,17,,B,14,1,What part?,"[What/WDT, part/NN, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NN part)) (. ?)))
+K/KD/KDM.xml,KDMRE007,29808,18,,A,15,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
+K/KD/KDM.xml,KDMRE007,29808,19,,B,16,1,What part?,"[What/WDT, part/NN, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NN part)) (. ?)))
+K/KD/KDM.xml,KDMRE007,29808,20,,A,17,1,Manfield.,"[Manfield/NNP, ./.]",(ROOT (FRAG (NP (NNP Manfield)) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,21,,B,18,1,"Oh that was the, the rough part.","[Oh/UH, that/WDT, was/VBD, the/DT, ,/,, the/DT, rough/JJ, part/NN, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (WDT that)) (VP (VBD was) (NP (DT the)))) (, ,) (FRAG (NP (DT the) (JJ rough) (NN part))) (. .)))"
+K/KD/KDM.xml,KDMRE007,29808,22,,A,19,1,"Oh aye yeah, well I am rough aren't I?(()) ","[Oh/UH, aye/NNP, yeah/UH, ,/,, well/RB, I/PRP, am/VBP, rough/JJ, aren/NNP, 't/PRP, I/PRP, ?/.]","(ROOT (S (INTJ (UH Oh) (NNP aye) (UH yeah)) (, ,) (ADVP (RB well)) (NP (PRP I)) (VP (VBP am) (NP (NP (JJ rough)) (S (VP (NNP aren) (S (NP (PRP 't)) (NP (PRP I))))))) (. ?)))"
+K/KD/KDM.xml,KDMRE007,29808,23,,B,20,1,Highton Highton I came   (()) --,"[Highton/NNP, Highton/NNP, I/PRP, came/VBD, a/DT, nice/JJ, part/NN, ./.]",(ROOT (S (NP (NNP Highton) (NNP Highton) (PRP I)) (VP (VBD came) (NP (DT a) (JJ nice) (NN part))) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,24,,B,20,2,--a nice part.,"[Highton/NNP, Highton/NNP, I/PRP, came/VBD, a/DT, nice/JJ, part/NN, ./.]",(ROOT (S (NP (NNP Highton) (NNP Highton) (PRP I)) (VP (VBD came) (NP (DT a) (JJ nice) (NN part))) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,25,,A,21,1,(()) rough are they.,"[rough/JJ, are/VBP, they/PRP, ./.]",(ROOT (S (NP (JJ rough)) (VP (VBP are) (NP (PRP they))) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,26,,B,22,1,<laugh> ,[],X
+K/KD/KDM.xml,KDMRE007,29808,27,,A,23,1,(()) never used to fight with  (()) lads.,"[never/RB, used/VBN, to/TO, fight/VB, with/IN, lads/NNS, ./.]",(ROOT (S (VP (ADVP (RB never)) (VBN used) (PP (TO to) (VP (VB fight) (PP (IN with) (NP (NNS lads)))))) (. .)))
+K/KD/KDM.xml,KDMRE007,29808,28,,A,23,2,(()) they're a tough crowd.,"[they/PRP, 're/VBP, a/DT, tough/JJ, crowd/NN, ./.]",(ROOT (S (NP (PRP they)) (VP (VBP 're) (NP (DT a) (JJ tough) (NN crowd))) (. .)))

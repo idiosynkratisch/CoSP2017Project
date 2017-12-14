@@ -1,0 +1,8 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KE/KE6.xml,KE6RE004,36405,0,,A,1,1,"That doesn't matter, whatever ","[That/DT, doesn/NN, 't/PRP, matter/NN, ,/,, whatever/WDT]","(ROOT (FRAG (SBAR (WHNP (DT That)) (FRAG (NP (NP (NN doesn)) (NP (PRP 't) (NN matter))))) (, ,) (WHADVP (WDT whatever))))"
+K/KE/KE6.xml,KE6RE004,36405,1,,B,2,1,Right thanks a lot me dear for your trouble,"[Right/JJ, thanks/NNS, a/DT, lot/NN, me/PRP, dear/RB, for/IN, your/PRP$, trouble/NN]",(ROOT (S (NP (NP (NP (JJ Right) (NNS thanks)) (NP (DT a) (NN lot))) (NP (PRP me))) (ADJP (RB dear)) (PP (IN for) (NP (PRP$ your) (NN trouble)))))
+K/KE/KE6.xml,KE6RE004,36405,2,,B,2,2,(()) ,[],X
+K/KE/KE6.xml,KE6RE004,36405,3,,B,2,3,yeah ta ta,"[yeah/UH, ta/NNP, ta/NNP]",(ROOT (NP (UH yeah) (NNP ta) (NNP ta)))
+K/KE/KE6.xml,KE6RE004,36405,4,,A,3,1,Have you got another pen?,"[Have/VB, you/PRP, got/VBD, another/DT, pen/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (DT another) (NN pen))))) (. ?)))
+K/KE/KE6.xml,KE6RE004,36405,5,,B,4,1,"Yeah, sorry, sorry","[Yeah/UH, ,/,, sorry/JJ, ,/,, sorry/JJ]","(ROOT (FRAG (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (JJ sorry))) (, ,) (ADVP (JJ sorry))))"
+K/KE/KE6.xml,KE6RE004,36405,6,,A,5,1,<laugh> That's alright don't worry ,"[That/DT, 's/VBZ, alright/JJ, don/NNP, 't/PRP, worry/VBP]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (JJ alright) (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP worry))))))))

@@ -1,0 +1,18 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KN/KNU.xml,KNURE000,137401,0,,A,1,1,Open your present then Antony.,"[Open/VB, your/PRP$, present/JJ, then/RB, Antony/NNP, ./.]",(ROOT (S (VP (VB Open) (NP (PRP$ your) (JJ present)) (PP (RB then) (NP (NNP Antony)))) (. .)))
+K/KN/KNU.xml,KNURE000,137401,1,,B,2,1,"<singing> Happy Birthday to you, Happy Birthday to you, Happy Birthday dear Antony, Happy Birthday to you </singing> ","[Happy/JJ, Birthday/NN, to/TO, you/PRP, ,/,, Happy/JJ, Birthday/NN, to/TO, you/PRP, ,/,, Happy/JJ, Birthday/NN, dear/NNP, Antony/NNP, ,/,, Happy/JJ, Birthday/NN, to/TO, you/PRP]","(ROOT (NP (NP (NP (JJ Happy) (NN Birthday)) (PP (TO to) (NP (NP (PRP you)) (, ,) (NP (NP (JJ Happy) (NN Birthday)) (PP (TO to) (NP (PRP you)))) (, ,)))) (NP (NP (JJ Happy) (NN Birthday) (NNP dear) (NNP Antony)) (, ,) (NP (NP (JJ Happy) (NN Birthday)) (PP (TO to) (NP (PRP you)))))))"
+K/KN/KNU.xml,KNURE000,137401,2,,B,2,2,Shall we take a picture (()) ,"[Shall/MD, we/PRP, take/VB, a/DT, picture/NN]",(ROOT (SINV (MD Shall) (NP (PRP we)) (VP (VB take) (NP (DT a) (NN picture)))))
+K/KN/KNU.xml,KNURE000,137401,3,,B,2,3,Go ahead.,"[Go/VB, ahead/RB, ./.]",(ROOT (S (VP (VB Go) (ADVP (RB ahead))) (. .)))
+K/KN/KNU.xml,KNURE000,137401,4,,A,3,1,Enjoying yourself?,"[Enjoying/VBG, yourself/PRP, ?/.]",(ROOT (S (VP (VBG Enjoying) (NP (PRP yourself))) (. ?)))
+K/KN/KNU.xml,KNURE000,137401,5,,A,3,2,Antony.,"[Antony/NNP, ./.]",(ROOT (FRAG (NP (NNP Antony)) (. .)))
+K/KN/KNU.xml,KNURE000,137401,6,,B,4,1,You like my picture?,"[You/PRP, like/IN, my/PRP$, picture/NN, ?/.]",(ROOT (NP (NP (PRP You)) (PP (IN like) (NP (PRP$ my) (NN picture))) (. ?)))
+K/KN/KNU.xml,KNURE000,137401,7,,B,4,2,<laugh> ,[],X
+K/KN/KNU.xml,KNURE000,137401,8,,B,4,3,(()) ,[],X
+K/KN/KNU.xml,KNURE000,137401,9,,B,4,4,(()) ,[],X
+K/KN/KNU.xml,KNURE000,137401,10,,B,4,5,<laugh> ,[],X
+K/KN/KNU.xml,KNURE000,137401,11,,A,5,1,Mm?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
+K/KN/KNU.xml,KNURE000,137401,12,,A,5,2,"No, no, no this is not made to play with I want you blow it now (()) ","[No/DT, ,/,, no/DT, ,/,, no/DT, this/DT, is/VBZ, not/RB, made/VBN, to/TO, play/VB, with/IN, I/PRP, want/VBP, you/PRP, blow/VB, it/PRP, now/RB]","(ROOT (S (NP (NP (ADJP (DT No) (PRN (, ,) (ADVP (DT no)) (, ,))) (DT no)) (SBAR (S (NP (DT this)) (VP (VBZ is) (RB not) (VP (VBN made) (S (VP (TO to) (VP (VB play) (PP (IN with) (NP (PRP I))))))))))) (VP (VBP want) (S (NP (PRP you)) (VP (VB blow) (NP (PRP it)) (ADVP (RB now)))))))"
+K/KN/KNU.xml,KNURE000,137401,13,,B,6,1,(()) ,[],X
+K/KN/KNU.xml,KNURE000,137401,14,,A,7,1,Antony  --,"[Antony/NNP, Yes/NNP, Antony/NNP, ,/,, come/VBN, and/CC, stand/VB, up/RP, over/IN, here/RB, now/RB, ./.]","(ROOT (NP (NP (NNP Antony) (NNP Yes) (NNP Antony)) (, ,) (VP (VP (VBN come)) (CC and) (VP (VB stand) (PRT (RP up)) (PP (IN over) (NP (RB here))) (ADVP (RB now)))) (. .)))"
+K/KN/KNU.xml,KNURE000,137401,15,,A,7,2,"--Yes Antony, come and stand up over here now.","[Antony/NNP, Yes/NNP, Antony/NNP, ,/,, come/VBN, and/CC, stand/VB, up/RP, over/IN, here/RB, now/RB, ./.]","(ROOT (NP (NP (NNP Antony) (NNP Yes) (NNP Antony)) (, ,) (VP (VP (VBN come)) (CC and) (VP (VB stand) (PRT (RP up)) (PP (IN over) (NP (RB here))) (ADVP (RB now)))) (. .)))"
+K/KN/KNU.xml,KNURE000,137401,16,,A,7,3,Come over here.,"[Come/VB, over/RP, here/RB, ./.]",(ROOT (S (VP (VB Come) (PRT (RP over)) (NP (RB here))) (. .)))

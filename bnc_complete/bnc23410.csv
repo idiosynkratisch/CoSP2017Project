@@ -1,0 +1,21 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCL.xml,KCLRE009,23410,0,,A,1,1,"Come on, you're losing your touch now.","[Come/VB, on/RP, ,/,, you/PRP, 're/VBP, losing/VBG, your/PRP$, touch/NN, now/RB, ./.]","(ROOT (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBG losing) (NP (PRP$ your) (NN touch)) (ADVP (RB now)))) (. .)))"
+K/KC/KCL.xml,KCLRE009,23410,1,,A,1,2,"Come on, give me a kiss.","[Come/VB, on/RP, ,/,, give/VB, me/PRP, a/DT, kiss/NN, ./.]","(ROOT (S (VP (VP (VB Come) (PRT (RP on))) (, ,) (VP (VB give) (NP (PRP me)) (NP (DT a) (NN kiss)))) (. .)))"
+K/KC/KCL.xml,KCLRE009,23410,2,,B,2,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,3,,B,2,2,"Quick, quick quick quick.","[Quick/JJ, ,/,, quick/JJ, quick/JJ, quick/JJ, ./.]","(ROOT (FRAG (ADJP (JJ Quick) (, ,) (JJ quick) (JJ quick)) (ADJP (JJ quick) (. .))))"
+K/KC/KCL.xml,KCLRE009,23410,4,,B,2,3,Good boy  (()) ,"[Good/JJ, boy/NN]",(ROOT (INTJ (JJ Good) (NN boy)))
+K/KC/KCL.xml,KCLRE009,23410,5,,A,3,1,(()) ,[],X
+K/KC/KCL.xml,KCLRE009,23410,6,,B,4,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,7,,A,5,1,Get it Rick.,"[Get/VB, it/PRP, Rick/NNP, ./.]",(ROOT (S (VP (VB Get) (S (NP (PRP it)) (NP (NNP Rick)))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,8,,B,6,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,9,,A,7,1,Hey!,"[Hey/UH, !/.]",(ROOT (INTJ (UH Hey) (. !)))
+K/KC/KCL.xml,KCLRE009,23410,10,,A,7,2,<kiss> Kiss.,"[Kiss/VB, ./.]",(ROOT (S (VP (VB Kiss)) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,11,,B,8,1,And me.,"[And/CC, me/PRP, ./.]",(ROOT (S (NP (CC And)) (VP (ADVP (PRP me))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,12,,B,8,2,Give me one.,"[Give/VB, me/PRP, one/CD, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (CD one))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,13,,B,8,3,Give me a kiss.,"[Give/VB, me/PRP, a/DT, kiss/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (DT a) (NN kiss))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,14,,A,9,1,Kiss.,"[Kiss/VB, ./.]",(ROOT (S (VP (VB Kiss)) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,15,,A,9,2,Give me a kiss.,"[Give/VB, me/PRP, a/DT, kiss/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (DT a) (NN kiss))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,16,,A,9,3,Give me a kiss.,"[Give/VB, me/PRP, a/DT, kiss/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (DT a) (NN kiss))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,17,,A,9,4,"If you don't kiss, kiss  (()) ","[If/IN, you/PRP, don/VBP, 't/PRP, kiss/VB, ,/,, kiss/VB]","(ROOT (NP (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB kiss)))))) (, ,) (VP (VB kiss)))))"
+K/KC/KCL.xml,KCLRE009,23410,18,,B,10,1,Rick Rick Rick Rick Hey.,"[Rick/NNP, Rick/NNP, Rick/NNP, Rick/NNP, Hey/UH, ./.]",(ROOT (S (NP (NNP Rick) (NNP Rick) (NNP Rick)) (VP (NNP Rick) (NP (UH Hey))) (. .)))
+K/KC/KCL.xml,KCLRE009,23410,19,,B,10,2,Oh thanks Rick.,"[Oh/UH, thanks/NNS, Rick/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNS thanks) (NNP Rick)))) (. .)))

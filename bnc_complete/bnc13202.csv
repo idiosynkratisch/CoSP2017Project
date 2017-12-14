@@ -1,0 +1,7 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KD/KDA.xml,KDARE02S,13202,0,,A,1,1,How can you miss a mouth that fucking big?,"[How/WRB, can/MD, you/PRP, miss/VB, a/DT, mouth/NN, that/IN, fucking/VBG, big/JJ, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP you)) (VP (VB miss) (NP (NP (DT a) (NN mouth)) (SBAR (WHNP (IN that)) (S (VP (VBG fucking) (NP (JJ big)))))))) (. ?)))
+K/KD/KDA.xml,KDARE02S,13202,1,,B,2,1,Well  (()) mouth,"[Well/RB, mouth/NN]",(ROOT (FRAG (ADVP (RB Well)) (NP (NN mouth))))
+K/KD/KDA.xml,KDARE02S,13202,2,,A,3,1,Here are,"[Here/RB, are/VBP]",(ROOT (FRAG (NP (RB Here)) (VP (VBP are))))
+K/KD/KDA.xml,KDARE02S,13202,3,,B,4,1,like that,"[like/IN, that/DT]",(ROOT (PP (IN like) (NP (DT that))))
+K/KD/KDA.xml,KDARE02S,13202,4,,A,5,1,I got     (()) --,"[I/PRP, got/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD got))))
+K/KD/KDA.xml,KDARE02S,13202,5,,A,5,2,--<singing> (()) </singing> ,"[I/PRP, got/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD got))))

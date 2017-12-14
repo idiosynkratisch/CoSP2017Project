@@ -1,0 +1,24 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KB5.xml,KB5RE002,5703,0,,A,1,1,That tiggles.,"[That/DT, tiggles/NNP, ./.]",(ROOT (NP (NP (DT That)) (NP (NNP tiggles)) (. .)))
+K/KB/KB5.xml,KB5RE002,5703,1,,B,2,1,Tiggles?,"[Tiggles/NNP, ?/.]",(ROOT (FRAG (NP (NNP Tiggles)) (. ?)))
+K/KB/KB5.xml,KB5RE002,5703,2,,A,3,1,"Yeah,(()) what else (()) .","[Yeah/UH, ,/,, what/WP, else/RB, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NP (WP what)) (NP (RB else))) (. .)))"
+K/KB/KB5.xml,KB5RE002,5703,3,,B,4,1,"Tickles, not tiggles.","[Tickles/NNP, ,/,, not/RB, tiggles/NNS, ./.]","(ROOT (NP (NP (NNP Tickles)) (, ,) (NP (RB not) (NNS tiggles)) (. .)))"
+K/KB/KB5.xml,KB5RE002,5703,4,,A,5,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE002,5703,5,,B,6,1,"It's C, K.","[It/PRP, 's/VBZ, C/NN, ,/,, K/NN, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (NN C)) (, ,) (NP (NN K)))) (. .)))"
+K/KB/KB5.xml,KB5RE002,5703,6,,A,7,1,Alright.,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
+K/KB/KB5.xml,KB5RE002,5703,7,,B,8,1,"Not G, tickles.","[Not/RB, G/NN, ,/,, tickles/VBZ, ./.]","(ROOT (S (RB Not) (ADVP (NN G)) (, ,) (VP (VBZ tickles)) (. .)))"
+K/KB/KB5.xml,KB5RE002,5703,8,,A,9,1,"Yeah, it's very flash then (()) .","[Yeah/UH, ,/,, it/PRP, 's/VBZ, very/RB, flash/VB, then/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB very) (S (VP (VB flash) (ADVP (RB then)))))) (. .)))"
+K/KB/KB5.xml,KB5RE002,5703,9,,B,10,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE002,5703,10,,A,11,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE002,5703,11,,B,12,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE002,5703,12,,A,13,1,Yeah.(()) .,"[Yeah/UH, ./., ./.]",(ROOT (FRAG (ADVP (UH Yeah) (. .)) (. .)))
+K/KB/KB5.xml,KB5RE002,5703,13,,B,14,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
+K/KB/KB5.xml,KB5RE002,5703,14,,B,14,2,Have a nice three piece suite for you.,"[Have/VB, a/DT, nice/JJ, three/CD, piece/NN, suite/NN, for/IN, you/PRP, ./.]",(ROOT (S (VP (VB Have) (NP (NP (DT a) (JJ nice) (CD three) (NN piece) (NN suite)) (PP (IN for) (NP (PRP you))))) (. .)))
+K/KB/KB5.xml,KB5RE002,5703,15,,B,14,3,Take it ,"[Take/VB, it/PRP]",(ROOT (S (VP (VB Take) (NP (PRP it)))))
+K/KB/KB5.xml,KB5RE002,5703,16,,A,15,1,Not,[Not/RB],(ROOT (FRAG (RB Not)))
+K/KB/KB5.xml,KB5RE002,5703,17,,B,16,1,"Lucky  (()) oh,(()) .","[Lucky/JJ, oh/NN, ,/,, ./.]","(ROOT (S (VP (JJ Lucky) (PP (NN oh)) (, ,)) (. .)))"
+K/KB/KB5.xml,KB5RE002,5703,18,,B,16,2,Sean Connery?,"[Sean/NNP, Connery/NNP, ?/.]",(ROOT (NP (NNP Sean) (NNP Connery) (. ?)))
+K/KB/KB5.xml,KB5RE002,5703,19,,A,17,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE002,5703,20,,B,18,1,"That on there, see?","[That/DT, on/IN, there/EX, ,/,, see/VB, ?/.]","(ROOT (S (PP (NP (DT That)) (IN on) (NP (EX there))) (, ,) (VP (VB see)) (. ?)))"
+K/KB/KB5.xml,KB5RE002,5703,21,,A,19,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
+K/KB/KB5.xml,KB5RE002,5703,22,,B,20,1,Good.,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))

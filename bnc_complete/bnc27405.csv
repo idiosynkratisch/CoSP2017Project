@@ -1,0 +1,23 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KC/KCN.xml,KCNRE015,27405,0,,A,1,1,Er a small loaf of bread please.,"[Er/NN, a/DT, small/JJ, loaf/NN, of/IN, bread/NN, please/VB, ./.]",(ROOT (S (NP (NP (NP (NN Er)) (NP (DT a) (JJ small) (NN loaf))) (PP (IN of) (NP (NN bread)))) (VP (VB please)) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,1,,A,1,2,Erm,[Erm/NN],(ROOT (NP (NN Erm)))
+K/KC/KCN.xml,KCNRE015,27405,2,,B,2,1,"A tin, a cob or a batch?","[A/DT, tin/NN, ,/,, a/DT, cob/NN, or/CC, a/DT, batch/NN, ?/.]","(ROOT (NP (NP (DT A) (NN tin)) (, ,) (NP (NP (DT a) (NN cob)) (CC or) (NP (DT a) (NN batch))) (. ?)))"
+K/KC/KCN.xml,KCNRE015,27405,3,,A,3,1,Now then ,"[Now/RB, then/RB]",(ROOT (FRAG (ADVP (RB Now)) (RB then)))
+K/KC/KCN.xml,KCNRE015,27405,4,,B,4,1,"Now it's decision time, your choice.","[Now/RB, it/PRP, 's/VBZ, decision/NN, time/NN, ,/,, your/PRP$, choice/NN, ./.]","(ROOT (S (ADVP (RB Now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN decision) (NN time)) (, ,) (NP (PRP$ your) (NN choice)))) (. .)))"
+K/KC/KCN.xml,KCNRE015,27405,5,,A,5,1,Erm batch I think.,"[Erm/NN, batch/NN, I/PRP, think/VBP, ./.]",(ROOT (S (NP (NN Erm) (NN batch)) (NP (PRP I)) (VP (VBP think)) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,6,,A,5,2,I haven't had one of them for a long time.,"[I/PRP, haven/NN, 't/PRP, had/VBD, one/CD, of/IN, them/PRP, for/IN, a/DT, long/JJ, time/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD had) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,7,,B,6,1,It's make up your mind time.,"[It/PRP, 's/VBZ, make/VB, up/RP, your/PRP$, mind/NN, time/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VB make) (PRT (RP up)) (NP (PRP$ your) (NN mind) (NN time)))) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,8,,A,7,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,9,,A,7,2,"Fattening time, that's the trouble.","[Fattening/NN, time/NN, ,/,, that/DT, 's/VBZ, the/DT, trouble/NN, ./.]","(ROOT (S (NP (NN Fattening) (NN time)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN trouble))) (. .)))"
+K/KC/KCN.xml,KCNRE015,27405,10,,A,7,3,When you start you never stop with them.,"[When/WRB, you/PRP, start/VBP, you/PRP, never/RB, stop/VB, with/IN, them/PRP, ./.]",(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP start) (NP (PRP you)) (ADVP (RB never))))) (VP (VB stop) (PP (IN with) (NP (PRP them)))) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,11,,A,7,4,"Great, thanks.","[Great/NNP, ,/,, thanks/NNS, ./.]","(ROOT (NP (NP (NNP Great)) (, ,) (NP (NNS thanks)) (. .)))"
+K/KC/KCN.xml,KCNRE015,27405,12,,B,8,1,Thank you very much.,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,13,,A,9,1,Weather's getting better isn't it?,"[Weather/NN, 's/POS, getting/VBG, better/JJR, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (VP (NN Weather) (S (NP (POS 's)) (VP (VBG getting) (S (NP (NP (JJR better) (NN isn)) (NP (PRP 't))) (NP (PRP it)))))) (. ?)))
+K/KC/KCN.xml,KCNRE015,27405,14,,B,10,1,Yes it is.,"[Yes/UH, it/PRP, is/VBZ, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ is))) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,15,,B,10,2,Slowly but surely.,"[Slowly/RB, but/CC, surely/RB, ./.]",(ROOT (S (VP (ADVP (ADVP (RB Slowly)) (PRN (CC but) (ADVP (RB surely))))) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,16,,A,11,1,"Fine, as long as it comes.","[Fine/NN, ,/,, as/RB, long/RB, as/IN, it/PRP, comes/VBZ, ./.]","(ROOT (FRAG (NP (NN Fine)) (, ,) (SBAR (ADVP (RB as) (RB long)) (IN as) (S (NP (PRP it)) (VP (VBZ comes)))) (. .)))"
+K/KC/KCN.xml,KCNRE015,27405,17,,B,12,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,18,,A,13,1,End of the month and it'll be great.,"[End/NN, of/IN, the/DT, month/NN, and/CC, it/PRP, 'll/MD, be/VB, great/JJ, ./.]",(ROOT (S (NP (NP (NN End)) (PP (IN of) (NP (NP (DT the) (NN month)) (CC and) (NP (PRP it))))) (VP (MD 'll) (VP (VB be) (ADJP (JJ great)))) (. .)))
+K/KC/KCN.xml,KCNRE015,27405,19,,B,14,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE015,27405,20,,A,15,1,Ta ra,"[Ta/NNP, ra/NNP]",(ROOT (NP (NNP Ta) (NNP ra)))
+K/KC/KCN.xml,KCNRE015,27405,21,,B,16,1,Bye.,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

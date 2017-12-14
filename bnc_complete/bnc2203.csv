@@ -1,0 +1,5 @@
+swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
+K/KB/KBK.xml,KBKRE013,2203,0,,A,1,1,Gherkin for you?,"[Gherkin/NN, for/IN, you/PRP, ?/.]",(ROOT (NP (NP (NN Gherkin)) (PP (IN for) (NP (PRP you))) (. ?)))
+K/KB/KBK.xml,KBKRE013,2203,1,,B,2,1,Get out a small one.,"[Get/VB, out/RP, a/DT, small/JJ, one/CD, ./.]",(ROOT (S (VP (VB Get) (PRT (RP out)) (NP (DT a) (JJ small) (CD one))) (. .)))
+K/KB/KBK.xml,KBKRE013,2203,2,,A,3,1,"That one isn't, but there are, I'll get you one.","[That/DT, one/CD, isn/NN, 't/PRP, ,/,, but/CC, there/EX, are/VBP, ,/,, I/PRP, 'll/MD, get/VB, you/PRP, one/CD, ./.]","(ROOT (S (S (NP (NP (DT That) (CD one) (NN isn)) (NP (PRP 't))) (, ,) (CC but) (NP (EX there)) (VP (VBP are))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB get) (S (NP (PRP you)) (NP (CD one))))) (. .)))"
+K/KB/KBK.xml,KBKRE013,2203,3,,B,4,1,(()) half a one.,"[half/PDT, a/DT, one/CD, ./.]",(ROOT (NP (NP (PDT half) (DT a)) (NP (CD one)) (. .)))
