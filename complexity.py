@@ -6,6 +6,7 @@ from nltk.tree import Tree
 import numpy as np
 from swda_time import CorpusReader
 import re
+from jpype import *
 
 # use swda as the default corpus
 corpus = CorpusReader('swda', 'swda/swda-metadata.csv')
@@ -175,42 +176,45 @@ def n_avdepth(tree, corpus=corpus):
   
 #tregex patterns for subtrees of interest
 #sentence (S)
-s="'ROOT'"
+s="ROOT"
 
 #verb phrase (VP)
-vp="'VP > S|SINV|SQ'"
-vp_q="'MD|VBZ|VBP|VBD > (SQ !< VP)'"
+vp="VP > S|SINV|SQ"
+vp_q="MD|VBZ|VBP|VBD > (SQ !< VP)"
 
 #clause (C)
-c="'S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])]'"
+c="S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])]"
 
 #T-unit (T)
-t="'S|SBARQ|SINV|SQ > ROOT | [$-- S|SBARQ|SINV|SQ !>> SBAR|VP]'"
+t="S|SBARQ|SINV|SQ > ROOT | [$-- S|SBARQ|SINV|SQ !>> SBAR|VP]"
 
 #dependent clause (DC)
-dc="'SBAR < (S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])])'"
+dc="SBAR < (S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])])"
 
 #complex T-unit (CT)
-ct="'S|SBARQ|SINV|SQ [> ROOT | [$-- S|SBARQ|SINV|SQ !>> SBAR|VP]] << (SBAR < (S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])]))'"
+ct="S|SBARQ|SINV|SQ [> ROOT | [$-- S|SBARQ|SINV|SQ !>> SBAR|VP]] << (SBAR < (S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])]))"
 
 #coordinate phrase (CP)
-cp="'ADJP|ADVP|NP|VP < CC'"
+cp="ADJP|ADVP|NP|VP < CC"
 
 #complex nominal (CN)
-cn1="'NP !> NP [<< JJ|POS|PP|S|VBG | << (NP $++ NP !$+ CC)]'"
-cn2="'SBAR [<# WHNP | <# (IN < That|that|For|for) | <, S] & [$+ VP | > VP]'"
-cn3="'S < (VP <# VBG|TO) $+ VP'"
+cn1="NP !> NP [<< JJ|POS|PP|S|VBG | << (NP $++ NP !$+ CC)]"
+cn2="SBAR [<# WHNP | <# (IN < That|that|For|for) | <, S] & [$+ VP | > VP]"
+cn3="S < (VP <# VBG|TO) $+ VP"
 
 #fragment clause
-fc="'FRAG > ROOT !<< (S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])])'"
+fc="FRAG > ROOT !<< (S|SINV|SQ [> ROOT <, (VP <# VB) | <# MD|VBZ|VBP|VBD | < (VP [<# MD|VBP|VBZ|VBD | < CC < (VP <# MD|VBP|VBZ|VBD)])])"
 
 #fragment T-unit
-ft="'FRAG > ROOT !<< (S|SBARQ|SINV|SQ > ROOT | [$-- S|SBARQ|SINV|SQ !>> SBAR|VP])'"
+ft="FRAG > ROOT !<< (S|SBARQ|SINV|SQ > ROOT | [$-- S|SBARQ|SINV|SQ !>> SBAR|VP])"
 
 #list of patterns for which we need the actual trees
 matchlist=[c,t,fc,ft]
 #list of patterns for which we only need the counts
 countlist=[s,vp,dc,ct,cp,cn1,cn2,cn3,vp_q]
+
+#dict for the compiled patterns
+patterns = {}
 
 #list of measures 
 lu_measure_list = ['MLC', 'MLT',
@@ -218,9 +222,26 @@ lu_measure_list = ['MLC', 'MLT',
                    'C/T', 'CT/T', 'DC/C', 'DC/T',
                    'CP/C', 'CP/T', 'T/S',
                    'CN/C', 'CN/T', 'VP/T']
-                   
-tregex = "./L2SCA-2016-06-30/tregex.sh "
-folder = "L2SCA-2016-06-30/"
+
+#paths and objects for tregex
+stanford_folder = "stanford-parser-full-2017-06-09"
+nlp = None
+
+def _init_tregex():
+    """
+    Initialized the JVM and compiles the tregex patterns.
+    """
+    global patterns, nlp
+    #start the JVM
+    startJVM(getDefaultJVMPath(),
+             "-ea",
+             "-mx2048m",
+             "-Djava.class.path={}".format(stanford_folder))
+             
+    nlp = JPackage("edu").stanford.nlp
+    TregexPattern = nlp.trees.tregex.TregexPattern
+    for pattern in matchlist + countlist:
+        patterns[pattern] = TregexPattern.compile(pattern)
  
 def lus_measures(trees):
     """
@@ -230,39 +251,36 @@ def lus_measures(trees):
     Returns a dict with the value for each measure indexed by the
     abbreviation from Lu (2010, Table 1)
     """
+    
+    #check if tregex has already been initiliazed, if not , dot it
+    if patterns == {}:
+        _init_tregex()
+    
     #dict holding the matches
     matches=dict([(pattern, []) for pattern in matchlist])
     #dict holding the counts
     counts=dict([(pattern, 0) for pattern in countlist])
     
-    #check if it has a root node, if not, add one:
-    with open('trees', 'w') as temp:
-        for tree in trees:
-            if tree.label() != 'ROOT':
-                tree = Tree('ROOT', [tree])
-            temp.write(str(tree)+'\n')
+    #import edu.stanford.nlp.trees.Tree
+    nlpTree = nlp.trees.Tree
+    
     #retrieve the matching trees where we need them
-    for pattern in matchlist:
-        command = tregex +  "-s " + pattern + " " + "trees"
-        output = commands.getoutput(command).split('\n')
-        count_line = output[-1]
-        number = re.compile('[0-9]+')
-        #get the number of subtrees that have been found
-        try:
-            count = int(re.findall(number, count_line)[0])
-        except IndexError:
-            print 'Could not find number of matches'
-            raise KeyboardInterrupt
-        matches[pattern] = output[-(count+1):-1]
-    #retrieve the counts for the other patterns
-    for pattern in countlist:
-        command = tregex + "-C -o " + pattern + " " + "trees"
-        output = commands.getoutput(command).split('\n')
-        count = float(output[-1])
-        counts[pattern] = count
-        
-    #delete temp file again
-    os.remove('trees')    
+    for tree in trees:
+        if tree.label() != 'ROOT':
+            tree = Tree('ROOT', [tree])
+        #transform into Java object
+        tree = nlpTree.valueOf(str(tree))
+        print tree
+        for pattern in matchlist:
+            matcher = patterns[pattern].matcher(tree)
+            while matcher.findNextMatchingNode():
+                match = matcher.getMatch().toString()
+                matches[pattern].append(match)
+        #retrieve the counts for the other patterns
+        for pattern in countlist:
+            matcher = patterns[pattern].matcher(tree)
+            while matcher.findNextMatchingNode():
+                counts[pattern] += 1.0
       
     #merge subcategories
     matches[c] = matches[c] + matches[fc]
