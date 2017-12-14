@@ -1,0 +1,110 @@
+[0],"(ROOT (FRAG (PP (UH Okay)) (, ,)))"
+[1],"(ROOT (S (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (DT the) (NN conversation)))) (VP (VP (VBZ is) (NP (NP (JJ national) (NN health) (NN insurance)) (, ,) (CC and) (NP (DT the) (NNS pros) (CC and) (NNS cons)) (, ,))) (CC and) (VP (VBP do) (NP (PRP I)) (, ,) (VBP do) (NP (PRP we))) (VP (VB think) (SBAR (IN that) (S (NP (DT the) (NN government)) (VP (MD should) (VP (VB finance) (NP (PRP it)))))))) (. .)))"
+[2],(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (PRP$ your) (NN opinion))) (. ?)))
+[3],(ROOT (S (NP (PRP I)) (VP (VBP say) (NP (UH yes))) (. .)))
+[5],(ROOT (INTJ (UH Yes) (. .)))
+[6],"(ROOT (FRAG (PP (NP (NN Mother) (NNS lives)) (PP (IN in) (NP (NNP Florida)))) (, ,)))"
+[4],(ROOT (S (NP (PRP You)) (VP (VBP say) (NP (UH yes))) (. .)))
+[7],"(ROOT (S (S (CC and) (NP (EX there)) (VP (VBP are))) (, ,) (S (PP (IN in) (NP (PRP$ her) (NN subdivision))) (NP (EX there)) (VP (VBP are) (NP (NP (NP (CD fifty) (NN percent)) (NNPS Canadians)) (SBAR (WHNP (WP who)) (S (VP (MD wo) (RB n't) (VP (VB give) (PRT (RP up)) (NP (PRP$ their) (JJ Canadian) (NN citizenship)) (SBAR (IN because) (FRAG (PP (IN of) (NP (DT the) (NN health) (NN insurance)))))))))))) (. .)))"
+[8],"(ROOT (S (NP (PRP I)) (VP (VBP have) (VP (VBN heard) (NP (NN someone)) (ADVP (RB else) (PRN (, ,) (INTJ (UH uh)) (, ,)) (S (VP (VBP say) (SBAR (WHNP (IN that)) (PRN (, ,) (INTJ (UH uh)) (, ,)) (S (NP (DT the) (JJ Canadian) (NN health) (NN insurance)) (VP (VBZ is) (ADJP (RB absolutely) (JJ excellent))))))))))))"
+[9],(ROOT (S (NP (PRP It)) (VP (BES 's) (ADJP (JJ wonderful))) (. .)))
+[10],(ROOT (S (NP (NP (QP (CC and) (CD one))) (PP (IN of) (NP (NP (DT the) (NNS ways)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG financing) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (PRP they)))))))))))) (VP (VBP have) (NP (NP (DT an) (JJ exorbitant) (NN tax)) (PP (IN on) (NP (PRP$ their) (NNS cigarettes))))) (. .)))
+[11],"(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (. .))))"
+[13],"(ROOT (FRAG (INTJ (UH Well)) (, ,) (ADVP (. .))))"
+[15],"(ROOT (FRAG (INTJ (UH Well)) (, ,) (PP (ADVP (RB even)) (IN if) (NP (DT that) (BES 's)))))"
+[16],"(ROOT (S (ADVP (RB so)) (, ,) (NP (PRP you)) (VP (VBP know) (PRN (, ,) (S (ADVP (ADVP (RB really)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP look) (PP (IN at) (NP (PRP it))))))) (, ,) (NP (PRP they)) (VP (VBP have) (NP (JJ full) (NN coverage)))) (, ,)))))"
+[17],"(ROOT (S (NP (PRP they)) (VP (VBP have) (NP (NP (NN H) (NN M) (NN O)) (, ,) (SBAR (WHNP (WDT which)) (, ,) (S (NP (PRP you)) (VP (VBP know))))) (, ,) (SBAR (IN after) (S (NP (PRP you)) (VP (VBP get) (ADJP (JJ used)) (PP (IN to) (NP (PRP it))) (PRN (, ,) (S (NP (PRP it)) (VP (BES 's) (RB not) (ADJP (RB too) (JJ bad)))) (, ,))))))))"
+"[12, 14]","(ROOT (S (NP (DT This)) (VP (VBZ is) (ADVP (RB evidently)) (NP (NP (DT this)) (SBAR (S (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NNS ways)))) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG paying) (PP (IN for) (NP (NP (DT the) (NN program)) (PP (CC plus) (S (VP (VBG discouraging) (S (NP (DT the) (NNS people)) (VP (TO to) (VP (VB quit) (NP (NN smoking)) (SBAR (IN so) (S (NP (PRP they)) (VP (VBP do) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB pay) (PRT (RB out)) (PP (IN as) (NP (NP (ADJP (ADJP (JJ many)) (PRN (, ,) (INTJ (UH uh)) (, ,))) (NNS benefits)) (PP (IN on) (NP (UH like))))) (NP (NP (NN lung) (NN cancer) (CC and) (NNS things)) (PP (IN like) (NP (DT this)))))))))))))))))))))))))))) (. .)))"
+[19],"(ROOT (INTJ (UH Yeah) (, ,)))"
+[18],"(ROOT (S (CC and) (, ,) (INTJ (UH uh)) (, ,) (NP (NN everything)) (VP (VBZ is)) (VBN covered)))"
+[21],"(ROOT (PRN (CC and) (S (NP (PRP we)) (VP (VBP have) (NP (NP (ADJP (RB so) (JJ many)) (NNS people)) (PP (IN in) (NP (DT the) (NNP United) (NNP States)))) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP spend))))) (, ,))))"
+[20],"(ROOT (S (NP (PRP we)) (VP (, ,))))"
+[22],"(ROOT (S (INTJ (UH well)) (, ,) (ADVP (IN in) (NP (NP (PRP$ my) (NN family)) (ADVP (RB alone)))) (, ,) (NP (PRP we)) (VP (VBD spent) (NP (QP (CD four) (CD thousand)) (NNS dollars)) (PP (IN in) (NP (NNP July))) (PP (IN on) (NP (JJ medical) (NNS bills))))))"
+[24],(ROOT (S (NP (NN insurance)) (VP (VBD did) (RB n't) (VP (VB cover) (NP (DT a) (NN penny)))) (. .)))
+[23],"(ROOT (FRAG (INTJ (INTJ (UH Oh)) (, ,) (INTJ (UH my) (UH word))) (, ,) (NP (NNP Lynn)) (. .)))"
+[25],(ROOT (INTJ (UH Yeah) (. .)))
+[27],"(ROOT (INTJ (UH Yes) (, ,)))"
+[26],(ROOT (S (NP (DT That)) (VP (BES 's) (ADJP (JJ horrible))) (. .)))
+[28],(ROOT (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ horrible))) (. .)))
+[30],"(ROOT (INTJ (UH Yeah) (, ,)))"
+[29],"(ROOT (S (INTJ (UH Well)) (, ,) (NP (NP (PRP we)) (SBAR (S (VP (VBP 're) (ADJP (JJ fortunate) (PP (IN in) (NP (DT that) (PRP we)))) (, ,) (S (ADVP (RB so) (RB far)) (, ,) (VP (VB knock) (PP (IN on) (NP (NN wood))))))))) (, ,) (NP (NP (JJS most)) (PP (IN of) (NP (PRP us)))) (VP (VBP have) (VP (VBN been) (ADJP (RB relati-) (, ,) (RB real) (JJ healthy))))))"
+[31],"(ROOT (FRAG (CC but) (NP (, ,))))"
+[33],"(ROOT (S (INTJ (UH Uh)) (, ,) (ADVP (IN if)) (VP (ADVP (PRP you)) (VP (VBP 're) (ADJP (JJ healthy) (SBAR (S (NP (PRP it)) (VP (BES 's) (ADJP (JJ fine)))))))) (, ,)))"
+[32],(ROOT (S (RB so) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ medical) (NNS bills)))))) (. .)))
+[35],"(ROOT (INTJ (UH Yeah) (, ,)))"
+[34],(ROOT (S (CC but) (NP (PRP I)) (VP (VBD had) (NP (NP (CD two) (NNS kids)) (PP (IN in) (NP (NP (DT the) (NN hospital)) (PP (IN in) (NP (NNP July))))))) (. .)))
+[37],"(ROOT (INTJ (UH Yeah) (, ,)))"
+[36],(ROOT (S (CC but) (NP (WP what)) (VP (VBZ worries) (SBAR (S (NP (PRP me)) (VP (VBZ is) (NP (DT the) (NN fact)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP do) (RB n't)))) (PP (IN like) (NP (NP (DT the) (NN government)) (VP (VBG telling) (NP (PRP me)) (SBAR (SBAR (WHNP (WP who)) (S (NP (PRP I)) (VP (MD can) (VP (VB see))))) (CC and) (SBAR (WHNP (WP who)) (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB see))))))))))))) (. .)))
+[38],"(ROOT (S (ADVP (CC but)) (, ,) (NP (PRP you)) (VP (VBP know) (, ,) (SBAR (S (NP (NNP Richardson) (NNP School) (NNP District)) (VP (VBZ has) (NP (DT the) (NN H) (NN M) (NN O))))))))"
+[39],(ROOT (INTJ (UH Uh-huh) (. .)))
+[40],(ROOT (S (NP (NP (QP (CC and) (CD ninety)) (NN percent)) (PP (IN of) (NP (NP (DT the) (NNS doctors)) (SBAR (S (NP (PRP you)) (VP (MD would) (VP (VB choose)))))))) (VP (VBP are) (PP (IN on) (NP (DT that) (NN list)))) (. .)))
+[41],(ROOT (S (VP (VBP Are) (NP (PRP they))) (. ?)))
+[42],(ROOT (INTJ (UH Yeah) (. .)))
+[43],"(ROOT (S (INTJ (UH Well)) (, ,) (NP (PRP I)) (VP (VBP know) (SBAR (IN that) (S (NP (NNP Gre-) (, ,) (NNP James)) (VP (VBD had) (NP (PRP it)))))) (. .)))"
+[44],(ROOT (S (NP (NNP McCullum)) (VP (VBZ is)) (. .)))
+[45],(ROOT (S (NP (PRP I)) (VP (VBP beg) (NP (PRP$ your) (NN pardon))) (. .)))
+[47],"(ROOT (INTJ (UH Yeah) (, ,)))"
+[48],(ROOT (INTJ (UH yeah) (. .)))
+[49],"(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (NNP James)) (VP (VBD was) (PP (IN with) (NP (NNP Continental) (NNP Steel)))))) (, ,) (NP (NNP McCullum)) (VP (VBD was) (NP (NP (NN part)) (PP (IN of) (NP (DT that)))))))) (, ,)))"
+[50],"(ROOT (S (CC and) (, ,) (S (CC and) (NP (DT that)) (VP (BES 's) (ADJP (JJ good)))) (. .)))"
+[51],"(ROOT (S (CC But) (NP (PRP I)) (ADVP (RB also)) (VP (VBD heard) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (S (INTJ (UH like)) (, ,) (INTJ (UH uh)) (, ,) (NP (NP (PRP$ my) (NN friend) (POS 's)) (NN daughter)) (VP (VBD was) (PP (IN on) (NP (PRP it))) (PP (IN through) (NP (NNP Texas) (NNP Instruments)))))) (, ,)))"
+[46],(ROOT (S (NP (NNP McCullum)) (VP (VBZ is)) (. .)))
+[52],(ROOT (PRN (CC and) (S (NP (PRP she)) (VP (VBD was) (PP (IN on) (NP (DT that) (NNP Kaiser) (NNP Permanente)))))))
+[54],"(ROOT (PRN (CC and) (S (NP (PRP they)) (VP (VBD had) (VP (VBN screwed) (PRT (RP up)) (NP (PRP$ her) (NN appointment)))) (, ,))))"
+[55],"(ROOT (S (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD went) (ADVP (RB in))))) (, ,) (NP (PRP she)) (VP (VBD had) (S (VP (TO to) (VP (VB take) (SBAR (WHNP (WDT whichever)) (S (NP (NN doctor)) (VP (VBD was) (ADJP (JJ available))) (, ,)))))))))"
+[56],"(ROOT (FRAG (PP (CC and) (NP (PRP they))) (, ,)))"
+[53],(ROOT (INTJ (UH Uh-huh) (. .)))
+[57],(ROOT (S (NP (PRP she)) (VP (MD would) (VP (VB have) (VP (VBN had) (S (VP (TO to) (VP (VB wait) (NP (UH like)) (NP (CD two) (NNS months)) (S (VP (TO to) (VP (VB get) (NP (NP (DT the) (NN doctor)) (SBAR (S (NP (PRP she)) (VP (VBD wanted)))))))))))))) (. .)))
+"[58, 60]","(ROOT (S (S (INTJ (UH Well)) (, ,) (CC but) (NP (DT that)) (VP (BES 's) (NP (DT that)))) (BES 's) (S (S (NP (DT a) (GW screw)) (VP (^NN up) (PP (IN in) (NP (DT an) (NN appointment))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)))))"
+[59],"(ROOT (S (CC But) (ADVP (RB then) (RB again)) (, ,) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP you)) (VP (MD can) (ADVP (RB even)) (VP (VB do) (NP (NP (DT that)) (PP (IN in) (NP (NNP McCullum))))))))) (. .)))"
+[61],(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (ADVP (RB back)) (PP (IN to) (NP (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ pregnant)))))))))))
+[63],"(ROOT (PRN (CC and) (S (NP (PRP I)) (VP (VBD had) (NP (CD two) (NNS doctors))) (, ,))))"
+[62],(ROOT (INTJ (UH Uh-huh) (. .)))
+[64],"(ROOT (FRAG (CC and) (NP (NP (CD one)) (SBAR (S (VP (VBD was) (NP (NP (PRP$ my) (JJ favorite)) (, ,) (NP (NP (NN personality)) (ADJP (JJ wise))))))))))"
+[65],(ROOT (INTJ (UH Uh-huh) (. .)))
+[66],"(ROOT (S (CC but) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD delivered) (NP (NNP Ronnie))))) (, ,) (NP (PRP he)) (VP (VBD was) (RB not) (PP (IN on) (NP (NN call))))))"
+[67],(ROOT (INTJ (UH Uh-huh) (. .)))
+[69],"(ROOT (S (INTJ (UH Well)) (, ,) (ADVP (DT that)) (VP (BES 's) (ADJP (JJ true))) (, ,)))"
+[68],(ROOT (S (NP (DT the) (JJ other) (NN guy)) (VP (VBD delivered) (NP (PRP him)))))
+[71],"(ROOT (S (NP (PRP you)) (VP (VP (VBP know)) (, ,) (CC and) (VP (FRAG (NP (DT that))))) (, ,)))"
+[70],(ROOT (S (CC and) (NP (DT that)) (ADVP (RB still)) (VP (VBZ goes) (PRT (RP on))) (. .)))
+[72],"(ROOT (S (ADVP (CC and)) (, ,) (NP (PRP you)) (VP (VP (VBP know)) (, ,) (SBAR (IN if) (, ,) (S (INTJ (UH um)) (, ,) (NP (PRP I)) (VP (VBP go) (PP (TO to) (NP (NNP Townsend)))))))))"
+[74],(ROOT (S (NP (PRP he)) (VP (BES 's) (VP (VBN got) (NP (DT a) (JJ new) (NN partner)))) (. .)))
+[75],(ROOT (S (NP (PRP I)) (VP (VBP go) (PP (IN to) (NP (NP (DT both)) (PP (IN of) (NP (PRP them))))) (ADVP (RB now))) (. .)))
+[73],(ROOT (INTJ (UH Uh-huh) (. .)))
+[77],(ROOT (INTJ (UH Right) (. .)))
+[79],X
+[81],"(ROOT (S (INTJ (UH Well)) (, ,) (ADVP (PRP you)) (VP (VP (VBP know)) (, ,) (ADVP (PRP it)) (, ,) (NP (UH uh))) (, ,)))"
+[82],(ROOT (SBARQ (WHADVP (WRB how)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB pay) (PP (IN for) (NP (PRP it)))))))))))) (. ?)))
+"[76, 78, 80]","(ROOT (S (S (NP (PRP You)) (VP (VBP know) (PRN (, ,) (S (NP (PRP I)) (VP (VBP have) (NP (DT no) (NN choice)) (PP (IN because) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB go)))))))))) (, ,)) (SBAR (IN if) (S (NP (NP (NNP Dr) (. .)) (UCP (NP (NNP Howe)) (CC or) (SBAR (WHNP (WDT whatever)) (S (NP (PRP$ his) (NN name)) (VP (VBZ is)))))) (VP (VBZ is) (PP (IN on) (NP (NN duty)))))))) (, ,) (NP (PRP I)) (VP (VBP go) (PP (IN to) (NP (PRP him)))) (. .)))"
+[84],"(ROOT (INTJ (INTJ (UH Well)) (, ,) (INTJ (UH no) (, ,))))"
+[83],(ROOT (FRAG (PP (RBR More) (NP (NP (QP (CC and) (JJR more))) (NP (NNS taxes))) (. ?)) (. .)))
+[85],"(ROOT (S (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VP (VB cut) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ our) (NNS spendings))))) (, ,) (VP (VB cut) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NN fat)))) (PP (IN off) (NP (DT the) (NN top)))) (CC and) (VP (VB whittle) (NP (PRP it)) (PRT (RP down)) (PP (TO to) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (PRP us)))))))))) (. .)))"
+[86],(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (IN that) (S (NP (PRP it)) (VP (BES 's) (VP (VBG getting) (PP (IN to) (NP (DT the) (NN point))) (SBAR (IN that) (S (NP (DT the) (NN insurance)) (VP (VBZ does) (RB n't) (VP (VB pay) (ADJP (RB that) (JJ much)) (PP (IN on) (NP (JJ catastrophic) (NNS illnesses)))))))))))) (. .)))
+[87],(ROOT (INTJ (UH No) (. .)))
+"[88, 90]","(ROOT (S (NP (PRP They)) (VP (VBP do) (RB n't) (VP (VB pay) (NP (NP (NN anything)) (PP (IN on) (PRN (, ,) (INTJ (UH uh)) (, ,)) (NP (NNS implants) (CC or) (NNS transplants)))))) (, ,)))"
+[91],"(ROOT (PRN (CC and) (S (, ,) (NP (PRP you)) (VP (VBP know) (, ,) (SBAR (S (NP (NNS people)) (VP (VBP are) (VP (VBG needing) (NP (DT these))))))) (, ,))))"
+[89],(ROOT (INTJ (UH No) (. .)))
+[93],(ROOT (INTJ (UH Yeah) (. .)))
+"[92, 94]","(ROOT (S (S (CC and) (NP (DT the) (JJ average) (NN person)) (VP (MD ca) (RB n't) (VP (VB afford)))) (, ,) (NP (PRP you)) (VP (VBP know) (, ,) (ADVP (NP (NP (DT a) (NN heart)) (CC or) (NP (DT a) (NN kidney))) (IN on)) (PP (RB just) (NP (PRP$ their) (JJ own)))) (. .)))"
+[95],"(ROOT (S (CC But) (NP (PRP you)) (VP (VP (S (VP (VBN known) (PRN (, ,) (NP (NNP Ronnie)) (, ,)) (PP (IN in) (NP (NNP Austin))))) (, ,) (VP (VBD went) (PP (IN to) (NP (DT a) (NN program))))) (CC and) (VP (VBD went) (PP (IN to) (NP (DT a) (JJ social) (NN worker)))))))"
+[97],"(ROOT (FRAG (CC and) (PP (IN at) (NP (NP (DT the) (JJ same) (JJ token)) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NN something))) (, ,)))))))"
+[96],(ROOT (INTJ (UH Uh-huh) (. .)))
+[98],"(ROOT (SBAR (IN because) (S (NP (PRP he)) (VP (MD can) (VP (VB get) (NP (PRP$ his) (NNS pills)) (PP (IN for) (NP (NP (CD two) (NNS dollars)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG paying) (NP (CD fifteen)) (PP (IN on) (NP (PRP$ my) (JJ medical) (NN insurance))))))))))))))"
+[99],(ROOT (FRAG (UH Good) (INTJ (UH grief)) (. .)))
+"[100, 102]","(ROOT (S (S (CC and) (NP (PRP he)) (VP (MD can) (VP (VB get) (NP (JJ free) (JJ medical) (NN care))))) (, ,) (CC but) (S (NP (PRP he)) (VP (VBZ has) (S (VP (TO to) (VP (VB go) (PP (IN to) (NP (NP (DT the) (NN city) (NN hospital)) (ADJP (IN instead) (PP (IN of) (S (VP (VBG seeing) (NP (NNP David))))))))))))) (CC and) (S (ADVP (RB so) (RB again)) (, ,) (NP (PRP you)) (VP (VBP know)) (, ,))))"
+[103],"(ROOT (S (NP (PRP we)) (VP (VBD went) (PP (IN through) (NP (NP (PRP it)) (, ,) (NP (NNP Ronnie)) (BES 's)) (ADVP (RB home))) (NP (RB tonight))) (, ,)))"
+[104],"(ROOT (SQ (S (CC and) (NP (PRP we)) (VP (VP (VBD talked) (PP (IN about) (NP (PRP it)))) (CC and) (VP (VBD said) (, ,) (S (NP (PRP you)) (VP (VBP know)))))) (, ,) (SQ (VBZ is) (NP (PRP it)) (PP (JJ worth) (NP (PRP it)))) (. ?)))"
+[105],"(ROOT (INTJ (UH Yeah) (, ,)))"
+[101],(ROOT (INTJ (UH Uh-huh) (. .)))
+[107],"(ROOT (FRAG (PP (UH Uh-huh)) (, ,)))"
+[106],"(ROOT (S (NP (PRP you)) (VP (VBP know) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ pays) (NP (CD forty-five) (NNS dollars)) (NP (DT a) (NN month)) (PP (IN for) (NP (PRP$ his) (NNS prescriptions))))) (, ,)) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (MD could) (VP (VB pay) (NP (CD six) (NNS dollars))))))) (. .)))"
+[108],(ROOT (INTJ (UH uh-huh) (. .)))
+[110],(ROOT (FRAG (ADJP (RB Very) (JJ true)) (. .)))
+[112],"(ROOT (NP (S (S (INTJ (UH Well)) (, ,) (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT the) (NNP Medicaid))))))) (, ,) (NP (PRP you)) (VP (VBP know) (PRN (, ,) (PP (IN for) (NP (NP (DT those)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (NN trouble))))))) (, ,))))))"
+[113],"(ROOT (PRN (CC and) (S (NP (PRP I)) (VP (VBP know) (SBAR (IN that) (S (INTJ (UH like)) (NP (PRP we)) (VP (VBP have) (S (NP (ADJP (DT the) (PRN (, ,) (INTJ (UH uh)) (, ,))) (NN prescription) (NNS cards)) (NP (WDT which))))))) (, ,))))"
+"[109, 111]","(ROOT (NP (S (S (INTJ (UH So)) (, ,) (NP (EX there)) (VP (VBP are) (NP (NNS programs)))) (, ,) (NP (PRP you)) (VP (VBP know) (PRN (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP get) (PP (IN on) (NP (NP (NNP Medicare) (CC or) (NNP Medicaid)) (CC or) (NP (NP (CD one)) (PP (IN of) (NP (DT those))))))))) (, ,))))))"
+[114],(ROOT (S (NP (DT that)) (VP (HVS 's) (VP (VBN helped) (NP (NNS bunches))))))
+[116],"(ROOT (FRAG (CC and) (S (VP (VP (, ,) (S (VP (VBP wonder) (PP (IN if) (NP (DT the) (NN insurance)))))) (PRN (S (NP (NNS companies)) (VP (VBP are) (VP (VBG fighting) (NP (DT the) (JJ national) (NN health))))) (, ,))))))"
+[115],(ROOT (INTJ (UH Yeah) (. .)))
+[117],(ROOT (S (CC or) (VP (VBP wonder) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG wanting) (NP (PRP it))))))) (. .)))
