@@ -33,7 +33,7 @@ K/KB/KBD.xml,KBDRE00M,64303,30,,A,17,3,Have you been to put a bet on?,"[Have/VB,
 K/KB/KBD.xml,KBDRE00M,64303,31,,B,18,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBD.xml,KBDRE00M,64303,32,,B,18,2,How did you know?,"[How/WRB, did/VBD, you/PRP, know/VB, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBD did) (NP (PRP you)) (VP (VB know))) (. ?)))
 K/KB/KBD.xml,KBDRE00M,64303,33,,A,19,1,I guessed.,"[I/PRP, guessed/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD guessed)) (. .)))
-K/KB/KBD.xml,KBDRE00M,64303,34,,B,20,1,(()) ,[],X
+K/KB/KBD.xml,KBDRE00M,64303,34,,B,20,1,(()) ,[],
 K/KB/KBD.xml,KBDRE00M,64303,35,,A,21,1,<laugh> --,"[What/WDT, on/IN, one/CD, race/NN, or/CC]",(ROOT (FRAG (SBAR (WHNP (WDT What)) (FRAG (PP (IN on) (NP (NP (CD one)) (NX (NX (NN race)) (CC or))))))))
 K/KB/KBD.xml,KBDRE00M,64303,36,,A,21,2,--What on one race or,"[What/WDT, on/IN, one/CD, race/NN, or/CC]",(ROOT (FRAG (SBAR (WHNP (WDT What)) (FRAG (PP (IN on) (NP (NP (CD one)) (NX (NX (NN race)) (CC or))))))))
 K/KB/KBD.xml,KBDRE00M,64303,37,,B,22,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -54,7 +54,7 @@ K/KB/KBD.xml,KBDRE00M,64303,51,,B,28,1,Who's dead?,"[Who/WP, 's/VBZ, dead/JJ, ?/
 K/KB/KBD.xml,KBDRE00M,64303,52,,A,29,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
 K/KB/KBD.xml,KBDRE00M,64303,53,,A,29,2,"Some, somebody on the County Council.","[Some/DT, ,/,, somebody/NN, on/IN, the/DT, County/NNP, Council/NN, ./.]","(ROOT (NP (NP (DT Some)) (, ,) (NP (NP (NN somebody)) (PP (IN on) (NP (DT the) (NNP County) (NN Council)))) (. .)))"
 K/KB/KBD.xml,KBDRE00M,64303,54,,A,29,3,"He's probably been dead for about two years, they haven't noticed!","[He/PRP, 's/VBZ, probably/RB, been/VBN, dead/JJ, for/IN, about/IN, two/CD, years/NNS, ,/,, they/PRP, haven/NN, 't/PRP, noticed/VBD, !/.]","(ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB probably)) (VP (VBN been) (ADJP (JJ dead)) (PP (IN for) (PP (IN about) (NP (CD two) (NNS years)))) (, ,) (S (NP (PRP they)) (NP (NN haven)))))) (NP (PRP 't)) (VP (VBD noticed)) (. !)))"
-K/KB/KBD.xml,KBDRE00M,64303,55,,B,30,1,<laugh> ,[],X
+K/KB/KBD.xml,KBDRE00M,64303,55,,B,30,1,<laugh> ,[],
 K/KB/KBD.xml,KBDRE00M,64303,56,,A,31,1,"In that case, if this Thursday ge- get anything like the other Thursdays we've got enough to last.","[In/IN, that/DT, case/NN, ,/,, if/IN, this/DT, Thursday/NNP, ge-/NNP, get/VB, anything/NN, like/IN, the/DT, other/JJ, Thursdays/NNPS, we/PRP, 've/VBP, got/VBN, enough/RB, to/TO, last/VB, ./.]","(ROOT (S (PP (IN In) (NP (DT that) (NN case))) (, ,) (SBAR (IN if) (S (NP (DT this) (NNP Thursday) (NNP ge-)) (VP (VB get) (NP (NN anything)) (PP (IN like) (NP (DT the) (JJ other) (NNPS Thursdays)))))) (NP (PRP we)) (VP (VBP 've) (VP (VBN got) (ADVP (RB enough)) (S (VP (TO to) (VP (VB last)))))) (. .)))"
 K/KB/KBD.xml,KBDRE00M,64303,57,,B,32,1,<laugh> --,"[Is/VBZ, there/EX, a/DT, book/NN, for/IN, that/DT, like/IN, ?/.]",(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (NP (DT a) (NN book)) (PP (IN for) (NP (NP (DT that)) (PP (IN like))))) (. ?)))
 K/KB/KBD.xml,KBDRE00M,64303,58,,B,32,2,--Is there a book for that like?,"[Is/VBZ, there/EX, a/DT, book/NN, for/IN, that/DT, like/IN, ?/.]",(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (NP (DT a) (NN book)) (PP (IN for) (NP (NP (DT that)) (PP (IN like))))) (. ?)))

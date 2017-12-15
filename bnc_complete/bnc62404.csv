@@ -40,11 +40,11 @@ K/KB/KB9.xml,KB9RE00Y,62404,37,,B,18,3,"No not yet, no.","[No/DT, not/RB, yet/RB
 K/KB/KB9.xml,KB9RE00Y,62404,38,,B,18,4,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KB/KB9.xml,KB9RE00Y,62404,39,,B,18,5,Just get these  (()) ,"[Just/RB, get/VB, these/DT]",(ROOT (S (ADVP (RB Just)) (VP (VB get) (NP (DT these)))))
 K/KB/KB9.xml,KB9RE00Y,62404,40,,B,18,6,Right I'll make this cheque out.,"[Right/JJ, I/PRP, 'll/MD, make/VB, this/DT, cheque/NN, out/RP, ./.]",(ROOT (S (ADVP (JJ Right)) (NP (PRP I)) (VP (MD 'll) (VP (VB make) (NP (DT this) (NN cheque)) (PRT (RP out)))) (. .)))
-K/KB/KB9.xml,KB9RE00Y,62404,41,,B,18,7,(()) ,[],X
+K/KB/KB9.xml,KB9RE00Y,62404,41,,B,18,7,(()) ,[],
 K/KB/KB9.xml,KB9RE00Y,62404,42,,B,18,8,Just the amount that's on this?,"[Just/RB, the/DT, amount/NN, that/WDT, 's/VBZ, on/IN, this/DT, ?/.]",(ROOT (NP (RB Just) (DT the) (NN amount) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (PP (IN on) (NP (DT this)))))) (. ?)))
 K/KB/KB9.xml,KB9RE00Y,62404,43,,A,19,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KB9.xml,KB9RE00Y,62404,44,,B,20,1,This  (()) ,[This/DT],(ROOT (FRAG (NP (DT This))))
-K/KB/KB9.xml,KB9RE00Y,62404,45,,A,21,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE00Y,62404,45,,A,21,1,(()) ,[],
 K/KB/KB9.xml,KB9RE00Y,62404,46,,B,22,1,Where you going?,"[Where/WRB, you/PRP, going/VBG, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (S (NP (PRP you)) (VP (VBG going))) (. ?)))
 K/KB/KB9.xml,KB9RE00Y,62404,47,,B,22,2,You escaping?<baby talk> ,"[You/PRP, escaping/VBG, ?/.]",(ROOT (NP (NP (PRP You)) (VP (VBG escaping)) (. ?)))
 K/KB/KB9.xml,KB9RE00Y,62404,48,,A,23,1,After the one off victory!,"[After/IN, the/DT, one/CD, off/RP, victory/NN, !/.]",(ROOT (FRAG (PP (IN After) (NP (NP (DT the) (CD one)) (PP (RP off) (NP (NN victory))))) (. !)))
@@ -91,7 +91,7 @@ K/KB/KB9.xml,KB9RE00Y,62404,88,,A,47,3,--leave that there.,"[Well/RB, leave/VB, 
 K/KB/KB9.xml,KB9RE00Y,62404,89,,B,48,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
 K/KB/KB9.xml,KB9RE00Y,62404,90,,A,49,1,Where are you going?,"[Where/WRB, are/VBP, you/PRP, going/VBG, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP are) (NP (PRP you)) (VP (VBG going))) (. ?)))
 K/KB/KB9.xml,KB9RE00Y,62404,91,,A,49,2,You going over there?,"[You/PRP, going/VBG, over/IN, there/EX, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBG going) (PP (IN over) (NP (EX there)))) (. ?)))
-K/KB/KB9.xml,KB9RE00Y,62404,92,,B,50,1,<clears throat> ,[],X
+K/KB/KB9.xml,KB9RE00Y,62404,92,,B,50,1,<clears throat> ,[],
 K/KB/KB9.xml,KB9RE00Y,62404,93,,A,51,1,What's wrong with her then?<phone rings> ,"[What/WP, 's/VBZ, wrong/JJ, with/IN, her/PRP$, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBZ 's) (ADJP (JJ wrong) (PP (IN with) (NP (PRP$ her) (RB then)))))) (. ?)))
 K/KB/KB9.xml,KB9RE00Y,62404,94,,B,52,1,Ooh!,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
 K/KB/KB9.xml,KB9RE00Y,62404,95,,B,52,2,Watch her a minute.,"[Watch/VB, her/PRP, a/DT, minute/NN, ./.]",(ROOT (S (VP (VB Watch) (NP (NP (PRP her)) (NP (DT a) (NN minute)))) (. .)))

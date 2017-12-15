@@ -1,9 +1,9 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE05W,2813,0,,A,1,1,Was it exciting in the shop today?,"[Was/VBD, it/PRP, exciting/JJ, in/IN, the/DT, shop/NN, today/NN, ?/.]",(ROOT (SQ (VBD Was) (NP (PRP it)) (ADJP (JJ exciting) (PP (IN in) (NP (DT the) (NN shop) (NN today)))) (. ?)))
-K/KB/KBK.xml,KBKRE05W,2813,1,,B,2,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05W,2813,1,,B,2,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05W,2813,2,,A,3,1,I had a chip incidentally fallen off your plate.,"[I/PRP, had/VBD, a/DT, chip/NN, incidentally/RB, fallen/VBN, off/RP, your/PRP$, plate/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD had) (NP (DT a) (NN chip)) (ADVP (RB incidentally)) (VP (VBN fallen) (PRT (RP off)) (NP (PRP$ your) (NN plate)))) (. .)))
 K/KB/KBK.xml,KBKRE05W,2813,3,,A,3,2,They're rather good weren't they?,"[They/PRP, 're/VBP, rather/RB, good/JJ, weren/NN, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB rather) (NP (JJ good) (NN weren))) (NP (NP (PRP 't)) (NP (PRP they)))) (. ?)))
 K/KB/KBK.xml,KBKRE05W,2813,4,,B,4,1,Yeah they were nice.,"[Yeah/UH, they/PRP, were/VBD, nice/JJ, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP they)) (VP (VBD were) (ADJP (JJ nice)))) (. .)))
 K/KB/KBK.xml,KBKRE05W,2813,5,,A,5,1,Mm  --,"[Mm/NN, What/WDT, you/PRP, going/VBG, to/TO, do/VB, with/IN, Sam/NNP, tonight/NNP, ?/.]",(ROOT (FRAG (NP (NP (NN Mm)) (SBAR (WHNP (WDT What)) (S (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NNP Sam) (NNP tonight)))))))))) (. ?)))
 K/KB/KBK.xml,KBKRE05W,2813,6,,A,5,2,--What you going to do with Sam tonight?,"[Mm/NN, What/WDT, you/PRP, going/VBG, to/TO, do/VB, with/IN, Sam/NNP, tonight/NNP, ?/.]",(ROOT (FRAG (NP (NP (NN Mm)) (SBAR (WHNP (WDT What)) (S (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NNP Sam) (NNP tonight)))))))))) (. ?)))
-K/KB/KBK.xml,KBKRE05W,2813,7,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05W,2813,7,,B,6,1,(()) ,[],

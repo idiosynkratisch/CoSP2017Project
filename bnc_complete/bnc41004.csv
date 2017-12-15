@@ -20,7 +20,7 @@ K/KC/KC1.xml,KC1RE00P,41004,17,,B,12,1,Forged stop?,"[Forged/VBN, stop/NN, ?/.]"
 K/KC/KC1.xml,KC1RE00P,41004,18,,B,12,2,"Oh, I wonder why it says that then?","[Oh/UH, ,/,, I/PRP, wonder/VBP, why/WRB, it/PRP, says/VBZ, that/IN, then/RB, ?/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (VBP wonder) (SBAR (WHADVP (WRB why)) (S (NP (PRP it)) (VP (VBZ says) (ADVP (IN that) (RB then)))))) (. ?)))"
 K/KC/KC1.xml,KC1RE00P,41004,19,,B,12,3,"That's five seconds, reset  --","[That/DT, 's/VBZ, five/CD, seconds/NNS, ,/,, reset/VB, then/RB, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (CD five) (NNS seconds)) (, ,) (S (VP (VB reset) (ADVP (RB then))))) (. .)))"
 K/KC/KC1.xml,KC1RE00P,41004,20,,B,12,4,--then (()) .,"[That/DT, 's/VBZ, five/CD, seconds/NNS, ,/,, reset/VB, then/RB, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (CD five) (NNS seconds)) (, ,) (S (VP (VB reset) (ADVP (RB then))))) (. .)))"
-K/KC/KC1.xml,KC1RE00P,41004,21,,A,13,1,<cough> ,[],X
+K/KC/KC1.xml,KC1RE00P,41004,21,,A,13,1,<cough> ,[],
 K/KC/KC1.xml,KC1RE00P,41004,22,,B,14,1,It's got that again!,"[It/PRP, 's/VBZ, got/VBD, that/DT, again/RB, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBD got) (NP (DT that)) (ADVP (RB again)))) (. !)))
 K/KC/KC1.xml,KC1RE00P,41004,23,,A,15,1,Mm!,"[Mm/NN, !/.]",(ROOT (NP (NN Mm) (. !)))
 K/KC/KC1.xml,KC1RE00P,41004,24,,B,16,1,Record that,"[Record/NN, that/WDT]",(ROOT (FRAG (WHPP (NN Record) (WHNP (WDT that)))))

@@ -10,7 +10,7 @@ K/KD/KD3.xml,KD3RE000,24701,7,,A,1,8,Oh right.,"[Oh/UH, right/RB, ./.]",(ROOT (S
 K/KD/KD3.xml,KD3RE000,24701,8,,A,1,9,Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,9,,A,1,10,No  --,"[No/DT, you/PRP, be/VB, good/JJ, boy/NN, ./.]",(ROOT (S (NP (DT No) (PRP you)) (VP (VB be) (ADJP (JJ good)) (NP (NN boy))) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,10,,A,1,11,--you be good boy.,"[No/DT, you/PRP, be/VB, good/JJ, boy/NN, ./.]",(ROOT (S (NP (DT No) (PRP you)) (VP (VB be) (ADJP (JJ good)) (NP (NN boy))) (. .)))
-K/KD/KD3.xml,KD3RE000,24701,11,,B,2,1,<crying> ,[],X
+K/KD/KD3.xml,KD3RE000,24701,11,,B,2,1,<crying> ,[],
 K/KD/KD3.xml,KD3RE000,24701,12,,A,3,1,No look.,"[No/DT, look/NN, ./.]",(ROOT (NP (DT No) (NN look) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,13,,A,3,2,"Here you are, look.","[Here/RB, you/PRP, are/VBP, ,/,, look/VBP, ./.]","(ROOT (S (ADVP (RB Here)) (NP (PRP you)) (VP (VP (VBP are)) (, ,) (VP (VBP look))) (. .)))"
 K/KD/KD3.xml,KD3RE000,24701,14,,A,3,3,Play with your rattle.,"[Play/VB, with/IN, your/PRP$, rattle/VBP, ./.]",(ROOT (S (VP (VB Play) (SBAR (IN with) (S (NP (PRP$ your)) (VP (VBP rattle))))) (. .)))
@@ -21,7 +21,7 @@ K/KD/KD3.xml,KD3RE000,24701,18,,A,3,7,You play with that.,"[You/PRP, play/VBP, w
 K/KD/KD3.xml,KD3RE000,24701,19,,A,3,8,Be a good boy.,"[Be/VB, a/DT, good/JJ, boy/NN, ./.]",(ROOT (S (VP (VB Be) (NP (DT a) (JJ good) (NN boy))) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,20,,A,3,9,Mummy's just getting your banana ready.,"[Mummy/NN, 's/POS, just/RB, getting/VBG, your/PRP$, banana/NN, ready/JJ, ./.]",(ROOT (S (VP (NP (NP (NN Mummy) (POS 's)) (PP (RB just) (S (VP (VBG getting) (S (NP (PRP$ your) (NN banana)) (ADJP (JJ ready)))))))) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,21,,A,3,10,"Alright, won't be a minute.","[Alright/NNP, ,/,, won/VBD, 't/PRP, be/VB, a/DT, minute/NN, ./.]","(ROOT (S (NP (NNP Alright) (, ,)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB be) (NP (DT a) (NN minute))))) (. .)))"
-K/KD/KD3.xml,KD3RE000,24701,22,,B,4,1,<crying> ,[],X
+K/KD/KD3.xml,KD3RE000,24701,22,,B,4,1,<crying> ,[],
 K/KD/KD3.xml,KD3RE000,24701,23,,A,5,1,Alright poppet.,"[Alright/JJ, poppet/NN, ./.]",(ROOT (NP (JJ Alright) (NN poppet) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,24,,A,5,2,Mummy's coming.,"[Mummy/NN, 's/POS, coming/VBG, ./.]",(ROOT (S (VP (NN Mummy) (S (NP (POS 's)) (VP (VBG coming)))) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,25,,A,5,3,There!,"[There/EX, !/.]",(ROOT (INTJ (EX There) (. !)))
@@ -39,7 +39,7 @@ K/KD/KD3.xml,KD3RE000,24701,36,,A,5,14,"There, you like banana.","[There/RB, ,/,
 K/KD/KD3.xml,KD3RE000,24701,37,,A,5,15,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,38,,A,5,16,You do.,"[You/PRP, do/VBP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP do)) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,39,,A,5,17,You like it.,"[You/PRP, like/IN, it/PRP, ./.]",(ROOT (S (NP (PRP You)) (PP (IN like) (NP (PRP it))) (. .)))
-K/KD/KD3.xml,KD3RE000,24701,40,,B,6,1,<splutter> ,[],X
+K/KD/KD3.xml,KD3RE000,24701,40,,B,6,1,<splutter> ,[],
 K/KD/KD3.xml,KD3RE000,24701,41,,A,7,1,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,42,,A,7,2,Nasty.,"[Nasty/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Nasty)) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,43,,A,7,3,Mummy get your medicine.,"[Mummy/NN, get/VB, your/PRP$, medicine/NN, ./.]",(ROOT (S (NP (NN Mummy)) (VP (VB get) (NP (PRP$ your) (NN medicine))) (. .)))
@@ -64,7 +64,7 @@ K/KD/KD3.xml,KD3RE000,24701,61,,A,7,21,That nice?,"[That/DT, nice/JJ, ?/.]",(ROO
 K/KD/KD3.xml,KD3RE000,24701,62,,A,7,22,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,63,,A,7,23,"Come on then, good boy.","[Come/VB, on/IN, then/RB, ,/,, good/JJ, boy/NN, ./.]","(ROOT (S (VP (VB Come) (PP (IN on) (NP (NP (RB then)) (, ,) (NP (JJ good) (NN boy))))) (. .)))"
 K/KD/KD3.xml,KD3RE000,24701,64,,A,7,24,"Here you are, Peter.","[Here/RB, you/PRP, are/VBP, ,/,, Peter/NNP, ./.]","(ROOT (S (S (ADVP (RB Here)) (NP (PRP you)) (VP (VBP are))) (, ,) (FRAG (NP (NNP Peter))) (. .)))"
-K/KD/KD3.xml,KD3RE000,24701,65,,B,8,1,(()) ,[],X
+K/KD/KD3.xml,KD3RE000,24701,65,,B,8,1,(()) ,[],
 K/KD/KD3.xml,KD3RE000,24701,66,,A,9,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,67,,A,9,2,I know.,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
 K/KD/KD3.xml,KD3RE000,24701,68,,A,9,3,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))

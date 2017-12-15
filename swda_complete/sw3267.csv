@@ -24,7 +24,7 @@ sw09utt/sw_0912_3267.utt,3/sw3267,3267,21,sd,B,12,2,"I have read that when we we
 sw09utt/sw_0912_3267.utt,3/sw3267,3267,22,sd,B,12,3,{C and } it is a splendid newspaper. /,and/CC it/PRP is/VBZ a/DT splendid/JJ newspaper/NN ./.,(ROOT (S (CC and) (NP (PRP it)) (VP (VBZ is) (NP (DT a) (JJ splendid) (NN newspaper))) (. .))),
 sw09utt/sw_0912_3267.utt,3/sw3267,3267,23,b,A,13,1,Uh-huh. /,Uh-huh/UH ./.,(ROOT (INTJ (UH Uh-huh) (. .))),
 sw09utt/sw_0912_3267.utt,3/sw3267,3267,24,qw,B,14,1,"{D So, } what more do we need to discuss <laughter>,","So/RB ,/, what/WP more/JJR do/VBP we/PRP need/VB to/TO discuss/VB ,/,","(ROOT (SBARQ (RB So) (, ,) (WHNP (WP what) (JJR more)) (SQ (VP (VBP do) (S (NP (PRP we)) (VP (VB need) (S (VP (TO to) (VP (VB discuss)))) (, ,) (NP (RB tonight)))))) (. ?)))",
-sw09utt/sw_0912_3267.utt,3/sw3267,3267,25,x,A,15,1,<Laughter>.,,X,
+sw09utt/sw_0912_3267.utt,3/sw3267,3267,25,x,A,15,1,<Laughter>.,,,
 sw09utt/sw_0912_3267.utt,3/sw3267,3267,26,+,B,16,1,tonight?  /,tonight/RB ?/.,"(ROOT (SBARQ (RB So) (, ,) (WHNP (WP what) (JJR more)) (SQ (VP (VBP do) (S (NP (PRP we)) (VP (VB need) (S (VP (TO to) (VP (VB discuss)))) (, ,) (NP (RB tonight)))))) (. ?)))",
 sw09utt/sw_0912_3267.utt,3/sw3267,3267,27,sv^t,B,16,2,That seems like a very short one. /,That/DT seems/VBZ like/IN a/DT very/RB short/JJ one/NN ./.,(ROOT (S (NP (DT That)) (VP (VBZ seems) (PP (IN like) (NP (DT a) (ADJP (RB very) (JJ short)) (NN one)))) (. .))),
 sw09utt/sw_0912_3267.utt,3/sw3267,3267,28,aa,A,17,1,Right.  /,Right/UH ./.,(ROOT (INTJ (UH Right) (. .))),

@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KE/KE2.xml,KE2RE02E,39101,0,,A,1,1,Good.,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))
 K/KE/KE2.xml,KE2RE02E,39101,1,,A,1,2,Well I'm eleven forty one,"[Well/RB, I/PRP, 'm/VBP, eleven/CD, forty/CD, one/CD]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP I)) (SBAR (S (VP (VBP 'm) (NP (QP (CD eleven) (CD forty)) (CD one))))))))
-K/KE/KE2.xml,KE2RE02E,39101,2,,B,2,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE02E,39101,2,,B,2,1,(()) ,[],
 K/KE/KE2.xml,KE2RE02E,39101,3,,A,3,1,candles.,"[candles/NNS, ./.]",(ROOT (NP (NNS candles) (. .)))
 K/KE/KE2.xml,KE2RE02E,39101,4,,A,3,2,Well that was  --,"[Well/RB, that/DT, was/VBD, here/RB, and/CC, Saint/NNP, Gregory/NNP, 's/POS, you/PRP, see/VBP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBD was) (NP (NP (NP (RB here)) (CC and) (NP (NNP Saint) (NNP Gregory) (POS 's))) (SBAR (S (NP (PRP you)) (VP (VBP see)))))) (. .)))
 K/KE/KE2.xml,KE2RE02E,39101,5,,A,3,3,--here and Saint Gregory's you see.,"[Well/RB, that/DT, was/VBD, here/RB, and/CC, Saint/NNP, Gregory/NNP, 's/POS, you/PRP, see/VBP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBD was) (NP (NP (NP (RB here)) (CC and) (NP (NNP Saint) (NNP Gregory) (POS 's))) (SBAR (S (NP (PRP you)) (VP (VBP see)))))) (. .)))

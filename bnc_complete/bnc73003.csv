@@ -38,7 +38,7 @@ K/KB/KBM.xml,KBMRE00B,73003,35,,A,33,1,Yes  --,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KB/KBM.xml,KBMRE00B,73003,36,,A,33,2,--(()) ,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KB/KBM.xml,KBMRE00B,73003,37,,B,34,1,No,[No/DT],(ROOT (FRAG (NP (DT No))))
 K/KB/KBM.xml,KBMRE00B,73003,38,,A,35,1,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
-K/KB/KBM.xml,KBMRE00B,73003,39,,B,36,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE00B,73003,39,,B,36,1,(()) ,[],
 K/KB/KBM.xml,KBMRE00B,73003,40,,A,37,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KB/KBM.xml,KBMRE00B,73003,41,,B,38,1,You want (()) ?,"[You/PRP, want/VBP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP want)) (. ?)))
 K/KB/KBM.xml,KBMRE00B,73003,42,,A,39,1,"Yeah, but apart from that I don't touch it ","[Yeah/UH, ,/,, but/CC, apart/RB, from/IN, that/IN, I/PRP, don/VBP, 't/PRP, touch/VB, it/PRP]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (CC but)) (ADVP (RB apart) (PP (IN from) (FRAG (SBAR (IN that) (FRAG (NP (PRP I))))))) (VP (VBP don) (S (NP (PRP 't)) (VP (VB touch) (NP (PRP it)))))))"

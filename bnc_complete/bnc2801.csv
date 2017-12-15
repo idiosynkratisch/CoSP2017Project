@@ -12,7 +12,7 @@ K/KB/KBK.xml,KBKRE05H,2801,9,,A,5,4,Squash.,"[Squash/NN, ./.]",(ROOT (NP (NN Squ
 K/KB/KBK.xml,KBKRE05H,2801,10,,B,6,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KB/KBK.xml,KBKRE05H,2801,11,,B,6,2,Is it?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
 K/KB/KBK.xml,KBKRE05H,2801,12,,B,6,3,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBK.xml,KBKRE05H,2801,13,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05H,2801,13,,A,7,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05H,2801,14,,B,8,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
 K/KB/KBK.xml,KBKRE05H,2801,15,,A,9,1,(()) --,"[why/WRB, we/PRP, can/MD, 't/PRP, get/VB, on/IN, there/EX, ,/,, on/IN, the/DT, door/NN]","(ROOT (SBARQ (WHADVP (WRB why) (NP (PRP we))) (SQ (MD can) (NP (PRP 't)) (VP (VB get) (PP (IN on) (NP (EX there))) (, ,) (PP (IN on) (NP (DT the) (NN door)))))))"
 K/KB/KBK.xml,KBKRE05H,2801,16,,A,9,2,"--why we can't get on there, on the door","[why/WRB, we/PRP, can/MD, 't/PRP, get/VB, on/IN, there/EX, ,/,, on/IN, the/DT, door/NN]","(ROOT (SBARQ (WHADVP (WRB why) (NP (PRP we))) (SQ (MD can) (NP (PRP 't)) (VP (VB get) (PP (IN on) (NP (EX there))) (, ,) (PP (IN on) (NP (DT the) (NN door)))))))"
@@ -49,7 +49,7 @@ K/KB/KBK.xml,KBKRE05H,2801,46,,B,24,2,(()) I think he is off of it now but I thi
 K/KB/KBK.xml,KBKRE05H,2801,47,,A,25,1,Yes yes.,"[Yes/UH, yes/UH, ./.]",(ROOT (FRAG (UH Yes) (INTJ (UH yes)) (. .)))
 K/KB/KBK.xml,KBKRE05H,2801,48,,B,26,1,(()) speak to David <<REDACTED (name)>> .,"[speak/VB, to/TO, David/NNP, >/JJR, ./.]",(ROOT (S (VP (VB speak) (PP (TO to) (NP (NP (NNP David)) (ADJP (JJR >))))) (. .)))
 K/KB/KBK.xml,KBKRE05H,2801,49,,A,27,1,Oh was he?,"[Oh/UH, was/VBD, he/PRP, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VBD was) (NP (PRP he))) (. ?)))
-K/KB/KBK.xml,KBKRE05H,2801,50,,B,28,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05H,2801,50,,B,28,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05H,2801,51,,A,29,1,<laugh> Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE05H,2801,52,,A,29,2,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KB/KBK.xml,KBKRE05H,2801,53,,A,29,3,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))

@@ -50,7 +50,7 @@ K/KC/KCV.xml,KCVRE002,3103,47,,B,30,1,"Well, too bad.","[Well/RB, ,/,, too/RB, b
 K/KC/KCV.xml,KCVRE002,3103,48,,A,31,1,It sounds pretty staid.,"[It/PRP, sounds/VBZ, pretty/RB, staid/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ sounds) (ADJP (RB pretty) (JJ staid))) (. .)))
 K/KC/KCV.xml,KCVRE002,3103,49,,B,32,1,Why should it?,"[Why/WRB, should/MD, it/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SINV (VP (MD should)) (NP (PRP it))) (. ?)))
 K/KC/KCV.xml,KCVRE002,3103,50,,A,33,1,"Well, I would think anything Swiss would be pretty staid.","[Well/RB, ,/,, I/PRP, would/MD, think/VB, anything/NN, Swiss/JJ, would/MD, be/VB, pretty/RB, staid/JJ, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (NP (PRP I)) (VP (MD would) (VP (VB think) (SBAR (S (NP (NN anything) (JJ Swiss)) (VP (MD would) (VP (VB be) (ADJP (RB pretty) (JJ staid)))))))) (. .)))"
-K/KC/KCV.xml,KCVRE002,3103,51,,B,34,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE002,3103,51,,B,34,1,(()) ,[],
 K/KC/KCV.xml,KCVRE002,3103,52,,A,35,1,Very proper.,"[Very/RB, proper/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ proper)) (. .)))
 K/KC/KCV.xml,KCVRE002,3103,53,,B,36,1,I don't think so  --,"[I/PRP, don/VBP, 't/PRP, think/VB, so/RB, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so) (ADVP (RB anyway)))))) (. .)))
 K/KC/KCV.xml,KCVRE002,3103,54,,B,36,2,--anyway.,"[I/PRP, don/VBP, 't/PRP, think/VB, so/RB, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (ADVP (RB so) (ADVP (RB anyway)))))) (. .)))

@@ -4,8 +4,8 @@ K/KB/KBK.xml,KBKRE066,2907,1,,B,2,1,What sorry?,"[What/WDT, sorry/JJ, ?/.]",(ROO
 K/KB/KBK.xml,KBKRE066,2907,2,,A,3,1,This restaurant allows smoking.,"[This/DT, restaurant/NN, allows/VBZ, smoking/NN, ./.]",(ROOT (S (NP (DT This) (NN restaurant)) (VP (VBZ allows) (NP (NN smoking))) (. .)))
 K/KB/KBK.xml,KBKRE066,2907,3,,B,4,1,Restaurants local restaurants can't afford not to dear.,"[Restaurants/NNS, local/JJ, restaurants/NNS, can/MD, 't/PRP, afford/VB, not/RB, to/TO, dear/NNP, ./.]",(ROOT (S (NP (NP (NNS Restaurants)) (NP (JJ local) (NNS restaurants))) (VP (MD can) (NP (PRP 't)) (S (VP (VB afford) (ADVP (RB not) (PP (TO to) (NP (NNP dear))))))) (. .)))
 K/KB/KBK.xml,KBKRE066,2907,4,,B,4,2,I think if you're talking about a very exclusive one up in town they might well say no smoking.,"[I/PRP, think/VBP, if/IN, you/PRP, 're/VBP, talking/VBG, about/IN, a/DT, very/RB, exclusive/JJ, one/CD, up/RP, in/IN, town/NN, they/PRP, might/MD, well/RB, say/VB, no/DT, smoking/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG talking) (PP (IN about) (NP (DT a) (ADJP (RB very) (JJ exclusive)) (CD one))) (ADVP (RP up)) (PP (IN in) (NP (NP (NN town)) (SBAR (S (NP (PRP they)) (VP (MD might) (ADVP (RB well)) (VP (VB say) (NP (DT no) (NN smoking))))))))))))) (. .)))
-K/KB/KBK.xml,KBKRE066,2907,5,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE066,2907,5,,A,5,1,(()) ,[],
 K/KB/KBK.xml,KBKRE066,2907,6,,B,6,1,Oh we have to share a finger bowl.,"[Oh/UH, we/PRP, have/VBP, to/TO, share/VB, a/DT, finger/NN, bowl/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB share) (NP (DT a) (NN finger) (NN bowl))))))) (. .)))
-K/KB/KBK.xml,KBKRE066,2907,7,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE066,2907,7,,A,7,1,(()) ,[],
 K/KB/KBK.xml,KBKRE066,2907,8,,B,8,1,(()) isn't it?,"[isn/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (NNP isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
-K/KB/KBK.xml,KBKRE066,2907,9,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE066,2907,9,,A,9,1,(()) ,[],

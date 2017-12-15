@@ -9,7 +9,7 @@ K/KE/KE3.xml,KE3RE03N,11108,6,,A,5,1,It did hold us up  --,"[It/PRP, did/VBD, ho
 K/KE/KE3.xml,KE3RE03N,11108,7,,A,5,2,--I mean we would have been down there a lot quicker if we hadn't had to,"[It/PRP, did/VBD, hold/VB, us/PRP, up/IN, I/PRP, mean/VBP, we/PRP, would/MD, have/VB, been/VBN, down/RB, there/RB, a/DT, lot/NN, quicker/RBR, if/IN, we/PRP, hadn/VBP, 't/PRP, had/VBD, to/TO]",(ROOT (S (NP (PRP It)) (VP (VBD did) (SBAR (S (S (VP (VB hold) (S (NP (PRP us)) (VP (IN up) (NP (PRP I)))))) (VP (VBP mean) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (VP (VBN been) (ADVP (RB down) (RB there)) (ADJP (ADJP (NP (DT a) (NN lot)) (RBR quicker)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP hadn) (SBAR (S (NP (PRP 't)) (VP (VBD had) (PP (TO to))))))))))))))))))))
 K/KE/KE3.xml,KE3RE03N,11108,8,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE3.xml,KE3RE03N,11108,9,,A,7,1,five minutes.,"[five/CD, minutes/NNS, ./.]",(ROOT (NP (CD five) (NNS minutes) (. .)))
-K/KE/KE3.xml,KE3RE03N,11108,10,,B,8,1,<laugh> ,[],X
+K/KE/KE3.xml,KE3RE03N,11108,10,,B,8,1,<laugh> ,[],
 K/KE/KE3.xml,KE3RE03N,11108,11,,A,9,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KE/KE3.xml,KE3RE03N,11108,12,,B,10,1,It's alright.,"[It/PRP, 's/VBZ, alright/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
 K/KE/KE3.xml,KE3RE03N,11108,13,,A,11,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))

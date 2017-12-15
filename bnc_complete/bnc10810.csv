@@ -46,7 +46,7 @@ K/KE/KE3.xml,KE3RE030,10810,43,,A,29,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KE/KE3.xml,KE3RE030,10810,44,,A,29,2,I've been listening to it  --,"[I/PRP, 've/VBP, been/VBN, listening/VBG, to/TO, it/PRP, for/IN, a/DT, while/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG listening) (PP (TO to) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN while)))))) (. .)))
 K/KE/KE3.xml,KE3RE030,10810,45,,A,29,3,--for a while.,"[I/PRP, 've/VBP, been/VBN, listening/VBG, to/TO, it/PRP, for/IN, a/DT, while/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG listening) (PP (TO to) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN while)))))) (. .)))
 K/KE/KE3.xml,KE3RE030,10810,46,,B,30,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
-K/KE/KE3.xml,KE3RE030,10810,47,,A,31,1,(()) ,[],X
+K/KE/KE3.xml,KE3RE030,10810,47,,A,31,1,(()) ,[],
 K/KE/KE3.xml,KE3RE030,10810,48,,B,32,1,I've got a  --,"[I/PRP, 've/VBP, got/VBD, a/DT, oh/NN, I/PRP, 've/VBP, got/VBD, a/DT, carol/NNP, practice/NN, tomorrow/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN oh)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NNP carol) (NN practice)) (NP (NN tomorrow)))))))) (. .)))
 K/KE/KE3.xml,KE3RE030,10810,49,,B,32,2,--oh I've got a carol practice tomorrow.,"[I/PRP, 've/VBP, got/VBD, a/DT, oh/NN, I/PRP, 've/VBP, got/VBD, a/DT, carol/NNP, practice/NN, tomorrow/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NN oh)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (NNP carol) (NN practice)) (NP (NN tomorrow)))))))) (. .)))
 K/KE/KE3.xml,KE3RE030,10810,50,,A,33,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

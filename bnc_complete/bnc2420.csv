@@ -10,7 +10,7 @@ K/KB/KBK.xml,KBKRE03P,2420,7,,B,8,1,I've never heard of it.,"[I/PRP, 've/VBP, ne
 K/KB/KBK.xml,KBKRE03P,2420,8,,A,9,1,(()) Got those pink violets.,"[Got/VBD, those/DT, pink/JJ, violets/NNS, ./.]",(ROOT (S (VP (VBD Got) (NP (DT those) (JJ pink) (NNS violets))) (. .)))
 K/KB/KBK.xml,KBKRE03P,2420,9,,B,10,1,"Yeah, yeah.","[Yeah/UH, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (UH yeah) (. .))))"
 K/KB/KBK.xml,KBKRE03P,2420,10,,A,11,1,"I know it comes in various shapes though, the tail's very dark.","[I/PRP, know/VBP, it/PRP, comes/VBZ, in/IN, various/JJ, shapes/NNS, though/IN, ,/,, the/DT, tail/NN, 's/POS, very/RB, dark/JJ, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ comes) (PP (IN in) (NP (NP (NP (NP (JJ various) (NNS shapes)) (ADJP (IN though))) (, ,) (NP (DT the) (NN tail) (POS 's))) (ADJP (RB very) (JJ dark)))))))) (. .)))"
-K/KB/KBK.xml,KBKRE03P,2420,11,,B,12,1,<yawn> ,[],X
+K/KB/KBK.xml,KBKRE03P,2420,11,,B,12,1,<yawn> ,[],
 K/KB/KBK.xml,KBKRE03P,2420,12,,A,13,1,Would you like the news?,"[Would/MD, you/PRP, like/VB, the/DT, news/NN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (DT the) (NN news))) (. ?)))
 K/KB/KBK.xml,KBKRE03P,2420,13,,B,14,1,"What's it gonna, follow here?","[What/WP, 's/VBZ, it/PRP, gonna/NN, ,/,, follow/VB, here/RB, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBZ 's) (NP (NP (PRP it) (NN gonna)) (, ,) (NP (VP (VB follow) (ADVP (RB here))))))) (. ?)))"
 K/KB/KBK.xml,KBKRE03P,2420,14,,A,15,1,I don't remember.,"[I/PRP, don/VBP, 't/PRP, remember/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB remember)))) (. .)))

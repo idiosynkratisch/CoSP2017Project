@@ -3,7 +3,7 @@ K/KB/KBK.xml,KBKRE05X,2814,0,,A,1,1,What do you expect to happen in the Tigers t
 K/KB/KBK.xml,KBKRE05X,2814,1,,B,2,1,Nothing.,"[Nothing/NN, ./.]",(ROOT (NP (NN Nothing) (. .)))
 K/KB/KBK.xml,KBKRE05X,2814,2,,A,3,1,Ah!,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
 K/KB/KBK.xml,KBKRE05X,2814,3,,A,3,2,What you and Sam thought you were going to be doing.,"[What/WP, you/PRP, and/CC, Sam/NNP, thought/VBD, you/PRP, were/VBD, going/VBG, to/TO, be/VB, doing/VBG, ./.]",(ROOT (S (SBAR (WHNP (WP What)) (S (NP (PRP you) (CC and) (NNP Sam)) (VP (VBD thought)))) (NP (PRP you)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB be) (VP (VBG doing))))))) (. .)))
-K/KB/KBK.xml,KBKRE05X,2814,4,,B,4,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05X,2814,4,,B,4,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05X,2814,5,,B,4,2,Some of his friends coming as well.,"[Some/DT, of/IN, his/PRP$, friends/NNS, coming/VBG, as/RB, well/RB, ./.]",(ROOT (NP (NP (NP (DT Some)) (PP (IN of) (NP (PRP$ his) (NNS friends)))) (VP (VBG coming) (ADVP (RB as) (RB well))) (. .)))
 K/KB/KBK.xml,KBKRE05X,2814,6,,A,5,1,Are they?,"[Are/VBP, they/PRP, ?/.]",(ROOT (S (VP (VBP Are) (NP (PRP they))) (. ?)))
 K/KB/KBK.xml,KBKRE05X,2814,7,,B,6,1,Supposed to have a chat you know.,"[Supposed/VBN, to/TO, have/VB, a/DT, chat/NN, you/PRP, know/VBP, ./.]",(ROOT (S (S (VP (VBN Supposed) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN chat))))))) (NP (PRP you)) (VP (VBP know)) (. .)))
@@ -30,9 +30,9 @@ K/KB/KBK.xml,KBKRE05X,2814,27,,A,21,2,You get much superior  --,"[You/PRP, get/V
 K/KB/KBK.xml,KBKRE05X,2814,28,,A,21,3,--Good heavens!,"[You/PRP, get/VBP, much/JJ, superior/JJ, Good/JJ, heavens/NNS, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP get) (NP (JJ much) (JJ superior) (JJ Good) (NNS heavens))) (. !)))
 K/KB/KBK.xml,KBKRE05X,2814,29,,B,22,1,I thought it was prawn,"[I/PRP, thought/VBD, it/PRP, was/VBD, prawn/NNP]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NNP prawn))))))))
 K/KB/KBK.xml,KBKRE05X,2814,30,,A,23,1,What's that?,"[What/WP, 's/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (ADJP (IN that))) (. ?)))
-K/KB/KBK.xml,KBKRE05X,2814,31,,B,24,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05X,2814,31,,B,24,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05X,2814,32,,A,25,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
-K/KB/KBK.xml,KBKRE05X,2814,33,,B,26,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05X,2814,33,,B,26,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05X,2814,34,,A,27,1,Good.,"[Good/JJ, ./.]",(ROOT (INTJ (JJ Good) (. .)))
 K/KB/KBK.xml,KBKRE05X,2814,35,,A,27,2,Right we shall be off very shortly.,"[Right/NN, we/PRP, shall/MD, be/VB, off/RB, very/RB, shortly/RB, ./.]",(ROOT (S (NP (NN Right)) (NP (PRP we)) (VP (MD shall) (VP (VB be) (ADVP (RB off) (RB very)) (ADVP (RB shortly)))) (. .)))
 K/KB/KBK.xml,KBKRE05X,2814,36,,B,28,1,Alright.,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))

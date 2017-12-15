@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KD3.xml,KD3RE015,25402,0,,A,1,1,Oh I've got a right pair here!,"[Oh/UH, I/PRP, 've/VBP, got/VBD, a/DT, right/JJ, pair/NN, here/RB, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (JJ right) (NN pair)) (ADVP (RB here))))) (. !)))
-K/KD/KD3.xml,KD3RE015,25402,1,,B,2,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE015,25402,1,,B,2,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE015,25402,2,,A,3,1,I really have!,"[I/PRP, really/RB, have/VBP, !/.]",(ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP have)) (. !)))
 K/KD/KD3.xml,KD3RE015,25402,3,,A,3,2,"Things like that they ought to put you in a room together,<laughing> you'd be fine wouldn't you </laughing> !","[Things/NNS, like/IN, that/IN, they/PRP, ought/MD, to/TO, put/VB, you/PRP, in/IN, a/DT, room/NN, together/RB, ,/,, you/PRP, 'd/MD, be/VB, fine/JJ, wouldn/NN, 't/PRP, you/PRP, !/.]","(ROOT (NP (NP (NNS Things)) (PP (IN like) (SBAR (IN that) (S (NP (PRP they)) (VP (MD ought) (S (VP (TO to) (VP (VB put) (NP (PRP you)) (PP (IN in) (NP (DT a) (NN room)))))))))) (ADJP (RB together)) (, ,) (S (NP (PRP you)) (VP (MD 'd) (VP (VB be) (NP (NP (JJ fine) (NN wouldn)) (NP (NP (PRP 't)) (NP (PRP you))))))) (. !)))"
 K/KD/KD3.xml,KD3RE015,25402,4,,B,4,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
@@ -61,7 +61,7 @@ K/KD/KD3.xml,KD3RE015,25402,58,,A,31,2,Is that awful?,"[Is/VBZ, that/IN, awful/J
 K/KD/KD3.xml,KD3RE015,25402,59,,B,32,1,That one's (()) .,"[That/DT, one/NN, 's/POS, ./.]",(ROOT (NP (NP (DT That) (NP (NN one) (POS 's))) (. .)))
 K/KD/KD3.xml,KD3RE015,25402,60,,A,33,1,You look it's got his dungarees on here and a little girl's wearing them!--,"[You/PRP, look/VBP, it/PRP, 's/VBZ, got/VBD, his/PRP$, dungarees/NNS, on/IN, here/RB, and/CC, a/DT, little/JJ, girl/NN, 's/POS, wearing/VBG, them/PRP, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP look) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBD got) (NP (PRP$ his) (NNS dungarees)) (PP (IN on) (S (NP (NP (RB here)) (CC and) (NP (DT a) (JJ little) (NN girl) (POS 's))) (VP (VBG wearing) (NP (PRP them)))))))))) (. !)))
 K/KD/KD3.xml,KD3RE015,25402,61,,A,33,2,--<laugh> ,"[You/PRP, look/VBP, it/PRP, 's/VBZ, got/VBD, his/PRP$, dungarees/NNS, on/IN, here/RB, and/CC, a/DT, little/JJ, girl/NN, 's/POS, wearing/VBG, them/PRP, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP look) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBD got) (NP (PRP$ his) (NNS dungarees)) (PP (IN on) (S (NP (NP (RB here)) (CC and) (NP (DT a) (JJ little) (NN girl) (POS 's))) (VP (VBG wearing) (NP (PRP them)))))))))) (. !)))
-K/KD/KD3.xml,KD3RE015,25402,62,,B,34,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE015,25402,62,,B,34,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE015,25402,63,,A,35,1,<laughing> (()) </laughing> !,[!/.],(ROOT (NP (. !)))
 K/KD/KD3.xml,KD3RE015,25402,64,,A,35,2,There!--,"[There/EX, !/.]",(ROOT (INTJ (EX There) (. !)))
 K/KD/KD3.xml,KD3RE015,25402,65,,A,35,3,--<laugh> ,"[There/EX, !/.]",(ROOT (INTJ (EX There) (. !)))
@@ -113,7 +113,7 @@ K/KD/KD3.xml,KD3RE015,25402,110,,B,56,5,--that was fiver!,"[Like/IN, yesterday/N
 K/KD/KD3.xml,KD3RE015,25402,111,,A,57,1,That's where my money goes!,"[That/DT, 's/VBZ, where/WRB, my/PRP$, money/NN, goes/VBZ, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB where)) (S (NP (PRP$ my) (NN money)) (VP (VBZ goes))))) (. !)))
 K/KD/KD3.xml,KD3RE015,25402,112,,B,58,1,I know.,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
 K/KD/KD3.xml,KD3RE015,25402,113,,A,59,1,"Yeah well, I think it ","[Yeah/UH, well/UH, ,/,, I/PRP, think/VBP, it/PRP]","(ROOT (S (INTJ (UH Yeah)) (INTJ (UH well)) (, ,) (NP (PRP I)) (VP (VBP think)) (PRP it)))"
-K/KD/KD3.xml,KD3RE015,25402,114,,B,60,1,(()) ,[],X
+K/KD/KD3.xml,KD3RE015,25402,114,,B,60,1,(()) ,[],
 K/KD/KD3.xml,KD3RE015,25402,115,,A,61,1,goes.,"[goes/VBZ, ./.]",(ROOT (S (VP (VBZ goes)) (. .)))
 K/KD/KD3.xml,KD3RE015,25402,116,,B,62,1,"Yeah, oh yeah!","[Yeah/UH, ,/,, oh/UH, yeah/UH, !/.]","(ROOT (S (INTJ (UH Yeah) (, ,) (UH oh)) (VP (UH yeah)) (. !)))"
 K/KD/KD3.xml,KD3RE015,25402,117,,B,62,2,"Mind you, I did buy a fair bit of  --","[Mind/VB, you/PRP, ,/,, I/PRP, did/VBD, buy/VB, a/DT, fair/JJ, bit/NN, of/IN, vegetables/NNS, ./.]","(ROOT (S (S (VP (VB Mind) (NP (PRP you)))) (, ,) (NP (PRP I)) (VP (VBD did) (VP (VB buy) (NP (NP (DT a) (JJ fair) (NN bit)) (PP (IN of) (NP (NNS vegetables)))))) (. .)))"

@@ -5,7 +5,7 @@ K/KB/KBK.xml,KBKRE011,2201,2,,A,3,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KB/KBK.xml,KBKRE011,2201,3,,B,4,1,I don't do that ,"[I/PRP, don/VBP, 't/PRP, do/VB, that/DT]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB do) (NP (DT that)))))))
 K/KB/KBK.xml,KBKRE011,2201,4,,A,5,1,Don't chop the fence in two   <laugh> (()) a drastic time there.,"[Don/NNP, 't/PRP, chop/VB, the/DT, fence/NN, in/IN, two/CD, a/DT, drastic/JJ, time/NN, there/RB, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB chop) (NP (NP (DT the) (NN fence)) (PP (IN in) (NP (CD two)))) (NP (DT a) (JJ drastic) (NN time) (RB there))) (. .)))
 K/KB/KBK.xml,KBKRE011,2201,5,,A,5,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KBK.xml,KBKRE011,2201,6,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE011,2201,6,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE011,2201,7,,A,7,1,Mm mm.,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
 K/KB/KBK.xml,KBKRE011,2201,8,,B,8,1,(()) cutting down the other end.,"[cutting/VBG, down/RP, the/DT, other/JJ, end/NN, ./.]",(ROOT (S (VP (VBG cutting) (PRT (RP down)) (NP (DT the) (JJ other) (NN end))) (. .)))
 K/KB/KBK.xml,KBKRE011,2201,9,,B,8,2,A stake be that big in there.,"[A/DT, stake/NN, be/VB, that/IN, big/JJ, in/IN, there/RB, ./.]",(ROOT (S (NP (DT A) (NN stake)) (VP (VB be) (ADJP (IN that) (JJ big)) (PP (IN in) (NP (RB there)))) (. .)))

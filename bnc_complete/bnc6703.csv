@@ -12,7 +12,7 @@ K/KD/KDE.xml,KDERE002,6703,9,,B,8,1,Er  --,"[Er/NN, it/PRP, 's/VBZ, a/DT, line/N
 K/KD/KDE.xml,KDERE002,6703,10,,B,8,2,--it's a line.,"[Er/NN, it/PRP, 's/VBZ, a/DT, line/NN, ./.]",(ROOT (S (NP (NN Er)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN line))) (. .)))
 K/KD/KDE.xml,KDERE002,6703,11,,B,8,3,It's a line er (()) ,"[It/PRP, 's/VBZ, a/DT, line/NN, er/NN]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN line) (NN er)))))
 K/KD/KDE.xml,KDERE002,6703,12,,A,9,1,No what shape is that?,"[No/DT, what/WDT, shape/NN, is/VBZ, that/IN, ?/.]",(ROOT (S (NP (DT No) (NP (WDT what) (NX (NN shape)))) (VP (VBZ is) (ADJP (IN that))) (. ?)))
-K/KD/KDE.xml,KDERE002,6703,13,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE002,6703,13,,B,10,1,(()) ,[],
 K/KD/KDE.xml,KDERE002,6703,14,,A,11,1,No go and draw the shape on your chalking board.,"[No/DT, go/NN, and/CC, draw/VB, the/DT, shape/NN, on/IN, your/PRP$, chalking/VBG, board/NN, ./.]",(ROOT (NP (NP (NP (DT No) (NN go)) (CC and) (S (VP (VB draw) (NP (DT the) (NN shape))))) (PP (IN on) (NP (PRP$ your) (VBG chalking) (NN board))) (. .)))
 K/KD/KDE.xml,KDERE002,6703,15,,A,11,2,No this side with your chalk.,"[No/DT, this/DT, side/NN, with/IN, your/PRP$, chalk/NN, ./.]",(ROOT (NP (NP (DT No) (DT this) (NN side)) (PP (IN with) (NP (PRP$ your) (NN chalk))) (. .)))
 K/KD/KDE.xml,KDERE002,6703,16,,A,11,3,"There, draw  --","[There/RB, ,/,, draw/VB, What/WP, 's/VBZ, that/IN, ?/.]","(ROOT (S (ADVP (RB There)) (, ,) (VP (VB draw) (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (IN that)))))) (. ?)))"

@@ -6,10 +6,10 @@ K/KD/KDV.xml,KDVRE00A,50403,3,,B,2,3,I'm getting all (()) !,"[I/PRP, 'm/VBP, get
 K/KD/KDV.xml,KDVRE00A,50403,4,,B,2,4,Ow!,"[Ow/NN, !/.]",(ROOT (NP (NN Ow) (. !)))
 K/KD/KDV.xml,KDVRE00A,50403,5,,A,3,1,Oh for goodness sake!,"[Oh/UH, for/IN, goodness/NN, sake/NN, !/.]",(ROOT (FRAG (PP (NP (INTJ (UH Oh))) (IN for) (NP (NN goodness) (NN sake))) (. !)))
 K/KD/KDV.xml,KDVRE00A,50403,6,,A,3,2,But when you fall over at school you're really brave and,"[But/CC, when/WRB, you/PRP, fall/VBP, over/RP, at/IN, school/NN, you/PRP, 're/VBP, really/RB, brave/NNP, and/CC]",(ROOT (FRAG (S (CC But) (ADVP (WRB when)) (NP (PRP you)) (VP (VBP fall) (PRT (RP over)) (PP (IN at) (NP (NP (NN school)) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADVP (RB really)) (NP (NNP brave)) (ADVP (CC and)))))))))))
-K/KD/KDV.xml,KDVRE00A,50403,7,,B,4,1,<moan> ,[],X
+K/KD/KDV.xml,KDVRE00A,50403,7,,B,4,1,<moan> ,[],
 K/KD/KDV.xml,KDVRE00A,50403,8,,A,5,1,oh it don't hurt and  --,"[oh/UH, it/PRP, don/NNP, 't/PRP, hurt/VB, and/CC, you/PRP, don/VBP, 't/PRP, cry/VB, and/CC, you/PRP, don/VBP, 't/PRP, need/VB, a/DT]",(ROOT (NP (S (S (INTJ (UH oh)) (NP (PRP it)) (VP (NNP don) (S (NP (PRP 't)) (VP (VB hurt))))) (CC and) (S (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB cry))))) (CC and) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need) (NP (DT a))))))))))
 K/KD/KDV.xml,KDVRE00A,50403,9,,A,5,2,--you  <laughing> don't cry and you don't need a </laughing> ,"[oh/UH, it/PRP, don/NNP, 't/PRP, hurt/VB, and/CC, you/PRP, don/VBP, 't/PRP, cry/VB, and/CC, you/PRP, don/VBP, 't/PRP, need/VB, a/DT]",(ROOT (NP (S (S (INTJ (UH oh)) (NP (PRP it)) (VP (NNP don) (S (NP (PRP 't)) (VP (VB hurt))))) (CC and) (S (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB cry))))) (CC and) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need) (NP (DT a))))))))))
-K/KD/KDV.xml,KDVRE00A,50403,10,,B,6,1,<moan> ,[],X
+K/KD/KDV.xml,KDVRE00A,50403,10,,B,6,1,<moan> ,[],
 K/KD/KDV.xml,KDVRE00A,50403,11,,A,7,1,You're nuts!,"[You/PRP, 're/VBP, nuts/NNS, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (NP (NNS nuts))) (. !)))
 K/KD/KDV.xml,KDVRE00A,50403,12,,B,8,1,Quick!,"[Quick/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Quick)) (. !)))
 K/KD/KDV.xml,KDVRE00A,50403,13,,B,8,2,Turn it off!,"[Turn/VB, it/PRP, off/RP, !/.]",(ROOT (S (VP (VB Turn) (NP (PRP it)) (PRT (RP off))) (. !)))

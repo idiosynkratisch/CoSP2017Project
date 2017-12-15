@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBM.xml,KBMRE003,72304,0,,A,1,1,<laughing> ,[],X
-K/KB/KBM.xml,KBMRE003,72304,1,,A,1,2,(()) ,[],X
-K/KB/KBM.xml,KBMRE003,72304,2,,A,1,3,</laughing> ,[],X
+K/KB/KBM.xml,KBMRE003,72304,0,,A,1,1,<laughing> ,[],
+K/KB/KBM.xml,KBMRE003,72304,1,,A,1,2,(()) ,[],
+K/KB/KBM.xml,KBMRE003,72304,2,,A,1,3,</laughing> ,[],
 K/KB/KBM.xml,KBMRE003,72304,3,,B,2,1,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
 K/KB/KBM.xml,KBMRE003,72304,4,,A,3,1,<laughing> Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,5,,A,3,2,Not on the table </laughing> !,"[Not/RB, on/IN, the/DT, table/NN, !/.]",(ROOT (FRAG (RB Not) (PP (IN on) (NP (DT the) (NN table))) (. !)))
@@ -11,7 +11,7 @@ K/KB/KBM.xml,KBMRE003,72304,8,,A,5,2,<laughing> Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (
 K/KB/KBM.xml,KBMRE003,72304,9,,A,5,3,Don't </laughing> !,"[Don/NNP, 't/PRP, !/.]",(ROOT (FRAG (NP (NNP Don)) (NP (PRP 't)) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,10,,B,6,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,11,,A,7,1,<laughing> I hate having my voice on tape </laughing> !,"[I/PRP, hate/VBP, having/VBG, my/PRP$, voice/NN, on/IN, tape/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (S (VP (VBG having) (NP (PRP$ my) (NN voice)) (PP (IN on) (NP (NN tape)))))) (. !)))
-K/KB/KBM.xml,KBMRE003,72304,12,,B,8,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE003,72304,12,,B,8,1,(()) ,[],
 K/KB/KBM.xml,KBMRE003,72304,13,,A,9,1,<laughing> I don't care!,"[I/PRP, don/VBP, 't/PRP, care/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB care)))) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,14,,A,9,2,I hate my voice ,"[I/PRP, hate/VBP, my/PRP$, voice/NN]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (NP (PRP$ my) (NN voice)))))
 K/KB/KBM.xml,KBMRE003,72304,15,,B,10,1,You did that ,"[You/PRP, did/VBD, that/DT]",(ROOT (S (NP (PRP You)) (VP (VBD did) (NP (DT that)))))
@@ -23,15 +23,15 @@ K/KB/KBM.xml,KBMRE003,72304,20,,B,14,2,--Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP 
 K/KB/KBM.xml,KBMRE003,72304,21,,A,15,1,"No I wanna say something, say something.","[No/DT, I/PRP, wanna/NNP, say/NNP, something/NN, ,/,, say/VBP, something/NN, ./.]","(ROOT (S (NP (NP (DT No) (PRP I)) (NP (NNP wanna) (NNP say) (NN something))) (, ,) (VP (VBP say) (NP (NN something))) (. .)))"
 K/KB/KBM.xml,KBMRE003,72304,22,,A,15,2,Ah!,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,23,,A,15,3,I hate being taped!<laugh> ,"[I/PRP, hate/VBP, being/VBG, taped/VBN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (S (VP (VBG being) (VP (VBN taped))))) (. !)))
-K/KB/KBM.xml,KBMRE003,72304,24,,B,16,1,<laugh> ,[],X
-K/KB/KBM.xml,KBMRE003,72304,25,,A,17,1,<clears throat> ,[],X
+K/KB/KBM.xml,KBMRE003,72304,24,,B,16,1,<laugh> ,[],
+K/KB/KBM.xml,KBMRE003,72304,25,,A,17,1,<clears throat> ,[],
 K/KB/KBM.xml,KBMRE003,72304,26,,B,18,1,You have to say something now Rhiannon.,"[You/PRP, have/VBP, to/TO, say/VB, something/NN, now/RB, Rhiannon/NNP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP have) (S (VP (TO to) (VP (VB say) (NP (NN something)) (PP (RB now) (NP (NNP Rhiannon))))))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,27,,B,18,2,You can't ,"[You/PRP, can/MD, 't/PRP]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (NP (PRP 't))))))
 K/KB/KBM.xml,KBMRE003,72304,28,,A,19,1,No!,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,29,,B,20,1,laughing ,[laughing/VBG],(ROOT (S (VP (VBG laughing))))
 K/KB/KBM.xml,KBMRE003,72304,30,,A,21,1,I'm not saying it!,"[I/PRP, 'm/VBP, not/RB, saying/VBG, it/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG saying) (NP (PRP it)))) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,31,,B,22,1,laughing can't go into it.,"[laughing/NN, can/MD, 't/PRP, go/VB, into/IN, it/PRP, ./.]",(ROOT (S (NP (NN laughing)) (VP (MD can) (NP (PRP 't)) (S (VP (VB go) (PP (IN into) (NP (PRP it)))))) (. .)))
-K/KB/KBM.xml,KBMRE003,72304,32,,A,23,1,<laugh> ,[],X
+K/KB/KBM.xml,KBMRE003,72304,32,,A,23,1,<laugh> ,[],
 K/KB/KBM.xml,KBMRE003,72304,33,,B,24,1,Shut up!,"[Shut/VBN, up/RP, !/.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,34,,B,24,2,"What have you, what have you done today?","[What/WDT, have/VBP, you/PRP, ,/,, what/WDT, have/VBP, you/PRP, done/VBN, today/NN, ?/.]","(ROOT (SBARQ (SBAR (WHNP (WDT What)) (S (VP (VBP have) (NP (PRP you))))) (, ,) (WHNP (WDT what)) (SQ (VBP have) (NP (PRP you)) (VP (VBN done) (NP (NN today)))) (. ?)))"
 K/KB/KBM.xml,KBMRE003,72304,35,,B,24,3,You must have done something interesting?,"[You/PRP, must/MD, have/VB, done/VBN, something/NN, interesting/JJ, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD must) (VP (VB have) (VP (VBN done) (S (NP (NN something)) (ADJP (JJ interesting)))))) (. ?)))
@@ -40,7 +40,7 @@ K/KB/KBM.xml,KBMRE003,72304,37,,B,26,1,When you was out?,"[When/WRB, you/PRP, wa
 K/KB/KBM.xml,KBMRE003,72304,38,,A,27,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,39,,B,28,1,I'll put the tape back on.(()) ,"[I/PRP, 'll/MD, put/VB, the/DT, tape/NN, back/RB, on/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB put) (NP (DT the) (NN tape)) (ADVP (RB back)) (PP (IN on)))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,40,,A,29,1,"I've been giving the milkman a blow job, you know, that sort of thing.<laugh> ","[I/PRP, 've/VBP, been/VBN, giving/VBG, the/DT, milkman/NN, a/DT, blow/NN, job/NN, ,/,, you/PRP, know/VBP, ,/,, that/IN, sort/NN, of/IN, thing/NN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG giving) (NP (DT the) (NN milkman)) (NP (DT a) (NN blow) (NN job)))))) (, ,) (NP (PRP you)) (VP (VBP know) (, ,) (ADVP (IN that) (NN sort)) (PP (IN of) (NP (NN thing)))) (. .)))"
-K/KB/KBM.xml,KBMRE003,72304,41,,B,30,1,<laugh> ,[],X
+K/KB/KBM.xml,KBMRE003,72304,41,,B,30,1,<laugh> ,[],
 K/KB/KBM.xml,KBMRE003,72304,42,,A,31,1,<laugh> --,"[That/DT, 's/VBZ, all/RB, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (RB all))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))"
 K/KB/KBM.xml,KBMRE003,72304,43,,A,31,2,"--<laughing> That's all, I don't know </laughing> .","[That/DT, 's/VBZ, all/RB, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (RB all))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))"
 K/KB/KBM.xml,KBMRE003,72304,44,,B,32,1,<laughing> Are you on about there </laughing> ?,"[Are/VBP, you/PRP, on/IN, about/IN, there/EX, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (PP (IN on) (PP (IN about) (NP (EX there)))) (. ?)))
@@ -79,7 +79,7 @@ K/KB/KBM.xml,KBMRE003,72304,76,,A,51,2,You racist ,"[You/PRP, racist/JJ]",(ROOT 
 K/KB/KBM.xml,KBMRE003,72304,77,,B,52,1,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,78,,A,53,1,git!,"[git/NN, !/.]",(ROOT (NP (NN git) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,79,,B,54,1,"<laughing> That's not nasty, that's true </laughing> .","[That/DT, 's/VBZ, not/RB, nasty/JJ, ,/,, that/DT, 's/VBZ, true/JJ, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (RB not) (ADJP (JJ nasty)))) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ true))) (. .)))"
-K/KB/KBM.xml,KBMRE003,72304,80,,A,55,1,<clears throat> ,[],X
+K/KB/KBM.xml,KBMRE003,72304,80,,A,55,1,<clears throat> ,[],
 K/KB/KBM.xml,KBMRE003,72304,81,,B,56,1,Tt.,"[Tt/NN, ./.]",(ROOT (NP (NN Tt) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,82,,B,56,2,Pity all your bastards are blacks.,"[Pity/NN, all/DT, your/PRP$, bastards/NNS, are/VBP, blacks/NNS, ./.]",(ROOT (S (NP (NP (NP (NN Pity)) (NP (DT all))) (NP (PRP$ your) (NNS bastards))) (VP (VBP are) (NP (NNS blacks))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,83,,A,57,1,And you won- <clears throat> cos I haven't got a pin number.,"[And/CC, you/PRP, won-/JJ, cos/NN, I/NN, haven/NN, 't/PRP, got/VBD, a/DT, pin/NN, number/NN, ./.]",(ROOT (S (CC And) (NP (NP (PRP you)) (NP (JJ won-) (NN cos) (NN I) (NN haven))) (NP (PRP 't)) (VP (VBD got) (NP (DT a) (NN pin) (NN number))) (. .)))
@@ -100,13 +100,13 @@ K/KB/KBM.xml,KBMRE003,72304,97,,B,64,2,What was I saying?,"[What/WP, was/VBD, I/
 K/KB/KBM.xml,KBMRE003,72304,98,,A,65,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,99,,A,65,2,Er erm  --,"[Er/NN, erm/NN, not/RB, too/RB, bad/JJ, ,/,, it/PRP, 's/VBZ, going/VBG, through/IN, to/TO, bad/JJ, ./.]","(ROOT (S (S (NP (NP (NN Er) (NN erm)) (ADJP (RB not) (RB too) (JJ bad)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (PP (IN through) (PP (TO to) (ADJP (JJ bad)))))) (. .)))"
 K/KB/KBM.xml,KBMRE003,72304,100,,A,65,3,"--not too bad, it's going through to bad.","[Er/NN, erm/NN, not/RB, too/RB, bad/JJ, ,/,, it/PRP, 's/VBZ, going/VBG, through/IN, to/TO, bad/JJ, ./.]","(ROOT (S (S (NP (NP (NN Er) (NN erm)) (ADJP (RB not) (RB too) (JJ bad)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (PP (IN through) (PP (TO to) (ADJP (JJ bad)))))) (. .)))"
-K/KB/KBM.xml,KBMRE003,72304,101,,B,66,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE003,72304,101,,B,66,1,(()) ,[],
 K/KB/KBM.xml,KBMRE003,72304,102,,A,67,1,I don't  --,"[I/PRP, don/VBP, 't/PRP, was/VBD, is/VBZ, about/IN, school/NN, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (SBAR (S (NP (PRP 't)) (VP (VBD was) (VP (VBZ is) (PP (IN about) (NP (NN school)))))))) (. ?)))
 K/KB/KBM.xml,KBMRE003,72304,103,,A,67,2,--was is about school?,"[I/PRP, don/VBP, 't/PRP, was/VBD, is/VBZ, about/IN, school/NN, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (SBAR (S (NP (PRP 't)) (VP (VBD was) (VP (VBZ is) (PP (IN about) (NP (NN school)))))))) (. ?)))
 K/KB/KBM.xml,KBMRE003,72304,104,,B,68,1,It can't have been about school.,"[It/PRP, can/MD, 't/PRP, have/VB, been/VBN, about/RB, school/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (MD can) (NP (PRP 't)) (S (VP (VB have) (VP (VBN been) (NP (RB about) (NN school)))))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,105,,A,69,1,Was it something you heard at school?,"[Was/VBD, it/PRP, something/NN, you/PRP, heard/VBD, at/IN, school/NN, ?/.]",(ROOT (S (S (VP (VBD Was) (NP (PRP it) (NN something)))) (NP (PRP you)) (VP (VBD heard) (PP (IN at) (NP (NN school)))) (. ?)))
 K/KB/KBM.xml,KBMRE003,72304,106,,B,70,1,Well I thought so.,"[Well/RB, I/PRP, thought/VBD, so/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBD thought) (ADVP (RB so))) (. .)))
-K/KB/KBM.xml,KBMRE003,72304,107,,A,71,1,<clears throat> ,[],X
+K/KB/KBM.xml,KBMRE003,72304,107,,A,71,1,<clears throat> ,[],
 K/KB/KBM.xml,KBMRE003,72304,108,,B,72,1,I can't think.,"[I/PRP, can/MD, 't/PRP, think/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB think)))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,109,,A,73,1,That was the    --,"[That/DT, was/VBD, the/DT, er/NN, er/NN, ooh/NN, !/.]",(ROOT (S (NP (DT That)) (VP (VBD was) (NP (DT the) (NN er) (NN er) (NN ooh))) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,110,,A,73,2,--<clears throat> --,"[That/DT, was/VBD, the/DT, er/NN, er/NN, ooh/NN, !/.]",(ROOT (S (NP (DT That)) (VP (VBD was) (NP (DT the) (NN er) (NN er) (NN ooh))) (. !)))
@@ -132,8 +132,8 @@ K/KB/KBM.xml,KBMRE003,72304,129,,A,81,1,Tell me later.,"[Tell/VB, me/PRP, later/
 K/KB/KBM.xml,KBMRE003,72304,130,,B,82,1,It's just funny.,"[It/PRP, 's/VBZ, just/RB, funny/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB just) (JJ funny))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,131,,B,82,2,Well it wasn't that funny.,"[Well/RB, it/PRP, wasn/VBD, 't/PRP, that/IN, funny/JJ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBD wasn) (NP (PRP 't)) (SBAR (IN that) (FRAG (ADJP (JJ funny))))) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,132,,B,82,3,It's,"[It/PRP, 's/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ 's))))
-K/KB/KBM.xml,KBMRE003,72304,133,,A,83,1,<laugh> ,[],X
-K/KB/KBM.xml,KBMRE003,72304,134,,B,84,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE003,72304,133,,A,83,1,<laugh> ,[],
+K/KB/KBM.xml,KBMRE003,72304,134,,B,84,1,(()) ,[],
 K/KB/KBM.xml,KBMRE003,72304,135,,A,85,1,Oh dear!,"[Oh/UH, dear/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. !)))
 K/KB/KBM.xml,KBMRE003,72304,136,,B,86,1,"He, he's really cut up about poor old Alex.","[He/PRP, ,/,, he/PRP, 's/VBZ, really/RB, cut/VBN, up/RP, about/IN, poor/JJ, old/JJ, Alex/NNP, ./.]","(ROOT (S (NP (PRP He)) (, ,) (NP (PRP he)) (VP (VBZ 's) (ADVP (RB really)) (VP (VBN cut) (PRT (RP up)) (PP (IN about) (NP (ADJP (JJ poor) (JJ old)) (NNP Alex))))) (. .)))"
 K/KB/KBM.xml,KBMRE003,72304,137,,A,87,1,"Oh, is it Alex?","[Oh/UH, ,/,, is/VBZ, it/PRP, Alex/NNP, ?/.]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (, ,) (VP (VBZ is) (NP (PRP it))) (NP (NNP Alex)) (. ?)))"
@@ -169,7 +169,7 @@ K/KB/KBM.xml,KBMRE003,72304,166,,B,102,2,You know the ,"[You/PRP, know/VBP, the/
 K/KB/KBM.xml,KBMRE003,72304,167,,A,103,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KB/KBM.xml,KBMRE003,72304,168,,A,103,2,Can yo- ,"[Can/MD, yo-/VB]",(ROOT (FRAG (VP (MD Can) (VP (VB yo-)))))
 K/KB/KBM.xml,KBMRE003,72304,169,,B,104,1,howls didn't give it away.,"[howls/NNS, didn/VBP, 't/PRP, give/VB, it/PRP, away/RB, ./.]",(ROOT (S (NP (NNS howls)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB give) (NP (PRP it)) (ADVP (RB away))))) (. .)))
-K/KB/KBM.xml,KBMRE003,72304,170,,A,105,1,<laugh> ,[],X
-K/KB/KBM.xml,KBMRE003,72304,171,,B,106,1,<laugh> ,[],X
+K/KB/KBM.xml,KBMRE003,72304,170,,A,105,1,<laugh> ,[],
+K/KB/KBM.xml,KBMRE003,72304,171,,B,106,1,<laugh> ,[],
 K/KB/KBM.xml,KBMRE003,72304,172,,A,107,1,Oh go on  --,"[Oh/UH, go/VB, on/IN, oh/NN, go/VB, on/IN, ,/,, tell/VB, ,/,, tell/VB, me/PRP, what/WP, was/VBD, Anthony/NNP, saying/VBG, ?/.]","(ROOT (S (INTJ (UH Oh)) (VP (VP (VB go) (PP (IN on) (NP (NN oh))) (S (VP (VB go) (PP (IN on))))) (, ,) (VP (VB tell)) (, ,) (VP (VB tell) (NP (PRP me)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (NP (NNP Anthony)) (VP (VBG saying)))))))) (. ?)))"
 K/KB/KBM.xml,KBMRE003,72304,173,,A,107,2,"--oh go on, tell, tell me what was Anthony saying?","[Oh/UH, go/VB, on/IN, oh/NN, go/VB, on/IN, ,/,, tell/VB, ,/,, tell/VB, me/PRP, what/WP, was/VBD, Anthony/NNP, saying/VBG, ?/.]","(ROOT (S (INTJ (UH Oh)) (VP (VP (VB go) (PP (IN on) (NP (NN oh))) (S (VP (VB go) (PP (IN on))))) (, ,) (VP (VB tell)) (, ,) (VP (VB tell) (NP (PRP me)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (NP (NNP Anthony)) (VP (VBG saying)))))))) (. ?)))"

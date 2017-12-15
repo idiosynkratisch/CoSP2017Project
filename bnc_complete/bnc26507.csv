@@ -240,11 +240,11 @@ K/KB/KBP.xml,KBPRE005,26507,237,,A,149,1,Oh yes.,"[Oh/UH, yes/UH, ./.]",(ROOT (F
 K/KB/KBP.xml,KBPRE005,26507,238,,A,149,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,239,,A,149,3,Oh yes.,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,240,,A,149,4,Well ,[Well/RB],(ROOT (INTJ (RB Well)))
-K/KB/KBP.xml,KBPRE005,26507,241,,B,150,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE005,26507,241,,B,150,1,(()) ,[],
 K/KB/KBP.xml,KBPRE005,26507,242,,A,151,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,243,,B,152,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,244,,B,152,2,"I was gonna say something, I've forgotten.<laugh> ","[I/PRP, was/VBD, gonna/NNP, say/VB, something/NN, ,/,, I/PRP, 've/VBP, forgotten/VBN, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB say) (NP (NN something)))))) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN forgotten))) (. .)))"
-K/KB/KBP.xml,KBPRE005,26507,245,,A,153,1,<laugh> ,[],X
+K/KB/KBP.xml,KBPRE005,26507,245,,A,153,1,<laugh> ,[],
 K/KB/KBP.xml,KBPRE005,26507,246,,B,154,1,As is my wont.,"[As/RB, is/VBZ, my/PRP$, wont/NN, ./.]",(ROOT (X (ADVP (RB As) (S (VP (VBZ is) (NP (PRP$ my)) (FRAG (NP (NN wont)) (. .)))))))
 K/KB/KBP.xml,KBPRE005,26507,247,,A,155,1,Well you usually mm.,"[Well/RB, you/PRP, usually/RB, mm/NN, ./.]",(ROOT (NP (NP (ADVP (RB Well)) (NP (PRP you)) (PP (RB usually) (NP (NN mm)))) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,248,,B,156,1,"Mm but I can't see, I don't think Carolyn would have much difficulty.","[Mm/NN, but/CC, I/PRP, can/MD, 't/PRP, see/VB, ,/,, I/PRP, don/VBP, 't/PRP, think/VB, Carolyn/NNP, would/MD, have/VB, much/JJ, difficulty/NN, ./.]","(ROOT (S (S (NP (NP (NN Mm)) (PP (CC but) (NP (PRP I)))) (VP (MD can) (NP (PRP 't)) (S (VP (VB see))))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (NNP Carolyn)) (VP (MD would) (VP (VB have) (NP (JJ much) (NN difficulty))))))))) (. .)))"
@@ -287,8 +287,8 @@ K/KB/KBP.xml,KBPRE005,26507,284,,A,181,2,"--the English press and public and the
 K/KB/KBP.xml,KBPRE005,26507,285,,A,181,3,Push push push all the time.,"[Push/NN, push/NN, push/NN, all/PDT, the/DT, time/NN, ./.]",(ROOT (NP (NP (NN Push) (NN push) (NN push)) (NP (PDT all) (DT the) (NN time)) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,286,,B,182,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,287,,A,183,1,Erm,[Erm/NN],(ROOT (NP (NN Erm)))
-K/KB/KBP.xml,KBPRE005,26507,288,,B,184,1,(()) ,[],X
-K/KB/KBP.xml,KBPRE005,26507,289,,B,184,2,<laugh> ,[],X
+K/KB/KBP.xml,KBPRE005,26507,288,,B,184,1,(()) ,[],
+K/KB/KBP.xml,KBPRE005,26507,289,,B,184,2,<laugh> ,[],
 K/KB/KBP.xml,KBPRE005,26507,290,,A,185,1,Yes well of course you can only assume that what he says is correct.,"[Yes/RB, well/RB, of/IN, course/NN, you/PRP, can/MD, only/RB, assume/VB, that/IN, what/WP, he/PRP, says/VBZ, is/VBZ, correct/JJ, ./.]",(ROOT (S (ADVP (RB Yes)) (PP (RB well) (IN of) (NP (NN course))) (NP (PRP you)) (VP (MD can) (ADVP (RB only)) (VP (VB assume) (SBAR (IN that) (S (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ says)))) (VP (VBZ is) (ADJP (JJ correct))))))) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,291,,A,185,2,He's quoting various  --,"[He/PRP, 's/VBZ, quoting/VBG, various/JJ, er/NN, authorities/NNS, on/IN, the/DT, subject/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG quoting) (NP (JJ various) (NN er) (NNS authorities)) (PP (IN on) (NP (DT the) (NN subject))))) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,292,,A,185,3,--er authorities on the subject (()) .,"[He/PRP, 's/VBZ, quoting/VBG, various/JJ, er/NN, authorities/NNS, on/IN, the/DT, subject/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG quoting) (NP (JJ various) (NN er) (NNS authorities)) (PP (IN on) (NP (DT the) (NN subject))))) (. .)))
@@ -342,7 +342,7 @@ K/KB/KBP.xml,KBPRE005,26507,339,,A,213,3,--panel game or,"[Or/CC, panel/NN, game
 K/KB/KBP.xml,KBPRE005,26507,340,,B,214,1,Yeah er no I don't think that is.,"[Yeah/UH, er/NN, no/NN, I/PRP, don/VBP, 't/PRP, think/VB, that/DT, is/VBZ, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (NN er) (NN no)) (VP (ADVP (PRP I)) (VBP don) (SBAR (S (NP (PRP 't)) (VP (VB think)))))) (NP (DT that)) (VP (VBZ is)) (. .)))
 K/KB/KBP.xml,KBPRE005,26507,341,,A,215,1,Mm?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
 K/KB/KBP.xml,KBPRE005,26507,342,,A,215,2,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
-K/KB/KBP.xml,KBPRE005,26507,343,,B,216,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE005,26507,343,,B,216,1,(()) ,[],
 K/KB/KBP.xml,KBPRE005,26507,344,,A,217,1,I can't think of any  --,"[I/PRP, can/MD, 't/PRP, think/VB, of/IN, any/DT, TV/NN, quizzes/VBZ, or/CC, panel/NN, games/NNS, or/CC]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB think) (PP (IN of) (NP (NP (DT any) (NN TV)) (SBAR (S (VP (VP (VBZ quizzes)) (CC or) (VP (NP (NN panel) (NNS games)) (ADVP (CC or)))))))))))))
 K/KB/KBP.xml,KBPRE005,26507,345,,A,217,2,--TV quizzes or panel games or ,"[I/PRP, can/MD, 't/PRP, think/VB, of/IN, any/DT, TV/NN, quizzes/VBZ, or/CC, panel/NN, games/NNS, or/CC]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB think) (PP (IN of) (NP (NP (DT any) (NN TV)) (SBAR (S (VP (VP (VBZ quizzes)) (CC or) (VP (NP (NN panel) (NNS games)) (ADVP (CC or)))))))))))))
 K/KB/KBP.xml,KBPRE005,26507,346,,B,218,1,Well that er that's not.(()) ,"[Well/RB, that/IN, er/NN, that/WDT, 's/VBZ, not/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN that) (FRAG (NP (NP (NN er)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (RB not))))))) (. .)))

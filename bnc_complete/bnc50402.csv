@@ -88,14 +88,14 @@ K/KD/KDV.xml,KDVRE009,50402,85,,A,45,1,then you want to get rid of it!,"[then/RB
 K/KD/KDV.xml,KDVRE009,50402,86,,B,46,1,I don't like the taste!,"[I/PRP, don/VBP, 't/PRP, like/IN, the/DT, taste/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (DT the) (NN taste)))) (. !)))
 K/KD/KDV.xml,KDVRE009,50402,87,,A,47,1,"Well have a spoon, mouthful of tea afterwards.","[Well/RB, have/VBP, a/DT, spoon/NNP, ,/,, mouthful/NNP, of/IN, tea/NNP, afterwards/RB, ./.]","(ROOT (SINV (ADVP (RB Well)) (VP (VBP have)) (NP (NP (DT a) (NNP spoon)) (, ,) (NP (NP (NNP mouthful)) (PP (IN of) (NP (NP (NNP tea)) (ADVP (RB afterwards)))))) (. .)))"
 K/KD/KDV.xml,KDVRE009,50402,88,,A,47,2,Here are.,"[Here/RB, are/VBP, ./.]",(ROOT (S (NP (RB Here)) (VP (VBP are)) (. .)))
-K/KD/KDV.xml,KDVRE009,50402,89,,B,48,1,<moan> ,[],X
+K/KD/KDV.xml,KDVRE009,50402,89,,B,48,1,<moan> ,[],
 K/KD/KDV.xml,KDVRE009,50402,90,,A,49,1,It don't taste ,"[It/PRP, don/NNP, 't/PRP, taste/VBP]",(ROOT (S (NP (NP (PRP It)) (PP (NNP don) (NP (PRP 't)))) (VP (VBP taste))))
 K/KD/KDV.xml,KDVRE009,50402,91,,B,50,1,(()) !,[!/.],(ROOT (NP (. !)))
 K/KD/KDV.xml,KDVRE009,50402,92,,A,51,1,that terrible.,"[that/DT, terrible/JJ, ./.]",(ROOT (S (NP (DT that)) (ADJP (JJ terrible)) (. .)))
 K/KD/KDV.xml,KDVRE009,50402,93,,B,52,1,<moan> --,"[It/PRP, tastes/VBZ, like/IN]",(ROOT (S (NP (PRP It)) (VP (VBZ tastes) (PP (IN like)))))
 K/KD/KDV.xml,KDVRE009,50402,94,,B,52,2,--It tastes like,"[It/PRP, tastes/VBZ, like/IN]",(ROOT (S (NP (PRP It)) (VP (VBZ tastes) (PP (IN like)))))
 K/KD/KDV.xml,KDVRE009,50402,95,,A,53,1,Well you should have ,"[Well/RB, you/PRP, should/MD, have/VB]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP you)) (SBAR (S (VP (MD should) (VP (VB have))))))))
-K/KD/KDV.xml,KDVRE009,50402,96,,B,54,1,(()) ,[],X
+K/KD/KDV.xml,KDVRE009,50402,96,,B,54,1,(()) ,[],
 K/KD/KDV.xml,KDVRE009,50402,97,,A,55,1,You're a wimp!,"[You/PRP, 're/VBP, a/DT, wimp/VB, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (S (NP (DT a)) (VP (VB wimp)))) (. !)))
 K/KD/KDV.xml,KDVRE009,50402,98,,B,56,1,I'm not a wimp!,"[I/PRP, 'm/VBP, not/RB, a/DT, wimp/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (S (NP (RB not) (DT a)) (VP (VB wimp)))) (. !)))
 K/KD/KDV.xml,KDVRE009,50402,99,,B,56,2,You're a wimp!,"[You/PRP, 're/VBP, a/DT, wimp/VB, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (S (NP (DT a)) (VP (VB wimp)))) (. !)))
@@ -103,9 +103,9 @@ K/KD/KDV.xml,KDVRE009,50402,100,,A,57,1,"Kyle, can you open your mouth so we can
 K/KD/KDV.xml,KDVRE009,50402,101,,A,57,2,Just lick that spoon off.,"[Just/RB, lick/VB, that/DT, spoon/NNP, off/RP, ./.]",(ROOT (S (ADVP (RB Just)) (VP (VB lick) (NP (DT that) (NNP spoon)) (PRT (RP off))) (. .)))
 K/KD/KDV.xml,KDVRE009,50402,102,,B,58,1,You do.<laugh> ,"[You/PRP, do/VBP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP do)) (. .)))
 K/KD/KDV.xml,KDVRE009,50402,103,,A,59,1,"I don't want it, I don't need the Calpol Come on!","[I/PRP, don/VBP, 't/PRP, want/VB, it/PRP, ,/,, I/PRP, don/VBP, 't/PRP, need/VB, the/DT, Calpol/NN, Come/VBN, on/IN, !/.]","(ROOT (S (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (NP (PRP it)))))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need) (NP (DT the) (NN Calpol)) (PP (VBN Come) (PP (IN on)))))) (. !)))"
-K/KD/KDV.xml,KDVRE009,50402,104,,B,60,1,<laugh> ,[],X
-K/KD/KDV.xml,KDVRE009,50402,105,,B,60,2,<laugh> ,[],X
-K/KD/KDV.xml,KDVRE009,50402,106,,A,61,1,(()) ,[],X
+K/KD/KDV.xml,KDVRE009,50402,104,,B,60,1,<laugh> ,[],
+K/KD/KDV.xml,KDVRE009,50402,105,,B,60,2,<laugh> ,[],
+K/KD/KDV.xml,KDVRE009,50402,106,,A,61,1,(()) ,[],
 K/KD/KDV.xml,KDVRE009,50402,107,,B,62,1,I might as well die!,"[I/PRP, might/MD, as/RB, well/RB, die/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (MD might) (ADVP (RB as) (RB well)) (VP (VB die))) (. !)))
 K/KD/KDV.xml,KDVRE009,50402,108,,A,63,1,<laughing> You very soon will if you carry on like this </laughing> !,"[You/PRP, very/RB, soon/RB, will/MD, if/IN, you/PRP, carry/VBP, on/RP, like/IN, this/DT, !/.]",(ROOT (S (NP (PRP You)) (ADVP (RB very) (RB soon)) (VP (MD will) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP carry) (PRT (RP on)) (PP (IN like) (NP (DT this))))))) (. !)))
 K/KD/KDV.xml,KDVRE009,50402,109,,A,63,2,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
@@ -141,9 +141,9 @@ K/KD/KDV.xml,KDVRE009,50402,138,,B,70,1,Ah!,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (
 K/KD/KDV.xml,KDVRE009,50402,139,,A,71,1,The warmth will soon start radiating round it.,"[The/DT, warmth/NN, will/MD, soon/RB, start/VB, radiating/VBG, round/NN, it/PRP, ./.]",(ROOT (S (NP (DT The) (NN warmth)) (VP (MD will) (ADVP (RB soon)) (VP (VB start) (S (VP (VBG radiating) (S (NP (NN round)) (NP (PRP it))))))) (. .)))
 K/KD/KDV.xml,KDVRE009,50402,140,,B,72,1,Ah!,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
 K/KD/KDV.xml,KDVRE009,50402,141,,A,73,1,Get yourself dressed ,"[Get/VB, yourself/PRP, dressed/VBN]",(ROOT (S (VP (VB Get) (S (NP (PRP yourself)) (VP (VBN dressed))))))
-K/KD/KDV.xml,KDVRE009,50402,142,,B,74,1,<moan> ,[],X
+K/KD/KDV.xml,KDVRE009,50402,142,,B,74,1,<moan> ,[],
 K/KD/KDV.xml,KDVRE009,50402,143,,A,75,1,now then.,"[now/RB, then/RB, ./.]",(ROOT (FRAG (ADVP (RB now)) (RB then) (. .)))
-K/KD/KDV.xml,KDVRE009,50402,144,,B,76,1,<moan> ,[],X
+K/KD/KDV.xml,KDVRE009,50402,144,,B,76,1,<moan> ,[],
 K/KD/KDV.xml,KDVRE009,50402,145,,A,77,1,Have a drink of this tea.,"[Have/VB, a/DT, drink/NN, of/IN, this/DT, tea/NN, ./.]",(ROOT (S (VP (VB Have) (NP (NP (DT a) (NN drink)) (PP (IN of) (NP (DT this) (NN tea))))) (. .)))
 K/KD/KDV.xml,KDVRE009,50402,146,,A,77,2,Have a drink.,"[Have/VB, a/DT, drink/NN, ./.]",(ROOT (S (VP (VB Have) (NP (DT a) (NN drink))) (. .)))
 K/KD/KDV.xml,KDVRE009,50402,147,,B,78,1,How can I be done with it when I'm like this?,"[How/WRB, can/MD, I/PRP, be/VB, done/VBN, with/IN, it/PRP, when/WRB, I/PRP, 'm/VBP, like/IN, this/DT, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP I)) (VP (VB be) (VP (VBN done) (PP (IN with) (NP (PRP it))) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP 'm) (PP (IN like) (NP (DT this))))))))) (. ?)))

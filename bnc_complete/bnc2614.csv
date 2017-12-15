@@ -5,9 +5,9 @@ K/KB/KBK.xml,KBKRE04F,2614,2,,A,3,1,Seen my glasses (()) ?,"[Seen/VBN, my/PRP$, 
 K/KB/KBK.xml,KBKRE04F,2614,3,,B,4,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
 K/KB/KBK.xml,KBKRE04F,2614,4,,A,5,1,How would you like your coffee love?,"[How/WRB, would/MD, you/PRP, like/VB, your/PRP$, coffee/NN, love/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (MD would) (NP (PRP you)) (VP (VB like) (NP (PRP$ your) (NN coffee) (NN love)))) (. ?)))
 K/KB/KBK.xml,KBKRE04F,2614,5,,B,6,1,(()) thank you.,"[thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB thank) (NP (PRP you))) (. .)))
-K/KB/KBK.xml,KBKRE04F,2614,6,,A,7,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE04F,2614,7,,B,8,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE04F,2614,8,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04F,2614,6,,A,7,1,(()) ,[],
+K/KB/KBK.xml,KBKRE04F,2614,7,,B,8,1,(()) ,[],
+K/KB/KBK.xml,KBKRE04F,2614,8,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04F,2614,9,,B,10,1,On whose behalf should I arrears?,"[On/IN, whose/WP$, behalf/NN, should/MD, I/PRP, arrears/NNS, ?/.]",(ROOT (FRAG (PP (IN On) (SBAR (WHNP (WP$ whose) (NN behalf)) (S (VP (MD should)) (NP (PRP I) (NNS arrears))))) (. ?)))
 K/KB/KBK.xml,KBKRE04F,2614,10,,A,11,1,Interest.,"[Interest/NN, ./.]",(ROOT (NP (NN Interest) (. .)))
 K/KB/KBK.xml,KBKRE04F,2614,11,,B,12,1,"Oh, really?","[Oh/UH, ,/,, really/RB, ?/.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (RB really)) (. ?)))"

@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KB2.xml,KB2RE00H,61503,0,,A,1,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
-K/KB/KB2.xml,KB2RE00H,61503,1,,B,2,1,<laugh> ,[],X
+K/KB/KB2.xml,KB2RE00H,61503,1,,B,2,1,<laugh> ,[],
 K/KB/KB2.xml,KB2RE00H,61503,2,,A,3,1,That's twenty three.,"[That/DT, 's/VBZ, twenty/CD, three/CD, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (CD twenty) (CD three))) (. .)))
 K/KB/KB2.xml,KB2RE00H,61503,3,,B,4,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KB2.xml,KB2RE00H,61503,4,,A,5,1,Can you see?,"[Can/MD, you/PRP, see/VB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB see)) (. ?)))
@@ -17,4 +17,4 @@ K/KB/KB2.xml,KB2RE00H,61503,14,,A,11,2,"--if they only want one, two pound I'll 
 K/KB/KB2.xml,KB2RE00H,61503,15,,A,11,3,I'll send two pound  --,"[I/PRP, 'll/MD, send/VB, two/CD, pound/NN, postage/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB send) (NP (CD two) (NN pound) (NN postage)))) (. .)))
 K/KB/KB2.xml,KB2RE00H,61503,16,,A,11,4,--postage.,"[I/PRP, 'll/MD, send/VB, two/CD, pound/NN, postage/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB send) (NP (CD two) (NN pound) (NN postage)))) (. .)))
 K/KB/KB2.xml,KB2RE00H,61503,17,,A,11,5,"Put it in, in there leave that so it's (()) .","[Put/VB, it/PRP, in/IN, ,/,, in/IN, there/EX, leave/VBP, that/DT, so/IN, it/PRP, 's/VBZ, ./.]","(ROOT (S (VP (VB Put) (NP (PRP it)) (PP (IN in)) (, ,) (SBAR (IN in) (S (NP (EX there)) (VP (VBP leave) (NP (DT that)) (SBAR (IN so) (S (NP (PRP it)) (VP (VBZ 's)))))))) (. .)))"
-K/KB/KB2.xml,KB2RE00H,61503,18,,B,12,1,<sigh> ,[],X
+K/KB/KB2.xml,KB2RE00H,61503,18,,B,12,1,<sigh> ,[],

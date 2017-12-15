@@ -14,14 +14,14 @@ K/KD/KD8.xml,KD8RE00U,31703,11,,A,5,4,--dry it with a hairdryer.,"[Right/RB, wha
 K/KD/KD8.xml,KD8RE00U,31703,12,,A,5,5,Oh this'll be a good idea!,"[Oh/UH, this/DT, 'll/MD, be/VB, a/DT, good/JJ, idea/NN, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT this)) (VP (MD 'll) (VP (VB be) (NP (DT a) (JJ good) (NN idea))))) (. !)))
 K/KD/KD8.xml,KD8RE00U,31703,13,,A,5,6,"Right, we'll do this.","[Right/NN, ,/,, we/PRP, 'll/MD, do/VB, this/DT, ./.]","(ROOT (S (NP (NN Right)) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB do) (NP (DT this)))) (. .)))"
 K/KD/KD8.xml,KD8RE00U,31703,14,,A,5,7,<laughing> What we're doing </laughing> ?,"[What/WP, we/PRP, 're/VBP, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (NP (PRP we)) (VP (VBP 're) (VP (VBG doing)))) (. ?)))
-K/KD/KD8.xml,KD8RE00U,31703,15,,B,6,1,<laugh> ,[],X
+K/KD/KD8.xml,KD8RE00U,31703,15,,B,6,1,<laugh> ,[],
 K/KD/KD8.xml,KD8RE00U,31703,16,,A,7,1,We're gonna make it stay.,"[We/PRP, 're/VBP, gonna/NNS, make/VB, it/PRP, stay/VB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 're) (S (NP (NNS gonna)) (VP (VB make) (S (NP (PRP it)) (VP (VB stay)))))) (. .)))
 K/KD/KD8.xml,KD8RE00U,31703,17,,A,7,2,"So as that you don't, you won't even have to run your brush through it in the morning, how's that?","[So/RB, as/IN, that/IN, you/PRP, don/VBP, 't/PRP, ,/,, you/PRP, won/VBD, 't/PRP, even/RB, have/VBP, to/TO, run/VB, your/PRP$, brush/NN, through/IN, it/PRP, in/IN, the/DT, morning/NN, ,/,, how/WRB, 's/POS, that/WDT, ?/.]","(ROOT (S (ADVP (RB So) (PP (IN as) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP don) (NP (PRP 't))))))) (, ,) (NP (PRP you)) (VP (VBD won) (NP (PRP 't)) (SBAR (RB even) (S (VP (VBP have) (S (VP (TO to) (VP (VB run) (NP (NP (PRP$ your) (NN brush)) (VP (PP (IN through) (NP (NP (PRP it)) (PP (IN in) (NP (DT the) (NN morning))))) (, ,) (NP (WRB how)))) (S (NP (POS 's))))))) (NP (WDT that))))) (. ?)))"
 K/KD/KD8.xml,KD8RE00U,31703,18,,B,8,1,Oh superb!,"[Oh/UH, superb/JJ, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ superb)))) (. !)))
 K/KD/KD8.xml,KD8RE00U,31703,19,,A,9,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KD/KD8.xml,KD8RE00U,31703,20,,B,10,1,<laugh> --,"[Stop/VB, it/PRP, !/.]",(ROOT (S (VP (VB Stop) (NP (PRP it))) (. !)))
 K/KD/KD8.xml,KD8RE00U,31703,21,,B,10,2,--Stop it!(()) ,"[Stop/VB, it/PRP, !/.]",(ROOT (S (VP (VB Stop) (NP (PRP it))) (. !)))
-K/KD/KD8.xml,KD8RE00U,31703,22,,A,11,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00U,31703,22,,A,11,1,(()) ,[],
 K/KD/KD8.xml,KD8RE00U,31703,23,,B,12,1,"Yeah, yeah.","[Yeah/UH, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (UH Yeah)) (, ,) (INTJ (UH yeah) (. .))))"
 K/KD/KD8.xml,KD8RE00U,31703,24,,A,13,1,It's (()) !,"[It/PRP, 's/VBZ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's)) (. !)))
 K/KD/KD8.xml,KD8RE00U,31703,25,,B,14,1,"No don't, don't cos you'll hurt me!","[No/DT, don/NNP, 't/PRP, ,/,, don/NNP, 't/PRP, cos/NN, you/PRP, 'll/MD, hurt/VB, me/PRP, !/.]","(ROOT (S (NP (DT No) (NNP don)) (NP (PRP 't)) (, ,) (S (VP (NNP don) (S (NP (PRP 't)) (NP (NN cos))))) (NP (PRP you)) (VP (MD 'll) (VP (VB hurt) (NP (PRP me)))) (. !)))"
@@ -32,7 +32,7 @@ K/KD/KD8.xml,KD8RE00U,31703,29,,B,16,2,Tickle your ears!,"[Tickle/VB, your/PRP$,
 K/KD/KD8.xml,KD8RE00U,31703,30,,A,17,1,<laughing> (()) </laughing> !,[!/.],(ROOT (NP (. !)))
 K/KD/KD8.xml,KD8RE00U,31703,31,,A,17,2,Has it worked?,"[Has/VBZ, it/PRP, worked/VBN, ?/.]",(ROOT (SQ (VBZ Has) (NP (PRP it)) (VP (VBN worked)) (. ?)))
 K/KD/KD8.xml,KD8RE00U,31703,32,,A,17,3,"Oh yes, I've cracked it!","[Oh/UH, yes/UH, ,/,, I/PRP, 've/VBP, cracked/VBN, it/PRP, !/.]","(ROOT (S (INTJ (UH Oh)) (INTJ (UH yes)) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN cracked) (NP (PRP it)))) (. !)))"
-K/KD/KD8.xml,KD8RE00U,31703,33,,B,18,1,<laugh> ,[],X
+K/KD/KD8.xml,KD8RE00U,31703,33,,B,18,1,<laugh> ,[],
 K/KD/KD8.xml,KD8RE00U,31703,34,,A,19,1,Oh love it!,"[Oh/UH, love/VBP, it/PRP, !/.]",(ROOT (FRAG (INTJ (UH Oh)) (VBP love) (NP (PRP it)) (. !)))
 K/KD/KD8.xml,KD8RE00U,31703,35,,B,20,1,"She's got the hang of it at last Chloe, you're alright now!","[She/PRP, 's/VBZ, got/VBD, the/DT, hang/NNP, of/IN, it/PRP, at/IN, last/JJ, Chloe/NNP, ,/,, you/PRP, 're/VBP, alright/JJ, now/RB, !/.]","(ROOT (S (S (NP (PRP She)) (VP (VBZ 's) (VP (VBD got) (NP (NP (DT the) (NNP hang)) (PP (IN of) (NP (PRP it)))) (PP (IN at) (NP (JJ last) (NNP Chloe)))))) (, ,) (NP (PRP you)) (VP (VBP 're) (ADJP (JJ alright)) (ADVP (RB now))) (. !)))"
 K/KD/KD8.xml,KD8RE00U,31703,36,,B,20,2,We're getting there.,"[We/PRP, 're/VBP, getting/VBG, there/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 're) (VP (VBG getting) (ADVP (RB there)))) (. .)))
@@ -44,7 +44,7 @@ K/KD/KD8.xml,KD8RE00U,31703,41,,B,24,1,Peroxide.,"[Peroxide/NN, ./.]",(ROOT (NP 
 K/KD/KD8.xml,KD8RE00U,31703,42,,A,25,1,Do you think it will suit me?,"[Do/VB, you/PRP, think/VB, it/PRP, will/MD, suit/VB, me/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB suit) (NP (PRP me))))))))) (. ?)))
 K/KD/KD8.xml,KD8RE00U,31703,43,,B,26,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
 K/KD/KD8.xml,KD8RE00U,31703,44,,B,26,2,Go on then.,"[Go/VB, on/IN, then/RB, ./.]",(ROOT (S (VP (VB Go) (PP (IN on) (NP (RB then)))) (. .)))
-K/KD/KD8.xml,KD8RE00U,31703,45,,A,27,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00U,31703,45,,A,27,1,(()) ,[],
 K/KD/KD8.xml,KD8RE00U,31703,46,,B,28,1,Well if you use that streaks at the front  --,"[Well/RB, if/IN, you/PRP, use/VBP, that/IN, streaks/NNS, at/IN, the/DT, front/JJ, why/WRB, don/NNP, 't/PRP, you/PRP, try/VBP, a/DT, wig/NN, on/IN, ./.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP use) (SBAR (IN that) (S (NP (NP (NNS streaks)) (PP (IN at) (NP (NP (DT the) (JJ front)) (SBAR (WHADVP (WRB why)) (S (NP (NNP don) (PRP 't)) (NP (PRP you))))))) (VP (VBP try) (NP (DT a) (NN wig)) (PP (IN on)))))))) (. .)))
 K/KD/KD8.xml,KD8RE00U,31703,47,,B,28,2,--why don't you try a wig on.,"[Well/RB, if/IN, you/PRP, use/VBP, that/IN, streaks/NNS, at/IN, the/DT, front/JJ, why/WRB, don/NNP, 't/PRP, you/PRP, try/VBP, a/DT, wig/NN, on/IN, ./.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP use) (SBAR (IN that) (S (NP (NP (NNS streaks)) (PP (IN at) (NP (NP (DT the) (JJ front)) (SBAR (WHADVP (WRB why)) (S (NP (NNP don) (PRP 't)) (NP (PRP you))))))) (VP (VBP try) (NP (DT a) (NN wig)) (PP (IN on)))))))) (. .)))
 K/KD/KD8.xml,KD8RE00U,31703,48,,A,29,1,<laughing> Werhh hoo hoo ,"[Werhh/NNP, hoo/NNP, hoo/NNP]",(ROOT (NP (NNP Werhh) (NNP hoo) (NNP hoo)))

@@ -2,12 +2,12 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KC/KCV.xml,KCVRE00F,3306,0,,A,1,1,"Oh I, haven't got any onions.","[Oh/UH, I/PRP, ,/,, haven/NNP, 't/PRP, got/VBD, any/DT, onions/NNS, ./.]","(ROOT (S (PP (UH Oh) (NP (PRP I))) (, ,) (NP (NNP haven) (PRP 't)) (VP (VBD got) (NP (DT any) (NNS onions))) (. .)))"
 K/KC/KCV.xml,KCVRE00F,3306,1,,B,2,1,No problem.,"[No/DT, problem/NN, ./.]",(ROOT (NP (DT No) (NN problem) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,2,,A,3,1,(()) for me eh.,"[for/IN, me/PRP, eh/UH, ./.]",(ROOT (FRAG (PP (IN for) (NP (NP (PRP me)) (FRAG (INTJ (UH eh))))) (. .)))
-K/KC/KCV.xml,KCVRE00F,3306,3,,B,4,1,<laugh> ,[],X
-K/KC/KCV.xml,KCVRE00F,3306,4,,B,4,2,(()) ,[],X
-K/KC/KCV.xml,KCVRE00F,3306,5,,A,5,1,(()) ,[],X
-K/KC/KCV.xml,KCVRE00F,3306,6,,B,6,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00F,3306,3,,B,4,1,<laugh> ,[],
+K/KC/KCV.xml,KCVRE00F,3306,4,,B,4,2,(()) ,[],
+K/KC/KCV.xml,KCVRE00F,3306,5,,A,5,1,(()) ,[],
+K/KC/KCV.xml,KCVRE00F,3306,6,,B,6,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00F,3306,7,,A,7,1,"No, all well.","[No/DT, ,/,, all/RB, well/RB, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (ADVP (RB all) (RB well) (. .))))"
-K/KC/KCV.xml,KCVRE00F,3306,8,,B,8,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00F,3306,8,,B,8,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00F,3306,9,,A,9,1,I just (()) .,"[I/PRP, just/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (ADVP (RB just))) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,10,,A,9,2,(()) . We should have gone shopping today (()) .,"[./., We/PRP, should/MD, have/VB, gone/VBN, shopping/NN, today/NN, ./.]",(ROOT (S (. .) (NP (PRP We)) (VP (MD should) (VP (VB have) (VP (VBN gone) (NP (NN shopping) (NN today))))) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,11,,B,10,1,If you want to I'll go with you.,"[If/IN, you/PRP, want/VBP, to/TO, I/PRP, 'll/MD, go/VB, with/IN, you/PRP, ./.]",(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (PP (TO to) (NP (PRP I)))))) (VP (MD 'll) (VP (VB go) (PP (IN with) (NP (PRP you))))) (. .)))
@@ -37,7 +37,7 @@ K/KC/KCV.xml,KCVRE00F,3306,34,,B,28,1,cakes and er,"[cakes/NNS, and/CC, er/NN]",
 K/KC/KCV.xml,KCVRE00F,3306,35,,A,29,1,Some really do have to work very (()) .,"[Some/DT, really/RB, do/VBP, have/VB, to/TO, work/VB, very/RB, ./.]",(ROOT (FRAG (S (NP (DT Some)) (ADVP (RB really)) (VP (VBP do) (VP (VB have) (S (VP (TO to) (VP (VB work) (FRAG (ADVP (RB very) (. .)))))))))))
 K/KC/KCV.xml,KCVRE00F,3306,36,,B,30,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,37,,A,31,1,"To, to, get a get on.","[To/TO, ,/,, to/TO, ,/,, get/VB, a/DT, get/VB, on/IN, ./.]","(ROOT (S (PP (PP (TO To)) (, ,) (PP (TO to))) (, ,) (VP (VB get) (S (NP (DT a)) (VP (VB get) (PP (IN on))))) (. .)))"
-K/KC/KCV.xml,KCVRE00F,3306,38,,B,32,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00F,3306,38,,B,32,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00F,3306,39,,A,33,1,You know where that comes from?,"[You/PRP, know/VBP, where/WRB, that/DT, comes/VBZ, from/IN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (WHADVP (WRB where)) (S (NP (DT that)) (VP (VBZ comes) (PP (IN from)))))) (. ?)))
 K/KC/KCV.xml,KCVRE00F,3306,40,,B,34,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,41,,A,35,1,"It would be (()) , disgusting old thing.","[It/PRP, would/MD, be/VB, ,/,, disgusting/JJ, old/JJ, thing/NN, ./.]","(ROOT (S (NP (PRP It)) (VP (MD would) (VP (VB be))) (, ,) (X (NP (ADJP (JJ disgusting) (JJ old)) (NN thing))) (. .)))"
@@ -48,7 +48,7 @@ K/KC/KCV.xml,KCVRE00F,3306,45,,B,36,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN R
 K/KC/KCV.xml,KCVRE00F,3306,46,,A,37,1,"So,(()) .","[So/RB, ,/,, ./.]","(ROOT (S (RB So) (VP (, ,)) (. .)))"
 K/KC/KCV.xml,KCVRE00F,3306,47,,B,38,1,It's a  (()) use it?,"[It/PRP, 's/VBZ, a/DT, use/NN, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (S (NP (DT a) (NN use)) (NP (PRP it)))) (. ?)))
 K/KC/KCV.xml,KCVRE00F,3306,48,,A,39,1,"No, no, no.(()) .","[No/DT, ,/,, no/DT, ,/,, no/DT, ./., ./.]","(ROOT (FRAG (NP (NP (DT No) (, ,) (DT no)) (, ,) (NP (DT no)) (. .)) (. .)))"
-K/KC/KCV.xml,KCVRE00F,3306,49,,B,40,1,<laugh> ,[],X
+K/KC/KCV.xml,KCVRE00F,3306,49,,B,40,1,<laugh> ,[],
 K/KC/KCV.xml,KCVRE00F,3306,50,,A,41,1,"I'll just put in onion,(()) .","[I/PRP, 'll/MD, just/RB, put/VB, in/IN, onion/NN, ,/,, ./.]","(ROOT (S (NP (PRP I)) (VP (MD 'll) (ADVP (RB just)) (VP (VB put) (PP (IN in) (NP (NN onion)) (, ,)))) (. .)))"
 K/KC/KCV.xml,KCVRE00F,3306,51,,B,42,1,Aha (()) .,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,52,,A,43,1,"How funny, I (()) .","[How/WRB, funny/JJ, ,/,, I/PRP, ./.]","(ROOT (FRAG (ADJP (WHADVP (WRB How)) (JJ funny)) (, ,) (NP (PRP I)) (. .)))"
@@ -72,11 +72,11 @@ K/KC/KCV.xml,KCVRE00F,3306,69,,A,55,1,"Eh,(()) ","[Eh/UH, ,/,]","(ROOT (FRAG (PP
 K/KC/KCV.xml,KCVRE00F,3306,70,,B,56,1,"We have fruit,(()) ","[We/PRP, have/VBP, fruit/NN, ,/,]","(ROOT (S (NP (PRP We)) (VP (VBP have) (NP (NN fruit))) (, ,)))"
 K/KC/KCV.xml,KCVRE00F,3306,71,,A,57,1,Did you?,"[Did/VBD, you/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP you))) (. ?)))
 K/KC/KCV.xml,KCVRE00F,3306,72,,A,57,2,"Now look here you,(()) be late.","[Now/RB, look/VBP, here/RB, you/PRP, ,/,, be/VB, late/RB, ./.]","(ROOT (SINV (ADVP (RB Now)) (VP (VBP look) (ADVP (RB here))) (NP (PRP you)) (, ,) (S (VP (VB be) (ADVP (RB late)))) (. .)))"
-K/KC/KCV.xml,KCVRE00F,3306,73,,B,58,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00F,3306,73,,B,58,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00F,3306,74,,A,59,1,Why do I want this (()) .,"[Why/WRB, do/VBP, I/PRP, want/VB, this/DT, ./.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP I)) (VP (VB want) (NP (DT this)))) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,75,,A,59,2,Every (()) .,"[Every/DT, ./.]",(ROOT (FRAG (NP (DT Every)) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,76,,A,59,3,"You know,(()) .","[You/PRP, know/VBP, ,/,, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP know)) (, ,)) (. .)))"
-K/KC/KCV.xml,KCVRE00F,3306,77,,B,60,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00F,3306,77,,B,60,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00F,3306,78,,A,61,1,"No, they're all dirty.","[No/DT, ,/,, they/PRP, 're/VBP, all/DT, dirty/JJ, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP they)) (VP (VBP 're) (ADJP (DT all) (JJ dirty))) (. .)))"
 K/KC/KCV.xml,KCVRE00F,3306,79,,B,62,1,You better give me some  (()) no.,"[You/PRP, better/JJR, give/VB, me/PRP, some/DT, no/DT, ./.]",(ROOT (S (NP (PRP You)) (ADVP (JJR better)) (VP (VB give) (NP (PRP me)) (NP (DT some) (DT no))) (. .)))
 K/KC/KCV.xml,KCVRE00F,3306,80,,A,63,1,"So I , this I have no more room for erm, for glasses.","[So/IN, I/PRP, ,/,, this/DT, I/PRP, have/VBP, no/DT, more/JJR, room/NN, for/IN, erm/NN, ,/,, for/IN, glasses/NNS, ./.]","(ROOT (S (IN So) (NP (PRP I)) (, ,) (S (NP (DT this))) (NP (PRP I)) (VP (VBP have) (NP (NP (DT no) (JJR more) (NN room)) (PP (IN for) (NP (NN erm)))) (, ,) (PP (IN for) (NP (NNS glasses)))) (. .)))"

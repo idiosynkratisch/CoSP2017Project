@@ -18,7 +18,7 @@ K/KB/KBK.xml,KBKRE01C,2212,15,,A,13,1,That explains why Brian didn't get a look 
 K/KB/KBK.xml,KBKRE01C,2212,16,,B,14,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE01C,2212,17,,B,14,2,Yes  --,"[Yes/RB, Good/JJ, heavens/NNS, ,/,, tomorrow/NN, ,/,, the/DT, day/NN, after/IN, ,/,, the/DT, whole/NN, of/IN, radio/NN, three/CD]","(ROOT (FRAG (ADVP (RB Yes)) (NP (NP (JJ Good) (NNS heavens)) (, ,) (NP (NN tomorrow)) (, ,) (NP (NP (NP (DT the) (NN day)) (PP (IN after))) (, ,) (NP (NP (DT the) (NN whole)) (PP (IN of) (NP (NN radio) (CD three))))))))"
 K/KB/KBK.xml,KBKRE01C,2212,18,,B,14,3,"--Good heavens, tomorrow, the day after, the whole of radio three","[Yes/RB, Good/JJ, heavens/NNS, ,/,, tomorrow/NN, ,/,, the/DT, day/NN, after/IN, ,/,, the/DT, whole/NN, of/IN, radio/NN, three/CD]","(ROOT (FRAG (ADVP (RB Yes)) (NP (NP (JJ Good) (NNS heavens)) (, ,) (NP (NN tomorrow)) (, ,) (NP (NP (NP (DT the) (NN day)) (PP (IN after))) (, ,) (NP (NP (DT the) (NN whole)) (PP (IN of) (NP (NN radio) (CD three))))))))"
-K/KB/KBK.xml,KBKRE01C,2212,19,,A,15,1,<cough> ,[],X
+K/KB/KBK.xml,KBKRE01C,2212,19,,A,15,1,<cough> ,[],
 K/KB/KBK.xml,KBKRE01C,2212,20,,B,16,1,"comes from St.Paul and Minneapolis, Minnesota.","[comes/VBZ, from/IN, St/JJ, .Paul/NN, and/CC, Minneapolis/NNP, ,/,, Minnesota/NNP, ./.]","(ROOT (S (VP (VBZ comes) (PP (IN from) (NP (NP (JJ St) (NN .Paul)) (CC and) (NP (NNP Minneapolis) (, ,) (NNP Minnesota))))) (. .)))"
 K/KB/KBK.xml,KBKRE01C,2212,21,,A,17,1,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
 K/KB/KBK.xml,KBKRE01C,2212,22,,B,18,1,Live broadcast.,"[Live/VB, broadcast/NN, ./.]",(ROOT (S (VP (VB Live) (NP (NN broadcast))) (. .)))

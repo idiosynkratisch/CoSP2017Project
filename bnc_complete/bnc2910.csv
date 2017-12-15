@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE069,2910,0,,A,1,1,What's inside that?,"[What/WP, 's/VBZ, inside/IN, that/DT, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (PP (IN inside) (NP (DT that)))) (. ?)))
-K/KB/KBK.xml,KBKRE069,2910,1,,B,2,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE069,2910,1,,B,2,1,(()) ,[],
 K/KB/KBK.xml,KBKRE069,2910,2,,A,3,1,Little dumplings.,"[Little/JJ, dumplings/NNS, ./.]",(ROOT (FRAG (NP (JJ Little) (NNS dumplings)) (. .)))
 K/KB/KBK.xml,KBKRE069,2910,3,,B,4,1,Little dumplings such as you've never come across other than in a Chinese Restaurant.,"[Little/JJ, dumplings/NNS, such/JJ, as/IN, you/PRP, 've/VBP, never/RB, come/VBN, across/IN, other/JJ, than/IN, in/IN, a/DT, Chinese/JJ, Restaurant/NN, ./.]",(ROOT (S (NP (NP (JJ Little) (NNS dumplings)) (PP (JJ such) (IN as) (NP (PRP you)))) (VP (VBP 've) (ADVP (RB never)) (VP (VBN come) (PP (IN across) (NP (JJ other))) (PP (IN than) (PP (IN in) (NP (DT a) (JJ Chinese) (NN Restaurant)))))) (. .)))

@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KB5.xml,KB5RE001,5702,0,,A,1,1,Don't do phone calls.,"[Don/NNP, 't/PRP, do/VBP, phone/NN, calls/NNS, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP do) (NP (NN phone) (NNS calls))) (. .)))
-K/KB/KB5.xml,KB5RE001,5702,1,,B,2,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE001,5702,1,,B,2,1,(()) ,[],
 K/KB/KB5.xml,KB5RE001,5702,2,,A,3,1,(()) made your (()) .,"[made/VBN, your/PRP$, ./.]",(ROOT (S (VP (VBN made) (NP (PRP$ your))) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,3,,A,3,2,International Longmans Dictionary.,"[International/NNP, Longmans/NNP, Dictionary/NNP, ./.]",(ROOT (NP (NNP International) (NNP Longmans) (NNP Dictionary) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,4,,B,4,1,Really got a thing really.,"[Really/RB, got/VBD, a/DT, thing/NN, really/RB, ./.]",(ROOT (S (NP (ADVP (RB Really))) (VP (VBD got) (NP (DT a) (NN thing)) (ADVP (RB really))) (. .)))
@@ -8,22 +8,22 @@ K/KB/KB5.xml,KB5RE001,5702,5,,B,4,2,<laugh> Have any?,"[Have/VB, any/DT, ?/.]",(
 K/KB/KB5.xml,KB5RE001,5702,6,,A,5,1,I think actually ask them.,"[I/PRP, think/VBP, actually/RB, ask/VB, them/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (ADVP (RB actually)) (VP (VB ask) (NP (PRP them)))) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,7,,B,6,1,"Oh, I see.","[Oh/UH, ,/,, I/PRP, see/VBP, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))"
 K/KB/KB5.xml,KB5RE001,5702,8,,A,7,1,Oh we've been (()) .,"[Oh/UH, we/PRP, 've/VBP, been/VBN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP we)) (VP (VBP 've) (VP (VBN been)))) (. .)))
-K/KB/KB5.xml,KB5RE001,5702,9,,B,8,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE001,5702,9,,B,8,1,<laugh> ,[],
 K/KB/KB5.xml,KB5RE001,5702,10,,A,9,1,What with the mileage.,"[What/WDT, with/IN, the/DT, mileage/NN, ./.]",(ROOT (FRAG (WHNP (WDT What)) (PP (IN with) (NP (DT the) (NN mileage))) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,11,,B,10,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KB/KB5.xml,KB5RE001,5702,12,,A,11,1,(()) ,[],X
-K/KB/KB5.xml,KB5RE001,5702,13,,B,12,1,(()) ,[],X
-K/KB/KB5.xml,KB5RE001,5702,14,,A,13,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE001,5702,12,,A,11,1,(()) ,[],
+K/KB/KB5.xml,KB5RE001,5702,13,,B,12,1,(()) ,[],
+K/KB/KB5.xml,KB5RE001,5702,14,,A,13,1,(()) ,[],
 K/KB/KB5.xml,KB5RE001,5702,15,,B,14,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,16,,A,15,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,17,,B,16,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KB5.xml,KB5RE001,5702,18,,A,17,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE001,5702,18,,A,17,1,(()) ,[],
 K/KB/KB5.xml,KB5RE001,5702,19,,B,18,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
-K/KB/KB5.xml,KB5RE001,5702,20,,A,19,1,<laugh> ,[],X
+K/KB/KB5.xml,KB5RE001,5702,20,,A,19,1,<laugh> ,[],
 K/KB/KB5.xml,KB5RE001,5702,21,,B,20,1,"Yeah that, that's where you (()) .","[Yeah/UH, that/IN, ,/,, that/DT, 's/VBZ, where/WRB, you/PRP, ./.]","(ROOT (S (PP (NP (UH Yeah)) (IN that)) (, ,) (NP (DT that)) (VP (VBZ 's) (FRAG (WHADVP (WRB where) (NP (PRP you))))) (. .)))"
 K/KB/KB5.xml,KB5RE001,5702,22,,A,21,1,(()) Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,23,,B,22,1,"(()) gonna ring then cos I'm, I'm not staying like this.","[gonna/NNP, ring/NN, then/RB, cos/NN, I/PRP, 'm/VBP, ,/,, I/PRP, 'm/VBP, not/RB, staying/VBG, like/IN, this/DT, ./.]","(ROOT (S (S (NP (NP (NNP gonna) (NN ring)) (NP (RB then) (NN cos))) (NP (PRP I)) (VP (VBP 'm))) (, ,) (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG staying) (PP (IN like) (NP (DT this))))) (. .)))"
-K/KB/KB5.xml,KB5RE001,5702,24,,A,23,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE001,5702,24,,A,23,1,(()) ,[],
 K/KB/KB5.xml,KB5RE001,5702,25,,B,24,1,"Oh alright then,(()) .","[Oh/UH, alright/JJ, then/RB, ,/,, ./.]","(ROOT (INTJ (UH Oh) (PP (JJ alright) (NP (NP (RB then)) (, ,))) (. .)))"
 K/KB/KB5.xml,KB5RE001,5702,26,,A,25,1,(()) Oh sorry (()) .,"[Oh/UH, sorry/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB sorry)))) (. .)))
 K/KB/KB5.xml,KB5RE001,5702,27,,B,26,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))

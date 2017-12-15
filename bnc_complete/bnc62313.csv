@@ -87,8 +87,8 @@ K/KB/KB9.xml,KB9RE00R,62313,84,,A,43,2,"But I would imagine that's what she want
 K/KB/KB9.xml,KB9RE00R,62313,85,,A,43,3,--and she can sort of ,"[But/CC, I/PRP, would/MD, imagine/VB, that/DT, 's/VBZ, what/WP, she/PRP, wants/VBZ, to/TO, train/VB, Teresa/NNP, up/RP, for/IN, ,/,, so/IN, she/PRP, can/MD, just/RB, run/VB, it/PRP, and/CC, she/PRP, can/MD, sort/VB, of/IN]","(ROOT (S (S (CC But) (NP (PRP I)) (VP (MD would) (VP (VB imagine) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP she)) (VP (VBZ wants) (S (VP (TO to) (VP (VB train) (NP (NNP Teresa)) (PRT (RP up)) (PP (IN for)))))))))))))) (, ,) (IN so) (S (NP (PRP she)) (VP (MD can) (ADVP (RB just)) (VP (VB run) (NP (PRP it))))) (CC and) (S (NP (PRP she)) (VP (MD can) (VP (VB sort) (PP (IN of)))))))"
 K/KB/KB9.xml,KB9RE00R,62313,86,,B,44,1,Well that's fair enough so she can (()) .,"[Well/RB, that/DT, 's/VBZ, fair/JJ, enough/RB, so/IN, she/PRP, can/MD, ./.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ fair) (RB enough) (SBAR (IN so) (S (NP (PRP she)) (VP (MD can)))))) (. .)))
 K/KB/KB9.xml,KB9RE00R,62313,87,,A,45,1,Well yeah.,"[Well/RB, yeah/UH, ./.]",(ROOT (S (VP (PP (RB Well) (NP (UH yeah)))) (. .)))
-K/KB/KB9.xml,KB9RE00R,62313,88,,B,46,1,(()) ,[],X
-K/KB/KB9.xml,KB9RE00R,62313,89,,B,46,2,<baby talk> ,[],X
+K/KB/KB9.xml,KB9RE00R,62313,88,,B,46,1,(()) ,[],
+K/KB/KB9.xml,KB9RE00R,62313,89,,B,46,2,<baby talk> ,[],
 K/KB/KB9.xml,KB9RE00R,62313,90,,A,47,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KB/KB9.xml,KB9RE00R,62313,91,,A,47,2,There's John.,"[There/EX, 's/VBZ, John/NNP, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NNP John))) (. .)))
 K/KB/KB9.xml,KB9RE00R,62313,92,,A,47,3,Did he ask you about steam cleaner?,"[Did/VBD, he/PRP, ask/VB, you/PRP, about/IN, steam/NN, cleaner/NN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP he)) (VP (VB ask) (NP (PRP you)) (PP (IN about) (NP (NN steam) (NN cleaner)))) (. ?)))
@@ -143,7 +143,7 @@ K/KB/KB9.xml,KB9RE00R,62313,140,,B,74,1,Look!,"[Look/VB, !/.]",(ROOT (S (VP (VB 
 K/KB/KB9.xml,KB9RE00R,62313,141,,A,75,1,Aren't you?,"[Aren/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (NP (NP (NNP Aren)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
 K/KB/KB9.xml,KB9RE00R,62313,142,,A,75,2,Yeah!,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
 K/KB/KB9.xml,KB9RE00R,62313,143,,A,75,3,Don't we know what a cheeky baba-ba you are!,"[Don/NNP, 't/PRP, we/PRP, know/VBP, what/WP, a/DT, cheeky/JJ, baba-ba/NN, you/PRP, are/VBP, !/.]",(ROOT (S (NP (NNP Don) (PRP 't)) (NP (PRP we)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (NP (DT a) (JJ cheeky) (NN baba-ba)) (NP (PRP you))) (VP (VBP are))))) (. !)))
-K/KB/KB9.xml,KB9RE00R,62313,144,,B,76,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE00R,62313,144,,B,76,1,(()) ,[],
 K/KB/KB9.xml,KB9RE00R,62313,145,,A,77,1,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
 K/KB/KB9.xml,KB9RE00R,62313,146,,B,78,1,"Look, there's that look.","[Look/VB, ,/,, there/EX, 's/VBZ, that/DT, look/NN, ./.]","(ROOT (S (S (VP (VB Look))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN look))) (. .)))"
 K/KB/KB9.xml,KB9RE00R,62313,147,,A,79,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

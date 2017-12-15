@@ -123,7 +123,7 @@ sw11utt/sw_1102_2820.utt,2/sw2820,2820,120,sd,A,65,3,"{C but } I was just offend
 sw11utt/sw_1102_2820.utt,2/sw2820,2820,121,sd(^q),A,65,4,"{E I mean, } there was one question, do you like your mother?  /","I/PRP mean/VBP ,/, there/EX was/VBD one/CD question/NN ,/, do/VBP you/PRP like/VB your/PRP$ mother/NN ?/.","(ROOT (SQ (S (NP (PRP I)) (VP (VBP mean) (, ,) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (CD one) (NN question))))))) (, ,) (SQ (VBP do) (NP (PRP you)) (VP (VB like) (NP (PRP$ your) (NN mother)))) (. ?)))",
 sw11utt/sw_1102_2820.utt,2/sw2820,2820,122,qy,A,65,5,You know?  /,You/PRP know/VBP ?/.,(ROOT (S (NP (PRP You)) (VP (VBP know)) (. ?))),
 sw11utt/sw_1102_2820.utt,2/sw2820,2820,123,sd(^q),A,65,6,"I said, yes. /","I/PRP said/VBD ,/, yes/UH ./.","(ROOT (S (S (NP (PRP I)) (VP (VBD said))) (, ,) (FRAG (INTJ (UH yes))) (. .)))",
-sw11utt/sw_1102_2820.utt,2/sw2820,2820,124,x,B,66,1,<Laughter>.,,X,
+sw11utt/sw_1102_2820.utt,2/sw2820,2820,124,x,B,66,1,<Laughter>.,,,
 sw11utt/sw_1102_2820.utt,2/sw2820,2820,125,^q,A,67,1,Do you hate your mother?  /,Do/VB you/PRP hate/VBP your/PRP$ mother/NN ?/.,(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP hate) (NP (PRP$ your) (NN mother)))))) (. ?))),
 sw11utt/sw_1102_2820.utt,2/sw2820,2820,126,^q,A,67,2,No.  /,No/UH ./.,(ROOT (INTJ (UH No) (. .))),
 sw11utt/sw_1102_2820.utt,2/sw2820,2820,127,^q,A,67,3,Have you ever killed your mother?  /,Have/VBP you/PRP ever/RB killed/VBN your/PRP$ mother/NN ?/.,(ROOT (SQ (VBP Have) (NP (PRP you)) (VP (ADVP (RB ever)) (VBN killed) (NP (PRP$ your) (NN mother))) (. ?))),

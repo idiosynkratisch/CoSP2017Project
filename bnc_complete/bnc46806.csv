@@ -14,7 +14,7 @@ K/KE/KE1.xml,KE1RE009,46806,11,,B,10,1,Look!,"[Look/VB, !/.]",(ROOT (S (VP (VB L
 K/KE/KE1.xml,KE1RE009,46806,12,,B,10,2,I just have to go.,"[I/PRP, just/RB, have/VBP, to/TO, go/VB, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (S (VP (TO to) (VP (VB go))))) (. .)))
 K/KE/KE1.xml,KE1RE009,46806,13,,B,10,3,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
 K/KE/KE1.xml,KE1RE009,46806,14,,A,11,1,Fine!,"[Fine/NN, !/.]",(ROOT (INTJ (NN Fine) (. !)))
-K/KE/KE1.xml,KE1RE009,46806,15,,B,12,1,<laugh> ,[],X
+K/KE/KE1.xml,KE1RE009,46806,15,,B,12,1,<laugh> ,[],
 K/KE/KE1.xml,KE1RE009,46806,16,,A,13,1,Cheerio!,"[Cheerio/NNP, !/.]",(ROOT (FRAG (NP (NNP Cheerio)) (. !)))
 K/KE/KE1.xml,KE1RE009,46806,17,,B,14,1,"<laughing> Right, see you </laughing> .","[Right/NN, ,/,, see/VBP, you/PRP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VBP see) (NP (PRP you))) (. .)))"
 K/KE/KE1.xml,KE1RE009,46806,18,,A,15,1,Bye!,"[Bye/NN, !/.]",(ROOT (NP (NN Bye) (. !)))

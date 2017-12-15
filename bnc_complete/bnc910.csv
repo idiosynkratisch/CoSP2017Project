@@ -3,7 +3,7 @@ K/KD/KDP.xml,KDPRE01Y,910,0,,A,1,1,Right   (()) --,"[Right/JJ, Ah/NN, I/PRP, kno
 K/KD/KDP.xml,KDPRE01Y,910,1,,A,1,2,--Ah I know where I am.,"[Right/JJ, Ah/NN, I/PRP, know/VBP, where/WRB, I/PRP, am/VBP, ./.]",(ROOT (S (NP (JJ Right) (NN Ah)) (NP (PRP I)) (VP (VBP know) (SBAR (WHADVP (WRB where)) (S (NP (PRP I)) (VP (VBP am))))) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,2,,A,1,3,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,3,,A,1,4,We looked at a bakery down here.,"[We/PRP, looked/VBD, at/IN, a/DT, bakery/NN, down/RB, here/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBD looked) (PP (IN at) (NP (DT a) (NN bakery))) (ADVP (RB down) (RB here))) (. .)))
-K/KD/KDP.xml,KDPRE01Y,910,4,,B,2,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01Y,910,4,,B,2,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01Y,910,5,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,6,,A,3,2,And it was just so antiquated.,"[And/CC, it/PRP, was/VBD, just/RB, so/RB, antiquated/JJ, ./.]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBD was) (ADVP (RB just)) (ADJP (RB so) (JJ antiquated))) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,7,,A,3,3,Big old stone ovens you know?,"[Big/JJ, old/NNP, stone/NNP, ovens/NNS, you/PRP, know/VB, ?/.]",(ROOT (FRAG (NP (NP (JJ Big) (NNP old) (NNP stone) (NNS ovens)) (SBAR (S (NP (PRP you)) (VP (VB know))))) (. ?)))
@@ -14,7 +14,7 @@ K/KD/KDP.xml,KDPRE01Y,910,11,,A,5,1,"Well, it would have taken a lot of investme
 K/KD/KDP.xml,KDPRE01Y,910,12,,A,5,2,And it was only  --,"[And/CC, it/PRP, was/VBD, only/RB, it/PRP, was/VBD, a/DT, leasehold/JJ, job/NN, ./.]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBD was) (SBAR (RB only) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ leasehold) (NN job)))))) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,13,,A,5,3,--it was a leasehold job.,"[And/CC, it/PRP, was/VBD, only/RB, it/PRP, was/VBD, a/DT, leasehold/JJ, job/NN, ./.]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBD was) (SBAR (RB only) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ leasehold) (NN job)))))) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,14,,A,5,4,Property needed quite a bit of work doing on it.,"[Property/NN, needed/VBD, quite/RB, a/DT, bit/NN, of/IN, work/NN, doing/VBG, on/IN, it/PRP, ./.]",(ROOT (S (NP (NN Property)) (VP (VBD needed) (NP (NP (RB quite) (DT a) (NN bit)) (PP (IN of) (NP (NP (NN work)) (VP (VBG doing) (PP (IN on) (NP (PRP it)))))))) (. .)))
-K/KD/KDP.xml,KDPRE01Y,910,15,,B,6,1,<cough> ,[],X
+K/KD/KDP.xml,KDPRE01Y,910,15,,B,6,1,<cough> ,[],
 K/KD/KDP.xml,KDPRE01Y,910,16,,A,7,1,Just along here somewhere on the left.,"[Just/RB, along/IN, here/RB, somewhere/RB, on/IN, the/DT, left/NN, ./.]",(ROOT (FRAG (NP (RB Just)) (ADVP (IN along) (ADVP (RB here) (RB somewhere)) (PP (IN on) (NP (DT the) (NN left)))) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,17,,A,7,2,Yeah that's it.,"[Yeah/UH, that/DT, 's/VBZ, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (DT that)) (VP (VBZ 's) (NP (PRP it)))) (. .)))
 K/KD/KDP.xml,KDPRE01Y,910,18,,B,8,1,There?,"[There/EX, ?/.]",(ROOT (FRAG (WHNP (EX There)) (. ?)))

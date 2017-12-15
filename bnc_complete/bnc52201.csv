@@ -12,7 +12,7 @@ K/KB/KBJ.xml,KBJRE00K,52201,9,,A,5,1,I want you to brush your hair,"[I/PRP, want
 K/KB/KBJ.xml,KBJRE00K,52201,10,,B,6,1,When,[When/WRB],(ROOT (FRAG (WHADVP (WRB When))))
 K/KB/KBJ.xml,KBJRE00K,52201,11,,A,7,1,and then go and find the library books.,"[and/CC, then/RB, go/VB, and/CC, find/VB, the/DT, library/NN, books/NNS, ./.]",(ROOT (S (CC and) (VP (ADVP (RB then)) (VB go) (CC and) (VB find) (NP (DT the) (NN library) (NNS books))) (. .)))
 K/KB/KBJ.xml,KBJRE00K,52201,12,,A,7,2,I'll move these.,"[I/PRP, 'll/MD, move/VB, these/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB move) (NP (DT these)))) (. .)))
-K/KB/KBJ.xml,KBJRE00K,52201,13,,B,8,1,(()) ,[],X
+K/KB/KBJ.xml,KBJRE00K,52201,13,,B,8,1,(()) ,[],
 K/KB/KBJ.xml,KBJRE00K,52201,14,,A,9,1,Are you going to brush your hair?,"[Are/VBP, you/PRP, going/VBG, to/TO, brush/VB, your/PRP$, hair/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB brush) (NP (PRP$ your) (NN hair)))))) (. ?)))
 K/KB/KBJ.xml,KBJRE00K,52201,15,,B,10,1,I will do now (()) .,"[I/PRP, will/MD, do/VB, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB do) (ADVP (RB now)))) (. .)))
 K/KB/KBJ.xml,KBJRE00K,52201,16,,A,11,1,Oh aye.,"[Oh/UH, aye/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP aye)))) (. .)))

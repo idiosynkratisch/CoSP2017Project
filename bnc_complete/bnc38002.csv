@@ -52,7 +52,7 @@ K/KE/KE2.xml,KE2RE005,38002,49,,B,22,3,"I can't, I'll have to find it some other
 K/KE/KE2.xml,KE2RE005,38002,50,,B,22,4,"--right yellow book two, let's have a look yellow book two.","[I/PRP, can/MD, 't/PRP, ,/,, I/PRP, 'll/MD, have/VB, to/TO, find/VB, it/PRP, some/DT, other/JJ, time/NN, but/CC, er/NN, right/NN, yellow/JJ, book/NN, two/CD, ,/,, let/VB, 's/PRP, have/VB, a/DT, look/NN, yellow/JJ, book/NN, two/CD, ./.]","(ROOT (S (NP (PRP I)) (VP (MD can) (PRN (S (NP (PRP 't)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB find) (NP (PRP it)) (NP (DT some) (JJ other) (NN time) (CC but) (NN er) (NN right) (JJ yellow) (NN book) (CD two)))))))) (, ,)) (VP (VB let) (S (NP (PRP 's)) (VP (VB have) (NP (DT a) (NN look) (JJ yellow) (NN book) (CD two)))))) (. .)))"
 K/KE/KE2.xml,KE2RE005,38002,51,,B,22,5,No!,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
 K/KE/KE2.xml,KE2RE005,38002,52,,B,22,6,I'll leave it.,"[I/PRP, 'll/MD, leave/VB, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB leave) (NP (PRP it)))) (. .)))
-K/KE/KE2.xml,KE2RE005,38002,53,,A,23,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE005,38002,53,,A,23,1,(()) ,[],
 K/KE/KE2.xml,KE2RE005,38002,54,,B,24,1,Right!,"[Right/RB, !/.]",(ROOT (ADVP (RB Right) (. !)))
 K/KE/KE2.xml,KE2RE005,38002,55,,B,24,2,"Er, so now what  --","[Er/NN, ,/,, so/RB, now/RB, what/WP, erm/NN]","(ROOT (NP (NP (NP (NN Er)) (, ,) (ADVP (RB so) (RB now))) (NP (WP what) (NN erm))))"
 K/KE/KE2.xml,KE2RE005,38002,56,,B,24,3,--erm,"[Er/NN, ,/,, so/RB, now/RB, what/WP, erm/NN]","(ROOT (NP (NP (NP (NN Er)) (, ,) (ADVP (RB so) (RB now))) (NP (WP what) (NN erm))))"

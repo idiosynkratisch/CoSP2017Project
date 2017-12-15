@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KS/KSV.xml,KSVRE00M,43408,0,,A,1,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,0,,A,1,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,1,,B,2,1,Oh look at that!,"[Oh/UH, look/VB, at/IN, that/DT, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (VB look) (PP (IN at) (NP (DT that)))) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,2,,A,3,1,Not bad is it?,"[Not/RB, bad/JJ, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (RB Not) (JJ bad)) (VP (VBZ is) (NP (PRP it))) (. ?)))
 K/KS/KSV.xml,KSVRE00M,43408,3,,A,3,2,Not a bad little machine at all!,"[Not/RB, a/DT, bad/JJ, little/JJ, machine/NN, at/IN, all/DT, !/.]",(ROOT (FRAG (NP (RB Not) (DT a) (JJ bad) (JJ little) (NN machine)) (ADVP (IN at) (DT all)) (. !)))
@@ -58,7 +58,7 @@ K/KS/KSV.xml,KSVRE00M,43408,55,,B,36,1,Hey?,"[Hey/UH, ?/.]",(ROOT (INTJ (UH Hey)
 K/KS/KSV.xml,KSVRE00M,43408,56,,A,37,1,She doesn't get on well with Donna.,"[She/PRP, doesn/VBZ, 't/PRP, get/VB, on/RP, well/RB, with/IN, Donna/NNP, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ doesn) (S (NP (PRP 't)) (VP (VB get) (PRT (RP on)) (PP (RB well) (IN with) (NP (NNP Donna)))))) (. .)))
 K/KS/KSV.xml,KSVRE00M,43408,57,,B,38,1,Well who does?,"[Well/RB, who/WP, does/VBZ, ?/.]",(ROOT (SBARQ (ADVP (RB Well)) (WHNP (WP who)) (SQ (VP (VBZ does))) (. ?)))
 K/KS/KSV.xml,KSVRE00M,43408,58,,A,39,1,Er ,[Er/NN],(ROOT (NP (NN Er)))
-K/KS/KSV.xml,KSVRE00M,43408,59,,B,40,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,59,,B,40,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,60,,A,41,1,Sarah <<REDACTED (name)>> ?,"[Sarah/NNP, >/JJR, ?/.]",(ROOT (NP (NP (NNP Sarah)) (NP (JJR >)) (. ?)))
 K/KS/KSV.xml,KSVRE00M,43408,61,,A,41,2,She's a definite.,"[She/PRP, 's/VBZ, a/DT, definite/JJ, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (NP (DT a) (JJ definite))) (. .)))
 K/KS/KSV.xml,KSVRE00M,43408,62,,A,41,3,She's gotta come.,"[She/PRP, 's/VBZ, gotta/NNP, come/VB, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (S (NP (NNP gotta)) (VP (VB come)))) (. .)))
@@ -92,12 +92,12 @@ K/KS/KSV.xml,KSVRE00M,43408,89,,A,55,1,"Paul <<REDACTED (name)>> , you ","[Paul/
 K/KS/KSV.xml,KSVRE00M,43408,90,,B,56,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
 K/KS/KSV.xml,KSVRE00M,43408,91,,A,57,1,"me, er er er  --","[me/PRP, ,/,, er/NN, er/NN, er/NN, Tony/NNP]","(ROOT (NP (NP (NP (PRP me)) (, ,) (NP (NN er) (NN er) (NN er))) (NP (NNP Tony))))"
 K/KS/KSV.xml,KSVRE00M,43408,92,,A,57,2,--Tony,"[me/PRP, ,/,, er/NN, er/NN, er/NN, Tony/NNP]","(ROOT (NP (NP (NP (PRP me)) (, ,) (NP (NN er) (NN er) (NN er))) (NP (NNP Tony))))"
-K/KS/KSV.xml,KSVRE00M,43408,93,,B,58,1,(()) ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,93,,B,58,1,(()) ,[],
 K/KS/KSV.xml,KSVRE00M,43408,94,,A,59,1,"Josh Ja- , Stuart?","[Josh/NNP, Ja-/NNP, ,/,, Stuart/NNP, ?/.]","(ROOT (NP (NP (NNP Josh) (NNP Ja-)) (, ,) (NP (NNP Stuart)) (. ?)))"
 K/KS/KSV.xml,KSVRE00M,43408,95,,B,60,1,Wo oh oh oh!,"[Wo/MD, oh/UH, oh/UH, oh/UH, !/.]",(ROOT (S (VP (MD Wo) (VP (UH oh) (INTJ (UH oh) (UH oh)))) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,96,,B,60,2,It's (()) !,"[It/PRP, 's/VBZ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's)) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,97,,A,61,1,"That will be , that'll be very choosy.","[That/DT, will/MD, be/VB, ,/,, that/IN, 'll/MD, be/VB, very/RB, choosy/JJ, ./.]","(ROOT (S (NP (DT That)) (VP (MD will) (VP (VB be) (VP (, ,) (SBAR (IN that) (S (VP (MD 'll) (VP (VB be) (ADJP (RB very) (JJ choosy))))))))) (. .)))"
-K/KS/KSV.xml,KSVRE00M,43408,98,,B,62,1,(()) ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,98,,B,62,1,(()) ,[],
 K/KS/KSV.xml,KSVRE00M,43408,99,,A,63,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
 K/KS/KSV.xml,KSVRE00M,43408,100,,A,63,2,"Je- , you gotta put James ","[Je-/NNP, ,/,, you/PRP, gotta/NNP, put/VBD, James/NNP]","(ROOT (S (NP (NNP Je-)) (, ,) (NP (NP (PRP you)) (NP (NNP gotta))) (VP (VBD put) (NP (NNP James)))))"
 K/KS/KSV.xml,KSVRE00M,43408,101,,B,64,1,Not that  --,"[Not/RB, that/DT, oh/NN, not/RB, ,/,, James/NNP, is/VBZ, alright/JJ, ./.]","(ROOT (S (ADVP (NP (RB Not) (DT that) (NN oh)) (RB not)) (, ,) (NP (NNP James)) (VP (VBZ is) (ADJP (JJ alright))) (. .)))"
@@ -159,13 +159,13 @@ K/KS/KSV.xml,KSVRE00M,43408,156,,A,95,3,Load of booze!,"[Load/NN, of/IN, booze/N
 K/KS/KSV.xml,KSVRE00M,43408,157,,A,95,4,Load of girls!,"[Load/NN, of/IN, girls/NNS, !/.]",(ROOT (NP (NP (NN Load)) (PP (IN of) (NP (NNS girls))) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,158,,A,95,5,Then,[Then/RB],(ROOT (ADVP (RB Then)))
 K/KS/KSV.xml,KSVRE00M,43408,159,,B,96,1,"Oh ah, ah, we need a little room where","[Oh/UH, ah/UH, ,/,, ah/NN, ,/,, we/PRP, need/VBP, a/DT, little/JJ, room/NN, where/WRB]","(ROOT (S (INTJ (UH Oh) (UH ah)) (, ,) (ADVP (NN ah)) (, ,) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ little) (NN room)) (FRAG (WHADVP (WRB where)))))))"
-K/KS/KSV.xml,KSVRE00M,43408,160,,A,97,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,160,,A,97,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,161,,B,98,1,<laughing> I don't mean the toilet </laughing> !,"[I/PRP, don/VBP, 't/PRP, mean/VB, the/DT, toilet/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB mean) (NP (DT the) (NN toilet))))) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,162,,A,99,1,"Anyway, you're a  --","[Anyway/RB, ,/,, you/PRP, 're/VBP, a/DT, no/NN, that/WDT, 's/VBZ, the/DT, pavilion/NN, that/WDT, 's/VBZ, the/DT, pavilion/NN, so/RB]","(ROOT (S (ADVP (RB Anyway)) (, ,) (NP (PRP you)) (VP (VBP 're) (NP (NP (DT a) (NN no)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN pavilion)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (NP (DT the) (NN pavilion)) (RB so)))))))))))))"
 K/KS/KSV.xml,KSVRE00M,43408,163,,A,99,2,--no that's the pavilion  --,"[Anyway/RB, ,/,, you/PRP, 're/VBP, a/DT, no/NN, that/WDT, 's/VBZ, the/DT, pavilion/NN, that/WDT, 's/VBZ, the/DT, pavilion/NN, so/RB]","(ROOT (S (ADVP (RB Anyway)) (, ,) (NP (PRP you)) (VP (VBP 're) (NP (NP (DT a) (NN no)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN pavilion)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (NP (DT the) (NN pavilion)) (RB so)))))))))))))"
 K/KS/KSV.xml,KSVRE00M,43408,164,,A,99,3,--that's the pavilion so,"[Anyway/RB, ,/,, you/PRP, 're/VBP, a/DT, no/NN, that/WDT, 's/VBZ, the/DT, pavilion/NN, that/WDT, 's/VBZ, the/DT, pavilion/NN, so/RB]","(ROOT (S (ADVP (RB Anyway)) (, ,) (NP (PRP you)) (VP (VBP 're) (NP (NP (DT a) (NN no)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN pavilion)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (NP (DT the) (NN pavilion)) (RB so)))))))))))))"
 K/KS/KSV.xml,KSVRE00M,43408,165,,B,100,1,It's gonna be freezing!,"[It/PRP, 's/VBZ, gonna/NNP, be/VB, freezing/NN, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VB be) (NP (NN freezing))))) (. !)))
-K/KS/KSV.xml,KSVRE00M,43408,166,,A,101,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,166,,A,101,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,167,,B,102,1,Gonna freeze out there!,"[Gonna/NNP, freeze/NN, out/IN, there/RB, !/.]",(ROOT (NP (NP (NNP Gonna) (NN freeze)) (PP (IN out) (NP (RB there))) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,168,,A,103,1,Sure you'll find some way to warm yourself up!,"[Sure/JJ, you/PRP, 'll/MD, find/VB, some/DT, way/NN, to/TO, warm/JJ, yourself/PRP, up/RB, !/.]",(ROOT (FRAG (ADJP (JJ Sure)) (S (NP (PRP you)) (VP (MD 'll) (VP (VB find) (S (NP (NP (DT some) (NN way)) (PP (TO to) (NP (JJ warm)))) (NP (PRP yourself))) (ADVP (RB up))))) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,169,,B,104,1,"Mm, yeah, I'm sure.","[Mm/NN, ,/,, yeah/UH, ,/,, I/PRP, 'm/VBP, sure/JJ, ./.]","(ROOT (S (NP (NN Mm)) (, ,) (INTJ (UH yeah)) (, ,) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure))) (. .)))"
@@ -203,7 +203,7 @@ K/KS/KSV.xml,KSVRE00M,43408,200,,A,119,4,--people'll be happy with  --,"[Cos/NN,
 K/KS/KSV.xml,KSVRE00M,43408,201,,A,119,5,--or that they know.,"[Cos/NN, we/PRP, 've/VBP, basically/RB, gotta/NNP, find/VB, people/NNS, that/WDT, people/NNS, 'll/MD, be/VB, happy/JJ, with/IN, or/CC, that/IN, they/PRP, know/VBP, ./.]",(ROOT (S (NP (NN Cos)) (NP (PRP we)) (VP (VBP 've) (ADVP (RB basically)) (SBAR (SBAR (S (NP (NNP gotta)) (VP (VB find) (NP (NP (NNS people)) (SBAR (WHNP (WDT that) (NNS people)) (S (VP (MD 'll) (VP (VB be) (ADJP (JJ happy) (PP (IN with))))))))))) (CC or) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP know)))))) (. .)))
 K/KS/KSV.xml,KSVRE00M,43408,202,,A,119,6,"So I know most of them, I get reasonably well with most of them.","[So/IN, I/PRP, know/VBP, most/JJS, of/IN, them/PRP, ,/,, I/PRP, get/VBP, reasonably/RB, well/RB, with/IN, most/JJS, of/IN, them/PRP, ./.]","(ROOT (S (S (IN So) (NP (PRP I)) (VP (VBP know) (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))))) (, ,) (NP (PRP I)) (VP (VBP get) (ADVP (RB reasonably)) (PP (RB well) (IN with) (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))))) (. .)))"
 K/KS/KSV.xml,KSVRE00M,43408,203,,A,119,7,I'm not inviting anybody I don't like!,"[I/PRP, 'm/VBP, not/RB, inviting/VBG, anybody/NN, I/PRP, don/VBP, 't/PRP, like/IN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG inviting) (NP (NP (NN anybody)) (SBAR (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like)))))))) (. !)))
-K/KS/KSV.xml,KSVRE00M,43408,204,,B,120,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,204,,B,120,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,205,,A,121,1,Erm  --,"[Erm/NN, so/RB]",(ROOT (FRAG (NP (NN Erm) (RB so))))
 K/KS/KSV.xml,KSVRE00M,43408,206,,A,121,2,--so,"[Erm/NN, so/RB]",(ROOT (FRAG (NP (NN Erm) (RB so))))
 K/KS/KSV.xml,KSVRE00M,43408,207,,B,122,1,Why are you inviting Martin and James?,"[Why/WRB, are/VBP, you/PRP, inviting/VBG, Martin/NNP, and/CC, James/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP are) (NP (PRP you)) (VP (VBG inviting) (NP (NNP Martin) (CC and) (NNP James)))) (. ?)))
@@ -226,7 +226,7 @@ K/KS/KSV.xml,KSVRE00M,43408,223,,A,131,3,--if somebody's  --,"[I/PRP, don/VBP, '
 K/KS/KSV.xml,KSVRE00M,43408,224,,A,131,4,--to be perfectly honest.,"[I/PRP, don/VBP, 't/PRP, anybody/NN, absolutely/RB, rowdy/JJ, and/CC, out/IN, of/IN, it/PRP, if/IN, somebody/NN, 's/POS, to/TO, be/VB, perfectly/RB, honest/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (NP (PRP 't) (NN anybody)) (UCP (ADJP (RB absolutely) (JJ rowdy)) (CC and) (ADVP (IN out) (PP (IN of) (NP (PRP it)))) (PP (IN if) (NP (NN somebody) (POS 's))))) (S (VP (TO to) (VP (VB be) (ADJP (RB perfectly) (JJ honest)))))) (. .)))
 K/KS/KSV.xml,KSVRE00M,43408,225,,B,132,1,I have to kept on a strict leash do I  <laughing> fucking </laughing> ,"[I/PRP, have/VBP, to/TO, kept/VBN, on/IN, a/DT, strict/JJ, leash/NN, do/VBP, I/PRP, fucking/VBG]",(ROOT (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VBN kept) (PP (IN on) (NP (NP (DT a) (JJ strict) (NN leash)) (SBAR (S (VP (VBP do) (S (NP (PRP I)) (VP (VBG fucking))))))))))))))
 K/KS/KSV.xml,KSVRE00M,43408,226,,A,133,1,Yes you do.,"[Yes/UH, you/PRP, do/VBP, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (VBP do))) (. .)))
-K/KS/KSV.xml,KSVRE00M,43408,227,,B,134,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,227,,B,134,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,228,,A,135,1,"So, you definitely, Murphy definitely, Tony definitely  --","[So/RB, ,/,, you/PRP, definitely/RB, ,/,, Murphy/NNP, definitely/RB, ,/,, Tony/NNP, definitely/RB, cos/NN, Tony/JJ, and/CC, Paul/NNP, get/VB, on/RB, well/RB, with/IN, all/DT, of/IN, them/PRP, ./.]","(ROOT (S (ADVP (RB So)) (, ,) (NP (NP (NP (PRP you)) (ADVP (RB definitely))) (, ,) (NP (NP (NNP Murphy)) (ADVP (RB definitely))) (, ,) (NP (NP (NNP Tony)) (ADJP (ADVP (RB definitely)) (NP (NN cos)) (JJ Tony))) (CC and) (NP (NNP Paul))) (VP (VB get) (ADVP (RB on) (RB well)) (PP (IN with) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))))) (. .)))"
 K/KS/KSV.xml,KSVRE00M,43408,229,,A,135,2,--cos Tony and Paul get on well with all of them.,"[So/RB, ,/,, you/PRP, definitely/RB, ,/,, Murphy/NNP, definitely/RB, ,/,, Tony/NNP, definitely/RB, cos/NN, Tony/JJ, and/CC, Paul/NNP, get/VB, on/RB, well/RB, with/IN, all/DT, of/IN, them/PRP, ./.]","(ROOT (S (ADVP (RB So)) (, ,) (NP (NP (NP (PRP you)) (ADVP (RB definitely))) (, ,) (NP (NP (NNP Murphy)) (ADVP (RB definitely))) (, ,) (NP (NP (NNP Tony)) (ADJP (ADVP (RB definitely)) (NP (NN cos)) (JJ Tony))) (CC and) (NP (NNP Paul))) (VP (VB get) (ADVP (RB on) (RB well)) (PP (IN with) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))))) (. .)))"
 K/KS/KSV.xml,KSVRE00M,43408,230,,B,136,1,Can Donna be easily offended?,"[Can/MD, Donna/NNP, be/VB, easily/RB, offended/VBN, ?/.]",(ROOT (SQ (MD Can) (NP (NNP Donna)) (VP (VB be) (VP (ADVP (RB easily)) (VBN offended))) (. ?)))
@@ -278,7 +278,7 @@ K/KS/KSV.xml,KSVRE00M,43408,275,,A,163,1,So we're just going to practise what we
 K/KS/KSV.xml,KSVRE00M,43408,276,,B,164,1,"I can imagine her with a whip, you know, ka!","[I/PRP, can/MD, imagine/VB, her/PRP, with/IN, a/DT, whip/NN, ,/,, you/PRP, know/VBP, ,/,, ka/NN, !/.]","(ROOT (S (NP (PRP I)) (VP (MD can) (VP (VP (VB imagine) (NP (PRP her)) (PP (IN with) (NP (DT a) (NN whip)))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)) (NP (NN ka)))) (. !)))"
 K/KS/KSV.xml,KSVRE00M,43408,277,,B,164,2,And getting to like it!,"[And/CC, getting/VBG, to/TO, like/VB, it/PRP, !/.]",(ROOT (FRAG (CC And) (S (VP (VBG getting) (S (VP (TO to) (VP (VB like) (FRAG (NP (PRP it)) (. !)))))))))
 K/KS/KSV.xml,KSVRE00M,43408,278,,A,165,1,Oh really!,"[Oh/UH, really/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB really)))) (. !)))
-K/KS/KSV.xml,KSVRE00M,43408,279,,B,166,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,279,,B,166,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,280,,A,167,1,She's even better from a big,"[She/PRP, 's/VBZ, even/RB, better/RBR, from/IN, a/DT, big/JJ]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (ADVP (RB even) (RBR better)) (PP (IN from) (NP (DT a) (JJ big))))))
 K/KS/KSV.xml,KSVRE00M,43408,281,,B,168,1,Well she's a twenty pounder definitely.,"[Well/RB, she/PRP, 's/VBZ, a/DT, twenty/CD, pounder/NN, definitely/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP she)) (VP (VBZ 's) (NP (DT a) (CD twenty) (NN pounder)) (ADVP (RB definitely))) (. .)))
 K/KS/KSV.xml,KSVRE00M,43408,282,,A,169,1,Certain definite.,"[Certain/JJ, definite/JJ, ./.]",(ROOT (NP (NP (JJ Certain)) (NP (JJ definite)) (. .)))
@@ -299,7 +299,7 @@ K/KS/KSV.xml,KSVRE00M,43408,296,,A,173,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KS/KSV.xml,KSVRE00M,43408,297,,B,174,1,"but I'm, after I'm there?","[but/CC, I/PRP, 'm/VBP, ,/,, after/IN, I/PRP, 'm/VBP, there/EX, ?/.]","(ROOT (S (CC but) (NP (PRP I)) (VP (VP (VBP 'm)) (, ,) (SBAR (IN after) (S (NP (PRP I)) (VP (VBP 'm) (NP (EX there)))))) (. ?)))"
 K/KS/KSV.xml,KSVRE00M,43408,298,,A,175,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KS/KSV.xml,KSVRE00M,43408,299,,B,176,1,"Well therefore, no other lads can have their way before me!<laugh> ","[Well/RB, therefore/RB, ,/,, no/DT, other/JJ, lads/NNS, can/MD, have/VB, their/PRP$, way/NN, before/IN, me/PRP, !/.]","(ROOT (S (ADVP (RB Well)) (ADVP (RB therefore)) (, ,) (NP (DT no) (JJ other) (NNS lads)) (VP (MD can) (VP (VB have) (NP (PRP$ their) (NN way)) (PP (IN before) (NP (PRP me))))) (. !)))"
-K/KS/KSV.xml,KSVRE00M,43408,300,,A,177,1,<laugh> ,[],X
+K/KS/KSV.xml,KSVRE00M,43408,300,,A,177,1,<laugh> ,[],
 K/KS/KSV.xml,KSVRE00M,43408,301,,B,178,1,"Richard just, ooh ah!","[Richard/NNP, just/RB, ,/,, ooh/NNP, ah/UH, !/.]","(ROOT (NP (NP (NP (NNP Richard) (RB just)) (, ,) (PP (NNP ooh) (NP (UH ah)))) (. !)))"
 K/KS/KSV.xml,KSVRE00M,43408,302,,A,179,1,Well I don't believe you're gonna just  --,"[Well/RB, I/PRP, don/VBP, 't/PRP, believe/VB, you/PRP, 're/VBP, gonna/NNP, just/RB, do/VBP, away/RB, with/IN, her/PRP$, !/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB believe) (SBAR (S (NP (PRP you)) (VP (VBP 're) (SBAR (S (NP (NNP gonna)) (ADVP (RB just)) (VP (VBP do) (ADVP (RB away)) (PP (IN with) (NP (PRP$ her)))))))))))) (. !)))
 K/KS/KSV.xml,KSVRE00M,43408,303,,A,179,2,--do away with her!,"[Well/RB, I/PRP, don/VBP, 't/PRP, believe/VB, you/PRP, 're/VBP, gonna/NNP, just/RB, do/VBP, away/RB, with/IN, her/PRP$, !/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB believe) (SBAR (S (NP (PRP you)) (VP (VBP 're) (SBAR (S (NP (NNP gonna)) (ADVP (RB just)) (VP (VBP do) (ADVP (RB away)) (PP (IN with) (NP (PRP$ her)))))))))))) (. !)))

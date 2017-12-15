@@ -6,7 +6,7 @@ K/KB/KBK.xml,KBKRE060,2901,3,,B,2,3,Depending on how many few tapes whatever I'v
 K/KB/KBK.xml,KBKRE060,2901,4,,A,3,1,How many  (()) ,"[How/WRB, many/JJ]",(ROOT (FRAG (WHADJP (WRB How) (JJ many))))
 K/KB/KBK.xml,KBKRE060,2901,5,,B,4,1,I don't think they've said that.,"[I/PRP, don/VBP, 't/PRP, think/VB, they/PRP, 've/VBP, said/VBD, that/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD said) (ADVP (IN that))))))))) (. .)))
 K/KB/KBK.xml,KBKRE060,2901,6,,B,4,2,They've given me twenty or twenty four,"[They/PRP, 've/VBP, given/VBN, me/PRP, twenty/CD, or/CC, twenty/CD, four/CD]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBN given) (NP (PRP me)) (NP (NP (CD twenty)) (CC or) (NP (CD twenty) (CD four)))))))
-K/KB/KBK.xml,KBKRE060,2901,7,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE060,2901,7,,A,5,1,(()) ,[],
 K/KB/KBK.xml,KBKRE060,2901,8,,B,6,1,twenty tapes.,"[twenty/CD, tapes/NNS, ./.]",(ROOT (NP (CD twenty) (NNS tapes) (. .)))
 K/KB/KBK.xml,KBKRE060,2901,9,,B,6,2,I've done just over fifty percent of them so far.,"[I/PRP, 've/VBP, done/VBN, just/RB, over/IN, fifty/CD, percent/NN, of/IN, them/PRP, so/RB, far/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (ADVP (RB just)) (PP (IN over) (NP (NP (CD fifty) (NN percent)) (PP (IN of) (NP (PRP them))))) (ADVP (RB so) (RB far)))) (. .)))
 K/KB/KBK.xml,KBKRE060,2901,10,,B,6,3,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
@@ -22,7 +22,7 @@ K/KB/KBK.xml,KBKRE060,2901,19,,B,8,3,You either turn left to go to one side of P
 K/KB/KBK.xml,KBKRE060,2901,20,,B,8,4,It's a  --,"[It/PRP, 's/VBZ, a/DT, the/DT, railway/NN, provides/VBZ, quite/RB, a/DT, split/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (S (NP (DT the) (NN railway)) (VP (VBZ provides) (NP (RB quite) (DT a) (NN split)))))) (. .)))
 K/KB/KBK.xml,KBKRE060,2901,21,,B,8,5,--the railway provides quite a split.,"[It/PRP, 's/VBZ, a/DT, the/DT, railway/NN, provides/VBZ, quite/RB, a/DT, split/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (S (NP (DT the) (NN railway)) (VP (VBZ provides) (NP (RB quite) (DT a) (NN split)))))) (. .)))
 K/KB/KBK.xml,KBKRE060,2901,22,,B,8,6,It's a full car in front.,"[It/PRP, 's/VBZ, a/DT, full/JJ, car/NN, in/IN, front/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (JJ full) (NN car)) (PP (IN in) (NP (NN front))))) (. .)))
-K/KB/KBK.xml,KBKRE060,2901,23,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE060,2901,23,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE060,2901,24,,B,10,1,Mmm.,"[Mmm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mmm)) (. .)))
 K/KB/KBK.xml,KBKRE060,2901,25,,B,10,2,Teenagers probably.,"[Teenagers/NNS, probably/RB, ./.]",(ROOT (FRAG (NP (NNS Teenagers)) (ADVP (RB probably)) (. .)))
 K/KB/KBK.xml,KBKRE060,2901,26,,B,10,3,Looking awfully big being rather young.,"[Looking/VBG, awfully/RB, big/JJ, being/VBG, rather/RB, young/JJ, ./.]",(ROOT (S (VP (VBG Looking) (ADJP (RB awfully) (JJ big) (S (VP (VBG being) (ADJP (RB rather) (JJ young)))))) (. .)))

@@ -78,13 +78,13 @@ K/KB/KBD.xml,KBDRE007,64001,75,,A,45,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KB/KBD.xml,KBDRE007,64001,76,,B,46,1,Gary Wilkinson's pretty good isn't he?,"[Gary/NNP, Wilkinson/NNP, 's/POS, pretty/RB, good/JJ, isn/NN, 't/PRP, he/PRP, ?/.]",(ROOT (NP (NP (NP (NNP Gary) (NNP Wilkinson) (POS 's)) (ADJP (RB pretty) (JJ good)) (NN isn)) (NP (NP (PRP 't)) (NP (PRP he))) (. ?)))
 K/KB/KBD.xml,KBDRE007,64001,77,,A,47,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBD.xml,KBDRE007,64001,78,,A,47,2,Well he did ,"[Well/RB, he/PRP, did/VBD]",(ROOT (FRAG (X (ADVP (RB Well)) (NP (PRP he))) (VP (VBD did))))
-K/KB/KBD.xml,KBDRE007,64001,79,,B,48,1,(()) ,[],X
+K/KB/KBD.xml,KBDRE007,64001,79,,B,48,1,(()) ,[],
 K/KB/KBD.xml,KBDRE007,64001,80,,A,49,1,he did well in the  --,"[he/PRP, did/VBD, well/RB, in/IN, the/DT, last/JJ, er/NN]",(ROOT (S (NP (PRP he)) (VP (VBD did) (ADVP (RB well)) (PP (IN in) (NP (DT the) (JJ last) (NN er))))))
 K/KB/KBD.xml,KBDRE007,64001,81,,A,49,2,--last er,"[he/PRP, did/VBD, well/RB, in/IN, the/DT, last/JJ, er/NN]",(ROOT (S (NP (PRP he)) (VP (VBD did) (ADVP (RB well)) (PP (IN in) (NP (DT the) (JJ last) (NN er))))))
 K/KB/KBD.xml,KBDRE007,64001,82,,B,50,1,"Yeah, got to the semi-finals.","[Yeah/UH, ,/,, got/VBD, to/TO, the/DT, semi-finals/NNS, ./.]","(ROOT (SINV (FRAG (INTJ (UH Yeah))) (, ,) (VP (VBD got) (S (VP (TO to)))) (NP (DT the) (NNS semi-finals)) (. .)))"
 K/KB/KBD.xml,KBDRE007,64001,83,,A,51,1,"British Open, or whatever it was.","[British/NNP, Open/NNP, ,/,, or/CC, whatever/WDT, it/PRP, was/VBD, ./.]","(ROOT (FRAG (NP (NNP British) (NNP Open)) (, ,) (CC or) (SBAR (WHNP (WDT whatever)) (S (NP (PRP it)) (VP (VBD was)))) (. .)))"
 K/KB/KBD.xml,KBDRE007,64001,84,,B,52,1,Well tha- the last one he's got to the semi-finals and he got beat by Steve Davis.,"[Well/RB, tha-/IN, the/DT, last/JJ, one/NN, he/PRP, 's/VBZ, got/VBN, to/TO, the/DT, semi-finals/NNS, and/CC, he/PRP, got/VBD, beat/VBN, by/IN, Steve/NNP, Davis/NNP, ./.]",(ROOT (S (S (ADVP (RB Well)) (PP (IN tha-) (NP (DT the) (JJ last) (NN one))) (NP (PRP he)) (VP (VBZ 's) (VP (VBN got) (PP (TO to) (NP (DT the) (NNS semi-finals)))))) (CC and) (S (NP (PRP he)) (VP (VBD got) (VP (VBN beat) (PP (IN by) (NP (NNP Steve) (NNP Davis)))))) (. .)))
-K/KB/KBD.xml,KBDRE007,64001,85,,A,53,1,(()) ,[],X
+K/KB/KBD.xml,KBDRE007,64001,85,,A,53,1,(()) ,[],
 K/KB/KBD.xml,KBDRE007,64001,86,,B,54,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
 K/KB/KBD.xml,KBDRE007,64001,87,,A,55,1,It's a test match in  --,"[It/PRP, 's/VBZ, a/DT, test/NN, match/NN, in/IN, two/CD, minutes/NNS, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN test) (NN match)) (PP (IN in) (NP (CD two) (NNS minutes))))) (. .)))
 K/KB/KBD.xml,KBDRE007,64001,88,,A,55,2,--two minutes.,"[It/PRP, 's/VBZ, a/DT, test/NN, match/NN, in/IN, two/CD, minutes/NNS, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN test) (NN match)) (PP (IN in) (NP (CD two) (NNS minutes))))) (. .)))
@@ -97,4 +97,4 @@ K/KB/KBD.xml,KBDRE007,64001,94,,B,60,1,I'll see you in a minute.,"[I/PRP, 'll/MD
 K/KB/KBD.xml,KBDRE007,64001,95,,A,61,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
 K/KB/KBD.xml,KBDRE007,64001,96,,B,62,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KB/KBD.xml,KBDRE007,64001,97,,B,62,2,Well in a minute anyhow.,"[Well/RB, in/IN, a/DT, minute/JJ, anyhow/NN, ./.]",(ROOT (FRAG (PP (ADVP (RB Well)) (IN in) (NP (DT a) (JJ minute) (NN anyhow))) (. .)))
-K/KB/KBD.xml,KBDRE007,64001,98,,A,63,1,<laugh> ,[],X
+K/KB/KBD.xml,KBDRE007,64001,98,,A,63,1,<laugh> ,[],

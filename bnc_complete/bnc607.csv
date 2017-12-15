@@ -1,12 +1,12 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDP.xml,KDPRE010,607,0,,A,1,1,<singing> Step inside love   </singing> --,"[Step/NN, inside/IN, love/NN, At/IN, least/JJS, I/PRP, left/VBD, the/DT, light/NN, on/IN, ./.]",(ROOT (S (NP (NP (NN Step)) (PP (IN inside) (NP (NP (NN love)) (ADVP (IN At) (JJS least))))) (NP (PRP I)) (VP (VBD left) (NP (DT the) (NN light)) (PP (IN on))) (. .)))
 K/KD/KDP.xml,KDPRE010,607,1,,A,1,2,--At least I left the light on.,"[Step/NN, inside/IN, love/NN, At/IN, least/JJS, I/PRP, left/VBD, the/DT, light/NN, on/IN, ./.]",(ROOT (S (NP (NP (NN Step)) (PP (IN inside) (NP (NP (NN love)) (ADVP (IN At) (JJS least))))) (NP (PRP I)) (VP (VBD left) (NP (DT the) (NN light)) (PP (IN on))) (. .)))
-K/KD/KDP.xml,KDPRE010,607,2,,B,2,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE010,607,2,,B,2,1,(()) ,[],
 K/KD/KDP.xml,KDPRE010,607,3,,A,3,1,You're alright.,"[You/PRP, 're/VBP, alright/JJ, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (ADJP (JJ alright))) (. .)))
 K/KD/KDP.xml,KDPRE010,607,4,,B,4,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KD/KDP.xml,KDPRE010,607,5,,B,4,2,Thanks very much Chris.,"[Thanks/NNS, very/RB, much/RB, Chris/NNP, ./.]",(ROOT (FRAG (ADVP (ADVP (NP (NNS Thanks)) (RB very)) (RB much)) (NP (NNP Chris)) (. .)))
-K/KD/KDP.xml,KDPRE010,607,6,,A,5,1,(()) ,[],X
-K/KD/KDP.xml,KDPRE010,607,7,,B,6,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE010,607,6,,A,5,1,(()) ,[],
+K/KD/KDP.xml,KDPRE010,607,7,,B,6,1,(()) ,[],
 K/KD/KDP.xml,KDPRE010,607,8,,A,7,1,But of course.,"[But/CC, of/IN, course/NN, ./.]",(ROOT (FRAG (CC But) (PP (IN of) (NP (NN course)) (. .))))
 K/KD/KDP.xml,KDPRE010,607,9,,B,8,1,(()) very rich    (()) --,"[very/RB, rich/JJ, peanuts/NNS, ./.]",(ROOT (NP (NP (RB very) (JJ rich)) (NP (NNS peanuts)) (. .)))
 K/KD/KDP.xml,KDPRE010,607,10,,B,8,2,--(()) peanuts.,"[very/RB, rich/JJ, peanuts/NNS, ./.]",(ROOT (NP (NP (RB very) (JJ rich)) (NP (NNS peanuts)) (. .)))

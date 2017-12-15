@@ -6,18 +6,18 @@ K/KE/KE4.xml,KE4RE00J,67604,3,,B,4,1,What did you do there?,"[What/WP, did/VBD, 
 K/KE/KE4.xml,KE4RE00J,67604,4,,B,4,2,What was (()) ?,"[What/WP, was/VBD, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBD was))) (. ?)))
 K/KE/KE4.xml,KE4RE00J,67604,5,,B,4,3,<yawning> Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KE/KE4.xml,KE4RE00J,67604,6,,B,4,4,I'm tired </yawning> .,"[I/PRP, 'm/VBP, tired/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ tired))) (. .)))
-K/KE/KE4.xml,KE4RE00J,67604,7,,A,5,1,<laugh> ,[],X
+K/KE/KE4.xml,KE4RE00J,67604,7,,A,5,1,<laugh> ,[],
 K/KE/KE4.xml,KE4RE00J,67604,8,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE4.xml,KE4RE00J,67604,9,,A,7,1,You go  --,"[You/PRP, go/VBP, you/PRP, go/VB, over/IN, it/PRP, with/IN, a/DT, brush/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP go) (S (NP (PRP you)) (VP (VB go) (PP (IN over) (NP (PRP it))) (PP (IN with) (NP (DT a) (NN brush)))))) (. .)))
 K/KE/KE4.xml,KE4RE00J,67604,10,,A,7,2,--you go over it with a brush.,"[You/PRP, go/VBP, you/PRP, go/VB, over/IN, it/PRP, with/IN, a/DT, brush/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP go) (S (NP (PRP you)) (VP (VB go) (PP (IN over) (NP (PRP it))) (PP (IN with) (NP (DT a) (NN brush)))))) (. .)))
 K/KE/KE4.xml,KE4RE00J,67604,11,,B,8,1,Well,[Well/RB],(ROOT (INTJ (RB Well)))
-K/KE/KE4.xml,KE4RE00J,67604,12,,A,9,1,(()) ,[],X
+K/KE/KE4.xml,KE4RE00J,67604,12,,A,9,1,(()) ,[],
 K/KE/KE4.xml,KE4RE00J,67604,13,,B,10,1,you got one in your hand.,"[you/PRP, got/VBD, one/CD, in/IN, your/PRP$, hand/NN, ./.]",(ROOT (S (NP (PRP you)) (VP (VBD got) (NP (CD one)) (PP (IN in) (NP (PRP$ your) (NN hand)))) (. .)))
 K/KE/KE4.xml,KE4RE00J,67604,14,,A,11,1,Wha- tt!,"[Wha-/JJ, tt/NN, !/.]",(ROOT (NP (JJ Wha-) (NN tt) (. !)))
 K/KE/KE4.xml,KE4RE00J,67604,15,,A,11,2,Silly me!,"[Silly/JJ, me/PRP, !/.]",(ROOT (NP (NP (JJ Silly)) (NP (PRP me)) (. !)))
 K/KE/KE4.xml,KE4RE00J,67604,16,,A,11,3,<yawn> --,"[Tired/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Tired)) (. .)))
 K/KE/KE4.xml,KE4RE00J,67604,17,,A,11,4,--Tired.,"[Tired/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Tired)) (. .)))
-K/KE/KE4.xml,KE4RE00J,67604,18,,B,12,1,(()) ,[],X
+K/KE/KE4.xml,KE4RE00J,67604,18,,B,12,1,(()) ,[],
 K/KE/KE4.xml,KE4RE00J,67604,19,,A,13,1,Hot int it?,"[Hot/JJ, int/NN, it/PRP, ?/.]",(ROOT (FRAG (NP (JJ Hot) (NN int)) (NP (PRP it)) (. ?)))
 K/KE/KE4.xml,KE4RE00J,67604,20,,A,13,2,It's  --,"[It/PRP, 's/VBZ, ten/CD, ,/,, it/PRP, 's/VBZ, five/CD, past/JJ]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (CD ten)) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (CD five)) (JJ past)))))))))"
 K/KE/KE4.xml,KE4RE00J,67604,21,,A,13,3,"--ten, it's five past","[It/PRP, 's/VBZ, ten/CD, ,/,, it/PRP, 's/VBZ, five/CD, past/JJ]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (CD ten)) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (NP (CD five)) (JJ past)))))))))"

@@ -627,9 +627,9 @@ K/KB/KB0.xml,KB0RE00G,29203,624,,B,242,1,I haven't  --,"[I/PRP, haven/NN, 't/PRP
 K/KB/KB0.xml,KB0RE00G,29203,625,,B,242,2,--bothered to make   --,"[I/PRP, haven/NN, 't/PRP, bothered/VBD, to/TO, make/VB, a/DT, label/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD bothered) (S (VP (TO to) (VP (VB make) (NP (DT a) (NN label))))))))) (. .)))
 K/KB/KB0.xml,KB0RE00G,29203,626,,B,242,3,--<cough> a label.,"[I/PRP, haven/NN, 't/PRP, bothered/VBD, to/TO, make/VB, a/DT, label/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD bothered) (S (VP (TO to) (VP (VB make) (NP (DT a) (NN label))))))))) (. .)))
 K/KB/KB0.xml,KB0RE00G,29203,627,,A,243,1,"No, I don't blame you.","[No/DT, ,/,, I/PRP, don/VBP, 't/PRP, blame/VB, you/PRP, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB blame) (NP (PRP you))))) (. .)))"
-K/KB/KB0.xml,KB0RE00G,29203,628,,B,244,1,<cough> ,[],X
+K/KB/KB0.xml,KB0RE00G,29203,628,,B,244,1,<cough> ,[],
 K/KB/KB0.xml,KB0RE00G,29203,629,,A,245,1,Take them long enough wouldn't it?,"[Take/VB, them/PRP, long/RB, enough/RB, wouldn/JJ, 't/PRP, it/PRP, ?/.]",(ROOT (SQ (VP (VB Take) (NP (PRP them)) (NP (RB long) (RB enough) (JJ wouldn)) (NP (NP (PRP 't)) (NP (PRP it)))) (. ?)))
-K/KB/KB0.xml,KB0RE00G,29203,630,,B,246,1,<cough> ,[],X
+K/KB/KB0.xml,KB0RE00G,29203,630,,B,246,1,<cough> ,[],
 K/KB/KB0.xml,KB0RE00G,29203,631,,A,247,1,Alright?,"[Alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP Alright)) (. ?)))
 K/KB/KB0.xml,KB0RE00G,29203,632,,B,248,1,Mm.--,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KB0.xml,KB0RE00G,29203,633,,B,248,2,--<cough> ,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -720,7 +720,7 @@ K/KB/KB0.xml,KB0RE00G,29203,717,,A,289,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) 
 K/KB/KB0.xml,KB0RE00G,29203,718,,A,289,2,"No, is it?","[No/DT, ,/,, is/VBZ, it/PRP, ?/.]","(ROOT (S (NP (DT No)) (, ,) (VP (VBZ is) (NP (PRP it))) (. ?)))"
 K/KB/KB0.xml,KB0RE00G,29203,719,,A,289,3,It's not the easiest thing to,"[It/PRP, 's/VBZ, not/RB, the/DT, easiest/JJS, thing/NN, to/TO]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (DT the) (JJS easiest) (NN thing)) (PP (TO to)))))
 K/KB/KB0.xml,KB0RE00G,29203,720,,B,290,1,"No, that's one of the ","[No/DT, ,/,, that/DT, 's/VBZ, one/CD, of/IN, the/DT]","(ROOT (FRAG (NP (NP (DT No)) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (DT the))))))))))"
-K/KB/KB0.xml,KB0RE00G,29203,721,,A,291,1,(()) ,[],X
+K/KB/KB0.xml,KB0RE00G,29203,721,,A,291,1,(()) ,[],
 K/KB/KB0.xml,KB0RE00G,29203,722,,B,292,1,reasons why I've made little use of it.,"[reasons/NNS, why/WRB, I/PRP, 've/VBP, made/VBN, little/JJ, use/NN, of/IN, it/PRP, ./.]",(ROOT (S (NP (NNS reasons)) (SBAR (WHADVP (WRB why)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN made) (NP (NP (JJ little) (NN use)) (PP (IN of) (NP (PRP it)))))))) (. .)))
 K/KB/KB0.xml,KB0RE00G,29203,723,,B,292,2,Erm,[Erm/NN],(ROOT (NP (NN Erm)))
 K/KB/KB0.xml,KB0RE00G,29203,724,,A,293,1,Never mind!,"[Never/RB, mind/VB, !/.]",(ROOT (S (ADVP (RB Never)) (VP (VB mind)) (. !)))

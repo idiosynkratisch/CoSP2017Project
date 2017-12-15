@@ -19,7 +19,7 @@ K/KB/KBK.xml,KBKRE02N,2321,16,,A,13,2,You got to go (()) .,"[You/PRP, got/VBD, t
 K/KB/KBK.xml,KBKRE02N,2321,17,,B,14,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
 K/KB/KBK.xml,KBKRE02N,2321,18,,A,15,1,We have to then drive round again to get home.,"[We/PRP, have/VBP, to/TO, then/RB, drive/VB, round/NN, again/RB, to/TO, get/VB, home/NN, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP have) (S (VP (TO to) (VP (ADVP (RB then)) (VB drive) (NP (NN round)) (ADVP (RB again))))) (S (VP (TO to) (VP (VB get) (NP (NN home)))))) (. .)))
 K/KB/KBK.xml,KBKRE02N,2321,19,,A,15,2,You can get into Mottingham when  (()) there.,"[You/PRP, can/MD, get/VB, into/IN, Mottingham/NN, when/WRB, there/EX, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB get) (PP (IN into) (NP (NN Mottingham))) (SBAR (WHADVP (WRB when)) (S (NP (EX there)))))) (. .)))
-K/KB/KBK.xml,KBKRE02N,2321,20,,B,16,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE02N,2321,21,,B,16,2,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE02N,2321,20,,B,16,1,(()) ,[],
+K/KB/KBK.xml,KBKRE02N,2321,21,,B,16,2,<laugh> ,[],
 K/KB/KBK.xml,KBKRE02N,2321,22,,A,17,1,Or you can go in there.,"[Or/CC, you/PRP, can/MD, go/VB, in/IN, there/RB, ./.]",(ROOT (S (CC Or) (NP (PRP you)) (VP (MD can) (VP (VB go) (PP (IN in) (NP (RB there))))) (. .)))
 K/KB/KBK.xml,KBKRE02N,2321,23,,B,18,1,We do that well.,"[We/PRP, do/VBP, that/RB, well/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP do) (ADVP (RB that) (RB well))) (. .)))

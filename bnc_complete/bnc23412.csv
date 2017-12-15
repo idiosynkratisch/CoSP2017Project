@@ -41,7 +41,7 @@ K/KC/KCL.xml,KCLRE00B,23412,38,,A,21,1,In case it's er   --,"[In/IN, case/NN, it
 K/KC/KCL.xml,KCLRE00B,23412,39,,A,21,2,--(()) again.,"[In/IN, case/NN, it/PRP, 's/VBZ, er/NN, again/RB, ./.]",(ROOT (S (PP (IN In) (NP (NN case))) (NP (PRP it)) (VP (VBZ 's) (NP (NN er)) (ADVP (RB again))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,40,,A,21,3,Otherwise we  (()) folding things up.,"[Otherwise/RB, we/PRP, folding/JJ, things/NNS, up/RP, ./.]",(ROOT (NP (NP (ADVP (RB Otherwise)) (NP (NP (PRP we)) (NP (JJ folding) (NNS things)) (ADVP (RP up)))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,41,,A,21,4,(()) Do you know them three mirrors I had?,"[Do/VB, you/PRP, know/VB, them/PRP, three/CD, mirrors/VBZ, I/PRP, had/VBD, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (NP (PRP them)) (SBAR (S (NP (CD three)) (VP (VBZ mirrors) (SBAR (S (NP (PRP I)) (VP (VBD had)))))))))) (. ?)))
-K/KC/KCL.xml,KCLRE00B,23412,42,,A,21,5,(()) ,[],X
+K/KC/KCL.xml,KCLRE00B,23412,42,,A,21,5,(()) ,[],
 K/KC/KCL.xml,KCLRE00B,23412,43,,A,21,6,"I had three mirrors, I can't find the bleeding things.","[I/PRP, had/VBD, three/CD, mirrors/VBZ, ,/,, I/PRP, can/MD, 't/PRP, find/VB, the/DT, bleeding/NN, things/NNS, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD had) (NP (NP (CD three)) (SBAR (S (VP (VBZ mirrors))))))) (, ,) (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB find) (NP (DT the) (NN bleeding) (NNS things))))) (. .)))"
 K/KC/KCL.xml,KCLRE00B,23412,44,,B,22,1,Can't you?,"[Can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (S (VP (MD Can) (VP (FRAG (NP (NP (PRP 't)) (NP (PRP you)))))) (. ?)))
 K/KC/KCL.xml,KCLRE00B,23412,45,,A,23,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
@@ -74,25 +74,25 @@ K/KC/KCL.xml,KCLRE00B,23412,71,,B,38,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KC/KCL.xml,KCLRE00B,23412,72,,A,39,1,"I, mind you I  (()) today.","[I/PRP, ,/,, mind/VB, you/PRP, I/PRP, today/NN, ./.]","(ROOT (S (NP (PRP I)) (, ,) (VP (VB mind) (S (NP (PRP you)) (NP (NP (PRP I)) (NP (NN today))))) (. .)))"
 K/KC/KCL.xml,KCLRE00B,23412,73,,B,40,1,Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,74,,B,40,2,Oh you ca- I'll let you.,"[Oh/UH, you/PRP, ca-/NN, I/PRP, 'll/MD, let/VB, you/PRP, ./.]",(ROOT (FRAG (VP (PP (NP (UH Oh)) (NP (NP (PRP you) (NN ca-)) (NP (PRP I)))) (MD 'll) (VP (VB let) (FRAG (NP (PRP you)) (. .))))))
-K/KC/KCL.xml,KCLRE00B,23412,75,,A,41,1,<laugh> ,[],X
+K/KC/KCL.xml,KCLRE00B,23412,75,,A,41,1,<laugh> ,[],
 K/KC/KCL.xml,KCLRE00B,23412,76,,B,42,1,If we ever get up this hill.,"[If/IN, we/PRP, ever/RB, get/VB, up/RP, this/DT, hill/NN, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP we)) (ADVP (RB ever)) (VP (VB get) (PRT (RP up)) (NP (DT this) (NN hill))))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,77,,A,43,1,<laugh> Morning.,"[Morning/NN, ./.]",(ROOT (NP (NN Morning) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,78,,B,44,1,Morning.,"[Morning/NN, ./.]",(ROOT (NP (NN Morning) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,79,,A,45,1,Morning.,"[Morning/NN, ./.]",(ROOT (NP (NN Morning) (. .)))
-K/KC/KCL.xml,KCLRE00B,23412,80,,A,45,2,(()) ,[],X
+K/KC/KCL.xml,KCLRE00B,23412,80,,A,45,2,(()) ,[],
 K/KC/KCL.xml,KCLRE00B,23412,81,,B,46,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,82,,A,47,1,She was the one that was giving a bollocking to (()) .,"[She/PRP, was/VBD, the/DT, one/CD, that/WDT, was/VBD, giving/VBG, a/DT, bollocking/VBG, to/TO, ./.]",(ROOT (S (NP (PRP She)) (VP (VBD was) (NP (NP (DT the) (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBG giving) (NP (DT a) (VBG bollocking)) (PP (TO to)))))))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,83,,B,48,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,84,,B,48,2,He's conscientious anyway isn't he?,"[He/PRP, 's/VBZ, conscientious/JJ, anyway/RB, isn/RB, 't/PRP, he/PRP, ?/.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADJP (ADJP (JJ conscientious)) (PRN (ADVP (RB anyway)) (ADVP (RB isn)))) (NP (NP (PRP 't)) (NP (PRP he)))) (. ?)))
 K/KC/KCL.xml,KCLRE00B,23412,85,,B,48,3,He's doing his best.--,"[He/PRP, 's/VBZ, doing/VBG, his/PRP$, best/JJS, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG doing) (NP (PRP$ his) (JJS best)))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,86,,B,48,4,--<clears throat> ,"[He/PRP, 's/VBZ, doing/VBG, his/PRP$, best/JJS, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG doing) (NP (PRP$ his) (JJS best)))) (. .)))
-K/KC/KCL.xml,KCLRE00B,23412,87,,A,49,1,(()) ,[],X
+K/KC/KCL.xml,KCLRE00B,23412,87,,A,49,1,(()) ,[],
 K/KC/KCL.xml,KCLRE00B,23412,88,,B,50,1,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,89,,B,50,2,Don't look up.,"[Don/NNP, 't/PRP, look/VB, up/RP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB look) (PRT (RP up))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,90,,B,50,3,Phew  --,"[Phew/VB, Oh/UH, dear/RB, ./.]",(ROOT (S (VP (VB Phew) (NP (UH Oh)) (S (ADJP (RB dear)))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,91,,B,50,4,--Oh dear.,"[Phew/VB, Oh/UH, dear/RB, ./.]",(ROOT (S (VP (VB Phew) (NP (UH Oh)) (S (ADJP (RB dear)))) (. .)))
 K/KC/KCL.xml,KCLRE00B,23412,92,,B,50,5,Nearly there.,"[Nearly/RB, there/RB, ./.]",(ROOT (FRAG (ADVP (RB Nearly)) (NP (RB there)) (. .)))
-K/KC/KCL.xml,KCLRE00B,23412,93,,A,51,1,(()) ,[],X
+K/KC/KCL.xml,KCLRE00B,23412,93,,A,51,1,(()) ,[],
 K/KC/KCL.xml,KCLRE00B,23412,94,,B,52,1,I find if I don't look up it's not so bad.,"[I/PRP, find/VBP, if/IN, I/PRP, don/VBP, 't/PRP, look/VB, up/RP, it/PRP, 's/VBZ, not/RB, so/RB, bad/JJ, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP find) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB look) (PRT (RP up))))))))) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (RB so) (JJ bad))) (. .)))
-K/KC/KCL.xml,KCLRE00B,23412,95,,A,53,1,(()) ,[],X
+K/KC/KCL.xml,KCLRE00B,23412,95,,A,53,1,(()) ,[],
 K/KC/KCL.xml,KCLRE00B,23412,96,,B,54,1,You ought to be able to drive up here didn't you?,"[You/PRP, ought/MD, to/TO, be/VB, able/JJ, to/TO, drive/VB, up/RP, here/RB, didn/IN, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD ought) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB drive) (PRT (RP up)) (NP (RB here)) (SBAR (IN didn) (S (NP (PRP 't)) (NP (PRP you)))))))))))) (. ?)))

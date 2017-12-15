@@ -26,7 +26,7 @@ K/KD/KD2.xml,KD2RE00H,61803,23,,B,12,1,There's one difference in the  --,"[There
 K/KD/KD2.xml,KD2RE00H,61803,24,,B,12,2,--you won't be kissing erm,"[There/EX, 's/VBZ, one/CD, difference/NN, in/IN, the/DT, you/PRP, won/VBD, 't/PRP, be/VB, kissing/VBG, erm/NN]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (CD one) (NN difference)) (PP (IN in) (NP (NP (DT the)) (SBAR (S (NP (PRP you)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB be) (S (VP (VBG kissing) (NP (NN erm)))))))))))))))
 K/KD/KD2.xml,KD2RE00H,61803,25,,A,13,1,Veroni- Veronica Dribblethwaite!,"[Veroni-/JJ, Veronica/NN, Dribblethwaite/NN, !/.]",(ROOT (FRAG (NP (JJ Veroni-) (NN Veronica) (NN Dribblethwaite)) (. !)))
 K/KD/KD2.xml,KD2RE00H,61803,26,,B,14,1,Or her!<laugh> ,"[Or/CC, her/PRP$, !/.]",(ROOT (FRAG (CC Or) (ADVP (PRP$ her)) (. !)))
-K/KD/KD2.xml,KD2RE00H,61803,27,,A,15,1,<laugh> ,[],X
+K/KD/KD2.xml,KD2RE00H,61803,27,,A,15,1,<laugh> ,[],
 K/KD/KD2.xml,KD2RE00H,61803,28,,B,16,1,"Do you know, you know when we're talking about  --","[Do/VB, you/PRP, know/VB, ,/,, you/PRP, know/VBP, when/WRB, we/PRP, 're/VBP, talking/VBG, about/IN, moving/VBG, to/TO, America/NNP, and/CC]","(ROOT (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (, ,) (S (NP (PRP you)) (VP (VBP know) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG talking) (PP (IN about) (S (VP (VBG moving) (PP (TO to) (NP (NNP America)))))) (ADVP (CC and)))))))))))))"
 K/KD/KD2.xml,KD2RE00H,61803,29,,B,16,2,--moving to America and,"[Do/VB, you/PRP, know/VB, ,/,, you/PRP, know/VBP, when/WRB, we/PRP, 're/VBP, talking/VBG, about/IN, moving/VBG, to/TO, America/NNP, and/CC]","(ROOT (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (, ,) (S (NP (PRP you)) (VP (VBP know) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG talking) (PP (IN about) (S (VP (VBG moving) (PP (TO to) (NP (NNP America)))))) (ADVP (CC and)))))))))))))"
 K/KD/KD2.xml,KD2RE00H,61803,30,,A,17,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -81,7 +81,7 @@ K/KD/KD2.xml,KD2RE00H,61803,78,,B,46,1,"You can go out with any other colour hai
 K/KD/KD2.xml,KD2RE00H,61803,79,,A,47,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KD/KD2.xml,KD2RE00H,61803,80,,A,47,2,I won't go out with blonde.,"[I/PRP, won/VBD, 't/PRP, go/VB, out/RP, with/IN, blonde/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB go) (PRT (RP out)) (PP (IN with) (NP (JJ blonde)))))) (. .)))
 K/KD/KD2.xml,KD2RE00H,61803,81,,B,48,1,Cos everybody'd be thinking you were me.,"[Cos/NNP, everybody/NN, 'd/MD, be/VB, thinking/VBG, you/PRP, were/VBD, me/PRP, ./.]",(ROOT (S (NP (NNP Cos) (NN everybody)) (VP (MD 'd) (VP (VB be) (VP (VBG thinking) (SBAR (S (NP (PRP you)) (VP (VBD were) (NP (PRP me)))))))) (. .)))
-K/KD/KD2.xml,KD2RE00H,61803,82,,A,49,1,<laugh> ,[],X
+K/KD/KD2.xml,KD2RE00H,61803,82,,A,49,1,<laugh> ,[],
 K/KD/KD2.xml,KD2RE00H,61803,83,,B,50,1,"Mind you, does it matter?","[Mind/VB, you/PRP, ,/,, does/VBZ, it/PRP, matter/VB, ?/.]","(ROOT (S (S (VP (VB Mind) (NP (PRP you)))) (, ,) (VP (VBZ does) (S (NP (PRP it)) (VP (VB matter)))) (. ?)))"
 K/KD/KD2.xml,KD2RE00H,61803,84,,B,50,2,Everybody says we're the same anyway!,"[Everybody/NN, says/VBZ, we/PRP, 're/VBP, the/DT, same/JJ, anyway/RB, !/.]",(ROOT (S (NP (NN Everybody)) (VP (VBZ says) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (DT the) (JJ same)) (ADVP (RB anyway)))))) (. !)))
 K/KD/KD2.xml,KD2RE00H,61803,85,,A,51,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
@@ -104,7 +104,7 @@ K/KD/KD2.xml,KD2RE00H,61803,101,,A,57,1,Ellen?,"[Ellen/NNP, ?/.]",(ROOT (FRAG (N
 K/KD/KD2.xml,KD2RE00H,61803,102,,B,58,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD2.xml,KD2RE00H,61803,103,,B,58,2,Sounds like lemon!,"[Sounds/NNS, like/IN, lemon/NNP, !/.]",(ROOT (NP (NP (NNS Sounds)) (PP (IN like) (NP (NNP lemon))) (. !)))
 K/KD/KD2.xml,KD2RE00H,61803,104,,B,58,3,Shortened!,"[Shortened/VBN, !/.]",(ROOT (S (VP (VBN Shortened)) (. !)))
-K/KD/KD2.xml,KD2RE00H,61803,105,,A,59,1,<laugh> ,[],X
+K/KD/KD2.xml,KD2RE00H,61803,105,,A,59,1,<laugh> ,[],
 K/KD/KD2.xml,KD2RE00H,61803,106,,B,60,1,But,[But/CC],(ROOT (NP (CC But)))
 K/KD/KD2.xml,KD2RE00H,61803,107,,A,61,1,Urgh!,"[Urgh/NN, !/.]",(ROOT (NP (NN Urgh) (. !)))
 K/KD/KD2.xml,KD2RE00H,61803,108,,B,62,1,No way!,"[No/DT, way/NN, !/.]",(ROOT (NP (DT No) (NN way) (. !)))

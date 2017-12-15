@@ -23,17 +23,17 @@ K/KD/KDE.xml,KDERE00J,6902,20,,B,18,1,A sword?,"[A/DT, sword/NN, ?/.]",(ROOT (NP
 K/KD/KDE.xml,KDERE00J,6902,21,,A,19,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
 K/KD/KDE.xml,KDERE00J,6902,22,,B,20,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
 K/KD/KDE.xml,KDERE00J,6902,23,,B,20,2,"Right, stand up.","[Right/NN, ,/,, stand/VB, up/RP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VB stand) (PRT (RP up))) (. .)))"
-K/KD/KDE.xml,KDERE00J,6902,24,,A,21,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00J,6902,24,,A,21,1,(()) ,[],
 K/KD/KDE.xml,KDERE00J,6902,25,,B,22,1,"Left, right.","[Left/VBN, ,/,, right/RB, ./.]","(ROOT (NP (NP (NP (VBN Left)) (, ,) (NP (RB right))) (. .)))"
 K/KD/KDE.xml,KDERE00J,6902,26,,A,23,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KD/KDE.xml,KDERE00J,6902,27,,A,23,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KD/KDE.xml,KDERE00J,6902,28,,B,24,1,Put your coat on.,"[Put/VB, your/PRP$, coat/NN, on/IN, ./.]",(ROOT (S (VP (VB Put) (NP (PRP$ your) (NN coat)) (PP (IN on))) (. .)))
-K/KD/KDE.xml,KDERE00J,6902,29,,A,25,1,(()) ,[],X
-K/KD/KDE.xml,KDERE00J,6902,30,,A,25,2,(()) ,[],X
+K/KD/KDE.xml,KDERE00J,6902,29,,A,25,1,(()) ,[],
+K/KD/KDE.xml,KDERE00J,6902,30,,A,25,2,(()) ,[],
 K/KD/KDE.xml,KDERE00J,6902,31,,B,26,1,(()) are you?,"[are/VBP, you/PRP, ?/.]",(ROOT (S (VP (VBP are) (NP (PRP you))) (. ?)))
 K/KD/KDE.xml,KDERE00J,6902,32,,A,27,1,Mhm.(()) ,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
 K/KD/KDE.xml,KDERE00J,6902,33,,B,28,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KD/KDE.xml,KDERE00J,6902,34,,A,29,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00J,6902,34,,A,29,1,(()) ,[],
 K/KD/KDE.xml,KDERE00J,6902,35,,B,30,1,"No, you can't wear that going out.","[No/DT, ,/,, you/PRP, can/MD, 't/PRP, wear/VB, that/DT, going/VBG, out/RP, ./.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP you)) (VP (MD can)))) (NP (PRP 't)) (VP (VB wear) (NP (NP (DT that)) (VP (VBG going) (PRT (RP out))))) (. .)))"
 K/KD/KDE.xml,KDERE00J,6902,36,,A,31,1,Please.,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
 K/KD/KDE.xml,KDERE00J,6902,37,,B,32,1,"You can't darling, don't you start being angry.","[You/PRP, can/MD, 't/PRP, darling/NN, ,/,, don/NNP, 't/PRP, you/PRP, start/VBP, being/VBG, angry/JJ, ./.]","(ROOT (S (NP (PRP You)) (VP (MD can) (VP (NP (PRP 't)) (NP (NP (NN darling)) (, ,) (NP (NNP don))) (S (NP (NP (PRP 't)) (SBAR (S (NP (PRP you)) (VP (VBP start) (S (VP (VBG being) (ADJP (JJ angry))))))))))) (. .)))"

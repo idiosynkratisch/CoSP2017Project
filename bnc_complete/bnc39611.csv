@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KE/KE2.xml,KE2RE043,39611,0,,A,1,1,"Yes, erm  --","[Yes/UH, ,/,, erm/NN, on/IN, the/DT, other/JJ, hand/NN, there/EX, are/VBP, some/DT]","(ROOT (S (NP (NP (FRAG (INTJ (UH Yes)) (, ,) (NP (NN erm)))) (PP (IN on) (NP (NP (DT the) (JJ other) (NN hand)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (DT some))))))))))"
 K/KE/KE2.xml,KE2RE043,39611,1,,A,1,2,--on the other hand there are some ,"[Yes/UH, ,/,, erm/NN, on/IN, the/DT, other/JJ, hand/NN, there/EX, are/VBP, some/DT]","(ROOT (S (NP (NP (FRAG (INTJ (UH Yes)) (, ,) (NP (NN erm)))) (PP (IN on) (NP (NP (DT the) (JJ other) (NN hand)) (SBAR (S (NP (EX there)) (VP (VBP are) (NP (DT some))))))))))"
-K/KE/KE2.xml,KE2RE043,39611,2,,B,2,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE043,39611,2,,B,2,1,(()) ,[],
 K/KE/KE2.xml,KE2RE043,39611,3,,A,3,1,there are some very good comprehensive schools!,"[there/EX, are/VBP, some/DT, very/RB, good/JJ, comprehensive/JJ, schools/NNS, !/.]",(ROOT (S (NP (EX there)) (VP (VBP are) (NP (DT some) (ADJP (RB very) (JJ good)) (NP (JJ comprehensive) (NNS schools)))) (. !)))
 K/KE/KE2.xml,KE2RE043,39611,4,,B,4,1,Oh yes!,"[Oh/UH, yes/UH, !/.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. !)))
 K/KE/KE2.xml,KE2RE043,39611,5,,A,5,1,"I mean you can't, you can't erm","[I/PRP, mean/VBP, you/PRP, can/MD, 't/PRP, ,/,, you/PRP, can/MD, 't/PRP, erm/VB]","(ROOT (S (NP (PRP I)) (VP (VBP mean) (S (S (NP (PRP you)) (VP (MD can) (VP (NP (PRP 't))))) (, ,) (S (NP (PRP you)) (VP (MD can) (NP (PRP 't)) (S (VP (VB erm)))))))))"

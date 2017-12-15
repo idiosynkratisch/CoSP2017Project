@@ -5,12 +5,12 @@ K/KD/KDE.xml,KDERE01S,7202,2,,A,3,1,What biscuits are they?,"[What/WDT, biscuits
 K/KD/KDE.xml,KDERE01S,7202,3,,B,4,1,They're chocolate.,"[They/PRP, 're/VBP, chocolate/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NN chocolate))) (. .)))
 K/KD/KDE.xml,KDERE01S,7202,4,,A,5,1,I like these ones,"[I/PRP, like/VBP, these/DT, ones/NNS]",(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (DT these) (NNS ones)))))
 K/KD/KDE.xml,KDERE01S,7202,5,,B,6,1,I'm sure you do but they're for later.,"[I/PRP, 'm/VBP, sure/JJ, you/PRP, do/VBP, but/CC, they/PRP, 're/VBP, for/IN, later/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (PRP you)) (VP (VBP do) (SBAR (CC but) (S (NP (PRP they)) (VP (VBP 're) (PP (IN for) (ADVP (RB later))))))))))) (. .)))
-K/KD/KDE.xml,KDERE01S,7202,6,,A,7,1,(()) ,[],X
+K/KD/KDE.xml,KDERE01S,7202,6,,A,7,1,(()) ,[],
 K/KD/KDE.xml,KDERE01S,7202,7,,B,8,1,Marching.,"[Marching/VBG, ./.]",(ROOT (S (VP (VBG Marching)) (. .)))
 K/KD/KDE.xml,KDERE01S,7202,8,,A,9,1,Hm.,"[Hm/NNS, ./.]",(ROOT (NP (NNS Hm) (. .)))
 K/KD/KDE.xml,KDERE01S,7202,9,,B,10,1,Right are you going to sit down now.,"[Right/NN, are/VBP, you/PRP, going/VBG, to/TO, sit/VB, down/RB, now/RB, ./.]",(ROOT (S (NP (NN Right)) (VP (VBP are) (NP (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB sit) (ADVP (RB down) (RB now)))))))) (. .)))
-K/KD/KDE.xml,KDERE01S,7202,10,,A,11,1,(()) ,[],X
+K/KD/KDE.xml,KDERE01S,7202,10,,A,11,1,(()) ,[],
 K/KD/KDE.xml,KDERE01S,7202,11,,B,12,1,You're going to have your cereal now and then you're going to get dressed.,"[You/PRP, 're/VBP, going/VBG, to/TO, have/VB, your/PRP$, cereal/NN, now/RB, and/CC, then/RB, you/PRP, 're/VBP, going/VBG, to/TO, get/VB, dressed/VBN, ./.]",(ROOT (S (S (NP (PRP You)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (NP (PRP$ your) (NN cereal)) (ADVP (RB now)))))))) (CC and) (RB then) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB get) (VP (VBN dressed)))))))) (. .)))
 K/KD/KDE.xml,KDERE01S,7202,12,,B,12,2,Okay?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
-K/KD/KDE.xml,KDERE01S,7202,13,,A,13,1,(()) ,[],X
+K/KD/KDE.xml,KDERE01S,7202,13,,A,13,1,(()) ,[],
 K/KD/KDE.xml,KDERE01S,7202,14,,B,14,1,I'm not going to ,"[I/PRP, 'm/VBP, not/RB, going/VBG, to/TO]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG going) (PP (TO to))))))

@@ -18,8 +18,8 @@ K/KD/KDN.xml,KDNRE00L,45615,15,,B,6,1,So I tiptoed downstairs when she knocked a
 K/KD/KDN.xml,KDNRE00L,45615,16,,B,6,2,--(()) ,"[So/IN, I/PRP, tiptoed/VBD, downstairs/RB, when/WRB, she/PRP, knocked/VBD, at/IN, the/DT, door/NN]",(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP I)) (SBAR (S (VP (VBD tiptoed) (ADVP (RB downstairs)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD knocked) (PP (IN at) (NP (DT the) (NN door))))))))))))
 K/KD/KDN.xml,KDNRE00L,45615,17,,A,7,1,Balls!,"[Balls/NNS, !/.]",(ROOT (NP (NNS Balls) (. !)))
 K/KD/KDN.xml,KDNRE00L,45615,18,,B,8,1,I don't think it is Raymond.,"[I/PRP, don/VBP, 't/PRP, think/VB, it/PRP, is/VBZ, Raymond/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NNP Raymond)))))))) (. .)))
-K/KD/KDN.xml,KDNRE00L,45615,19,,A,9,1,<sigh> ,[],X
-K/KD/KDN.xml,KDNRE00L,45615,20,,B,10,1,<cough> ,[],X
+K/KD/KDN.xml,KDNRE00L,45615,19,,A,9,1,<sigh> ,[],
+K/KD/KDN.xml,KDNRE00L,45615,20,,B,10,1,<cough> ,[],
 K/KD/KDN.xml,KDNRE00L,45615,21,,A,11,1,Get down!,"[Get/VB, down/RB, !/.]",(ROOT (S (VP (VB Get) (ADVP (RB down))) (. !)))
 K/KD/KDN.xml,KDNRE00L,45615,22,,A,11,2,Get down Patch!,"[Get/VB, down/RP, Patch/NN, !/.]",(ROOT (S (VP (VB Get) (PRT (RP down)) (NP (NN Patch))) (. !)))
 K/KD/KDN.xml,KDNRE00L,45615,23,,B,12,1,He's a con man.,"[He/PRP, 's/VBZ, a/DT, con/NN, man/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (DT a) (NN con) (NN man))) (. .)))

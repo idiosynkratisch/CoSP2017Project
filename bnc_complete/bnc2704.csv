@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE04U,2704,0,,A,1,1,"Your balls are well separated,(()) I mean, the best I can do is  (()) take off the yellow, then I can make the (()) .","[Your/PRP$, balls/NNS, are/VBP, well/RB, separated/VBN, ,/,, I/PRP, mean/VBP, ,/,, the/DT, best/JJS, I/PRP, can/MD, do/VB, is/VBZ, take/VB, off/RP, the/DT, yellow/JJ, ,/,, then/RB, I/PRP, can/MD, make/VB, the/DT, ./.]","(ROOT (S (S (NP (PRP$ Your) (NNS balls)) (VP (VBP are) (ADVP (RB well)) (VP (VBN separated)))) (, ,) (S (NP (PRP I)) (VP (VBP mean))) (, ,) (S (NP (NP (DT the) (JJS best)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB do)))))) (VP (VBZ is) (VP (VB take) (PRT (RP off)) (NP (DT the) (JJ yellow))))) (, ,) (RB then) (S (NP (PRP I)) (VP (MD can) (VP (VB make) (NP (DT the))))) (. .)))"
 K/KB/KBK.xml,KBKRE04U,2704,1,,A,1,2,"Put it on the one we're going to go through, or the one we've been through?","[Put/VB, it/PRP, on/IN, the/DT, one/CD, we/PRP, 're/VBP, going/VBG, to/TO, go/VB, through/IN, ,/,, or/CC, the/DT, one/CD, we/PRP, 've/VBP, been/VBN, through/IN, ?/.]","(ROOT (SQ (VP (VB Put) (NP (PRP it)) (PP (IN on) (NP (NP (NP (DT the) (CD one)) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB go) (PP (IN through)))))))))) (, ,) (CC or) (NP (NP (DT the) (CD one)) (SBAR (S (NP (PRP we)) (VP (VBP 've) (VP (VBN been) (PP (IN through)))))))))) (. ?)))"
-K/KB/KBK.xml,KBKRE04U,2704,2,,B,2,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE04U,2704,3,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04U,2704,2,,B,2,1,(()) ,[],
+K/KB/KBK.xml,KBKRE04U,2704,3,,A,3,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04U,2704,4,,B,4,1,"Oh I see, normally (()) .","[Oh/UH, I/PRP, see/VBP, ,/,, normally/RB, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (, ,) (FRAG (ADVP (RB normally))) (. .)))"
 K/KB/KBK.xml,KBKRE04U,2704,5,,B,4,2,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

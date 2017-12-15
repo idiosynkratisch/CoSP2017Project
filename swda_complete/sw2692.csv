@@ -15,7 +15,7 @@ sw10utt/sw_1018_2692.utt,2/sw2692,2692,12,%,B,8,1,"# I, {F uh, } # -/","I/PRP ,/
 sw10utt/sw_1018_2692.utt,2/sw2692,2692,13,+,A,9,1,# at one # o'clock on Friday. /,at/IN one/CD o'clock/RB on/IN Friday/NNP ./.,"(ROOT (S (S (NP (PRP I)) (VP (VP (VBD thought)) (, ,) (NP (INTJ (UH well)) (NP (DT every))) (, ,) (NP (PDT all) (DT these)))) (NP (NNP T) (NNP I) (NNPS -ers)) (VP (VBP have) (VP (VBN gone) (ADVP (ADVP (RB home)) (PRN (, ,) (INTJ (UH uh)) (, ,))) (PP (IN at) (NP (CD one) (RB o'clock))) (PP (IN on) (NP (NNP Friday))))) (. .)))",
 sw10utt/sw_1018_2692.utt,2/sw2692,2692,14,sd,B,10,1,"It is Friday,  /","It/PRP is/VBZ Friday/NNP ,/,","(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NNP Friday))) (, ,)))",
 sw10utt/sw_1018_2692.utt,2/sw2692,2692,15,b,B,10,2,"yeah, /","yeah/UH ,/,","(ROOT (FRAG (PP (UH yeah)) (, ,)))",
-sw10utt/sw_1018_2692.utt,2/sw2692,2692,16,x,A,11,1,<Laughter>.,,X,
+sw10utt/sw_1018_2692.utt,2/sw2692,2692,16,x,A,11,1,<Laughter>.,,,
 sw10utt/sw_1018_2692.utt,2/sw2692,2692,17,ba,B,12,1,that's for sure.  /,that/DT 's/BES for/IN sure/JJ ./.,(ROOT (S (NP (DT that)) (VP (BES 's) (PP (IN for) (ADJP (JJ sure)))) (. .))),
 sw10utt/sw_1018_2692.utt,2/sw2692,2692,18,%,B,12,2,"{D Well, } {F uh, } I guess,  /","Well/UH ,/, uh/UH ,/, I/PRP guess/VBP ,/,","(ROOT (S (INTJ (UH Well) (, ,) (UH uh)) (, ,) (ADVP (PRP I)) (VP (VBP guess)) (, ,)))",
 sw10utt/sw_1018_2692.utt,2/sw2692,2692,19,sd,B,12,3,I'm trying to think the last thing I did to a car. /,I/PRP 'm/VBP trying/VBG to/TO think/VB the/DT last/JJ thing/NN I/PRP did/VBD to/IN a/DT car/NN ./.,(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG trying) (S (VP (TO to) (VP (VB think) (NP (NP (DT the) (JJ last) (NN thing)) (SBAR (S (NP (PRP I)) (VP (VBD did) (PP (IN to) (NP (DT a) (NN car)))))))))))) (. .))),

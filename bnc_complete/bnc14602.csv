@@ -53,8 +53,8 @@ K/KC/KC9.xml,KC9RE018,14602,50,,A,31,2,"--yes I spoke to someone yesterday on th
 K/KC/KC9.xml,KC9RE018,14602,51,,B,32,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,52,,A,33,1,Seemed silly to send it by post  --,"[Seemed/VBD, silly/JJ, to/TO, send/VB, it/PRP, by/IN, post/NN, I/PRP]",(ROOT (SINV (VP (VBD Seemed) (ADJP (JJ silly) (S (VP (TO to) (VP (VB send) (NP (PRP it)) (PP (IN by) (NP (NN post)))))))) (NP (PRP I))))
 K/KC/KC9.xml,KC9RE018,14602,53,,A,33,2,--I ,"[Seemed/VBD, silly/JJ, to/TO, send/VB, it/PRP, by/IN, post/NN, I/PRP]",(ROOT (SINV (VP (VBD Seemed) (ADJP (JJ silly) (S (VP (TO to) (VP (VB send) (NP (PRP it)) (PP (IN by) (NP (NN post)))))))) (NP (PRP I))))
-K/KC/KC9.xml,KC9RE018,14602,54,,B,34,1,(()) ,[],X
-K/KC/KC9.xml,KC9RE018,14602,55,,B,34,2,(()) ,[],X
+K/KC/KC9.xml,KC9RE018,14602,54,,B,34,1,(()) ,[],
+K/KC/KC9.xml,KC9RE018,14602,55,,B,34,2,(()) ,[],
 K/KC/KC9.xml,KC9RE018,14602,56,,A,35,1,"Thank you ever so much for bringing me round, it's very nice of you.","[Thank/VB, you/PRP, ever/RB, so/RB, much/JJ, for/IN, bringing/VBG, me/PRP, round/NN, ,/,, it/PRP, 's/VBZ, very/RB, nice/JJ, of/IN, you/PRP, ./.]","(ROOT (S (S (VP (VB Thank) (S (NP (PRP you)) (ADJP (ADJP (RB ever) (RB so) (JJ much)) (PP (IN for) (S (VP (VBG bringing) (NP (PRP me)) (NP (NN round))))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (RB very) (JJ nice) (PP (IN of) (NP (PRP you))))) (. .)))"
 K/KC/KC9.xml,KC9RE018,14602,57,,B,36,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,58,,B,36,2,Is it for a  --,"[Is/VBZ, it/PRP, for/IN, a/DT, refund/NN, or/CC]",(ROOT (SINV (VP (VBZ Is)) (NP (PRP it)) (PP (IN for) (NP (DT a) (NX (NX (NN refund)) (CC or))))))
@@ -108,7 +108,7 @@ K/KC/KC9.xml,KC9RE018,14602,105,,B,58,1,<yawn> Excuse me!,"[Excuse/VB, me/PRP, !
 K/KC/KC9.xml,KC9RE018,14602,106,,B,58,2,"Where are you going tonight, Chris?","[Where/WRB, are/VBP, you/PRP, going/VBG, tonight/RB, ,/,, Chris/NNP, ?/.]","(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP are) (NP (PRP you)) (VP (VBG going) (NP (NP (RB tonight)) (, ,) (NP (NNP Chris))))) (. ?)))"
 K/KC/KC9.xml,KC9RE018,14602,107,,B,58,3,Oh erm  --,"[Oh/UH, erm/NN, I/PRP, 'm/VBP, going/VBG, to/TO, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (NN erm)) (VP (ADVP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PP (TO to)))))) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,108,,B,58,4,--I'm going to (()) .,"[Oh/UH, erm/NN, I/PRP, 'm/VBP, going/VBG, to/TO, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (NN erm)) (VP (ADVP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PP (TO to)))))) (. .)))
-K/KC/KC9.xml,KC9RE018,14602,109,,B,58,5,<laugh> ,[],X
+K/KC/KC9.xml,KC9RE018,14602,109,,B,58,5,<laugh> ,[],
 K/KC/KC9.xml,KC9RE018,14602,110,,B,58,6,We've got some friends over from Canada  --,"[We/PRP, 've/VBP, got/VBD, some/DT, friends/NNS, over/IN, from/IN, Canada/NNP]",(ROOT (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (NNS friends)) (PP (IN over) (PP (IN from) (NP (NNP Canada))))))))
 K/KC/KC9.xml,KC9RE018,14602,111,,B,58,7,--(()) ,"[We/PRP, 've/VBP, got/VBD, some/DT, friends/NNS, over/IN, from/IN, Canada/NNP]",(ROOT (S (NP (PRP We)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (NNS friends)) (PP (IN over) (PP (IN from) (NP (NNP Canada))))))))
 K/KC/KC9.xml,KC9RE018,14602,112,,A,59,1,"Gosh it's cold out there, this morning.","[Gosh/VB, it/PRP, 's/VBZ, cold/JJ, out/IN, there/RB, ,/,, this/DT, morning/NN, ./.]","(ROOT (S (VP (VB Gosh) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ cold) (PP (IN out) (NP (NP (RB there)) (, ,) (NP (DT this) (NN morning))))))))) (. .)))"
@@ -133,31 +133,31 @@ K/KC/KC9.xml,KC9RE018,14602,130,,B,66,6,Yes  --,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KC/KC9.xml,KC9RE018,14602,131,,B,66,7,--(()) ,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KC/KC9.xml,KC9RE018,14602,132,,B,66,8,She can afford be like that.,"[She/PRP, can/MD, afford/VB, be/VB, like/IN, that/DT, ./.]",(ROOT (S (NP (PRP She)) (VP (MD can) (VP (VB afford) (VP (VB be) (PP (IN like) (NP (DT that)))))) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,133,,B,66,9,That's right.,"[That/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right))) (. .)))
-K/KC/KC9.xml,KC9RE018,14602,134,,B,66,10,(()) ,[],X
+K/KC/KC9.xml,KC9RE018,14602,134,,B,66,10,(()) ,[],
 K/KC/KC9.xml,KC9RE018,14602,135,,B,66,11,"No  (()) in the town, I'm coming shopping with her  --","[No/DT, in/IN, the/DT, town/NN, ,/,, I/PRP, 'm/VBP, coming/VBG, shopping/NN, with/IN, her/PRP$, Barry/NNP, !/.]","(ROOT (S (ADVP (DT No) (PP (IN in) (NP (DT the) (NN town)))) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG coming) (NP (NN shopping)) (PP (IN with) (NP (PRP$ her) (NNP Barry))))) (. !)))"
 K/KC/KC9.xml,KC9RE018,14602,136,,B,66,12,--Barry!,"[No/DT, in/IN, the/DT, town/NN, ,/,, I/PRP, 'm/VBP, coming/VBG, shopping/NN, with/IN, her/PRP$, Barry/NNP, !/.]","(ROOT (S (ADVP (DT No) (PP (IN in) (NP (DT the) (NN town)))) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG coming) (NP (NN shopping)) (PP (IN with) (NP (PRP$ her) (NNP Barry))))) (. !)))"
 K/KC/KC9.xml,KC9RE018,14602,137,,B,66,13,There (()) .,"[There/EX, ./.]",(ROOT (S (VP (EX There)) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,138,,B,66,14,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KC/KC9.xml,KC9RE018,14602,139,,B,66,15,(()) ,[],X
+K/KC/KC9.xml,KC9RE018,14602,139,,B,66,15,(()) ,[],
 K/KC/KC9.xml,KC9RE018,14602,140,,B,66,16,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,141,,B,66,17,"Have you got the time, Suzanne?","[Have/VB, you/PRP, got/VBD, the/DT, time/NN, ,/,, Suzanne/NNP, ?/.]","(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (NP (DT the) (NN time)) (, ,) (NP (NNP Suzanne)))))) (. ?)))"
 K/KC/KC9.xml,KC9RE018,14602,142,,B,66,18,Shall I let you start coming to  (()) or,"[Shall/MD, I/PRP, let/VB, you/PRP, start/VB, coming/VBG, to/TO, or/CC]",(ROOT (SINV (MD Shall) (NP (PRP I)) (VP (VB let) (S (NP (PRP you)) (VP (VB start) (VP (VBG coming) (PP (TO to)) (ADVP (CC or))))))))
-K/KC/KC9.xml,KC9RE018,14602,143,,A,67,1,<laugh> ,[],X
+K/KC/KC9.xml,KC9RE018,14602,143,,A,67,1,<laugh> ,[],
 K/KC/KC9.xml,KC9RE018,14602,144,,B,68,1,Is it winter?,"[Is/VBZ, it/PRP, winter/NN, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (NN winter)) (. ?)))
 K/KC/KC9.xml,KC9RE018,14602,145,,B,68,2,He won't  (()) ,"[He/PRP, won/VBD, 't/PRP]",(ROOT (S (NP (PRP He)) (VP (VBD won) (NP (PRP 't)))))
 K/KC/KC9.xml,KC9RE018,14602,146,,B,68,3,(()) pushed into it  --,"[pushed/VBN, into/IN, it/PRP, oh/UH, that/DT, 's/VBZ, alright/JJ, ./.]",(ROOT (S (S (VP (VBN pushed) (PP (IN into) (NP (PRP it))) (NP (INTJ (UH oh)) (NP (DT that))))) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,147,,B,68,4,--oh that's alright.,"[pushed/VBN, into/IN, it/PRP, oh/UH, that/DT, 's/VBZ, alright/JJ, ./.]",(ROOT (S (S (VP (VBN pushed) (PP (IN into) (NP (PRP it))) (NP (INTJ (UH oh)) (NP (DT that))))) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,148,,B,68,5,"Are you getting the camisoles out, Tracey?","[Are/VBP, you/PRP, getting/VBG, the/DT, camisoles/NNS, out/RP, ,/,, Tracey/NNP, ?/.]","(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG getting) (NP (NP (NP (DT the) (NNS camisoles)) (ADVP (RP out))) (, ,) (NP (NNP Tracey)))) (. ?)))"
 K/KC/KC9.xml,KC9RE018,14602,149,,B,68,6,I am.,"[I/PRP, am/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP am)) (. .)))
-K/KC/KC9.xml,KC9RE018,14602,150,,B,68,7,<laugh> ,[],X
-K/KC/KC9.xml,KC9RE018,14602,151,,B,68,8,(()) ,[],X
-K/KC/KC9.xml,KC9RE018,14602,152,,B,68,9,<laugh> ,[],X
+K/KC/KC9.xml,KC9RE018,14602,150,,B,68,7,<laugh> ,[],
+K/KC/KC9.xml,KC9RE018,14602,151,,B,68,8,(()) ,[],
+K/KC/KC9.xml,KC9RE018,14602,152,,B,68,9,<laugh> ,[],
 K/KC/KC9.xml,KC9RE018,14602,153,,B,68,10,What a dumb question?,"[What/WP, a/DT, dumb/JJ, question/NN, ?/.]",(ROOT (NP (NP (WP What)) (NP (DT a) (JJ dumb) (NN question)) (. ?)))
 K/KC/KC9.xml,KC9RE018,14602,154,,A,69,1,You seem a happy lot around here.,"[You/PRP, seem/VBP, a/DT, happy/JJ, lot/NN, around/IN, here/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP seem) (NP (NP (DT a) (JJ happy) (NN lot)) (PP (IN around) (NP (RB here))))) (. .)))
-K/KC/KC9.xml,KC9RE018,14602,155,,B,70,1,<laugh> ,[],X
+K/KC/KC9.xml,KC9RE018,14602,155,,B,70,1,<laugh> ,[],
 K/KC/KC9.xml,KC9RE018,14602,156,,A,71,1,Some fa- I know your face,"[Some/DT, fa-/NN, I/PRP, know/VBP, your/PRP$, face/NN]",(ROOT (FRAG (NP (DT Some) (NN fa-) (SBAR (S (NP (PRP I)) (VP (VBP know) (NP (PRP$ your) (NN face))))))))
 K/KC/KC9.xml,KC9RE018,14602,157,,B,72,1,Do you think so?,"[Do/VB, you/PRP, think/VB, so/RB, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB think) (ADVP (RB so))))) (. ?)))
-K/KC/KC9.xml,KC9RE018,14602,158,,B,72,2,(()) ,[],X
+K/KC/KC9.xml,KC9RE018,14602,158,,B,72,2,(()) ,[],
 K/KC/KC9.xml,KC9RE018,14602,159,,A,73,1,From Sandhurst?,"[From/IN, Sandhurst/NNP, ?/.]",(ROOT (FRAG (PP (IN From) (NP (NNP Sandhurst))) (. ?)))
 K/KC/KC9.xml,KC9RE018,14602,160,,B,74,1,Little Sandhurst  --,"[Little/JJ, Sandhurst/NNP, >/JJR]",(ROOT (FRAG (S (ADJP (NP (JJ Little) (NNP Sandhurst)) (JJR >)))))
 K/KC/KC9.xml,KC9RE018,14602,161,,B,74,2,--<<REDACTED (address)>> ,"[Little/JJ, Sandhurst/NNP, >/JJR]",(ROOT (FRAG (S (ADJP (NP (JJ Little) (NNP Sandhurst)) (JJR >)))))
@@ -171,7 +171,7 @@ K/KC/KC9.xml,KC9RE018,14602,168,,A,79,3,--perhaps it's shopping or something?,"[
 K/KC/KC9.xml,KC9RE018,14602,169,,B,80,1,Probably.,"[Probably/RB, ./.]",(ROOT (FRAG (ADVP (RB Probably)) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,170,,A,81,1,Or even in a shop somewhere.,"[Or/CC, even/RB, in/IN, a/DT, shop/NN, somewhere/RB, ./.]",(ROOT (FRAG (CC Or) (ADVP (RB even)) (PP (IN in) (ADVP (NP (DT a) (NN shop)) (RB somewhere))) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,171,,B,82,1,Around Tesco's at New Cross.,"[Around/IN, Tesco/NNP, 's/POS, at/IN, New/NNP, Cross/NNP, ./.]",(ROOT (FRAG (PP (IN Around) (NP (NP (NNP Tesco) (POS 's)) (PP (IN at) (NP (NNP New) (NNP Cross))))) (. .)))
-K/KC/KC9.xml,KC9RE018,14602,172,,B,82,2,<laugh> ,[],X
+K/KC/KC9.xml,KC9RE018,14602,172,,B,82,2,<laugh> ,[],
 K/KC/KC9.xml,KC9RE018,14602,173,,A,83,1,"Yeah, could be.","[Yeah/UH, ,/,, could/MD, be/VB, ./.]","(ROOT (SINV (FRAG (INTJ (UH Yeah))) (, ,) (VP (MD could)) (S (VP (VB be))) (. .)))"
 K/KC/KC9.xml,KC9RE018,14602,174,,B,84,1,Would you just like to just ,"[Would/MD, you/PRP, just/RB, like/VBP, to/TO, just/RB]",(ROOT (SINV (VP (MD Would)) (NP (PRP you)) (SBAR (RB just) (S (VP (VBP like) (PP (TO to) (ADVP (RB just))))))))
 K/KC/KC9.xml,KC9RE018,14602,175,,A,85,1,Probably.,"[Probably/RB, ./.]",(ROOT (FRAG (ADVP (RB Probably)) (. .)))
@@ -184,8 +184,8 @@ K/KC/KC9.xml,KC9RE018,14602,181,,B,86,6,Great!--,"[Great/JJ, !/.]",(ROOT (FRAG (
 K/KC/KC9.xml,KC9RE018,14602,182,,B,86,7,--(()) ,"[Great/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Great)) (. !)))
 K/KC/KC9.xml,KC9RE018,14602,183,,B,86,8,Not  --,"[Not/RB, really/RB, keen/JJ, on/IN, the/DT, small/JJ, one/CD, ./.]",(ROOT (FRAG (RB Not) (ADJP (RB really) (JJ keen) (PP (IN on) (NP (DT the) (JJ small) (CD one)))) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,184,,B,86,9,--really keen on the small one.,"[Not/RB, really/RB, keen/JJ, on/IN, the/DT, small/JJ, one/CD, ./.]",(ROOT (FRAG (RB Not) (ADJP (RB really) (JJ keen) (PP (IN on) (NP (DT the) (JJ small) (CD one)))) (. .)))
-K/KC/KC9.xml,KC9RE018,14602,185,,B,86,10,(()) ,[],X
-K/KC/KC9.xml,KC9RE018,14602,186,,B,86,11,(()) ,[],X
+K/KC/KC9.xml,KC9RE018,14602,185,,B,86,10,(()) ,[],
+K/KC/KC9.xml,KC9RE018,14602,186,,B,86,11,(()) ,[],
 K/KC/KC9.xml,KC9RE018,14602,187,,B,86,12,That wasn't  --,"[That/DT, wasn/NN, 't/PRP, it/PRP, passed/VBD, her/PRP$, on/IN, we/PRP, went/VBD, ./.]",(ROOT (S (NP (NP (NP (DT That) (NN wasn)) (NP (PRP 't))) (SBAR (S (NP (PRP it)) (VP (VBD passed) (NP (PRP$ her)) (PP (IN on) (NP (PRP we))))))) (VP (VBD went)) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,188,,B,86,13,--it passed her on   --,"[That/DT, wasn/NN, 't/PRP, it/PRP, passed/VBD, her/PRP$, on/IN, we/PRP, went/VBD, ./.]",(ROOT (S (NP (NP (NP (DT That) (NN wasn)) (NP (PRP 't))) (SBAR (S (NP (PRP it)) (VP (VBD passed) (NP (PRP$ her)) (PP (IN on) (NP (PRP we))))))) (VP (VBD went)) (. .)))
 K/KC/KC9.xml,KC9RE018,14602,189,,B,86,14,--(()) we went.,"[That/DT, wasn/NN, 't/PRP, it/PRP, passed/VBD, her/PRP$, on/IN, we/PRP, went/VBD, ./.]",(ROOT (S (NP (NP (NP (DT That) (NN wasn)) (NP (PRP 't))) (SBAR (S (NP (PRP it)) (VP (VBD passed) (NP (PRP$ her)) (PP (IN on) (NP (PRP we))))))) (VP (VBD went)) (. .)))

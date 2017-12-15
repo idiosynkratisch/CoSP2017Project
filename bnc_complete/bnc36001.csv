@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBR.xml,KBRRE009,36001,0,,A,1,1,"That's right, it's on now that is.","[That/DT, 's/VBZ, right/NN, ,/,, it/PRP, 's/VBZ, on/IN, now/RB, that/DT, is/VBZ, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (NN right)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (PP (IN on) (NP (NP (RB now)) (SBAR (WHNP (DT that)) (S (VP (VBZ is))))))) (. .)))"
 K/KB/KBR.xml,KBRRE009,36001,1,,B,2,1,(()) talking is it?,"[talking/VBG, is/VBZ, it/PRP, ?/.]",(ROOT (S (S (VP (VBG talking))) (VP (VBZ is) (NP (PRP it))) (. ?)))
-K/KB/KBR.xml,KBRRE009,36001,2,,A,3,1,(()) ,[],X
+K/KB/KBR.xml,KBRRE009,36001,2,,A,3,1,(()) ,[],
 K/KB/KBR.xml,KBRRE009,36001,3,,B,4,1,What's it called love?,"[What/WP, 's/VBZ, it/PRP, called/VBN, love/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP it)) (VP (VBN called) (NP (NN love)))) (. ?)))
 K/KB/KBR.xml,KBRRE009,36001,4,,A,5,1,Neville's (()) .,"[Neville/NNP, 's/POS, ./.]",(ROOT (S (NP (NNP Neville)) (VP (POS 's)) (. .)))
 K/KB/KBR.xml,KBRRE009,36001,5,,B,6,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
@@ -22,7 +22,7 @@ K/KB/KBR.xml,KBRRE009,36001,19,,B,12,3,--two pence.,"[Erm/VB, two/CD, pence/NNS,
 K/KB/KBR.xml,KBRRE009,36001,20,,B,12,4,No I can't find any.,"[No/DT, I/PRP, can/MD, 't/PRP, find/VB, any/DT, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB find) (NP (DT any))))) (. .)))
 K/KB/KBR.xml,KBRRE009,36001,21,,A,13,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KB/KBR.xml,KBRRE009,36001,22,,B,14,1,"Here are, er","[Here/RB, are/VBP, ,/,, er/NN]","(ROOT (S (NP (NP (NP (RB Here)) (VP (VBP are))) (, ,) (NP (NN er)))))"
-K/KB/KBR.xml,KBRRE009,36001,23,,A,15,1,(()) ,[],X
+K/KB/KBR.xml,KBRRE009,36001,23,,A,15,1,(()) ,[],
 K/KB/KBR.xml,KBRRE009,36001,24,,B,16,1,Four at twenty four pence  --,"[Four/CD, at/IN, twenty/CD, four/CD, pence/NN, and/CC, two/CD, at/IN, two/CD, pence/NNS, ./.]",(ROOT (NP (NP (CD Four)) (PP (IN at) (NP (NP (CD twenty) (CD four) (NN pence)) (CC and) (NP (CD two)))) (PP (IN at) (NP (CD two) (NNS pence))) (. .)))
 K/KB/KBR.xml,KBRRE009,36001,25,,B,16,2,--and two at two pence.,"[Four/CD, at/IN, twenty/CD, four/CD, pence/NN, and/CC, two/CD, at/IN, two/CD, pence/NNS, ./.]",(ROOT (NP (NP (CD Four)) (PP (IN at) (NP (NP (CD twenty) (CD four) (NN pence)) (CC and) (NP (CD two)))) (PP (IN at) (NP (CD two) (NNS pence))) (. .)))
 K/KB/KBR.xml,KBRRE009,36001,26,,B,16,3,So that's (()) .,"[So/IN, that/DT, 's/VBZ, ./.]",(ROOT (S (IN So) (NP (DT that)) (VP (VBZ 's)) (. .)))

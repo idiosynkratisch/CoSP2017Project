@@ -29,7 +29,7 @@ K/KB/KBH.xml,KBHRE01F,4304,26,,B,22,2,"Oops there she goes, poor dolly.","[Oops/
 K/KB/KBH.xml,KBHRE01F,4304,27,,A,23,1,"(()) falling over <laugh> , and I pick her up, oh poor doll, she gets all wet, she's falling down now.","[falling/VBG, over/RP, ,/,, and/CC, I/PRP, pick/VBP, her/PRP$, up/RP, ,/,, oh/UH, poor/JJ, doll/NN, ,/,, she/PRP, gets/VBZ, all/DT, wet/JJ, ,/,, she/PRP, 's/VBZ, falling/VBG, down/RB, now/RB, ./.]","(ROOT (S (S (S (VP (VBG falling) (PRT (RP over)))) (, ,) (CC and) (S (NP (PRP I)) (VP (VP (VBP pick) (NP (PRP$ her)) (PRT (RP up))) (, ,) (NP (INTJ (UH oh)) (NP (JJ poor) (NN doll)))))) (, ,) (S (NP (PRP she)) (VP (VBZ gets) (S (NP (DT all)) (ADJP (JJ wet))))) (, ,) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG falling) (ADVP (RB down) (RB now))))) (. .)))"
 K/KB/KBH.xml,KBHRE01F,4304,28,,B,24,1,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
 K/KB/KBH.xml,KBHRE01F,4304,29,,A,25,1,"Oh poor dolly, oh <laugh> ","[Oh/UH, poor/JJ, dolly/RB, ,/,, oh/UH]","(ROOT (INTJ (INTJ (UH Oh)) (JJ poor) (INTJ (INTJ (RB dolly)) (, ,) (INTJ (UH oh)))))"
-K/KB/KBH.xml,KBHRE01F,4304,30,,B,26,1,<laugh> ,[],X
+K/KB/KBH.xml,KBHRE01F,4304,30,,B,26,1,<laugh> ,[],
 K/KB/KBH.xml,KBHRE01F,4304,31,,A,27,1,"Ah, ah (()) .","[Ah/NN, ,/,, ah/NN, ./.]","(ROOT (NP (NP (NN Ah)) (, ,) (NP (NN ah)) (. .)))"
 K/KB/KBH.xml,KBHRE01F,4304,32,,B,28,1,Oops.,"[Oops/UH, ./.]",(ROOT (INTJ (UH Oops) (. .)))
 K/KB/KBH.xml,KBHRE01F,4304,33,,A,29,1,(()) I never go.,"[I/PRP, never/RB, go/VBP, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB never)) (VP (VBP go)) (. .)))

@@ -12,6 +12,6 @@ K/KD/KDE.xml,KDERE02S,7505,9,,A,7,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KD/KDE.xml,KDERE02S,7505,10,,A,7,2,Got a gun (()) .,"[Got/VBD, a/DT, gun/NN, ./.]",(ROOT (S (VP (VBD Got) (NP (DT a) (NN gun))) (. .)))
 K/KD/KDE.xml,KDERE02S,7505,11,,A,7,3,"Mum, what's he got on his neck?","[Mum/NN, ,/,, what/WP, 's/VBZ, he/PRP, got/VBD, on/IN, his/PRP$, neck/NN, ?/.]","(ROOT (SBARQ (NP (NN Mum)) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP he)) (VP (VBD got) (PP (IN on) (NP (PRP$ his) (NN neck))))) (. ?)))"
 K/KD/KDE.xml,KDERE02S,7505,12,,B,8,1,He's got a scarf.,"[He/PRP, 's/VBZ, got/VBD, a/DT, scarf/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (NN scarf)))) (. .)))
-K/KD/KDE.xml,KDERE02S,7505,13,,A,9,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02S,7505,13,,A,9,1,(()) ,[],
 K/KD/KDE.xml,KDERE02S,7505,14,,B,10,1,Yes darling.,"[Yes/UH, darling/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (NN darling)))) (. .)))
-K/KD/KDE.xml,KDERE02S,7505,15,,A,11,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02S,7505,15,,A,11,1,(()) ,[],

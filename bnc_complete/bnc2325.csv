@@ -12,7 +12,7 @@ K/KB/KBK.xml,KBKRE02T,2325,9,,B,6,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP A
 K/KB/KBK.xml,KBKRE02T,2325,10,,A,7,1,(()) fridge require  --,"[fridge/NNP, require/VBP, ./.]",(ROOT (S (NP (NNP fridge)) (VP (VBP require)) (. .)))
 K/KB/KBK.xml,KBKRE02T,2325,11,,A,7,2,--(()) .,"[fridge/NNP, require/VBP, ./.]",(ROOT (S (NP (NNP fridge)) (VP (VBP require)) (. .)))
 K/KB/KBK.xml,KBKRE02T,2325,12,,B,8,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE02T,2325,13,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02T,2325,13,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02T,2325,14,,B,10,1,"Yes, she's very disheartening the way she picks at it I should think.","[Yes/UH, ,/,, she/PRP, 's/VBZ, very/RB, disheartening/VBG, the/DT, way/NN, she/PRP, picks/VBZ, at/IN, it/PRP, I/PRP, should/MD, think/VB, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP she)) (VP (VBZ 's) (ADJP (RB very) (S (VP (VBG disheartening) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP she)) (VP (VBZ picks) (PP (IN at) (NP (PRP it))) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB think))))))))))))) (. .)))"
 K/KB/KBK.xml,KBKRE02T,2325,15,,B,10,2,Very disagreeable that's for sure.,"[Very/RB, disagreeable/JJ, that/DT, 's/VBZ, for/IN, sure/JJ, ./.]",(ROOT (S (ADJP (RB Very) (JJ disagreeable)) (NP (DT that)) (VP (VBZ 's) (PP (IN for) (ADJP (JJ sure)))) (. .)))
 K/KB/KBK.xml,KBKRE02T,2325,16,,A,11,1,Besides (()) .,"[Besides/IN, ./.]",(ROOT (FRAG (ADVP (IN Besides)) (. .)))

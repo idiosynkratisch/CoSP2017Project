@@ -55,7 +55,7 @@ K/KD/KD2.xml,KD2RE00G,61802,52,,B,32,1,Double (()) ,[Double/JJ],(ROOT (FRAG (JJ 
 K/KD/KD2.xml,KD2RE00G,61802,53,,A,33,1,You're forgetting one thing.,"[You/PRP, 're/VBP, forgetting/VBG, one/CD, thing/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBG forgetting) (NP (CD one) (NN thing)))) (. .)))
 K/KD/KD2.xml,KD2RE00G,61802,54,,B,34,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KD/KD2.xml,KD2RE00G,61802,55,,A,35,1,She wants what I wanted.,"[She/PRP, wants/VBZ, what/WP, I/PRP, wanted/VBD, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ wants) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD wanted))))) (. .)))
-K/KD/KD2.xml,KD2RE00G,61802,56,,B,36,1,(()) ,[],X
+K/KD/KD2.xml,KD2RE00G,61802,56,,B,36,1,(()) ,[],
 K/KD/KD2.xml,KD2RE00G,61802,57,,A,37,1,Please!,"[Please/UH, !/.]",(ROOT (INTJ (UH Please) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,58,,A,37,2,Don't ever tell anybody you fancy   --,"[Don/NNP, 't/PRP, ever/RB, tell/VBP, anybody/NN, you/PRP, fancy/JJ, Like/IN, I/PRP, was/VBD, saying/VBG, ,/,, don/NNP, 't/PRP, ever/RB, say/VBP, you/PRP, liked/VBD, him/PRP, !/.]","(ROOT (S (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (ADVP (RB ever)) (VP (VBP tell) (S (NP (NN anybody)) (ADJP (NP (PRP you)) (JJ fancy)) (PP (IN Like) (NP (PRP I)))))))) (VP (VBD was) (VP (VBG saying)))) (, ,) (NP (NNP don) (PRP 't)) (ADVP (RB ever)) (VP (VBP say) (SBAR (S (NP (PRP you)) (VP (VBD liked) (NP (PRP him)))))) (. !)))"
 K/KD/KD2.xml,KD2RE00G,61802,59,,A,37,3,"--<break in recording> Like I was saying, don't ever  --","[Don/NNP, 't/PRP, ever/RB, tell/VBP, anybody/NN, you/PRP, fancy/JJ, Like/IN, I/PRP, was/VBD, saying/VBG, ,/,, don/NNP, 't/PRP, ever/RB, say/VBP, you/PRP, liked/VBD, him/PRP, !/.]","(ROOT (S (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (ADVP (RB ever)) (VP (VBP tell) (S (NP (NN anybody)) (ADJP (NP (PRP you)) (JJ fancy)) (PP (IN Like) (NP (PRP I)))))))) (VP (VBD was) (VP (VBG saying)))) (, ,) (NP (NNP don) (PRP 't)) (ADVP (RB ever)) (VP (VBP say) (SBAR (S (NP (PRP you)) (VP (VBD liked) (NP (PRP him)))))) (. !)))"
@@ -73,7 +73,7 @@ K/KD/KD2.xml,KD2RE00G,61802,70,,B,40,5,--don't know what you see in him.,"[But/C
 K/KD/KD2.xml,KD2RE00G,61802,71,,A,41,1,Dunno what anybody can see in him!,"[Dunno/NNP, what/WDT, anybody/NN, can/MD, see/VB, in/IN, him/PRP, !/.]",(ROOT (FRAG (NP (NP (NNP Dunno)) (SBAR (WHNP (WDT what)) (S (NP (NN anybody)) (VP (MD can) (VP (VB see) (PP (IN in) (NP (PRP him)))))))) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,72,,A,41,2,He is awful!,"[He/PRP, is/VBZ, awful/JJ, !/.]",(ROOT (S (NP (PRP He)) (VP (VBZ is) (ADJP (JJ awful))) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,73,,A,41,3,I noticed that when the  <laughing> camera ,"[I/PRP, noticed/VBD, that/IN, when/WRB, the/DT, camera/NN]",(ROOT (SINV (FRAG (NP (PRP I))) (VP (VBD noticed) (SBAR (IN that) (FRAG (WHADVP (WRB when))))) (NP (DT the) (NN camera))))
-K/KD/KD2.xml,KD2RE00G,61802,74,,B,42,1,<laugh> ,[],X
+K/KD/KD2.xml,KD2RE00G,61802,74,,B,42,1,<laugh> ,[],
 K/KD/KD2.xml,KD2RE00G,61802,75,,A,43,1,got onto him !,"[got/VBD, onto/IN, him/PRP, !/.]",(ROOT (S (VP (VBD got) (PP (IN onto) (NP (PRP him)))) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,76,,A,43,2,"You know that he is, you know what they say cameras pick up  --","[You/PRP, know/VBP, that/IN, he/PRP, is/VBZ, ,/,, you/PRP, know/VBP, what/WP, they/PRP, say/VBP, cameras/NNS, pick/VB, up/RP, things/NNS, ./.]","(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ is) (, ,) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP say) (S (NP (NNS cameras)) (VP (VB pick) (PRT (RP up)) (NP (NNS things)))))))))))))) (. .)))"
 K/KD/KD2.xml,KD2RE00G,61802,77,,A,43,3,--things.,"[You/PRP, know/VBP, that/IN, he/PRP, is/VBZ, ,/,, you/PRP, know/VBP, what/WP, they/PRP, say/VBP, cameras/NNS, pick/VB, up/RP, things/NNS, ./.]","(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ is) (, ,) (SBAR (S (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP say) (S (NP (NNS cameras)) (VP (VB pick) (PRT (RP up)) (NP (NNS things)))))))))))))) (. .)))"
@@ -111,7 +111,7 @@ K/KD/KD2.xml,KD2RE00G,61802,108,,A,57,5,"Yeah, as long as I look like her.","[Ye
 K/KD/KD2.xml,KD2RE00G,61802,109,,B,58,1,Ah don't!,"[Ah/NN, don/NNP, 't/PRP, !/.]",(ROOT (S (NP (NN Ah)) (VP (NNP don) (NP (PRP 't))) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,110,,A,59,1,But she was better looking than you!,"[But/CC, she/PRP, was/VBD, better/RBR, looking/VBG, than/IN, you/PRP, !/.]",(ROOT (S (CC But) (NP (PRP she)) (VP (VBD was) (ADVP (RBR better)) (VP (VBG looking) (PP (IN than) (NP (PRP you))))) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,111,,B,60,1,Ah don't!,"[Ah/NN, don/NNP, 't/PRP, !/.]",(ROOT (S (NP (NN Ah)) (VP (NNP don) (NP (PRP 't))) (. !)))
-K/KD/KD2.xml,KD2RE00G,61802,112,,A,61,1,<clears throat> ,[],X
+K/KD/KD2.xml,KD2RE00G,61802,112,,A,61,1,<clears throat> ,[],
 K/KD/KD2.xml,KD2RE00G,61802,113,,B,62,1,I like Sherry!,"[I/PRP, like/VBP, Sherry/NNP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (NNP Sherry))) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,114,,A,63,1,I have just insulted   --,"[I/PRP, have/VBP, just/RB, insulted/VBN, of/IN, the/DT, dog/NN, world/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have) (ADVP (RB just)) (VP (VBN insulted) (PP (IN of) (NP (DT the) (NN dog) (NN world))))) (. .)))
 K/KD/KD2.xml,KD2RE00G,61802,115,,A,63,2,--(()) of the dog world.,"[I/PRP, have/VBP, just/RB, insulted/VBN, of/IN, the/DT, dog/NN, world/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have) (ADVP (RB just)) (VP (VBN insulted) (PP (IN of) (NP (DT the) (NN dog) (NN world))))) (. .)))
@@ -120,9 +120,9 @@ K/KD/KD2.xml,KD2RE00G,61802,117,,A,65,1,I apologize.,"[I/PRP, apologize/VBP, ./.
 K/KD/KD2.xml,KD2RE00G,61802,118,,B,66,1,Thank you very much.,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
 K/KD/KD2.xml,KD2RE00G,61802,119,,A,67,1,<laughing> Why are you accepted </laughing> ?,"[Why/WRB, are/VBP, you/PRP, accepted/VBN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP are) (NP (PRP you)) (VP (VBN accepted))) (. ?)))
 K/KD/KD2.xml,KD2RE00G,61802,120,,B,68,1,"Don't forget, our brothers are dogs!","[Don/NNP, 't/PRP, forget/VB, ,/,, our/PRP$, brothers/NNS, are/VBP, dogs/NNS, !/.]","(ROOT (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VB forget))))) (, ,) (NP (PRP$ our) (NNS brothers)) (VP (VBP are) (NP (NNS dogs))) (. !)))"
-K/KD/KD2.xml,KD2RE00G,61802,121,,A,69,1,<laugh> ,[],X
+K/KD/KD2.xml,KD2RE00G,61802,121,,A,69,1,<laugh> ,[],
 K/KD/KD2.xml,KD2RE00G,61802,122,,B,70,1,And er,"[And/CC, er/NN]",(ROOT (FRAG (CC And) (NP (NN er))))
-K/KD/KD2.xml,KD2RE00G,61802,123,,A,71,1,<clears throat> ,[],X
+K/KD/KD2.xml,KD2RE00G,61802,123,,A,71,1,<clears throat> ,[],
 K/KD/KD2.xml,KD2RE00G,61802,124,,B,72,1,we've got a  --,"[we/PRP, 've/VBP, got/VBD, a/DT, little/JJ, dog/NN, ./.]",(ROOT (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (JJ little) (NN dog)))) (. .)))
 K/KD/KD2.xml,KD2RE00G,61802,125,,B,72,2,--little dog.,"[we/PRP, 've/VBP, got/VBD, a/DT, little/JJ, dog/NN, ./.]",(ROOT (S (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (JJ little) (NN dog)))) (. .)))
 K/KD/KD2.xml,KD2RE00G,61802,126,,A,73,1,A little pooch.,"[A/DT, little/JJ, pooch/NN, ./.]",(ROOT (NP (DT A) (JJ little) (NN pooch) (. .)))
@@ -172,4 +172,4 @@ K/KD/KD2.xml,KD2RE00G,61802,169,,B,96,1,He'd teach you a few tricks!,"[He/PRP, '
 K/KD/KD2.xml,KD2RE00G,61802,170,,A,97,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD2.xml,KD2RE00G,61802,171,,A,97,2,I could boss him around because he's only young!,"[I/PRP, could/MD, boss/NN, him/PRP, around/RB, because/IN, he/PRP, 's/VBZ, only/RB, young/JJ, !/.]",(ROOT (S (NP (PRP I)) (VP (MD could) (VP (ADVP (NN boss)) (NP (PRP him)) (SBAR (ADVP (RB around)) (IN because) (S (NP (PRP he)) (VP (VBZ 's) (ADJP (RB only) (JJ young))))))) (. !)))
 K/KD/KD2.xml,KD2RE00G,61802,172,,B,98,1,You could boss him around.,"[You/PRP, could/MD, boss/NN, him/PRP, around/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (MD could) (VP (NN boss) (NP (PRP him)) (ADVP (RB around)))) (. .)))
-K/KD/KD2.xml,KD2RE00G,61802,173,,A,99,1,<humming> ,[],X
+K/KD/KD2.xml,KD2RE00G,61802,173,,A,99,1,<humming> ,[],

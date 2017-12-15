@@ -254,7 +254,7 @@ sw08utt/sw_0861_2684.utt,2/sw2684,2684,251,ba,A,165,2,"{D Well, } [ that's, + th
 sw08utt/sw_0861_2684.utt,2/sw2684,2684,252,+@,B,166,1,Uh-huh. /,Uh-huh/UH ./.,,
 sw08utt/sw_0861_2684.utt,2/sw2684,2684,253,cc,A,167,1,{C And } I'll read your book sometime. /,And/CC I/PRP 'll/MD read/VB your/PRP$ book/NN sometime/RB ./.,(ROOT (S (CC And) (NP (PRP I)) (VP (MD 'll) (VP (VB read) (NP (PRP$ your) (NN book)) (ADVP (RB sometime)))) (. .))),
 sw08utt/sw_0861_2684.utt,2/sw2684,2684,254,ba,B,168,1,<Laughter>  That's good. /,That/DT 's/BES good/JJ ./.,(ROOT (S (NP (DT That)) (VP (BES 's) (ADJP (JJ good))) (. .))),
-sw08utt/sw_0861_2684.utt,2/sw2684,2684,255,x,A,169,1,<Laughter>.,,X,
+sw08utt/sw_0861_2684.utt,2/sw2684,2684,255,x,A,169,1,<Laughter>.,,,
 sw08utt/sw_0861_2684.utt,2/sw2684,2684,256,b,B,170,1,All right.  /,All/RB right/JJ ./.,(ROOT (FRAG (ADVP (RB All) (JJ right)) (. .))),
 sw08utt/sw_0861_2684.utt,2/sw2684,2684,257,fc,B,170,2,"{D Well, } it was nice talking to you. /","Well/UH ,/, it/PRP was/VBD nice/JJ talking/NN to/IN you/PRP ./.","(ROOT (S (INTJ (UH Well)) (, ,) (NP (PRP it)) (VP (VBD was) (NP (NP (JJ nice) (NN talking)) (PP (IN to) (NP (PRP you))))) (. .)))",
 sw08utt/sw_0861_2684.utt,2/sw2684,2684,258,fc,A,171,1,I enjoyed it. /,I/PRP enjoyed/VBD it/PRP ./.,(ROOT (S (NP (PRP I)) (VP (VBD enjoyed) (NP (PRP it))) (. .))),

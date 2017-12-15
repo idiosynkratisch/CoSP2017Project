@@ -16,7 +16,7 @@ K/KB/KBK.xml,KBKRE05R,2808,13,,A,7,1,That's it.,"[That/DT, 's/VBZ, it/PRP, ./.]"
 K/KB/KBK.xml,KBKRE05R,2808,14,,A,7,2,Now that was a nice hit.,"[Now/RB, that/DT, was/VBD, a/DT, nice/JJ, hit/NN, ./.]",(ROOT (S (ADVP (RB Now)) (NP (DT that)) (VP (VBD was) (NP (DT a) (JJ nice) (NN hit))) (. .)))
 K/KB/KBK.xml,KBKRE05R,2808,15,,A,7,3,That's not quite (()) ,"[That/DT, 's/VBZ, not/RB, quite/RB]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (RB not) (RB quite)))))
 K/KB/KBK.xml,KBKRE05R,2808,16,,B,8,1,Not hard enough,"[Not/RB, hard/RB, enough/JJ]",(ROOT (FRAG (RB Not) (ADVP (RB hard)) (ADJP (JJ enough))))
-K/KB/KBK.xml,KBKRE05R,2808,17,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05R,2808,17,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05R,2808,18,,B,10,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE05R,2808,19,,A,11,1,Put the other way it was a good stroke.,"[Put/VB, the/DT, other/JJ, way/NN, it/PRP, was/VBD, a/DT, good/JJ, stroke/NN, ./.]",(ROOT (S (VP (VB Put) (NP (NP (DT the) (JJ other) (NN way)) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ good) (NN stroke))))))) (. .)))
 K/KB/KBK.xml,KBKRE05R,2808,20,,A,11,2,You can get over to over to bat.,"[You/PRP, can/MD, get/VB, over/IN, to/TO, over/IN, to/TO, bat/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB get) (PP (IN over) (PP (TO to) (NP (IN over)))) (PP (TO to) (NP (NN bat))))) (. .)))

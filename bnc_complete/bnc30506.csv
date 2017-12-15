@@ -6,6 +6,6 @@ K/KD/KDM.xml,KDMRE01R,30506,3,,A,3,2,"I've forgotten what he said now, something
 K/KD/KDM.xml,KDMRE01R,30506,4,,B,4,1,Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KD/KDM.xml,KDMRE01R,30506,5,,A,5,1,Can I have this please?--,"[Can/MD, I/PRP, have/VB, this/DT, please/VB, ?thank/VB, you/PRP]",(ROOT (SINV (MD Can) (NP (PRP I)) (VP (VB have) (S (NP (DT this)) (VP (VB please) (VP (VB ?thank) (NP (PRP you))))))))
 K/KD/KDM.xml,KDMRE01R,30506,6,,A,5,2,--thank you ,"[Can/MD, I/PRP, have/VB, this/DT, please/VB, ?thank/VB, you/PRP]",(ROOT (SINV (MD Can) (NP (PRP I)) (VP (VB have) (S (NP (DT this)) (VP (VB please) (VP (VB ?thank) (NP (PRP you))))))))
-K/KD/KDM.xml,KDMRE01R,30506,7,,B,6,1,<humming> ,[],X
+K/KD/KDM.xml,KDMRE01R,30506,7,,B,6,1,<humming> ,[],
 K/KD/KDM.xml,KDMRE01R,30506,8,,A,7,1,"Lovely, right","[Lovely/JJ, ,/,, right/JJ]","(ROOT (ADJP (JJ Lovely) (, ,) (JJ right)))"
 K/KD/KDM.xml,KDMRE01R,30506,9,,B,8,1,OK thank you,"[OK/JJ, thank/VB, you/PRP]",(ROOT (FRAG (ADJP (JJ OK)) (S (VP (VB thank) (NP (PRP you))))))

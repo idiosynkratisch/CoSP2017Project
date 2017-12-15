@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KC/KCD.xml,KCDRE03A,5405,0,,A,1,1,(()) ,[],X
+K/KC/KCD.xml,KCDRE03A,5405,0,,A,1,1,(()) ,[],
 K/KC/KCD.xml,KCDRE03A,5405,1,,B,2,1,Oh it was quite useful to find Half a Sixpence (()) .,"[Oh/UH, it/PRP, was/VBD, quite/RB, useful/JJ, to/TO, find/VB, Half/PDT, a/DT, Sixpence/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBD was) (ADJP (RB quite) (JJ useful) (S (VP (TO to) (VP (VB find) (NP (PDT Half) (DT a) (NN Sixpence)))))))) (. .)))
 K/KC/KCD.xml,KCDRE03A,5405,2,,A,3,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KC/KCD.xml,KCDRE03A,5405,3,,B,4,1,"she's not really a, sick for long.","[she/PRP, 's/VBZ, not/RB, really/RB, a/DT, ,/,, sick/JJ, for/IN, long/RB, ./.]","(ROOT (S (NP (PRP she)) (VP (VBZ 's) (RB not) (NP (NP (RB really) (DT a)) (, ,) (ADJP (JJ sick) (PP (IN for) (ADVP (RB long)))))) (. .)))"

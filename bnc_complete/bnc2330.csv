@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE02Y,2330,0,,A,1,1,I'm gonna ask Suzanna how Sarah's getting on tonight (()) .(()) ,"[I/PRP, 'm/VBP, gonna/NNP, ask/VB, Suzanna/NNP, how/WRB, Sarah/NNP, 's/POS, getting/VBG, on/IN, tonight/NN, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (S (NP (NNP gonna)) (VP (VB ask) (NP (NNP Suzanna)) (ADVP (WRB how)))))) (S (NP (NNP Sarah) (POS 's)) (VP (VBG getting) (PP (IN on) (NP (NN tonight))))) (. .)))
 K/KB/KBK.xml,KBKRE02Y,2330,1,,B,2,1,(()) the same time.,"[the/DT, same/JJ, time/NN, ./.]",(ROOT (NP (DT the) (JJ same) (NN time) (. .)))
-K/KB/KBK.xml,KBKRE02Y,2330,2,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02Y,2330,2,,A,3,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02Y,2330,3,,B,4,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE02Y,2330,4,,A,5,1,Not (()) .,"[Not/RB, ./.]",(ROOT (ADVP (RB Not) (. .)))
 K/KB/KBK.xml,KBKRE02Y,2330,5,,B,6,1,Whoops (()) .,"[Whoops/NNP, ./.]",(ROOT (FRAG (NP (NNP Whoops)) (. .)))

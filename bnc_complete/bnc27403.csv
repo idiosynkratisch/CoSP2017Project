@@ -3,7 +3,7 @@ K/KC/KCN.xml,KCNRE013,27403,0,,A,1,1,Won't be long then.,"[Won/VBN, 't/PRP, be/V
 K/KC/KCN.xml,KCNRE013,27403,1,,A,1,2,Ta ra Danny.,"[Ta/NNP, ra/NNP, Danny/NNP, ./.]",(ROOT (NP (NNP Ta) (NNP ra) (NNP Danny) (. .)))
 K/KC/KCN.xml,KCNRE013,27403,2,,B,2,1,Is this thing on?,"[Is/VBZ, this/DT, thing/NN, on/IN, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT this) (NN thing)) (ADVP (IN on)) (. ?)))
 K/KC/KCN.xml,KCNRE013,27403,3,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KC/KCN.xml,KCNRE013,27403,4,,B,4,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE013,27403,4,,B,4,1,(()) ,[],
 K/KC/KCN.xml,KCNRE013,27403,5,,A,5,1,(()) Won't be long.,"[Won/VBN, 't/PRP, be/VB, long/RB, ./.]",(ROOT (S (VP (VBN Won) (S (NP (PRP 't)) (VP (VB be) (ADJP (RB long))))) (. .)))
 K/KC/KCN.xml,KCNRE013,27403,6,,A,5,2,Can you see the moss?,"[Can/MD, you/PRP, see/VB, the/DT, moss/NNP, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB see) (NP (DT the) (NNP moss))) (. ?)))
 K/KC/KCN.xml,KCNRE013,27403,7,,A,5,3,Look.,"[Look/VB, ./.]",(ROOT (S (VP (VB Look)) (. .)))
@@ -21,7 +21,7 @@ K/KC/KCN.xml,KCNRE013,27403,18,,B,12,2,Clover all in it.,"[Clover/NN, all/RB, in
 K/KC/KCN.xml,KCNRE013,27403,19,,A,13,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCN.xml,KCNRE013,27403,20,,A,13,2,Well I'd rather have clover than bloody moss.,"[Well/RB, I/PRP, 'd/MD, rather/RB, have/VB, clover/NN, than/IN, bloody/JJ, moss/NNP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'd) (RB rather) (VP (VB have) (NP (NP (NN clover)) (PP (IN than) (NP (JJ bloody) (NNP moss)))))) (. .)))
 K/KC/KCN.xml,KCNRE013,27403,21,,A,13,3,I don't know what I can do with it.,"[I/PRP, don/VBP, 't/PRP, know/VB, what/WP, I/PRP, can/MD, do/VB, with/IN, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (MD can) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))) (. .)))
-K/KC/KCN.xml,KCNRE013,27403,22,,B,14,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE013,27403,22,,B,14,1,(()) ,[],
 K/KC/KCN.xml,KCNRE013,27403,23,,A,15,1,He won't.,"[He/PRP, won/VBD, 't/PRP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBD won) (NP (PRP 't))) (. .)))
 K/KC/KCN.xml,KCNRE013,27403,24,,A,15,2,I told him last summer about it.,"[I/PRP, told/VBD, him/PRP, last/JJ, summer/NN, about/IN, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (PRP him)) (NP (JJ last) (NN summer)) (PP (IN about) (NP (PRP it)))) (. .)))
 K/KC/KCN.xml,KCNRE013,27403,25,,B,16,1,Well I think it's cheating  (()) ,"[Well/RB, I/PRP, think/VBP, it/PRP, 's/VBZ, cheating/NN]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP I)) (SBAR (S (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NN cheating)))))))))))

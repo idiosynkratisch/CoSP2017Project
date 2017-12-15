@@ -2,10 +2,10 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KD/KDE.xml,KDERE00K,6903,0,,A,1,1,Oliver please don't do that to the flowers.,"[Oliver/NNP, please/VB, don/NNP, 't/PRP, do/VBP, that/DT, to/TO, the/DT, flowers/NNS, ./.]",(ROOT (S (NP (NNP Oliver)) (VP (VB please) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP do) (NP (DT that)) (PP (TO to) (NP (DT the) (NNS flowers)))))))) (. .)))
 K/KD/KDE.xml,KDERE00K,6903,1,,B,2,1,No (()) ,[No/DT],(ROOT (FRAG (NP (DT No))))
 K/KD/KDE.xml,KDERE00K,6903,2,,A,3,1,No I don't want you to do anything like that to the flowers at all.,"[No/DT, I/PRP, don/VBP, 't/PRP, want/VB, you/PRP, to/TO, do/VB, anything/NN, like/IN, that/DT, to/TO, the/DT, flowers/NNS, at/IN, all/DT, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (S (NP (PRP you)) (VP (TO to) (VP (VB do) (NP (NN anything)) (PP (IN like) (NP (NP (DT that)) (PP (TO to) (NP (DT the) (NNS flowers))))) (ADVP (IN at) (DT all)))))))) (. .)))
-K/KD/KDE.xml,KDERE00K,6903,3,,B,4,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00K,6903,3,,B,4,1,(()) ,[],
 K/KD/KDE.xml,KDERE00K,6903,4,,A,5,1,Well I'm sure they don't like you if you keep bashing them.,"[Well/RB, I/PRP, 'm/VBP, sure/JJ, they/PRP, don/VBP, 't/PRP, like/IN, you/PRP, if/IN, you/PRP, keep/VBP, bashing/VBG, them/PRP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (PRP they)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP you))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP keep) (S (VP (VBG bashing) (NP (PRP them)))))))))))) (. .)))
 K/KD/KDE.xml,KDERE00K,6903,5,,A,5,2,"Quickly, in the car.","[Quickly/RB, ,/,, in/IN, the/DT, car/NN, ./.]","(ROOT (FRAG (ADVP (RB Quickly)) (, ,) (ADVP (IN in) (NP (DT the) (NN car))) (. .)))"
-K/KD/KDE.xml,KDERE00K,6903,6,,B,6,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00K,6903,6,,B,6,1,(()) ,[],
 K/KD/KDE.xml,KDERE00K,6903,7,,A,7,1,"Come on, in you get.","[Come/VB, on/RP, ,/,, in/IN, you/PRP, get/VBP, ./.]","(ROOT (S (VP (VB Come) (ADVP (RP on)) (, ,) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP get))))) (. .)))"
 K/KD/KDE.xml,KDERE00K,6903,8,,B,8,1,I make them dead.,"[I/PRP, make/VBP, them/PRP, dead/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP make) (S (NP (PRP them)) (ADJP (JJ dead)))) (. .)))
 K/KD/KDE.xml,KDERE00K,6903,9,,A,9,1,"Come on, in you get.","[Come/VB, on/RP, ,/,, in/IN, you/PRP, get/VBP, ./.]","(ROOT (S (VP (VB Come) (ADVP (RP on)) (, ,) (SBAR (IN in) (S (NP (PRP you)) (VP (VBP get))))) (. .)))"

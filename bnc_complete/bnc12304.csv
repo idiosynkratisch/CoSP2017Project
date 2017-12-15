@@ -19,6 +19,6 @@ K/KD/KDA.xml,KDARE01H,12304,16,,B,12,1,No .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT N
 K/KD/KDA.xml,KDARE01H,12304,17,,B,12,2,Deck shoes.,"[Deck/NN, shoes/NNS, ./.]",(ROOT (NP (NN Deck) (NNS shoes) (. .)))
 K/KD/KDA.xml,KDARE01H,12304,18,,B,12,3,Everyone wears deck shoes but no-one wears plimsolls.,"[Everyone/NN, wears/VBZ, deck/NN, shoes/NNS, but/CC, no-one/JJ, wears/VBZ, plimsolls/NNS, ./.]",(ROOT (S (S (NP (NN Everyone)) (VP (VBZ wears) (NP (NN deck) (NNS shoes)))) (CC but) (S (NP (JJ no-one)) (VP (VBZ wears) (NP (NNS plimsolls)))) (. .)))
 K/KD/KDA.xml,KDARE01H,12304,19,,B,12,4,It's a fierce old colour that old boy.,"[It/PRP, 's/VBZ, a/DT, fierce/JJ, old/JJ, colour/NN, that/WDT, old/JJ, boy/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (JJ fierce) (JJ old)) (NN colour)) (SBAR (WHNP (WDT that)) (S (NP (JJ old) (NN boy)))))) (. .)))
-K/KD/KDA.xml,KDARE01H,12304,20,,A,13,1,<laugh> ,[],X
+K/KD/KDA.xml,KDARE01H,12304,20,,A,13,1,<laugh> ,[],
 K/KD/KDA.xml,KDARE01H,12304,21,,B,14,1,Very old.,"[Very/RB, old/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ old)) (. .)))
 K/KD/KDA.xml,KDARE01H,12304,22,,B,14,2,I've had them about two years and never really worn them.,"[I/PRP, 've/VBP, had/VBD, them/PRP, about/IN, two/CD, years/NNS, and/CC, never/RB, really/RB, worn/VBN, them/PRP, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBD had) (NP (PRP them)) (PP (IN about) (NP (CD two) (NNS years)))))) (CC and) (S (ADVP (RB never)) (VP (ADVP (RB really)) (VBN worn) (NP (PRP them)))) (. .)))

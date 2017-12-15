@@ -7,7 +7,7 @@ K/KC/KCM.xml,KCMRE002,53204,4,,B,2,1,Ooh!,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP 
 K/KC/KCM.xml,KCMRE002,53204,5,,A,3,1,Jono   --,"[Jono/NNP, Jon/NNP, ./.]",(ROOT (NP (NNP Jono) (NNP Jon) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,6,,A,3,2,--(()) Jon.,"[Jono/NNP, Jon/NNP, ./.]",(ROOT (NP (NNP Jono) (NNP Jon) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,7,,A,3,3,<laugh> Is it twenty?(()) ,"[Is/VBZ, it/PRP, twenty/CD, ?/.]",(ROOT (S (VP (VBZ Is) (NP (NP (PRP it)) (ADJP (CD twenty)))) (. ?)))
-K/KC/KCM.xml,KCMRE002,53204,8,,B,4,1,(()) ,[],X
+K/KC/KCM.xml,KCMRE002,53204,8,,B,4,1,(()) ,[],
 K/KC/KCM.xml,KCMRE002,53204,9,,A,5,1,Afraid it is.,"[Afraid/JJ, it/PRP, is/VBZ, ./.]",(ROOT (S (ADJP (JJ Afraid)) (NP (PRP it)) (VP (VBZ is)) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,10,,A,5,2,Ooh  --,"[Ooh/NNP, yes/UH, !/.]",(ROOT (S (VP (PP (NNP Ooh) (NP (UH yes)))) (. !)))
 K/KC/KCM.xml,KCMRE002,53204,11,,A,5,3,--yes!,"[Ooh/NNP, yes/UH, !/.]",(ROOT (S (VP (PP (NNP Ooh) (NP (UH yes)))) (. !)))
@@ -18,7 +18,7 @@ K/KC/KCM.xml,KCMRE002,53204,15,,B,6,1,<laughing> Hundred and forty </laughing> ,
 K/KC/KCM.xml,KCMRE002,53204,16,,A,7,1,Hundred and forty left.,"[Hundred/CD, and/CC, forty/CD, left/VBN, ./.]",(ROOT (S (NP (CD Hundred) (CC and) (CD forty)) (VP (VBN left)) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,17,,A,7,2,Treble twenty.,"[Treble/NNP, twenty/CD, ./.]",(ROOT (NP (NP (NNP Treble)) (NP (CD twenty)) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,18,,A,7,3,Ooh ,[Ooh/NNP],(ROOT (NP (NNP Ooh)))
-K/KC/KCM.xml,KCMRE002,53204,19,,B,8,1,(()) ,[],X
+K/KC/KCM.xml,KCMRE002,53204,19,,B,8,1,(()) ,[],
 K/KC/KCM.xml,KCMRE002,53204,20,,A,9,1,And the tops!(()) ,"[And/CC, the/DT, tops/NNS, !/.]",(ROOT (FRAG (CC And) (SBAR (WHNP (DT the)) (FRAG (NP (NNS tops)))) (. !)))
 K/KC/KCM.xml,KCMRE002,53204,21,,B,10,1,Ooh thirty eighty scored.,"[Ooh/NNP, thirty/CD, eighty/CD, scored/VBN, ./.]",(ROOT (S (NP (NP (NNP Ooh) (CD thirty)) (NP (CD eighty))) (VP (VBN scored)) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,22,,A,11,1,Jono,[Jono/NNP],(ROOT (NP (NNP Jono)))
@@ -29,7 +29,7 @@ K/KC/KCM.xml,KCMRE002,53204,26,,B,12,4,--thirty eight (()) ,"[Four/CD, O/NN, thr
 K/KC/KCM.xml,KCMRE002,53204,27,,A,13,1,Hey these look good on my darts.,"[Hey/UH, these/DT, look/VBP, good/JJ, on/IN, my/PRP$, darts/NN, ./.]",(ROOT (S (S (INTJ (UH Hey)) (NP (DT these)) (VP (VBP look) (ADJP (JJ good)) (PP (IN on) (NP (PRP$ my) (NN darts))))) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,28,,A,13,2,(()) fit  --,"[fit/VB, Just/RB, get/VB, out/IN, of/IN, my/PRP$, way/NN, ./.]",(ROOT (S (VP (VB fit) (RB Just) (VP (VB get) (PRT (IN out)) (PP (IN of) (NP (PRP$ my) (NN way))))) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,29,,A,13,3,--Just get out of my way.,"[fit/VB, Just/RB, get/VB, out/IN, of/IN, my/PRP$, way/NN, ./.]",(ROOT (S (VP (VB fit) (RB Just) (VP (VB get) (PRT (IN out)) (PP (IN of) (NP (PRP$ my) (NN way))))) (. .)))
-K/KC/KCM.xml,KCMRE002,53204,30,,B,14,1,<laugh> ,[],X
+K/KC/KCM.xml,KCMRE002,53204,30,,B,14,1,<laugh> ,[],
 K/KC/KCM.xml,KCMRE002,53204,31,,A,15,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KC/KCM.xml,KCMRE002,53204,32,,A,15,2,Yes!,"[Yes/UH, !/.]",(ROOT (INTJ (UH Yes) (. !)))
 K/KC/KCM.xml,KCMRE002,53204,33,,A,15,3,Sixty.,"[Sixty/CD, ./.]",(ROOT (FRAG (NP (CD Sixty)) (. .)))

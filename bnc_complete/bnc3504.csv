@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KCV.xml,KCVRE00R,3504,0,,A,1,1,"Hello tape,<laugh> ","[Hello/UH, tape/NN, ,/,]","(ROOT (FRAG (PP (UH Hello) (NP (NN tape))) (, ,)))"
-K/KC/KCV.xml,KCVRE00R,3504,1,,B,2,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00R,3504,1,,B,2,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00R,3504,2,,A,3,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KC/KCV.xml,KCVRE00R,3504,3,,B,4,1,One does forget it.,"[One/CD, does/VBZ, forget/VB, it/PRP, ./.]",(ROOT (S (NP (CD One)) (VP (VBZ does) (VP (VB forget) (NP (PRP it)))) (. .)))
 K/KC/KCV.xml,KCVRE00R,3504,4,,A,5,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
@@ -16,12 +16,12 @@ K/KC/KCV.xml,KCVRE00R,3504,13,,B,12,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) 
 K/KC/KCV.xml,KCVRE00R,3504,14,,B,12,2,"Oh I know, no.","[Oh/UH, I/PRP, know/VBP, ,/,, no/DT, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP know))) (, ,) (FRAG (NP (DT no))) (. .)))"
 K/KC/KCV.xml,KCVRE00R,3504,15,,A,13,1,But it's just (()) .,"[But/CC, it/PRP, 's/VBZ, just/RB, ./.]",(ROOT (S (CC But) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just))) (. .)))
 K/KC/KCV.xml,KCVRE00R,3504,16,,B,14,1,I did (()) .,"[I/PRP, did/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD did)) (. .)))
-K/KC/KCV.xml,KCVRE00R,3504,17,,A,15,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00R,3504,17,,A,15,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00R,3504,18,,B,16,1,"Yeah, but, they're anyway numbered, what does it matter, you know, it's just a number.","[Yeah/UH, ,/,, but/CC, ,/,, they/PRP, 're/VBP, anyway/RB, numbered/VBN, ,/,, what/WP, does/VBZ, it/PRP, matter/NN, ,/,, you/PRP, know/VBP, ,/,, it/PRP, 's/VBZ, just/RB, a/DT, number/NN, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (S (ADVP (CC but)) (, ,) (NP (PRP they)) (VP (VBP 're) (ADVP (RB anyway)) (VP (VBN numbered)))) (, ,) (S (SBAR (WHNP (WP what)) (S (VP (VBZ does) (S (NP (PRP it)) (VP (NN matter)))))) (, ,) (NP (PRP you)) (VP (VBP know)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (NP (DT a) (NN number))) (. .)))"
 K/KC/KCV.xml,KCVRE00R,3504,19,,A,17,1,"I know,(()) .","[I/PRP, know/VBP, ,/,, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP know)) (, ,)) (. .)))"
 K/KC/KCV.xml,KCVRE00R,3504,20,,B,18,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KC/KCV.xml,KCVRE00R,3504,21,,A,19,1,"Yeah, well.","[Yeah/UH, ,/,, well/RB, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (. .)))"
-K/KC/KCV.xml,KCVRE00R,3504,22,,B,20,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00R,3504,22,,B,20,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00R,3504,23,,A,21,1,"It, it has been (()) , anyhow they're  (()) about having the thing and","[It/PRP, ,/,, it/PRP, has/VBZ, been/VBN, ,/,, anyhow/IN, they/PRP, 're/VBP, about/IN, having/VBG, the/DT, thing/NN, and/CC]","(ROOT (NP (S (NP (PRP It)) (, ,) (NP (PRP it)) (VP (VBZ has) (VP (VBN been) (VP (, ,) (SBAR (IN anyhow) (S (NP (PRP they)) (VP (VBP 're) (VP (IN about) (S (VP (VBG having) (NP (DT the) (NX (NX (NN thing)) (CC and)))))))))))))))"
 K/KC/KCV.xml,KCVRE00R,3504,24,,B,22,1,So they don't really do it any more?,"[So/IN, they/PRP, don/VBP, 't/PRP, really/RB, do/VBP, it/PRP, any/DT, more/JJR, ?/.]",(ROOT (S (IN So) (NP (PRP they)) (VP (VBP don) (SBAR (S (NP (PRP 't)) (ADVP (RB really)) (VP (VBP do) (NP (PRP it)) (ADVP (DT any) (JJR more)))))) (. ?)))
 K/KC/KCV.xml,KCVRE00R,3504,25,,A,23,1,"And so, well they, sometimes do it,(()) , because it's not very, always they're really on it.","[And/CC, so/RB, ,/,, well/RB, they/PRP, ,/,, sometimes/RB, do/VBP, it/PRP, ,/,, ,/,, because/IN, it/PRP, 's/VBZ, not/RB, very/RB, ,/,, always/RB, they/PRP, 're/VBP, really/RB, on/IN, it/PRP, ./.]","(ROOT (S (CC And) (SBAR (RB so) (S (, ,) (PP (RB well) (NP (PRP they))) (, ,) (VP (ADVP (RB sometimes)) (VBP do) (NP (PRP it))))) (, ,) (PRN (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB not) (RB very))))) (, ,)) (ADVP (RB always)) (NP (PRP they)) (VP (VBP 're) (ADVP (RB really)) (PP (IN on) (NP (PRP it)))) (. .)))"
@@ -41,7 +41,7 @@ K/KC/KCV.xml,KCVRE00R,3504,38,,B,30,1,"Yes it's (()) , that's about, I come from
 K/KC/KCV.xml,KCVRE00R,3504,39,,B,30,2,"--Brussels, I (()) .","[Yes/UH, it/PRP, 's/VBZ, ,/,, that/DT, 's/VBZ, about/RB, ,/,, I/PRP, come/VBP, from/IN, Bru-/JJ, Brussels/NNP, ,/,, I/PRP, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ 's) (, ,) (SBAR (S (NP (DT that)) (VP (VBZ 's) (RB about)))))) (, ,) (NP (PRP I)) (VP (VBP come) (PP (IN from) (NP (NP (JJ Bru-) (NNP Brussels)) (, ,) (NP (PRP I))))) (. .)))"
 K/KC/KCV.xml,KCVRE00R,3504,40,,A,31,1,"(()) five, five or six.","[five/CD, ,/,, five/CD, or/CC, six/CD, ./.]","(ROOT (NP (NP (CD five)) (, ,) (NP (CD five) (CC or) (CD six)) (. .)))"
 K/KC/KCV.xml,KCVRE00R,3504,41,,B,32,1,(()) do you know what it is?,"[do/VB, you/PRP, know/VB, what/WP, it/PRP, is/VBZ, ?/.]",(ROOT (SQ (VP (VB do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is))))))) (. ?)))
-K/KC/KCV.xml,KCVRE00R,3504,42,,A,33,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00R,3504,42,,A,33,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00R,3504,43,,B,34,1,"Yes, eh (()) .","[Yes/UH, ,/,, eh/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH eh) (. .))))"
-K/KC/KCV.xml,KCVRE00R,3504,44,,A,35,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00R,3504,44,,A,35,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00R,3504,45,,B,36,1,"(()) And when I came, erm, the first, first month I came to Brussels I thought oh (()) .","[And/CC, when/WRB, I/PRP, came/VBD, ,/,, erm/NN, ,/,, the/DT, first/JJ, ,/,, first/JJ, month/NN, I/PRP, came/VBD, to/TO, Brussels/NNP, I/PRP, thought/VBD, oh/UH, ./.]","(ROOT (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VP (VBD came)) (, ,) (NP (NP (NN erm)) (, ,) (NP (NP (DT the) (JJ first) (, ,) (JJ first) (NN month)) (SBAR (S (NP (PRP I)) (VP (VBD came) (PP (TO to) (NP (NNP Brussels))))))))))) (NP (PRP I)) (VP (VBD thought) (INTJ (UH oh))) (. .)))"

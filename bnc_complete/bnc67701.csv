@@ -75,7 +75,7 @@ K/KP/KPJ.xml,KPJRE000,67701,72,,B,28,2,"Well if he's done the building then, yea
 K/KP/KPJ.xml,KPJRE000,67701,73,,A,29,1,Carole's got it.,"[Carole/NNP, 's/POS, got/VBD, it/PRP, ./.]",(ROOT (S (NP (NNP Carole) (POS 's)) (VP (VBD got) (NP (PRP it))) (. .)))
 K/KP/KPJ.xml,KPJRE000,67701,74,,A,29,2,Cos she's got this  --,"[Cos/NN, she/PRP, 's/VBZ, got/VBN, this/DT, and/CC, exchange/NN]",(ROOT (FRAG (NP (NP (NN Cos)) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (NP (DT this)) (CC and) (NP (NN exchange))))))))))
 K/KP/KPJ.xml,KPJRE000,67701,75,,A,29,3,--and exchange ,"[Cos/NN, she/PRP, 's/VBZ, got/VBN, this/DT, and/CC, exchange/NN]",(ROOT (FRAG (NP (NP (NN Cos)) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (NP (DT this)) (CC and) (NP (NN exchange))))))))))
-K/KP/KPJ.xml,KPJRE000,67701,76,,B,30,1,(()) ,[],X
+K/KP/KPJ.xml,KPJRE000,67701,76,,B,30,1,(()) ,[],
 K/KP/KPJ.xml,KPJRE000,67701,77,,A,31,1,it.,"[it/PRP, ./.]",(ROOT (FRAG (NP (PRP it)) (. .)))
 K/KP/KPJ.xml,KPJRE000,67701,78,,B,32,1,Aye.,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
 K/KP/KPJ.xml,KPJRE000,67701,79,,A,33,1,Cos she's got a hundred pound,"[Cos/NN, she/PRP, 's/VBZ, got/VBD, a/DT, hundred/CD, pound/NN]",(ROOT (S (NP (NP (NN Cos)) (SBAR (S (NP (PRP she)) (VP (VBZ 's))))) (VP (VBD got) (NP (DT a) (CD hundred) (NN pound)))))
@@ -214,7 +214,7 @@ K/KP/KPJ.xml,KPJRE000,67701,211,,B,98,1,"Well kind, what kind did she say?","[We
 K/KP/KPJ.xml,KPJRE000,67701,212,,A,99,1,I think she's getting worse!,"[I/PRP, think/VBP, she/PRP, 's/VBZ, getting/VBG, worse/JJR, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJR worse))))))) (. !)))
 K/KP/KPJ.xml,KPJRE000,67701,213,,A,99,2,But he thought this is a big surprise then.,"[But/CC, he/PRP, thought/VBD, this/DT, is/VBZ, a/DT, big/JJ, surprise/NN, then/RB, ./.]",(ROOT (S (CC But) (NP (PRP he)) (VP (VBD thought) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT a) (JJ big) (NN surprise)) (ADVP (RB then)))))) (. .)))
 K/KP/KPJ.xml,KPJRE000,67701,214,,A,99,3,Especially when he was trying to get off with her.,"[Especially/RB, when/WRB, he/PRP, was/VBD, trying/VBG, to/TO, get/VB, off/RP, with/IN, her/PRP, ./.]",(ROOT (FRAG (ADVP (RB Especially)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBG trying) (S (VP (TO to) (VP (VB get) (PRT (RP off)) (PP (IN with) (NP (PRP her)))))))))) (. .)))
-K/KP/KPJ.xml,KPJRE000,67701,215,,B,100,1,<laugh> ,[],X
+K/KP/KPJ.xml,KPJRE000,67701,215,,B,100,1,<laugh> ,[],
 K/KP/KPJ.xml,KPJRE000,67701,216,,A,101,1,Aye.,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
 K/KP/KPJ.xml,KPJRE000,67701,217,,A,101,2,<laugh> --,"[Aye/NNP, ,/,, that/DT, 's/VBZ, ./.]","(ROOT (S (NP (NNP Aye)) (, ,) (NP (DT that)) (VP (VBZ 's)) (. .)))"
 K/KP/KPJ.xml,KPJRE000,67701,218,,A,101,3,"--Aye, that's (()) .","[Aye/NNP, ,/,, that/DT, 's/VBZ, ./.]","(ROOT (S (NP (NNP Aye)) (, ,) (NP (DT that)) (VP (VBZ 's)) (. .)))"

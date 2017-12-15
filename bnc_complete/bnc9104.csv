@@ -48,7 +48,7 @@ K/KB/KBE.xml,KBERE003,9104,45,,B,30,1,One two three four five.,"[One/CD, two/CD,
 K/KB/KBE.xml,KBERE003,9104,46,,A,31,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBE.xml,KBERE003,9104,47,,A,31,2,That's the grill.--,"[That/DT, 's/VBZ, the/DT, grill/NNP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT the) (NNP grill))) (. .)))
 K/KB/KBE.xml,KBERE003,9104,48,,A,31,3,--<tv on> ,"[That/DT, 's/VBZ, the/DT, grill/NNP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT the) (NNP grill))) (. .)))
-K/KB/KBE.xml,KBERE003,9104,49,,B,32,1,(()) ,[],X
+K/KB/KBE.xml,KBERE003,9104,49,,B,32,1,(()) ,[],
 K/KB/KBE.xml,KBERE003,9104,50,,A,33,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
 K/KB/KBE.xml,KBERE003,9104,51,,A,33,2,I can feel heat but  --,"[I/PRP, can/MD, feel/VB, heat/NN, but/CC, I/PRP, don/VBP, 't/PRP, know/VB, what/WP, it/PRP, is/VBZ, ?/.]",(ROOT (S (S (NP (PRP I)) (VP (MD can) (VP (VB feel) (NP (NN heat))))) (CC but) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is)))))))) (. ?)))
 K/KB/KBE.xml,KBERE003,9104,52,,A,33,3,--I don't know what it is?,"[I/PRP, can/MD, feel/VB, heat/NN, but/CC, I/PRP, don/VBP, 't/PRP, know/VB, what/WP, it/PRP, is/VBZ, ?/.]",(ROOT (S (S (NP (PRP I)) (VP (MD can) (VP (VB feel) (NP (NN heat))))) (CC but) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is)))))))) (. ?)))

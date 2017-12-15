@@ -7,7 +7,7 @@ K/KB/KBS.xml,KBSRE000,54602,4,,A,3,3,<goes into another room> Are we alright for
 K/KB/KBS.xml,KBSRE000,54602,5,,B,4,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBS.xml,KBSRE000,54602,6,,A,5,1,(()) whatever it is you wanted  (()) bread.(()) ,"[whatever/WDT, it/PRP, is/VBZ, you/PRP, wanted/VBD, bread/NN, ./.]",(ROOT (S (SBAR (WHNP (WDT whatever)) (S (NP (PRP it)) (VP (VBZ is) (NP (PRP you))))) (VP (VBD wanted) (NP (NN bread))) (. .)))
 K/KB/KBS.xml,KBSRE000,54602,7,,B,6,1,These are heavy.,"[These/DT, are/VBP, heavy/JJ, ./.]",(ROOT (S (NP (DT These)) (VP (VBP are) (ADJP (JJ heavy))) (. .)))
-K/KB/KBS.xml,KBSRE000,54602,8,,A,7,1,(()) ,[],X
+K/KB/KBS.xml,KBSRE000,54602,8,,A,7,1,(()) ,[],
 K/KB/KBS.xml,KBSRE000,54602,9,,B,8,1,Would you rather do without the cushion?,"[Would/MD, you/PRP, rather/RB, do/VBP, without/IN, the/DT, cushion/NN, ?/.]",(ROOT (S (S (VP (MD Would))) (NP (PRP you)) (VP (ADVP (RB rather)) (VBP do) (PP (IN without) (NP (DT the) (NN cushion)))) (. ?)))
 K/KB/KBS.xml,KBSRE000,54602,10,,A,9,1,"No I, without what?","[No/DT, I/PRP, ,/,, without/IN, what/WP, ?/.]","(ROOT (NP (NP (DT No) (PRP I)) (PRN (, ,) (PP (IN without) (WHNP (WP what)))) (. ?)))"
 K/KB/KBS.xml,KBSRE000,54602,11,,B,10,1,A cushion.,"[A/DT, cushion/NN, ./.]",(ROOT (NP (DT A) (NN cushion) (. .)))

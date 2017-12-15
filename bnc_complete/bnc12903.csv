@@ -3,9 +3,9 @@ K/KD/KDA.xml,KDARE02G,12903,0,,A,1,1,"What time is it chaps, please?","[What/WDT
 K/KD/KDA.xml,KDARE02G,12903,1,,B,2,1,About half eleven.,"[About/IN, half/NN, eleven/NNS, ./.]",(ROOT (FRAG (PP (IN About) (NP (NN half) (NNS eleven))) (. .)))
 K/KD/KDA.xml,KDARE02G,12903,2,,B,2,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KDA.xml,KDARE02G,12903,3,,B,2,3,Something like that.,"[Something/NN, like/IN, that/DT, ./.]",(ROOT (NP (NP (NN Something)) (PP (IN like) (NP (DT that))) (. .)))
-K/KD/KDA.xml,KDARE02G,12903,4,,B,2,4,(()) ,[],X
+K/KD/KDA.xml,KDARE02G,12903,4,,B,2,4,(()) ,[],
 K/KD/KDA.xml,KDARE02G,12903,5,,B,2,5,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
-K/KD/KDA.xml,KDARE02G,12903,6,,B,2,6,(()) ,[],X
+K/KD/KDA.xml,KDARE02G,12903,6,,B,2,6,(()) ,[],
 K/KD/KDA.xml,KDARE02G,12903,7,,A,3,1,Seven thirty seven?,"[Seven/CD, thirty/CD, seven/CD, ?/.]",(ROOT (FRAG (NP (CD Seven)) (NP (CD thirty) (CD seven)) (. ?)))
-K/KD/KDA.xml,KDARE02G,12903,8,,B,4,1,(()) ,[],X
+K/KD/KDA.xml,KDARE02G,12903,8,,B,4,1,(()) ,[],
 K/KD/KDA.xml,KDARE02G,12903,9,,A,5,1,It's a happy (()) !,"[It/PRP, 's/VBZ, a/DT, happy/JJ, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (DT a) (JJ happy))) (. !)))

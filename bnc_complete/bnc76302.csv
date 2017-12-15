@@ -12,7 +12,7 @@ K/KC/KCH.xml,KCHRE008,76302,9,,A,7,4,--you keep your eye on it so that when your
 K/KC/KCH.xml,KCHRE008,76302,10,,A,7,5,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KC/KCH.xml,KCHRE008,76302,11,,A,7,6,What to do?,"[What/WP, to/TO, do/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (S (VP (TO to) (VP (VB do)))) (. ?)))
 K/KC/KCH.xml,KCHRE008,76302,12,,B,8,1,Well it's,"[Well/RB, it/PRP, 's/VBZ]",(ROOT (FRAG (X (ADVP (RB Well)) (NP (PRP it))) (VP (VBZ 's))))
-K/KC/KCH.xml,KCHRE008,76302,13,,A,9,1,(()) ,[],X
+K/KC/KCH.xml,KCHRE008,76302,13,,A,9,1,(()) ,[],
 K/KC/KCH.xml,KCHRE008,76302,14,,B,10,1,that way you need it.,"[that/DT, way/NN, you/PRP, need/VBP, it/PRP, ./.]",(ROOT (S (NP (DT that) (NN way)) (NP (PRP you)) (VP (VBP need) (NP (PRP it))) (. .)))
 K/KC/KCH.xml,KCHRE008,76302,15,,B,10,2,I want a table for this.,"[I/PRP, want/VBP, a/DT, table/NN, for/IN, this/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP want) (NP (NP (DT a) (NN table)) (PP (IN for) (NP (DT this))))) (. .)))
 K/KC/KCH.xml,KCHRE008,76302,16,,A,11,1,Well you can't use these tables.,"[Well/RB, you/PRP, can/MD, 't/PRP, use/VB, these/DT, tables/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (MD can) (NP (PRP 't)) (S (VP (VB use) (NP (DT these) (NNS tables))))) (. .)))
@@ -67,7 +67,7 @@ K/KC/KCH.xml,KCHRE008,76302,64,,B,40,1,It's easier and easier.,"[It/PRP, 's/VBZ,
 K/KC/KCH.xml,KCHRE008,76302,65,,A,41,1,Well it doesn't look easy.,"[Well/RB, it/PRP, doesn/VBD, 't/PRP, look/VB, easy/JJ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB look) (ADJP (JJ easy))))) (. .)))
 K/KC/KCH.xml,KCHRE008,76302,66,,A,41,2,"Look, I'll do the usual.","[Look/VB, ,/,, I/PRP, 'll/MD, do/VB, the/DT, usual/JJ, ./.]","(ROOT (S (S (VP (VB Look))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB do) (NP (DT the) (JJ usual)))) (. .)))"
 K/KC/KCH.xml,KCHRE008,76302,67,,A,41,3,Let me write you down some sums.,"[Let/VB, me/PRP, write/VB, you/PRP, down/IN, some/DT, sums/NNS, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP me)) (VP (VB write) (NP (PRP you)) (PP (IN down) (NP (DT some) (NNS sums)))))) (. .)))
-K/KC/KCH.xml,KCHRE008,76302,68,,B,42,1,(()) ,[],X
+K/KC/KCH.xml,KCHRE008,76302,68,,B,42,1,(()) ,[],
 K/KC/KCH.xml,KCHRE008,76302,69,,A,43,1,"And you, you can answer them.","[And/CC, you/PRP, ,/,, you/PRP, can/MD, answer/VB, them/PRP, ./.]","(ROOT (S (CC And) (NP (PRP you)) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB answer) (NP (PRP them)))) (. .)))"
 K/KC/KCH.xml,KCHRE008,76302,70,,B,44,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
 K/KC/KCH.xml,KCHRE008,76302,71,,A,45,1,Sorry.,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))

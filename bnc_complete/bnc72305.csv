@@ -3,12 +3,12 @@ K/KB/KBM.xml,KBMRE004,72305,0,,A,1,1,on her face.,"[on/IN, her/PRP$, face/NN, ./
 K/KB/KBM.xml,KBMRE004,72305,1,,B,2,1,She has not!,"[She/PRP, has/VBZ, not/RB, !/.]",(ROOT (S (NP (PRP She)) (VP (VBZ has) (RB not)) (. !)))
 K/KB/KBM.xml,KBMRE004,72305,2,,A,3,1,Well Carl she hasn't got spots all over her face.,"[Well/RB, Carl/NNP, she/PRP, hasn/VBP, 't/PRP, got/VBD, spots/NNS, all/DT, over/IN, her/PRP$, face/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (NNP Carl) (PRP she)) (VP (VBP hasn) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (NNS spots)) (PP (DT all) (IN over) (NP (PRP$ her) (NN face))))))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,3,,B,4,1,She has not got very bad ,"[She/PRP, has/VBZ, not/RB, got/VBN, very/RB, bad/JJ]",(ROOT (S (NP (PRP She)) (VP (VBZ has) (RB not) (VP (VBN got) (S (ADJP (RB very) (JJ bad)))))))
-K/KB/KBM.xml,KBMRE004,72305,4,,A,5,1,<clears throat> ,[],X
+K/KB/KBM.xml,KBMRE004,72305,4,,A,5,1,<clears throat> ,[],
 K/KB/KBM.xml,KBMRE004,72305,5,,B,6,1,They are not noticeable.,"[They/PRP, are/VBP, not/RB, noticeable/JJ, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP are) (RB not) (ADJP (JJ noticeable))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,6,,A,7,1,Oh no!,"[Oh/UH, no/DT, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. !)))
 K/KB/KBM.xml,KBMRE004,72305,7,,A,7,2,"That's make-up, make-up like that sticks (()) .","[That/DT, 's/VBZ, make-up/NN, ,/,, make-up/NN, like/IN, that/DT, sticks/VBZ, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (NN make-up)))) (, ,) (NP (NP (NN make-up)) (PP (IN like) (NP (DT that)))) (VP (VBZ sticks)) (. .)))"
 K/KB/KBM.xml,KBMRE004,72305,8,,B,8,1,Oh well ,"[Oh/UH, well/RB]",(ROOT (INTJ (UH Oh) (RB well)))
-K/KB/KBM.xml,KBMRE004,72305,9,,A,9,1,<scream> ,[],X
+K/KB/KBM.xml,KBMRE004,72305,9,,A,9,1,<scream> ,[],
 K/KB/KBM.xml,KBMRE004,72305,10,,B,10,1,wanted to make a  (()) they have on the,"[wanted/VBN, to/TO, make/VB, a/DT, they/PRP, have/VBP, on/IN, the/DT]",(ROOT (VP (VBN wanted) (S (VP (TO to) (VP (VB make) (NP (DT a) (S (NP (PRP they)) (VP (VBP have) (ADVP (IN on) (DT the))))))))))
 K/KB/KBM.xml,KBMRE004,72305,11,,A,11,1,The same skin.,"[The/DT, same/JJ, skin/NN, ./.]",(ROOT (NP (DT The) (JJ same) (NN skin) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,12,,A,11,2,There isn't ,"[There/EX, isn/SYM, 't/PRP]",(ROOT (S (NP (EX There)) (VP (SYM isn) (NP (PRP 't)))))
@@ -61,10 +61,10 @@ K/KB/KBM.xml,KBMRE004,72305,58,,A,41,1,A weak,"[A/DT, weak/JJ]",(ROOT (FRAG (S (
 K/KB/KBM.xml,KBMRE004,72305,59,,B,42,1,No!,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
 K/KB/KBM.xml,KBMRE004,72305,60,,A,43,1,I'm not Chris.,"[I/PRP, 'm/VBP, not/RB, Chris/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (NP (NNP Chris))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,61,,B,44,1,You're not.,"[You/PRP, 're/VBP, not/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (RB not)) (. .)))
-K/KB/KBM.xml,KBMRE004,72305,62,,A,45,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE004,72305,62,,A,45,1,(()) ,[],
 K/KB/KBM.xml,KBMRE004,72305,63,,B,46,1,But  --,"[But/CC, something/NN, else/RB, as/RB, well/RB, ./.]",(ROOT (FRAG (CC But) (NP (NP (NN something)) (ADJP (RB else)) (PP (RB as) (ADVP (RB well)))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,64,,B,46,2,--something else as well.,"[But/CC, something/NN, else/RB, as/RB, well/RB, ./.]",(ROOT (FRAG (CC But) (NP (NP (NN something)) (ADJP (RB else)) (PP (RB as) (ADVP (RB well)))) (. .)))
-K/KB/KBM.xml,KBMRE004,72305,65,,A,47,1,<clears throat> ,[],X
+K/KB/KBM.xml,KBMRE004,72305,65,,A,47,1,<clears throat> ,[],
 K/KB/KBM.xml,KBMRE004,72305,66,,B,48,1,I can't think of one.,"[I/PRP, can/MD, 't/PRP, think/VB, of/IN, one/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB think) (PP (IN of) (NP (CD one)))))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,67,,A,49,1,That's (()) .,"[That/DT, 's/VBZ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's)) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,68,,A,49,2,<clears throat> --,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
@@ -83,7 +83,7 @@ K/KB/KBM.xml,KBMRE004,72305,80,,A,49,14,--will you go get a blood test?,"[Oh/UH,
 K/KB/KBM.xml,KBMRE004,72305,81,,B,50,1,Will I go and get one?,"[Will/MD, I/PRP, go/VB, and/CC, get/VB, one/CD, ?/.]",(ROOT (SQ (MD Will) (NP (PRP I)) (VP (VB go) (CC and) (VB get) (NP (CD one))) (. ?)))
 K/KB/KBM.xml,KBMRE004,72305,82,,A,51,1,<clears throat> Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,83,,B,52,1,Suppose so.,"[Suppose/VB, so/RB, ./.]",(ROOT (S (VP (VB Suppose) (ADVP (RB so))) (. .)))
-K/KB/KBM.xml,KBMRE004,72305,84,,A,53,1,<laugh> ,[],X
+K/KB/KBM.xml,KBMRE004,72305,84,,A,53,1,<laugh> ,[],
 K/KB/KBM.xml,KBMRE004,72305,85,,B,54,1,I'll go to my nice doctor who won't  --,"[I/PRP, 'll/MD, go/VB, to/TO, my/PRP$, nice/JJ, doctor/NN, who/WP, won/VBD, 't/PRP, he/PRP, 'll/MD, be/VB, nice/JJ, and/CC, gentle/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (PP (TO to) (NP (NP (PRP$ my) (JJ nice) (NN doctor)) (SBAR (WHNP (WP who)) (S (VP (VBD won) (NP (PRP 't)) (SBAR (S (NP (PRP he)) (VP (MD 'll) (VP (VB be) (ADJP (JJ nice) (CC and) (JJ gentle))))))))))))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,86,,B,54,2,--he'll be nice and gentle.,"[I/PRP, 'll/MD, go/VB, to/TO, my/PRP$, nice/JJ, doctor/NN, who/WP, won/VBD, 't/PRP, he/PRP, 'll/MD, be/VB, nice/JJ, and/CC, gentle/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (PP (TO to) (NP (NP (PRP$ my) (JJ nice) (NN doctor)) (SBAR (WHNP (WP who)) (S (VP (VBD won) (NP (PRP 't)) (SBAR (S (NP (PRP he)) (VP (MD 'll) (VP (VB be) (ADJP (JJ nice) (CC and) (JJ gentle))))))))))))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,87,,B,54,3,I'm supposed to go for one tomorrow actually but can't be bothered.,"[I/PRP, 'm/VBP, supposed/VBN, to/TO, go/VB, for/IN, one/CD, tomorrow/NN, actually/RB, but/CC, can/MD, 't/PRP, be/VB, bothered/VBN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBN supposed) (S (VP (TO to) (VP (VB go) (PP (IN for) (NP (CD one) (NN tomorrow))) (ADVP (RB actually))))) (SBAR (SINV (CC but) (MD can) (NP (PRP 't)) (VP (VB be) (VP (VBN bothered))))))) (. .)))
@@ -98,7 +98,7 @@ K/KB/KBM.xml,KBMRE004,72305,95,,B,60,1,"No, how long's it take to know?","[No/DT
 K/KB/KBM.xml,KBMRE004,72305,96,,A,61,1,Oh right.,"[Oh/UH, right/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,97,,A,61,2,I think it's about a week or something.,"[I/PRP, think/VBP, it/PRP, 's/VBZ, about/IN, a/DT, week/NN, or/CC, something/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN about) (NP (DT a) (NN week) (CC or) (NN something))))))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,98,,A,61,3,I dunno.,"[I/PRP, dunno/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP dunno)) (. .)))
-K/KB/KBM.xml,KBMRE004,72305,99,,B,62,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE004,72305,99,,B,62,1,(()) ,[],
 K/KB/KBM.xml,KBMRE004,72305,100,,A,63,1,Tha- I'm not quite sure.,"[Tha-/NN, I/PRP, 'm/VBP, not/RB, quite/RB, sure/JJ, ./.]",(ROOT (S (NP (NN Tha-)) (NP (PRP I)) (VP (VBP 'm) (RB not) (ADJP (RB quite) (JJ sure))) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,101,,A,63,2,"It's so horrible though, they put this big band round your arm so this bone sticks out!","[It/PRP, 's/VBZ, so/RB, horrible/JJ, though/IN, ,/,, they/PRP, put/VBP, this/DT, big/JJ, band/NN, round/NN, your/PRP$, arm/NN, so/IN, this/DT, bone/NN, sticks/VBZ, out/RP, !/.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB so) (JJ horrible)) (SBAR (IN though) (, ,) (S (NP (PRP they)) (VP (VBP put) (S (NP (DT this) (JJ big) (NN band) (NN round)) (NP (PRP$ your) (NN arm))) (SBAR (IN so) (S (NP (DT this) (NN bone)) (VP (VBZ sticks) (PRT (RP out))))))))) (. !)))"
 K/KB/KBM.xml,KBMRE004,72305,102,,A,63,3,<clears throat> --,"[Then/RB, they/PRP, stick/VBP, the/DT, needle/NN, in/IN, you/PRP, and/CC, pull/VB, on/IN, the/DT, blood/NN, and/CC, it/PRP, 's/VBZ, disgusting/VBG, !/.]",(ROOT (S (RB Then) (S (NP (PRP they)) (VP (VP (VBP stick) (NP (NP (DT the) (NN needle)) (PP (IN in) (NP (PRP you))))) (CC and) (VP (VB pull) (PP (IN on) (NP (DT the) (NN blood)))))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG disgusting)))) (. !)))
@@ -115,7 +115,7 @@ K/KB/KBM.xml,KBMRE004,72305,112,,B,70,1,(()) ?,[?/.],(ROOT (NP (. ?)))
 K/KB/KBM.xml,KBMRE004,72305,113,,A,71,1,I think.,"[I/PRP, think/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think)) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,114,,A,71,2,I dunno.,"[I/PRP, dunno/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP dunno)) (. .)))
 K/KB/KBM.xml,KBMRE004,72305,115,,A,71,3,Mine doesn't stick out enough.,"[Mine/PRP, doesn/VBP, 't/PRP, stick/VB, out/RP, enough/RB, ./.]",(ROOT (S (NP (PRP Mine)) (VP (VBP doesn) (S (NP (PRP 't)) (VP (VB stick) (PRT (RP out)) (NP (RB enough))))) (. .)))
-K/KB/KBM.xml,KBMRE004,72305,116,,B,72,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE004,72305,116,,B,72,1,(()) ,[],
 K/KB/KBM.xml,KBMRE004,72305,117,,A,73,1,Oh that's sick!,"[Oh/UH, that/DT, 's/VBZ, sick/JJ, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ sick)))) (. !)))
 K/KB/KBM.xml,KBMRE004,72305,118,,A,73,2,"Oh yeah, what were you gonna tell me?","[Oh/UH, yeah/UH, ,/,, what/WP, were/VBD, you/PRP, gonna/NNP, tell/VB, me/PRP, ?/.]","(ROOT (S (INTJ (UH Oh)) (INTJ (UH yeah)) (, ,) (NP (WP what)) (VP (VBD were) (NP (NP (PRP you)) (SBAR (S (NP (NNP gonna)) (VP (VB tell) (NP (PRP me))))))) (. ?)))"
 K/KB/KBM.xml,KBMRE004,72305,119,,B,74,1,"It was about, I thought it was about how erm  --","[It/PRP, was/VBD, about/RB, ,/,, I/PRP, thought/VBD, it/PRP, was/VBD, about/IN, how/WRB, erm/JJ, how/WRB, erm/NN]","(ROOT (SINV (S (S (NP (PRP It)) (VP (VBD was) (ADVP (RB about)))) (, ,) (S (NP (PRP I)) (VP (VBD thought) (NP (PRP it))))) (VP (VBD was) (VP (PP (IN about) (NP (WRB how) (JJ erm))) (ADVP (WRB how)))) (NP (NN erm))))"

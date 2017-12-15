@@ -1,9 +1,9 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KCF.xml,KCFRE006,28202,0,,A,1,1,You can get days where you feel more tired than others don't you?,"[You/PRP, can/MD, get/VB, days/NNS, where/WRB, you/PRP, feel/VBP, more/RBR, tired/JJ, than/IN, others/NNS, don/VBP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB get) (NP (NNS days)) (SBAR (WHADVP (WRB where)) (S (NP (PRP you)) (VP (VBP feel) (ADJP (ADJP (RBR more) (JJ tired)) (SBAR (IN than) (S (NP (NNS others)) (VP (VBP don) (S (NP (PRP 't)) (NP (PRP you)))))))))))) (. ?)))
 K/KC/KCF.xml,KCFRE006,28202,1,,A,1,2,But you had a late night last night.,"[But/CC, you/PRP, had/VBD, a/DT, late/JJ, night/NN, last/JJ, night/NN, ./.]",(ROOT (S (CC But) (NP (PRP you)) (VP (VBD had) (NP (NP (DT a) (JJ late) (NN night)) (NP (JJ last) (NN night)))) (. .)))
-K/KC/KCF.xml,KCFRE006,28202,2,,B,2,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE006,28202,2,,B,2,1,(()) ,[],
 K/KC/KCF.xml,KCFRE006,28202,3,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KC/KCF.xml,KCFRE006,28202,4,,B,4,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE006,28202,4,,B,4,1,(()) ,[],
 K/KC/KCF.xml,KCFRE006,28202,5,,A,5,1,Come on little 'un.,"[Come/VB, on/RB, little/JJ, 'un/NN, ./.]",(ROOT (S (VP (VB Come) (PRT (RB on)) (NP (JJ little) (NN 'un))) (. .)))
 K/KC/KCF.xml,KCFRE006,28202,6,,A,5,2,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
-K/KC/KCF.xml,KCFRE006,28202,7,,B,6,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE006,28202,7,,B,6,1,(()) ,[],

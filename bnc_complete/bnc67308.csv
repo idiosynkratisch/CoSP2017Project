@@ -20,7 +20,7 @@ K/KE/KE4.xml,KE4RE006,67308,17,,B,14,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KE/KE4.xml,KE4RE006,67308,18,,A,15,1,"Somewhere about, aye.","[Somewhere/RB, about/RB, ,/,, aye/NNP, ./.]","(ROOT (FRAG (ADVP (RB Somewhere) (RB about)) (, ,) (NP (NNP aye)) (. .)))"
 K/KE/KE4.xml,KE4RE006,67308,19,,B,16,1,Somewhere there?,"[Somewhere/RB, there/EX, ?/.]",(ROOT (NP (NP (RB Somewhere)) (NP (EX there)) (. ?)))
 K/KE/KE4.xml,KE4RE006,67308,20,,A,17,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KE/KE4.xml,KE4RE006,67308,21,,B,18,1,<cough> ,[],X
+K/KE/KE4.xml,KE4RE006,67308,21,,B,18,1,<cough> ,[],
 K/KE/KE4.xml,KE4RE006,67308,22,,A,19,1,And then one up in the bedroom.,"[And/CC, then/RB, one/CD, up/RP, in/IN, the/DT, bedroom/NN, ./.]",(ROOT (FRAG (CC And) (ADVP (RB then)) (PP (ADVP (NP (CD one)) (RP up)) (IN in) (NP (DT the) (NN bedroom))) (. .)))
 K/KE/KE4.xml,KE4RE006,67308,23,,B,20,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KE/KE4.xml,KE4RE006,67308,24,,A,21,1,I'll show you that in the bedroom.,"[I/PRP, 'll/MD, show/VB, you/PRP, that/IN, in/IN, the/DT, bedroom/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB show) (NP (PRP you)) (SBAR (IN that) (FRAG (PP (IN in) (NP (DT the) (NN bedroom))))))) (. .)))
@@ -103,7 +103,7 @@ K/KE/KE4.xml,KE4RE006,67308,100,,A,77,1,Aye.,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (N
 K/KE/KE4.xml,KE4RE006,67308,101,,B,78,1,Plenty of bathrooms.,"[Plenty/NN, of/IN, bathrooms/NNS, ./.]",(ROOT (NP (NP (NN Plenty)) (PP (IN of) (NP (NNS bathrooms))) (. .)))
 K/KE/KE4.xml,KE4RE006,67308,102,,A,79,1,<laugh> --,"[Plenty/NN, of/IN, bathrooms/NNS, ,/,, aye/NNP, ./.]","(ROOT (NP (NP (NN Plenty)) (PP (IN of) (NP (NP (NNS bathrooms)) (, ,) (NP (NNP aye)))) (. .)))"
 K/KE/KE4.xml,KE4RE006,67308,103,,A,79,2,"--Plenty of bathrooms, aye.","[Plenty/NN, of/IN, bathrooms/NNS, ,/,, aye/NNP, ./.]","(ROOT (NP (NP (NN Plenty)) (PP (IN of) (NP (NP (NNS bathrooms)) (, ,) (NP (NNP aye)))) (. .)))"
-K/KE/KE4.xml,KE4RE006,67308,104,,B,80,1,<laugh> ,[],X
+K/KE/KE4.xml,KE4RE006,67308,104,,B,80,1,<laugh> ,[],
 K/KE/KE4.xml,KE4RE006,67308,105,,A,81,1,And my bathroom there.,"[And/CC, my/PRP$, bathroom/NN, there/RB, ./.]",(ROOT (FRAG (CC And) (NP (NP (PRP$ my)) (NP (NP (NN bathroom)) (ADVP (RB there)))) (. .)))
 K/KE/KE4.xml,KE4RE006,67308,106,,B,82,1,Aye.,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
 K/KE/KE4.xml,KE4RE006,67308,107,,B,82,2,"Do you wanna, do you wanna take that up?","[Do/VB, you/PRP, wanna/NNP, ,/,, do/VBP, you/PRP, wanna/NNP, take/VB, that/DT, up/RP, ?/.]","(ROOT (SINV (S (VP (VB Do) (S (NP (PRP you)) (NP (NNP wanna))))) (, ,) (VP (VBP do) (NP (PRP you))) (NP (NNP wanna)) (S (VP (VB take) (NP (DT that)) (PRT (RP up)))) (. ?)))"

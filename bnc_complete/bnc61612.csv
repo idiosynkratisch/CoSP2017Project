@@ -5,12 +5,12 @@ K/KD/KD2.xml,KD2RE008,61612,2,,B,2,2,Write your name.,"[Write/VB, your/PRP$, nam
 K/KD/KD2.xml,KD2RE008,61612,3,,B,2,3,What's your name?,"[What/WP, 's/VBZ, your/PRP$, name/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP$ your) (NN name))) (. ?)))
 K/KD/KD2.xml,KD2RE008,61612,4,,B,2,4,Excuse me a minute can I just (()) ?,"[Excuse/VB, me/PRP, a/DT, minute/NN, can/MD, I/PRP, just/RB, ?/.]",(ROOT (SQ (VP (VB Excuse) (NP (PRP me)) (NP (DT a) (NN minute)) (SBAR (SINV (MD can) (NP (PRP I)) (ADVP (RB just))))) (. ?)))
 K/KD/KD2.xml,KD2RE008,61612,5,,A,3,1,And here we go!,"[And/CC, here/RB, we/PRP, go/VBP, !/.]",(ROOT (S (CC And) (ADVP (RB here)) (NP (PRP we)) (VP (VBP go)) (. !)))
-K/KD/KD2.xml,KD2RE008,61612,6,,B,4,1,(()) ,[],X
+K/KD/KD2.xml,KD2RE008,61612,6,,B,4,1,(()) ,[],
 K/KD/KD2.xml,KD2RE008,61612,7,,A,5,1,Then what?,"[Then/RB, what/WP, ?/.]",(ROOT (X (ADVP (RB Then)) (NP (WP what)) (. ?)))
 K/KD/KD2.xml,KD2RE008,61612,8,,B,6,1,Enter.,"[Enter/VB, ./.]",(ROOT (S (VP (VB Enter)) (. .)))
 K/KD/KD2.xml,KD2RE008,61612,9,,A,7,1,Suppose so.,"[Suppose/VB, so/RB, ./.]",(ROOT (S (VP (VB Suppose) (ADVP (RB so))) (. .)))
 K/KD/KD2.xml,KD2RE008,61612,10,,A,7,2,That is it.,"[That/DT, is/VBZ, it/PRP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ is) (NP (PRP it))) (. .)))
-K/KD/KD2.xml,KD2RE008,61612,11,,B,8,1,(()) ,[],X
+K/KD/KD2.xml,KD2RE008,61612,11,,B,8,1,(()) ,[],
 K/KD/KD2.xml,KD2RE008,61612,12,,A,9,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KD/KD2.xml,KD2RE008,61612,13,,A,9,2,This is nice and easy isn't it?,"[This/DT, is/VBZ, nice/JJ, and/CC, easy/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (S (NP (DT This)) (VP (VBZ is) (ADJP (JJ nice)))) (CC and) (S (NP (NP (JJ easy) (NN isn)) (NP (PRP 't))) (NP (PRP it))) (. ?)))
 K/KD/KD2.xml,KD2RE008,61612,14,,B,10,1,"Is that enter then, yeah?","[Is/VBZ, that/IN, enter/VBP, then/RB, ,/,, yeah/UH, ?/.]","(ROOT (S (S (S (VP (VBZ Is) (ADJP (IN that)))) (VP (VBP enter) (ADVP (RB then)))) (, ,) (FRAG (INTJ (UH yeah))) (. ?)))"
@@ -54,7 +54,7 @@ K/KD/KD2.xml,KD2RE008,61612,51,,A,27,1,What are you doing?<laugh> ,"[What/WP, ar
 K/KD/KD2.xml,KD2RE008,61612,52,,B,28,1,I'm not getting far.,"[I/PRP, 'm/VBP, not/RB, getting/VBG, far/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG getting) (ADVP (RB far)))) (. .)))
 K/KD/KD2.xml,KD2RE008,61612,53,,B,28,2,(()) in capitals.,"[in/IN, capitals/NNS, ./.]",(ROOT (FRAG (PP (IN in) (NP (NNS capitals))) (. .)))
 K/KD/KD2.xml,KD2RE008,61612,54,,A,29,1,Actually what?,"[Actually/RB, what/WP, ?/.]",(ROOT (X (ADVP (RB Actually)) (NP (WP what)) (. ?)))
-K/KD/KD2.xml,KD2RE008,61612,55,,B,30,1,(()) ,[],X
+K/KD/KD2.xml,KD2RE008,61612,55,,B,30,1,(()) ,[],
 K/KD/KD2.xml,KD2RE008,61612,56,,A,31,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD2.xml,KD2RE008,61612,57,,A,31,2,Supposed to leave a space Emma!,"[Supposed/VBN, to/TO, leave/VB, a/DT, space/NN, Emma/NNP, !/.]",(ROOT (S (VP (VBN Supposed) (S (VP (TO to) (VP (VB leave) (NP (DT a) (NN space)) (NP (NNP Emma)))))) (. !)))
 K/KD/KD2.xml,KD2RE008,61612,58,,B,32,1,Shut up!,"[Shut/VBN, up/RP, !/.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. !)))

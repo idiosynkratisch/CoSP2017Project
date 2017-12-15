@@ -8,7 +8,7 @@ K/KB/KBA.xml,KBARE00B,10001,5,,A,3,4,"--I've got it on there, look.","[That/DT, 
 K/KB/KBA.xml,KBARE00B,10001,6,,B,4,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KB/KBA.xml,KBARE00B,10001,7,,A,5,1,Mm  --,"[Mm/NN, What/WDT, time/NN, ?/.]",(ROOT (NP (NP (NP (NN Mm)) (SBAR (WHNP (WDT What) (NN time)))) (. ?)))
 K/KB/KBA.xml,KBARE00B,10001,8,,A,5,2,--What time?,"[Mm/NN, What/WDT, time/NN, ?/.]",(ROOT (NP (NP (NP (NN Mm)) (SBAR (WHNP (WDT What) (NN time)))) (. ?)))
-K/KB/KBA.xml,KBARE00B,10001,9,,B,6,1,(()) ,[],X
+K/KB/KBA.xml,KBARE00B,10001,9,,B,6,1,(()) ,[],
 K/KB/KBA.xml,KBARE00B,10001,10,,A,7,1,Oh  --,"[Oh/UH, four/CD, o/NN, 'clock/NN, on/IN, there/EX, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (CD four) (NN o) (NN 'clock)) (PP (IN on) (NP (EX there)))))) (. .)))
 K/KB/KBA.xml,KBARE00B,10001,11,,A,7,2,--four o'clock on there.,"[Oh/UH, four/CD, o/NN, 'clock/NN, on/IN, there/EX, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (CD four) (NN o) (NN 'clock)) (PP (IN on) (NP (EX there)))))) (. .)))
 K/KB/KBA.xml,KBARE00B,10001,12,,B,8,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

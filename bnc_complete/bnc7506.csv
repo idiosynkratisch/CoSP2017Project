@@ -4,5 +4,5 @@ K/KD/KDE.xml,KDERE02T,7506,1,,B,2,1,I put it away darling I thought you'd finish
 K/KD/KDE.xml,KDERE02T,7506,2,,B,2,2,You can do some painting when you go to nursery can't you?,"[You/PRP, can/MD, do/VB, some/DT, painting/NN, when/WRB, you/PRP, go/VBP, to/TO, nursery/NN, can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP You)) (VP (MD can) (VP (VB do) (NP (DT some) (NN painting)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP go) (PP (TO to) (NP (NN nursery))))))))) (VP (MD can)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
 K/KD/KDE.xml,KDERE02T,7506,3,,A,3,1,(()) go to nursery.,"[go/VB, to/TO, nursery/NN, ./.]",(ROOT (S (VP (VB go) (PP (TO to) (NP (NN nursery)))) (. .)))
 K/KD/KDE.xml,KDERE02T,7506,4,,B,4,1,"Don't pull your jumper darling, please.","[Don/NNP, 't/PRP, pull/VB, your/PRP$, jumper/NN, darling/NN, ,/,, please/UH, ./.]","(ROOT (S (S (NP (NNP Don) (PRP 't)) (VP (VB pull) (NP (PRP$ your) (NN jumper) (NN darling)))) (, ,) (FRAG (INTJ (UH please))) (. .)))"
-K/KD/KDE.xml,KDERE02T,7506,5,,A,5,1,(()) ,[],X
-K/KD/KDE.xml,KDERE02T,7506,6,,B,6,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02T,7506,5,,A,5,1,(()) ,[],
+K/KD/KDE.xml,KDERE02T,7506,6,,B,6,1,(()) ,[],

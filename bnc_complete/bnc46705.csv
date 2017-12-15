@@ -8,7 +8,7 @@ K/KE/KE1.xml,KE1RE003,46705,5,,B,2,1,"Oh, he was telling me, he said  --","[Oh/U
 K/KE/KE1.xml,KE1RE003,46705,6,,B,2,2,--hey!(()) ?<laugh> <break in recording> ,"[Oh/UH, ,/,, he/PRP, was/VBD, telling/VBG, me/PRP, ,/,, he/PRP, said/VBD, hey/UH, !/., ?/.]","(ROOT (S (S (INTJ (UH Oh)) (, ,) (NP (PRP he)) (VP (VBD was) (VP (VBG telling) (NP (PRP me))))) (, ,) (NP (PRP he)) (VP (VBD said) (INTJ (UH hey) (. !))) (. ?)))"
 K/KE/KE1.xml,KE1RE003,46705,7,,B,2,3,<sigh> --,"[Start/NN, ./.]",(ROOT (INTJ (NN Start) (. .)))
 K/KE/KE1.xml,KE1RE003,46705,8,,B,2,4,--Start.,"[Start/NN, ./.]",(ROOT (INTJ (NN Start) (. .)))
-K/KE/KE1.xml,KE1RE003,46705,9,,A,3,1,(()) ,[],X
+K/KE/KE1.xml,KE1RE003,46705,9,,A,3,1,(()) ,[],
 K/KE/KE1.xml,KE1RE003,46705,10,,B,4,1,He's  --,"[He/PRP, 's/VBZ, still/RB, in/IN, the/DT, door/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB still)) (PP (IN in) (NP (DT the) (NN door)))) (. .)))
 K/KE/KE1.xml,KE1RE003,46705,11,,B,4,2,--still in the door.,"[He/PRP, 's/VBZ, still/RB, in/IN, the/DT, door/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB still)) (PP (IN in) (NP (DT the) (NN door)))) (. .)))
 K/KE/KE1.xml,KE1RE003,46705,12,,B,4,3,Looks pretty sore like.,"[Looks/VBZ, pretty/RB, sore/JJ, like/IN, ./.]",(ROOT (S (VP (VBZ Looks) (ADJP (RB pretty) (JJ sore) (PP (IN like)))) (. .)))
@@ -19,8 +19,8 @@ K/KE/KE1.xml,KE1RE003,46705,16,,A,7,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)
 K/KE/KE1.xml,KE1RE003,46705,17,,B,8,1,Don't get upset.,"[Don/NNP, 't/PRP, get/VB, upset/VBN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB get) (ADJP (VBN upset))) (. .)))
 K/KE/KE1.xml,KE1RE003,46705,18,,A,9,1,Do you know what you look like?,"[Do/VB, you/PRP, know/VB, what/WP, you/PRP, look/VBP, like/IN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP look) (PP (IN like)))))))) (. ?)))
 K/KE/KE1.xml,KE1RE003,46705,19,,B,10,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KE/KE1.xml,KE1RE003,46705,20,,A,11,1,(()) ,[],X
-K/KE/KE1.xml,KE1RE003,46705,21,,B,12,1,<laugh> ,[],X
+K/KE/KE1.xml,KE1RE003,46705,20,,A,11,1,(()) ,[],
+K/KE/KE1.xml,KE1RE003,46705,21,,B,12,1,<laugh> ,[],
 K/KE/KE1.xml,KE1RE003,46705,22,,A,13,1,<laughing> Sometimes </laughing> !,"[Sometimes/RB, !/.]",(ROOT (FRAG (ADVP (RB Sometimes)) (. !)))
 K/KE/KE1.xml,KE1RE003,46705,23,,B,14,1,For your (()) .,"[For/IN, your/PRP$, ./.]",(ROOT (FRAG (PP (IN For) (NP (PRP$ your))) (. .)))
 K/KE/KE1.xml,KE1RE003,46705,24,,A,15,1,Do I?,"[Do/VB, I/PRP, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP I))) (. ?)))

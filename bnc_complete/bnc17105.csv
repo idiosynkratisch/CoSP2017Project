@@ -29,16 +29,16 @@ K/KD/KD0.xml,KD0RE00R,17105,26,,B,12,4,Who's that?,"[Who/WP, 's/VBZ, that/IN, ?/
 K/KD/KD0.xml,KD0RE00R,17105,27,,A,13,1,Kinks isn't it?,"[Kinks/NNPS, isn/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (NNPS Kinks) (NNP isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
 K/KD/KD0.xml,KD0RE00R,17105,28,,B,14,1,Ray Davies?,"[Ray/NNP, Davies/NNP, ?/.]",(ROOT (NP (NNP Ray) (NNP Davies) (. ?)))
 K/KD/KD0.xml,KD0RE00R,17105,29,,A,15,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KD/KD0.xml,KD0RE00R,17105,30,,B,16,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00R,17105,30,,B,16,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00R,17105,31,,A,17,1,Tears of a Clown.,"[Tears/NNS, of/IN, a/DT, Clown/NN, ./.]",(ROOT (NP (NP (NNS Tears)) (PP (IN of) (NP (DT a) (NN Clown))) (. .)))
 K/KD/KD0.xml,KD0RE00R,17105,32,,B,18,1,No it isn't.,"[No/DT, it/PRP, isn/VBD, 't/PRP, ./.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBD isn) (NP (PRP 't))) (. .)))
 K/KD/KD0.xml,KD0RE00R,17105,33,,A,19,1,"No I know but he, that's what he's famous for isn't it?","[No/DT, I/PRP, know/VBP, but/CC, he/PRP, ,/,, that/DT, 's/VBZ, what/WP, he/PRP, 's/VBZ, famous/JJ, for/IN, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (S (S (NP (DT No) (PRP I)) (VP (VBP know) (PP (CC but) (NP (PRP he))))) (, ,) (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ famous) (PP (IN for) (NP (NN isn)))) (NP (NP (PRP 't)) (NP (PRP it))))))) (. ?)))"
 K/KD/KD0.xml,KD0RE00R,17105,34,,A,19,2,Tears of a Clown.,"[Tears/NNS, of/IN, a/DT, Clown/NN, ./.]",(ROOT (NP (NP (NNS Tears)) (PP (IN of) (NP (DT a) (NN Clown))) (. .)))
-K/KD/KD0.xml,KD0RE00R,17105,35,,B,20,1,<singing> ,[],X
-K/KD/KD0.xml,KD0RE00R,17105,36,,B,20,2,(()) ,[],X
-K/KD/KD0.xml,KD0RE00R,17105,37,,B,20,3,</singing> ,[],X
+K/KD/KD0.xml,KD0RE00R,17105,35,,B,20,1,<singing> ,[],
+K/KD/KD0.xml,KD0RE00R,17105,36,,B,20,2,(()) ,[],
+K/KD/KD0.xml,KD0RE00R,17105,37,,B,20,3,</singing> ,[],
 K/KD/KD0.xml,KD0RE00R,17105,38,,A,21,1,"I bet someone's vid- , I bet Alan's videoing all these.","[I/PRP, bet/VBP, someone/NN, 's/POS, vid-/NN, ,/,, I/PRP, bet/VBP, Alan/NNP, 's/POS, videoing/VBG, all/PDT, these/DT, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP bet) (NP (NP (NN someone) (POS 's)) (NN vid-)))) (, ,) (NP (PRP I)) (VP (VBP bet) (S (NP (NNP Alan) (POS 's)) (VP (VBG videoing) (NP (PDT all) (DT these))))) (. .)))"
 K/KD/KD0.xml,KD0RE00R,17105,39,,A,21,2,Put them all together.,"[Put/VB, them/PRP, all/DT, together/RB, ./.]",(ROOT (S (VP (VB Put) (NP (PRP them)) (ADVP (DT all) (RB together))) (. .)))
-K/KD/KD0.xml,KD0RE00R,17105,40,,B,22,1,<singing> ,[],X
-K/KD/KD0.xml,KD0RE00R,17105,41,,B,22,2,(()) ,[],X
-K/KD/KD0.xml,KD0RE00R,17105,42,,B,22,3,</singing> ,[],X
+K/KD/KD0.xml,KD0RE00R,17105,40,,B,22,1,<singing> ,[],
+K/KD/KD0.xml,KD0RE00R,17105,41,,B,22,2,(()) ,[],
+K/KD/KD0.xml,KD0RE00R,17105,42,,B,22,3,</singing> ,[],

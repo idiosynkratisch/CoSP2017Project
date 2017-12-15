@@ -5,4 +5,4 @@ K/KB/KBK.xml,KBKRE03C,2409,2,,B,2,2,I think (()) .,"[I/PRP, think/VBP, ./.]",(RO
 K/KB/KBK.xml,KBKRE03C,2409,3,,A,3,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE03C,2409,4,,B,4,1,Can you shut the door (()) ?,"[Can/MD, you/PRP, shut/VB, the/DT, door/NN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB shut) (NP (DT the) (NN door))) (. ?)))
 K/KB/KBK.xml,KBKRE03C,2409,5,,A,5,1,Hardly when we  (()) steamed up like this.,"[Hardly/RB, when/WRB, we/PRP, steamed/VBD, up/RP, like/IN, this/DT, ./.]",(ROOT (FRAG (ADVP (RB Hardly)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBD steamed) (PRT (RP up)) (PP (IN like) (NP (DT this)))))) (. .)))
-K/KB/KBK.xml,KBKRE03C,2409,6,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE03C,2409,6,,B,6,1,(()) ,[],

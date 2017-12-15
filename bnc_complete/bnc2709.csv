@@ -8,7 +8,7 @@ K/KB/KBK.xml,KBKRE050,2709,5,,A,5,1,"Now, what you can do is try and cut it towa
 K/KB/KBK.xml,KBKRE050,2709,6,,B,6,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE050,2709,7,,A,7,1,On that side.,"[On/IN, that/DT, side/NN, ./.]",(ROOT (FRAG (PP (IN On) (NP (DT that) (NN side))) (. .)))
 K/KB/KBK.xml,KBKRE050,2709,8,,B,8,1,Fine.,"[Fine/NN, ./.]",(ROOT (INTJ (NN Fine) (. .)))
-K/KB/KBK.xml,KBKRE050,2709,9,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE050,2709,9,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE050,2709,10,,B,10,1,"No, the red, yes.","[No/DT, ,/,, the/DT, red/JJ, ,/,, yes/UH, ./.]","(ROOT (FRAG (SBAR (WHNP (NP (DT No)) (PRN (, ,) (SBAR (WHNP (DT the)) (FRAG (ADJP (JJ red)))) (, ,))) (FRAG (INTJ (UH yes) (. .))))))"
 K/KB/KBK.xml,KBKRE050,2709,11,,A,11,1,The black.,"[The/DT, black/JJ, ./.]",(ROOT (X (DT The) (ADJP (JJ black) (. .))))
 K/KB/KBK.xml,KBKRE050,2709,12,,B,12,1,"The black, the black.","[The/DT, black/JJ, ,/,, the/DT, black/JJ, ./.]","(ROOT (NP (NP (DT The) (JJ black)) (, ,) (NP (DT the) (JJ black)) (. .)))"

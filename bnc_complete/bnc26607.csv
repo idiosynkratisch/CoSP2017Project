@@ -32,7 +32,7 @@ K/KB/KBP.xml,KBPRE00A,26607,29,,B,18,2,I no- noticed the  (()) ,"[I/PRP, no-/JJ,
 K/KB/KBP.xml,KBPRE00A,26607,30,,A,19,1,"What we what we do- really don't want, what we really hit hard  --","[What/WP, we/PRP, what/WP, we/PRP, do-/JJ, really/RB, don/NNP, 't/PRP, want/VBP, ,/,, what/WP, we/PRP, really/RB, hit/VBD, hard/JJ, is/VBZ, the/DT, ,/,, like/IN, this/DT, one/CD, here/RB, now/RB, who/WP, haven/NNP, 't/PRP, got/VBD, a/DT, ticket/NN, on/IN, ./.]","(ROOT (FRAG (WHNP (WP What) (NP (PRP we))) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (ADJP (JJ do-) (SBAR (X (ADVP (RB really)) (NP (NNP don))) (S (NP (PRP 't)) (VP (VBP want) (PRN (, ,) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBD hit) (SBAR (S (NP (JJ hard)) (VP (VBZ is) (NP (DT the)))))))) (, ,)) (PP (IN like) (NP (DT this) (CD one))) (ADVP (ADVP (RB here) (RB now)) (SBAR (WHNP (WP who)) (S (NP (NNP haven) (PRP 't)) (VP (VBD got) (NP (DT a) (NN ticket)) (PP (IN on)))))))))))) (. .)))"
 K/KB/KBP.xml,KBPRE00A,26607,31,,A,19,2,"--is the, like this one here now who haven't got a ticket on.","[What/WP, we/PRP, what/WP, we/PRP, do-/JJ, really/RB, don/NNP, 't/PRP, want/VBP, ,/,, what/WP, we/PRP, really/RB, hit/VBD, hard/JJ, is/VBZ, the/DT, ,/,, like/IN, this/DT, one/CD, here/RB, now/RB, who/WP, haven/NNP, 't/PRP, got/VBD, a/DT, ticket/NN, on/IN, ./.]","(ROOT (FRAG (WHNP (WP What) (NP (PRP we))) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (ADJP (JJ do-) (SBAR (X (ADVP (RB really)) (NP (NNP don))) (S (NP (PRP 't)) (VP (VBP want) (PRN (, ,) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (ADVP (RB really)) (VP (VBD hit) (SBAR (S (NP (JJ hard)) (VP (VBZ is) (NP (DT the)))))))) (, ,)) (PP (IN like) (NP (DT this) (CD one))) (ADVP (ADVP (RB here) (RB now)) (SBAR (WHNP (WP who)) (S (NP (NNP haven) (PRP 't)) (VP (VBD got) (NP (DT a) (NN ticket)) (PP (IN on)))))))))))) (. .)))"
 K/KB/KBP.xml,KBPRE00A,26607,32,,B,20,1,"Oh I see, yes.","[Oh/UH, I/PRP, see/VBP, ,/,, yes/UH, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
-K/KB/KBP.xml,KBPRE00A,26607,33,,A,21,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE00A,26607,33,,A,21,1,(()) ,[],
 K/KB/KBP.xml,KBPRE00A,26607,34,,B,22,1,At all?,"[At/IN, all/DT, ?/.]",(ROOT (FRAG (ADVP (IN At) (DT all)) (. ?)))
 K/KB/KBP.xml,KBPRE00A,26607,35,,A,23,1,Yeah it's ,"[Yeah/UH, it/PRP, 's/VBZ]",(ROOT (SINV (UH Yeah) (NP (PRP it)) (VP (VBZ 's))))
 K/KB/KBP.xml,KBPRE00A,26607,36,,B,24,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -119,7 +119,7 @@ K/KB/KBP.xml,KBPRE00A,26607,116,,A,73,1,and then we go to the top.,"[and/CC, the
 K/KB/KBP.xml,KBPRE00A,26607,117,,B,74,1,"Yes, yes.","[Yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH yes) (. .))))"
 K/KB/KBP.xml,KBPRE00A,26607,118,,A,75,1,(()) High Street bank.,"[High/NNP, Street/NNP, bank/NNP, ./.]",(ROOT (NP (NNP High) (NNP Street) (NNP bank) (. .)))
 K/KB/KBP.xml,KBPRE00A,26607,119,,B,76,1,Oh do you really?,"[Oh/UH, do/VBP, you/PRP, really/RB, ?/.]",(ROOT (SBARQ (WHNP (UH Oh)) (SQ (VP (VBP do) (NP (PRP you)) (ADVP (RB really)))) (. ?)))
-K/KB/KBP.xml,KBPRE00A,26607,120,,A,77,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE00A,26607,120,,A,77,1,(()) ,[],
 K/KB/KBP.xml,KBPRE00A,26607,121,,B,78,1,Do you really?,"[Do/VB, you/PRP, really/RB, ?/.]",(ROOT (SQ (VP (VB Do) (NP (PRP you)) (ADVP (RB really))) (. ?)))
 K/KB/KBP.xml,KBPRE00A,26607,122,,A,79,1,We go there.,"[We/PRP, go/VBP, there/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP go) (ADVP (RB there))) (. .)))
 K/KB/KBP.xml,KBPRE00A,26607,123,,A,79,2,We go to (()) .,"[We/PRP, go/VBP, to/TO, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP go) (PP (TO to))) (. .)))
@@ -139,7 +139,7 @@ K/KB/KBP.xml,KBPRE00A,26607,136,,B,86,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. 
 K/KB/KBP.xml,KBPRE00A,26607,137,,B,86,3,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE00A,26607,138,,A,87,1,in circles.,"[in/IN, circles/NNS, ./.]",(ROOT (FRAG (PP (IN in) (NP (NNS circles))) (. .)))
 K/KB/KBP.xml,KBPRE00A,26607,139,,B,88,1,In circles.<laugh> ,"[In/IN, circles/NNS, ./.]",(ROOT (FRAG (PP (IN In) (NP (NNS circles))) (. .)))
-K/KB/KBP.xml,KBPRE00A,26607,140,,A,89,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE00A,26607,140,,A,89,1,(()) ,[],
 K/KB/KBP.xml,KBPRE00A,26607,141,,B,90,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBP.xml,KBPRE00A,26607,142,,A,91,1,But erm,"[But/CC, erm/NN]",(ROOT (FRAG (CC But) (NP (NN erm))))
 K/KB/KBP.xml,KBPRE00A,26607,143,,B,92,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

@@ -31,9 +31,9 @@ K/KD/KDP.xml,KDPRE01B,801,28,,B,22,1,Lemon juice  --,"[Lemon/NNP, juice/NN, I/PR
 K/KD/KDP.xml,KDPRE01B,801,29,,B,22,2,--I want to know what did you mean.,"[Lemon/NNP, juice/NN, I/PRP, want/VBP, to/TO, know/VB, what/WP, did/VBD, you/PRP, mean/VB, ./.]",(ROOT (S (NP (NNP Lemon)) (VP (NN juice) (SBAR (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB know) (SBAR (WHNP (WP what)) (S (VP (VBD did) (S (NP (PRP you)) (VP (VB mean))))))))))))) (. .)))
 K/KD/KDP.xml,KDPRE01B,801,30,,B,22,3,Do you mean (()) ?,"[Do/VB, you/PRP, mean/VB, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB mean)))) (. ?)))
 K/KD/KDP.xml,KDPRE01B,801,31,,A,23,1,Yes some of that  (()) prawn and (()) ,"[Yes/UH, some/DT, of/IN, that/DT, prawn/NN, and/CC]",(ROOT (PP (NP (UH Yes)) (PP (NP (DT some)) (IN of) (NP (NP (DT that) (NN prawn)) (ADVP (CC and))))))
-K/KD/KDP.xml,KDPRE01B,801,32,,B,24,1,<noseblow> ,[],X
+K/KD/KDP.xml,KDPRE01B,801,32,,B,24,1,<noseblow> ,[],
 K/KD/KDP.xml,KDPRE01B,801,33,,A,25,1,and er prawn and avocado and a little bit of mayonnaise just mixed together ,"[and/CC, er/NN, prawn/NN, and/CC, avocado/NN, and/CC, a/DT, little/JJ, bit/NN, of/IN, mayonnaise/NN, just/RB, mixed/VBN, together/RB]",(ROOT (FRAG (CC and) (NP (NP (NN er)) (SBAR (S (NP (NP (NN prawn) (CC and) (NN avocado)) (CC and) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NN mayonnaise))))) (ADVP (RB just)) (VP (VBN mixed) (ADVP (RB together))))))))
-K/KD/KDP.xml,KDPRE01B,801,34,,B,26,1,<noseblow> ,[],X
+K/KD/KDP.xml,KDPRE01B,801,34,,B,26,1,<noseblow> ,[],
 K/KD/KDP.xml,KDPRE01B,801,35,,A,27,1,You want to use those avocados up?,"[You/PRP, want/VBP, to/TO, use/VB, those/DT, avocados/NNS, up/RP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP want) (S (VP (TO to) (VP (VB use) (NP (DT those) (NNS avocados)) (PRT (RP up)))))) (. ?)))
 K/KD/KDP.xml,KDPRE01B,801,36,,B,28,1,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
 K/KD/KDP.xml,KDPRE01B,801,37,,B,28,2,I didn't get round to it did I?,"[I/PRP, didn/VBP, 't/PRP, get/VB, round/NN, to/TO, it/PRP, did/VBD, I/PRP, ?/.]",(ROOT (SINV (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB get) (NP (NN round)) (PP (TO to) (NP (PRP it))))))) (VP (VBD did)) (NP (PRP I)) (. ?)))

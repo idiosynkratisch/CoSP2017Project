@@ -18,9 +18,9 @@ K/KD/KDP.xml,KDPRE01U,906,15,,B,6,1,Yeah (()) .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH
 K/KD/KDP.xml,KDPRE01U,906,16,,B,6,2,I told you that there was going to be some available but (()) ,"[I/PRP, told/VBD, you/PRP, that/IN, there/EX, was/VBD, going/VBG, to/TO, be/VB, some/DT, available/JJ, but/CC]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (PRP you)) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (DT some) (JJ available)) (ADVP (CC but))))))))))))
 K/KD/KDP.xml,KDPRE01U,906,17,,A,7,1,It's it's well.,"[It/PRP, 's/VBZ, it/PRP, 's/VBZ, well/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB well)))))) (. .)))
 K/KD/KDP.xml,KDPRE01U,906,18,,A,7,2,They're dreaming.,"[They/PRP, 're/VBP, dreaming/VBG, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG dreaming))) (. .)))
-K/KD/KDP.xml,KDPRE01U,906,19,,B,8,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01U,906,19,,B,8,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01U,906,20,,A,9,1,Well nobody's gonna take them.,"[Well/RB, nobody/NN, 's/POS, gonna/NNP, take/VB, them/PRP, ./.]",(ROOT (S (NP (RB Well) (NP (NN nobody) (POS 's)) (NNP gonna)) (VP (VB take) (NP (PRP them))) (. .)))
-K/KD/KDP.xml,KDPRE01U,906,21,,B,10,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01U,906,21,,B,10,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01U,906,22,,A,11,1,Ah.,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
 K/KD/KDP.xml,KDPRE01U,906,23,,A,11,2,She can't afford to though can she?,"[She/PRP, can/MD, 't/PRP, afford/VB, to/TO, though/IN, can/MD, she/PRP, ?/.]",(ROOT (S (NP (PRP She)) (VP (MD can) (NP (PRP 't)) (S (VP (VB afford) (PP (TO to) (SBAR (IN though) (S (VP (MD can)) (NP (PRP she)))))))) (. ?)))
 K/KD/KDP.xml,KDPRE01U,906,24,,B,12,1,"No, not now.(()) ","[No/DT, ,/,, not/RB, now/RB, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (ADVP (RB not) (RB now) (. .))))"
@@ -35,9 +35,9 @@ K/KD/KDP.xml,KDPRE01U,906,32,,B,20,1,Well no they're just (()) ,"[Well/RB, no/DT
 K/KD/KDP.xml,KDPRE01U,906,33,,A,21,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KD/KDP.xml,KDPRE01U,906,34,,B,22,1,Yet  (()) in comparison to what (()) ,"[Yet/RB, in/IN, comparison/NN, to/TO, what/WP]",(ROOT (FRAG (ADVP (RB Yet)) (PP (IN in) (NP (NP (NN comparison)) (PP (TO to) (NP (WP what)))))))
 K/KD/KDP.xml,KDPRE01U,906,35,,A,23,1,Whereabouts is this?,"[Whereabouts/NN, is/VBZ, this/DT, ?/.]",(ROOT (S (NP (NN Whereabouts)) (VP (VBZ is) (NP (DT this))) (. ?)))
-K/KD/KDP.xml,KDPRE01U,906,36,,B,24,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01U,906,36,,B,24,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01U,906,37,,A,25,1,"Well, yes and, yes and no.","[Well/RB, ,/,, yes/RB, and/CC, ,/,, yes/RB, and/CC, no/DT, ./.]","(ROOT (FRAG (INTJ (RB Well)) (, ,) (NP (NP (RB yes)) (PP (CC and) (NP (NP (FRAG (, ,) (NP (RB yes)))) (CC and) (NP (DT no))))) (. .)))"
-K/KD/KDP.xml,KDPRE01U,906,38,,B,26,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01U,906,38,,B,26,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01U,906,39,,A,27,1,I know.,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
 K/KD/KDP.xml,KDPRE01U,906,40,,A,27,2,"It's very er, very narrow road this isn't it?","[It/PRP, 's/VBZ, very/RB, er/NN, ,/,, very/RB, narrow/JJ, road/NN, this/DT, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB very) (NP (NP (NN er)) (, ,) (NP (NP (NP (ADJP (RB very) (JJ narrow)) (NN road)) (NP (DT this) (NN isn))) (NP (PRP 't))))) (NP (PRP it))) (. ?)))"
 K/KD/KDP.xml,KDPRE01U,906,41,,A,27,3,Can't get her in any tighter.,"[Can/MD, 't/PRP, get/VB, her/PRP$, in/IN, any/DT, tighter/JJR, ./.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB get) (NP (PRP$ her)) (PP (IN in) (NP (DT any) (JJR tighter)))) (. .)))

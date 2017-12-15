@@ -15,7 +15,7 @@ K/KD/KDT.xml,KDTRE000,75801,12,,A,11,1,(()) do you?,"[do/VB, you/PRP, ?/.]",(ROO
 K/KD/KDT.xml,KDTRE000,75801,13,,B,12,1,But I've got  (()) to be honest with you  (()) you know.,"[But/CC, I/PRP, 've/VBP, got/VBN, to/TO, be/VB, honest/JJ, with/IN, you/PRP, you/PRP, know/VBP, ./.]",(ROOT (S (CC But) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB be) (ADJP (JJ honest) (PP (IN with) (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,14,,A,13,1,No,[No/DT],(ROOT (FRAG (NP (DT No))))
 K/KD/KDT.xml,KDTRE000,75801,15,,B,14,1,So he says I'm going out (()) ,"[So/IN, he/PRP, says/VBZ, I/PRP, 'm/VBP, going/VBG, out/RP]",(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP he)) (SBAR (S (VP (VBZ says) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PRT (RP out))))))))))))
-K/KD/KDT.xml,KDTRE000,75801,16,,A,15,1,(()) ,[],X
+K/KD/KDT.xml,KDTRE000,75801,16,,A,15,1,(()) ,[],
 K/KD/KDT.xml,KDTRE000,75801,17,,B,16,1,I said oh I feel   (()) --,"[I/PRP, said/VBD, oh/UH, I/PRP, feel/VBP, I/PRP, 'm/VBP, going/VBG, out/RP, for/IN, half/PDT, an/DT, hour/NN, that/WDT, 's/VBZ, all/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (INTJ (UH oh)) (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PRT (RP out)) (PP (IN for) (NP (QP (PDT half) (DT an) (NN hour)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT all))))))))))))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,18,,B,16,2,--I'm going out  (()) for half an hour that's all.,"[I/PRP, said/VBD, oh/UH, I/PRP, feel/VBP, I/PRP, 'm/VBP, going/VBG, out/RP, for/IN, half/PDT, an/DT, hour/NN, that/WDT, 's/VBZ, all/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (INTJ (UH oh)) (NP (PRP I)) (VP (VBP feel) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (PRT (RP out)) (PP (IN for) (NP (QP (PDT half) (DT an) (NN hour)))) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT all))))))))))))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,19,,A,17,1,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
@@ -23,11 +23,11 @@ K/KD/KDT.xml,KDTRE000,75801,20,,B,18,1,I can't see the pleasure  (()) you know.,
 K/KD/KDT.xml,KDTRE000,75801,21,,B,18,2,So you seem a lot better   (()) (()) ,"[So/RB, you/PRP, seem/VBP, a/DT, lot/NN, better/JJR]",(ROOT (ADJP (RB So) (SBAR (S (NP (PRP you)) (VP (VBP seem) (S (NP (DT a) (NN lot)) (ADJP (JJR better))))))))
 K/KD/KDT.xml,KDTRE000,75801,22,,A,19,1,Got a lot of washing to do  (()) lie down (()) ,"[Got/VBD, a/DT, lot/NN, of/IN, washing/VBG, to/TO, do/VB, lie/VB, down/RP]",(ROOT (SINV (VP (VBD Got)) (NP (NP (DT a) (NN lot)) (PP (IN of) (S (VP (VBG washing) (S (VP (TO to) (VP (VB do) (S (VP (VB lie) (PRT (RP down)))))))))))))
 K/KD/KDT.xml,KDTRE000,75801,23,,B,20,1,Yeah he'd like that.,"[Yeah/UH, he/PRP, 'd/MD, like/VB, that/DT, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP he)) (VP (MD 'd) (VP (VB like) (NP (DT that))))) (. .)))
-K/KD/KDT.xml,KDTRE000,75801,24,,A,21,1,(()) ,[],X
+K/KD/KDT.xml,KDTRE000,75801,24,,A,21,1,(()) ,[],
 K/KD/KDT.xml,KDTRE000,75801,25,,B,22,1,"Yeah, he'd like that.","[Yeah/UH, ,/,, he/PRP, 'd/MD, like/VB, that/DT, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP he)) (VP (MD 'd) (VP (VB like) (NP (DT that)))) (. .)))"
-K/KD/KDT.xml,KDTRE000,75801,26,,A,23,1,(()) ,[],X
-K/KD/KDT.xml,KDTRE000,75801,27,,B,24,1,(()) ,[],X
-K/KD/KDT.xml,KDTRE000,75801,28,,A,25,1,(()) ,[],X
+K/KD/KDT.xml,KDTRE000,75801,26,,A,23,1,(()) ,[],
+K/KD/KDT.xml,KDTRE000,75801,27,,B,24,1,(()) ,[],
+K/KD/KDT.xml,KDTRE000,75801,28,,A,25,1,(()) ,[],
 K/KD/KDT.xml,KDTRE000,75801,29,,B,26,1,I know but I thought ,"[I/PRP, know/VBP, but/CC, I/PRP, thought/VBD]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (CC but) (S (NP (PRP I)) (VP (VBD thought)))))))
 K/KD/KDT.xml,KDTRE000,75801,30,,A,27,1,So I've  (()) bit busy with other things anyway.,"[So/IN, I/PRP, 've/VBP, bit/RB, busy/JJ, with/IN, other/JJ, things/NNS, anyway/RB, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (VBP 've) (NP (RB bit) (JJ busy)) (PP (IN with) (NP (NP (JJ other) (NNS things)) (ADVP (RB anyway))))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,31,,B,28,1,"I thought what I'd do was I'd have a bath, I thought I'd put all the  (()) back in the fridge (()) ","[I/PRP, thought/VBD, what/WP, I/PRP, 'd/MD, do/VB, was/VBD, I/PRP, 'd/MD, have/VB, a/DT, bath/NN, ,/,, I/PRP, thought/VBD, I/PRP, 'd/MD, put/VB, all/PDT, the/DT, back/NN, in/IN, the/DT, fridge/NN]","(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (MD 'd) (VP (VB do) (SBAR (S (VP (VBD was) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB have) (NP (DT a) (NN bath))))))))))))) (, ,) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB put) (NP (PDT all) (DT the) (NN back)) (PP (IN in) (NP (DT the) (NN fridge)))))))))))))"
@@ -48,17 +48,17 @@ K/KD/KDT.xml,KDTRE000,75801,45,,B,42,1,"Really cold, really, it's horrible!","[R
 K/KD/KDT.xml,KDTRE000,75801,46,,A,43,1,(()) We didn't do him any good at all.,"[We/PRP, didn/VBP, 't/PRP, do/VB, him/PRP, any/DT, good/JJ, at/IN, all/DT, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB do) (S (NP (PRP him)) (ADJP (DT any) (JJ good)) (ADVP (IN at) (DT all)))))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,47,,A,43,2,Telling me he got six points for a driving convic- for er speeding conviction (()) ,"[Telling/VBG, me/PRP, he/PRP, got/VBD, six/CD, points/NNS, for/IN, a/DT, driving/VBG, convic-/NN, for/IN, er/NN, speeding/NN, conviction/NN]",(ROOT (SINV (VP (VBG Telling) (S (NP (PRP me)) (NP (PRP he)))) (VP (VBD got)) (NP (NP (CD six) (NNS points)) (PP (IN for) (NP (NP (DT a) (VBG driving) (NN convic-)) (PP (IN for) (NP (NN er) (NN speeding) (NN conviction))))))))
 K/KD/KDT.xml,KDTRE000,75801,48,,B,44,1,Halfords I should think,"[Halfords/NNS, I/PRP, should/MD, think/VB]",(ROOT (FRAG (NP (NP (NNS Halfords)) (SBAR (S (NP (PRP I)) (VP (MD should) (VP (VB think))))))))
-K/KD/KDT.xml,KDTRE000,75801,49,,A,45,1,(()) ,[],X
+K/KD/KDT.xml,KDTRE000,75801,49,,A,45,1,(()) ,[],
 K/KD/KDT.xml,KDTRE000,75801,50,,B,46,1,Oh right!,"[Oh/UH, right/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB right)))) (. !)))
 K/KD/KDT.xml,KDTRE000,75801,51,,A,47,1,When he got erm (()) ,"[When/WRB, he/PRP, got/VBD, erm/NN]",(ROOT (SBAR (WHADVP (WRB When)) (S (NP (PRP he)) (VP (VBD got) (NP (NN erm))))))
 K/KD/KDT.xml,KDTRE000,75801,52,,B,48,1,Oh (()) ,[Oh/UH],(ROOT (INTJ (UH Oh)))
-K/KD/KDT.xml,KDTRE000,75801,53,,A,49,1,(()) ,[],X
-K/KD/KDT.xml,KDTRE000,75801,54,,B,50,1,(()) ,[],X
+K/KD/KDT.xml,KDTRE000,75801,53,,A,49,1,(()) ,[],
+K/KD/KDT.xml,KDTRE000,75801,54,,B,50,1,(()) ,[],
 K/KD/KDT.xml,KDTRE000,75801,55,,A,51,1,(()) --,"[Smell/VB, it/PRP, ./.]",(ROOT (S (VP (VB Smell) (NP (PRP it))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,56,,A,51,2,--Smell it.,"[Smell/VB, it/PRP, ./.]",(ROOT (S (VP (VB Smell) (NP (PRP it))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,57,,A,51,3,See if it smells alright ,"[See/VB, if/IN, it/PRP, smells/VBZ, alright/JJ]",(ROOT (S (VP (VB See) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ smells) (ADJP (JJ alright))))))))
 K/KD/KDT.xml,KDTRE000,75801,58,,B,52,1,Got any (()) ,"[Got/VBD, any/DT]",(ROOT (SINV (VP (VBD Got)) (NP (DT any))))
-K/KD/KDT.xml,KDTRE000,75801,59,,A,53,1,(()) ,[],X
+K/KD/KDT.xml,KDTRE000,75801,59,,A,53,1,(()) ,[],
 K/KD/KDT.xml,KDTRE000,75801,60,,B,54,1,Oh (()) ,[Oh/UH],(ROOT (INTJ (UH Oh)))
 K/KD/KDT.xml,KDTRE000,75801,61,,A,55,1,We have to that's why (()) ,"[We/PRP, have/VBP, to/TO, that/DT, 's/VBZ, why/WRB]",(ROOT (S (NP (PRP We)) (VP (VBP have) (PP (TO to) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (FRAG (WHADVP (WRB why))))))))))
 K/KD/KDT.xml,KDTRE000,75801,62,,B,56,1,Aye (()) ,[Aye/NNP],(ROOT (NP (NNP Aye)))
@@ -90,7 +90,7 @@ K/KD/KDT.xml,KDTRE000,75801,87,,B,74,1,What else you've been doing?,"[What/WP, e
 K/KD/KDT.xml,KDTRE000,75801,88,,A,75,1,Oh I've done a bit of drawing.,"[Oh/UH, I/PRP, 've/VBP, done/VBN, a/DT, bit/NN, of/IN, drawing/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NN drawing))))))) (. .)))
 K/KD/KDT.xml,KDTRE000,75801,89,,A,75,2,(()) you wanna get your hair cut while you're there  (()) ,"[you/PRP, wanna/NNP, get/VB, your/PRP$, hair/NN, cut/NN, while/IN, you/PRP, 're/VBP, there/EX]",(ROOT (FRAG (NP (NP (PRP you)) (SBAR (S (NP (NNP wanna)) (VP (VB get) (NP (PRP$ your) (NN hair) (NN cut)) (SBAR (IN while) (S (NP (PRP you)) (VP (VBP 're) (NP (EX there)))))))))))
 K/KD/KDT.xml,KDTRE000,75801,90,,B,76,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KD/KDT.xml,KDTRE000,75801,91,,A,77,1,(()) ,[],X
+K/KD/KDT.xml,KDTRE000,75801,91,,A,77,1,(()) ,[],
 K/KD/KDT.xml,KDTRE000,75801,92,,B,78,1,"Yeah, I ought to go and get changed (()) ","[Yeah/UH, ,/,, I/PRP, ought/MD, to/TO, go/VB, and/CC, get/VB, changed/VBN]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD ought) (S (VP (TO to) (VP (VB go) (CC and) (VB get))))) (VBN changed)))"
 K/KD/KDT.xml,KDTRE000,75801,93,,A,79,1,"Yeah, well don't stand about  (()) ","[Yeah/UH, ,/,, well/RB, don/NNP, 't/PRP, stand/VBP, about/IN]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (NNP don) (NP (PRP 't)) (VP (VBP stand) (PP (IN about)))))"
 K/KD/KDT.xml,KDTRE000,75801,94,,B,80,1,"Yeah, that's alight.","[Yeah/UH, ,/,, that/DT, 's/VBZ, alight/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (ADVP (RB alight))) (. .)))"

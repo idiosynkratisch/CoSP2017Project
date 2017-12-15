@@ -16,8 +16,8 @@ K/KE/KE2.xml,KE2RE030,39306,13,,A,13,1,Pam went twenty miles ,"[Pam/NNS, went/VB
 K/KE/KE2.xml,KE2RE030,39306,14,,B,14,1,Twenty,[Twenty/CD],(ROOT (FRAG (NP (CD Twenty))))
 K/KE/KE2.xml,KE2RE030,39306,15,,A,15,1,twenty met- ,"[twenty/CD, met-/NN]",(ROOT (NP (CD twenty) (NN met-)))
 K/KE/KE2.xml,KE2RE030,39306,16,,B,16,1,Well she wouldn't go twenty miles in four seconds would she?,"[Well/RB, she/PRP, wouldn/VB, 't/PRP, go/VB, twenty/CD, miles/NNS, in/IN, four/CD, seconds/NNS, would/MD, she/PRP, ?/.]",(ROOT (S (SBAR (ADVP (RB Well)) (S (NP (PRP she)) (VP (VB wouldn) (S (NP (PRP 't)) (VP (VB go) (NP (NP (CD twenty) (NNS miles)) (PP (IN in) (NP (CD four) (NNS seconds))))))))) (VP (MD would) (VP (NP (PRP she)))) (. ?)))
-K/KE/KE2.xml,KE2RE030,39306,17,,A,17,1,<laugh> ,[],X
-K/KE/KE2.xml,KE2RE030,39306,18,,B,18,1,<laugh> ,[],X
+K/KE/KE2.xml,KE2RE030,39306,17,,A,17,1,<laugh> ,[],
+K/KE/KE2.xml,KE2RE030,39306,18,,B,18,1,<laugh> ,[],
 K/KE/KE2.xml,KE2RE030,39306,19,,A,19,1,twenty metres?,"[twenty/CD, metres/NNS, ?/.]",(ROOT (NP (CD twenty) (NNS metres) (. ?)))
 K/KE/KE2.xml,KE2RE030,39306,20,,B,20,1,In four seconds.,"[In/IN, four/CD, seconds/NNS, ./.]",(ROOT (FRAG (PP (IN In) (NP (CD four) (NNS seconds))) (. .)))
 K/KE/KE2.xml,KE2RE030,39306,21,,A,21,1,That's a lot isn't it?,"[That/DT, 's/VBZ, a/DT, lot/NN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT a) (NN lot) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))))) (. ?)))

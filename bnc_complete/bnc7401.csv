@@ -9,7 +9,7 @@ K/KD/KDE.xml,KDERE02D,7401,6,,A,5,1,Does he?(()) ,"[Does/VBZ, he/PRP, ?/.]",(ROO
 K/KD/KDE.xml,KDERE02D,7401,7,,B,6,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KD/KDE.xml,KDERE02D,7401,8,,B,6,2,I haven't seen it since.,"[I/NNP, haven/NNP, 't/PRP, seen/VBN, it/PRP, since/IN, ./.]",(ROOT (S (NP (NNP I) (NNP haven) (PRP 't)) (VP (VBN seen) (NP (PRP it)) (PP (IN since))) (. .)))
 K/KD/KDE.xml,KDERE02D,7401,9,,B,6,3,We got that woman coming tomorrow about umm next job.,"[We/PRP, got/VBD, that/IN, woman/NN, coming/VBG, tomorrow/NN, about/IN, umm/NN, next/JJ, job/NN, ./.]",(ROOT (S (NP (PRP We)) (VP (VBD got) (SBAR (IN that) (S (VP (NN woman) (S (VP (VBG coming) (NP (NN tomorrow)) (PP (IN about) (NP (NN umm) (JJ next) (NN job))))))))) (. .)))
-K/KD/KDE.xml,KDERE02D,7401,10,,A,7,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02D,7401,10,,A,7,1,(()) ,[],
 K/KD/KDE.xml,KDERE02D,7401,11,,B,8,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KDE.xml,KDERE02D,7401,12,,B,8,2,I think she said half eleven.,"[I/PRP, think/VBP, she/PRP, said/VBD, half/NN, eleven/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP she)) (VP (VBD said) (NP (NN half) (NNS eleven)))))) (. .)))
 K/KD/KDE.xml,KDERE02D,7401,13,,A,9,1,You never know.,"[You/PRP, never/RB, know/VBP, ./.]",(ROOT (S (NP (PRP You)) (ADVP (RB never)) (VP (VBP know)) (. .)))

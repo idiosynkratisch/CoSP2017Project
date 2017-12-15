@@ -187,7 +187,7 @@ sw10utt/sw_1032_2557.utt,2/sw2557,2557,184,b,B,122,1,"Yeah,  /","Yeah/UH ,/,","(
 sw10utt/sw_1032_2557.utt,2/sw2557,2557,185,%,B,122,2,"we, - /","we/PRP ,/,","(ROOT (S (NP (PRP we)) (VP (, ,))))",
 sw10utt/sw_1032_2557.utt,2/sw2557,2557,186,sd,B,122,3,I was looking through our photo album not long ago  /,I/PRP was/VBD looking/VBG through/IN our/PRP$ photo/NN album/NN not/RB long/JJ ago/RB,(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG looking) (PP (IN through) (NP (PRP$ our) (NN photo) (NN album)) (ADVP (ADVP (RB not) (JJ long)) (RB ago))))))),
 sw10utt/sw_1032_2557.utt,2/sw2557,2557,187,sd,B,122,4,"{C and } they [ had, +","and/CC they/PRP had/VBD ,/,","(ROOT (S (CC and) (NP (PRP they)) (VP (VP (VBD had)) (, ,) (VP (VBD had) (NP (NP (DT some) (NNS pictures) (CC and) (NNS things)) (PP (IN in) (NP (NP (RB there)) (PP (IN of) (NP (NNP Knox)))))))) (. .)))",
-sw10utt/sw_1032_2557.utt,2/sw2557,2557,188,x,A,123,1,# <Laughter>.  #,,X,
+sw10utt/sw_1032_2557.utt,2/sw2557,2557,188,x,A,123,1,# <Laughter>.  #,,,
 sw10utt/sw_1032_2557.utt,2/sw2557,2557,189,+,B,124,1,# had # ] some pictures and things in there of Knox. /,had/VBD some/DT pictures/NNS and/CC things/NNS in/IN there/RB of/IN Knox/NNP ./.,"(ROOT (S (CC and) (NP (PRP they)) (VP (VP (VBD had)) (, ,) (VP (VBD had) (NP (NP (DT some) (NNS pictures) (CC and) (NNS things)) (PP (IN in) (NP (NP (RB there)) (PP (IN of) (NP (NNP Knox)))))))) (. .)))",
 sw10utt/sw_1032_2557.utt,2/sw2557,2557,190,ba,A,125,1,"I'll be darn,  /","I/PRP 'll/MD be/VB darn/JJ ,/,","(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB be) (ADJP (JJ darn)))) (, ,)))",
 sw10utt/sw_1032_2557.utt,2/sw2557,2557,191,b,A,125,2,yeah. /,yeah/UH ./.,(ROOT (INTJ (UH yeah) (. .))),

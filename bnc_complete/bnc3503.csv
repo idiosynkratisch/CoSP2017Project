@@ -17,9 +17,9 @@ K/KC/KCV.xml,KCVRE00P,3503,14,,B,10,1,"And I have some of her one of her neighbo
 K/KC/KCV.xml,KCVRE00P,3503,15,,A,11,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KC/KCV.xml,KCVRE00P,3503,16,,B,12,1,"and now he's touring Rome as well, took advantage of being left in Mexico, travel all over South America and now I think he's going to do  (()) Australia and (()) .","[and/CC, now/RB, he/PRP, 's/VBZ, touring/VBG, Rome/NNP, as/RB, well/RB, ,/,, took/VBD, advantage/NN, of/IN, being/VBG, left/VBN, in/IN, Mexico/NNP, ,/,, travel/NN, all/DT, over/IN, South/NNP, America/NNP, and/CC, now/RB, I/PRP, think/VBP, he/PRP, 's/VBZ, going/VBG, to/TO, do/VB, Australia/NNP, and/CC, ./.]","(ROOT (S (S (CC and) (ADVP (RB now)) (NP (PRP he)) (VP (VBZ 's) (VP (VBG touring) (NP (NNP Rome)) (ADVP (RB as) (RB well))))) (, ,) (VP (VBD took) (NP (NP (NN advantage)) (PP (IN of) (S (VP (VBG being) (VP (VBN left) (PP (IN in) (NP (NP (NNP Mexico)) (, ,) (NP (NP (NN travel)) (NP (DT all))))) (PP (IN over) (NP (NNP South) (NNP America))))))))) (CC and) (S (ADVP (RB now)) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (NNP Australia)) (ADVP (CC and))))))))))) (. .)))"
 K/KC/KCV.xml,KCVRE00P,3503,17,,A,13,1,Really?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
-K/KC/KCV.xml,KCVRE00P,3503,18,,B,14,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00P,3503,18,,B,14,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00P,3503,19,,A,15,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
-K/KC/KCV.xml,KCVRE00P,3503,20,,B,16,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00P,3503,20,,B,16,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00P,3503,21,,A,17,1,Eat well.,"[Eat/VB, well/RB, ./.]",(ROOT (S (VP (VB Eat) (ADVP (RB well))) (. .)))
 K/KC/KCV.xml,KCVRE00P,3503,22,,B,18,1,Just back in the kitchen.,"[Just/RB, back/RB, in/IN, the/DT, kitchen/NN, ./.]",(ROOT (NP (NP (RB Just) (RB back)) (PP (IN in) (NP (DT the) (NN kitchen))) (. .)))
 K/KC/KCV.xml,KCVRE00P,3503,23,,A,19,1,"(()) oh dear, have to wash up.","[oh/UH, dear/RB, ,/,, have/VBP, to/TO, wash/VB, up/RP, ./.]","(ROOT (S (UH oh) (ADJP (RB dear)) (, ,) (VP (VBP have) (S (VP (TO to) (VP (VB wash) (PRT (RP up)))))) (. .)))"

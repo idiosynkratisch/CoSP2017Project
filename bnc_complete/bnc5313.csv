@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KC/KCD.xml,KCDRE034,5313,0,,A,1,1,(()) ,[],X
+K/KC/KCD.xml,KCDRE034,5313,0,,A,1,1,(()) ,[],
 K/KC/KCD.xml,KCDRE034,5313,1,,B,2,1,Where's this off -here?,"[Where/WRB, 's/VBZ, this/DT, off/IN, -here/CD, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (NP (DT this)) (PP (IN off) (NP (CD -here))))) (. ?)))
 K/KC/KCD.xml,KCDRE034,5313,2,,A,3,1,Hm.,"[Hm/NNS, ./.]",(ROOT (NP (NNS Hm) (. .)))
 K/KC/KCD.xml,KCDRE034,5313,3,,A,3,2,<talk in background> . Yes (()) .,"[./., Yes/UH, ./.]",(ROOT (FRAG (. .) (INTJ (UH Yes)) (. .)))

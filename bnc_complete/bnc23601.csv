@@ -17,7 +17,7 @@ K/KC/KCL.xml,KCLRE00F,23601,14,,A,7,1,"Well you've got them spare ribs here,(())
 K/KC/KCL.xml,KCLRE00F,23601,15,,B,8,1,"Yeah, I'll eat them tomorrow as well.","[Yeah/UH, ,/,, I/PRP, 'll/MD, eat/VB, them/PRP, tomorrow/NN, as/RB, well/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB eat) (NP (PRP them)) (NP (NN tomorrow)) (PP (RB as) (ADVP (RB well))))) (. .)))"
 K/KC/KCL.xml,KCLRE00F,23601,16,,B,8,2,Uncanny!,"[Uncanny/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Uncanny)) (. !)))
 K/KC/KCL.xml,KCLRE00F,23601,17,,B,8,3,Move that!,"[Move/VB, that/IN, !/.]",(ROOT (S (VP (VB Move) (ADVP (IN that))) (. !)))
-K/KC/KCL.xml,KCLRE00F,23601,18,,A,9,1,(()) ,[],X
+K/KC/KCL.xml,KCLRE00F,23601,18,,A,9,1,(()) ,[],
 K/KC/KCL.xml,KCLRE00F,23601,19,,B,10,1,I was talking to the gannet!,"[I/PRP, was/VBD, talking/VBG, to/TO, the/DT, gannet/NNP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG talking) (PP (TO to) (NP (DT the) (NNP gannet))))) (. !)))
 K/KC/KCL.xml,KCLRE00F,23601,20,,A,11,1,The gun?,"[The/DT, gun/NN, ?/.]",(ROOT (NP (DT The) (NN gun) (. ?)))
 K/KC/KCL.xml,KCLRE00F,23601,21,,B,12,1,The gannet!,"[The/DT, gannet/NNP, !/.]",(ROOT (FRAG (NP (DT The) (NNP gannet)) (. !)))

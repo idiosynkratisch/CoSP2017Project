@@ -71,7 +71,7 @@ K/KB/KBJ.xml,KBJRE00P,52302,68,,B,40,1,That's alright.,"[That/DT, 's/VBZ, alrigh
 K/KB/KBJ.xml,KBJRE00P,52302,69,,A,41,1,"Right that's it for you, they did one six stroke P F three nine five five eight stroke nine one.","[Right/NN, that/WDT, 's/VBZ, it/PRP, for/IN, you/PRP, ,/,, they/PRP, did/VBD, one/CD, six/CD, stroke/NN, P/NN, F/NN, three/CD, nine/CD, five/CD, five/CD, eight/CD, stroke/NN, nine/CD, one/CD, ./.]","(ROOT (S (NP (NP (NN Right)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (PRP it)) (PP (IN for) (NP (PRP you))))))) (, ,) (NP (PRP they)) (VP (VBD did) (SBAR (FRAG (X (NP (NP (CD one)) (NP (CD six) (NN stroke) (NN P))) (NP (NN F) (CD three)) (NP (NP (CD nine) (CD five)) (NP (CD five) (CD eight) (NN stroke)))) (NP (CD nine) (CD one))))) (. .)))"
 K/KB/KBJ.xml,KBJRE00P,52302,70,,B,42,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBJ.xml,KBJRE00P,52302,71,,A,43,1,Insured policy number.,"[Insured/JJ, policy/NN, number/NN, ./.]",(ROOT (NP (NP (JJ Insured) (NN policy)) (NP (NN number)) (. .)))
-K/KB/KBJ.xml,KBJRE00P,52302,72,,B,44,1,(()) ,[],X
+K/KB/KBJ.xml,KBJRE00P,52302,72,,B,44,1,(()) ,[],
 K/KB/KBJ.xml,KBJRE00P,52302,73,,A,45,1,So it's H,"[So/IN, it/PRP, 's/VBZ, H/NN]",(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP it)) (SBAR (S (VP (VBZ 's) (NP (NN H))))))))
 K/KB/KBJ.xml,KBJRE00P,52302,74,,B,46,1,P,[P/NN],(ROOT (NP (NN P)))
 K/KB/KBJ.xml,KBJRE00P,52302,75,,A,47,1,P,[P/NN],(ROOT (NP (NN P)))
@@ -138,7 +138,7 @@ K/KB/KBJ.xml,KBJRE00P,52302,135,,A,83,1,Fifteenth  --,"[Fifteenth/NNP, of/IN, th
 K/KB/KBJ.xml,KBJRE00P,52302,136,,A,83,2,--of the eleventh  --,"[Fifteenth/NNP, of/IN, the/DT, eleventh/NN, ninety/CD, one/CD, ./.]",(ROOT (NP (NP (NNP Fifteenth)) (PP (IN of) (NP (DT the) (NN eleventh) (QP (CD ninety) (CD one)))) (. .)))
 K/KB/KBJ.xml,KBJRE00P,52302,137,,A,83,3,--ninety one.,"[Fifteenth/NNP, of/IN, the/DT, eleventh/NN, ninety/CD, one/CD, ./.]",(ROOT (NP (NP (NNP Fifteenth)) (PP (IN of) (NP (DT the) (NN eleventh) (QP (CD ninety) (CD one)))) (. .)))
 K/KB/KBJ.xml,KBJRE00P,52302,138,,A,83,4,For the ,"[For/IN, the/DT]",(ROOT (PP (IN For) (NP (DT the))))
-K/KB/KBJ.xml,KBJRE00P,52302,139,,B,84,1,(()) ,[],X
+K/KB/KBJ.xml,KBJRE00P,52302,139,,B,84,1,(()) ,[],
 K/KB/KBJ.xml,KBJRE00P,52302,140,,A,85,1,public one.,"[public/JJ, one/CD, ./.]",(ROOT (FRAG (ADJP (JJ public) (NP (CD one))) (. .)))
 K/KB/KBJ.xml,KBJRE00P,52302,141,,A,85,2,About sort of  --,"[About/IN, sort/NN, of/IN, A/DT, double/JJ, P/NN, and/CC, R/NN, L/NN, X/NN, in/IN, brackets/NNS, ./.]",(ROOT (FRAG (PP (IN About) (NP (NP (NN sort)) (PP (IN of) (NP (NP (DT A) (JJ double) (NN P) (CC and) (NN R) (NN L) (NN X)) (PP (IN in) (NP (NNS brackets))))))) (. .)))
 K/KB/KBJ.xml,KBJRE00P,52302,142,,A,85,3,--A double P  --,"[About/IN, sort/NN, of/IN, A/DT, double/JJ, P/NN, and/CC, R/NN, L/NN, X/NN, in/IN, brackets/NNS, ./.]",(ROOT (FRAG (PP (IN About) (NP (NP (NN sort)) (PP (IN of) (NP (NP (DT A) (JJ double) (NN P) (CC and) (NN R) (NN L) (NN X)) (PP (IN in) (NP (NNS brackets))))))) (. .)))
@@ -204,7 +204,7 @@ K/KB/KBJ.xml,KBJRE00P,52302,201,,A,117,1,B R  --,"[B/NN, R/NN, I/PRP, think/VBP,
 K/KB/KBJ.xml,KBJRE00P,52302,202,,A,117,2,--I think this is how you spell Britannia.,"[B/NN, R/NN, I/PRP, think/VBP, this/DT, is/VBZ, how/WRB, you/PRP, spell/VBP, Britannia/NN, ./.]",(ROOT (S (NP (NP (NN B) (NN R)) (SBAR (S (NP (PRP I)) (VP (VBP think) (NP (DT this)))))) (VP (VBZ is) (SBAR (WHADVP (WRB how)) (S (NP (PRP you)) (VP (VBP spell) (NP (NN Britannia)))))) (. .)))
 K/KB/KBJ.xml,KBJRE00P,52302,203,,A,117,3,"Just look, look.","[Just/RB, look/VB, ,/,, look/VB, ./.]","(ROOT (S (ADVP (RB Just)) (VP (VP (VB look)) (, ,) (VP (VB look))) (. .)))"
 K/KB/KBJ.xml,KBJRE00P,52302,204,,A,117,4,B R I T,"[B/NN, R/NN, I/PRP, T/NN]",(ROOT (NP (NP (NN B) (NN R)) (NP (PRP I)) (NP (NN T))))
-K/KB/KBJ.xml,KBJRE00P,52302,205,,B,118,1,<sneeze> ,[],X
+K/KB/KBJ.xml,KBJRE00P,52302,205,,B,118,1,<sneeze> ,[],
 K/KB/KBJ.xml,KBJRE00P,52302,206,,A,119,1,"A double N, I A.","[A/DT, double/JJ, N/NN, ,/,, I/PRP, A/DT, ./.]","(ROOT (NP (NP (NP (DT A) (JJ double) (NN N)) (, ,) (NP (ADVP (PRP I)) (DT A))) (. .)))"
 K/KB/KBJ.xml,KBJRE00P,52302,207,,A,119,2,I've missed the I out.,"[I/PRP, 've/VBP, missed/VBN, the/DT, I/PRP, out/RP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN missed) (S (NP (DT the) (PRP I))) (ADVP (RP out)))) (. .)))
 K/KB/KBJ.xml,KBJRE00P,52302,208,,A,119,3,B R I T  --,"[B/NN, R/NN, I/PRP, T/NN, A/DT, double/JJ, N/NN, ,/,, I/PRP, A/DT, ./.]","(ROOT (NP (NP (NN B) (NN R)) (NP (NP (PRP I)) (NP (NN T))) (NP (NP (DT A) (JJ double) (NN N)) (, ,) (NP (ADVP (PRP I)) (DT A))) (. .)))"
@@ -238,7 +238,7 @@ K/KB/KBJ.xml,KBJRE00P,52302,235,,A,133,1,Oh that's alright.,"[Oh/UH, that/DT, 's
 K/KB/KBJ.xml,KBJRE00P,52302,236,,B,134,1,"Yeah, Britannia building card.","[Yeah/UH, ,/,, Britannia/NNP, building/NNP, card/NN, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NP (NNP Britannia)) (PP (NNP building) (NP (NN card)))) (. .)))"
 K/KB/KBJ.xml,KBJRE00P,52302,237,,A,135,1,Card?,"[Card/NN, ?/.]",(ROOT (FRAG (NP (NN Card)) (. ?)))
 K/KB/KBJ.xml,KBJRE00P,52302,238,,A,135,2,Guard?,"[Guard/NN, ?/.]",(ROOT (FRAG (NP (NN Guard)) (. ?)))
-K/KB/KBJ.xml,KBJRE00P,52302,239,,B,136,1,<laugh> ,[],X
+K/KB/KBJ.xml,KBJRE00P,52302,239,,B,136,1,<laugh> ,[],
 K/KB/KBJ.xml,KBJRE00P,52302,240,,A,137,1,I can't do everything properly you know!,"[I/PRP, can/MD, 't/PRP, do/VB, everything/NN, properly/RB, you/PRP, know/VBP, !/.]",(ROOT (S (NP (PRP I)) (PRN (SINV (MD can) (NP (PRP 't)) (VP (VB do) (NP (NN everything)) (ADVP (RB properly))))) (NP (PRP you)) (VP (VBP know)) (. !)))
 K/KB/KBJ.xml,KBJRE00P,52302,241,,A,137,2,Name and address of other insurers?,"[Name/NN, and/CC, address/NN, of/IN, other/JJ, insurers/NNS, ?/.]",(ROOT (NP (NP (NN Name) (CC and) (NN address)) (PP (IN of) (NP (JJ other) (NNS insurers))) (. ?)))
 K/KB/KBJ.xml,KBJRE00P,52302,242,,B,138,1,Bit skew-whiff there though innit?,"[Bit/NN, skew-whiff/JJ, there/EX, though/IN, innit/NNP, ?/.]",(ROOT (NP (NP (NN Bit) (JJ skew-whiff)) (NP (NP (EX there)) (PP (IN though) (NP (NNP innit)))) (. ?)))

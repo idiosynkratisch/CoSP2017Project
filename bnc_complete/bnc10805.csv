@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KE/KE3.xml,KE3RE02U,10805,0,,A,1,1,"Yes, one or two.","[Yes/UH, ,/,, one/CD, or/CC, two/CD, ./.]","(ROOT (FRAG (INTJ (UH Yes)) (, ,) (NP (NP (CD one)) (CC or) (NP (CD two))) (. .)))"
-K/KE/KE3.xml,KE3RE02U,10805,1,,B,2,1,(()) ,[],X
+K/KE/KE3.xml,KE3RE02U,10805,1,,B,2,1,(()) ,[],
 K/KE/KE3.xml,KE3RE02U,10805,2,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE3.xml,KE3RE02U,10805,3,,A,3,2,Erm  --,"[Erm/NNP, Oh/UH, I/PRP, was/VBD, just/RB, trying/VBG, to/TO, remember/VB, what/WP, ,/,, what/WP, was/VBD, said/VBN, ./.]","(ROOT (S (NP (NP (NNP Erm)) (SBAR (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VBG trying) (S (VP (TO to) (VP (VB remember) (NP (WP what)))))))))) (, ,) (NP (WP what)) (VP (VBD was) (VP (VBN said))) (. .)))"
 K/KE/KE3.xml,KE3RE02U,10805,4,,A,3,3,"--Oh I was just trying to remember what, what was said.","[Erm/NNP, Oh/UH, I/PRP, was/VBD, just/RB, trying/VBG, to/TO, remember/VB, what/WP, ,/,, what/WP, was/VBD, said/VBN, ./.]","(ROOT (S (NP (NP (NNP Erm)) (SBAR (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VBG trying) (S (VP (TO to) (VP (VB remember) (NP (WP what)))))))))) (, ,) (NP (WP what)) (VP (VBD was) (VP (VBN said))) (. .)))"
@@ -33,7 +33,7 @@ K/KE/KE3.xml,KE3RE02U,10805,30,,A,9,14,That's what really makes,"[That/DT, 's/VB
 K/KE/KE3.xml,KE3RE02U,10805,31,,A,9,15,"something, something very odd came out of that, this Ann  --","[something/NN, ,/,, something/NN, very/RB, odd/JJ, came/VBD, out/IN, of/IN, that/DT, ,/,, this/DT, Ann/NNP, said/VBD, something/NN, I/PRP, thought/VBD, what/WP, ?/.]","(ROOT (S (S (NP (NP (NN something)) (, ,) (NP (NP (NN something)) (ADJP (RB very) (JJ odd)))) (VP (VBD came) (PRT (IN out)) (PP (IN of) (NP (DT that))))) (, ,) (NP (DT this) (NNP Ann)) (VP (VBD said) (NP (NP (NN something)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (NP (WP what))))))) (. ?)))"
 K/KE/KE3.xml,KE3RE02U,10805,32,,A,9,16,--said something I thought  --,"[something/NN, ,/,, something/NN, very/RB, odd/JJ, came/VBD, out/IN, of/IN, that/DT, ,/,, this/DT, Ann/NNP, said/VBD, something/NN, I/PRP, thought/VBD, what/WP, ?/.]","(ROOT (S (S (NP (NP (NN something)) (, ,) (NP (NP (NN something)) (ADJP (RB very) (JJ odd)))) (VP (VBD came) (PRT (IN out)) (PP (IN of) (NP (DT that))))) (, ,) (NP (DT this) (NNP Ann)) (VP (VBD said) (NP (NP (NN something)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (NP (WP what))))))) (. ?)))"
 K/KE/KE3.xml,KE3RE02U,10805,33,,A,9,17,--what?<laugh> ,"[something/NN, ,/,, something/NN, very/RB, odd/JJ, came/VBD, out/IN, of/IN, that/DT, ,/,, this/DT, Ann/NNP, said/VBD, something/NN, I/PRP, thought/VBD, what/WP, ?/.]","(ROOT (S (S (NP (NP (NN something)) (, ,) (NP (NP (NN something)) (ADJP (RB very) (JJ odd)))) (VP (VBD came) (PRT (IN out)) (PP (IN of) (NP (DT that))))) (, ,) (NP (DT this) (NNP Ann)) (VP (VBD said) (NP (NP (NN something)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (NP (WP what))))))) (. ?)))"
-K/KE/KE3.xml,KE3RE02U,10805,34,,A,9,18,<laugh> ,[],X
+K/KE/KE3.xml,KE3RE02U,10805,34,,A,9,18,<laugh> ,[],
 K/KE/KE3.xml,KE3RE02U,10805,35,,A,9,19,And  --,"[And/CC, and/CC, the/DT, thing/NN, is/VBZ, I/PRP, didn/VBP, 't/PRP, understand/VB, it/PRP, ./.]",(ROOT (S (CC And) (S (CC and) (NP (DT the) (NN thing)) (VP (VBZ is))) (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB understand) (NP (PRP it))))) (. .)))
 K/KE/KE3.xml,KE3RE02U,10805,36,,A,9,20,--and the thing is I didn't understand it.,"[And/CC, and/CC, the/DT, thing/NN, is/VBZ, I/PRP, didn/VBP, 't/PRP, understand/VB, it/PRP, ./.]",(ROOT (S (CC And) (S (CC and) (NP (DT the) (NN thing)) (VP (VBZ is))) (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB understand) (NP (PRP it))))) (. .)))
 K/KE/KE3.xml,KE3RE02U,10805,37,,A,9,21,So it's quite difficult to remember exactly what she said.,"[So/IN, it/PRP, 's/VBZ, quite/RB, difficult/JJ, to/TO, remember/VB, exactly/RB, what/WP, she/PRP, said/VBD, ./.]",(ROOT (S (IN So) (NP (PRP it)) (VP (VBZ 's) (ADJP (RB quite) (JJ difficult)) (S (VP (TO to) (VP (VB remember) (SBAR (WHADJP (RB exactly) (WP what)) (S (NP (PRP she)) (VP (VBD said)))))))) (. .)))
@@ -46,8 +46,8 @@ K/KE/KE3.xml,KE3RE02U,10805,43,,A,9,27,Trouble is when you don't understand it i
 K/KE/KE3.xml,KE3RE02U,10805,44,,A,9,28,No that's right.,"[No/DT, that/WDT, 's/VBZ, right/NN, ./.]",(ROOT (S (VP (NP (DT No) (S (NP (WDT that)) (VP (VBZ 's) (NP (NN right)))))) (. .)))
 K/KE/KE3.xml,KE3RE02U,10805,45,,A,9,29,But everybody sort of.,"[But/CC, everybody/NN, sort/NN, of/IN, ./.]",(ROOT (FRAG (CC But) (NP (NP (NN everybody) (NN sort)) (PP (IN of))) (. .)))
 K/KE/KE3.xml,KE3RE02U,10805,46,,A,9,30,I remembered  (()) <laugh> ,"[I/PRP, remembered/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD remembered))))
-K/KE/KE3.xml,KE3RE02U,10805,47,,A,9,31,(()) ,[],X
-K/KE/KE3.xml,KE3RE02U,10805,48,,A,9,32,(()) ,[],X
+K/KE/KE3.xml,KE3RE02U,10805,47,,A,9,31,(()) ,[],
+K/KE/KE3.xml,KE3RE02U,10805,48,,A,9,32,(()) ,[],
 K/KE/KE3.xml,KE3RE02U,10805,49,,A,9,33,Have you?,"[Have/VB, you/PRP, ?/.]",(ROOT (SQ (VP (VB Have) (NP (PRP you))) (. ?)))
 K/KE/KE3.xml,KE3RE02U,10805,50,,A,9,34,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE3.xml,KE3RE02U,10805,51,,A,9,35,It's a bit like a single office group.,"[It/PRP, 's/VBZ, a/DT, bit/NN, like/IN, a/DT, single/JJ, office/NN, group/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT a) (NN bit)) (PP (IN like) (NP (DT a) (JJ single) (NN office) (NN group))))) (. .)))

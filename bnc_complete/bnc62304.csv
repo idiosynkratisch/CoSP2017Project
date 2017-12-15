@@ -58,8 +58,8 @@ K/KB/KB9.xml,KB9RE00F,62304,55,,B,38,1,I'll ask them when they come ,"[I/PRP, 'l
 K/KB/KB9.xml,KB9RE00F,62304,56,,A,39,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KB9.xml,KB9RE00F,62304,57,,B,40,1,"by,(()) ","[by/IN, ,/,]","(ROOT (FRAG (PP (IN by)) (, ,)))"
 K/KB/KB9.xml,KB9RE00F,62304,58,,B,40,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KB/KB9.xml,KB9RE00F,62304,59,,B,40,3,(()) ,[],X
-K/KB/KB9.xml,KB9RE00F,62304,60,,A,41,1,<laugh> ,[],X
+K/KB/KB9.xml,KB9RE00F,62304,59,,B,40,3,(()) ,[],
+K/KB/KB9.xml,KB9RE00F,62304,60,,A,41,1,<laugh> ,[],
 K/KB/KB9.xml,KB9RE00F,62304,61,,B,42,1,(()) ?,[?/.],(ROOT (NP (. ?)))
 K/KB/KB9.xml,KB9RE00F,62304,62,,A,43,1,Over there.,"[Over/IN, there/RB, ./.]",(ROOT (FRAG (PP (IN Over) (NP (RB there))) (. .)))
 K/KB/KB9.xml,KB9RE00F,62304,63,,A,43,2,Back a bit.,"[Back/RB, a/DT, bit/NN, ./.]",(ROOT (FRAG (ADVP (RB Back)) (NP (DT a) (NN bit)) (. .)))
@@ -90,12 +90,12 @@ K/KB/KB9.xml,KB9RE00F,62304,87,,B,58,1,Full time?,"[Full/JJ, time/NN, ?/.]",(ROO
 K/KB/KB9.xml,KB9RE00F,62304,88,,A,59,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KB9.xml,KB9RE00F,62304,89,,A,59,2,Why not!,"[Why/WRB, not/RB, !/.]",(ROOT (FRAG (WHADVP (WRB Why)) (NP (RB not)) (. !)))
 K/KB/KB9.xml,KB9RE00F,62304,90,,B,60,1,You wouldn't see me   <laughing> (()) you'll hear her </laughing> !,"[You/PRP, wouldn/VBP, 't/PRP, see/VB, me/PRP, you/PRP, 'll/MD, hear/VB, her/PRP$, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP wouldn) (S (NP (PRP 't)) (VP (VB see) (NP (PRP me)) (SBAR (S (NP (PRP you)) (VP (MD 'll) (VP (VB hear) (NP (PRP$ her))))))))) (. !)))
-K/KB/KB9.xml,KB9RE00F,62304,91,,A,61,1,<laugh> ,[],X
-K/KB/KB9.xml,KB9RE00F,62304,92,,B,62,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE00F,62304,91,,A,61,1,<laugh> ,[],
+K/KB/KB9.xml,KB9RE00F,62304,92,,B,62,1,(()) ,[],
 K/KB/KB9.xml,KB9RE00F,62304,93,,B,62,2,Oh hello!,"[Oh/UH, hello/UH, !/.]",(ROOT (FRAG (UH Oh) (INTJ (UH hello)) (. !)))
 K/KB/KB9.xml,KB9RE00F,62304,94,,B,62,3,Alright?,"[Alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP Alright)) (. ?)))
 K/KB/KB9.xml,KB9RE00F,62304,95,,B,62,4,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KB/KB9.xml,KB9RE00F,62304,96,,B,62,5,(()) ,[],X
+K/KB/KB9.xml,KB9RE00F,62304,96,,B,62,5,(()) ,[],
 K/KB/KB9.xml,KB9RE00F,62304,97,,B,62,6,See you later!,"[See/VB, you/PRP, later/RB, !/.]",(ROOT (S (VP (VB See) (NP (PRP you)) (ADVP (RB later))) (. !)))
 K/KB/KB9.xml,KB9RE00F,62304,98,,A,63,1,See you!,"[See/VB, you/PRP, !/.]",(ROOT (S (VP (VB See) (NP (PRP you))) (. !)))
 K/KB/KB9.xml,KB9RE00F,62304,99,,A,63,2,Mm mm.,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
@@ -121,7 +121,7 @@ K/KB/KB9.xml,KB9RE00F,62304,118,,A,73,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Y
 K/KB/KB9.xml,KB9RE00F,62304,119,,A,73,3,The ,[The/DT],(ROOT (FRAG (DT The)))
 K/KB/KB9.xml,KB9RE00F,62304,120,,B,74,1,Yep!,"[Yep/RB, !/.]",(ROOT (FRAG (ADVP (RB Yep)) (. !)))
 K/KB/KB9.xml,KB9RE00F,62304,121,,A,75,1,Father Christmas.,"[Father/NN, Christmas/NNP, ./.]",(ROOT (NP (NP (NN Father)) (NP (NNP Christmas)) (. .)))
-K/KB/KB9.xml,KB9RE00F,62304,122,,B,76,1,<laugh> ,[],X
+K/KB/KB9.xml,KB9RE00F,62304,122,,B,76,1,<laugh> ,[],
 K/KB/KB9.xml,KB9RE00F,62304,123,,A,77,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KB9.xml,KB9RE00F,62304,124,,A,77,2,You alright?,"[You/PRP, alright/RB, ?/.]",(ROOT (FRAG (NP (PRP You)) (ADVP (RB alright)) (. ?)))
 K/KB/KB9.xml,KB9RE00F,62304,125,,B,78,1,You alright?,"[You/PRP, alright/RB, ?/.]",(ROOT (FRAG (NP (PRP You)) (ADVP (RB alright)) (. ?)))

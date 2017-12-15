@@ -1,8 +1,8 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE022,2301,0,,A,1,1,"Oh, can't get the bag open.<laugh> ","[Oh/UH, ,/,, can/MD, 't/PRP, get/VB, the/DT, bag/NN, open/JJ, ./.]","(ROOT (SQ (INTJ (UH Oh)) (, ,) (MD can) (NP (PRP 't)) (VP (VB get) (S (NP (DT the) (NN bag)) (ADJP (JJ open)))) (. .)))"
-K/KB/KBK.xml,KBKRE022,2301,1,,B,2,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE022,2301,1,,B,2,1,<laugh> ,[],
 K/KB/KBK.xml,KBKRE022,2301,2,,A,3,1,Ah  <sigh> Would you like to record a song for posterity Lynda?,"[Ah/NN, Would/MD, you/PRP, like/VB, to/TO, record/VB, a/DT, song/NN, for/IN, posterity/NN, Lynda/NNP, ?/.]",(ROOT (S (NP (NN Ah)) (VP (MD Would) (NP (PRP you)) (S (VP (VB like) (S (VP (TO to) (VP (VB record) (NP (NP (DT a) (NN song)) (PP (IN for) (NP (NN posterity) (NNP Lynda)))))))))) (. ?)))
 K/KB/KBK.xml,KBKRE022,2301,3,,B,4,1,<laugh> .,[./.],(ROOT (NP (. .)))
 K/KB/KBK.xml,KBKRE022,2301,4,,B,4,2,"Er, I (()) .","[Er/NN, ,/,, I/PRP, ./.]","(ROOT (NP (NP (NN Er)) (, ,) (NP (PRP I)) (. .)))"
 K/KB/KBK.xml,KBKRE022,2301,5,,A,5,1,"Yeah, well I'll enjoy it (()) .","[Yeah/UH, ,/,, well/RB, I/PRP, 'll/MD, enjoy/VB, it/PRP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (NP (PRP I)) (VP (MD 'll) (VP (VB enjoy) (NP (PRP it)))) (. .)))"
-K/KB/KBK.xml,KBKRE022,2301,6,,B,6,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE022,2301,6,,B,6,1,<laugh> ,[],

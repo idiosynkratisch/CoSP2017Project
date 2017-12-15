@@ -18,7 +18,7 @@ K/KC/KCN.xml,KCNRE009,26809,15,,A,9,2,"I think, yep.","[I/PRP, think/VBP, ,/,, y
 K/KC/KCN.xml,KCNRE009,26809,16,,B,10,1,Lovely!,"[Lovely/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. !)))
 K/KC/KCN.xml,KCNRE009,26809,17,,B,10,2,Ta ,[Ta/NNP],(ROOT (NP (NNP Ta)))
 K/KC/KCN.xml,KCNRE009,26809,18,,A,11,1,"So what they gonna build behind you, another garage?","[So/RB, what/WP, they/PRP, gonna/VBP, build/VB, behind/IN, you/PRP, ,/,, another/DT, garage/NN, ?/.]","(ROOT (SBARQ (RB So) (WHNP (WP what)) (SQ (NP (PRP they)) (VP (VBP gonna) (VP (VB build) (PP (IN behind) (NP (NP (PRP you)) (, ,) (NP (DT another) (NN garage))))))) (. ?)))"
-K/KC/KCN.xml,KCNRE009,26809,19,,B,12,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE009,26809,19,,B,12,1,(()) ,[],
 K/KC/KCN.xml,KCNRE009,26809,20,,A,13,1,Is it?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
 K/KC/KCN.xml,KCNRE009,26809,21,,B,14,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
 K/KC/KCN.xml,KCNRE009,26809,22,,A,15,1,Be alright  (()) won't it?,"[Be/VB, alright/JJ, won/VBD, 't/PRP, it/PRP, ?/.]",(ROOT (SQ (VP (VB Be) (ADJP (JJ alright) (SBAR (S (VP (VBD won) (S (NP (PRP 't)) (NP (PRP it)))))))) (. ?)))
@@ -61,7 +61,7 @@ K/KC/KCN.xml,KCNRE009,26809,58,,B,38,1,a garage  --,"[a/DT, garage/NN, down/IN, 
 K/KC/KCN.xml,KCNRE009,26809,59,,B,38,2,--down the end there.--,"[a/DT, garage/NN, down/IN, the/DT, end/NN, there/RB, ./.]",(ROOT (NP (NP (DT a) (NN garage)) (PP (IN down) (NP (DT the) (NN end))) (ADVP (RB there)) (. .)))
 K/KC/KCN.xml,KCNRE009,26809,60,,B,38,3,--(()) ,"[a/DT, garage/NN, down/IN, the/DT, end/NN, there/RB, ./.]",(ROOT (NP (NP (DT a) (NN garage)) (PP (IN down) (NP (DT the) (NN end))) (ADVP (RB there)) (. .)))
 K/KC/KCN.xml,KCNRE009,26809,61,,A,39,1,"If it was you see, they'd be quick enough coming to tell you!","[If/IN, it/PRP, was/VBD, you/PRP, see/VB, ,/,, they/PRP, 'd/MD, be/VB, quick/JJ, enough/JJ, coming/VBG, to/TO, tell/VB, you/PRP, !/.]","(ROOT (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (S (NP (PRP you)) (VP (VB see)))))) (, ,) (NP (PRP they)) (VP (MD 'd) (VP (VB be) (ADJP (JJ quick) (JJ enough)) (S (VP (VBG coming) (S (VP (TO to) (VP (VB tell) (NP (PRP you))))))))) (. !)))"
-K/KC/KCN.xml,KCNRE009,26809,62,,B,40,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE009,26809,62,,B,40,1,(()) ,[],
 K/KC/KCN.xml,KCNRE009,26809,63,,A,41,1,Ey --,"[Ey/NNP, Right/NNP, tara/NNP, Thanks/NNS, !/.]",(ROOT (NP (NP (NNP Ey)) (NP (NP (NNP Right) (NNP tara)) (NP (NNS Thanks))) (. !)))
 K/KC/KCN.xml,KCNRE009,26809,64,,A,41,2,--Right  --,"[Ey/NNP, Right/NNP, tara/NNP, Thanks/NNS, !/.]",(ROOT (NP (NP (NNP Ey)) (NP (NP (NNP Right) (NNP tara)) (NP (NNS Thanks))) (. !)))
 K/KC/KCN.xml,KCNRE009,26809,65,,A,41,3,--tara --,"[Ey/NNP, Right/NNP, tara/NNP, Thanks/NNS, !/.]",(ROOT (NP (NP (NNP Ey)) (NP (NP (NNP Right) (NNP tara)) (NP (NNS Thanks))) (. !)))

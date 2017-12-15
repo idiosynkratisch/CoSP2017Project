@@ -1,22 +1,22 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDA.xml,KDARE02P,13103,0,,A,1,1,Its a nice time sheet,"[Its/PRP$, a/DT, nice/JJ, time/NN, sheet/NN]",(ROOT (X (NP (PRP$ Its) (NP (DT a) (ADJP (JJ nice)) (NN time) (NN sheet)))))
 K/KD/KDA.xml,KDARE02P,13103,1,,B,2,1,It is isn't it?,"[It/PRP, is/VBZ, isn/JJ, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ isn)) (NP (NP (PRP 't)) (NP (PRP it)))) (. ?)))
-K/KD/KDA.xml,KDARE02P,13103,2,,B,2,2,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,2,,B,2,2,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,3,,B,2,3,Yeah pin head.,"[Yeah/UH, pin/NN, head/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Yeah)) (NP (NN pin) (NN head)))) (. .)))
 K/KD/KDA.xml,KDARE02P,13103,4,,B,2,4,Is it pin head?,"[Is/VBZ, it/PRP, pin/VB, head/NN, ?/.]",(ROOT (S (VP (VBZ Is) (S (NP (PRP it)) (VP (VB pin) (NP (NN head))))) (. ?)))
-K/KD/KDA.xml,KDARE02P,13103,5,,B,2,5,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,5,,B,2,5,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,6,,B,2,6,Is that him that keeps doing that or is it fucking Mark <<REDACTED (name)>> ?,"[Is/VBZ, that/IN, him/PRP, that/IN, keeps/VBZ, doing/VBG, that/IN, or/CC, is/VBZ, it/PRP, fucking/JJ, Mark/NN, >/JJR, ?/.]",(ROOT (SQ (VBZ Is) (SBAR (IN that) (S (NP (PRP him)) (VP (VP (IN that) (VP (VBZ keeps) (S (VP (VBG doing) (ADVP (IN that)))))) (CC or) (VP (VBZ is) (NP (PRP it) (JJ fucking) (NN Mark)))))) (ADJP (JJR >)) (. ?)))
 K/KD/KDA.xml,KDARE02P,13103,7,,B,2,7,(()) its Mark <<REDACTED (name)>> ,"[its/PRP$, Mark/NN, >/JJR]",(ROOT (NP (NP (PRP$ its) (NN Mark)) (NP (JJR >))))
 K/KD/KDA.xml,KDARE02P,13103,8,,B,2,8,Oh,[Oh/UH],(ROOT (INTJ (UH Oh)))
-K/KD/KDA.xml,KDARE02P,13103,9,,B,2,9,(()) ,[],X
-K/KD/KDA.xml,KDARE02P,13103,10,,B,2,10,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,9,,B,2,9,(()) ,[],
+K/KD/KDA.xml,KDARE02P,13103,10,,B,2,10,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,11,,B,2,11,"(()) since Friday, cut that out (()) ","[since/IN, Friday/NNP, ,/,, cut/VBD, that/DT, out/IN]","(ROOT (SINV (PP (IN since) (NP (NNP Friday))) (, ,) (VP (VBD cut)) (NP (NP (DT that)) (ADVP (IN out)))))"
-K/KD/KDA.xml,KDARE02P,13103,12,,B,2,12,(()) ,[],X
-K/KD/KDA.xml,KDARE02P,13103,13,,B,2,13,(()) ,[],X
-K/KD/KDA.xml,KDARE02P,13103,14,,B,2,14,<laugh> ,[],X
+K/KD/KDA.xml,KDARE02P,13103,12,,B,2,12,(()) ,[],
+K/KD/KDA.xml,KDARE02P,13103,13,,B,2,13,(()) ,[],
+K/KD/KDA.xml,KDARE02P,13103,14,,B,2,14,<laugh> ,[],
 K/KD/KDA.xml,KDARE02P,13103,15,,B,2,15,The whole fucking weekend  (()) to do with it.,"[The/DT, whole/JJ, fucking/JJ, weekend/NN, to/TO, do/VB, with/IN, it/PRP, ./.]",(ROOT (S (NP (DT The) (JJ whole) (JJ fucking) (NN weekend)) (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP it))))) (. .)))
 K/KD/KDA.xml,KDARE02P,13103,16,,B,2,16,<laugh> I just can't fucking swear   (()) <laugh> (()) ,"[I/PRP, just/RB, can/MD, 't/PRP, fucking/VBG, swear/VB]",(ROOT (FRAG (S (NP (PRP I)) (ADVP (RB just)) (VP (MD can) (NP (PRP 't)) (S (VP (VBG fucking) (S (VP (VB swear)))))))))
-K/KD/KDA.xml,KDARE02P,13103,17,,B,2,17,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,17,,B,2,17,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,18,,B,2,18,Your a bad influence Mark.,"[Your/PRP$, a/DT, bad/JJ, influence/NN, Mark/NN, ./.]",(ROOT (NP (NP (PRP$ Your)) (NP (DT a) (JJ bad) (NN influence) (NN Mark)) (. .)))
 K/KD/KDA.xml,KDARE02P,13103,19,,B,2,19,(()) out there.,"[out/IN, there/RB, ./.]",(ROOT (FRAG (ADVP (IN out)) (NP (RB there)) (. .)))
 K/KD/KDA.xml,KDARE02P,13103,20,,B,2,20,"Yeah, its hardly there (()) ","[Yeah/UH, ,/,, its/PRP$, hardly/RB, there/EX]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP$ its)) (ADVP (RB hardly)) (VP (EX there))))"
@@ -37,11 +37,11 @@ K/KD/KDA.xml,KDARE02P,13103,34,,B,2,34,I'm glad I'm going home at half four toni
 K/KD/KDA.xml,KDARE02P,13103,35,,B,2,35,I ain't got a (()) ,"[I/PRP, ain/VBP, 't/PRP, got/VBD, a/DT]",(ROOT (S (NP (PRP I)) (VP (VBP ain) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (DT a))))))))
 K/KD/KDA.xml,KDARE02P,13103,36,,B,2,36,"No, I have ain't I?","[No/DT, ,/,, I/PRP, have/VBP, ain/VBN, 't/PRP, I/PRP, ?/.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP have) (VP (VBN ain) (S (NP (PRP 't)) (NP (PRP I))))) (. ?)))"
 K/KD/KDA.xml,KDARE02P,13103,37,,B,2,37,"I've worked the last five, get out (()) ","[I/PRP, 've/VBP, worked/VBD, the/DT, last/JJ, five/CD, ,/,, get/VB, out/RP]","(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD worked) (NP (DT the) (JJ last) (CD five)) (, ,) (VP (VB get) (PRT (RP out)))))))"
-K/KD/KDA.xml,KDARE02P,13103,38,,B,2,38,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,38,,B,2,38,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,39,,B,2,39,So out you gonna make up your (()) ,"[So/RB, out/IN, you/PRP, gonna/VBP, make/VB, up/RP, your/PRP$]",(ROOT (FRAG (RB So) (PP (IN out) (S (NP (PRP you)) (VP (VBP gonna) (VP (VB make) (PRT (RP up)) (NP (PRP$ your))))))))
 K/KD/KDA.xml,KDARE02P,13103,40,,B,2,40,I'm not.,"[I/PRP, 'm/VBP, not/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not)) (. .)))
 K/KD/KDA.xml,KDARE02P,13103,41,,B,2,41,I've only got to make up three hours,"[I/PRP, 've/VBP, only/RB, got/VBN, to/TO, make/VB, up/RP, three/CD, hours/NNS]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB only)) (VP (VBN got) (S (VP (TO to) (VP (VB make) (PRT (RP up)) (NP (CD three) (NNS hours)))))))))
-K/KD/KDA.xml,KDARE02P,13103,42,,B,2,42,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,42,,B,2,42,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,43,,B,2,43,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
 K/KD/KDA.xml,KDARE02P,13103,44,,B,2,44,I've got to make up three hours,"[I/PRP, 've/VBP, got/VBN, to/TO, make/VB, up/RP, three/CD, hours/NNS]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB make) (PRT (RP up)) (NP (CD three) (NNS hours)))))))))
 K/KD/KDA.xml,KDARE02P,13103,45,,B,2,45,(()) .,[./.],(ROOT (NP (. .)))
@@ -50,26 +50,26 @@ K/KD/KDA.xml,KDARE02P,13103,47,,B,2,47,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJ
 K/KD/KDA.xml,KDARE02P,13103,48,,B,2,48,I've got to make up three hours instead of four,"[I/PRP, 've/VBP, got/VBN, to/TO, make/VB, up/RP, three/CD, hours/NNS, instead/RB, of/IN, four/CD]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB make) (PRT (RP up)) (NP (NP (CD three) (NNS hours)) (PP (RB instead) (IN of) (NP (CD four)))))))))))
 K/KD/KDA.xml,KDARE02P,13103,49,,B,2,49,Yeah  (()) (()) ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
 K/KD/KDA.xml,KDARE02P,13103,50,,B,2,50,Get docked for it then,"[Get/VB, docked/VBN, for/IN, it/PRP, then/RB]",(ROOT (S (VP (VB Get) (VP (VBN docked) (PP (IN for) (NP (PRP it))) (ADVP (RB then))))))
-K/KD/KDA.xml,KDARE02P,13103,51,,B,2,51,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,51,,B,2,51,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,52,,B,2,52,"They keep a list of it and when overtime comes back, see I'll have to make it up then, I'd rather do that than re-arrange all my stuff just for that, I usually come in seven o'clock (()) ","[They/PRP, keep/VBP, a/DT, list/NN, of/IN, it/PRP, and/CC, when/WRB, overtime/NN, comes/VBZ, back/RB, ,/,, see/VBP, I/PRP, 'll/MD, have/VB, to/TO, make/VB, it/PRP, up/RP, then/RB, ,/,, I/PRP, 'd/MD, rather/RB, do/VB, that/DT, than/IN, re-arrange/VB, all/DT, my/PRP$, stuff/NN, just/RB, for/IN, that/DT, ,/,, I/PRP, usually/RB, come/VBP, in/IN, seven/CD, o/NN, 'clock/NN]","(ROOT (S (S (S (NP (PRP They)) (VP (VBP keep) (NP (NP (DT a) (NN list)) (PP (IN of) (NP (PRP it)))))) (CC and) (S (SBAR (WHADVP (WRB when)) (S (NP (NN overtime)) (VP (VBZ comes) (ADVP (RB back))))) (, ,) (S (VP (VBP see) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB make) (NP (PRP it)) (PRT (RP up)) (ADVP (RB then))))))))))) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (RB rather) (VP (VB do) (NP (DT that))) (IN than) (VP (VB re-arrange) (NP (DT all) (PRP$ my) (NN stuff)) (ADVP (RB just)) (PP (IN for) (NP (DT that)))))))) (, ,) (NP (PRP I)) (ADVP (RB usually)) (VP (VBP come) (PP (IN in) (NP (CD seven) (NN o) (NN 'clock))))))"
-K/KD/KDA.xml,KDARE02P,13103,53,,B,2,53,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,53,,B,2,53,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,54,,B,2,54,"I usually have to come in seven o'clock, that's how I did it and now I've been over here sort of  (()) mucks the whole system so   (()) --","[I/PRP, usually/RB, have/VBP, to/TO, come/VB, in/IN, seven/CD, o/NN, 'clock/NN, ,/,, that/DT, 's/VBZ, how/WRB, I/PRP, did/VBD, it/PRP, and/CC, now/RB, I/PRP, 've/VBP, been/VBN, over/IN, here/RB, sort/NN, of/IN, mucks/NNS, the/DT, whole/JJ, system/NN, so/IN, I/PRP, 've/VBP, got/VBD, a/DT, driving/VBG, lesson/NN, tomorrow/NN, night/NN, ,/,, I/PRP, can/MD, 't/PRP, cancel/VB, that/DT]","(ROOT (S (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PP (IN in) (NP (CD seven) (NN o) (NN 'clock)))))))) (, ,) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB how)) (S (NP (PRP I)) (VP (VBD did) (NP (PRP it))))))) (CC and) (S (ADVP (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (PP (IN over) (NP (NP (RB here) (NN sort)) (PP (IN of) (NP (NP (NNS mucks)) (NP (DT the) (JJ whole) (NN system))))))))) (IN so) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT a) (VBG driving) (NN lesson)) (NP (NN tomorrow))) (NP (NN night))))) (, ,) (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB cancel) (NP (DT that)))))))))"
 K/KD/KDA.xml,KDARE02P,13103,55,,B,2,55,"--I've got a driving lesson tomorrow night, I can't cancel that","[I/PRP, usually/RB, have/VBP, to/TO, come/VB, in/IN, seven/CD, o/NN, 'clock/NN, ,/,, that/DT, 's/VBZ, how/WRB, I/PRP, did/VBD, it/PRP, and/CC, now/RB, I/PRP, 've/VBP, been/VBN, over/IN, here/RB, sort/NN, of/IN, mucks/NNS, the/DT, whole/JJ, system/NN, so/IN, I/PRP, 've/VBP, got/VBD, a/DT, driving/VBG, lesson/NN, tomorrow/NN, night/NN, ,/,, I/PRP, can/MD, 't/PRP, cancel/VB, that/DT]","(ROOT (S (S (NP (PRP I)) (ADVP (RB usually)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PP (IN in) (NP (CD seven) (NN o) (NN 'clock)))))))) (, ,) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHADVP (WRB how)) (S (NP (PRP I)) (VP (VBD did) (NP (PRP it))))))) (CC and) (S (ADVP (RB now)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (PP (IN over) (NP (NP (RB here) (NN sort)) (PP (IN of) (NP (NP (NNS mucks)) (NP (DT the) (JJ whole) (NN system))))))))) (IN so) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT a) (VBG driving) (NN lesson)) (NP (NN tomorrow))) (NP (NN night))))) (, ,) (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB cancel) (NP (DT that)))))))))"
-K/KD/KDA.xml,KDARE02P,13103,56,,B,2,56,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,56,,B,2,56,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,57,,B,2,57,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KDA.xml,KDARE02P,13103,58,,B,2,58,(()) pin head he brought it over to me (()) ,"[pin/NN, head/NN, he/PRP, brought/VBD, it/PRP, over/IN, to/TO, me/PRP]",(ROOT (FRAG (NP (NP (NN pin) (NN head)) (SBAR (S (NP (PRP he)) (VP (VBD brought) (NP (PRP it)) (PP (IN over) (PP (TO to) (NP (PRP me))))))))))
-K/KD/KDA.xml,KDARE02P,13103,59,,B,2,59,<laugh> ,[],X
+K/KD/KDA.xml,KDARE02P,13103,59,,B,2,59,<laugh> ,[],
 K/KD/KDA.xml,KDARE02P,13103,60,,B,2,60,What's the point of having the  (()) then?,"[What/WP, 's/VBZ, the/DT, point/NN, of/IN, having/VBG, the/DT, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT the) (NN point)) (PP (IN of) (S (VP (VBG having) (NP (DT the) (RB then))))))) (. ?)))
-K/KD/KDA.xml,KDARE02P,13103,61,,B,2,61,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,61,,B,2,61,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,62,,B,2,62,Well your a super  (()) go and get one of them and don't cut a whole out of that bit ,"[Well/RB, your/PRP$, a/DT, super/JJ, go/NN, and/CC, get/VB, one/CD, of/IN, them/PRP, and/CC, don/NNP, 't/PRP, cut/VBD, a/DT, whole/JJ, out/IN, of/IN, that/DT, bit/NN]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP$ your)) (SBAR (S (UCP (NP (DT a) (JJ super) (NN go)) (CC and) (S (VP (VB get) (NP (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))) (CC and) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBD cut) (NP (DT a) (JJ whole)) (ADVP (IN out) (PP (IN of) (NP (DT that) (NN bit)))))))))))))))))
-K/KD/KDA.xml,KDARE02P,13103,63,,B,2,63,(()) ,[],X
-K/KD/KDA.xml,KDARE02P,13103,64,,B,2,64,(()) ,[],X
-K/KD/KDA.xml,KDARE02P,13103,65,,B,2,65,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,63,,B,2,63,(()) ,[],
+K/KD/KDA.xml,KDARE02P,13103,64,,B,2,64,(()) ,[],
+K/KD/KDA.xml,KDARE02P,13103,65,,B,2,65,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,66,,B,2,66,"I think you boil them, I think you boil them (()) ","[I/PRP, think/VBP, you/PRP, boil/VB, them/PRP, ,/,, I/PRP, think/VBP, you/PRP, boil/VB, them/PRP]","(ROOT (NP (S (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP you)) (VP (VB boil) (NP (PRP them)))))) (, ,) (NP (PRP I)) (VP (VBP think) (S (NP (PRP you)) (VP (VB boil) (NP (PRP them))))))))"
-K/KD/KDA.xml,KDARE02P,13103,67,,B,2,67,(()) ,[],X
-K/KD/KDA.xml,KDARE02P,13103,68,,B,2,68,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,67,,B,2,67,(()) ,[],
+K/KD/KDA.xml,KDARE02P,13103,68,,B,2,68,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,69,,B,2,69,Don't forget (()) ,"[Don/NNP, 't/PRP, forget/VB]",(ROOT (FRAG (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VB forget)))))))
-K/KD/KDA.xml,KDARE02P,13103,70,,B,2,70,(()) ,[],X
+K/KD/KDA.xml,KDARE02P,13103,70,,B,2,70,(()) ,[],
 K/KD/KDA.xml,KDARE02P,13103,71,,B,2,71,I've got  (()) (()) ,"[I/PRP, 've/VBP, got/VBN]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN got)))))
 K/KD/KDA.xml,KDARE02P,13103,72,,B,2,72,He laughs anyway,"[He/PRP, laughs/VBZ, anyway/RB]",(ROOT (S (NP (PRP He)) (VP (VBZ laughs) (ADVP (RB anyway)))))
 K/KD/KDA.xml,KDARE02P,13103,73,,B,2,73,Yeah I know,"[Yeah/UH, I/PRP, know/VBP]",(ROOT (SBAR (UH Yeah) (S (NP (PRP I)) (VP (VBP know)))))

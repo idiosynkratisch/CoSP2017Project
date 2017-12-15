@@ -21,7 +21,7 @@ K/KP/KPA.xml,KPARE004,141105,18,,A,9,5,How long have we got now till the end of 
 K/KP/KPA.xml,KPARE004,141105,19,,B,10,1,Two weeks.(()) ,"[Two/CD, weeks/NNS, ./.]",(ROOT (NP (CD Two) (NNS weeks) (. .)))
 K/KP/KPA.xml,KPARE004,141105,20,,A,11,1,In a week yeah.,"[In/IN, a/DT, week/NN, yeah/UH, ./.]",(ROOT (FRAG (PP (IN In) (NP (NP (DT a) (NN week)) (FRAG (INTJ (UH yeah))))) (. .)))
 K/KP/KPA.xml,KPARE004,141105,21,,B,12,1,And then we  (()) ,"[And/CC, then/RB, we/PRP]",(ROOT (FRAG (CC And) (ADVP (RB then)) (NP (PRP we))))
-K/KP/KPA.xml,KPARE004,141105,22,,A,13,1,(()) ,[],X
+K/KP/KPA.xml,KPARE004,141105,22,,A,13,1,(()) ,[],
 K/KP/KPA.xml,KPARE004,141105,23,,B,14,1,There's about another two weeks after that or a week.,"[There/EX, 's/VBZ, about/IN, another/DT, two/CD, weeks/NNS, after/IN, that/DT, or/CC, a/DT, week/NN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (PP (IN about) (NP (DT another) (CD two) (NNS weeks))) (PP (IN after) (NP (NP (DT that)) (CC or) (NP (DT a) (NN week))))) (. .)))
 K/KP/KPA.xml,KPARE004,141105,24,,A,15,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KP/KPA.xml,KPARE004,141105,25,,B,16,1,Another three weeks.,"[Another/DT, three/CD, weeks/NNS, ./.]",(ROOT (NP (NP (DT Another)) (NP (CD three) (NNS weeks)) (. .)))

@@ -8,7 +8,7 @@ K/KB/KBD.xml,KBDRE00N,64304,5,,B,2,1,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (
 K/KB/KBD.xml,KBDRE00N,64304,6,,A,3,1,to make them  (()) ,"[to/TO, make/VB, them/PRP]",(ROOT (FRAG (S (VP (TO to) (VP (VB make) (NP (PRP them)))))))
 K/KB/KBD.xml,KBDRE00N,64304,7,,B,4,1,So that they could miss the last one?,"[So/IN, that/IN, they/PRP, could/MD, miss/VB, the/DT, last/JJ, one/CD, ?/.]",(ROOT (FRAG (ADVP (IN So)) (SBAR (IN that) (S (NP (PRP they)) (VP (MD could) (VP (VB miss) (NP (DT the) (JJ last) (CD one)))))) (. ?)))
 K/KB/KBD.xml,KBDRE00N,64304,8,,A,5,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KB/KBD.xml,KBDRE00N,64304,9,,B,6,1,(()) ,[],X
+K/KB/KBD.xml,KBDRE00N,64304,9,,B,6,1,(()) ,[],
 K/KB/KBD.xml,KBDRE00N,64304,10,,A,7,1,I mean,"[I/PRP, mean/VBP]",(ROOT (S (NP (PRP I)) (VP (VBP mean))))
 K/KB/KBD.xml,KBDRE00N,64304,11,,B,8,1,Fucking awful!,"[Fucking/VBG, awful/JJ, !/.]",(ROOT (S (VP (VBG Fucking) (ADJP (JJ awful))) (. !)))
 K/KB/KBD.xml,KBDRE00N,64304,12,,B,8,2,This fucking stuff they put down.,"[This/DT, fucking/JJ, stuff/NN, they/PRP, put/VBP, down/RP, ./.]",(ROOT (S (NP (DT This) (JJ fucking) (NN stuff)) (NP (PRP they)) (VP (VBP put) (PRT (RP down))) (. .)))
@@ -38,5 +38,5 @@ K/KB/KBD.xml,KBDRE00N,64304,35,,A,23,1,May as well.,"[May/MD, as/RB, well/RB, ./
 K/KB/KBD.xml,KBDRE00N,64304,36,,B,24,1,Fucking no more cos they'll all be here for four o'clock.,"[Fucking/VBG, no/DT, more/JJR, cos/NN, they/PRP, 'll/MD, all/RB, be/VB, here/RB, for/IN, four/CD, o/NN, 'clock/NN, ./.]",(ROOT (S (S (VP (VBG Fucking) (NP (DT no) (JJR more) (NN cos)))) (NP (PRP they)) (VP (MD 'll) (RB all) (VP (VB be) (ADVP (RB here)) (PP (IN for) (NP (CD four) (NN o) (NN 'clock))))) (. .)))
 K/KB/KBD.xml,KBDRE00N,64304,37,,A,25,1,Probably forgotten pi- --,"[Probably/RB, forgotten/VBN, pi-/NN, the/DT, line/NN, cleaners/NNS, ./.]",(ROOT (SINV (ADVP (RB Probably)) (VP (VBN forgotten) (NP (NN pi-))) (NP (NP (DT the) (NN line)) (NP (NNS cleaners))) (. .)))
 K/KB/KBD.xml,KBDRE00N,64304,38,,A,25,2,--the line cleaners.,"[Probably/RB, forgotten/VBN, pi-/NN, the/DT, line/NN, cleaners/NNS, ./.]",(ROOT (SINV (ADVP (RB Probably)) (VP (VBN forgotten) (NP (NN pi-))) (NP (NP (DT the) (NN line)) (NP (NNS cleaners))) (. .)))
-K/KB/KBD.xml,KBDRE00N,64304,39,,B,26,1,<laugh> ,[],X
+K/KB/KBD.xml,KBDRE00N,64304,39,,B,26,1,<laugh> ,[],
 K/KB/KBD.xml,KBDRE00N,64304,40,,A,27,1,I did write it down for her in the list.,"[I/PRP, did/VBD, write/VB, it/PRP, down/RP, for/IN, her/PRP$, in/IN, the/DT, list/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD did) (VP (VB write) (NP (PRP it)) (PRT (RP down)) (PP (IN for) (NP (PRP$ her))) (PP (IN in) (NP (DT the) (NN list))))) (. .)))

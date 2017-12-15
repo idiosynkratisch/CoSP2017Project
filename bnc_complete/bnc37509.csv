@@ -43,7 +43,7 @@ K/KE/KE6.xml,KE6RE01D,37509,40,,B,28,2,--you can get a telephone qu- er a specia
 K/KE/KE6.xml,KE6RE01D,37509,41,,A,29,1,"Oh that's right, that was the  --","[Oh/UH, that/DT, 's/VBZ, right/NN, ,/,, that/WDT, was/VBD, the/DT, B/NN, T/NN, man/NN, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (NN right)))) (, ,) (NP (WDT that)) (VP (VBD was) (NP (DT the) (NN B) (NN T) (NN man))) (. .)))"
 K/KE/KE6.xml,KE6RE01D,37509,42,,A,29,2,--B T man.,"[Oh/UH, that/DT, 's/VBZ, right/NN, ,/,, that/WDT, was/VBD, the/DT, B/NN, T/NN, man/NN, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (NP (NN right)))) (, ,) (NP (WDT that)) (VP (VBD was) (NP (DT the) (NN B) (NN T) (NN man))) (. .)))"
 K/KE/KE6.xml,KE6RE01D,37509,43,,A,29,3,British Telecom man.,"[British/NNP, Telecom/NNP, man/NN, ./.]",(ROOT (NP (NP (NNP British) (NNP Telecom)) (NP (NN man)) (. .)))
-K/KE/KE6.xml,KE6RE01D,37509,44,,B,30,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01D,37509,44,,B,30,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01D,37509,45,,A,31,1,He was repairing the,"[He/PRP, was/VBD, repairing/VBG, the/DT]",(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBG repairing) (NP (DT the))))))
 K/KE/KE6.xml,KE6RE01D,37509,46,,B,32,1,Of course he was.,"[Of/IN, course/NN, he/PRP, was/VBD, ./.]",(ROOT (S (PP (IN Of) (NP (NN course))) (NP (PRP he)) (VP (VBD was)) (. .)))
 K/KE/KE6.xml,KE6RE01D,37509,47,,B,32,2,telephone.,"[telephone/NN, ./.]",(ROOT (NP (NN telephone) (. .)))
@@ -79,9 +79,9 @@ K/KE/KE6.xml,KE6RE01D,37509,76,,A,49,2,Please.,"[Please/VB, ./.]",(ROOT (S (VP (
 K/KE/KE6.xml,KE6RE01D,37509,77,,A,49,3,"I had the black one, so something different.","[I/PRP, had/VBD, the/DT, black/JJ, one/CD, ,/,, so/RB, something/NN, different/JJ, ./.]","(ROOT (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT the) (JJ black) (CD one)) (, ,) (NP (RB so) (NN something) (JJ different)))) (. .)))"
 K/KE/KE6.xml,KE6RE01D,37509,78,,A,49,4,I think I've had all the mango ones.,"[I/PRP, think/VBP, I/PRP, 've/VBP, had/VBD, all/PDT, the/DT, mango/NN, ones/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD had) (NP (PDT all) (DT the) (NN mango) (NNS ones))))))) (. .)))
 K/KE/KE6.xml,KE6RE01D,37509,79,,A,49,5,Might not have done though.,"[Might/MD, not/RB, have/VB, done/VBN, though/RB, ./.]",(ROOT (SQ (MD Might) (NP (RB not)) (VP (VB have) (VP (VBN done) (ADVP (RB though)))) (. .)))
-K/KE/KE6.xml,KE6RE01D,37509,80,,B,50,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01D,37509,80,,B,50,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01D,37509,81,,A,51,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KE/KE6.xml,KE6RE01D,37509,82,,B,52,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01D,37509,82,,B,52,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01D,37509,83,,A,53,1,Yeah I'll have a mango then please.,"[Yeah/UH, I/PRP, 'll/MD, have/VB, a/DT, mango/NN, then/RB, please/VB, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (NP (DT a) (NN mango)) (RB then) (VP (VB please)))))) (. .)))
 K/KE/KE6.xml,KE6RE01D,37509,84,,B,54,1,We have nine left.,"[We/PRP, have/VBP, nine/CD, left/VBD, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP have) (NP (NP (CD nine)) (SBAR (S (VP (VBD left)))))) (. .)))
 K/KE/KE6.xml,KE6RE01D,37509,85,,A,55,1,We've got nine left now?,"[We/PRP, 've/VBP, got/VBN, nine/CD, left/RB, now/RB, ?/.]",(ROOT (S (NP (PRP We)) (VP (VBP 've) (VP (VBN got) (ADVP (NP (CD nine)) (RB left)) (ADVP (RB now)))) (. ?)))

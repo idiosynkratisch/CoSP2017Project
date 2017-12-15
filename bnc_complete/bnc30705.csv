@@ -4,7 +4,7 @@ K/KD/KDM.xml,KDMRE027,30705,1,,A,1,2,--very lugubrious  --,"[He/PRP, was/VBD, er
 K/KD/KDM.xml,KDMRE027,30705,2,,A,1,3,"--moustache, and he looked","[He/PRP, was/VBD, erm/NN, very/RB, lugubrious/JJ, moustache/NN, ,/,, and/CC, he/PRP, looked/VBD]","(ROOT (S (S (NP (PRP He)) (VP (VBD was) (NP (NP (NN erm)) (ADJP (RB very) (JJ lugubrious) (NN moustache))))) (, ,) (CC and) (S (NP (PRP he)) (VP (VBD looked)))))"
 K/KD/KDM.xml,KDMRE027,30705,3,,B,2,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KD/KDM.xml,KDMRE027,30705,4,,A,3,1,oh that was the character ,"[oh/UH, that/WDT, was/VBD, the/DT, character/NN]",(ROOT (SBARQ (WHPP (UH oh) (WHNP (WDT that))) (SQ (VBD was) (NP (DT the) (NN character)))))
-K/KD/KDM.xml,KDMRE027,30705,5,,B,4,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE027,30705,5,,B,4,1,(()) ,[],
 K/KD/KDM.xml,KDMRE027,30705,6,,A,5,1,"he played, you see.","[he/PRP, played/VBD, ,/,, you/PRP, see/VBP, ./.]","(ROOT (S (S (NP (PRP he)) (VP (VBD played))) (, ,) (NP (PRP you)) (VP (VBP see)) (. .)))"
 K/KD/KDM.xml,KDMRE027,30705,7,,B,6,1,(()) --,"[that/DT, 's/VBZ, how/WRB, he/PRP, ./.]",(ROOT (S (NP (DT that)) (VP (VBZ 's) (ADVP (WRB how)) (NP (PRP he))) (. .)))
 K/KD/KDM.xml,KDMRE027,30705,8,,B,6,2,--that's how he (()) .,"[that/DT, 's/VBZ, how/WRB, he/PRP, ./.]",(ROOT (S (NP (DT that)) (VP (VBZ 's) (ADVP (WRB how)) (NP (PRP he))) (. .)))
@@ -40,7 +40,7 @@ K/KD/KDM.xml,KDMRE027,30705,37,,A,15,1,"No, you know,the- ","[No/DT, ,/,, you/PR
 K/KD/KDM.xml,KDMRE027,30705,38,,B,16,1,honestly  --,"[honestly/RB, when/WRB, you/PRP]",(ROOT (NP (NP (NP (RB honestly)) (SBAR (S (VP (ADVP (WRB when)))))) (NP (PRP you))))
 K/KD/KDM.xml,KDMRE027,30705,39,,B,16,2,--when you,"[honestly/RB, when/WRB, you/PRP]",(ROOT (NP (NP (NP (RB honestly)) (SBAR (S (VP (ADVP (WRB when)))))) (NP (PRP you))))
 K/KD/KDM.xml,KDMRE027,30705,40,,A,17,1,I mean most people here just said ,"[I/PRP, mean/VBP, most/JJS, people/NNS, here/RB, just/RB, said/VBD]",(ROOT (S (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (JJS most) (NNS people)) (ADVP (RB here) (RB just)) (VP (VBD said)))))))
-K/KD/KDM.xml,KDMRE027,30705,41,,B,18,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE027,30705,41,,B,18,1,(()) ,[],
 K/KD/KDM.xml,KDMRE027,30705,42,,A,19,1,"yeah, yeah  --","[yeah/UH, ,/,, yeah/UH, not/RB, having/VBG, it/PRP, !/.]","(ROOT (S (INTJ (UH yeah)) (, ,) (VP (UH yeah) (S (VP (RB not) (VBG having) (NP (PRP it))))) (. !)))"
 K/KD/KDM.xml,KDMRE027,30705,43,,A,19,2,--not having it!,"[yeah/UH, ,/,, yeah/UH, not/RB, having/VBG, it/PRP, !/.]","(ROOT (S (INTJ (UH yeah)) (, ,) (VP (UH yeah) (S (VP (RB not) (VBG having) (NP (PRP it))))) (. !)))"
 K/KD/KDM.xml,KDMRE027,30705,44,,B,20,1,It's (()) ,"[It/PRP, 's/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ 's))))
@@ -66,7 +66,7 @@ K/KD/KDM.xml,KDMRE027,30705,63,,A,23,4,--oh!,"[And/CC, I/PRP, thought/VBD, oh/UH
 K/KD/KDM.xml,KDMRE027,30705,64,,B,24,1,Well that's (()) .,"[Well/RB, that/DT, 's/VBZ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's)) (. .)))
 K/KD/KDM.xml,KDMRE027,30705,65,,A,25,1,I pinched (()) ,"[I/PRP, pinched/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD pinched))))
 K/KD/KDM.xml,KDMRE027,30705,66,,B,26,1,They are bad!,"[They/PRP, are/VBP, bad/JJ, !/.]",(ROOT (S (NP (PRP They)) (VP (VBP are) (ADJP (JJ bad))) (. !)))
-K/KD/KDM.xml,KDMRE027,30705,67,,A,27,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE027,30705,67,,A,27,1,(()) ,[],
 K/KD/KDM.xml,KDMRE027,30705,68,,B,28,1,"I said, well even when you   --","[I/PRP, said/VBD, ,/,, well/RB, even/RB, when/WRB, you/PRP, you/PRP, know/VBP, ,/,, I/PRP, do/VBP, the/DT, finishes/NNS]","(ROOT (S (NP (PRP I)) (VP (VBD said) (, ,) (SBAR (ADVP (RB well) (RB even)) (WHADVP (WRB when)) (S (NP (PRP you)) (PRN (S (NP (PRP you)) (VP (VBP know))) (, ,)) (NP (PRP I)) (VP (VBP do) (NP (DT the) (NNS finishes))))))))"
 K/KD/KDM.xml,KDMRE027,30705,69,,B,28,2,"--(()) you know, I do the finishes ","[I/PRP, said/VBD, ,/,, well/RB, even/RB, when/WRB, you/PRP, you/PRP, know/VBP, ,/,, I/PRP, do/VBP, the/DT, finishes/NNS]","(ROOT (S (NP (PRP I)) (VP (VBD said) (, ,) (SBAR (ADVP (RB well) (RB even)) (WHADVP (WRB when)) (S (NP (PRP you)) (PRN (S (NP (PRP you)) (VP (VBP know))) (, ,)) (NP (PRP I)) (VP (VBP do) (NP (DT the) (NNS finishes))))))))"
 K/KD/KDM.xml,KDMRE027,30705,70,,A,29,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
@@ -86,11 +86,11 @@ K/KD/KDM.xml,KDMRE027,30705,83,,B,34,4,--(()) ,"[mean/VB, well/RB, why/WRB, does
 K/KD/KDM.xml,KDMRE027,30705,84,,A,35,1,No no.,"[No/DT, no/NN, ./.]",(ROOT (NP (DT No) (NN no) (. .)))
 K/KD/KDM.xml,KDMRE027,30705,85,,B,36,1,"I mean, I told (()) ","[I/PRP, mean/VBP, ,/,, I/PRP, told/VBD]","(ROOT (S (NP (PRP I)) (VP (VBP mean) (, ,) (SBAR (S (NP (PRP I)) (VP (VBD told)))))))"
 K/KD/KDM.xml,KDMRE027,30705,86,,A,37,1,"Well I mean, he probably ate a horse or anything  (()) ","[Well/RB, I/PRP, mean/VBP, ,/,, he/PRP, probably/RB, ate/VBD, a/DT, horse/NN, or/CC, anything/NN]","(ROOT (S (ADVP (RB Well)) (PRN (S (NP (PRP I)) (VP (VBP mean))) (, ,)) (NP (PRP he)) (ADVP (RB probably)) (VP (VBD ate) (NP (DT a) (NN horse) (CC or) (NN anything)))))"
-K/KD/KDM.xml,KDMRE027,30705,87,,B,38,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE027,30705,87,,B,38,1,(()) ,[],
 K/KD/KDM.xml,KDMRE027,30705,88,,A,39,1,stopping this slaughtering  --,"[stopping/VBG, this/DT, slaughtering/NN, shipping/VBG, them/PRP, over/IN, to/TO, the/DT, France/NNP, or/CC, anything/NN, any/RB, more/RBR, he/PRP, 's/VBZ, burnt/JJ, their/PRP$]",(ROOT (S (VP (VBG stopping) (S (NP (NP (DT this) (NN slaughtering)) (VP (VBG shipping) (S (NP (PRP them)) (ADJP (IN over) (PP (TO to) (NP (NP (DT the) (NNP France)) (CC or) (NP (NN anything))))) (S (ADJP (RB any) (RBR more) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ burnt)))))))))) (NP (PRP$ their))))))
 K/KD/KDM.xml,KDMRE027,30705,89,,A,39,2,--shipping them over to the  --,"[stopping/VBG, this/DT, slaughtering/NN, shipping/VBG, them/PRP, over/IN, to/TO, the/DT, France/NNP, or/CC, anything/NN, any/RB, more/RBR, he/PRP, 's/VBZ, burnt/JJ, their/PRP$]",(ROOT (S (VP (VBG stopping) (S (NP (NP (DT this) (NN slaughtering)) (VP (VBG shipping) (S (NP (PRP them)) (ADJP (IN over) (PP (TO to) (NP (NP (DT the) (NNP France)) (CC or) (NP (NN anything))))) (S (ADJP (RB any) (RBR more) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ burnt)))))))))) (NP (PRP$ their))))))
 K/KD/KDM.xml,KDMRE027,30705,90,,A,39,3,--France or anything any more he's burnt their ,"[stopping/VBG, this/DT, slaughtering/NN, shipping/VBG, them/PRP, over/IN, to/TO, the/DT, France/NNP, or/CC, anything/NN, any/RB, more/RBR, he/PRP, 's/VBZ, burnt/JJ, their/PRP$]",(ROOT (S (VP (VBG stopping) (S (NP (NP (DT this) (NN slaughtering)) (VP (VBG shipping) (S (NP (PRP them)) (ADJP (IN over) (PP (TO to) (NP (NP (DT the) (NNP France)) (CC or) (NP (NN anything))))) (S (ADJP (RB any) (RBR more) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (ADJP (JJ burnt)))))))))) (NP (PRP$ their))))))
-K/KD/KDM.xml,KDMRE027,30705,91,,B,40,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE027,30705,91,,B,40,1,(()) ,[],
 K/KD/KDM.xml,KDMRE027,30705,92,,A,41,1,blinking,[blinking/RB],(ROOT (FRAG (RB blinking)))
 K/KD/KDM.xml,KDMRE027,30705,93,,B,42,1,Well now  --,"[Well/RB, now/RB, it/PRP, 's/VBZ, the/DT]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (RB now) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT the)))))))
 K/KD/KDM.xml,KDMRE027,30705,94,,B,42,2,--it's the ,"[Well/RB, now/RB, it/PRP, 's/VBZ, the/DT]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (RB now) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT the)))))))

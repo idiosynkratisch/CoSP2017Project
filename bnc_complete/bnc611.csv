@@ -7,5 +7,5 @@ K/KD/KDP.xml,KDPRE014,611,4,,A,1,5,You ready to go down?,"[You/PRP, ready/JJ, to
 K/KD/KDP.xml,KDPRE014,611,5,,A,1,6,Okey dokey.,"[Okey/NNP, dokey/NNP, ./.]",(ROOT (NP (NNP Okey) (NNP dokey) (. .)))
 K/KD/KDP.xml,KDPRE014,611,6,,A,1,7,There we go tiger.,"[There/EX, we/PRP, go/VBP, tiger/NNP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go) (NP (NNP tiger))) (. .)))
 K/KD/KDP.xml,KDPRE014,611,7,,A,1,8,There we go.,"[There/EX, we/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
-K/KD/KDP.xml,KDPRE014,611,8,,B,2,1,<baby noise> ,[],X
-K/KD/KDP.xml,KDPRE014,611,9,,A,3,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE014,611,8,,B,2,1,<baby noise> ,[],
+K/KD/KDP.xml,KDPRE014,611,9,,A,3,1,(()) ,[],

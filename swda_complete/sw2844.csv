@@ -125,7 +125,7 @@ sw09utt/sw_0908_2844.utt,2/sw2844,2844,122,%,A,81,1,"and just, -/","and/CC just/
 sw09utt/sw_0908_2844.utt,2/sw2844,2844,123,aa,B,82,1,Yeah.  /,Yeah/UH ./.,(ROOT (INTJ (UH Yeah) (. .))),
 sw09utt/sw_0908_2844.utt,2/sw2844,2844,124,aa,B,82,2,"It's different,  /","It/PRP 's/BES different/JJ ,/,","(ROOT (S (NP (PRP It)) (VP (BES 's) (ADJP (JJ different))) (, ,)))",
 sw09utt/sw_0908_2844.utt,2/sw2844,2844,125,aa,B,82,3,"yeah, /","yeah/UH ,/,","(ROOT (FRAG (PP (UH yeah)) (, ,)))",
-sw09utt/sw_0908_2844.utt,2/sw2844,2844,126,x,A,83,1,<Throat_clearing>.,,X,
+sw09utt/sw_0908_2844.utt,2/sw2844,2844,126,x,A,83,1,<Throat_clearing>.,,,
 sw09utt/sw_0908_2844.utt,2/sw2844,2844,127,%,B,84,1,living down here. - /,living/VBG down/IN here/RB ./.,(ROOT (S (VP (VBG living) (ADVP (IN down) (RB here))) (. .))),
 sw09utt/sw_0908_2844.utt,2/sw2844,2844,128,%,B,84,2,"[ Now, + now ] the nice thing, {F uh, } - /","Now/UH ,/, now/UH the/DT nice/JJ thing/NN ,/, uh/UH ,/,","(ROOT (FRAG (INTJ (UH Now)) (, ,) (PP (UH now) (NP (DT the) (ADJP (ADJP (JJ nice) (NN thing)) (PRN (, ,) (INTJ (UH uh)) (, ,)))))))",
 sw09utt/sw_0908_2844.utt,2/sw2844,2844,129,sd,B,84,3,"I feel a little bit more comfort since we're so close together like this.  {F Um, }  /","I/PRP feel/VBP a/DT little/JJ bit/NN more/JJR comfort/NN since/IN we/PRP 're/VBP so/RB close/RB together/RB like/IN this/DT ./. Um/UH ,/,","(ROOT (S (NP (PRP I)) (VP (VBP feel) (SBAR (NP (QP (DT a) (JJ little) (NN bit) (JJR more)) (NN comfort)) (IN since) (S (NP (PRP we)) (VP (VBP 're) (ADVP (ADVP (RB so) (RB close) (RB together)) (SBAR (IN like) (FRAG (NP (DT this)) (. .)))) (NP (UH Um)))))) (, ,)))",

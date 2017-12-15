@@ -33,13 +33,13 @@ K/KD/KDU.xml,KDURE002,46403,30,,B,30,1,That's okay,"[That/DT, 's/VBZ, okay/JJ]",
 K/KD/KDU.xml,KDURE002,46403,31,,A,31,1,It's one of those things that sort of sort of puts a little query in your mind and ,"[It/PRP, 's/VBZ, one/CD, of/IN, those/DT, things/NNS, that/WDT, sort/NN, of/IN, sort/NN, of/IN, puts/VBZ, a/DT, little/JJ, query/NN, in/IN, your/PRP$, mind/NN, and/CC]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT those) (NNS things)) (SBAR (WHNP (WDT that)) (S (NP (NP (NN sort)) (PP (IN of) (NP (NP (NN sort)) (PP (IN of))))) (VP (VBZ puts) (NP (NP (DT a) (JJ little) (NN query)) (PP (IN in) (NP (PRP$ your) (NX (NX (NN mind)) (CC and))))))))))))))
 K/KD/KDU.xml,KDURE002,46403,32,,B,32,1,You have a blind sometimes don't you?,"[You/PRP, have/VBP, a/DT, blind/JJ, sometimes/RB, don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP have) (NP (NP (DT a) (JJ blind)) (ADVP (RB sometimes)) (SBAR (S (VP (NNP don) (S (NP (PRP 't)) (NP (PRP you)))))))) (. ?)))
 K/KD/KDU.xml,KDURE002,46403,33,,B,32,2,And,[And/CC],(ROOT (NP (CC And)))
-K/KD/KDU.xml,KDURE002,46403,34,,B,32,3,(()) ,[],X
+K/KD/KDU.xml,KDURE002,46403,34,,B,32,3,(()) ,[],
 K/KD/KDU.xml,KDURE002,46403,35,,A,33,1,"I, er,un- unfortunately I have too many of them  <laugh> ","[I/PRP, ,/,, er/NN, ,un-/NN, unfortunately/RB, I/PRP, have/VBP, too/RB, many/JJ, of/IN, them/PRP]","(ROOT (S (NP (PRP I)) (, ,) (NP (NP (NN er) (NN ,un-)) (RRC (ADVP (RB unfortunately)) (NP (PRP I)))) (VP (VBP have) (NP (NP (RB too) (JJ many)) (PP (IN of) (NP (PRP them)))))))"
-K/KD/KDU.xml,KDURE002,46403,36,,B,34,1,<laugh> ,[],X
+K/KD/KDU.xml,KDURE002,46403,36,,B,34,1,<laugh> ,[],
 K/KD/KDU.xml,KDURE002,46403,37,,A,35,1,"but someday you'll be old too Carol, so","[but/CC, someday/RB, you/PRP, 'll/MD, be/VB, old/JJ, too/RB, Carol/NNP, ,/,, so/RB]","(ROOT (FRAG (S (CC but) (ADVP (RB someday)) (NP (PRP you)) (VP (MD 'll) (VP (VB be) (ADJP (JJ old)) (ADVP (RB too) (NP (NNP Carol))) (, ,) (ADVP (RB so)))))))"
 K/KD/KDU.xml,KDURE002,46403,38,,B,36,1,I'm getting that way now,"[I/PRP, 'm/VBP, getting/VBG, that/DT, way/NN, now/RB]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG getting) (NP (DT that) (NN way)) (ADVP (RB now))))))
-K/KD/KDU.xml,KDURE002,46403,39,,A,37,1,<laugh> ,[],X
-K/KD/KDU.xml,KDURE002,46403,40,,B,38,1,<laugh> ,[],X
+K/KD/KDU.xml,KDURE002,46403,39,,A,37,1,<laugh> ,[],
+K/KD/KDU.xml,KDURE002,46403,40,,B,38,1,<laugh> ,[],
 K/KD/KDU.xml,KDURE002,46403,41,,A,39,1,"Well that's grand, and okay","[Well/RB, that/DT, 's/VBZ, grand/NNP, ,/,, and/CC, okay/JJ]","(ROOT (FRAG (ADVP (RB Well)) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (ADJP (ADJP (NNP grand)) (, ,) (CC and) (ADJP (JJ okay))))))))"
 K/KD/KDU.xml,KDURE002,46403,42,,B,40,1,Have a nice Easter,"[Have/VB, a/DT, nice/JJ, Easter/NNP]",(ROOT (S (VP (VB Have) (NP (DT a) (JJ nice) (NNP Easter)))))
 K/KD/KDU.xml,KDURE002,46403,43,,A,41,1,"Thank you ver- and the same to yourself, yes indeed, thank you very much indeed","[Thank/VB, you/PRP, ver-/JJ, and/CC, the/DT, same/JJ, to/TO, yourself/PRP, ,/,, yes/UH, indeed/RB, ,/,, thank/VB, you/PRP, very/RB, much/RB, indeed/RB]","(ROOT (VP (VP (VP (VB Thank) (S (NP (PRP you)) (ADJP (JJ ver-)))) (CC and) (VP (NP (DT the) (JJ same)) (PP (TO to) (NP (PRP yourself))))) (, ,) (VP (NP (UH yes)) (ADVP (RB indeed))) (, ,) (VP (VB thank) (NP (PRP you)) (ADVP (RB very) (RB much)) (ADVP (RB indeed)))))"

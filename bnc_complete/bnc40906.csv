@@ -56,7 +56,7 @@ K/KC/KC1.xml,KC1RE00J,40906,53,,B,36,2,"Two five five seven B  (()) it is, yeah.
 K/KC/KC1.xml,KC1RE00J,40906,54,,B,36,3,(()) seven B that's the erm   --,"[seven/CD, B/NN, that/WDT, 's/VBZ, the/DT, erm/NN, innit/NN, ?/.]",(ROOT (FRAG (NP (NP (CD seven) (NN B)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN erm) (NN innit)))))) (. ?)))
 K/KC/KC1.xml,KC1RE00J,40906,55,,B,36,4,--(()) innit?,"[seven/CD, B/NN, that/WDT, 's/VBZ, the/DT, erm/NN, innit/NN, ?/.]",(ROOT (FRAG (NP (NP (CD seven) (NN B)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN erm) (NN innit)))))) (. ?)))
 K/KC/KC1.xml,KC1RE00J,40906,56,,A,37,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KC/KC1.xml,KC1RE00J,40906,57,,B,38,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE00J,40906,57,,B,38,1,(()) ,[],
 K/KC/KC1.xml,KC1RE00J,40906,58,,A,39,1,What's the price of these?,"[What/WP, 's/VBZ, the/DT, price/NN, of/IN, these/DT, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (DT these))))) (. ?)))
 K/KC/KC1.xml,KC1RE00J,40906,59,,B,40,1,Hasn't it got a price on them?,"[Hasn/NNP, 't/PRP, it/PRP, got/VBD, a/DT, price/NN, on/IN, them/PRP, ?/.]",(ROOT (S (NP (NNP Hasn) (PRP 't)) (NP (PRP it)) (VP (VBD got) (NP (DT a) (NN price)) (PP (IN on) (NP (PRP them)))) (. ?)))
 K/KC/KC1.xml,KC1RE00J,40906,60,,A,41,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))

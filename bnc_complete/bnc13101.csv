@@ -12,11 +12,11 @@ K/KD/KDA.xml,KDARE02M,13101,9,,B,4,5,The old tape (()) ,"[The/DT, old/JJ, tape/N
 K/KD/KDA.xml,KDARE02M,13101,10,,B,4,6,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
 K/KD/KDA.xml,KDARE02M,13101,11,,B,4,7,"Oh, cos, they want  (()) recording I suppose.","[Oh/UH, ,/,, cos/NN, ,/,, they/PRP, want/VBP, recording/VBG, I/PRP, suppose/VB, ./.]","(ROOT (S (FRAG (INTJ (UH Oh)) (, ,) (NP (NN cos))) (, ,) (NP (PRP they)) (VP (VBP want) (S (VP (VBG recording) (S (NP (PRP I)) (VP (VB suppose)))))) (. .)))"
 K/KD/KDA.xml,KDARE02M,13101,12,,B,4,8,"Testing one, two, one, two, yes and the voice (()) ","[Testing/VBG, one/CD, ,/,, two/CD, ,/,, one/CD, ,/,, two/CD, ,/,, yes/RB, and/CC, the/DT, voice/NNP]","(ROOT (S (VP (VBG Testing) (NP (NP (CD one)) (, ,) (NP (CD two)) (, ,) (NP (CD one)) (, ,) (NP (CD two)) (, ,) (NP (RB yes)) (CC and) (NP (DT the) (NNP voice))))))"
-K/KD/KDA.xml,KDARE02M,13101,13,,B,4,9,(()) ,[],X
+K/KD/KDA.xml,KDARE02M,13101,13,,B,4,9,(()) ,[],
 K/KD/KDA.xml,KDARE02M,13101,14,,B,4,10,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
 K/KD/KDA.xml,KDARE02M,13101,15,,B,4,11,"and it picks up here, the erm, tannoy (()) ","[and/CC, it/PRP, picks/VBZ, up/RP, here/RB, ,/,, the/DT, erm/NN, ,/,, tannoy/NNP]","(ROOT (PRN (CC and) (S (NP (PRP it)) (VP (VBZ picks) (PRT (RP up)) (NP (NP (RB here)) (, ,) (NP (NP (DT the) (NN erm)) (, ,) (NP (NNP tannoy))))))))"
-K/KD/KDA.xml,KDARE02M,13101,16,,B,4,12,(()) ,[],X
-K/KD/KDA.xml,KDARE02M,13101,17,,B,4,13,(()) ,[],X
+K/KD/KDA.xml,KDARE02M,13101,16,,B,4,12,(()) ,[],
+K/KD/KDA.xml,KDARE02M,13101,17,,B,4,13,(()) ,[],
 K/KD/KDA.xml,KDARE02M,13101,18,,B,4,14,"<singing> It's not unusual oh to be loved by anyone, da, da, da, da, da, da, its not unusual oh to be loved by anyone </singing> ","[It/PRP, 's/VBZ, not/RB, unusual/JJ, oh/NN, to/TO, be/VB, loved/VBN, by/IN, anyone/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, da/NN, ,/,, its/PRP$, not/RB, unusual/JJ, oh/NN, to/TO, be/VB, loved/VBN, by/IN, anyone/NN]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (NP (JJ unusual) (NN oh) (S (VP (TO to) (VP (VB be) (VP (VBN loved) (PP (IN by) (NP (NP (NN anyone) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da) (, ,) (NN da)) (, ,) (NP (PRP$ its) (ADJP (RB not) (JJ unusual)) (NN oh)))) (S (VP (TO to) (VP (VB be) (VP (VBN loved) (PP (IN by) (NP (NN anyone)))))))))))))))"
 K/KD/KDA.xml,KDARE02M,13101,19,,B,4,15,Did you see that?,"[Did/VBD, you/PRP, see/VBP, that/IN, ?/.]",(ROOT (S (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VBP see) (ADVP (IN that)))))) (. ?)))
 K/KD/KDA.xml,KDARE02M,13101,20,,B,4,16,Ah?,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
@@ -26,10 +26,10 @@ K/KD/KDA.xml,KDARE02M,13101,23,,B,4,19,--if I (()) ,"[No/DT, ,/,, no/DT, if/IN, 
 K/KD/KDA.xml,KDARE02M,13101,24,,B,4,20,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
 K/KD/KDA.xml,KDARE02M,13101,25,,B,4,21,What was the chicken like mate?,"[What/WP, was/VBD, the/DT, chicken/NN, like/IN, mate/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (NP (DT the) (NN chicken)) (PP (IN like) (NP (NN mate))))) (. ?)))
 K/KD/KDA.xml,KDARE02M,13101,26,,B,4,22,Well it put me off a little bit  (()) ,"[Well/RB, it/PRP, put/VBD, me/PRP, off/RP, a/DT, little/JJ, bit/NN]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP it)) (SBAR (S (VP (VBD put) (NP (PRP me)) (PP (RP off) (NP (DT a) (JJ little) (NN bit)))))))))
-K/KD/KDA.xml,KDARE02M,13101,27,,B,4,23,(()) ,[],X
+K/KD/KDA.xml,KDARE02M,13101,27,,B,4,23,(()) ,[],
 K/KD/KDA.xml,KDARE02M,13101,28,,B,4,24,Just like you (()) ,"[Just/RB, like/IN, you/PRP]",(ROOT (PP (RB Just) (IN like) (NP (PRP you))))
 K/KD/KDA.xml,KDARE02M,13101,29,,B,4,25,"<laughing> , yeah man </laughing> ","[,/,, yeah/UH, man/NN]","(ROOT (FRAG (, ,) (NP (UH yeah) (NN man))))"
 K/KD/KDA.xml,KDARE02M,13101,30,,B,4,26,(()) all over the  (()) a bit.,"[all/DT, over/IN, the/DT, a/DT, bit/NN, ./.]",(ROOT (NP (NP (DT all)) (PP (IN over) (NP (DT the) (DT a) (NN bit))) (. .)))
-K/KD/KDA.xml,KDARE02M,13101,31,,B,4,27,(()) ,[],X
-K/KD/KDA.xml,KDARE02M,13101,32,,B,4,28,(()) ,[],X
+K/KD/KDA.xml,KDARE02M,13101,31,,B,4,27,(()) ,[],
+K/KD/KDA.xml,KDARE02M,13101,32,,B,4,28,(()) ,[],
 K/KD/KDA.xml,KDARE02M,13101,33,,B,4,29,"You know your, he don't love (()) .","[You/PRP, know/VBP, your/PRP$, ,/,, he/PRP, don/VBP, 't/PRP, love/VB, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP know) (NP (PRP$ your)))) (, ,) (NP (PRP he)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB love)))) (. .)))"

@@ -92,7 +92,7 @@ K/KC/KCT.xml,KCTRE00B,20206,89,,B,56,1,(()) in your bedroom.,"[in/IN, your/PRP$,
 K/KC/KCT.xml,KCTRE00B,20206,90,,A,57,1,mi- --,"[mi-/NN, what/WDT, ?/.]",(ROOT (NP (NP (NP (NN mi-)) (SBAR (WHNP (WDT what)))) (. ?)))
 K/KC/KCT.xml,KCTRE00B,20206,91,,A,57,2,--what?,"[mi-/NN, what/WDT, ?/.]",(ROOT (NP (NP (NP (NN mi-)) (SBAR (WHNP (WDT what)))) (. ?)))
 K/KC/KCT.xml,KCTRE00B,20206,92,,A,57,3,In his ,"[In/IN, his/PRP$]",(ROOT (PP (IN In) (NP (PRP$ his))))
-K/KC/KCT.xml,KCTRE00B,20206,93,,B,58,1,(()) ,[],X
+K/KC/KCT.xml,KCTRE00B,20206,93,,B,58,1,(()) ,[],
 K/KC/KCT.xml,KCTRE00B,20206,94,,A,59,1,Simon's  --,"[Simon/NNP, 's/POS, play/NN, on/IN, the/DT, computer/NN, ./.]",(ROOT (NP (NP (NP (NP (NNP Simon) (POS 's)) (NN play)) (PP (IN on) (NP (DT the) (NN computer)))) (. .)))
 K/KC/KCT.xml,KCTRE00B,20206,95,,A,59,2,--play on the computer.,"[Simon/NNP, 's/POS, play/NN, on/IN, the/DT, computer/NN, ./.]",(ROOT (NP (NP (NP (NP (NNP Simon) (POS 's)) (NN play)) (PP (IN on) (NP (DT the) (NN computer)))) (. .)))
 K/KC/KCT.xml,KCTRE00B,20206,96,,B,60,1,Whatever would he do on there?,"[Whatever/WDT, would/MD, he/PRP, do/VB, on/IN, there/EX, ?/.]",(ROOT (SBARQ (WHNP (WDT Whatever)) (SQ (MD would) (NP (PRP he)) (VP (VB do) (PP (IN on) (NP (EX there))))) (. ?)))
@@ -113,7 +113,7 @@ K/KC/KCT.xml,KCTRE00B,20206,110,,A,67,4,And he uses ,"[And/CC, he/PRP, uses/VBZ]
 K/KC/KCT.xml,KCTRE00B,20206,111,,B,68,1,What about ,"[What/WP, about/IN]",(ROOT (FRAG (X (WP What)) (PP (IN about))))
 K/KC/KCT.xml,KCTRE00B,20206,112,,A,69,1,the same bag!,"[the/DT, same/JJ, bag/NN, !/.]",(ROOT (NP (DT the) (JJ same) (NN bag) (. !)))
 K/KC/KCT.xml,KCTRE00B,20206,113,,A,69,2,"I thought ooh, what if you put your hand in the wrong place urgh urgh!","[I/PRP, thought/VBD, ooh/NNP, ,/,, what/WP, if/IN, you/PRP, put/VBP, your/PRP$, hand/NN, in/IN, the/DT, wrong/JJ, place/NN, urgh/NN, urgh/NN, !/.]","(ROOT (S (NP (PRP I)) (VP (VBD thought) (NP (NP (NNP ooh)) (, ,) (SBAR (WHNP (WP what)) (IN if) (S (NP (PRP you)) (VP (VBP put) (NP (PRP$ your) (NN hand)) (PP (IN in) (NP (DT the) (JJ wrong) (NN place) (NN urgh) (NN urgh)))))))) (. !)))"
-K/KC/KCT.xml,KCTRE00B,20206,114,,B,70,1,<laugh> ,[],X
+K/KC/KCT.xml,KCTRE00B,20206,114,,B,70,1,<laugh> ,[],
 K/KC/KCT.xml,KCTRE00B,20206,115,,A,71,1,<laughing> I was thinking  --,"[I/PRP, was/VBD, thinking/VBG, urgh/NN, urgh/NN, urgh/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG thinking) (NP (NN urgh) (NN urgh) (NN urgh)))) (. !)))
 K/KC/KCT.xml,KCTRE00B,20206,116,,A,71,2,--urgh urgh urgh </laughing> !,"[I/PRP, was/VBD, thinking/VBG, urgh/NN, urgh/NN, urgh/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG thinking) (NP (NN urgh) (NN urgh) (NN urgh)))) (. !)))
 K/KC/KCT.xml,KCTRE00B,20206,117,,B,72,1,Ah how that's horrible!,"[Ah/NN, how/WRB, that/DT, 's/VBZ, horrible/JJ, !/.]",(ROOT (FRAG (ADJP (NN Ah)) (SBAR (WHADVP (WRB how)) (S (NP (DT that)) (VP (VBZ 's) (ADJP (JJ horrible))))) (. !)))
@@ -291,5 +291,5 @@ K/KC/KCT.xml,KCTRE00B,20206,288,,B,172,2,--again!,"[I/PRP, 'm/VBP, not/RB, doing
 K/KC/KCT.xml,KCTRE00B,20206,289,,A,173,1,Silly dum cat!,"[Silly/JJ, dum/NN, cat/NN, !/.]",(ROOT (FRAG (NP (JJ Silly) (NN dum) (NN cat)) (. !)))
 K/KC/KCT.xml,KCTRE00B,20206,290,,B,174,1,Come on  --,"[Come/VB, on/IN, I/PRP, know/VBP, ./.]",(ROOT (S (S (VP (VB Come) (PP (IN on) (NP (PRP I))))) (VP (VBP know)) (. .)))
 K/KC/KCT.xml,KCTRE00B,20206,291,,B,174,2,--I know.,"[Come/VB, on/IN, I/PRP, know/VBP, ./.]",(ROOT (S (S (VP (VB Come) (PP (IN on) (NP (PRP I))))) (VP (VBP know)) (. .)))
-K/KC/KCT.xml,KCTRE00B,20206,292,,A,175,1,(()) ,[],X
+K/KC/KCT.xml,KCTRE00B,20206,292,,A,175,1,(()) ,[],
 K/KC/KCT.xml,KCTRE00B,20206,293,,B,176,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))

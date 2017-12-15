@@ -4,8 +4,8 @@ K/KB/KBF.xml,KBFRE01N,15505,1,,B,2,1,Hm.  --,"[Hm/NNS, ./., turn/VB, itself/PRP,
 K/KB/KBF.xml,KBFRE01N,15505,2,,B,2,2,--turn itself off actually.,"[Hm/NNS, ./., turn/VB, itself/PRP, off/RP, actually/RB, ./.]",(ROOT (S (NP (NNS Hm)) (VP (. .) (VP (VB turn) (NP (PRP itself)) (PRT (RP off)) (ADVP (RB actually)))) (. .)))
 K/KB/KBF.xml,KBFRE01N,15505,3,,B,2,3,It's being blooming awkward.,"[It/PRP, 's/VBZ, being/VBG, blooming/VBG, awkward/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG being) (NP (VBG blooming) (NP (JJ awkward))))) (. .)))
 K/KB/KBF.xml,KBFRE01N,15505,4,,A,3,1,It's like being (()) ,"[It/PRP, 's/VBZ, like/IN, being/VBG]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN like) (NP (VBG being))))))
-K/KB/KBF.xml,KBFRE01N,15505,5,,B,4,1,(()) ,[],X
-K/KB/KBF.xml,KBFRE01N,15505,6,,B,4,2,(()) ,[],X
+K/KB/KBF.xml,KBFRE01N,15505,5,,B,4,1,(()) ,[],
+K/KB/KBF.xml,KBFRE01N,15505,6,,B,4,2,(()) ,[],
 K/KB/KBF.xml,KBFRE01N,15505,7,,A,5,1,It's so hot in my head.,"[It/PRP, 's/VBZ, so/RB, hot/JJ, in/IN, my/PRP$, head/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB so) (JJ hot) (PP (IN in) (NP (PRP$ my) (NN head))))) (. .)))
 K/KB/KBF.xml,KBFRE01N,15505,8,,B,6,1,It certainly was very hot in that house.,"[It/PRP, certainly/RB, was/VBD, very/RB, hot/JJ, in/IN, that/DT, house/NNP, ./.]",(ROOT (S (NP (PRP It)) (ADVP (RB certainly)) (VP (VBD was) (ADJP (RB very) (JJ hot)) (PP (IN in) (NP (DT that) (NNP house)))) (. .)))
 K/KB/KBF.xml,KBFRE01N,15505,9,,A,7,1,These shops never change in here do they?,"[These/DT, shops/NNS, never/RB, change/VBP, in/IN, here/RB, do/VBP, they/PRP, ?/.]",(ROOT (S (NP (DT These) (NNS shops)) (ADVP (RB never)) (VP (VBP change) (SBAR (IN in) (S (NP (RB here)) (VP (VBP do) (NP (PRP they)))))) (. ?)))

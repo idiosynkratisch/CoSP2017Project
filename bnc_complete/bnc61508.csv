@@ -7,7 +7,7 @@ K/KB/KB2.xml,KB2RE00N,61508,4,,A,5,1,Mm mm.,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP 
 K/KB/KB2.xml,KB2RE00N,61508,5,,B,6,1,Gonna be able to manage that?,"[Gonna/NNP, be/VB, able/JJ, to/TO, manage/VB, that/IN, ?/.]",(ROOT (S (NP (NNP Gonna)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB manage) (ADVP (IN that))))))) (. ?)))
 K/KB/KB2.xml,KB2RE00N,61508,6,,A,7,1,Lovely!,"[Lovely/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. !)))
 K/KB/KB2.xml,KB2RE00N,61508,7,,A,7,2,It's that stuff I made last year and,"[It/PRP, 's/VBZ, that/IN, stuff/NN, I/PRP, made/VBD, last/JJ, year/NN, and/CC]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (SBAR (IN that) (S (NP (NP (NN stuff)) (NP (PRP I))) (VP (VBD made) (NP (JJ last) (NN year)) (ADVP (CC and))))))))
-K/KB/KB2.xml,KB2RE00N,61508,8,,B,8,1,<laugh> ,[],X
+K/KB/KB2.xml,KB2RE00N,61508,8,,B,8,1,<laugh> ,[],
 K/KB/KB2.xml,KB2RE00N,61508,9,,A,9,1,"you know, I went to market  (()) alright.","[you/PRP, know/VBP, ,/,, I/PRP, went/VBD, to/TO, market/NN, alright/NN, ./.]","(ROOT (S (S (NP (PRP you)) (VP (VBP know))) (, ,) (NP (PRP I)) (VP (VBD went) (PP (TO to) (NP (NN market) (NN alright)))) (. .)))"
 K/KB/KB2.xml,KB2RE00N,61508,10,,B,10,1,Mm mm.,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
 K/KB/KB2.xml,KB2RE00N,61508,11,,B,10,2,<radio on> --,"[You/PRP, gotta/NNP, Radio/NNP, Two/CD, with/IN, that/DT, ./.]",(ROOT (NP (NP (PRP You)) (NP (NP (NNP gotta) (NNP Radio) (CD Two)) (PP (IN with) (NP (DT that)))) (. .)))

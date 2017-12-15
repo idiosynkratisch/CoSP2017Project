@@ -53,10 +53,10 @@ K/KC/KCV.xml,KCVRE00X,3601,50,,A,29,1,(()) --,"[That/DT, now/RB, that/IN, ./.]",
 K/KC/KCV.xml,KCVRE00X,3601,51,,A,29,2,--That now that.,"[That/DT, now/RB, that/IN, ./.]",(ROOT (FRAG (NP (DT That)) (ADVP (RB now) (IN that)) (. .)))
 K/KC/KCV.xml,KCVRE00X,3601,52,,B,30,1,You can take,"[You/PRP, can/MD, take/VB]",(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB take)))))
 K/KC/KCV.xml,KCVRE00X,3601,53,,A,31,1,And now these things huh?,"[And/CC, now/RB, these/DT, things/NNS, huh/NNP, ?/.]",(ROOT (FRAG (CC And) (NP (NP (RB now)) (NP (NP (DT these) (NNS things)) (NNP huh))) (. ?)))
-K/KC/KCV.xml,KCVRE00X,3601,54,,B,32,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00X,3601,54,,B,32,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00X,3601,55,,A,33,1,This and that that thing now the  (()) because we are not supposed to iron them too much.,"[This/DT, and/CC, that/IN, that/DT, thing/NN, now/RB, the/DT, because/IN, we/PRP, are/VBP, not/RB, supposed/VBN, to/TO, iron/VB, them/PRP, too/RB, much/RB, ./.]",(ROOT (S (NP (NP (DT This)) (CC and) (NP (ADVP (IN that) (NP (DT that) (NN thing))) (NP (RB now) (DT the)) (PP (IN because) (NP (PRP we))))) (VP (VBP are) (RB not) (VP (VBN supposed) (S (VP (TO to) (VP (VB iron) (NP (PRP them)) (ADVP (RB too) (RB much))))))) (. .)))
 K/KC/KCV.xml,KCVRE00X,3601,56,,B,34,1,There we go.,"[There/EX, we/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
-K/KC/KCV.xml,KCVRE00X,3601,57,,A,35,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE00X,3601,57,,A,35,1,(()) ,[],
 K/KC/KCV.xml,KCVRE00X,3601,58,,B,36,1,(()) There we go.,"[There/EX, we/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP go)) (. .)))
 K/KC/KCV.xml,KCVRE00X,3601,59,,B,36,2,laugh ,[laugh/NNP],(ROOT (NP (NNP laugh)))
 K/KC/KCV.xml,KCVRE00X,3601,60,,A,37,1,laugh ,[laugh/NNP],(ROOT (NP (NNP laugh)))

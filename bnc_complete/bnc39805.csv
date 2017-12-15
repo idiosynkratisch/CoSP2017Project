@@ -4,8 +4,8 @@ K/KE/KE2.xml,KE2RE04L,39805,1,,A,1,2,<laugh> Some people like it.,"[Some/DT, peo
 K/KE/KE2.xml,KE2RE04L,39805,2,,B,2,1,It keeps  (()) ,"[It/PRP, keeps/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ keeps))))
 K/KE/KE2.xml,KE2RE04L,39805,3,,A,3,1,<laugh> That's right.,"[That/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right))) (. .)))
 K/KE/KE2.xml,KE2RE04L,39805,4,,A,3,2,It needs to.,"[It/PRP, needs/VBZ, to/TO, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ needs) (PP (TO to))) (. .)))
-K/KE/KE2.xml,KE2RE04L,39805,5,,B,4,1,(()) ,[],X
-K/KE/KE2.xml,KE2RE04L,39805,6,,B,4,2,<baby talking> ,[],X
-K/KE/KE2.xml,KE2RE04L,39805,7,,A,5,1,<laugh> ,[],X
+K/KE/KE2.xml,KE2RE04L,39805,5,,B,4,1,(()) ,[],
+K/KE/KE2.xml,KE2RE04L,39805,6,,B,4,2,<baby talking> ,[],
+K/KE/KE2.xml,KE2RE04L,39805,7,,A,5,1,<laugh> ,[],
 K/KE/KE2.xml,KE2RE04L,39805,8,,B,6,1,<laugh> --,"[funny/JJ, hat/NN]",(ROOT (NP (JJ funny) (NN hat)))
 K/KE/KE2.xml,KE2RE04L,39805,9,,B,6,2,--(()) funny hat (()) ,"[funny/JJ, hat/NN]",(ROOT (NP (JJ funny) (NN hat)))

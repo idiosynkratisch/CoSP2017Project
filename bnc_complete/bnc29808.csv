@@ -25,6 +25,6 @@ K/KD/KDM.xml,KDMRE007,29808,22,,A,19,1,"Oh aye yeah, well I am rough aren't I?((
 K/KD/KDM.xml,KDMRE007,29808,23,,B,20,1,Highton Highton I came   (()) --,"[Highton/NNP, Highton/NNP, I/PRP, came/VBD, a/DT, nice/JJ, part/NN, ./.]",(ROOT (S (NP (NNP Highton) (NNP Highton) (PRP I)) (VP (VBD came) (NP (DT a) (JJ nice) (NN part))) (. .)))
 K/KD/KDM.xml,KDMRE007,29808,24,,B,20,2,--a nice part.,"[Highton/NNP, Highton/NNP, I/PRP, came/VBD, a/DT, nice/JJ, part/NN, ./.]",(ROOT (S (NP (NNP Highton) (NNP Highton) (PRP I)) (VP (VBD came) (NP (DT a) (JJ nice) (NN part))) (. .)))
 K/KD/KDM.xml,KDMRE007,29808,25,,A,21,1,(()) rough are they.,"[rough/JJ, are/VBP, they/PRP, ./.]",(ROOT (S (NP (JJ rough)) (VP (VBP are) (NP (PRP they))) (. .)))
-K/KD/KDM.xml,KDMRE007,29808,26,,B,22,1,<laugh> ,[],X
+K/KD/KDM.xml,KDMRE007,29808,26,,B,22,1,<laugh> ,[],
 K/KD/KDM.xml,KDMRE007,29808,27,,A,23,1,(()) never used to fight with  (()) lads.,"[never/RB, used/VBN, to/TO, fight/VB, with/IN, lads/NNS, ./.]",(ROOT (S (VP (ADVP (RB never)) (VBN used) (PP (TO to) (VP (VB fight) (PP (IN with) (NP (NNS lads)))))) (. .)))
 K/KD/KDM.xml,KDMRE007,29808,28,,A,23,2,(()) they're a tough crowd.,"[they/PRP, 're/VBP, a/DT, tough/JJ, crowd/NN, ./.]",(ROOT (S (NP (PRP they)) (VP (VBP 're) (NP (DT a) (JJ tough) (NN crowd))) (. .)))

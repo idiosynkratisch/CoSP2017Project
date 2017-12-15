@@ -1,10 +1,10 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KD/KD7.xml,KD7RE008,35602,0,,A,1,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE008,35602,0,,A,1,1,(()) ,[],
 K/KD/KD7.xml,KD7RE008,35602,1,,B,2,1,Christ you're doing well!,"[Christ/NNP, you/PRP, 're/VBP, doing/VBG, well/RB, !/.]",(ROOT (S (NP (NNP Christ) (PRP you)) (VP (VBP 're) (VP (VBG doing) (ADVP (RB well)))) (. !)))
 K/KD/KD7.xml,KD7RE008,35602,2,,B,2,2,You get in there.,"[You/PRP, get/VBP, in/IN, there/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP get) (PP (IN in) (NP (RB there)))) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,3,,B,2,3,Get stuck in!,"[Get/VB, stuck/VBN, in/IN, !/.]",(ROOT (S (VP (VB Get) (VP (VBN stuck) (PP (IN in)))) (. !)))
 K/KD/KD7.xml,KD7RE008,35602,4,,B,2,4,Do you feel better now though?,"[Do/VB, you/PRP, feel/VB, better/RB, now/RB, though/IN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB feel) (FRAG (ADVP (RB better) (RB now) (IN though)))))) (. ?)))
-K/KD/KD7.xml,KD7RE008,35602,5,,A,3,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE008,35602,5,,A,3,1,(()) ,[],
 K/KD/KD7.xml,KD7RE008,35602,6,,B,4,1,You slept?,"[You/PRP, slept/VBD, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBD slept)) (. ?)))
 K/KD/KD7.xml,KD7RE008,35602,7,,A,5,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,8,,B,6,1,Ah dear!,"[Ah/NN, dear/RB, !/.]",(ROOT (FRAG (NP (NP (NN Ah)) (ADJP (RB dear))) (. !)))
@@ -23,7 +23,7 @@ K/KD/KD7.xml,KD7RE008,35602,20,,B,14,3,Don't matter how sharp it is it'll still 
 K/KD/KD7.xml,KD7RE008,35602,21,,A,15,1,How come all the (()) ?,"[How/WRB, come/VBP, all/PDT, the/DT, ?/.]",(ROOT (SBARQ (WHNP (WRB How)) (SQ (VP (VBP come) (NP (PDT all) (DT the)))) (. ?)))
 K/KD/KD7.xml,KD7RE008,35602,22,,A,15,2,Do we need dishes?,"[Do/VB, we/PRP, need/VBP, dishes/NNS, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP we)) (VP (VBP need) (NP (NNS dishes)))))) (. ?)))
 K/KD/KD7.xml,KD7RE008,35602,23,,B,16,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
-K/KD/KD7.xml,KD7RE008,35602,24,,A,17,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE008,35602,24,,A,17,1,(()) ,[],
 K/KD/KD7.xml,KD7RE008,35602,25,,B,18,1,Is that enough cheese?,"[Is/VBZ, that/IN, enough/JJ, cheese/NN, ?/.]",(ROOT (S (VP (VBZ Is) (PP (IN that) (NP (JJ enough) (NN cheese)))) (. ?)))
 K/KD/KD7.xml,KD7RE008,35602,26,,A,19,1,Full.,"[Full/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Full)) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,27,,A,19,2,A bit more in the middle please?,"[A/DT, bit/NN, more/RBR, in/IN, the/DT, middle/JJ, please/VB, ?/.]",(ROOT (SQ (VP (ADVP (ADVP (NP (DT A) (NN bit)) (RBR more)) (PP (IN in) (NP (DT the) (JJ middle)))) (VB please)) (. ?)))
@@ -94,12 +94,12 @@ K/KD/KD7.xml,KD7RE008,35602,91,,B,50,1,Correct!,"[Correct/JJ, !/.]",(ROOT (FRAG 
 K/KD/KD7.xml,KD7RE008,35602,92,,B,50,2,Which is,"[Which/WDT, is/VBZ]",(ROOT (SBAR (WHNP (WDT Which)) (S (VP (VBZ is)))))
 K/KD/KD7.xml,KD7RE008,35602,93,,A,51,1,A lot hotter.,"[A/DT, lot/NN, hotter/RBR, ./.]",(ROOT (S (NP (DT A) (NN lot)) (ADJP (RBR hotter)) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,94,,B,52,1,"Twice as hot as red, as red hot.","[Twice/RB, as/IN, hot/JJ, as/IN, red/JJ, ,/,, as/IN, red/JJ, hot/JJ, ./.]","(ROOT (FRAG (PP (ADVP (RB Twice)) (IN as) (ADJP (JJ hot) (PP (IN as) (NP (NP (JJ red)) (, ,) (SBAR (IN as) (FRAG (ADJP (JJ red) (JJ hot)))))))) (. .)))"
-K/KD/KD7.xml,KD7RE008,35602,95,,A,53,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE008,35602,95,,A,53,1,(()) ,[],
 K/KD/KD7.xml,KD7RE008,35602,96,,B,54,1,Looks nice dunnit?,"[Looks/VBZ, nice/JJ, dunnit/NNP, ?/.]",(ROOT (S (VP (VBZ Looks) (NP (JJ nice) (NNP dunnit))) (. ?)))
 K/KD/KD7.xml,KD7RE008,35602,97,,A,55,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,98,,A,55,2,Can't wait to get my teeth into it!,"[Can/MD, 't/PRP, wait/VB, to/TO, get/VB, my/PRP$, teeth/NNS, into/IN, it/PRP, !/.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB wait) (S (VP (TO to) (VP (VB get) (NP (PRP$ my) (NNS teeth)) (PP (IN into) (NP (PRP it))))))) (. !)))
 K/KD/KD7.xml,KD7RE008,35602,99,,B,56,1,Do you want your teeth in it as well!,"[Do/VB, you/PRP, want/VB, your/PRP$, teeth/NNS, in/IN, it/PRP, as/RB, well/RB, !/.]",(ROOT (S (VP (VB Do) (S (NP (PRP you)) (VP (VB want) (NP (PRP$ your) (NNS teeth)) (PP (IN in) (NP (PRP it)) (ADVP (RB as) (RB well)))))) (. !)))
-K/KD/KD7.xml,KD7RE008,35602,100,,A,57,1,<laugh> ,[],X
+K/KD/KD7.xml,KD7RE008,35602,100,,A,57,1,<laugh> ,[],
 K/KD/KD7.xml,KD7RE008,35602,101,,B,58,1,Have you got your plate?,"[Have/VB, you/PRP, got/VBD, your/PRP$, plate/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (PRP$ your) (NN plate))))) (. ?)))
 K/KD/KD7.xml,KD7RE008,35602,102,,A,59,1,"Yeah, it's there.","[Yeah/UH, ,/,, it/PRP, 's/VBZ, there/RB, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB there))) (. .)))"
 K/KD/KD7.xml,KD7RE008,35602,103,,A,59,2,Mine has got cheese on.,"[Mine/PRP, has/VBZ, got/VBN, cheese/NN, on/IN, ./.]",(ROOT (S (NP (PRP Mine)) (VP (VBZ has) (VP (VBN got) (NP (NN cheese)) (PP (IN on)))) (. .)))
@@ -161,7 +161,7 @@ K/KD/KD7.xml,KD7RE008,35602,158,,A,93,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT N
 K/KD/KD7.xml,KD7RE008,35602,159,,B,94,1,Is the cheese nice?,"[Is/VBZ, the/DT, cheese/NN, nice/JJ, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT the) (NN cheese)) (ADJP (JJ nice)) (. ?)))
 K/KD/KD7.xml,KD7RE008,35602,160,,A,95,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,161,,A,95,2,"Flipping hell, aren't I allowed to have a bit?","[Flipping/VBG, hell/NN, ,/,, aren/NNP, 't/PRP, I/PRP, allowed/VBD, to/TO, have/VB, a/DT, bit/NN, ?/.]","(ROOT (S (S (VP (VBG Flipping) (NP (NN hell)))) (, ,) (NP (NNP aren) (PRP 't)) (NP (PRP I)) (VP (VBD allowed) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN bit)))))) (. ?)))"
-K/KD/KD7.xml,KD7RE008,35602,162,,B,96,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE008,35602,162,,B,96,1,(()) ,[],
 K/KD/KD7.xml,KD7RE008,35602,163,,A,97,1,Can I go and sit at the table cos my tea's there.,"[Can/MD, I/PRP, go/VB, and/CC, sit/VB, at/IN, the/DT, table/NN, cos/NN, my/PRP$, tea/NN, 's/POS, there/EX, ./.]",(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB go) (CC and) (VB sit) (PP (IN at) (NP (NP (DT the) (NN table) (NN cos)) (NP (PRP$ my) (NN tea) (POS 's)))) (NP (EX there))) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,164,,B,98,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,165,,B,98,2,If you want.,"[If/IN, you/PRP, want/VBP, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want)))) (. .)))
@@ -208,7 +208,7 @@ K/KD/KD7.xml,KD7RE008,35602,205,,A,121,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH 
 K/KD/KD7.xml,KD7RE008,35602,206,,A,121,3,I'll bring my plate up.,"[I/PRP, 'll/MD, bring/VB, my/PRP$, plate/NN, up/RP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB bring) (NP (PRP$ my) (NN plate)) (PRT (RP up)))) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,207,,A,121,4,"Right, thanking yo- you.","[Right/NN, ,/,, thanking/VBG, yo-/NN, you/PRP, ./.]","(ROOT (FRAG (ADJP (NN Right)) (, ,) (VP (VBG thanking) (S (NP (NN yo-)) (NP (PRP you)))) (. .)))"
 K/KD/KD7.xml,KD7RE008,35602,208,,A,121,5,This looks lovely!,"[This/DT, looks/VBZ, lovely/JJ, !/.]",(ROOT (S (NP (DT This)) (VP (VBZ looks) (ADJP (JJ lovely))) (. !)))
-K/KD/KD7.xml,KD7RE008,35602,209,,B,122,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE008,35602,209,,B,122,1,(()) ,[],
 K/KD/KD7.xml,KD7RE008,35602,210,,A,123,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,211,,A,123,2,Looks rather good!(()) ,"[Looks/NNS, rather/RB, good/JJ, !/.]",(ROOT (NP (NP (NNS Looks)) (PP (RB rather) (ADJP (JJ good))) (. !)))
 K/KD/KD7.xml,KD7RE008,35602,212,,B,124,1,"Right, I'll going outside,(()) , alright?","[Right/NN, ,/,, I/PRP, 'll/MD, going/VBG, outside/RB, ,/,, ,/,, alright/NNP, ?/.]","(ROOT (NP (NP (NP (NP (NN Right)) (PRN (, ,) (S (NP (PRP I)) (VP (MD 'll) (S (VP (VBG going) (ADVP (RB outside)))))) (, ,))) (, ,) (NP (NNP alright))) (. ?)))"
@@ -219,4 +219,4 @@ K/KD/KD7.xml,KD7RE008,35602,216,,B,128,1,be long.,"[be/VB, long/RB, ./.]",(ROOT 
 K/KD/KD7.xml,KD7RE008,35602,217,,A,129,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KD/KD7.xml,KD7RE008,35602,218,,A,129,2,"Was the one you went to Building Materials Centre,?","[Was/VBD, the/DT, one/CD, you/PRP, went/VBD, to/TO, Building/NN, Materials/NNS, Centre/NN, ,/,, ?/.]","(ROOT (S (VP (VBD Was) (NP (NP (DT the) (CD one)) (SBAR (S (NP (PRP you)) (VP (VBD went) (PP (TO to) (NP (NN Building) (NNS Materials) (NN Centre))))))) (, ,)) (. ?)))"
 K/KD/KD7.xml,KD7RE008,35602,219,,B,130,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KD/KD7.xml,KD7RE008,35602,220,,A,131,1,(()) ,[],X
+K/KD/KD7.xml,KD7RE008,35602,220,,A,131,1,(()) ,[],

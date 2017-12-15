@@ -70,7 +70,7 @@ K/KD/KDM.xml,KDMRE032,30732,67,,A,33,3,"--if one of my grandsons falls over, the
 K/KD/KDM.xml,KDMRE032,30732,68,,A,33,4,--you know!,"[oh/UH, yeah/UH, bu-/CD, you/PRP, see/VBP, ,/,, er/NN, er/NN, ,/,, you/PRP, 're/VBP, not/RB, supposed/VBN, to/TO, life/NN, anything/NN, for/IN, if/IN, one/CD, of/IN, my/PRP$, grandsons/NNS, falls/VBZ, over/RP, ,/,, the/DT, first/JJ, thing/NN, you/PRP, do/VBP, is/VBZ, pick/VB, him/PRP, up/IN, you/PRP, know/VBP, !/.]","(ROOT (S (S (INTJ (UH oh) (UH yeah)) (NP (CD bu-)) (VP (ADVP (PRP you)) (VBP see))) (, ,) (NP (NN er) (NN er)) (, ,) (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBN supposed) (PP (TO to) (NP (NN life) (NN anything))) (SBAR (IN for) (S (SBAR (IN if) (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NNS grandsons)))) (VP (VBZ falls) (PRT (RP over))))) (, ,) (NP (NP (DT the) (JJ first) (NN thing)) (SBAR (S (NP (PRP you)) (VP (VBP do) (SBAR (S (VP (VBZ is) (VP (VB pick) (NP (PRP him)) (ADVP (IN up)))))))))) (NP (PRP you)) (VP (VBP know)))))) (. !)))"
 K/KD/KDM.xml,KDMRE032,30732,69,,A,33,5,And then er ,"[And/CC, then/RB, er/NN]",(ROOT (FRAG (CC And) (ADVP (RB then)) (NP (NN er))))
 K/KD/KDM.xml,KDMRE032,30732,70,,B,34,1,It's so constricting!,"[It/PRP, 's/VBZ, so/RB, constricting/VBG, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB so)) (VP (VBG constricting))) (. !)))
-K/KD/KDM.xml,KDMRE032,30732,71,,A,35,1,<laugh> ,[],X
+K/KD/KDM.xml,KDMRE032,30732,71,,A,35,1,<laugh> ,[],
 K/KD/KDM.xml,KDMRE032,30732,72,,B,36,1,"Yo- yo- you, you been used to working hard and if they say don't do this","[Yo-/JJ, yo-/NN, you/PRP, ,/,, you/PRP, been/VBN, used/VBN, to/TO, working/VBG, hard/RB, and/CC, if/IN, they/PRP, say/VBP, don/NNP, 't/PRP, do/VBP, this/DT]","(ROOT (FRAG (NP (NP (NP (JJ Yo-) (NN yo-)) (NP (PRP you))) (, ,) (NP (NP (PRP you)) (VP (VBN been) (VP (VBN used) (SBAR (SBAR (S (VP (TO to) (VP (VBG working) (ADVP (RB hard)))))) (CC and) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP say) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP do) (NP (DT this))))))))))))))))"
 K/KD/KDM.xml,KDMRE032,30732,73,,A,37,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KDM.xml,KDMRE032,30732,74,,A,37,2,You don't do it.,"[You/PRP, don/VBP, 't/PRP, do/VB, it/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB do) (NP (PRP it))))) (. .)))
@@ -155,7 +155,7 @@ K/KD/KDM.xml,KDMRE032,30732,152,,A,75,2,--you shouldn't be doing that.,"[them/PR
 K/KD/KDM.xml,KDMRE032,30732,153,,A,75,3,"You know, if they fall over and their ","[You/PRP, know/VBP, ,/,, if/IN, they/PRP, fall/VBP, over/IN, and/CC, their/PRP$]","(ROOT (S (NP (PRP You)) (VP (VP (VBP know)) (, ,) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP fall) (NP (NP (IN over)) (CC and) (NP (PRP$ their)))))))))"
 K/KD/KDM.xml,KDMRE032,30732,154,,B,76,1,But then again ,"[But/CC, then/RB, again/RB]",(ROOT (FRAG (CC But) (NP (NP (RB then)) (ADVP (RB again)))))
 K/KD/KDM.xml,KDMRE032,30732,155,,A,77,1,knees are bleeding  <laughing> or whatever </laughing> !,"[knees/NNS, are/VBP, bleeding/VBG, or/CC, whatever/WDT, !/.]",(ROOT (S (NP (NNS knees)) (VP (VP (VBP are) (VP (VBG bleeding))) (CC or) (VP (FRAG (WHNP (WDT whatever))))) (. !)))
-K/KD/KDM.xml,KDMRE032,30732,156,,B,78,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE032,30732,156,,B,78,1,(()) ,[],
 K/KD/KDM.xml,KDMRE032,30732,157,,A,79,1,You say ,"[You/PRP, say/VBP]",(ROOT (S (NP (PRP You)) (VP (VBP say))))
 K/KD/KDM.xml,KDMRE032,30732,158,,B,80,1,That's right!,"[That/DT, 's/VBZ, right/JJ, !/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ right))) (. !)))
 K/KD/KDM.xml,KDMRE032,30732,159,,A,81,1,"you pick them up, if they fall ","[you/PRP, pick/VBP, them/PRP, up/RP, ,/,, if/IN, they/PRP, fall/VBP]","(ROOT (S (NP (PRP you)) (VP (VBP pick) (NP (PRP them)) (ADVP (RP up)) (, ,) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP fall)))))))"
@@ -177,8 +177,8 @@ K/KD/KDM.xml,KDMRE032,30732,174,,B,92,1,she'd be doing the work and th- ,"[she/P
 K/KD/KDM.xml,KDMRE032,30732,175,,A,93,1,And he'd be sitting watching the ,"[And/CC, he/PRP, 'd/MD, be/VB, sitting/VBG, watching/VBG, the/DT]",(ROOT (S (CC And) (NP (PRP he)) (VP (MD 'd) (VP (VB be) (VP (VBG sitting) (S (VP (VBG watching) (NP (DT the)))))))))
 K/KD/KDM.xml,KDMRE032,30732,176,,B,94,1,"That the wa- , leaving the ","[That/IN, the/DT, wa-/NN, ,/,, leaving/VBG, the/DT]","(ROOT (SBAR (IN That) (FRAG (NP (NP (DT the) (NN wa-)) (, ,) (NP (NP (VBG leaving)) (ADVP (DT the)))))))"
 K/KD/KDM.xml,KDMRE032,30732,177,,A,95,1,television!,"[television/NN, !/.]",(ROOT (NP (NN television) (. !)))
-K/KD/KDM.xml,KDMRE032,30732,178,,B,96,1,<laugh> ,[],X
-K/KD/KDM.xml,KDMRE032,30732,179,,A,97,1,<laugh> ,[],X
+K/KD/KDM.xml,KDMRE032,30732,178,,B,96,1,<laugh> ,[],
+K/KD/KDM.xml,KDMRE032,30732,179,,A,97,1,<laugh> ,[],
 K/KD/KDM.xml,KDMRE032,30732,180,,B,98,1,<laughing> Cos they have the time ,"[Cos/NN, they/PRP, have/VBP, the/DT, time/NN]",(ROOT (FRAG (NP (NP (NN Cos)) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT the) (NN time))))))))
 K/KD/KDM.xml,KDMRE032,30732,181,,A,99,1,Yeah!,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
 K/KD/KDM.xml,KDMRE032,30732,182,,B,100,1,off to look after the ,"[off/IN, to/TO, look/VB, after/IN, the/DT]",(ROOT (ADJP (IN off) (S (VP (TO to) (VP (VB look) (PP (IN after) (NP (DT the))))))))

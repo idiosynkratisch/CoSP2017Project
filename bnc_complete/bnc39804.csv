@@ -80,7 +80,7 @@ K/KE/KE2.xml,KE2RE04K,39804,77,,B,50,2,--(()) ,"[This/DT, one/CD, will/MD, be/VB
 K/KE/KE2.xml,KE2RE04K,39804,78,,A,51,1,(()) stay here now.,"[stay/VB, here/RB, now/RB, ./.]",(ROOT (S (VP (VB stay) (ADVP (RB here) (RB now))) (. .)))
 K/KE/KE2.xml,KE2RE04K,39804,79,,B,52,1,(()) wasn't there anyway.,"[wasn/NNP, 't/PRP, there/EX, anyway/RB, ./.]",(ROOT (NP (NP (NNP wasn)) (NP (NP (PRP 't)) (NP (NP (EX there)) (ADVP (RB anyway)))) (. .)))
 K/KE/KE2.xml,KE2RE04K,39804,80,,B,52,2,"I thought it was sort of a er you know, by the  (()) ","[I/PRP, thought/VBD, it/PRP, was/VBD, sort/NN, of/IN, a/DT, er/NN, you/PRP, know/VBP, ,/,, by/IN, the/DT]","(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NP (NN sort)) (PP (IN of) (NP (NP (DT a) (NN er)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))) (, ,) (PP (IN by) (NP (DT the)))))))))"
-K/KE/KE2.xml,KE2RE04K,39804,81,,A,53,1,<cough> ,[],X
+K/KE/KE2.xml,KE2RE04K,39804,81,,A,53,1,<cough> ,[],
 K/KE/KE2.xml,KE2RE04K,39804,82,,B,54,1,so  --,"[so/IN, I/PRP, was/VBD, wrong/JJ]",(ROOT (SBAR (IN so) (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ wrong))))))
 K/KE/KE2.xml,KE2RE04K,39804,83,,B,54,2,--I was wrong  (()) ,"[so/IN, I/PRP, was/VBD, wrong/JJ]",(ROOT (SBAR (IN so) (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ wrong))))))
 K/KE/KE2.xml,KE2RE04K,39804,84,,A,55,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
@@ -90,8 +90,8 @@ K/KE/KE2.xml,KE2RE04K,39804,87,,B,56,1,Oh yes.,"[Oh/UH, yes/UH, ./.]",(ROOT (FRA
 K/KE/KE2.xml,KE2RE04K,39804,88,,A,57,1,"and I still haven't, I keep on forgetting that.","[and/CC, I/PRP, still/RB, haven/NN, 't/PRP, ,/,, I/PRP, keep/VBP, on/IN, forgetting/VBG, that/DT, ./.]","(ROOT (S (CC and) (NP (PRP I)) (ADVP (RB still)) (NP (NP (NP (NN haven)) (NP (PRP 't))) (, ,) (NP (PRP I))) (VP (VBP keep) (PP (IN on) (S (VP (VBG forgetting) (NP (DT that)))))) (. .)))"
 K/KE/KE2.xml,KE2RE04K,39804,89,,B,58,1,You keep on forgetting to bring out the book.,"[You/PRP, keep/VBP, on/IN, forgetting/VBG, to/TO, bring/VB, out/RP, the/DT, book/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP keep) (PP (IN on) (S (VP (VBG forgetting) (S (VP (TO to) (VP (VB bring) (PRT (RP out)) (NP (DT the) (NN book))))))))) (. .)))
 K/KE/KE2.xml,KE2RE04K,39804,90,,A,59,1,<cough> Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KE/KE2.xml,KE2RE04K,39804,91,,B,60,1,(()) ,[],X
-K/KE/KE2.xml,KE2RE04K,39804,92,,B,60,2,(()) ,[],X
+K/KE/KE2.xml,KE2RE04K,39804,91,,B,60,1,(()) ,[],
+K/KE/KE2.xml,KE2RE04K,39804,92,,B,60,2,(()) ,[],
 K/KE/KE2.xml,KE2RE04K,39804,93,,A,61,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KE/KE2.xml,KE2RE04K,39804,94,,B,62,1,Oh well that was lucky cos there haven't been any more ,"[Oh/UH, well/RB, that/DT, was/VBD, lucky/JJ, cos/NN, there/RB, haven/NN, 't/PRP, been/VBN, any/DT, more/JJR]",(ROOT (SINV (PP (NP (UH Oh)) (PP (RB well) (ADVP (DT that)))) (VP (VBD was) (NP (ADJP (JJ lucky)) (NN cos)) (NP (RB there))) (NP (NP (NN haven)) (NP (NP (PRP 't)) (VP (VBN been) (ADVP (DT any) (JJR more)))))))
 K/KE/KE2.xml,KE2RE04K,39804,95,,A,63,1,"Another space, no, that's right.","[Another/DT, space/NN, ,/,, no/DT, ,/,, that/DT, 's/VBZ, right/NN, ./.]","(ROOT (S (NP (DT Another) (NN space)) (, ,) (ADVP (DT no)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NN right))) (. .)))"

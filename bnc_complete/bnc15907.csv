@@ -16,4 +16,4 @@ K/KB/KBF.xml,KBFRE02Y,15907,13,,B,8,3,I've got everything.,"[I/PRP, 've/VBP, got
 K/KB/KBF.xml,KBFRE02Y,15907,14,,A,9,1,And what about that maths then?,"[And/CC, what/WP, about/IN, that/DT, maths/NNS, then/RB, ?/.]",(ROOT (FRAG (CC And) (SBAR (WHNP (WP what)) (FRAG (PP (IN about) (NP (DT that) (NNS maths) (RB then))))) (. ?)))
 K/KB/KBF.xml,KBFRE02Y,15907,15,,A,9,2,Did he give you that?,"[Did/VBD, he/PRP, give/VB, you/PRP, that/IN, ?/.]",(ROOT (SQ (VBD Did) (NP (PRP he)) (VP (VB give) (S (NP (PRP you)) (ADJP (IN that)))) (. ?)))
 K/KB/KBF.xml,KBFRE02Y,15907,16,,A,9,3,And Italian thing?,"[And/CC, Italian/JJ, thing/NN, ?/.]",(ROOT (FRAG (CC And) (NP (JJ Italian) (NN thing) (. ?))))
-K/KB/KBF.xml,KBFRE02Y,15907,17,,B,10,1,<cough> ,[],X
+K/KB/KBF.xml,KBFRE02Y,15907,17,,B,10,1,<cough> ,[],

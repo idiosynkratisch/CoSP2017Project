@@ -49,7 +49,7 @@ K/KB/KB9.xml,KB9RE011,62501,46,,A,13,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KB/KB9.xml,KB9RE011,62501,47,,A,13,2,Trouble is it's  --,"[Trouble/NN, is/VBZ, it/PRP, 's/VBZ, you/PRP, know/VBP, I/PRP, worry/VB]",(ROOT (S (NP (NN Trouble)) (VP (VBZ is) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP I)) (VP (VB worry))))))))))))
 K/KB/KB9.xml,KB9RE011,62501,48,,A,13,3,--you know  --,"[Trouble/NN, is/VBZ, it/PRP, 's/VBZ, you/PRP, know/VBP, I/PRP, worry/VB]",(ROOT (S (NP (NN Trouble)) (VP (VBZ is) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP I)) (VP (VB worry))))))))))))
 K/KB/KB9.xml,KB9RE011,62501,49,,A,13,4,--I worry ,"[Trouble/NN, is/VBZ, it/PRP, 's/VBZ, you/PRP, know/VBP, I/PRP, worry/VB]",(ROOT (S (NP (NN Trouble)) (VP (VBZ is) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP you)) (VP (VBP know) (S (NP (PRP I)) (VP (VB worry))))))))))))
-K/KB/KB9.xml,KB9RE011,62501,50,,B,14,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE011,62501,50,,B,14,1,(()) ,[],
 K/KB/KB9.xml,KB9RE011,62501,51,,A,15,1,"about her being, getting in ","[about/IN, her/PRP$, being/NN, ,/,, getting/VBG, in/IN]","(ROOT (PP (IN about) (NP (NP (PRP$ her) (NN being)) (, ,) (VP (VBG getting) (PP (IN in))))))"
 K/KB/KB9.xml,KB9RE011,62501,52,,B,16,1,Yeah I know.,"[Yeah/UH, I/PRP, know/VBP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP know))) (. .)))
 K/KB/KB9.xml,KB9RE011,62501,53,,B,16,2,--,"[Enjoying/VBG, them/PRP, crisps/NNS, !/.]",(ROOT (S (VP (VBG Enjoying) (S (NP (PRP them)) (NP (NNS crisps)))) (. !)))

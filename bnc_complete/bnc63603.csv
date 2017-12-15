@@ -23,21 +23,21 @@ K/KD/KDF.xml,KDFRE007,63603,20,,A,1,21,"No, don't do that with it.","[No/DT, ,/,
 K/KD/KDF.xml,KDFRE007,63603,21,,A,1,22,Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,22,,A,1,23,"Come on, let's take your coat off and then you can have your  --","[Come/VB, on/RP, ,/,, let/VB, 's/POS, take/VB, your/PRP$, coat/NN, off/IN, and/CC, then/RB, you/PRP, can/MD, have/VB, your/PRP$, jam/NN, tart/JJ, ./.]","(ROOT (S (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (S (VP (VB let) (S (NP (POS 's)) (VP (VB take) (NP (PRP$ your) (NN coat)) (PRT (IN off))))))) (CC and) (RB then) (S (NP (PRP you)) (VP (MD can) (VP (VB have) (NP (NP (PRP$ your) (NN jam)) (JJ tart))))) (. .)))"
 K/KD/KDF.xml,KDFRE007,63603,23,,A,1,24,--jam tart.,"[Come/VB, on/RP, ,/,, let/VB, 's/POS, take/VB, your/PRP$, coat/NN, off/IN, and/CC, then/RB, you/PRP, can/MD, have/VB, your/PRP$, jam/NN, tart/JJ, ./.]","(ROOT (S (S (S (VP (VB Come) (PRT (RP on)))) (, ,) (S (VP (VB let) (S (NP (POS 's)) (VP (VB take) (NP (PRP$ your) (NN coat)) (PRT (IN off))))))) (CC and) (RB then) (S (NP (PRP you)) (VP (MD can) (VP (VB have) (NP (NP (PRP$ your) (NN jam)) (JJ tart))))) (. .)))"
-K/KD/KDF.xml,KDFRE007,63603,24,,B,2,1,(()) ,[],X
-K/KD/KDF.xml,KDFRE007,63603,25,,B,2,2,<baby talk> ,[],X
+K/KD/KDF.xml,KDFRE007,63603,24,,B,2,1,(()) ,[],
+K/KD/KDF.xml,KDFRE007,63603,25,,B,2,2,<baby talk> ,[],
 K/KD/KDF.xml,KDFRE007,63603,26,,A,3,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KD/KDF.xml,KDFRE007,63603,27,,A,3,2,Let's get this coaties off.,"[Let/VB, 's/PRP, get/VB, this/DT, coaties/NNS, off/RP, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB get) (NP (DT this) (NNS coaties)) (PRT (RP off))))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,28,,A,3,3,And your hat.,"[And/CC, your/PRP$, hat/NN, ./.]",(ROOT (FRAG (CC And) (NP (NP (PRP$ your)) (NP (NN hat))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,29,,A,3,4,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
-K/KD/KDF.xml,KDFRE007,63603,30,,B,4,1,(()) ,[],X
-K/KD/KDF.xml,KDFRE007,63603,31,,B,4,2,<baby talk> ,[],X
+K/KD/KDF.xml,KDFRE007,63603,30,,B,4,1,(()) ,[],
+K/KD/KDF.xml,KDFRE007,63603,31,,B,4,2,<baby talk> ,[],
 K/KD/KDF.xml,KDFRE007,63603,32,,A,5,1,Yes!,"[Yes/UH, !/.]",(ROOT (INTJ (UH Yes) (. !)))
 K/KD/KDF.xml,KDFRE007,63603,33,,A,5,2,Ooh!,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
 K/KD/KDF.xml,KDFRE007,63603,34,,A,5,3,Ooh!,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
 K/KD/KDF.xml,KDFRE007,63603,35,,A,5,4,It's come of again.,"[It/PRP, 's/VBZ, come/VBN, of/IN, again/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN come) (PP (IN of) (ADVP (RB again))))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,36,,A,5,5,Have you got a dirty nappy?,"[Have/VB, you/PRP, got/VBD, a/DT, dirty/JJ, nappy/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (DT a) (JJ dirty) (NN nappy))))) (. ?)))
-K/KD/KDF.xml,KDFRE007,63603,37,,B,6,1,(()) ,[],X
-K/KD/KDF.xml,KDFRE007,63603,38,,B,6,2,<baby talk> ,[],X
+K/KD/KDF.xml,KDFRE007,63603,37,,B,6,1,(()) ,[],
+K/KD/KDF.xml,KDFRE007,63603,38,,B,6,2,<baby talk> ,[],
 K/KD/KDF.xml,KDFRE007,63603,39,,A,7,1,And who have been to see?,"[And/CC, who/WP, have/VBP, been/VBN, to/TO, see/VB, ?/.]",(ROOT (SBARQ (CC And) (WHNP (WP who)) (SQ (VP (VBP have) (VP (VBN been) (S (VP (TO to) (VP (VB see))))))) (. ?)))
 K/KD/KDF.xml,KDFRE007,63603,40,,A,7,2,To see Jade?,"[To/TO, see/VB, Jade/NNP, ?/.]",(ROOT (S (VP (TO To) (VP (VB see) (NP (NNP Jade)))) (. ?)))
 K/KD/KDF.xml,KDFRE007,63603,41,,B,8,1,Jade!,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
@@ -75,11 +75,11 @@ K/KD/KDF.xml,KDFRE007,63603,72,,A,33,1,<laughing> Yeah.,"[Yeah/UH, ./.]",(ROOT (
 K/KD/KDF.xml,KDFRE007,63603,73,,A,33,2,Jade </laughing> .,"[Jade/NNP, ./.]",(ROOT (FRAG (NP (NNP Jade)) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,74,,B,34,1,Jade!,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
 K/KD/KDF.xml,KDFRE007,63603,75,,A,35,1,Jade!,"[Jade/VB, !/.]",(ROOT (S (VP (VB Jade)) (. !)))
-K/KD/KDF.xml,KDFRE007,63603,76,,B,36,1,(()) ,[],X
+K/KD/KDF.xml,KDFRE007,63603,76,,B,36,1,(()) ,[],
 K/KD/KDF.xml,KDFRE007,63603,77,,A,37,1,D'ya want your slippers on?,"[D/NNP, 'ya/NNP, want/VB, your/PRP$, slippers/NNS, on/IN, ?/.]",(ROOT (S (NP (NNP D) (NNP 'ya)) (VP (VB want) (NP (PRP$ your) (NNS slippers)) (PP (IN on))) (. ?)))
 K/KD/KDF.xml,KDFRE007,63603,78,,B,38,1,Mum.(()) <baby talk> ,"[Mum/NN, ./.]",(ROOT (NP (NN Mum) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,79,,A,39,1,Get some new shoes for  (()) party won't we?,"[Get/VB, some/DT, new/JJ, shoes/NNS, for/IN, party/NN, won/VBD, 't/PRP, we/PRP, ?/.]",(ROOT (SQ (VP (VB Get) (SBAR (S (NP (NP (DT some) (JJ new) (NNS shoes)) (PP (IN for) (NP (NN party)))) (VP (VBD won) (S (NP (PRP 't)) (NP (PRP we))))))) (. ?)))
-K/KD/KDF.xml,KDFRE007,63603,80,,B,40,1,(()) ,[],X
+K/KD/KDF.xml,KDFRE007,63603,80,,B,40,1,(()) ,[],
 K/KD/KDF.xml,KDFRE007,63603,81,,A,41,1,Show your daddy.,"[Show/VB, your/PRP$, daddy/NN, ./.]",(ROOT (S (VP (VB Show) (NP (PRP$ your) (NN daddy))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,82,,B,42,1,Daddy.,"[Daddy/NNP, ./.]",(ROOT (FRAG (NP (NNP Daddy)) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,83,,A,43,1,"Say, if you're a good boy.","[Say/VB, ,/,, if/IN, you/PRP, 're/VBP, a/DT, good/JJ, boy/NN, ./.]","(ROOT (S (VP (VB Say) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (JJ good) (NN boy)))))) (. .)))"
@@ -87,11 +87,11 @@ K/KD/KDF.xml,KDFRE007,63603,84,,B,44,1,Daddy.,"[Daddy/NNP, ./.]",(ROOT (FRAG (NP
 K/KD/KDF.xml,KDFRE007,63603,85,,A,45,1,You're going to get an invitation to Jadey's party.,"[You/PRP, 're/VBP, going/VBG, to/TO, get/VB, an/DT, invitation/NN, to/TO, Jadey/NNP, 's/POS, party/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB get) (NP (DT an) (NN invitation)) (PP (TO to) (NP (NP (NNP Jadey) (POS 's)) (NN party)))))))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,86,,A,45,2,Won't we?,"[Won/VBN, 't/PRP, we/PRP, ?/.]",(ROOT (S (VP (VBN Won) (S (NP (PRP 't)) (NP (PRP we)))) (. ?)))
 K/KD/KDF.xml,KDFRE007,63603,87,,A,45,3,I told Aunty Sharon you have to be a good boy though.,"[I/PRP, told/VBD, Aunty/NNP, Sharon/NNP, you/PRP, have/VBP, to/TO, be/VB, a/DT, good/JJ, boy/NN, though/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD told) (NP (NP (NNP Aunty) (NNP Sharon)) (SBAR (S (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB be) (NP (DT a) (JJ good) (NN boy)) (ADVP (IN though)))))))))) (. .)))
-K/KD/KDF.xml,KDFRE007,63603,88,,B,46,1,(()) ,[],X
-K/KD/KDF.xml,KDFRE007,63603,89,,B,46,2,<baby talk> ,[],X
+K/KD/KDF.xml,KDFRE007,63603,88,,B,46,1,(()) ,[],
+K/KD/KDF.xml,KDFRE007,63603,89,,B,46,2,<baby talk> ,[],
 K/KD/KDF.xml,KDFRE007,63603,90,,A,47,1,Haven't we?,"[Haven/NNP, 't/PRP, we/PRP, ?/.]",(ROOT (NP (NP (NNP Haven)) (NP (NP (PRP 't)) (NP (PRP we))) (. ?)))
-K/KD/KDF.xml,KDFRE007,63603,91,,B,48,1,(()) ,[],X
-K/KD/KDF.xml,KDFRE007,63603,92,,B,48,2,<baby talk> ,[],X
+K/KD/KDF.xml,KDFRE007,63603,91,,B,48,1,(()) ,[],
+K/KD/KDF.xml,KDFRE007,63603,92,,B,48,2,<baby talk> ,[],
 K/KD/KDF.xml,KDFRE007,63603,93,,A,49,1,No!,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
 K/KD/KDF.xml,KDFRE007,63603,94,,A,49,2,Don't touch yet.,"[Don/NNP, 't/PRP, touch/RB, yet/RB, ./.]",(ROOT (NP (NP (NNP Don)) (NP (NP (PRP 't)) (NP (RB touch) (RB yet))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,95,,A,49,3,Wait!,"[Wait/VB, !/.]",(ROOT (S (VP (VB Wait)) (. !)))
@@ -103,8 +103,8 @@ K/KD/KDF.xml,KDFRE007,63603,100,,B,50,1,Cakey!,"[Cakey/NN, !/.]",(ROOT (NP (NN C
 K/KD/KDF.xml,KDFRE007,63603,101,,A,51,1,Cakey.,"[Cakey/NNP, ./.]",(ROOT (FRAG (NP (NNP Cakey)) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,102,,B,52,1,Cakey!,"[Cakey/NN, !/.]",(ROOT (NP (NN Cakey) (. !)))
 K/KD/KDF.xml,KDFRE007,63603,103,,A,53,1,But let's put your pram away.,"[But/CC, let/VB, 's/POS, put/VB, your/PRP$, pram/NN, away/RB, ./.]",(ROOT (S (CC But) (VP (VB let) (S (NP (POS 's)) (VP (VB put) (NP (PRP$ your) (NN pram)) (ADVP (RB away))))) (. .)))
-K/KD/KDF.xml,KDFRE007,63603,104,,B,54,1,(()) ,[],X
-K/KD/KDF.xml,KDFRE007,63603,105,,B,54,2,<baby talk> ,[],X
+K/KD/KDF.xml,KDFRE007,63603,104,,B,54,1,(()) ,[],
+K/KD/KDF.xml,KDFRE007,63603,105,,B,54,2,<baby talk> ,[],
 K/KD/KDF.xml,KDFRE007,63603,106,,A,55,1,"(()) , let's put your pram away first.","[,/,, let/VB, 's/POS, put/VB, your/PRP$, pram/NN, away/RB, first/RB, ./.]","(ROOT (PRN (, ,) (S (VP (VB let) (S (NP (POS 's)) (VP (VB put) (NP (PRP$ your) (NN pram)) (PP (RB away) (FRAG (ADVP (RB first)) (. .)))))))))"
 K/KD/KDF.xml,KDFRE007,63603,107,,A,55,2,Will you pick dungy up off the floor.,"[Will/MD, you/PRP, pick/VB, dungy/NNP, up/IN, off/IN, the/DT, floor/NN, ./.]",(ROOT (SQ (MD Will) (NP (PRP you)) (VP (VB pick) (NP (NNP dungy)) (ADVP (IN up) (PP (IN off) (NP (DT the) (NN floor))))) (. .)))
 K/KD/KDF.xml,KDFRE007,63603,108,,A,55,3,Get your dungy off the floor.,"[Get/VB, your/PRP$, dungy/NNP, off/IN, the/DT, floor/NN, ./.]",(ROOT (S (VP (VB Get) (NP (PRP$ your) (NNP dungy)) (PP (IN off) (NP (DT the) (NN floor)))) (. .)))

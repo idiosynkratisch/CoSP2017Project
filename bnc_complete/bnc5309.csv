@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KC/KCD.xml,KCDRE031,5309,0,,A,1,1,(()) ,[],X
+K/KC/KCD.xml,KCDRE031,5309,0,,A,1,1,(()) ,[],
 K/KC/KCD.xml,KCDRE031,5309,1,,B,2,1,"The chain,(()) .","[The/DT, chain/NN, ,/,, ./.]","(ROOT (S (NP (DT The) (NN chain)) (VP (, ,)) (. .)))"
 K/KC/KCD.xml,KCDRE031,5309,2,,A,3,1,"No, don't worry.","[No/DT, ,/,, don/NNP, 't/PRP, worry/VBP, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP worry))))) (. .)))"
 K/KC/KCD.xml,KCDRE031,5309,3,,B,4,1,Pardon.,"[Pardon/NN, ./.]",(ROOT (NP (NN Pardon) (. .)))

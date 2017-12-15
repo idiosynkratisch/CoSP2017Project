@@ -71,7 +71,7 @@ K/KD/KD8.xml,KD8RE00T,31702,68,,A,41,2,"Oh Christ, I'm not  <laughing> very good
 K/KD/KD8.xml,KD8RE00T,31702,69,,A,41,3,<laugh> --,"[I/PRP, don/VBP, 't/PRP, wanna/NNP, pull/VB, you/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (NP (NNP wanna)) (S (VP (VB pull) (NP (PRP you)))))) (. !)))
 K/KD/KD8.xml,KD8RE00T,31702,70,,A,41,4,--I don't wanna pull you!,"[I/PRP, don/VBP, 't/PRP, wanna/NNP, pull/VB, you/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (NP (NNP wanna)) (S (VP (VB pull) (NP (PRP you)))))) (. !)))
 K/KD/KD8.xml,KD8RE00T,31702,71,,B,42,1,I'll tell you when you pull me!,"[I/PRP, 'll/MD, tell/VB, you/PRP, when/WRB, you/PRP, pull/VBP, me/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP pull) (NP (PRP me))))))) (. !)))
-K/KD/KD8.xml,KD8RE00T,31702,72,,A,43,1,<laugh> ,[],X
+K/KD/KD8.xml,KD8RE00T,31702,72,,A,43,1,<laugh> ,[],
 K/KD/KD8.xml,KD8RE00T,31702,73,,B,44,1,Oh well when it hurts anyway!,"[Oh/UH, well/RB, when/WRB, it/PRP, hurts/VBZ, anyway/RB, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (RB well)) (VP (ADVP (WRB when)) (VP (ADVP (PRP it)) (VBZ hurts) (ADVP (RB anyway))))) (. !)))
 K/KD/KD8.xml,KD8RE00T,31702,74,,A,45,1,"Oh hang on, I can't do that!","[Oh/UH, hang/VB, on/IN, ,/,, I/PRP, can/MD, 't/PRP, do/VB, that/DT, !/.]","(ROOT (S (INTJ (UH Oh)) (VP (VB hang) (SBAR (IN on) (, ,) (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB do) (NP (DT that)))))))) (. !)))"
 K/KD/KD8.xml,KD8RE00T,31702,75,,A,45,2,I'll have to do it like this.,"[I/PRP, 'll/MD, have/VB, to/TO, do/VB, it/PRP, like/IN, this/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (PRP it)) (PP (IN like) (NP (DT this)))))))) (. .)))
@@ -80,8 +80,8 @@ K/KD/KD8.xml,KD8RE00T,31702,77,,A,45,4,--the brush moving and that don't they?,"
 K/KD/KD8.xml,KD8RE00T,31702,78,,B,46,1,Yeah alright then.,"[Yeah/UH, alright/JJ, then/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Yeah)) (NP (JJ alright) (RB then)))) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,79,,A,47,1,Well I don't.,"[Well/RB, I/PRP, don/VBP, 't/PRP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP don) (NP (PRP 't))) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,80,,A,47,2,I'll have to  <laughing> do it like this </laughing> !,"[I/PRP, 'll/MD, have/VB, to/TO, do/VB, it/PRP, like/IN, this/DT, !/.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (PRP it)) (PP (IN like) (NP (DT this)))))))) (. !)))
-K/KD/KD8.xml,KD8RE00T,31702,81,,B,48,1,<laugh> ,[],X
-K/KD/KD8.xml,KD8RE00T,31702,82,,B,48,2,<hair dryer on> ,[],X
+K/KD/KD8.xml,KD8RE00T,31702,81,,B,48,1,<laugh> ,[],
+K/KD/KD8.xml,KD8RE00T,31702,82,,B,48,2,<hair dryer on> ,[],
 K/KD/KD8.xml,KD8RE00T,31702,83,,A,49,1,Tell me if it gets too hot on your head.,"[Tell/VB, me/PRP, if/IN, it/PRP, gets/VBZ, too/RB, hot/JJ, on/IN, your/PRP$, head/NN, ./.]",(ROOT (S (VP (VB Tell) (NP (PRP me)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ gets) (ADJP (RB too) (JJ hot) (PP (IN on) (NP (PRP$ your) (NN head)))))))) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,84,,B,50,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,85,,A,51,1,Well it probably is (()) .,"[Well/RB, it/PRP, probably/RB, is/VBZ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (ADVP (RB probably)) (VP (VBZ is)) (. .)))
@@ -114,7 +114,7 @@ K/KD/KD8.xml,KD8RE00T,31702,111,,B,64,1,I never been round there  (()) I went up
 K/KD/KD8.xml,KD8RE00T,31702,112,,B,64,2,We went to the river in the car.,"[We/PRP, went/VBD, to/TO, the/DT, river/NN, in/IN, the/DT, car/NN, ./.]",(ROOT (S (NP (PRP We)) (VP (VBD went) (PP (TO to) (NP (DT the) (NN river))) (PP (IN in) (NP (DT the) (NN car)))) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,113,,A,65,1,Is there much water in it?,"[Is/VBZ, there/RB, much/JJ, water/NN, in/IN, it/PRP, ?/.]",(ROOT (SQ (VBZ Is) (NP (RB there)) (NP (NP (JJ much) (NN water)) (PP (IN in) (NP (PRP it)))) (. ?)))
 K/KD/KD8.xml,KD8RE00T,31702,114,,B,66,1,"Well didn't go in my car, went in his!","[Well/RB, didn/JJ, 't/PRP, go/VB, in/IN, my/PRP$, car/NN, ,/,, went/VBD, in/IN, his/PRP$, !/.]","(ROOT (S (ADVP (RB Well)) (S (ADJP (JJ didn) (SBAR (S (NP (PRP 't)) (VP (VB go) (PP (IN in) (NP (PRP$ my) (NN car)))))))) (, ,) (VP (VBD went) (PP (IN in) (NP (PRP$ his)))) (. !)))"
-K/KD/KD8.xml,KD8RE00T,31702,115,,A,67,1,<laugh> ,[],X
+K/KD/KD8.xml,KD8RE00T,31702,115,,A,67,1,<laugh> ,[],
 K/KD/KD8.xml,KD8RE00T,31702,116,,B,68,1,In the (()) .,"[In/IN, the/DT, ./.]",(ROOT (FRAG (PP (IN In) (NP (DT the))) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,117,,B,68,2,Ooh you got a floppy ear (()) !,"[Ooh/NNP, you/PRP, got/VBD, a/DT, floppy/JJ, ear/NN, !/.]",(ROOT (S (NP (NNP Ooh) (PRP you)) (VP (VBD got) (NP (DT a) (JJ floppy) (NN ear))) (. !)))
 K/KD/KD8.xml,KD8RE00T,31702,118,,B,68,3,I know!,"[I/PRP, know/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. !)))
@@ -126,7 +126,7 @@ K/KD/KD8.xml,KD8RE00T,31702,123,,A,71,1,<laugh> --,"[No/DT, ,/,, I/PRP, must/MD,
 K/KD/KD8.xml,KD8RE00T,31702,124,,A,71,2,"--No, I must admit your hair is  --","[No/DT, ,/,, I/PRP, must/MD, admit/VB, your/PRP$, hair/NN, is/VBZ, looking/VBG, a/DT, lot/NN, thicker/JJR, and/CC, healthier/JJR, ./.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP I)) (VP (MD must) (VP (VB admit) (NP (PRP$ your) (NN hair)))))) (VP (VBZ is) (VP (VBG looking) (NP (NP (DT a) (NN lot)) (NP (JJR thicker) (CC and) (JJR healthier))))) (. .)))"
 K/KD/KD8.xml,KD8RE00T,31702,125,,A,71,3,--looking a lot thicker and healthier.,"[No/DT, ,/,, I/PRP, must/MD, admit/VB, your/PRP$, hair/NN, is/VBZ, looking/VBG, a/DT, lot/NN, thicker/JJR, and/CC, healthier/JJR, ./.]","(ROOT (S (NP (DT No)) (PRN (, ,) (S (NP (PRP I)) (VP (MD must) (VP (VB admit) (NP (PRP$ your) (NN hair)))))) (VP (VBZ is) (VP (VBG looking) (NP (NP (DT a) (NN lot)) (NP (JJR thicker) (CC and) (JJR healthier))))) (. .)))"
 K/KD/KD8.xml,KD8RE00T,31702,126,,A,71,4,We have lift off!,"[We/PRP, have/VBP, lift/VB, off/RP, !/.]",(ROOT (S (NP (PRP We)) (VP (VBP have) (S (VP (VB lift) (PRT (RP off))))) (. !)))
-K/KD/KD8.xml,KD8RE00T,31702,127,,B,72,1,<laugh> ,[],X
+K/KD/KD8.xml,KD8RE00T,31702,127,,B,72,1,<laugh> ,[],
 K/KD/KD8.xml,KD8RE00T,31702,128,,A,73,1,(()) ?,[?/.],(ROOT (NP (. ?)))
 K/KD/KD8.xml,KD8RE00T,31702,129,,B,74,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KD/KD8.xml,KD8RE00T,31702,130,,A,75,1,"It's alright, is it blowing?","[It/PRP, 's/VBZ, alright/JJ, ,/,, is/VBZ, it/PRP, blowing/VBG, ?/.]","(ROOT (SQ (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ alright)))) (, ,) (SQ (VBZ is) (NP (PRP it)) (VP (VBG blowing))) (. ?)))"
@@ -221,14 +221,14 @@ K/KD/KD8.xml,KD8RE00T,31702,218,,A,127,1,Was he?,"[Was/VBD, he/PRP, ?/.]",(ROOT 
 K/KD/KD8.xml,KD8RE00T,31702,219,,B,128,1,I didn't need them though.,"[I/PRP, didn/VBP, 't/PRP, need/VB, them/PRP, though/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB need) (NP (PRP them)) (ADVP (RB though))))) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,220,,B,128,2,But they're nice.,"[But/CC, they/PRP, 're/VBP, nice/JJ, ./.]",(ROOT (S (CC But) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ nice))) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,221,,A,129,1,Ooh (()) !,"[Ooh/NNP, !/.]",(ROOT (FRAG (NP (NNP Ooh)) (. !)))
-K/KD/KD8.xml,KD8RE00T,31702,222,,B,130,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00T,31702,222,,B,130,1,(()) ,[],
 K/KD/KD8.xml,KD8RE00T,31702,223,,A,131,1,Exactly what you said he'd say!,"[Exactly/RB, what/WP, you/PRP, said/VBD, he/PRP, 'd/MD, say/VB, !/.]",(ROOT (S (ADJP (RB Exactly) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (MD 'd) (VP (VB say))))))))) (. !)))
 K/KD/KD8.xml,KD8RE00T,31702,224,,A,131,2,And how did you get on on your night out the fo- --,"[And/CC, how/WRB, did/VBD, you/PRP, get/VB, on/RP, on/IN, your/PRP$, night/NN, out/IN, the/DT, fo-/NN, this/DT, Friday/NNP, night/NN, ?/.]",(ROOT (SBARQ (CC And) (WHADVP (WRB how)) (SQ (VBD did) (NP (PRP you)) (VP (VB get) (PRT (RP on)) (PP (IN on) (NP (PRP$ your) (NN night))) (PP (IN out) (NP (NP (DT the) (NN fo-)) (NP (DT this) (NNP Friday) (NN night)))))) (. ?)))
 K/KD/KD8.xml,KD8RE00T,31702,225,,A,131,3,--this Friday night?,"[And/CC, how/WRB, did/VBD, you/PRP, get/VB, on/RP, on/IN, your/PRP$, night/NN, out/IN, the/DT, fo-/NN, this/DT, Friday/NNP, night/NN, ?/.]",(ROOT (SBARQ (CC And) (WHADVP (WRB how)) (SQ (VBD did) (NP (PRP you)) (VP (VB get) (PRT (RP on)) (PP (IN on) (NP (PRP$ your) (NN night))) (PP (IN out) (NP (NP (DT the) (NN fo-)) (NP (DT this) (NNP Friday) (NN night)))))) (. ?)))
 K/KD/KD8.xml,KD8RE00T,31702,226,,B,132,1,Oh it were crap!,"[Oh/UH, it/PRP, were/VBD, crap/NN, !/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBD were) (NP (NN crap)))) (. !)))
 K/KD/KD8.xml,KD8RE00T,31702,227,,A,133,1,Was it?,"[Was/VBD, it/PRP, ?/.]",(ROOT (S (VP (VBD Was) (NP (PRP it))) (. ?)))
 K/KD/KD8.xml,KD8RE00T,31702,228,,A,133,2,Where do you go?,"[Where/WRB, do/VBP, you/PRP, go/VB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP do) (NP (PRP you)) (VP (VB go))) (. ?)))
-K/KD/KD8.xml,KD8RE00T,31702,229,,B,134,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00T,31702,229,,B,134,1,(()) ,[],
 K/KD/KD8.xml,KD8RE00T,31702,230,,A,135,1,You meeting in the Falcon weren't you?,"[You/PRP, meeting/VBG, in/IN, the/DT, Falcon/NNP, weren/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBG meeting) (PP (IN in) (NP (NP (DT the) (NNP Falcon) (NNP weren)) (NP (PRP 't)))) (NP (PRP you))) (. ?)))
 K/KD/KD8.xml,KD8RE00T,31702,231,,B,136,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD8.xml,KD8RE00T,31702,232,,A,137,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

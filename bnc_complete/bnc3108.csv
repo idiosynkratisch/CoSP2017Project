@@ -1,11 +1,11 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KCV.xml,KCVRE007,3108,0,,A,1,1,I'll feed the birds and then you can see how they eat an- and drink in the bath will you?,"[I/PRP, 'll/MD, feed/VB, the/DT, birds/NNS, and/CC, then/RB, you/PRP, can/MD, see/VB, how/WRB, they/PRP, eat/VBP, an-/NN, and/CC, drink/NN, in/IN, the/DT, bath/NN, will/MD, you/PRP, ?/.]",(ROOT (SINV (S (S (NP (PRP I)) (VP (MD 'll) (VP (VB feed) (NP (DT the) (NNS birds))))) (CC and) (RB then) (S (NP (PRP you)) (VP (MD can) (VP (VB see) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBP eat) (NP (NP (NN an-) (CC and) (NN drink)) (PP (IN in) (NP (DT the) (NN bath))))))))))) (VP (MD will)) (NP (PRP you)) (. ?)))
-K/KC/KCV.xml,KCVRE007,3108,1,,B,2,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE007,3108,1,,B,2,1,(()) ,[],
 K/KC/KCV.xml,KCVRE007,3108,2,,A,3,1,Well  --,"[Well/RB, I/PRP, 'd/MD, like/VB, to/TO, take/VB, the/DT, second/JJ, one/CD, back/RB, ,/,, could/MD, you/PRP, reach/VB, it/PRP, in/IN, the/DT, car/NN, ?/.]","(ROOT (SQ (SBAR (RB Well) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB take) (NP (DT the) (JJ second) (CD one)) (ADVP (RB back))))))))) (, ,) (MD could) (NP (PRP you)) (VP (VB reach) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN car)))) (. ?)))"
 K/KC/KCV.xml,KCVRE007,3108,3,,A,3,2,"--I'd like to take the second one back, could you reach it in the car?","[Well/RB, I/PRP, 'd/MD, like/VB, to/TO, take/VB, the/DT, second/JJ, one/CD, back/RB, ,/,, could/MD, you/PRP, reach/VB, it/PRP, in/IN, the/DT, car/NN, ?/.]","(ROOT (SQ (SBAR (RB Well) (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB take) (NP (DT the) (JJ second) (CD one)) (ADVP (RB back))))))))) (, ,) (MD could) (NP (PRP you)) (VP (VB reach) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN car)))) (. ?)))"
 K/KC/KCV.xml,KCVRE007,3108,4,,B,4,1,Beg pardon?,"[Beg/VB, pardon/NN, ?/.]",(ROOT (SQ (VP (VB Beg) (NP (NN pardon))) (. ?)))
 K/KC/KCV.xml,KCVRE007,3108,5,,A,5,1,I'd like to take the second one back,"[I/PRP, 'd/MD, like/VB, to/TO, take/VB, the/DT, second/JJ, one/CD, back/NN]",(ROOT (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB take) (NP (DT the) (JJ second) (CD one) (NN back)))))))))
-K/KC/KCV.xml,KCVRE007,3108,6,,B,6,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE007,3108,6,,B,6,1,(()) ,[],
 K/KC/KCV.xml,KCVRE007,3108,7,,A,7,1,and that's how and an- my my back aches you know when (()) ,"[and/CC, that/DT, 's/VBZ, how/WRB, and/CC, an-/NN, my/PRP$, my/PRP$, back/JJ, aches/NNS, you/PRP, know/VBP, when/WRB]",(ROOT (FRAG (CC and) (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (SBAR (WHADVP (WRB how)) (S (NP (CC and) (NP (NP (NN an-)) (NP (PRP$ my) (NP (NP (PRP$ my) (JJ back) (NNS aches)) (NP (PRP you)))))) (VP (VBP know) (NP (WRB when)))))))))))
 K/KC/KCV.xml,KCVRE007,3108,8,,B,8,1,Got any more black bags?,"[Got/VBD, any/DT, more/JJR, black/JJ, bags/NNS, ?/.]",(ROOT (S (VP (VBD Got) (NP (DT any) (JJR more) (JJ black) (NNS bags))) (. ?)))
 K/KC/KCV.xml,KCVRE007,3108,9,,A,9,1,"Yes, yes   --","[Yes/UH, ,/,, yes/UH, flowers/NNS, when/WRB, they/PRP, watered/VBD, really/RB, sometimes/RB, I/PRP, I/PRP]","(ROOT (SINV (FRAG (INTJ (UH Yes) (, ,) (UH yes))) (VP (ADVP (NNS flowers)) (VP (ADVP (WRB when)) (VP (ADVP (PRP they)) (VBD watered) (ADVP (RB really) (RB sometimes)) (NP (PRP I))))) (NP (PRP I))))"
@@ -13,9 +13,9 @@ K/KC/KCV.xml,KCVRE007,3108,10,,A,9,2,--(()) flowers when they watered really  --
 K/KC/KCV.xml,KCVRE007,3108,11,,A,9,3,--sometimes I I,"[Yes/UH, ,/,, yes/UH, flowers/NNS, when/WRB, they/PRP, watered/VBD, really/RB, sometimes/RB, I/PRP, I/PRP]","(ROOT (SINV (FRAG (INTJ (UH Yes) (, ,) (UH yes))) (VP (ADVP (NNS flowers)) (VP (ADVP (WRB when)) (VP (ADVP (PRP they)) (VBD watered) (ADVP (RB really) (RB sometimes)) (NP (PRP I))))) (NP (PRP I))))"
 K/KC/KCV.xml,KCVRE007,3108,12,,B,10,1,(()) all the others are dreadful.,"[all/PDT, the/DT, others/NNS, are/VBP, dreadful/JJ, ./.]",(ROOT (S (NP (PDT all) (DT the) (NNS others)) (VP (VBP are) (ADJP (JJ dreadful))) (. .)))
 K/KC/KCV.xml,KCVRE007,3108,13,,A,11,1,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
-K/KC/KCV.xml,KCVRE007,3108,14,,B,12,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE007,3108,14,,B,12,1,(()) ,[],
 K/KC/KCV.xml,KCVRE007,3108,15,,A,13,1,Why should we not be nice?<piano music> ,"[Why/WRB, should/MD, we/PRP, not/RB, be/VB, nice/JJ, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (MD should) (NP (PRP we)) (ADVP (RB not)) (VP (VB be) (ADJP (JJ nice)))) (. ?)))
-K/KC/KCV.xml,KCVRE007,3108,16,,B,14,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE007,3108,16,,B,14,1,(()) ,[],
 K/KC/KCV.xml,KCVRE007,3108,17,,A,15,1,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
 K/KC/KCV.xml,KCVRE007,3108,18,,B,16,1,They've lasted for nearly a fortnight.,"[They/PRP, 've/VBP, lasted/VBN, for/IN, nearly/RB, a/DT, fortnight/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBN lasted) (PP (IN for) (NP (RB nearly) (DT a) (NN fortnight))))) (. .)))
 K/KC/KCV.xml,KCVRE007,3108,19,,A,17,1,A week  --,"[A/DT, week/NN, fortnight/NN, ./.]",(ROOT (NP (NP (DT A) (NN week)) (NP (NN fortnight)) (. .)))

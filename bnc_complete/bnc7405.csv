@@ -9,7 +9,7 @@ K/KD/KDE.xml,KDERE02H,7405,6,,A,5,1,And the Joker.,"[And/CC, the/DT, Joker/NN, .
 K/KD/KDE.xml,KDERE02H,7405,7,,A,5,2,I don't like the Joker.,"[I/PRP, don/VBP, 't/PRP, like/IN, the/DT, Joker/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (DT the) (NN Joker)))) (. .)))
 K/KD/KDE.xml,KDERE02H,7405,8,,B,6,1,Don't you?,"[Don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (NP (NP (NNP Don)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
 K/KD/KDE.xml,KDERE02H,7405,9,,B,6,2,Alright which cereal would you like for breakfast?,"[Alright/JJ, which/WDT, cereal/NN, would/MD, you/PRP, like/VB, for/IN, breakfast/NN, ?/.]",(ROOT (FRAG (ADJP (JJ Alright)) (SBAR (WHNP (WDT which) (NN cereal)) (SINV (MD would) (NP (PRP you)) (VP (VB like) (PP (IN for) (NP (NN breakfast)))))) (. ?)))
-K/KD/KDE.xml,KDERE02H,7405,10,,A,7,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02H,7405,10,,A,7,1,(()) ,[],
 K/KD/KDE.xml,KDERE02H,7405,11,,B,8,1,Come and choose one then.,"[Come/VB, and/CC, choose/VB, one/CD, then/RB, ./.]",(ROOT (S (VP (VP (VB Come)) (CC and) (VP (VB choose) (NP (CD one)) (ADVP (RB then)))) (. .)))
 K/KD/KDE.xml,KDERE02H,7405,12,,A,9,1,I don't like it.,"[I/PRP, don/VBP, 't/PRP, like/IN, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP it)))) (. .)))
 K/KD/KDE.xml,KDERE02H,7405,13,,B,10,1,You've got to have some cereal.,"[You/PRP, 've/VBP, got/VBN, to/TO, have/VB, some/DT, cereal/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB have) (NP (DT some) (NN cereal))))))) (. .)))

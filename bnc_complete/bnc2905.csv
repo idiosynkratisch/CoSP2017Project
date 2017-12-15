@@ -6,20 +6,20 @@ K/KB/KBK.xml,KBKRE064,2905,3,,A,3,2,I prefer it.,"[I/PRP, prefer/VBP, it/PRP, ./
 K/KB/KBK.xml,KBKRE064,2905,4,,B,4,1,Lemon chicken  (()) ,"[Lemon/NNP, chicken/NNP]",(ROOT (NP (NNP Lemon) (NNP chicken)))
 K/KB/KBK.xml,KBKRE064,2905,5,,A,5,1,Lemon chicken stuffed mushrooms.,"[Lemon/NNP, chicken/NNP, stuffed/VBD, mushrooms/NNS, ./.]",(ROOT (S (NP (NNP Lemon) (NNP chicken)) (VP (VBD stuffed) (NP (NNS mushrooms))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,6,,A,5,2,Singapore noodles we enjoyed.,"[Singapore/NNP, noodles/NNS, we/PRP, enjoyed/VBD, ./.]",(ROOT (S (NP (NNP Singapore) (NNS noodles)) (NP (PRP we)) (VP (VBD enjoyed)) (. .)))
-K/KB/KBK.xml,KBKRE064,2905,7,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE064,2905,7,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE064,2905,8,,A,7,1,Yes I'm sure they were Singapore noodles.,"[Yes/UH, I/PRP, 'm/VBP, sure/JJ, they/PRP, were/VBD, Singapore/NNP, noodles/NNS, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure)))) (NP (PRP they)) (VP (VBD were) (NP (NNP Singapore) (NNS noodles))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,9,,B,8,1,We'll have noodles not rice certainly.,"[We/PRP, 'll/MD, have/VB, noodles/NNS, not/RB, rice/NN, certainly/RB, ./.]",(ROOT (S (NP (PRP We)) (VP (MD 'll) (VP (VB have) (NP (NP (NNS noodles)) (PP (RB not) (NP (NN rice)))) (ADVP (RB certainly)))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,10,,B,8,2,Where are these stuffed mushrooms?,"[Where/WRB, are/VBP, these/DT, stuffed/VBN, mushrooms/NNS, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP are) (NP (DT these)) (VP (VBN stuffed) (NP (NNS mushrooms)))) (. ?)))
 K/KB/KBK.xml,KBKRE064,2905,11,,B,8,3,I can't see them.,"[I/PRP, can/MD, 't/PRP, see/VB, them/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB see) (NP (PRP them))))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,12,,A,9,1,Can't remember what they were stuffed with can you?,"[Can/MD, 't/PRP, remember/VB, what/WP, they/PRP, were/VBD, stuffed/VBN, with/IN, can/MD, you/PRP, ?/.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB remember) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBD were) (VP (VBN stuffed) (SBAR (IN with) (S (VP (MD can)) (NP (PRP you))))))))) (. ?)))
-K/KB/KBK.xml,KBKRE064,2905,13,,B,10,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE064,2905,13,,B,10,1,(()) ,[],
 K/KB/KBK.xml,KBKRE064,2905,14,,A,11,1,And bean bean sprouts  (()) we had too.,"[And/CC, bean/NNP, bean/NNP, sprouts/NNPS, we/PRP, had/VBD, too/RB, ./.]",(ROOT (FRAG (CC And) (NP (NP (NNP bean) (NNP bean) (NNPS sprouts)) (SBAR (S (NP (PRP we)) (VP (VBD had) (ADVP (RB too)))))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,15,,B,12,1,(()) and stuffed mushrooms (()) ,"[and/CC, stuffed/VBN, mushrooms/NNS]",(ROOT (FRAG (CC and) (PP (VBN stuffed) (NP (NNS mushrooms)))))
 K/KB/KBK.xml,KBKRE064,2905,16,,A,13,1,Oh yes.,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,17,,B,14,1,Don't let's have bean sprouts.,"[Don/NNP, 't/PRP, let/VBD, 's/POS, have/VBP, bean/NN, sprouts/NNS, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBD let) (SBAR (S (NP (POS 's)) (VP (VBP have) (NP (NN bean) (NNS sprouts)))))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,18,,A,15,1,Alright we won't have bean sprouts.,"[Alright/NN, we/PRP, won/VBD, 't/PRP, have/VB, bean/NN, sprouts/NNS, ./.]",(ROOT (S (NP (NN Alright)) (NP (PRP we)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB have) (NP (NN bean) (NNS sprouts))))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,19,,A,15,2,How about we have Chinese mushrooms with bamboo shoots?,"[How/WRB, about/IN, we/PRP, have/VBP, Chinese/JJ, mushrooms/NNS, with/IN, bamboo/NN, shoots/VBZ, ?/.]",(ROOT (S (SBAR (WHADVP (WRB How) (ADJP (IN about))) (S (NP (PRP we)) (VP (VBP have) (NP (JJ Chinese) (NNS mushrooms)) (PP (IN with) (NP (NN bamboo)))))) (VP (VBZ shoots)) (. ?)))
-K/KB/KBK.xml,KBKRE064,2905,20,,B,16,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE064,2905,20,,B,16,1,(()) ,[],
 K/KB/KBK.xml,KBKRE064,2905,21,,A,17,1,Seasonal Chinese vegetable with prawns.,"[Seasonal/JJ, Chinese/JJ, vegetable/NN, with/IN, prawns/NNS, ./.]",(ROOT (NP (NP (JJ Seasonal) (JJ Chinese) (NN vegetable)) (PP (IN with) (NP (NNS prawns))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,22,,A,17,2,How about that?,"[How/WRB, about/RB, that/IN, ?/.]",(ROOT (X (SBARQ (WHNP (WRB How)) (ADVP (RB about) (IN that))) (. ?)))
 K/KB/KBK.xml,KBKRE064,2905,23,,B,18,1,(()) prawns with stuffed mushrooms.,"[prawns/NNS, with/IN, stuffed/VBN, mushrooms/NNS, ./.]",(ROOT (NP (NP (NNS prawns)) (PP (IN with) (NP (VBN stuffed) (NNS mushrooms))) (. .)))
@@ -42,9 +42,9 @@ K/KB/KBK.xml,KBKRE064,2905,39,,B,30,1,And noodles.,"[And/CC, noodles/NNS, ./.]",
 K/KB/KBK.xml,KBKRE064,2905,40,,A,31,1,and noodles.,"[and/CC, noodles/NNS, ./.]",(ROOT (FRAG (PP (CC and) (NP (NNS noodles))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,41,,B,32,1,We had something like bean sprouts last time ,"[We/PRP, had/VBD, something/NN, like/IN, bean/NN, sprouts/NNS, last/JJ, time/NN]",(ROOT (S (NP (PRP We)) (VP (VBD had) (NP (NP (NN something)) (PP (IN like) (NP (NN bean) (NNS sprouts)))) (NP (JJ last) (NN time)))))
 K/KB/KBK.xml,KBKRE064,2905,42,,A,33,1,Yes I think we did but we also had something else.,"[Yes/UH, I/PRP, think/VBP, we/PRP, did/VBD, but/CC, we/PRP, also/RB, had/VBD, something/NN, else/RB, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (VBD did)))))) (CC but) (S (NP (PRP we)) (ADVP (RB also)) (VP (VBD had) (S (NP (NN something)) (ADJP (RB else))))) (. .)))
-K/KB/KBK.xml,KBKRE064,2905,43,,B,34,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE064,2905,43,,B,34,1,(()) ,[],
 K/KB/KBK.xml,KBKRE064,2905,44,,A,35,1,Yes we did.,"[Yes/UH, we/PRP, did/VBD, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP we)) (VP (VBD did))) (. .)))
-K/KB/KBK.xml,KBKRE064,2905,45,,B,36,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE064,2905,45,,B,36,1,(()) ,[],
 K/KB/KBK.xml,KBKRE064,2905,46,,A,37,1,What would you like to have start with?,"[What/WP, would/MD, you/PRP, like/VB, to/TO, have/VB, start/NN, with/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (MD would) (NP (PRP you)) (VP (VB like) (S (VP (TO to) (VP (VB have) (NP (NN start)) (PP (IN with))))))) (. ?)))
 K/KB/KBK.xml,KBKRE064,2905,47,,B,38,1,What do you want?,"[What/WP, do/VBP, you/PRP, want/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP you)) (VP (VB want))) (. ?)))
 K/KB/KBK.xml,KBKRE064,2905,48,,A,39,1,Wan Ton soup.,"[Wan/NNP, Ton/NN, soup/NN, ./.]",(ROOT (NP (NP (NNP Wan)) (NP (NN Ton) (NN soup)) (. .)))
@@ -56,7 +56,7 @@ K/KB/KBK.xml,KBKRE064,2905,53,,A,43,1,All sorts of bits in it.,"[All/DT, sorts/N
 K/KB/KBK.xml,KBKRE064,2905,54,,B,44,1,What do you mean by that?,"[What/WP, do/VBP, you/PRP, mean/VB, by/IN, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP you)) (VP (VB mean) (PP (IN by) (ADVP (IN that))))) (. ?)))
 K/KB/KBK.xml,KBKRE064,2905,55,,A,45,1,Or do you fancy  (()) I can't remember.,"[Or/CC, do/VB, you/PRP, fancy/JJ, I/PRP, can/MD, 't/PRP, remember/VB, ./.]",(ROOT (FRAG (CC Or) (VP (VB do) (S (NP (PRP you)) (ADJP (JJ fancy) (NP (PRP I))) (SBAR (SINV (MD can) (NP (PRP 't)) (VP (VB remember)))))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,56,,A,45,2,It's a long long time since I had it.,"[It/PRP, 's/VBZ, a/DT, long/RB, long/JJ, time/NN, since/IN, I/PRP, had/VBD, it/PRP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (ADJP (RB long) (JJ long)) (NN time)) (SBAR (IN since) (S (NP (PRP I)) (VP (VBD had) (NP (PRP it)))))) (. .)))
-K/KB/KBK.xml,KBKRE064,2905,57,,B,46,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE064,2905,57,,B,46,1,(()) ,[],
 K/KB/KBK.xml,KBKRE064,2905,58,,A,47,1,We'd have mixed appetites  (()) if you'd given it any thought.,"[We/PRP, 'd/MD, have/VB, mixed/VBN, appetites/NNS, if/IN, you/PRP, 'd/MD, given/VBN, it/PRP, any/DT, thought/NN, ./.]",(ROOT (S (NP (PRP We)) (VP (MD 'd) (VP (VB have) (NP (VBN mixed) (NNS appetites)) (SBAR (IN if) (S (NP (PRP you)) (VP (MD 'd) (VP (VBN given) (NP (PRP it)) (NP (DT any) (NN thought)))))))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,59,,A,47,2,How about having ,"[How/WRB, about/RB, having/VBG]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VP (ADVP (RB about)) (VBG having)))))
 K/KB/KBK.xml,KBKRE064,2905,60,,B,48,1,Are we thinking about how romantic (()) ,"[Are/VBP, we/PRP, thinking/VBG, about/IN, how/WRB, romantic/JJ]",(ROOT (SINV (VP (VBP Are)) (NP (NP (PRP we)) (VP (VBG thinking) (PP (IN about) (NP (WRB how) (JJ romantic)))))))
@@ -68,5 +68,5 @@ K/KB/KBK.xml,KBKRE064,2905,65,,A,51,2,Now over here we are short of one,"[Now/RB
 K/KB/KBK.xml,KBKRE064,2905,66,,B,52,1,Or have some vegetables.,"[Or/CC, have/VB, some/DT, vegetables/NNS, ./.]",(ROOT (FRAG (CC Or) (VP (VB have) (NP (DT some) (NNS vegetables))) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,67,,A,53,1,Alright.,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
 K/KB/KBK.xml,KBKRE064,2905,68,,A,53,2,Alright.,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
-K/KB/KBK.xml,KBKRE064,2905,69,,B,54,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE064,2905,69,,B,54,1,(()) ,[],
 K/KB/KBK.xml,KBKRE064,2905,70,,A,55,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))

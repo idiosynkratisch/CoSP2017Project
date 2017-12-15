@@ -1,19 +1,19 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KD3.xml,KD3RE007,24708,0,,A,1,1,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,1,,A,1,2,No no no no no no no.,"[No/DT, no/NN, no/DT, no/DT, no/DT, no/DT, no/NN, ./.]",(ROOT (FRAG (NP (NP (DT No) (NN no)) (NP (DT no) (ADJP (ADVP (DT no) (DT no)) (DT no)) (NN no))) (. .)))
-K/KD/KD3.xml,KD3RE007,24708,2,,B,2,1,<cough> ,[],X
-K/KD/KD3.xml,KD3RE007,24708,3,,B,2,2,<gurgle> ,[],X
+K/KD/KD3.xml,KD3RE007,24708,2,,B,2,1,<cough> ,[],
+K/KD/KD3.xml,KD3RE007,24708,3,,B,2,2,<gurgle> ,[],
 K/KD/KD3.xml,KD3RE007,24708,4,,A,3,1,<clears throat> Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,5,,A,3,2,There you go.,"[There/EX, you/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP you)) (VP (VBP go)) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,6,,A,3,3,Lovely.,"[Lovely/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Lovely)) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,7,,A,3,4,Shall we wipe your nose?,"[Shall/MD, we/PRP, wipe/VB, your/PRP$, nose/NN, ?/.]",(ROOT (SQ (MD Shall) (NP (PRP we)) (VP (VB wipe) (NP (PRP$ your) (NN nose))) (. ?)))
 K/KD/KD3.xml,KD3RE007,24708,8,,A,3,5,You don't like that.,"[You/PRP, don/VBP, 't/PRP, like/IN, that/DT, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (DT that)))) (. .)))
-K/KD/KD3.xml,KD3RE007,24708,9,,B,4,1,<crying> ,[],X
+K/KD/KD3.xml,KD3RE007,24708,9,,B,4,1,<crying> ,[],
 K/KD/KD3.xml,KD3RE007,24708,10,,A,5,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,11,,A,5,2,"(()) all over your face, everywhere.","[all/DT, over/IN, your/PRP$, face/NN, ,/,, everywhere/RB, ./.]","(ROOT (NP (NP (DT all)) (PP (IN over) (NP (NP (PRP$ your) (NN face)) (, ,) (ADVP (RB everywhere)))) (. .)))"
 K/KD/KD3.xml,KD3RE007,24708,12,,A,5,3,Whoo!,"[Whoo/NNP, !/.]",(ROOT (FRAG (NP (NNP Whoo)) (. !)))
 K/KD/KD3.xml,KD3RE007,24708,13,,A,5,4,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KD/KD3.xml,KD3RE007,24708,14,,B,6,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE007,24708,14,,B,6,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE007,24708,15,,A,7,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,16,,A,7,2,Come on then.,"[Come/VB, on/IN, then/RB, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (RB then)))) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,17,,A,7,3,(()) --,"[What/WP, 's/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (ADJP (IN that))) (. ?)))
@@ -58,13 +58,13 @@ K/KD/KD3.xml,KD3RE007,24708,55,,A,7,41,"There, is that good?","[There/RB, ,/,, i
 K/KD/KD3.xml,KD3RE007,24708,56,,A,7,42,That good?,"[That/DT, good/JJ, ?/.]",(ROOT (FRAG (ADJP (NP (DT That)) (JJ good)) (. ?)))
 K/KD/KD3.xml,KD3RE007,24708,57,,A,7,43,Ooh let's wipe your nose again.,"[Ooh/NNP, let/NNP, 's/VBZ, wipe/VB, your/PRP$, nose/NN, again/RB, ./.]",(ROOT (S (NP (NNP Ooh) (NNP let)) (VP (VBZ 's) (VP (VB wipe) (NP (PRP$ your) (NN nose)) (ADVP (RB again)))) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,58,,A,7,44,Ugh!,"[Ugh/RB, !/.]",(ROOT (FRAG (ADVP (RB Ugh)) (. !)))
-K/KD/KD3.xml,KD3RE007,24708,59,,B,8,1,<crying> ,[],X
+K/KD/KD3.xml,KD3RE007,24708,59,,B,8,1,<crying> ,[],
 K/KD/KD3.xml,KD3RE007,24708,60,,A,9,1,Alright.,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,61,,A,9,2,I'm only wiping your nose.,"[I/PRP, 'm/VBP, only/RB, wiping/VBG, your/PRP$, nose/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB only)) (VP (VBG wiping) (NP (PRP$ your) (NN nose)))) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,62,,A,9,3,You noisy monkey.,"[You/PRP, noisy/JJ, monkey/NN, ./.]",(ROOT (NP (NP (PRP You)) (NP (JJ noisy) (NN monkey)) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,63,,A,9,4,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,64,,A,9,5,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KD/KD3.xml,KD3RE007,24708,65,,B,10,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE007,24708,65,,B,10,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE007,24708,66,,A,11,1,<laugh> Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,67,,A,11,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,68,,A,11,3,Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
@@ -104,7 +104,7 @@ K/KD/KD3.xml,KD3RE007,24708,101,,A,11,36,Good boy.,"[Good/JJ, boy/NN, ./.]",(ROO
 K/KD/KD3.xml,KD3RE007,24708,102,,A,11,37,There.,"[There/EX, ./.]",(ROOT (S (VP (EX There)) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,103,,A,11,38,Nearly finished.,"[Nearly/RB, finished/VBN, ./.]",(ROOT (FRAG (ADJP (RB Nearly) (VBN finished)) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,104,,A,11,39,Nearly finished.,"[Nearly/RB, finished/VBN, ./.]",(ROOT (FRAG (ADJP (RB Nearly) (VBN finished)) (. .)))
-K/KD/KD3.xml,KD3RE007,24708,105,,B,12,1,<cough> ,[],X
+K/KD/KD3.xml,KD3RE007,24708,105,,B,12,1,<cough> ,[],
 K/KD/KD3.xml,KD3RE007,24708,106,,A,13,1,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,107,,A,13,2,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
 K/KD/KD3.xml,KD3RE007,24708,108,,A,13,3,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))

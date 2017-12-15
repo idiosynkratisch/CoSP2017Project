@@ -48,9 +48,9 @@ K/KC/KCN.xml,KCNRE005,26805,45,,B,28,2,--we'll go round to the  (()) to get  --,
 K/KC/KCN.xml,KCNRE005,26805,46,,B,28,3,--Don't know what's the matter (()) .,"[Yes/UH, we/PRP, 'll/MD, go/VB, round/JJ, to/TO, the/DT, to/TO, get/VB, Don/NNP, 't/PRP, know/VBP, what/WP, 's/VBZ, the/DT, matter/NN, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP we)) (VP (MD 'll) (VP (VB go) (ADJP (JJ round) (PP (TO to) (NP (DT the)))) (S (VP (TO to) (VP (VB get) (NP (NNP Don)))))))) (NP (PRP 't)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (DT the) (NN matter)))))) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,47,,A,29,1,"Oh, it's two more grains in it more than the other I expect!--","[Oh/UH, ,/,, it/PRP, 's/VBZ, two/CD, more/JJR, grains/NNS, in/IN, it/PRP, more/JJR, than/IN, the/DT, other/JJ, I/PRP, expect/VBP, !/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (NP (NP (CD two) (JJR more) (NNS grains)) (PP (IN in) (NP (PRP it)))) (JJR more)) (PP (IN than) (NP (DT the) (JJ other)))) (SBAR (S (NP (PRP I)) (VP (VBP expect))))) (. !)))"
 K/KC/KCN.xml,KCNRE005,26805,48,,A,29,2,--<laugh> ,"[Oh/UH, ,/,, it/PRP, 's/VBZ, two/CD, more/JJR, grains/NNS, in/IN, it/PRP, more/JJR, than/IN, the/DT, other/JJ, I/PRP, expect/VBP, !/.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (NP (NP (CD two) (JJR more) (NNS grains)) (PP (IN in) (NP (PRP it)))) (JJR more)) (PP (IN than) (NP (DT the) (JJ other)))) (SBAR (S (NP (PRP I)) (VP (VBP expect))))) (. !)))"
-K/KC/KCN.xml,KCNRE005,26805,49,,B,30,1,<laugh> ,[],X
+K/KC/KCN.xml,KCNRE005,26805,49,,B,30,1,<laugh> ,[],
 K/KC/KCN.xml,KCNRE005,26805,50,,A,31,1,Right?,"[Right/NN, ?/.]",(ROOT (INTJ (NN Right) (. ?)))
-K/KC/KCN.xml,KCNRE005,26805,51,,B,32,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE005,26805,51,,B,32,1,(()) ,[],
 K/KC/KCN.xml,KCNRE005,26805,52,,A,33,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,53,,A,33,2,Colder.,"[Colder/JJR, ./.]",(ROOT (FRAG (ADJP (JJR Colder)) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,54,,B,34,1,(()) .,[./.],(ROOT (NP (. .)))
@@ -69,11 +69,11 @@ K/KC/KCN.xml,KCNRE005,26805,66,,A,43,2,Clematis are going up the sticks now!,"[C
 K/KC/KCN.xml,KCNRE005,26805,67,,B,44,1,Are they?,"[Are/VBP, they/PRP, ?/.]",(ROOT (S (VP (VBP Are) (NP (PRP they))) (. ?)))
 K/KC/KCN.xml,KCNRE005,26805,68,,A,45,1,Mhm.--,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,69,,A,45,2,--(()) ,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
-K/KC/KCN.xml,KCNRE005,26805,70,,B,46,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE005,26805,70,,B,46,1,(()) ,[],
 K/KC/KCN.xml,KCNRE005,26805,71,,A,47,1,Except this.,"[Except/IN, this/DT, ./.]",(ROOT (FRAG (PP (IN Except) (NP (DT this))) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,72,,A,47,2,(()) it's going up,"[it/PRP, 's/VBZ, going/VBG, up/RP]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG going) (PRT (RP up))))))
 K/KC/KCN.xml,KCNRE005,26805,73,,B,48,1,I see them seven pound!,"[I/PRP, see/VBP, them/PRP, seven/CD, pound/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP see) (S (NP (PRP them)) (NP (CD seven) (NN pound)))) (. !)))
-K/KC/KCN.xml,KCNRE005,26805,74,,A,49,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE005,26805,74,,A,49,1,(()) ,[],
 K/KC/KCN.xml,KCNRE005,26805,75,,B,50,1,(()) ?,[?/.],(ROOT (NP (. ?)))
 K/KC/KCN.xml,KCNRE005,26805,76,,A,51,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,77,,A,51,2,"They were four, five pound there  --","[They/PRP, were/VBD, four/CD, ,/,, five/CD, pound/NN, there/RB, and/CC, they/PRP, were/VBD, only/RB, three/CD, pound/NN, and/CC, Wickland/NN, And/CC, they/PRP, 're/VBP, beauties/NNS, !/.]","(ROOT (S (S (NP (PRP They)) (VP (VBD were) (NP (CD four)) (, ,) (ADVP (NP (CD five) (NN pound)) (RB there)))) (CC and) (S (NP (PRP they)) (VP (VBD were) (NP (NP (RB only) (CD three) (NN pound)) (CC and) (NP (NN Wickland))))) (CC And) (S (NP (PRP they)) (VP (VBP 're) (NP (NNS beauties)))) (. !)))"
@@ -92,9 +92,9 @@ K/KC/KCN.xml,KCNRE005,26805,89,,A,57,1,there  --,"[there/EX, two/CD, there/EX, a
 K/KC/KCN.xml,KCNRE005,26805,90,,A,57,2,--two there and  --,"[there/EX, two/CD, there/EX, and/CC, a/DT, little/JJ, bit/NN, there/RB, ./.]",(ROOT (S (NP (EX there)) (VP (NP (NP (NP (CD two)) (NP (EX there))) (CC and) (NP (NP (DT a) (JJ little) (NN bit)) (NP (RB there))))) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,91,,A,57,3,--a little bit there.,"[there/EX, two/CD, there/EX, and/CC, a/DT, little/JJ, bit/NN, there/RB, ./.]",(ROOT (S (NP (EX there)) (VP (NP (NP (NP (CD two)) (NP (EX there))) (CC and) (NP (NP (DT a) (JJ little) (NN bit)) (NP (RB there))))) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,92,,A,57,4,Bit better.,"[Bit/RB, better/RBR, ./.]",(ROOT (ADVP (RB Bit) (RBR better) (. .)))
-K/KC/KCN.xml,KCNRE005,26805,93,,B,58,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE005,26805,93,,B,58,1,(()) ,[],
 K/KC/KCN.xml,KCNRE005,26805,94,,A,59,1,Perhaps it'll dry out.,"[Perhaps/RB, it/PRP, 'll/MD, dry/VB, out/RP, ./.]",(ROOT (S (ADVP (RB Perhaps)) (NP (PRP it)) (VP (MD 'll) (VP (VB dry) (PRT (RP out)))) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,95,,B,60,1,<singing> Mm mm </singing> .--,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,96,,B,60,2,--<whistling> ,"[Mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm)) (NP (NN mm)) (. .)))
 K/KC/KCN.xml,KCNRE005,26805,97,,A,61,1,"Right, are you gonna get ready and go?","[Right/NN, ,/,, are/VBP, you/PRP, gonna/NNP, get/VB, ready/JJ, and/CC, go/VB, ?/.]","(ROOT (S (NP (NN Right)) (PRN (, ,) (SINV (VBP are) (NP (PRP you)))) (NP (NNP gonna)) (VP (VP (VB get) (ADJP (JJ ready))) (CC and) (VP (VB go))) (. ?)))"
-K/KC/KCN.xml,KCNRE005,26805,98,,B,62,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE005,26805,98,,B,62,1,(()) ,[],

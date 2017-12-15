@@ -7,7 +7,7 @@ K/KD/KDE.xml,KDERE013,7010,4,,A,3,1,kiss and make up?,"[kiss/VB, and/CC, make/VB
 K/KD/KDE.xml,KDERE013,7010,5,,B,4,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KD/KDE.xml,KDERE013,7010,6,,B,4,2,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KD/KDE.xml,KDERE013,7010,7,,A,5,1,Tetley make tea bags make tea.,"[Tetley/NNP, make/VBP, tea/NN, bags/NNS, make/VBP, tea/NN, ./.]",(ROOT (S (NP (NNP Tetley)) (VP (VBP make) (SBAR (S (NP (NN tea) (NNS bags)) (VP (VBP make) (NP (NN tea)))))) (. .)))
-K/KD/KDE.xml,KDERE013,7010,8,,B,6,1,(()) ,[],X
+K/KD/KDE.xml,KDERE013,7010,8,,B,6,1,(()) ,[],
 K/KD/KDE.xml,KDERE013,7010,9,,A,7,1,Tetley make tea bags make tea.,"[Tetley/NNP, make/VBP, tea/NN, bags/NNS, make/VBP, tea/NN, ./.]",(ROOT (S (NP (NNP Tetley)) (VP (VBP make) (SBAR (S (NP (NN tea) (NNS bags)) (VP (VBP make) (NP (NN tea)))))) (. .)))
 K/KD/KDE.xml,KDERE013,7010,10,,B,8,1,Don't say that.,"[Don/NNP, 't/PRP, say/VBP, that/IN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP say) (ADVP (IN that))) (. .)))
 K/KD/KDE.xml,KDERE013,7010,11,,B,8,2,That's naughty.,"[That/DT, 's/VBZ, naughty/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ naughty))) (. .)))

@@ -59,7 +59,7 @@ K/KC/KCN.xml,KCNRE01D,27503,56,,B,32,1,I don't know what's going on down there.,
 K/KC/KCN.xml,KCNRE01D,27503,57,,A,33,1,"Oh, surveying.","[Oh/UH, ,/,, surveying/VBG, ./.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (VBG surveying)) (. .)))"
 K/KC/KCN.xml,KCNRE01D,27503,58,,A,33,2,They're starting the dig out.,"[They/PRP, 're/VBP, starting/VBG, the/DT, dig/NN, out/RP, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG starting) (NP (DT the) (NN dig)) (PRT (RP out)))) (. .)))
 K/KC/KCN.xml,KCNRE01D,27503,59,,A,33,3,It's coming up ,"[It/PRP, 's/VBZ, coming/VBG, up/RP]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP up))))))
-K/KC/KCN.xml,KCNRE01D,27503,60,,B,34,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE01D,27503,60,,B,34,1,(()) ,[],
 K/KC/KCN.xml,KCNRE01D,27503,61,,A,35,1,"for Easter, see?","[for/IN, Easter/NNP, ,/,, see/VB, ?/.]","(ROOT (S (PP (IN for) (NP (NNP Easter))) (, ,) (VP (VB see)) (. ?)))"
 K/KC/KCN.xml,KCNRE01D,27503,62,,B,36,1,Oh yes.,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
 K/KC/KCN.xml,KCNRE01D,27503,63,,A,37,1,They're all ready!,"[They/PRP, 're/VBP, all/DT, ready/JJ, !/.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (DT all) (JJ ready))) (. !)))
@@ -108,7 +108,7 @@ K/KC/KCN.xml,KCNRE01D,27503,105,,A,55,5,--mm mm mm mm  --,"[Mm/NN, mm/NN, mm/NN,
 K/KC/KCN.xml,KCNRE01D,27503,106,,A,55,6,--mm mm mm mm </singing> .,"[Mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, mm/NN, ./.]",(ROOT (NP (NP (NN Mm) (NN mm) (NN mm)) (NP (NN mm) (NN mm) (NN mm) (NN mm) (NN mm) (NN mm) (NN mm) (NN mm) (NN mm) (NN mm) (NN mm)) (. .)))
 K/KC/KCN.xml,KCNRE01D,27503,107,,A,55,7,Look at him digging a bag of bones somewhere!,"[Look/VB, at/IN, him/PRP, digging/NN, a/DT, bag/NN, of/IN, bones/NNS, somewhere/RB, !/.]",(ROOT (S (VP (VB Look) (PP (IN at) (NP (NP (PRP him) (NN digging)) (NP (NP (DT a) (NN bag)) (PP (IN of) (NP (NNS bones)))))) (ADVP (RB somewhere))) (. !)))
 K/KC/KCN.xml,KCNRE01D,27503,108,,B,56,1,(()) .,[./.],(ROOT (NP (. .)))
-K/KC/KCN.xml,KCNRE01D,27503,109,,A,57,1,<laugh> ,[],X
+K/KC/KCN.xml,KCNRE01D,27503,109,,A,57,1,<laugh> ,[],
 K/KC/KCN.xml,KCNRE01D,27503,110,,B,58,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KC/KCN.xml,KCNRE01D,27503,111,,A,59,1,<laugh> --,"[Oh/UH, God/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP God)))) (. !)))
 K/KC/KCN.xml,KCNRE01D,27503,112,,A,59,2,--Oh God!,"[Oh/UH, God/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP God)))) (. !)))

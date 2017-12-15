@@ -1,4 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE03X,2505,0,,A,1,1,How are you this morning?,"[How/WRB, are/VBP, you/PRP, this/DT, morning/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBP are) (NP (PRP you)) (NP (DT this) (NN morning))) (. ?)))
-K/KB/KBK.xml,KBKRE03X,2505,1,,B,2,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE03X,2505,1,,B,2,1,(()) ,[],
 K/KB/KBK.xml,KBKRE03X,2505,2,,A,3,1,O K,"[O/NN, K/NN]",(ROOT (NP (NN O) (NN K)))

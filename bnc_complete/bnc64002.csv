@@ -45,7 +45,7 @@ K/KB/KBD.xml,KBDRE008,64002,42,,A,23,4,A bit too tired don't you think?,"[A/DT, 
 K/KB/KBD.xml,KBDRE008,64002,43,,B,24,1,Most teams do  --,"[Most/JJS, teams/NNS, do/VBP, in/IN, F/NN, A/DT, ./.]",(ROOT (S (NP (JJS Most) (NNS teams)) (VP (VBP do) (PP (IN in) (NP (NN F) (DT A)))) (. .)))
 K/KB/KBD.xml,KBDRE008,64002,44,,B,24,2,--in  --,"[Most/JJS, teams/NNS, do/VBP, in/IN, F/NN, A/DT, ./.]",(ROOT (S (NP (JJS Most) (NNS teams)) (VP (VBP do) (PP (IN in) (NP (NN F) (DT A)))) (. .)))
 K/KB/KBD.xml,KBDRE008,64002,45,,B,24,3,--F A.,"[Most/JJS, teams/NNS, do/VBP, in/IN, F/NN, A/DT, ./.]",(ROOT (S (NP (JJS Most) (NNS teams)) (VP (VBP do) (PP (IN in) (NP (NN F) (DT A)))) (. .)))
-K/KB/KBD.xml,KBDRE008,64002,46,,A,25,1,(()) ,[],X
+K/KB/KBD.xml,KBDRE008,64002,46,,A,25,1,(()) ,[],
 K/KB/KBD.xml,KBDRE008,64002,47,,B,26,1,"It was er, first division.","[It/PRP, was/VBD, er/NN, ,/,, first/RB, division/NN, ./.]","(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NN er) (, ,) (RB first) (NN division))) (. .)))"
 K/KB/KBD.xml,KBDRE008,64002,48,,A,27,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
 K/KB/KBD.xml,KBDRE008,64002,49,,B,28,1,"Well, second division teams.","[Well/RB, ,/,, second/JJ, division/NN, teams/NNS, ./.]","(ROOT (X (ADVP (RB Well)) (, ,) (NP (NP (JJ second) (NN division)) (NP (NNS teams))) (. .)))"

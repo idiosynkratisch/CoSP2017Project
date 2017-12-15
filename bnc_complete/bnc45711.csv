@@ -16,7 +16,7 @@ K/KD/KDN.xml,KDNRE00X,45711,13,,B,4,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)
 K/KD/KDN.xml,KDNRE00X,45711,14,,B,4,2,John's still got it.,"[John/NNP, 's/POS, still/RB, got/VBD, it/PRP, ./.]",(ROOT (S (NP (NNP John) (POS 's)) (ADVP (RB still)) (VP (VBD got) (NP (PRP it))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,15,,A,5,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KD/KDN.xml,KDNRE00X,45711,16,,A,5,2,Remind me to ask him in the morning for it.,"[Remind/VB, me/PRP, to/TO, ask/VB, him/PRP, in/IN, the/DT, morning/NN, for/IN, it/PRP, ./.]",(ROOT (S (VP (VB Remind) (S (NP (PRP me)) (VP (TO to) (VP (VB ask) (NP (PRP him)) (PP (IN in) (NP (NP (DT the) (NN morning)) (PP (IN for) (NP (PRP it))))))))) (. .)))
-K/KD/KDN.xml,KDNRE00X,45711,17,,A,5,3,(()) ,[],X
+K/KD/KDN.xml,KDNRE00X,45711,17,,A,5,3,(()) ,[],
 K/KD/KDN.xml,KDNRE00X,45711,18,,B,6,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP Aha)) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,19,,A,7,1,(()) --,"[I/PRP, 'll/MD, go/VB, up/RB, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (ADVP (RB up) (RB now)))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,20,,A,7,2,--I'll go up now.,"[I/PRP, 'll/MD, go/VB, up/RB, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (ADVP (RB up) (RB now)))) (. .)))
@@ -50,15 +50,15 @@ K/KD/KDN.xml,KDNRE00X,45711,47,,A,19,5,"Make our dinners, make our beds, and  --
 K/KD/KDN.xml,KDNRE00X,45711,48,,A,19,6,"--put your arms round us in time of need, and cuddle us.","[Make/VB, our/PRP$, dinners/NNS, ,/,, make/VB, our/PRP$, beds/NNS, ,/,, and/CC, put/VB, your/PRP$, arms/NNS, round/VBP, us/PRP, in/IN, time/NN, of/IN, need/NN, ,/,, and/CC, cuddle/VB, us/PRP, ./.]","(ROOT (S (VP (VP (VB Make) (NP (PRP$ our) (NNS dinners))) (, ,) (VP (VB make) (NP (PRP$ our) (NNS beds))) (, ,) (CC and) (VP (VP (VB put) (SBAR (S (NP (PRP$ your) (NNS arms)) (VP (VBP round) (NP (PRP us)) (PP (IN in) (NP (NP (NN time)) (PP (IN of) (NP (NN need))))))))) (, ,) (CC and) (VP (VB cuddle) (NP (PRP us))))) (. .)))"
 K/KD/KDN.xml,KDNRE00X,45711,49,,B,20,1,What about me?,"[What/WP, about/IN, me/PRP, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about) (NP (PRP me))) (. ?)))
 K/KD/KDN.xml,KDNRE00X,45711,50,,A,21,1,Well to hell with women!,"[Well/RB, to/TO, hell/NN, with/IN, women/NNS, !/.]",(ROOT (FRAG (ADVP (ADVP (RB Well)) (PP (TO to) (NP (NP (NN hell)) (PP (IN with) (NP (NNS women)))))) (. !)))
-K/KD/KDN.xml,KDNRE00X,45711,51,,B,22,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE00X,45711,51,,B,22,1,(()) ,[],
 K/KD/KDN.xml,KDNRE00X,45711,52,,A,23,1,"Yous live longer than men Jean, so men should ","[Yous/JJ, live/JJ, longer/JJR, than/IN, men/NNS, Jean/NNP, ,/,, so/RB, men/NNS, should/MD]","(ROOT (S (NP (JJ Yous) (JJ live) (ADJP (JJR longer) (PP (IN than) (NP (NP (NP (NNS men)) (NP (NNP Jean))) (, ,) (ADVP (RB so))))) (NNS men)) (VP (MD should))))"
 K/KD/KDN.xml,KDNRE00X,45711,53,,B,24,1,Yeah I know.,"[Yeah/UH, I/PRP, know/VBP, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP I)) (VP (VBP know))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,54,,A,25,1,be getting er,"[be/VB, getting/VBG, er/NN]",(ROOT (VP (VB be) (VP (VBG getting) (NP (NN er)))))
-K/KD/KDN.xml,KDNRE00X,45711,55,,B,26,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE00X,45711,55,,B,26,1,(()) ,[],
 K/KD/KDN.xml,KDNRE00X,45711,56,,A,27,1,"Well, do I take them off?","[Well/RB, ,/,, do/VBP, I/PRP, take/VB, them/PRP, off/RP, ?/.]","(ROOT (S (ADVP (RB Well)) (, ,) (VP (VBP do) (S (NP (PRP I)) (VP (VB take) (NP (PRP them)) (PRT (RP off))))) (. ?)))"
 K/KD/KDN.xml,KDNRE00X,45711,57,,B,28,1,"No, your shoes.","[No/DT, ,/,, your/PRP$, shoes/NNS, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (PRP$ your) (NNS shoes)) (. .)))"
 K/KD/KDN.xml,KDNRE00X,45711,58,,A,29,1,Oh sorry!,"[Oh/UH, sorry/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB sorry)))) (. !)))
-K/KD/KDN.xml,KDNRE00X,45711,59,,B,30,1,<laugh> ,[],X
+K/KD/KDN.xml,KDNRE00X,45711,59,,B,30,1,<laugh> ,[],
 K/KD/KDN.xml,KDNRE00X,45711,60,,A,31,1,Take them off.,"[Take/VB, them/PRP, off/RP, ./.]",(ROOT (S (VP (VB Take) (NP (PRP them)) (PRT (RP off))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,61,,A,31,2,I can't disturb the dog.,"[I/PRP, can/MD, 't/PRP, disturb/VB, the/DT, dog/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB disturb) (NP (DT the) (NN dog))))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,62,,B,32,1,I will not take them off!,"[I/PRP, will/MD, not/RB, take/VB, them/PRP, off/RP, !/.]",(ROOT (S (NP (PRP I)) (VP (MD will) (RB not) (VP (VB take) (NP (PRP them)) (PRT (RP off)))) (. !)))
@@ -86,18 +86,18 @@ K/KD/KDN.xml,KDNRE00X,45711,83,,A,41,1,He's away to sleep again.--,"[He/PRP, 's/
 K/KD/KDN.xml,KDNRE00X,45711,84,,A,41,2,--(()) ,"[He/PRP, 's/VBZ, away/RB, to/TO, sleep/VB, again/RB, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB away)) (S (VP (TO to) (VP (VB sleep) (ADVP (RB again)))))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,85,,B,42,1,And that's you waking up in the morning.,"[And/CC, that/DT, 's/VBZ, you/PRP, waking/VBG, up/RP, in/IN, the/DT, morning/NN, ./.]",(ROOT (S (CC And) (NP (DT that)) (VP (VBZ 's) (S (NP (PRP you)) (VP (VBG waking) (PRT (RP up)) (PP (IN in) (NP (DT the) (NN morning)))))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,86,,A,43,1,"Yeah, we'll watch that Jean.","[Yeah/UH, ,/,, we/PRP, 'll/MD, watch/VB, that/IN, Jean/NNP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB watch) (SBAR (IN that) (FRAG (NP (NNP Jean)))))) (. .)))"
-K/KD/KDN.xml,KDNRE00X,45711,87,,B,44,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE00X,45711,87,,B,44,1,(()) ,[],
 K/KD/KDN.xml,KDNRE00X,45711,88,,A,45,1,Jesus!,"[Jesus/NNP, !/.]",(ROOT (FRAG (NP (NNP Jesus)) (. !)))
 K/KD/KDN.xml,KDNRE00X,45711,89,,A,45,2,"Yeah, when Sylvia comes in  --","[Yeah/UH, ,/,, when/WRB, Sylvia/NNP, comes/VBZ, in/IN, you/PRP, go/VBP, downstairs/RB, they/PRP, 're/VBP, in/IN, behind/IN, her/PRP, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (PRN (SBAR (WHADVP (WRB when)) (S (NP (NNP Sylvia)) (VP (VBZ comes) (PP (IN in) (NP (PRP you))))))) (VP (VBP go) (ADVP (RB downstairs)))) (NP (PRP they)) (VP (VBP 're) (PP (IN in) (PP (IN behind) (NP (PRP her))))) (. .)))"
 K/KD/KDN.xml,KDNRE00X,45711,90,,A,45,3,--you go downstairs  --,"[Yeah/UH, ,/,, when/WRB, Sylvia/NNP, comes/VBZ, in/IN, you/PRP, go/VBP, downstairs/RB, they/PRP, 're/VBP, in/IN, behind/IN, her/PRP, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (PRN (SBAR (WHADVP (WRB when)) (S (NP (NNP Sylvia)) (VP (VBZ comes) (PP (IN in) (NP (PRP you))))))) (VP (VBP go) (ADVP (RB downstairs)))) (NP (PRP they)) (VP (VBP 're) (PP (IN in) (PP (IN behind) (NP (PRP her))))) (. .)))"
 K/KD/KDN.xml,KDNRE00X,45711,91,,A,45,4,--they're in  (()) behind her.,"[Yeah/UH, ,/,, when/WRB, Sylvia/NNP, comes/VBZ, in/IN, you/PRP, go/VBP, downstairs/RB, they/PRP, 're/VBP, in/IN, behind/IN, her/PRP, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (PRN (SBAR (WHADVP (WRB when)) (S (NP (NNP Sylvia)) (VP (VBZ comes) (PP (IN in) (NP (PRP you))))))) (VP (VBP go) (ADVP (RB downstairs)))) (NP (PRP they)) (VP (VBP 're) (PP (IN in) (PP (IN behind) (NP (PRP her))))) (. .)))"
-K/KD/KDN.xml,KDNRE00X,45711,92,,A,45,5,<cough> ,[],X
+K/KD/KDN.xml,KDNRE00X,45711,92,,A,45,5,<cough> ,[],
 K/KD/KDN.xml,KDNRE00X,45711,93,,A,45,6,Put the pope on.,"[Put/VB, the/DT, pope/NNP, on/IN, ./.]",(ROOT (S (VP (VB Put) (NP (DT the) (NNP pope)) (PP (IN on))) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,94,,A,45,7,<ice cream van playing jingle outside> I see  --,"[I/PRP, see/VBP, make/VB, my/PRP$, monies/NNS, not/RB, out/IN, you/PRP, fucker/VBP, !/.]",(ROOT (S (S (NP (PRP I)) (VP (VBP see) (VP (VB make) (NP (PRP$ my) (NNS monies)) (ADVP (RB not) (IN out))))) (NP (PRP you)) (VP (VBP fucker)) (. !)))
 K/KD/KDN.xml,KDNRE00X,45711,95,,A,45,8,--make my monies not out you fucker!,"[I/PRP, see/VBP, make/VB, my/PRP$, monies/NNS, not/RB, out/IN, you/PRP, fucker/VBP, !/.]",(ROOT (S (S (NP (PRP I)) (VP (VBP see) (VP (VB make) (NP (PRP$ my) (NNS monies)) (ADVP (RB not) (IN out))))) (NP (PRP you)) (VP (VBP fucker)) (. !)))
 K/KD/KDN.xml,KDNRE00X,45711,96,,A,45,9,Jean.,"[Jean/NNP, ./.]",(ROOT (FRAG (NP (NNP Jean)) (. .)))
 K/KD/KDN.xml,KDNRE00X,45711,97,,B,46,1,I'd say (()) ,"[I/PRP, 'd/MD, say/VB]",(ROOT (S (NP (PRP I)) (VP (MD 'd) (VP (VB say)))))
-K/KD/KDN.xml,KDNRE00X,45711,98,,A,47,1,<cough> ,[],X
+K/KD/KDN.xml,KDNRE00X,45711,98,,A,47,1,<cough> ,[],
 K/KD/KDN.xml,KDNRE00X,45711,99,,B,48,1,"Seem to be (()) , he's (()) ","[Seem/VB, to/TO, be/VB, ,/,, he/PRP, 's/VBZ]","(ROOT (S (VP (VB Seem) (S (VP (TO to) (VP (VB be) (, ,) (SBAR (S (NP (PRP he)) (VP (VBZ 's))))))))))"
 K/KD/KDN.xml,KDNRE00X,45711,100,,A,49,1,Stop giggling!,"[Stop/VB, giggling/VBG, !/.]",(ROOT (S (VP (VB Stop) (NP (VBG giggling))) (. !)))
 K/KD/KDN.xml,KDNRE00X,45711,101,,B,50,1,He's coming out.,"[He/PRP, 's/VBZ, coming/VBG, out/RP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG coming) (PRT (RP out)))) (. .)))

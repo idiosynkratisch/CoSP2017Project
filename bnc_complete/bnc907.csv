@@ -30,7 +30,7 @@ K/KD/KDP.xml,KDPRE01V,907,27,,A,11,4,Crazy.,"[Crazy/JJ, ./.]",(ROOT (FRAG (ADJP 
 K/KD/KDP.xml,KDPRE01V,907,28,,B,12,1,(()) planning on pulling the whole thing down.,"[planning/VBG, on/IN, pulling/VBG, the/DT, whole/JJ, thing/NN, down/RB, ./.]",(ROOT (S (VP (VBG planning) (PP (IN on) (S (VP (VBG pulling) (NP (DT the) (JJ whole) (NN thing)) (ADVP (RB down)))))) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,29,,A,13,1,Now then what do we want.,"[Now/RB, then/RB, what/WP, do/VBP, we/PRP, want/VBP, ./.]",(ROOT (S (ADVP (RB Now) (RB then) (SBAR (WHNP (WP what)) (S (VP (VBP do))))) (NP (PRP we)) (VP (VBP want)) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,30,,A,13,2,Erm suppose I better check that round.,"[Erm/NN, suppose/VB, I/PRP, better/JJR, check/NN, that/IN, round/NN, ./.]",(ROOT (S (NP (NN Erm)) (VP (VB suppose) (S (NP (PRP I)) (NP (NP (JJR better) (NN check)) (PP (IN that) (NP (NN round)))))) (. .)))
-K/KD/KDP.xml,KDPRE01V,907,31,,B,14,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01V,907,31,,B,14,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01V,907,32,,A,15,1,This?,"[This/DT, ?/.]",(ROOT (FRAG (NP (DT This)) (. ?)))
 K/KD/KDP.xml,KDPRE01V,907,33,,A,15,2,"This is the, just over there that's the  --","[This/DT, is/VBZ, the/DT, ,/,, just/RB, over/IN, there/EX, that/WDT, 's/VBZ, the/DT, A1/NN, intersection/NN, ./.]","(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT the)) (, ,) (PP (RB just) (IN over) (NP (NP (EX there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN A1) (NN intersection)))))))) (. .)))"
 K/KD/KDP.xml,KDPRE01V,907,34,,A,15,3,--A1  --,"[This/DT, is/VBZ, the/DT, ,/,, just/RB, over/IN, there/EX, that/WDT, 's/VBZ, the/DT, A1/NN, intersection/NN, ./.]","(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT the)) (, ,) (PP (RB just) (IN over) (NP (NP (EX there)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (DT the) (NN A1) (NN intersection)))))))) (. .)))"
@@ -54,7 +54,7 @@ K/KD/KDP.xml,KDPRE01V,907,51,,B,22,1,Hang on I'll have a look see where we are.,
 K/KD/KDP.xml,KDPRE01V,907,52,,A,23,1,Well this'll take us back,"[Well/RB, this/DT, 'll/MD, take/VB, us/PRP, back/RB]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (DT this)) (SBAR (S (VP (MD 'll) (VP (VB take) (NP (PRP us)) (ADVP (RB back)))))))))
 K/KD/KDP.xml,KDPRE01V,907,53,,B,24,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KD/KDP.xml,KDPRE01V,907,54,,A,25,1,No lorries.,"[No/DT, lorries/NNS, ./.]",(ROOT (NP (DT No) (NNS lorries) (. .)))
-K/KD/KDP.xml,KDPRE01V,907,55,,B,26,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01V,907,55,,B,26,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01V,907,56,,A,27,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,57,,A,27,2,This is where we've just been isn't it?,"[This/DT, is/VBZ, where/WRB, we/PRP, 've/VBP, just/RB, been/VBN, isn/JJ, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (DT This)) (VP (VBZ is) (SBAR (WHADVP (WRB where)) (S (NP (PRP we)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (NP (JJ isn) (NP (NP (PRP 't)) (NP (PRP it))))))))) (. ?)))
 K/KD/KDP.xml,KDPRE01V,907,58,,B,28,1,Go to your right.,"[Go/VB, to/TO, your/PRP$, right/NN, ./.]",(ROOT (S (VP (VB Go) (PP (TO to) (NP (PRP$ your) (NN right)))) (. .)))
@@ -66,16 +66,16 @@ K/KD/KDP.xml,KDPRE01V,907,63,,A,31,1,Aha.,"[Aha/NNP, ./.]",(ROOT (FRAG (NP (NNP 
 K/KD/KDP.xml,KDPRE01V,907,64,,A,31,2,See I mean look at that.,"[See/VB, I/PRP, mean/VB, look/NN, at/IN, that/DT, ./.]",(ROOT (S (VP (VB See) (S (NP (PRP I)) (VP (VB mean) (NP (NN look)) (PP (IN at) (NP (DT that)))))) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,65,,A,31,3,All those tru- trucks are just parked up.,"[All/DT, those/DT, tru-/JJ, trucks/NNS, are/VBP, just/RB, parked/VBN, up/RP, ./.]",(ROOT (S (NP (DT All) (DT those) (JJ tru-) (NNS trucks)) (VP (VBP are) (ADVP (RB just)) (VP (VBN parked) (PRT (RP up)))) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,66,,A,31,4,Even hire trucks there.,"[Even/RB, hire/VB, trucks/NNS, there/RB, ./.]",(ROOT (S (ADVP (RB Even)) (VP (VB hire) (NP (NNS trucks)) (ADVP (RB there))) (. .)))
-K/KD/KDP.xml,KDPRE01V,907,67,,B,32,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01V,907,67,,B,32,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01V,907,68,,A,33,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KD/KDP.xml,KDPRE01V,907,69,,B,34,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01V,907,69,,B,34,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01V,907,70,,A,35,1,"But I mean it's, it's money.","[But/CC, I/PRP, mean/VBP, it/PRP, 's/VBZ, ,/,, it/PRP, 's/VBZ, money/NN, ./.]","(ROOT (S (CC But) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NN money))))))))) (. .)))"
 K/KD/KDP.xml,KDPRE01V,907,71,,A,35,2,"You can't have, I mean you can't have all this stuff (()) .","[You/PRP, can/MD, 't/PRP, have/VB, ,/,, I/PRP, mean/VBP, you/PRP, can/MD, 't/PRP, have/VB, all/PDT, this/DT, stuff/NN, ./.]","(ROOT (S (ADVP (PRP You)) (PRN (SINV (MD can) (NP (PRP 't)) (VP (VB have))) (, ,)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP you)) (VP (MD can) (NP (PRP 't)) (S (VP (VB have) (NP (PDT all) (DT this) (NN stuff)))))))) (. .)))"
 K/KD/KDP.xml,KDPRE01V,907,72,,A,35,3,Crazy.,"[Crazy/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Crazy)) (. .)))
-K/KD/KDP.xml,KDPRE01V,907,73,,B,36,1,(()) ,[],X
-K/KD/KDP.xml,KDPRE01V,907,74,,B,36,2,(()) ,[],X
+K/KD/KDP.xml,KDPRE01V,907,73,,B,36,1,(()) ,[],
+K/KD/KDP.xml,KDPRE01V,907,74,,B,36,2,(()) ,[],
 K/KD/KDP.xml,KDPRE01V,907,75,,A,37,1,That's a fire station.,"[That/DT, 's/VBZ, a/DT, fire/NN, station/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (NN fire) (NN station))) (. .)))
-K/KD/KDP.xml,KDPRE01V,907,76,,B,38,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01V,907,76,,B,38,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01V,907,77,,A,39,1,It's all  (()) half the trip.,"[It/PRP, 's/VBZ, all/DT, half/PDT, the/DT, trip/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (DT all) (PDT half)) (DT the) (NN trip))) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,78,,A,39,2,"Yeah it's offices, car parking.","[Yeah/UH, it/PRP, 's/VBZ, offices/NNS, ,/,, car/NN, parking/NN, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (NP (PRP it)) (VP (VBZ 's) (NP (NNS offices)))) (, ,) (FRAG (NP (NN car) (NN parking))) (. .)))"
 K/KD/KDP.xml,KDPRE01V,907,79,,A,39,3,There's no er  --,"[There/EX, 's/VBZ, no/DT, er/NN, it/PRP, 's/VBZ, no/DT, good/JJ, for/IN, lorries/NNS, is/VBZ, it/PRP, ?/.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT no) (NN er)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (DT no) (JJ good)) (SBAR (IN for) (S (NP (NNS lorries)) (VP (VBZ is) (NP (PRP it)))))))))) (. ?)))
@@ -86,7 +86,7 @@ K/KD/KDP.xml,KDPRE01V,907,83,,B,42,1,(()) office blocks.,"[office/NN, blocks/NNS
 K/KD/KDP.xml,KDPRE01V,907,84,,A,43,1,It's a  --,"[It/PRP, 's/VBZ, a/DT, modern/JJ, enough/JJ, as/IN, it/PRP, is/VBZ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (DT a) (JJ modern) (JJ enough)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is))))) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,85,,A,43,2,--modern enough as it is.,"[It/PRP, 's/VBZ, a/DT, modern/JJ, enough/JJ, as/IN, it/PRP, is/VBZ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (DT a) (JJ modern) (JJ enough)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ is))))) (. .)))
 K/KD/KDP.xml,KDPRE01V,907,86,,A,43,3,And they keep building them.,"[And/CC, they/PRP, keep/VBP, building/VBG, them/PRP, ./.]",(ROOT (S (CC And) (NP (PRP they)) (VP (VBP keep) (S (VP (VBG building) (NP (PRP them))))) (. .)))
-K/KD/KDP.xml,KDPRE01V,907,87,,B,44,1,(()) ,[],X
+K/KD/KDP.xml,KDPRE01V,907,87,,B,44,1,(()) ,[],
 K/KD/KDP.xml,KDPRE01V,907,88,,A,45,1,"No I think, they were making er  --","[No/DT, I/PRP, think/VBP, ,/,, they/PRP, were/VBD, making/VBG, er/NN, lots/NNS, of/IN, money/NN, out/IN, of/IN, offices/NNS, but/CC, not/RB, any/DT, more/JJR, ./.]","(ROOT (S (S (NP (DT No) (PRP I)) (VP (VBP think))) (, ,) (NP (PRP they)) (VP (VBD were) (VP (VBG making) (NP (NP (NN er) (NNS lots)) (PP (IN of) (NP (NN money)))) (ADVP (IN out) (PP (IN of) (NP (NP (NNS offices)) (CONJP (CC but) (RB not)) (NP (DT any) (JJR more))))))) (. .)))"
 K/KD/KDP.xml,KDPRE01V,907,89,,A,45,2,--lots of money out of offices but not any more.,"[No/DT, I/PRP, think/VBP, ,/,, they/PRP, were/VBD, making/VBG, er/NN, lots/NNS, of/IN, money/NN, out/IN, of/IN, offices/NNS, but/CC, not/RB, any/DT, more/JJR, ./.]","(ROOT (S (S (NP (DT No) (PRP I)) (VP (VBP think))) (, ,) (NP (PRP they)) (VP (VBD were) (VP (VBG making) (NP (NP (NN er) (NNS lots)) (PP (IN of) (NP (NN money)))) (ADVP (IN out) (PP (IN of) (NP (NP (NNS offices)) (CONJP (CC but) (RB not)) (NP (DT any) (JJR more))))))) (. .)))"
 K/KD/KDP.xml,KDPRE01V,907,90,,B,46,1,"Well there's not that many bloody companies left to put, to go in them is there?","[Well/RB, there/EX, 's/VBZ, not/RB, that/IN, many/JJ, bloody/JJ, companies/NNS, left/VBD, to/TO, put/VB, ,/,, to/TO, go/VB, in/IN, them/PRP, is/VBZ, there/EX, ?/.]","(ROOT (S (ADVP (RB Well)) (NP (EX there)) (VP (VBZ 's) (RB not) (SBAR (IN that) (S (NP (JJ many) (JJ bloody) (NNS companies)) (VP (VBD left) (S (VP (TO to) (VP (VB put)))) (, ,) (S (VP (TO to) (VP (VB go) (SBAR (IN in) (S (NP (PRP them)) (VP (VBZ is) (NP (EX there)))))))))))) (. ?)))"

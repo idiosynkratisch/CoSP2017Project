@@ -85,7 +85,7 @@ K/KC/KC1.xml,KC1RE00A,40804,82,,B,50,2,--they don't have a  --,"[Well/RB, they/P
 K/KC/KC1.xml,KC1RE00A,40804,83,,B,50,3,--test signal then.,"[Well/RB, they/PRP, don/VBP, 't/PRP, have/VB, a/DT, test/NN, signal/NN, then/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP they)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB have) (NP (NP (DT a) (NN test) (NN signal)) (ADVP (RB then)))))) (. .)))
 K/KC/KC1.xml,KC1RE00A,40804,84,,A,51,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KC1.xml,KC1RE00A,40804,85,,A,51,2,Seems to have a bit of a (()) ,"[Seems/VBZ, to/TO, have/VB, a/DT, bit/NN, of/IN, a/DT]",(ROOT (SINV (VP (VBZ Seems) (S (VP (TO to) (VP (VB have))))) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (DT a))))))
-K/KC/KC1.xml,KC1RE00A,40804,86,,B,52,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE00A,40804,86,,B,52,1,(()) ,[],
 K/KC/KC1.xml,KC1RE00A,40804,87,,A,53,1,Tried a tape in it?,"[Tried/VBD, a/DT, tape/NN, in/IN, it/PRP, ?/.]",(ROOT (S (VP (VBD Tried) (NP (DT a) (NN tape)) (PP (IN in) (NP (PRP it)))) (. ?)))
 K/KC/KC1.xml,KC1RE00A,40804,88,,B,54,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KC/KC1.xml,KC1RE00A,40804,89,,A,55,1,Just for a joke.,"[Just/RB, for/IN, a/DT, joke/NN, ./.]",(ROOT (FRAG (PP (RB Just) (IN for) (NP (DT a) (NN joke))) (. .)))

@@ -6,7 +6,7 @@ K/KB/KBP.xml,KBPRE008,26603,3,,A,1,4,Just a spot of information  (()) with someb
 K/KB/KBP.xml,KBPRE008,26603,4,,A,1,5,Ooh out of breath from this hill.,"[Ooh/NNP, out/IN, of/IN, breath/NN, from/IN, this/DT, hill/NN, ./.]",(ROOT (NP (NP (NNP Ooh)) (PP (ADVP (IN out)) (IN of) (NP (NN breath))) (PP (IN from) (NP (DT this) (NN hill))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,5,,A,1,6,Erm  --,"[Erm/NNP, bungalow/NNP, in/IN, St/NNP, Peters/NNP, Road/NN, ./.]",(ROOT (NP (NP (NNP Erm) (NNP bungalow)) (PP (IN in) (NP (NNP St) (NNP Peters) (NN Road))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,6,,A,1,7,--bungalow in St Peters Road.,"[Erm/NNP, bungalow/NNP, in/IN, St/NNP, Peters/NNP, Road/NN, ./.]",(ROOT (NP (NP (NNP Erm) (NNP bungalow)) (PP (IN in) (NP (NNP St) (NNP Peters) (NN Road))) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,7,,B,2,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,7,,B,2,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,8,,A,3,1,"Ah, thank you.","[Ah/NN, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (NP (NN Ah)) (, ,) (VP (VB thank) (NP (PRP you))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,9,,A,3,2,Can you  --,"[Can/MD, you/PRP, give/VB, me/PRP, the/DT, particulars/NNS, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB give) (NP (PRP me)) (NP (DT the) (NNS particulars))) (. ?)))
 K/KB/KBP.xml,KBPRE008,26603,10,,A,3,3,--give me the particulars?,"[Can/MD, you/PRP, give/VB, me/PRP, the/DT, particulars/NNS, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB give) (NP (PRP me)) (NP (DT the) (NNS particulars))) (. ?)))
@@ -66,7 +66,7 @@ K/KB/KBP.xml,KBPRE008,26603,63,,A,29,1,Preferably three but not essentially.,"[P
 K/KB/KBP.xml,KBPRE008,26603,64,,A,29,2,"Two er one, if it's a two bedroom they're into the caravan outside.","[Two/CD, er/NN, one/CD, ,/,, if/IN, it/PRP, 's/VBZ, a/DT, two/CD, bedroom/NN, they/PRP, 're/VBP, into/IN, the/DT, caravan/NN, outside/NN, ./.]","(ROOT (S (NP (NP (CD Two) (NN er)) (NP (CD one))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (CD two) (NN bedroom))))) (NP (PRP they)) (VP (VBP 're) (PP (IN into) (NP (DT the) (NN caravan) (NN outside)))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,65,,A,29,3,"For the spare bedroom (()) , usual thing.","[For/IN, the/DT, spare/JJ, bedroom/NN, ,/,, usual/JJ, thing/NN, ./.]","(ROOT (FRAG (PP (IN For) (NP (DT the) (JJ spare) (NN bedroom))) (, ,) (NP (JJ usual) (NN thing)) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,66,,B,30,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,67,,A,31,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,67,,A,31,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,68,,B,32,1,(()) cottage which  (()) quite nice.,"[cottage/NN, which/WDT, quite/RB, nice/JJ, ./.]",(ROOT (NP (NP (NP (NN cottage)) (SBAR (WHNP (WDT which)))) (ADJP (RB quite) (JJ nice)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,69,,B,32,2,"(()) Lower Thornton That's actually gone, been reduced now to ","[Lower/JJR, Thornton/NNP, That/WDT, 's/VBZ, actually/RB, gone/VBN, ,/,, been/VBN, reduced/VBN, now/RB, to/TO]","(ROOT (S (NP (NP (JJR Lower)) (PP (NNP Thornton) (NP (WDT That)))) (VP (VBZ 's) (ADVP (RB actually)) (VP (VP (VBN gone)) (, ,) (VP (VBN been) (VP (VBN reduced) (ADVP (RB now)) (PP (TO to))))))))"
 K/KB/KBP.xml,KBPRE008,26603,70,,A,33,1,Where the hell's that?,"[Where/WRB, the/DT, hell/NN, 's/POS, that/WDT, ?/.]",(ROOT (FRAG (SBARQ (WHADVP (WRB Where)) (SQ (NP (DT the) (NN hell)) (PP (POS 's) (WHNP (WDT that)))) (. ?))))
@@ -84,7 +84,7 @@ K/KB/KBP.xml,KBPRE008,26603,81,,A,41,2,You turn right  (()) ,"[You/PRP, turn/VB,
 K/KB/KBP.xml,KBPRE008,26603,82,,B,42,1,You turn right and you go down it and you'll see a sign for Lower Thornton.,"[You/PRP, turn/VB, right/RB, and/CC, you/PRP, go/VBP, down/IN, it/PRP, and/CC, you/PRP, 'll/MD, see/VB, a/DT, sign/NN, for/IN, Lower/JJR, Thornton/NNP, ./.]",(ROOT (S (S (NP (PRP You)) (VP (VB turn) (ADVP (RB right)))) (CC and) (S (S (NP (PRP you)) (VP (VBP go) (PRT (IN down)) (NP (PRP it)))) (CC and) (S (NP (PRP you)) (VP (MD 'll) (VP (VB see) (NP (DT a) (NN sign)) (PP (IN for) (NP (NP (JJR Lower)) (NP (NNP Thornton)))))))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,83,,A,43,1,"Oh thank you, yes.","[Oh/UH, thank/VB, you/PRP, ,/,, yes/UH, ./.]","(ROOT (S (INTJ (UH Oh)) (VP (VB thank) (NP (PRP you)) (, ,) (NP (UH yes))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,84,,B,44,1,It's down there.,"[It/PRP, 's/VBZ, down/RB, there/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB down) (RB there))) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,85,,A,45,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,85,,A,45,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,86,,B,46,1,That  (()) been reduced to forty four thousand  (()) ,"[That/DT, been/VBN, reduced/VBN, to/TO, forty/CD, four/CD, thousand/CD]",(ROOT (SINV (NP (DT That)) (VP (VBN been) (VP (VBN reduced) (PP (TO to) (NP (QP (CD forty) (CD four)) (CD thousand)))))))
 K/KB/KBP.xml,KBPRE008,26603,87,,A,47,1,"I see, yes, yeah.","[I/PRP, see/VBP, ,/,, yes/UH, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP see))) (, ,) (FRAG (INTJ (UH yes) (, ,) (UH yeah))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,88,,B,48,1,been reduced.,"[been/VBN, reduced/VBN, ./.]",(ROOT (S (VP (VBN been) (VP (VBN reduced))) (. .)))
@@ -96,7 +96,7 @@ K/KB/KBP.xml,KBPRE008,26603,93,,B,50,2,Sorry.,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJ
 K/KB/KBP.xml,KBPRE008,26603,94,,A,51,1,I'm so sorry.,"[I/PRP, 'm/VBP, so/RB, sorry/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB so) (JJ sorry))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,95,,B,52,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,96,,A,53,1,(()) knock and shove me  <laughing> but I always get in the way </laughing> .,"[knock/VB, and/CC, shove/VB, me/PRP, but/CC, I/PRP, always/RB, get/VBP, in/IN, the/DT, way/NN, ./.]",(ROOT (S (VP (VP (VB knock)) (CC and) (VP (VB shove) (NP (PRP me)) (SBAR (CC but) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBP get) (PP (IN in) (NP (DT the) (NN way)))))))) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,97,,B,54,1,<laugh> ,[],X
+K/KB/KBP.xml,KBPRE008,26603,97,,B,54,1,<laugh> ,[],
 K/KB/KBP.xml,KBPRE008,26603,98,,B,54,2,There you go.,"[There/EX, you/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP you)) (VP (VBP go)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,99,,A,55,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,100,,A,55,2,Right okay.,"[Right/JJ, okay/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Right) (JJ okay)) (. .)))
@@ -205,7 +205,7 @@ K/KB/KBP.xml,KBPRE008,26603,202,,A,119,2,--mm.,"[Yeah/UH, ,/,, and/CC, yet/RB, m
 K/KB/KBP.xml,KBPRE008,26603,203,,B,120,1,and  --,"[and/CC, and/CC, yet/RB, you/PRP, know/VBP, it/PRP, was/VBD, a/DT, sunny/JJ, day/NN, ./.]",(ROOT (S (S (CC and) (S (CC and) (ADVP (RB yet)) (NP (PRP you)) (VP (VBP know) (NP (PRP it))))) (VP (VBD was) (NP (DT a) (JJ sunny) (NN day))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,204,,B,120,2,--and yet you know it was a sunny day.,"[and/CC, and/CC, yet/RB, you/PRP, know/VBP, it/PRP, was/VBD, a/DT, sunny/JJ, day/NN, ./.]",(ROOT (S (S (CC and) (S (CC and) (ADVP (RB yet)) (NP (PRP you)) (VP (VBP know) (NP (PRP it))))) (VP (VBD was) (NP (DT a) (JJ sunny) (NN day))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,205,,B,120,3,"Nick had his sunglasses on, he must have looked a bit touched.<laugh> ","[Nick/NNP, had/VBD, his/PRP$, sunglasses/NNS, on/IN, ,/,, he/PRP, must/MD, have/VB, looked/VBD, a/DT, bit/NN, touched/VBD, ./.]","(ROOT (S (S (NP (NNP Nick)) (VP (VBD had) (NP (PRP$ his) (NNS sunglasses)) (PP (IN on)))) (, ,) (NP (PRP he)) (VP (MD must) (VP (VB have) (VP (VBD looked) (SBAR (S (NP (DT a) (NN bit)) (VP (VBD touched))))))) (. .)))"
-K/KB/KBP.xml,KBPRE008,26603,206,,A,121,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,206,,A,121,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,207,,B,122,1,(()) we just stopped and  (()) bloke ,"[we/PRP, just/RB, stopped/VBD, and/CC, bloke/NN]",(ROOT (S (NP (PRP we)) (VP (VP (ADVP (RB just)) (VBD stopped)) (CC and) (VP (NP (NN bloke))))))
 K/KB/KBP.xml,KBPRE008,26603,208,,A,123,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,209,,B,124,1,"one woman, sorry, that literally ran away from us.","[one/CD, woman/NN, ,/,, sorry/JJ, ,/,, that/IN, literally/RB, ran/VBD, away/RB, from/IN, us/PRP, ./.]","(ROOT (S (NP (NP (CD one) (NN woman)) (, ,) (ADJP (JJ sorry)) (, ,)) (VP (ADVP (IN that) (RB literally)) (VBD ran) (ADVP (RB away)) (PP (IN from) (NP (PRP us)))) (. .)))"
@@ -213,7 +213,7 @@ K/KB/KBP.xml,KBPRE008,26603,210,,B,124,2,They completely ran away.,"[They/PRP, c
 K/KB/KBP.xml,KBPRE008,26603,211,,B,124,3,It was unbelievable.,"[It/PRP, was/VBD, unbelievable/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ unbelievable))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,212,,A,125,1,"Yes I can believe it, yes.","[Yes/UH, I/PRP, can/MD, believe/VB, it/PRP, ,/,, yes/UH, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (MD can) (VP (VB believe) (NP (PRP it))))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,213,,A,125,2,Yeah yeah.,"[Yeah/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Yeah)) (VP (UH yeah)) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,214,,B,126,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,214,,B,126,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,215,,A,127,1,Well the the  (()) really?,"[Well/RB, the/DT, the/DT, really/RB, ?/.]",(ROOT (NP (NP (RB Well) (DT the)) (NP (DT the) (RB really)) (. ?)))
 K/KB/KBP.xml,KBPRE008,26603,216,,B,128,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,217,,A,129,1,"There's a friend of my wife and I she's, what age is she now?","[There/EX, 's/VBZ, a/DT, friend/NN, of/IN, my/PRP$, wife/NN, and/CC, I/PRP, she/PRP, 's/VBZ, ,/,, what/WDT, age/NN, is/VBZ, she/PRP, now/RB, ?/.]","(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT a) (NN friend)) (PP (IN of) (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I)))) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (, ,) (SBARQ (WHNP (WDT what) (NN age)) (SQ (VBZ is) (NP (PRP she)) (ADVP (RB now))) (. ?)))))))))"
@@ -326,7 +326,7 @@ K/KB/KBP.xml,KBPRE008,26603,323,,A,167,2,And erm  --,"[And/CC, erm/NN, we/PRP, s
 K/KB/KBP.xml,KBPRE008,26603,324,,A,167,3,--we sent it to  (()) well one of my other sons in Australia there and he was thrilled to bits.,"[And/CC, erm/NN, we/PRP, sent/VBD, it/PRP, to/TO, well/RB, one/CD, of/IN, my/PRP$, other/JJ, sons/NNS, in/IN, Australia/NNP, there/RB, and/CC, he/PRP, was/VBD, thrilled/VBN, to/TO, bits/NNS, ./.]",(ROOT (FRAG (CC And) (NP (NP (NN erm)) (SBAR (S (S (NP (PRP we)) (VP (VBD sent) (NP (PRP it)) (PP (TO to) (NP (NP (RB well) (CD one)) (PP (IN of) (NP (PRP$ my) (JJ other) (NNS sons))))) (PP (IN in) (NP (NNP Australia))) (ADVP (RB there)))) (CC and) (S (NP (PRP he)) (VP (VBD was) (VP (VBN thrilled) (PP (TO to) (NP (NNS bits))))))))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,325,,A,167,4,(()) oh you did very well with your photography.,"[oh/UH, you/PRP, did/VBD, very/RB, well/RB, with/IN, your/PRP$, photography/NNP, ./.]",(ROOT (S (S (INTJ (UH oh)) (NP (PRP you)) (VP (VBD did) (ADVP (RB very) (RB well)) (PP (IN with) (NP (PRP$ your) (NNP photography))))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,326,,A,167,5,I thought  (()) <laugh> ,"[I/PRP, thought/VBD]",(ROOT (S (NP (PRP I)) (VP (VBD thought))))
-K/KB/KBP.xml,KBPRE008,26603,327,,B,168,1,<laugh> ,[],X
+K/KB/KBP.xml,KBPRE008,26603,327,,B,168,1,<laugh> ,[],
 K/KB/KBP.xml,KBPRE008,26603,328,,A,169,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,329,,A,169,2,Just too late I see.,"[Just/RB, too/RB, late/JJ, I/PRP, see/VBP, ./.]",(ROOT (S (PP (RB Just) (ADJP (RB too) (JJ late))) (NP (PRP I)) (VP (VBP see)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,330,,A,169,3,Never mind I'll come,"[Never/RB, mind/VB, I/PRP, 'll/MD, come/VB]",(ROOT (S (ADVP (RB Never)) (VP (VB mind) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB come))))))))
@@ -339,7 +339,7 @@ K/KB/KBP.xml,KBPRE008,26603,336,,A,173,1,Bubye.,"[Bubye/NNP, ./.]",(ROOT (FRAG (
 K/KB/KBP.xml,KBPRE008,26603,337,,A,173,2,Bubye.,"[Bubye/NNP, ./.]",(ROOT (FRAG (NP (NNP Bubye)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,338,,A,173,3,<laugh> Forgive me smiling but  --,"[Forgive/VB, me/PRP, smiling/VBG, but/CC, does/VBZ, everybody/NN, do/VBP, that/IN, ,/,, fall/VB, over/IN, the/DT, step/NN, there/RB, ?/.]","(ROOT (SQ (VP (VP (VP (VB Forgive) (S (NP (PRP me)) (VP (VBG smiling)))) (CC but) (VP (VBZ does) (SBAR (S (NP (NN everybody)) (VP (VBP do) (ADVP (IN that))))))) (, ,) (VP (VB fall) (PP (IN over) (NP (DT the) (NN step))) (ADVP (RB there)))) (. ?)))"
 K/KB/KBP.xml,KBPRE008,26603,339,,A,173,4,"--does everybody do that, fall over the step there?","[Forgive/VB, me/PRP, smiling/VBG, but/CC, does/VBZ, everybody/NN, do/VBP, that/IN, ,/,, fall/VB, over/IN, the/DT, step/NN, there/RB, ?/.]","(ROOT (SQ (VP (VP (VP (VB Forgive) (S (NP (PRP me)) (VP (VBG smiling)))) (CC but) (VP (VBZ does) (SBAR (S (NP (NN everybody)) (VP (VBP do) (ADVP (IN that))))))) (, ,) (VP (VB fall) (PP (IN over) (NP (DT the) (NN step))) (ADVP (RB there)))) (. ?)))"
-K/KB/KBP.xml,KBPRE008,26603,340,,B,174,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,340,,B,174,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,341,,A,175,1,Same as me.,"[Same/JJ, as/IN, me/PRP, ./.]",(ROOT (NP (NP (JJ Same)) (PP (IN as) (NP (PRP me))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,342,,A,175,2,There's  <laugh> not much of me but  --,"[There/EX, 's/VBZ, not/RB, much/JJ, of/IN, me/PRP, but/CC, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (RB not) (ADJP (JJ much) (PP (IN of) (NP (PRP me)))) (ADVP (CC but))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,343,,A,175,3,--(()) .,"[There/EX, 's/VBZ, not/RB, much/JJ, of/IN, me/PRP, but/CC, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (RB not) (ADJP (JJ much) (PP (IN of) (NP (PRP me)))) (ADVP (CC but))) (. .)))
@@ -367,7 +367,7 @@ K/KB/KBP.xml,KBPRE008,26603,364,,B,188,1,Yeah (()) .,"[Yeah/UH, ./.]",(ROOT (INT
 K/KB/KBP.xml,KBPRE008,26603,365,,A,189,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,366,,A,189,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,367,,A,189,3,"Oh look at that, thank you.","[Oh/UH, look/VB, at/IN, that/DT, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (INTJ (UH Oh)) (VP (VP (VB look) (PP (IN at) (NP (DT that)))) (, ,) (VP (VB thank) (NP (PRP you)))) (. .)))"
-K/KB/KBP.xml,KBPRE008,26603,368,,B,190,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,368,,B,190,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,369,,A,191,1,Very well oiled runners on those er,"[Very/RB, well/RB, oiled/JJ, runners/NNS, on/IN, those/DT, er/NN]",(ROOT (FRAG (ADVP (RB Very)) (ADVP (RB well) (NP (JJ oiled) (NNS runners)) (PP (IN on) (NP (DT those) (NN er))))))
 K/KB/KBP.xml,KBPRE008,26603,370,,B,192,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,371,,A,193,1,drawers haven't you?,"[drawers/NNP, haven/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (NNP drawers)) (VP (NNP haven) (S (NP (PRP 't)) (NP (PRP you)))) (. ?)))
@@ -396,11 +396,11 @@ K/KB/KBP.xml,KBPRE008,26603,393,,A,207,3,Exactly.,"[Exactly/RB, ./.]",(ROOT (FRA
 K/KB/KBP.xml,KBPRE008,26603,394,,A,207,4,"That's right, yes.","[That/DT, 's/VBZ, right/NN, ,/,, yes/UH, ./.]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (NN right)))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,395,,A,207,5,"Some people can, yeah.","[Some/DT, people/NNS, can/MD, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (DT Some) (NNS people)) (VP (MD can))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,396,,A,207,6,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,397,,B,208,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,397,,B,208,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,398,,A,209,1,"Well, yeah.","[Well/RB, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (RB Well)) (, ,) (INTJ (UH yeah) (. .))))"
 K/KB/KBP.xml,KBPRE008,26603,399,,A,209,2,In his last chapter in the book he claims he did a  --,"[In/IN, his/PRP$, last/JJ, chapter/NN, in/IN, the/DT, book/NN, he/PRP, claims/VBZ, he/PRP, did/VBD, a/DT, a/DT, beam/NN, me/PRP, up/RP, scottie/NNP, business/NNP, and/CC]",(ROOT (S (PP (IN In) (NP (NP (PRP$ his) (JJ last) (NN chapter)) (PP (IN in) (NP (DT the) (NN book))))) (NP (PRP he)) (VP (VBZ claims) (SBAR (S (NP (PRP he)) (VP (VBD did) (S (NP (DT a) (DT a) (NN beam)) (NP (PRP me))) (PP (RP up) (NP (NNP scottie) (NX (NX (NNP business)) (CC and))))))))))
 K/KB/KBP.xml,KBPRE008,26603,400,,A,209,3,--a beam me up scottie business and,"[In/IN, his/PRP$, last/JJ, chapter/NN, in/IN, the/DT, book/NN, he/PRP, claims/VBZ, he/PRP, did/VBD, a/DT, a/DT, beam/NN, me/PRP, up/RP, scottie/NNP, business/NNP, and/CC]",(ROOT (S (PP (IN In) (NP (NP (PRP$ his) (JJ last) (NN chapter)) (PP (IN in) (NP (DT the) (NN book))))) (NP (PRP he)) (VP (VBZ claims) (SBAR (S (NP (PRP he)) (VP (VBD did) (S (NP (DT a) (DT a) (NN beam)) (NP (PRP me))) (PP (RP up) (NP (NNP scottie) (NX (NX (NNP business)) (CC and))))))))))
-K/KB/KBP.xml,KBPRE008,26603,401,,B,210,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,401,,B,210,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,402,,A,211,1,"Yeah exactly, yes.","[Yeah/UH, exactly/RB, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yeah) (RB exactly)) (, ,) (INTJ (UH yes) (. .))))"
 K/KB/KBP.xml,KBPRE008,26603,403,,A,211,2,That I find a little bit hard to believe.,"[That/IN, I/PRP, find/VBP, a/DT, little/JJ, bit/NN, hard/JJ, to/TO, believe/VB, ./.]",(ROOT (FRAG (SBAR (IN That) (S (NP (PRP I)) (VP (VBP find) (S (NP (DT a) (JJ little) (NN bit)) (ADJP (JJ hard) (S (VP (TO to) (VP (VB believe))))))))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,404,,A,211,3,"One minute he was shall we say in Arford, next minute woof, he'd shot to Johnston through somebody's window?","[One/CD, minute/NN, he/PRP, was/VBD, shall/MD, we/PRP, say/VB, in/IN, Arford/NNP, ,/,, next/JJ, minute/NN, woof/NN, ,/,, he/PRP, 'd/MD, shot/VBN, to/TO, Johnston/NNP, through/IN, somebody/NN, 's/POS, window/NN, ?/.]","(ROOT (S (S (NP (NP (CD One) (NN minute)) (SBAR (S (NP (PRP he)) (VP (VBD was))))) (VP (MD shall) (NP (PRP we)) (S (VP (VB say) (PP (IN in) (NP (NP (NNP Arford)) (, ,) (NP (JJ next) (NN minute) (NN woof)))))))) (, ,) (NP (PRP he)) (VP (MD 'd) (VP (VBN shot) (PP (TO to) (NP (NNP Johnston))) (PP (IN through) (NP (NP (NN somebody) (POS 's)) (NN window))))) (. ?)))"
@@ -409,7 +409,7 @@ K/KB/KBP.xml,KBPRE008,26603,406,,B,212,1,Yeah I know.,"[Yeah/UH, I/PRP, know/VBP
 K/KB/KBP.xml,KBPRE008,26603,407,,A,213,1,Yes exactly.,"[Yes/UH, exactly/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (RB exactly)))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,408,,A,213,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,409,,A,213,3,That is pushing it.,"[That/DT, is/VBZ, pushing/VBG, it/PRP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ is) (VP (VBG pushing) (NP (PRP it)))) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,410,,B,214,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,410,,B,214,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,411,,A,215,1,"Think think think, she says.","[Think/VB, think/VB, think/VB, ,/,, she/PRP, says/VBZ, ./.]","(ROOT (S (S (VP (VB Think) (VP (VB think) (NP (VB think))))) (, ,) (NP (PRP she)) (VP (VBZ says)) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,412,,A,215,2,Think.,"[Think/VB, ./.]",(ROOT (S (VP (VB Think)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,413,,B,216,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
@@ -480,12 +480,12 @@ K/KB/KBP.xml,KBPRE008,26603,477,,A,245,3,"Matter of, exactly yes.","[Matter/NN, 
 K/KB/KBP.xml,KBPRE008,26603,478,,B,246,1,I agree with you.,"[I/PRP, agree/VBP, with/IN, you/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP agree) (PP (IN with) (NP (PRP you)))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,479,,A,247,1,<laughing> There we are </laughing> .,"[There/EX, we/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP are)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,480,,A,247,2,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,481,,B,248,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,481,,B,248,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,482,,A,249,1,"Er yes, I s- suspect they must have paid a lot of money to have that done too.","[Er/NN, yes/RB, ,/,, I/PRP, s-/VBP, suspect/JJ, they/PRP, must/MD, have/VB, paid/VBN, a/DT, lot/NN, of/IN, money/NN, to/TO, have/VB, that/DT, done/VBN, too/RB, ./.]","(ROOT (S (FRAG (NP (NN Er) (RB yes))) (, ,) (NP (PRP I)) (VP (VBP s-) (ADJP (JJ suspect) (SBAR (S (NP (PRP they)) (VP (MD must) (VP (VB have) (VP (VBN paid) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money)))) (S (VP (TO to) (VP (VB have) (NP (NP (DT that)) (VP (VBN done) (ADVP (RB too)))))))))))))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,483,,B,250,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,484,,A,251,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,485,,B,252,1,(()) ,[],X
-K/KB/KBP.xml,KBPRE008,26603,486,,B,252,2,<laugh> ,[],X
+K/KB/KBP.xml,KBPRE008,26603,485,,B,252,1,(()) ,[],
+K/KB/KBP.xml,KBPRE008,26603,486,,B,252,2,<laugh> ,[],
 K/KB/KBP.xml,KBPRE008,26603,487,,A,253,1,"Well, yeah.","[Well/RB, ,/,, yeah/UH, ./.]","(ROOT (INTJ (INTJ (RB Well)) (, ,) (INTJ (UH yeah) (. .))))"
 K/KB/KBP.xml,KBPRE008,26603,488,,A,253,2,"(()) in that case, yeah.","[in/IN, that/DT, case/NN, ,/,, yeah/UH, ./.]","(ROOT (FRAG (PP (IN in) (NP (DT that) (NN case))) (, ,) (INTJ (UH yeah)) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,489,,B,254,1,(()) ?,[?/.],(ROOT (NP (. ?)))
@@ -496,12 +496,12 @@ K/KB/KBP.xml,KBPRE008,26603,493,,A,257,1,"Well exactly, yes, she can give you a 
 K/KB/KBP.xml,KBPRE008,26603,494,,A,257,2,--or I could give you a ring for that matter erm --,"[Well/RB, exactly/RB, ,/,, yes/UH, ,/,, she/PRP, can/MD, give/VB, you/PRP, a/DT, ring/NN, erm/NN, or/CC, I/PRP, could/MD, give/VB, you/PRP, a/DT, ring/NN, for/IN, that/DT, matter/NN, erm/NN, ./.]","(ROOT (S (ADVP (RB Well)) (ADVP (RB exactly)) (, ,) (INTJ (UH yes)) (, ,) (NP (PRP she)) (VP (MD can) (VP (VB give) (NP (PRP you)) (NP (DT a) (NN ring) (NN erm)))) (CC or) (S (NP (PRP I)) (VP (MD could) (VP (VB give) (NP (PRP you)) (NP (NP (DT a) (NN ring)) (PP (IN for) (NP (DT that) (NN matter) (NN erm))))))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,495,,A,257,3,--.,"[Well/RB, exactly/RB, ,/,, yes/UH, ,/,, she/PRP, can/MD, give/VB, you/PRP, a/DT, ring/NN, erm/NN, or/CC, I/PRP, could/MD, give/VB, you/PRP, a/DT, ring/NN, for/IN, that/DT, matter/NN, erm/NN, ./.]","(ROOT (S (ADVP (RB Well)) (ADVP (RB exactly)) (, ,) (INTJ (UH yes)) (, ,) (NP (PRP she)) (VP (MD can) (VP (VB give) (NP (PRP you)) (NP (DT a) (NN ring) (NN erm)))) (CC or) (S (NP (PRP I)) (VP (MD could) (VP (VB give) (NP (PRP you)) (NP (NP (DT a) (NN ring)) (PP (IN for) (NP (DT that) (NN matter) (NN erm))))))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,496,,A,257,4,"expensive business for her, phoning from Manchester,(()) .","[expensive/JJ, business/NN, for/IN, her/PRP, ,/,, phoning/VBG, from/IN, Manchester/NNP, ,/,, ./.]","(ROOT (NP (NP (JJ expensive) (NN business)) (PP (IN for) (NP (NP (PRP her)) (, ,) (VP (VBG phoning) (PP (IN from) (NP (NNP Manchester)))) (, ,))) (. .)))"
-K/KB/KBP.xml,KBPRE008,26603,497,,B,258,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,497,,B,258,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,498,,A,259,1,<laugh> Yes  --,"[Yes/UH, yeah/UH, erm/IN, no/DT, there/EX, 's/VBZ, little/JJ, point/NN, just/RB, now/RB, ,/,, go/VB, on/IN, then/RB, she/PRP, 's/VBZ, thought/VBN, of/IN, something/NN, else/RB, ./.]","(ROOT (S (SBAR (PP (NP (INTJ (UH Yes) (UH yeah))) (IN erm) (NP (DT no))) (S (NP (EX there)) (VP (VBZ 's) (NP (JJ little) (NN point)) (ADVP (RB just)) (S (ADVP (RB now)) (, ,) (VP (VB go) (PP (IN on) (NP (RB then)))))))) (NP (PRP she)) (VP (VBZ 's) (VP (VBN thought) (PP (IN of) (NP (NN something) (RB else))))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,499,,A,259,2,--yeah erm  --,"[Yes/UH, yeah/UH, erm/IN, no/DT, there/EX, 's/VBZ, little/JJ, point/NN, just/RB, now/RB, ,/,, go/VB, on/IN, then/RB, she/PRP, 's/VBZ, thought/VBN, of/IN, something/NN, else/RB, ./.]","(ROOT (S (SBAR (PP (NP (INTJ (UH Yes) (UH yeah))) (IN erm) (NP (DT no))) (S (NP (EX there)) (VP (VBZ 's) (NP (JJ little) (NN point)) (ADVP (RB just)) (S (ADVP (RB now)) (, ,) (VP (VB go) (PP (IN on) (NP (RB then)))))))) (NP (PRP she)) (VP (VBZ 's) (VP (VBN thought) (PP (IN of) (NP (NN something) (RB else))))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,500,,A,259,3,"--no there's little point just now, go on then  --","[Yes/UH, yeah/UH, erm/IN, no/DT, there/EX, 's/VBZ, little/JJ, point/NN, just/RB, now/RB, ,/,, go/VB, on/IN, then/RB, she/PRP, 's/VBZ, thought/VBN, of/IN, something/NN, else/RB, ./.]","(ROOT (S (SBAR (PP (NP (INTJ (UH Yes) (UH yeah))) (IN erm) (NP (DT no))) (S (NP (EX there)) (VP (VBZ 's) (NP (JJ little) (NN point)) (ADVP (RB just)) (S (ADVP (RB now)) (, ,) (VP (VB go) (PP (IN on) (NP (RB then)))))))) (NP (PRP she)) (VP (VBZ 's) (VP (VBN thought) (PP (IN of) (NP (NN something) (RB else))))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,501,,A,259,4,--she's thought of something else.,"[Yes/UH, yeah/UH, erm/IN, no/DT, there/EX, 's/VBZ, little/JJ, point/NN, just/RB, now/RB, ,/,, go/VB, on/IN, then/RB, she/PRP, 's/VBZ, thought/VBN, of/IN, something/NN, else/RB, ./.]","(ROOT (S (SBAR (PP (NP (INTJ (UH Yes) (UH yeah))) (IN erm) (NP (DT no))) (S (NP (EX there)) (VP (VBZ 's) (NP (JJ little) (NN point)) (ADVP (RB just)) (S (ADVP (RB now)) (, ,) (VP (VB go) (PP (IN on) (NP (RB then)))))))) (NP (PRP she)) (VP (VBZ 's) (VP (VBN thought) (PP (IN of) (NP (NN something) (RB else))))) (. .)))"
-K/KB/KBP.xml,KBPRE008,26603,502,,B,260,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,502,,B,260,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,503,,A,261,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,504,,A,261,2,Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,505,,A,261,3,There's enough to keep me going for the week there isn't there?,"[There/EX, 's/VBZ, enough/JJ, to/TO, keep/VB, me/PRP, going/VBG, for/IN, the/DT, week/NN, there/RB, isn/JJ, 't/PRP, there/EX, ?/.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (ADJP (JJ enough) (S (VP (TO to) (VP (VB keep) (S (NP (PRP me)) (VP (VBG going) (PP (IN for) (NP (NP (DT the) (NN week)) (ADJP (ADVP (RB there)) (JJ isn)))) (NP (NP (PRP 't)) (SBAR (S (NP (EX there)))))))))))) (. ?)))
@@ -525,13 +525,13 @@ K/KB/KBP.xml,KBPRE008,26603,522,,B,274,1,Well  --,"[Well/RB, well/RB, we/PRP, 'r
 K/KB/KBP.xml,KBPRE008,26603,523,,B,274,2,--well we're gonna do it anyway cos we just haven't got enough room,"[Well/RB, well/RB, we/PRP, 're/VBP, gonna/NNS, do/VBP, it/PRP, anyway/RB, cos/NN, we/PRP, just/RB, haven/NN, 't/PRP, got/VBD, enough/JJ, room/NN]",(ROOT (FRAG (NP (NP (RB Well) (RB well)) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (NP (NNS gonna)) (SBAR (S (VP (VBP do) (NP (PRP it)))))))))) (X (X (X (ADVP (RB anyway)) (NP (NN cos))) (NP (PRP we))) (NP (NP (RB just) (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (JJ enough) (NN room)))))))))
 K/KB/KBP.xml,KBPRE008,26603,524,,A,275,1,Oh I see.,"[Oh/UH, I/PRP, see/VBP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,525,,A,275,2,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,526,,B,276,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,526,,B,276,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,527,,A,277,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,528,,B,278,1,(()) market really.,"[market/NN, really/RB, ./.]",(ROOT (FRAG (NP (NN market)) (ADVP (RB really)) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,529,,A,279,1,Really?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
 K/KB/KBP.xml,KBPRE008,26603,530,,A,279,2,Is it really?,"[Is/VBZ, it/PRP, really/RB, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (ADVP (RB really)) (. ?)))
 K/KB/KBP.xml,KBPRE008,26603,531,,A,279,3,Good gracious me.,"[Good/JJ, gracious/JJ, me/PRP, ./.]",(ROOT (S (NP (JJ Good)) (VP (JJ gracious) (NP (PRP me))) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,532,,B,280,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,532,,B,280,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,533,,A,281,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,534,,A,281,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,535,,B,282,1,Erm I could ,"[Erm/NN, I/PRP, could/MD]",(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (S (NP (PRP I)) (VP (MD could)))))))
@@ -545,7 +545,7 @@ K/KB/KBP.xml,KBPRE008,26603,542,,A,285,4,--yeah.,"[Give/VB, her/PRP, a/DT, tinkl
 K/KB/KBP.xml,KBPRE008,26603,543,,B,286,1,Well that'll save  --,"[Well/RB, that/IN, 'll/MD, save/VB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (MD 'll) (VP (VB save))))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,544,,B,286,2,--(()) .,"[Well/RB, that/IN, 'll/MD, save/VB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (MD 'll) (VP (VB save))))) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,545,,A,287,1,Mhm.,"[Mhm/NNP, ./.]",(ROOT (FRAG (NP (NNP Mhm)) (. .)))
-K/KB/KBP.xml,KBPRE008,26603,546,,B,288,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE008,26603,546,,B,288,1,(()) ,[],
 K/KB/KBP.xml,KBPRE008,26603,547,,A,289,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBP.xml,KBPRE008,26603,548,,B,290,1,"If she wants to go on the mailing list, just cut that bit off and fill that in and post it on to us.","[If/IN, she/PRP, wants/VBZ, to/TO, go/VB, on/IN, the/DT, mailing/NN, list/NN, ,/,, just/RB, cut/VB, that/DT, bit/NN, off/RB, and/CC, fill/VB, that/DT, in/IN, and/CC, post/IN, it/PRP, on/IN, to/TO, us/PRP, ./.]","(ROOT (S (SBAR (IN If) (S (NP (PRP she)) (VP (VBZ wants) (S (VP (TO to) (VP (VB go) (PP (IN on) (NP (DT the) (NN mailing) (NN list))))))))) (, ,) (ADVP (RB just)) (VP (VP (VB cut) (NP (DT that) (NN bit)) (ADVP (RB off))) (CC and) (VP (VB fill) (NP (DT that)) (PP (IN in) (CC and) (IN post) (NP (PRP it))) (PP (IN on) (PP (TO to) (NP (PRP us)))))) (. .)))"
 K/KB/KBP.xml,KBPRE008,26603,549,,A,291,1,Fine thank you.,"[Fine/JJ, thank/VB, you/PRP, ./.]",(ROOT (S (NP (JJ Fine)) (VP (VB thank) (NP (PRP you))) (. .)))

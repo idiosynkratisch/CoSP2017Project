@@ -15,7 +15,7 @@ K/KB/KB9.xml,KB9RE00E,62303,12,,A,7,1,The red ones?,"[The/DT, red/JJ, ones/NNS, 
 K/KB/KB9.xml,KB9RE00E,62303,13,,A,7,2,What about with a (()) ?,"[What/WP, about/IN, with/IN, a/DT, ?/.]",(ROOT (FRAG (WHNP (WP What)) (PP (IN about) (PP (IN with) (NP (DT a)))) (. ?)))
 K/KB/KB9.xml,KB9RE00E,62303,14,,B,8,1,No I don't like them.,"[No/DT, I/PRP, don/VBP, 't/PRP, like/IN, them/PRP, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP them)))) (. .)))
 K/KB/KB9.xml,KB9RE00E,62303,15,,A,9,1,Get a (()) ?,"[Get/VB, a/DT, ?/.]",(ROOT (SQ (VP (VB Get) (NP (DT a))) (. ?)))
-K/KB/KB9.xml,KB9RE00E,62303,16,,B,10,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE00E,62303,16,,B,10,1,(()) ,[],
 K/KB/KB9.xml,KB9RE00E,62303,17,,A,11,1,"No it's not, those erm  --","[No/DT, it/PRP, 's/VBZ, not/RB, ,/,, those/DT, erm/NN, they/PRP, 're/VBP, like/IN, those/DT, leggings/NNS, it/PRP, 's/VBZ]","(ROOT (S (NP (DT No) (PRP it)) (VP (VP (VBZ 's) (RB not)) (, ,) (NP (NP (DT those) (NN erm)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (DT those) (NNS leggings)) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))))))"
 K/KB/KB9.xml,KB9RE00E,62303,18,,A,11,2,--they're like those leggings it's,"[No/DT, it/PRP, 's/VBZ, not/RB, ,/,, those/DT, erm/NN, they/PRP, 're/VBP, like/IN, those/DT, leggings/NNS, it/PRP, 's/VBZ]","(ROOT (S (NP (DT No) (PRP it)) (VP (VP (VBZ 's) (RB not)) (, ,) (NP (NP (DT those) (NN erm)) (SBAR (S (NP (PRP they)) (VP (VBP 're) (PP (IN like) (NP (NP (DT those) (NNS leggings)) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))))))))"
 K/KB/KB9.xml,KB9RE00E,62303,19,,B,12,1,Very comfy then?,"[Very/RB, comfy/JJ, then/RB, ?/.]",(ROOT (FRAG (PP (PP (ADVP (RB Very)) (ADJP (JJ comfy))) (ADVP (RB then))) (. ?)))

@@ -9,7 +9,7 @@ K/KD/KDN.xml,KDNRE01K,45903,6,,A,5,1,"Oh for fuck, tear it up.","[Oh/UH, for/IN,
 K/KD/KDN.xml,KDNRE01K,45903,7,,A,5,2,Comic Relief (()) .,"[Comic/JJ, Relief/NN, ./.]",(ROOT (NP (JJ Comic) (NN Relief) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,8,,A,5,3,Come in here a minute Jean.--,"[Come/VB, in/IN, here/RB, a/DT, minute/NN, Jean/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN in) (NP (RB here) (DT a) (NN minute) (NN Jean)))) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,9,,A,5,4,--(()) ,"[Come/VB, in/IN, here/RB, a/DT, minute/NN, Jean/NN, ./.]",(ROOT (S (VP (VB Come) (PP (IN in) (NP (RB here) (DT a) (NN minute) (NN Jean)))) (. .)))
-K/KD/KDN.xml,KDNRE01K,45903,10,,B,6,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE01K,45903,10,,B,6,1,(()) ,[],
 K/KD/KDN.xml,KDNRE01K,45903,11,,A,7,1,What love?,"[What/WDT, love/NN, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NN love)) (. ?)))
 K/KD/KDN.xml,KDNRE01K,45903,12,,A,7,2,Oh Jesus.,"[Oh/UH, Jesus/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP Jesus)))) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,13,,A,7,3,"When that goes cold (()) , okay?","[When/WRB, that/DT, goes/VBZ, cold/JJ, ,/,, okay/JJ, ?/.]","(ROOT (SBARQ (WHADVP (WRB When)) (S (NP (DT that)) (VP (VBZ goes) (ADJP (ADJP (JJ cold)) (, ,) (ADJP (JJ okay))))) (. ?)))"
@@ -17,8 +17,8 @@ K/KD/KDN.xml,KDNRE01K,45903,14,,A,7,4,Where are you Jean?,"[Where/WRB, are/VBP, 
 K/KD/KDN.xml,KDNRE01K,45903,15,,B,8,1,Here.,"[Here/RB, ./.]",(ROOT (FRAG (ADVP (RB Here)) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,16,,A,9,1,Come on give us a hand here.,"[Come/VB, on/IN, give/VB, us/PRP, a/DT, hand/NN, here/RB, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (S (VP (VB give) (NP (PRP us)) (NP (NP (DT a) (NN hand)) (ADVP (RB here))))))) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,17,,B,10,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KD/KDN.xml,KDNRE01K,45903,18,,A,11,1,<sigh> ,[],X
-K/KD/KDN.xml,KDNRE01K,45903,19,,A,11,2,(()) ,[],X
+K/KD/KDN.xml,KDNRE01K,45903,18,,A,11,1,<sigh> ,[],
+K/KD/KDN.xml,KDNRE01K,45903,19,,A,11,2,(()) ,[],
 K/KD/KDN.xml,KDNRE01K,45903,20,,B,12,1,You what?,"[You/PRP, what/WP, ?/.]",(ROOT (NP (NP (PRP You)) (NP (WP what)) (. ?)))
 K/KD/KDN.xml,KDNRE01K,45903,21,,A,13,1,It's difficult to tell  (()) sit there.,"[It/PRP, 's/VBZ, difficult/JJ, to/TO, tell/VB, sit/NN, there/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ difficult) (S (VP (TO to) (VP (VB tell) (NP (NN sit)) (ADVP (RB there))))))) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,22,,A,13,2,I'll go and get a couple of mats.,"[I/PRP, 'll/MD, go/VB, and/CC, get/VB, a/DT, couple/NN, of/IN, mats/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB go) (CC and) (VB get) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS mats)))))) (. .)))
@@ -71,7 +71,7 @@ K/KD/KDN.xml,KDNRE01K,45903,68,,B,44,1,What's she eating?,"[What/WP, 's/VBZ, she
 K/KD/KDN.xml,KDNRE01K,45903,69,,A,45,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KD/KDN.xml,KDNRE01K,45903,70,,B,46,1,Patch  <shouting> stop that.,"[Patch/NNP, stop/VB, that/DT, ./.]",(ROOT (S (NP (NNP Patch)) (VP (VB stop) (NP (DT that))) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,71,,B,46,2,Put that down </shouting> .,"[Put/VB, that/DT, down/RB, ./.]",(ROOT (S (VP (VB Put) (ADVP (DT that) (RB down))) (. .)))
-K/KD/KDN.xml,KDNRE01K,45903,72,,B,46,3,(()) ,[],X
+K/KD/KDN.xml,KDNRE01K,45903,72,,B,46,3,(()) ,[],
 K/KD/KDN.xml,KDNRE01K,45903,73,,A,47,1,There was ice on the seats in the park.,"[There/EX, was/VBD, ice/NN, on/IN, the/DT, seats/NNS, in/IN, the/DT, park/NN, ./.]",(ROOT (S (NP (EX There)) (VP (VBD was) (NP (NP (NN ice)) (PP (IN on) (NP (NP (DT the) (NNS seats)) (PP (IN in) (NP (DT the) (NN park))))))) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,74,,B,48,1,"cigarette please, was there?","[cigarette/NN, please/UH, ,/,, was/VBD, there/EX, ?/.]","(ROOT (SQ (S (NP (NN cigarette)) (VP (UH please))) (, ,) (SQ (VBD was) (NP (EX there))) (. ?)))"
 K/KD/KDN.xml,KDNRE01K,45903,75,,A,49,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -124,7 +124,7 @@ K/KD/KDN.xml,KDNRE01K,45903,121,,B,72,1,I know John.,"[I/PRP, know/VBP, John/NNP
 K/KD/KDN.xml,KDNRE01K,45903,122,,A,73,1,Och I hate it.,"[Och/NN, I/PRP, hate/VBP, it/PRP, ./.]",(ROOT (S (NP (NN Och)) (NP (PRP I)) (VP (VBP hate) (NP (PRP it))) (. .)))
 K/KD/KDN.xml,KDNRE01K,45903,123,,B,74,1,What can I do?,"[What/WDT, can/MD, I/PRP, do/VB, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (MD can) (NP (PRP I)) (VP (VB do))) (. ?)))
 K/KD/KDN.xml,KDNRE01K,45903,124,,A,75,1,"Well I said I would do it and I'll do it, I won't let them down, I'll never let them down but ","[Well/RB, I/PRP, said/VBD, I/PRP, would/MD, do/VB, it/PRP, and/CC, I/PRP, 'll/MD, do/VB, it/PRP, ,/,, I/PRP, won/VBD, 't/PRP, let/VB, them/PRP, down/RP, ,/,, I/PRP, 'll/MD, never/RB, let/VB, them/PRP, down/RP, but/CC]","(ROOT (S (SBAR (ADVP (RB Well)) (S (NP (PRP I)) (VP (VBD said) (SBAR (S (S (NP (PRP I)) (VP (MD would) (VP (VB do) (NP (PRP it))))) (CC and) (S (S (NP (PRP I)) (VP (MD 'll) (VP (VB do) (NP (PRP it))))) (, ,) (NP (PRP I)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB let) (NP (PRP them)) (PRT (RP down))))))))))) (, ,) (NP (PRP I)) (VP (MD 'll) (ADVP (RB never)) (VP (VB let) (NP (PRP them)) (PRT (RP down)) (ADVP (CC but))))))"
-K/KD/KDN.xml,KDNRE01K,45903,125,,B,76,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE01K,45903,125,,B,76,1,(()) ,[],
 K/KD/KDN.xml,KDNRE01K,45903,126,,A,77,1,Ah  --,"[Ah/NN, bring/VB, us/PRP, number/NN, seven/CD, out/IN, of/IN, the/DT, seven/CD, good/JJ, God/NNP, bring/VB, me/PRP, number/NN, seven/CD, excuse/NN, me/PRP]",(ROOT (SINV (VP (ADVP (NN Ah)) (VB bring) (NP (PRP us)) (NP (NP (NN number)) (PP (ADVP (NP (CD seven)) (IN out)) (IN of) (NP (DT the) (CD seven))) (SBAR (S (NP (JJ good) (NNP God)) (VP (VB bring) (NP (PRP me)) (NP (NN number) (CD seven) (NN excuse))))))) (NP (PRP me))))
 K/KD/KDN.xml,KDNRE01K,45903,127,,A,77,2,--bring us number seven out of the    --,"[Ah/NN, bring/VB, us/PRP, number/NN, seven/CD, out/IN, of/IN, the/DT, seven/CD, good/JJ, God/NNP, bring/VB, me/PRP, number/NN, seven/CD, excuse/NN, me/PRP]",(ROOT (SINV (VP (ADVP (NN Ah)) (VB bring) (NP (PRP us)) (NP (NP (NN number)) (PP (ADVP (NP (CD seven)) (IN out)) (IN of) (NP (DT the) (CD seven))) (SBAR (S (NP (JJ good) (NNP God)) (VP (VB bring) (NP (PRP me)) (NP (NN number) (CD seven) (NN excuse))))))) (NP (PRP me))))
 K/KD/KDN.xml,KDNRE01K,45903,128,,A,77,3,--<cough> --,"[Ah/NN, bring/VB, us/PRP, number/NN, seven/CD, out/IN, of/IN, the/DT, seven/CD, good/JJ, God/NNP, bring/VB, me/PRP, number/NN, seven/CD, excuse/NN, me/PRP]",(ROOT (SINV (VP (ADVP (NN Ah)) (VB bring) (NP (PRP us)) (NP (NP (NN number)) (PP (ADVP (NP (CD seven)) (IN out)) (IN of) (NP (DT the) (CD seven))) (SBAR (S (NP (JJ good) (NNP God)) (VP (VB bring) (NP (PRP me)) (NP (NN number) (CD seven) (NN excuse))))))) (NP (PRP me))))

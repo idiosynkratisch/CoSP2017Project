@@ -20,10 +20,10 @@ K/KC/KCV.xml,KCVRE013,3607,17,,B,14,2,That you know is very interesting that I a
 K/KC/KCV.xml,KCVRE013,3607,18,,A,15,1,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
 K/KC/KCV.xml,KCVRE013,3607,19,,B,16,1,Or you don't,"[Or/CC, you/PRP, don/VBP, 't/PRP]",(ROOT (S (CC Or) (NP (PRP you)) (VP (VBP don) (NP (PRP 't)))))
 K/KC/KCV.xml,KCVRE013,3607,20,,A,17,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KC/KCV.xml,KCVRE013,3607,21,,B,18,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE013,3607,21,,B,18,1,(()) ,[],
 K/KC/KCV.xml,KCVRE013,3607,22,,A,19,1,Can you see it by looking at it without touching it?,"[Can/MD, you/PRP, see/VB, it/PRP, by/IN, looking/VBG, at/IN, it/PRP, without/IN, touching/VBG, it/PRP, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB see) (NP (PRP it)) (PP (IN by) (S (VP (VBG looking) (PP (IN at) (NP (PRP it))) (PP (IN without) (S (VP (VBG touching) (NP (PRP it))))))))) (. ?)))
 K/KC/KCV.xml,KCVRE013,3607,23,,B,20,1,Sometimes you can but not always,"[Sometimes/RB, you/PRP, can/MD, but/CC, not/RB, always/RB]",(ROOT (FRAG (ADVP (RB Sometimes)) (NP (NP (PRP you)) (SBAR (S (VP (MD can) (PP (CC but) (PP (RB not) (ADVP (RB always))))))))))
-K/KC/KCV.xml,KCVRE013,3607,24,,A,21,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE013,3607,24,,A,21,1,(()) ,[],
 K/KC/KCV.xml,KCVRE013,3607,25,,B,22,1,'Cause you have different kind of canvases,"['Cause/VB, you/PRP, have/VBP, different/JJ, kind/NN, of/IN, canvases/NNS]",(ROOT (S (VP (VB 'Cause) (SBAR (S (NP (PRP you)) (VP (VBP have) (NP (NP (JJ different) (NN kind)) (PP (IN of) (NP (NNS canvases))))))))))
 K/KC/KCV.xml,KCVRE013,3607,26,,A,23,1,Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KC/KCV.xml,KCVRE013,3607,27,,B,24,1,And er,"[And/CC, er/NN]",(ROOT (FRAG (CC And) (NP (NN er))))
@@ -97,7 +97,7 @@ K/KC/KCV.xml,KCVRE013,3607,94,,A,71,1,Yes?,"[Yes/UH, ?/.]",(ROOT (INTJ (UH Yes) 
 K/KC/KCV.xml,KCVRE013,3607,95,,B,72,1,It's very beautiful because it has gorgon that's called it's I've forgot it,"[It/PRP, 's/VBZ, very/RB, beautiful/JJ, because/IN, it/PRP, has/VBZ, gorgon/NNP, that/WDT, 's/VBZ, called/VBN, it/PRP, 's/VBZ, I/PRP, 've/VBP, forgot/VBN, it/PRP]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB very) (JJ beautiful)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ has) (NP (NP (NNP gorgon)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBN called) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN forgot) (NP (PRP it))))))))))))))))))))
 K/KC/KCV.xml,KCVRE013,3607,96,,A,73,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KC/KCV.xml,KCVRE013,3607,97,,A,73,2,I never seen a radiator  <laugh> What?,"[I/PRP, never/RB, seen/VBD, a/DT, radiator/NN, What/WDT, ?/.]",(ROOT (S (NP (PRP I)) (ADVP (RB never)) (VP (VBD seen) (NP (NP (DT a) (NN radiator)) (SBAR (WHNP (WDT What))))) (. ?)))
-K/KC/KCV.xml,KCVRE013,3607,98,,B,74,1,<laugh> ,[],X
+K/KC/KCV.xml,KCVRE013,3607,98,,B,74,1,<laugh> ,[],
 K/KC/KCV.xml,KCVRE013,3607,99,,A,75,1,Where is it?,"[Where/WRB, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
 K/KC/KCV.xml,KCVRE013,3607,100,,A,75,2,The whole thing a gorgon,"[The/DT, whole/JJ, thing/NN, a/DT, gorgon/NNP]",(ROOT (NP (NP (DT The) (JJ whole) (NN thing)) (NP (DT a) (NNP gorgon))))
 K/KC/KCV.xml,KCVRE013,3607,101,,B,76,1,No not the whole thing.,"[No/DT, not/RB, the/DT, whole/JJ, thing/NN, ./.]",(ROOT (NP (NP (DT No) (RB not)) (NP (DT the) (JJ whole) (NN thing)) (. .)))

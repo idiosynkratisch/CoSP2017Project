@@ -1,9 +1,9 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE05G,2725,0,,A,1,1,"Oh, Vincent's one, eh Roger's probably about the next best man,(()) better of the two of us that's why.","[Oh/UH, ,/,, Vincent/NNP, 's/POS, one/CD, ,/,, eh/UH, Roger/NNP, 's/POS, probably/RB, about/IN, the/DT, next/JJ, best/JJS, man/NN, ,/,, better/JJR, of/IN, the/DT, two/CD, of/IN, us/PRP, that/DT, 's/VBZ, why/WRB, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (NP (NNP Vincent) (POS 's)) (PP (ADVP (NP (NP (CD one)) (PRN (, ,) (PP (NP (UH eh)) (PP (NP (NP (NNP Roger) (POS 's)) (NP (ADVP (RB probably)))) (IN about) (NP (DT the) (ADJP (JJ next) (JJS best)) (NN man)))) (, ,))) (JJR better)) (IN of) (NP (NP (DT the) (CD two)) (PP (IN of) (NP (PRP us) (DT that)))))) (VP (VBZ 's) (FRAG (WHADVP (WRB why)))) (. .)))"
-K/KB/KBK.xml,KBKRE05G,2725,1,,B,2,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05G,2725,1,,B,2,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05G,2725,2,,A,3,1,That's what gets you (()) ,"[That/DT, 's/VBZ, what/WP, gets/VBZ, you/PRP]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (VP (VBZ gets) (NP (PRP you))))))))
 K/KB/KBK.xml,KBKRE05G,2725,3,,B,4,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE05G,2725,4,,A,5,1,more than anything.(()) ,"[more/JJR, than/IN, anything/NN, ./.]",(ROOT (NP (NP (JJR more)) (PP (IN than) (NP (NN anything))) (. .)))
-K/KB/KBK.xml,KBKRE05G,2725,5,,B,6,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE05G,2725,6,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE05G,2725,5,,B,6,1,(()) ,[],
+K/KB/KBK.xml,KBKRE05G,2725,6,,A,7,1,(()) ,[],
 K/KB/KBK.xml,KBKRE05G,2725,7,,B,8,1,And you take part in most of these competitions?,"[And/CC, you/PRP, take/VBP, part/NN, in/IN, most/JJS, of/IN, these/DT, competitions/NNS, ?/.]",(ROOT (S (CC And) (NP (PRP you)) (VP (VBP take) (NP (NN part)) (PP (IN in) (NP (NP (JJS most)) (PP (IN of) (NP (DT these) (NNS competitions)))))) (. ?)))

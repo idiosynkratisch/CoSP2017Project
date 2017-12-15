@@ -1,14 +1,14 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE04T,2703,0,,A,1,1,"You know probably make it a bit easier, but it's not.","[You/PRP, know/VBP, probably/RB, make/VB, it/PRP, a/DT, bit/NN, easier/JJR, ,/,, but/CC, it/PRP, 's/VBZ, not/RB, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP know) (ADVP (RB probably)) (VP (VB make) (S (NP (PRP it)) (ADJP (NP (DT a) (NN bit)) (JJR easier)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ 's) (RB not))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,1,,A,1,2,(()) if you watch them people over there.,"[if/IN, you/PRP, watch/VBP, them/PRP, people/NNS, over/IN, there/RB, ./.]",(ROOT (FRAG (SBAR (IN if) (S (NP (PRP you)) (VP (VBP watch) (NP (PRP them)) (NP (NP (NNS people)) (PP (IN over) (NP (RB there))))))) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,2,,B,2,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE04T,2703,3,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,2,,B,2,1,(()) ,[],
+K/KB/KBK.xml,KBKRE04T,2703,3,,A,3,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,4,,B,4,1,"Really, well what'll you call this croquet?","[Really/RB, ,/,, well/RB, what/WP, 'll/MD, you/PRP, call/VB, this/DT, croquet/NNP, ?/.]","(ROOT (PRN (ADVP (RB Really)) (, ,) (SBAR (ADVP (RB well)) (WHNP (WP what)) (S (VP (MD 'll) (NP (PRP you)) (S (VP (VB call) (NP (DT this) (NNP croquet)))))) (. ?))))"
 K/KB/KBK.xml,KBKRE04T,2703,5,,A,5,1,Croquet Association.,"[Croquet/NNP, Association/NNP, ./.]",(ROOT (NP (NNP Croquet) (NNP Association) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,6,,B,6,1,Association.,"[Association/NNP, ./.]",(ROOT (FRAG (NP (NNP Association)) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,7,,A,7,1,"Eh, I don't think (()) .","[Eh/UH, ,/,, I/PRP, don/VBP, 't/PRP, think/VB, ./.]","(ROOT (S (INTJ (UH Eh)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think)))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,8,,B,8,1,"And they've got two matches going on together have they, they're, they've different colour balls?","[And/CC, they/PRP, 've/VBP, got/VBD, two/CD, matches/NNS, going/VBG, on/IN, together/RB, have/VBP, they/PRP, ,/,, they/PRP, 're/VBP, ,/,, they/PRP, 've/VBP, different/JJ, colour/NN, balls/NNS, ?/.]","(ROOT (S (CC And) (S (NP (PRP they)) (VP (VBP 've) (VP (VBD got) (SBAR (S (NP (NP (CD two) (NNS matches)) (VP (VBG going) (PP (IN on) (ADVP (RB together))))) (VP (VBP have) (NP (PRP they)))))))) (PRN (, ,) (S (NP (PRP they)) (VP (VBP 're))) (, ,)) (S (NP (PRP they)) (VP (VBP 've) (NP (JJ different) (NN colour) (NNS balls)))) (. ?)))"
-K/KB/KBK.xml,KBKRE04T,2703,9,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,9,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,10,,B,10,1,Oh I see.,"[Oh/UH, I/PRP, see/VBP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,11,,A,11,1,She can't even get the hang of it.,"[She/PRP, can/MD, 't/PRP, even/RB, get/VB, the/DT, hang/NNP, of/IN, it/PRP, ./.]",(ROOT (S (NP (PRP She)) (VP (MD can) (NP (PRP 't)) (S (VP (ADVP (RB even)) (VB get) (NP (NP (DT the) (NNP hang)) (PP (IN of) (NP (PRP it))))))) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,12,,A,11,2,(()) arrangements.,"[arrangements/NNS, ./.]",(ROOT (NP (NNS arrangements) (. .)))
@@ -20,19 +20,19 @@ K/KB/KBK.xml,KBKRE04T,2703,17,,B,16,1,Yes please.,"[Yes/UH, please/UH, ./.]",(RO
 K/KB/KBK.xml,KBKRE04T,2703,18,,A,17,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,19,,A,17,2,"You got to have, got to to keep (()) .","[You/PRP, got/VBD, to/TO, have/VB, ,/,, got/VBD, to/TO, to/TO, keep/VB, ./.]","(ROOT (S (NP (PRP You)) (VP (VP (VBD got) (S (VP (TO to) (VP (VB have))))) (, ,) (VP (VBD got) (S (VP (TO to) (S (VP (TO to) (VP (VB keep)))))))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,20,,B,18,1,Yes (()) .,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,21,,A,19,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,21,,A,19,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,22,,B,20,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,23,,A,21,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE04T,2703,24,,B,22,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,23,,A,21,1,(()) ,[],
+K/KB/KBK.xml,KBKRE04T,2703,24,,B,22,1,<laugh> ,[],
 K/KB/KBK.xml,KBKRE04T,2703,25,,A,23,1,That has been caught (()) .,"[That/DT, has/VBZ, been/VBN, caught/VBN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ has) (VP (VBN been) (VP (VBN caught)))) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,26,,B,24,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,26,,B,24,1,<laugh> ,[],
 K/KB/KBK.xml,KBKRE04T,2703,27,,A,25,1,Taking the (()) .,"[Taking/VBG, the/DT, ./.]",(ROOT (S (VP (VBG Taking) (NP (DT the))) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,28,,B,26,1,"Yeah, sorry, I was miles away, I'd lost anyway mentally, I mentally I lost.","[Yeah/UH, ,/,, sorry/JJ, ,/,, I/PRP, was/VBD, miles/NNS, away/RB, ,/,, I/PRP, 'd/MD, lost/VBN, anyway/RB, mentally/RB, ,/,, I/PRP, mentally/RB, I/PRP, lost/VBD, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (S (S (ADJP (JJ sorry))) (, ,) (NP (PRP I)) (VP (VBD was) (NP (NNS miles)) (ADVP (RB away)))) (, ,) (S (NP (PRP I)) (VP (MD 'd) (VP (VBN lost) (ADVP (RB anyway)) (ADVP (RB mentally)))))) (, ,) (NP (PRP I)) (NP (RB mentally) (PRP I)) (VP (VBD lost)) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,29,,A,27,1,Did you?,"[Did/VBD, you/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP you))) (. ?)))
 K/KB/KBK.xml,KBKRE04T,2703,30,,B,28,1,"Yes, yes.","[Yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH yes) (. .))))"
 K/KB/KBK.xml,KBKRE04T,2703,31,,A,29,1,"Now I had the choice of going first,(()) , so if I choose to go first then you can choose the colours.(()) .","[Now/RB, I/PRP, had/VBD, the/DT, choice/NN, of/IN, going/VBG, first/RB, ,/,, ,/,, so/RB, if/IN, I/PRP, choose/VBP, to/TO, go/VB, first/RB, then/RB, you/PRP, can/MD, choose/VB, the/DT, colours/NNS, ./., ./.]","(ROOT (S (ADVP (RB Now)) (NP (PRP I)) (VP (VBD had) (NP (NP (DT the) (NN choice)) (PP (IN of) (S (VP (VP (VBG going) (ADVP (RB first))) (, ,) (VP (, ,) (SBAR (RB so) (IN if) (S (NP (PRP I)) (VP (VBP choose) (S (VP (TO to) (VP (VB go) (S (ADVP (RB first)) (ADVP (RB then)) (NP (PRP you)) (VP (MD can) (VP (VB choose) (NP (DT the) (NNS colours))))))))) (. .))))))))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,32,,B,30,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,33,,A,31,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,33,,A,31,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,34,,B,32,1,"Occasionally you're forced into the other then you'll, then you'll, down aren't you?","[Occasionally/RB, you/PRP, 're/VBP, forced/VBN, into/IN, the/DT, other/JJ, then/RB, you/PRP, 'll/MD, ,/,, then/RB, you/PRP, 'll/MD, ,/,, down/IN, aren/NNP, 't/PRP, you/PRP, ?/.]","(ROOT (S (ADVP (RB Occasionally)) (NP (PRP you)) (VP (VBP 're) (VP (VBN forced) (PP (IN into) (NP (NP (NP (DT the) (JJ other)) (SBAR (S (S (ADVP (RB then)) (NP (PRP you)) (VP (MD 'll))) (, ,) (RB then) (S (NP (PRP you)) (VP (MD 'll)))))) (, ,) (ADVP (IN down) (NP (NNP aren))) (NP (NP (PRP 't)) (NP (PRP you))))))) (. ?)))"
 K/KB/KBK.xml,KBKRE04T,2703,35,,A,33,1,"Of course you are, you'll just (()) .","[Of/IN, course/NN, you/PRP, are/VBP, ,/,, you/PRP, 'll/MD, just/RB, ./.]","(ROOT (S (S (PP (IN Of) (NP (NN course))) (NP (PRP you)) (VP (VBP are))) (, ,) (NP (PRP you)) (VP (MD 'll) (ADVP (RB just))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,36,,A,33,2,"Erm, as of one, I think  (()) first.","[Erm/NN, ,/,, as/IN, of/IN, one/CD, ,/,, I/PRP, think/VBP, first/RB, ./.]","(ROOT (S (NP (NN Erm)) (, ,) (PP (IN as) (PP (IN of) (NP (CD one)))) (, ,) (NP (PRP I)) (VP (VBP think) (ADVP (RB first))) (. .)))"
@@ -57,7 +57,7 @@ K/KB/KBK.xml,KBKRE04T,2703,54,,A,47,1,"So you, you would normally start here.","
 K/KB/KBK.xml,KBKRE04T,2703,55,,B,48,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,56,,A,49,1,Which (()) .,"[Which/WDT, ./.]",(ROOT (FRAG (WHNP (WDT Which)) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,57,,B,50,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,58,,A,51,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,58,,A,51,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,59,,B,52,1,"Right, yep, O K.","[Right/NN, ,/,, yep/NN, ,/,, O/NN, K/NN, ./.]","(ROOT (NP (NP (NN Right)) (, ,) (NP (NP (NN yep)) (, ,) (NP (NN O) (NN K))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,60,,B,52,2,"Rather over muscled, control it better yes.","[Rather/RB, over/IN, muscled/VBN, ,/,, control/VBP, it/PRP, better/JJR, yes/UH, ./.]","(ROOT (FRAG (ADVP (RB Rather)) (NP (NP (IN over)) (VP (VP (VBN muscled)) (, ,) (VP (VBP control) (S (NP (PRP it)) (ADJP (JJR better)))) (NP (UH yes)))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,61,,A,53,1,(()) joining up at my thumb.,"[joining/VBG, up/RP, at/IN, my/PRP$, thumb/NN, ./.]",(ROOT (S (VP (VBG joining) (PRT (RP up)) (PP (IN at) (NP (PRP$ my) (NN thumb)))) (. .)))
@@ -71,9 +71,9 @@ K/KB/KBK.xml,KBKRE04T,2703,68,,B,60,1,Yep.,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (.
 K/KB/KBK.xml,KBKRE04T,2703,69,,A,61,1,"(()) and eh,(()) --","[and/CC, eh/UH, ,/,, Ball/NN, goes/VBZ, ./.]","(ROOT (S (FRAG (PP (CC and) (NP (UH eh)))) (, ,) (NP (NN Ball)) (VP (VBZ goes)) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,70,,A,61,2,--Ball goes (()) .,"[and/CC, eh/UH, ,/,, Ball/NN, goes/VBZ, ./.]","(ROOT (S (FRAG (PP (CC and) (NP (UH eh)))) (, ,) (NP (NN Ball)) (VP (VBZ goes)) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,71,,B,62,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,72,,A,63,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,72,,A,63,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,73,,B,64,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,74,,A,65,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,74,,A,65,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,75,,B,66,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,76,,A,67,1,"(()) can't see, can't remember what the are balls behind or wha- --","[can/MD, 't/PRP, see/VB, ,/,, can/MD, 't/PRP, remember/VB, what/WP, the/DT, are/VBP, balls/NNS, behind/IN, or/CC, wha-/NN, where/WRB, they/PRP, are/VBP, ./.]","(ROOT (SQ (S (MD can) (NP (PRP 't)) (VP (VB see))) (, ,) (SQ (MD can) (NP (PRP 't)) (VP (VB remember) (SBAR (WHNP (WP what)) (S (NP (DT the)) (VP (VBP are) (NP (NP (NP (NNS balls)) (PP (IN behind))) (CC or) (NP (NP (NN wha-)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP are))))))))))) (. .)))"
 K/KB/KBK.xml,KBKRE04T,2703,77,,A,67,2,--where they are.,"[can/MD, 't/PRP, see/VB, ,/,, can/MD, 't/PRP, remember/VB, what/WP, the/DT, are/VBP, balls/NNS, behind/IN, or/CC, wha-/NN, where/WRB, they/PRP, are/VBP, ./.]","(ROOT (SQ (S (MD can) (NP (PRP 't)) (VP (VB see))) (, ,) (SQ (MD can) (NP (PRP 't)) (VP (VB remember) (SBAR (WHNP (WP what)) (S (NP (DT the)) (VP (VBP are) (NP (NP (NP (NNS balls)) (PP (IN behind))) (CC or) (NP (NP (NN wha-)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP are))))))))))) (. .)))"
@@ -85,7 +85,7 @@ K/KB/KBK.xml,KBKRE04T,2703,82,,A,71,1,Move over to the blue.,"[Move/NN, over/IN,
 K/KB/KBK.xml,KBKRE04T,2703,83,,B,72,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,84,,A,73,1,And you (()) .,"[And/CC, you/PRP, ./.]",(ROOT (S (NP (CC And)) (VP (ADVP (PRP you))) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,85,,B,74,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBK.xml,KBKRE04T,2703,86,,A,75,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04T,2703,86,,A,75,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04T,2703,87,,B,76,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,88,,A,77,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KB/KBK.xml,KBKRE04T,2703,89,,A,77,2,"Yes, you can see when the ball goes off, then  (()) you'll end up in the far corner.","[Yes/UH, ,/,, you/PRP, can/MD, see/VB, when/WRB, the/DT, ball/NN, goes/VBZ, off/RB, ,/,, then/RB, you/PRP, 'll/MD, end/VB, up/RP, in/IN, the/DT, far/JJ, corner/NN, ./.]","(ROOT (S (S (INTJ (UH Yes)) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB see) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN ball)) (VP (VBZ goes) (ADVP (RB off)))))))) (, ,) (RB then) (S (NP (PRP you)) (VP (MD 'll) (VP (VB end) (PRT (RP up)) (PP (IN in) (NP (DT the) (JJ far) (NN corner)))))) (. .)))"

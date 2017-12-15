@@ -31,7 +31,7 @@ K/KD/KDM.xml,KDMRE02S,30723,28,,A,17,2,--to buy that one ,"[anything/NN, to/TO, 
 K/KD/KDM.xml,KDMRE02S,30723,29,,B,18,1,Oh well.,"[Oh/UH, well/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB well)))) (. .)))
 K/KD/KDM.xml,KDMRE02S,30723,30,,A,19,1,so er  --,"[so/RB, er/NN, but/CC, it/PRP, 's/VBZ, stuck/VBN, there/RB, for/IN, er/NN, weeks/NNS, on/IN, end/NN, ,/,, you/PRP, know/VBP]","(ROOT (S (SBAR (RB so) (S (NP (NP (NN er)) (PP (CC but) (NP (PRP it)))) (VP (VBZ 's) (VP (VBN stuck) (ADVP (RB there)) (PP (IN for) (NP (NP (NN er) (NNS weeks)) (PP (IN on) (NP (NN end))))))))) (, ,) (NP (PRP you)) (VP (VBP know))))"
 K/KD/KDM.xml,KDMRE02S,30723,31,,A,19,2,"--but it's stuck there for er weeks on end, you know ","[so/RB, er/NN, but/CC, it/PRP, 's/VBZ, stuck/VBN, there/RB, for/IN, er/NN, weeks/NNS, on/IN, end/NN, ,/,, you/PRP, know/VBP]","(ROOT (S (SBAR (RB so) (S (NP (NP (NN er)) (PP (CC but) (NP (PRP it)))) (VP (VBZ 's) (VP (VBN stuck) (ADVP (RB there)) (PP (IN for) (NP (NP (NN er) (NNS weeks)) (PP (IN on) (NP (NN end))))))))) (, ,) (NP (PRP you)) (VP (VBP know))))"
-K/KD/KDM.xml,KDMRE02S,30723,32,,B,20,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE02S,30723,32,,B,20,1,(()) ,[],
 K/KD/KDM.xml,KDMRE02S,30723,33,,A,21,1,we've been finished it,"[we/PRP, 've/VBP, been/VBN, finished/VBN, it/PRP]",(ROOT (S (NP (PRP we)) (VP (VBP 've) (VP (VBN been) (VP (VBN finished) (NP (PRP it)))))))
 K/KD/KDM.xml,KDMRE02S,30723,34,,B,22,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KDM.xml,KDMRE02S,30723,35,,A,23,1,bit of a (()) .,"[bit/NN, of/IN, a/DT, ./.]",(ROOT (NP (NP (NN bit)) (QP (IN of) (DT a)) (. .)))

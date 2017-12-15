@@ -7,6 +7,6 @@ K/KE/KE2.xml,KE2RE01B,38603,4,,A,1,5,If it is the  (()) Hindu Sage begins with a
 K/KE/KE2.xml,KE2RE01B,38603,5,,B,2,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KE/KE2.xml,KE2RE01B,38603,6,,A,3,1,And I don't really  --,"[And/CC, I/PRP, don/VBP, 't/PRP, really/RB, I/PRP, can/MD, 't/PRP, think/VB, of/IN, one/CD, ./.]",(ROOT (S (CC And) (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (ADVP (RB really)) (SBAR (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB think) (PP (IN of) (NP (CD one))))))))) (. .)))
 K/KE/KE2.xml,KE2RE01B,38603,7,,A,3,2,--I can't think of one.,"[And/CC, I/PRP, don/VBP, 't/PRP, really/RB, I/PRP, can/MD, 't/PRP, think/VB, of/IN, one/CD, ./.]",(ROOT (S (CC And) (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (ADVP (RB really)) (SBAR (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB think) (PP (IN of) (NP (CD one))))))))) (. .)))
-K/KE/KE2.xml,KE2RE01B,38603,8,,B,4,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE01B,38603,8,,B,4,1,(()) ,[],
 K/KE/KE2.xml,KE2RE01B,38603,9,,A,5,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
-K/KE/KE2.xml,KE2RE01B,38603,10,,B,6,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE01B,38603,10,,B,6,1,(()) ,[],

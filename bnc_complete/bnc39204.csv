@@ -6,7 +6,7 @@ K/KE/KE2.xml,KE2RE02M,39204,3,,B,4,1,name (()) ?,"[name/VB, ?/.]",(ROOT (SQ (VP 
 K/KE/KE2.xml,KE2RE02M,39204,4,,A,5,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE2.xml,KE2RE02M,39204,5,,A,5,2,It's in here.,"[It/PRP, 's/VBZ, in/IN, here/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN in) (NP (RB here)))) (. .)))
 K/KE/KE2.xml,KE2RE02M,39204,6,,B,6,1,Well I never ever  (()) ,"[Well/RB, I/PRP, never/RB, ever/RB]",(ROOT (FRAG (ADVP (RB Well)) (ADVP (NP (NP (PRP I)) (ADVP (RB never))) (RB ever))))
-K/KE/KE2.xml,KE2RE02M,39204,7,,A,7,1,<clears throat> ,[],X
+K/KE/KE2.xml,KE2RE02M,39204,7,,A,7,1,<clears throat> ,[],
 K/KE/KE2.xml,KE2RE02M,39204,8,,B,8,1,heard of them.,"[heard/VBN, of/IN, them/PRP, ./.]",(ROOT (S (VP (VBN heard) (PP (IN of) (NP (PRP them)))) (. .)))
 K/KE/KE2.xml,KE2RE02M,39204,9,,A,9,1,Just suddenly remembered it.,"[Just/RB, suddenly/RB, remembered/VBD, it/PRP, ./.]",(ROOT (SINV (ADVP (RB Just)) (ADVP (RB suddenly)) (VP (VBD remembered)) (NP (PRP it)) (. .)))
 K/KE/KE2.xml,KE2RE02M,39204,10,,B,10,1,"Mm now what does it say it was, erm","[Mm/NN, now/RB, what/WP, does/VBZ, it/PRP, say/VB, it/PRP, was/VBD, ,/,, erm/NN]","(ROOT (S (NP (NP (NP (NN Mm)) (ADVP (RB now)) (SBAR (WHNP (WP what)) (S (VP (VBZ does) (S (NP (PRP it)) (VP (VB say) (SBAR (S (NP (PRP it)) (VP (VBD was)))))))))) (, ,) (NP (NN erm)))))"
@@ -14,7 +14,7 @@ K/KE/KE2.xml,KE2RE02M,39204,11,,A,11,1,American pop star or something wasn't it?
 K/KE/KE2.xml,KE2RE02M,39204,12,,B,12,1,Mm  --,"[Mm/NN, oh/NN, well/RB]",(ROOT (FRAG (NP (NP (NN Mm) (NN oh)) (ADVP (RB well)))))
 K/KE/KE2.xml,KE2RE02M,39204,13,,B,12,2,--oh well  <laugh> ,"[Mm/NN, oh/NN, well/RB]",(ROOT (FRAG (NP (NP (NN Mm) (NN oh)) (ADVP (RB well)))))
 K/KE/KE2.xml,KE2RE02M,39204,14,,A,13,1,"An  (()) microwave,(()) ","[An/DT, microwave/NN, ,/,]","(ROOT (FRAG (PP (DT An) (NP (NN microwave))) (, ,)))"
-K/KE/KE2.xml,KE2RE02M,39204,15,,B,14,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE02M,39204,15,,B,14,1,(()) ,[],
 K/KE/KE2.xml,KE2RE02M,39204,16,,A,15,1,(()) perhaps  (()) horse play interests here.,"[perhaps/RB, horse/NN, play/NN, interests/NNS, here/RB, ./.]",(ROOT (NP (NP (RB perhaps) (NP (NN horse) (NN play) (NNS interests)) (ADVP (RB here))) (. .)))
 K/KE/KE2.xml,KE2RE02M,39204,17,,A,15,2,I've got one here and I can't get it.,"[I/PRP, 've/VBP, got/VBD, one/CD, here/RB, and/CC, I/PRP, can/MD, 't/PRP, get/VB, it/PRP, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (CD one)) (ADVP (RB here))))) (CC and) (S (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB get) (NP (PRP it)))))) (. .)))
 K/KE/KE2.xml,KE2RE02M,39204,18,,B,16,1,No?,"[No/DT, ?/.]",(ROOT (FRAG (NP (DT No)) (. ?)))

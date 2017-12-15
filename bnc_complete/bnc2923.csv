@@ -7,5 +7,5 @@ K/KB/KBK.xml,KBKRE06N,2923,4,,B,4,1,Do they have stalagmites?,"[Do/VB, they/PRP,
 K/KB/KBK.xml,KBKRE06N,2923,5,,A,5,1,And stalactites.,"[And/CC, stalactites/NNS, ./.]",(ROOT (S (NP (CC And)) (ADJP (NNS stalactites)) (. .)))
 K/KB/KBK.xml,KBKRE06N,2923,6,,A,5,2,What are they called where they meet in the middle?,"[What/WP, are/VBP, they/PRP, called/VBN, where/WRB, they/PRP, meet/VBP, in/IN, the/DT, middle/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (PRP they)) (VP (VBN called) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (VBP meet) (PP (IN in) (NP (DT the) (NN middle)))))))) (. ?)))
 K/KB/KBK.xml,KBKRE06N,2923,7,,A,5,3,Columns I suppose or pillars.,"[Columns/NNS, I/PRP, suppose/VBP, or/CC, pillars/NNS, ./.]",(ROOT (NP (NP (NP (NP (NNS Columns)) (SBAR (S (NP (PRP I)) (VP (VBP suppose))))) (CC or) (NP (NNS pillars))) (. .)))
-K/KB/KBK.xml,KBKRE06N,2923,8,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06N,2923,8,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE06N,2923,9,,A,7,1,Don't know.,"[Don/NNP, 't/PRP, know/VBP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP know)) (. .)))

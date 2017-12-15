@@ -14,9 +14,9 @@ K/KD/KDE.xml,KDERE00D,6803,11,,B,6,3,What's the fridge for?,"[What/WP, 's/VBZ, t
 K/KD/KDE.xml,KDERE00D,6803,12,,B,6,4,Mummy?,"[Mummy/NN, ?/.]",(ROOT (FRAG (NP (NN Mummy)) (. ?)))
 K/KD/KDE.xml,KDERE00D,6803,13,,B,6,5,What's he want.,"[What/WP, 's/VBZ, he/PRP, want/VB, ./.]",(ROOT (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (NP (PRP he))))) (VP (VB want)) (. .)))
 K/KD/KDE.xml,KDERE00D,6803,14,,A,7,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
-K/KD/KDE.xml,KDERE00D,6803,15,,B,8,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00D,6803,15,,B,8,1,(()) ,[],
 K/KD/KDE.xml,KDERE00D,6803,16,,A,9,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
-K/KD/KDE.xml,KDERE00D,6803,17,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00D,6803,17,,B,10,1,(()) ,[],
 K/KD/KDE.xml,KDERE00D,6803,18,,A,11,1,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
 K/KD/KDE.xml,KDERE00D,6803,19,,B,12,1,I (()) ,[I/PRP],(ROOT (FRAG (NP (PRP I))))
 K/KD/KDE.xml,KDERE00D,6803,20,,A,13,1,Oh umm oars.,"[Oh/UH, umm/NN, oars/NNS, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NN umm) (NNS oars)))) (. .)))

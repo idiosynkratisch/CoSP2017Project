@@ -40,7 +40,7 @@ K/KP/KPJ.xml,KPJRE004,67705,37,,A,15,4,--it's only what I've heard it's ,"[Er/NN
 K/KP/KPJ.xml,KPJRE004,67705,38,,B,16,1,See how it goes.,"[See/VB, how/WRB, it/PRP, goes/VBZ, ./.]",(ROOT (S (VP (VB See) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ goes))))) (. .)))
 K/KP/KPJ.xml,KPJRE004,67705,39,,B,16,2,Aye ,[Aye/NNP],(ROOT (NP (NNP Aye)))
 K/KP/KPJ.xml,KPJRE004,67705,40,,A,17,1,it's not,"[it/PRP, 's/VBZ, not/RB]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (RB not))))
-K/KP/KPJ.xml,KPJRE004,67705,41,,B,18,1,(()) ,[],X
+K/KP/KPJ.xml,KPJRE004,67705,41,,B,18,1,(()) ,[],
 K/KP/KPJ.xml,KPJRE004,67705,42,,A,19,1,it's not on paper yet.,"[it/PRP, 's/VBZ, not/RB, on/IN, paper/NN, yet/RB, ./.]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (RB not) (PP (IN on) (NP (NN paper))) (ADVP (RB yet))) (. .)))
 K/KP/KPJ.xml,KPJRE004,67705,43,,B,20,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KP/KPJ.xml,KPJRE004,67705,44,,B,20,2,Jim came this morning.,"[Jim/NNP, came/VBD, this/DT, morning/NN, ./.]",(ROOT (S (NP (NNP Jim)) (VP (VBD came) (NP (DT this) (NN morning))) (. .)))

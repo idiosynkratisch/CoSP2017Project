@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KC9.xml,KC9RE00F,14105,0,,A,1,1,I thought it might of been a women that was  (()) .,"[I/PRP, thought/VBD, it/PRP, might/MD, of/IN, been/VBN, a/DT, women/NNS, that/WDT, was/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (MD might) (PP (IN of)) (VP (VBN been) (NP (NP (DT a) (NNS women)) (SBAR (WHNP (WDT that)) (S (VP (VBD was)))))))))) (. .)))
 K/KC/KC9.xml,KC9RE00F,14105,1,,B,2,1,(()) .,[./.],(ROOT (NP (. .)))
-K/KC/KC9.xml,KC9RE00F,14105,2,,A,3,1,<laugh> ,[],X
+K/KC/KC9.xml,KC9RE00F,14105,2,,A,3,1,<laugh> ,[],
 K/KC/KC9.xml,KC9RE00F,14105,3,,B,4,1,You were going to help  (()) with the woman .,"[You/PRP, were/VBD, going/VBG, to/TO, help/VB, with/IN, the/DT, woman/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD were) (VP (VBG going) (S (VP (TO to) (VP (VB help) (PP (IN with) (NP (DT the) (NN woman)))))))) (. .)))
 K/KC/KC9.xml,KC9RE00F,14105,4,,A,5,1,I'm going to do my good deed for the day.,"[I/PRP, 'm/VBP, going/VBG, to/TO, do/VB, my/PRP$, good/JJ, deed/NN, for/IN, the/DT, day/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB do) (NP (PRP$ my) (JJ good) (NN deed)) (PP (IN for) (NP (DT the) (NN day)))))))) (. .)))
 K/KC/KC9.xml,KC9RE00F,14105,5,,B,6,1,Ah that's nice of you  --,"[Ah/NN, that/WDT, 's/VBZ, nice/JJ, of/IN, you/PRP, get/VBP, Stella/NNP, something/NN, in/IN, here/RB, ./.]",(ROOT (S (NP (NP (NN Ah)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJ nice) (PP (IN of) (NP (PRP you)))))))) (VP (VBP get) (NP (NNP Stella) (NN something)) (PP (IN in) (NP (RB here)))) (. .)))

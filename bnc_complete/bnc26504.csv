@@ -150,7 +150,7 @@ K/KB/KBP.xml,KBPRE002,26504,147,,A,87,6,Oh Wednesday it was going to be.,"[Oh/UH
 K/KB/KBP.xml,KBPRE002,26504,148,,B,88,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE002,26504,149,,A,89,1,"Wednesday, that's right w- <laughing> weather permitting Wednesday </laughing> .","[Wednesday/NNP, ,/,, that/DT, 's/VBZ, right/JJ, w-/JJ, weather/NN, permitting/VBG, Wednesday/NNP, ./.]","(ROOT (S (NP (NNP Wednesday)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (JJ right) (JJ w-) (NN weather)) (VP (VBG permitting) (NP (NNP Wednesday))))) (. .)))"
 K/KB/KBP.xml,KBPRE002,26504,150,,B,90,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KBP.xml,KBPRE002,26504,151,,A,91,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE002,26504,151,,A,91,1,(()) ,[],
 K/KB/KBP.xml,KBPRE002,26504,152,,B,92,1,It's taking them long enough to,"[It/PRP, 's/VBZ, taking/VBG, them/PRP, long/RB, enough/RB, to/TO]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG taking) (NP (PRP them)) (ADVP (RB long) (RB enough)) (PP (TO to))))))
 K/KB/KBP.xml,KBPRE002,26504,153,,A,93,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBP.xml,KBPRE002,26504,154,,B,94,1,come round for their er  <laughing> spoils isn't it </laughing> ?,"[come/VB, round/NN, for/IN, their/PRP$, er/NN, spoils/NNS, isn/VBP, 't/PRP, it/PRP, ?/.]",(ROOT (SQ (VP (VB come) (NP (NN round)) (SBAR (IN for) (S (NP (PRP$ their) (NN er) (NNS spoils)) (VP (VBP isn) (S (NP (PRP 't)) (NP (PRP it))))))) (. ?)))

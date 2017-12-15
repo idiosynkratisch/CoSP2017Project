@@ -7,15 +7,15 @@ K/KP/KPE.xml,KPERE008,135003,4,,A,3,1,Ah?,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. 
 K/KP/KPE.xml,KPERE008,135003,5,,B,4,1,What do we have to do?,"[What/WP, do/VBP, we/PRP, have/VBP, to/TO, do/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB do)))))) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,6,,A,5,1,In this lesson?,"[In/IN, this/DT, lesson/NN, ?/.]",(ROOT (FRAG (PP (IN In) (NP (DT this) (NN lesson))) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,7,,B,6,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KP/KPE.xml,KPERE008,135003,8,,A,7,1,<laugh> ,[],X
+K/KP/KPE.xml,KPERE008,135003,8,,A,7,1,<laugh> ,[],
 K/KP/KPE.xml,KPERE008,135003,9,,A,7,2,We have to learn  --,"[We/PRP, have/VBP, to/TO, learn/VB, she/PRP, 's/VBZ, gonna/NNP, give/VB, us/PRP, a/DT, photo/NN, or/CC, something/NN, and/CC, we/PRP, have/VBP, to/TO]",(ROOT (S (NP (PRP We)) (VP (VBP have) (S (VP (TO to) (VP (VB learn) (S (S (NP (PRP she)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VB give) (NP (PRP us)) (NP (DT a) (NN photo) (CC or) (NN something)))))) (CC and) (S (NP (PRP we)) (VP (VBP have) (S (VP (TO to))))))))))))
 K/KP/KPE.xml,KPERE008,135003,10,,A,7,3,--she's gonna give us a photo or something and we have to  (()) ,"[We/PRP, have/VBP, to/TO, learn/VB, she/PRP, 's/VBZ, gonna/NNP, give/VB, us/PRP, a/DT, photo/NN, or/CC, something/NN, and/CC, we/PRP, have/VBP, to/TO]",(ROOT (S (NP (PRP We)) (VP (VBP have) (S (VP (TO to) (VP (VB learn) (S (S (NP (PRP she)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VB give) (NP (PRP us)) (NP (DT a) (NN photo) (CC or) (NN something)))))) (CC and) (S (NP (PRP we)) (VP (VBP have) (S (VP (TO to))))))))))))
 K/KP/KPE.xml,KPERE008,135003,11,,B,8,1,A photo?,"[A/DT, photo/NN, ?/.]",(ROOT (NP (DT A) (NN photo) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,12,,A,9,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KP/KPE.xml,KPERE008,135003,13,,B,10,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KP/KPE.xml,KPERE008,135003,14,,A,11,1,(()) ,[],X
+K/KP/KPE.xml,KPERE008,135003,14,,A,11,1,(()) ,[],
 K/KP/KPE.xml,KPERE008,135003,15,,A,11,2,(()) spot the difference.,"[spot/VB, the/DT, difference/NN, ./.]",(ROOT (S (VP (VB spot) (NP (DT the) (NN difference))) (. .)))
-K/KP/KPE.xml,KPERE008,135003,16,,B,12,1,<laugh> ,[],X
+K/KP/KPE.xml,KPERE008,135003,16,,B,12,1,<laugh> ,[],
 K/KP/KPE.xml,KPERE008,135003,17,,A,13,1,Fuck off.,"[Fuck/VB, off/RP, ./.]",(ROOT (S (VP (VB Fuck) (PRT (RP off))) (. .)))
 K/KP/KPE.xml,KPERE008,135003,18,,B,14,1,<laugh> --,"[Said/VBD, she/PRP, wants/VBZ, all/DT, of/IN, that/DT, in/IN, ./.]",(ROOT (S (VP (VBD Said) (SBAR (S (NP (PRP she)) (VP (VBZ wants) (NP (NP (DT all)) (PP (IN of) (NP (DT that)))) (PP (IN in)))))) (. .)))
 K/KP/KPE.xml,KPERE008,135003,19,,B,14,2,--Said she wants all of that in.,"[Said/VBD, she/PRP, wants/VBZ, all/DT, of/IN, that/DT, in/IN, ./.]",(ROOT (S (VP (VBD Said) (SBAR (S (NP (PRP she)) (VP (VBZ wants) (NP (NP (DT all)) (PP (IN of) (NP (DT that)))) (PP (IN in)))))) (. .)))
@@ -31,9 +31,9 @@ K/KP/KPE.xml,KPERE008,135003,28,,A,21,2,(()) can't remember what her name is.,"[
 K/KP/KPE.xml,KPERE008,135003,29,,A,21,3,Miss Gemma <<REDACTED (name)>> .,"[Miss/NNP, Gemma/NNP, >/JJR, ./.]",(ROOT (S (NP (NNP Miss) (NNP Gemma)) (ADJP (JJR >)) (. .)))
 K/KP/KPE.xml,KPERE008,135003,30,,A,21,4,"What's she doing, let you do?","[What/WP, 's/VBZ, she/PRP, doing/VBG, ,/,, let/VB, you/PRP, do/VB, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP she)) (VP (VBG doing) (, ,) (S (VP (VB let) (S (NP (PRP you)) (VP (VB do))))))) (. ?)))"
 K/KP/KPE.xml,KPERE008,135003,31,,A,21,5,"No, not Gemma.","[No/DT, ,/,, not/RB, Gemma/NNP, ./.]","(ROOT (NP (NP (DT No)) (, ,) (NP (RB not) (NNP Gemma)) (. .)))"
-K/KP/KPE.xml,KPERE008,135003,32,,A,21,6,(()) ,[],X
+K/KP/KPE.xml,KPERE008,135003,32,,A,21,6,(()) ,[],
 K/KP/KPE.xml,KPERE008,135003,33,,A,21,7,Grace,[Grace/NNP],(ROOT (NP (NNP Grace)))
-K/KP/KPE.xml,KPERE008,135003,34,,A,21,8,(()) ,[],X
+K/KP/KPE.xml,KPERE008,135003,34,,A,21,8,(()) ,[],
 K/KP/KPE.xml,KPERE008,135003,35,,A,21,9,Grace,[Grace/NNP],(ROOT (NP (NNP Grace)))
 K/KP/KPE.xml,KPERE008,135003,36,,B,22,1,Yeah?,"[Yeah/UH, ?/.]",(ROOT (INTJ (UH Yeah) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,37,,A,23,1,What was she gonna let you do?,"[What/WP, was/VBD, she/PRP, gonna/VB, let/VB, you/PRP, do/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (PRP she)) (VP (VB gonna) (VP (VB let) (S (NP (PRP you)) (VP (VB do)))))) (. ?)))
@@ -42,9 +42,9 @@ K/KP/KPE.xml,KPERE008,135003,39,,A,25,1,So what's the  (()) then?,"[So/RB, what/
 K/KP/KPE.xml,KPERE008,135003,40,,A,25,2,Oh we had to do that erm Neighbours  <laughing> yesterday </laughing> .,"[Oh/UH, we/PRP, had/VBD, to/TO, do/VB, that/DT, erm/NN, Neighbours/NNS, yesterday/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP we)) (VP (VBD had) (S (VP (TO to) (VP (VB do) (NP (DT that) (NN erm) (NNS Neighbours)) (NP (NN yesterday))))))) (. .)))
 K/KP/KPE.xml,KPERE008,135003,41,,A,25,3,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,42,,B,26,1,Neighbours?,"[Neighbours/NNS, ?/.]",(ROOT (NP (NNS Neighbours) (. ?)))
-K/KP/KPE.xml,KPERE008,135003,43,,A,27,1,<laugh> ,[],X
+K/KP/KPE.xml,KPERE008,135003,43,,A,27,1,<laugh> ,[],
 K/KP/KPE.xml,KPERE008,135003,44,,A,27,2,What did she say?,"[What/WP, did/VBD, she/PRP, say/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP she)) (VP (VB say))) (. ?)))
-K/KP/KPE.xml,KPERE008,135003,45,,A,27,3,(()) ,[],X
+K/KP/KPE.xml,KPERE008,135003,45,,A,27,3,(()) ,[],
 K/KP/KPE.xml,KPERE008,135003,46,,A,27,4,I dunno.,"[I/PRP, dunno/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP dunno)) (. .)))
 K/KP/KPE.xml,KPERE008,135003,47,,A,27,5,What did you say?,"[What/WP, did/VBD, you/PRP, say/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP you)) (VP (VB say))) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,48,,A,27,6,"Spot the difference, how had life changed for the family  (()) ","[Spot/VB, the/DT, difference/NN, ,/,, how/WRB, had/VBD, life/NN, changed/VBD, for/IN, the/DT, family/NN]","(ROOT (S (VP (VB Spot) (NP (DT the) (NN difference)) (, ,) (SBAR (WHADVP (WRB how)) (S (VP (VBD had) (NP (NP (NN life)) (SBAR (S (VP (VBD changed) (PP (IN for) (NP (DT the) (NN family)))))))))))))"
@@ -61,13 +61,13 @@ K/KP/KPE.xml,KPERE008,135003,58,,B,36,1,(()) that was true  (()) innit?,"[that/D
 K/KP/KPE.xml,KPERE008,135003,59,,A,37,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,60,,B,38,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KP/KPE.xml,KPERE008,135003,61,,A,39,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KP/KPE.xml,KPERE008,135003,62,,B,40,1,(()) ,[],X
+K/KP/KPE.xml,KPERE008,135003,62,,B,40,1,(()) ,[],
 K/KP/KPE.xml,KPERE008,135003,63,,B,40,2,"But erm he asked, you know Stan?","[But/CC, erm/NN, he/PRP, asked/VBD, ,/,, you/PRP, know/VBP, Stan/NNP, ?/.]","(ROOT (S (CC But) (NP (NP (NN erm)) (SBAR (S (NP (PRP he)) (VP (VBD asked))))) (, ,) (NP (PRP you)) (VP (VBP know) (NP (NNP Stan))) (. ?)))"
 K/KP/KPE.xml,KPERE008,135003,64,,B,40,3,He asked Stan for a job but he wouldn't give him one,"[He/PRP, asked/VBD, Stan/NNP, for/IN, a/DT, job/NN, but/CC, he/PRP, wouldn/VB, 't/PRP, give/VB, him/PRP, one/CD]",(ROOT (S (NP (PRP He)) (VP (VBD asked) (NP (NP (NNP Stan)) (PP (IN for) (NP (DT a) (NN job)))) (SBAR (CC but) (S (NP (PRP he)) (VP (VB wouldn) (S (NP (PRP 't)) (VP (VB give) (NP (PRP him)) (NP (CD one))))))))))
 K/KP/KPE.xml,KPERE008,135003,65,,B,40,4,Oh.(()) ,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KP/KPE.xml,KPERE008,135003,66,,B,40,5,"he's after something,h- his apprenticeship  (()) so they give him a thousand pound","[he/PRP, 's/VBZ, after/IN, something/NN, ,h-/JJ, his/PRP$, apprenticeship/NN, so/IN, they/PRP, give/VBP, him/PRP, a/DT, thousand/CD, pound/NN]","(ROOT (S (NP (PRP he)) (VP (VBZ 's) (PP (IN after) (NP (NP (NN something) (JJ ,h-)) (NP (PRP$ his) (NN apprenticeship)))) (SBAR (IN so) (S (NP (PRP they)) (VP (VBP give) (NP (PRP him)) (NP (DT a) (CD thousand) (NN pound))))))))"
 K/KP/KPE.xml,KPERE008,135003,67,,B,40,6,I don't know what you gotta do you know.,"[I/PRP, don/VBP, 't/PRP, know/VB, what/WP, you/PRP, gotta/NNP, do/VBP, you/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (NP (PRP you)) (NP (NNP gotta))) (VP (VBP do) (S (NP (PRP you)) (VP (VB know))))))))) (. .)))
-K/KP/KPE.xml,KPERE008,135003,68,,B,40,7,(()) ,[],X
+K/KP/KPE.xml,KPERE008,135003,68,,B,40,7,(()) ,[],
 K/KP/KPE.xml,KPERE008,135003,69,,A,41,1,(()) some photos.,"[some/DT, photos/NNS, ./.]",(ROOT (NP (DT some) (NNS photos) (. .)))
 K/KP/KPE.xml,KPERE008,135003,70,,B,42,1,Is it?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
 K/KP/KPE.xml,KPERE008,135003,71,,A,43,1,Sam  --,"[Sam/NNP, you/PRP, know/VBP, erm/NN, Ricky/NNP, 's/POS]",(ROOT (FRAG (NP (NP (NNP Sam)) (SBAR (S (NP (PRP you)) (VP (VBP know) (ADJP (NN erm)) (S (NP (NNP Ricky) (POS 's)))))))))

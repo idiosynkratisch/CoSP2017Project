@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE017,2207,0,,A,1,1,"I, Susan's thinking of ","[I/PRP, ,/,, Susan/NNP, 's/POS, thinking/NN, of/IN]","(ROOT (NP (NP (NP (PRP I)) (, ,) (NP (NP (NNP Susan) (POS 's)) (NN thinking))) (PP (IN of))))"
 K/KB/KBK.xml,KBKRE017,2207,1,,B,2,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBK.xml,KBKRE017,2207,2,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE017,2207,2,,A,3,1,(()) ,[],
 K/KB/KBK.xml,KBKRE017,2207,3,,B,4,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE017,2207,4,,B,4,2,I think Joyce has got one up.,"[I/PRP, think/VBP, Joyce/NNP, has/VBZ, got/VBN, one/CD, up/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Joyce)) (VP (VBZ has) (VP (VBN got) (ADVP (NP (CD one)) (RB up))))))) (. .)))
 K/KB/KBK.xml,KBKRE017,2207,5,,A,5,1,She's got what?,"[She/PRP, 's/VBZ, got/VBD, what/WP, ?/.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBD got) (WHNP (WP what)))) (. ?)))

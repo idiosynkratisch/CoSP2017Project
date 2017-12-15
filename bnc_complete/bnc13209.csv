@@ -3,16 +3,16 @@ K/KD/KDA.xml,KDARE030,13209,0,,A,1,1,Better name for him than that but I won't s
 K/KD/KDA.xml,KDARE030,13209,1,,B,2,1,"What's that, come on, spill the beans","[What/WP, 's/VBZ, that/DT, ,/,, come/VBN, on/IN, ,/,, spill/VB, the/DT, beans/NNS]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT that)) (, ,) (VP (VBN come) (PP (IN on)) (, ,) (S (VP (VB spill) (NP (DT the) (NNS beans)))))))))"
 K/KD/KDA.xml,KDARE030,13209,2,,A,3,1,(()) look at his face,"[look/VB, at/IN, his/PRP$, face/NN]",(ROOT (S (VP (VB look) (PP (IN at) (NP (PRP$ his) (NN face))))))
 K/KD/KDA.xml,KDARE030,13209,3,,B,4,1,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
-K/KD/KDA.xml,KDARE030,13209,4,,A,5,1,(()) ,[],X
-K/KD/KDA.xml,KDARE030,13209,5,,A,5,2,(()) ,[],X
+K/KD/KDA.xml,KDARE030,13209,4,,A,5,1,(()) ,[],
+K/KD/KDA.xml,KDARE030,13209,5,,A,5,2,(()) ,[],
 K/KD/KDA.xml,KDARE030,13209,6,,B,6,1,What's your nickname then Tom?,"[What/WP, 's/VBZ, your/PRP$, nickname/NN, then/RB, Tom/NNP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (PRP$ your) (NN nickname)) (PP (RB then) (NP (NNP Tom))))) (. ?)))
 K/KD/KDA.xml,KDARE030,13209,7,,A,7,1,(()) cabbage,[cabbage/NNP],(ROOT (NP (NNP cabbage)))
 K/KD/KDA.xml,KDARE030,13209,8,,B,8,1,"Cabbage, that's appropriate.","[Cabbage/NNP, ,/,, that/DT, 's/VBZ, appropriate/JJ, ./.]","(ROOT (S (NP (NNP Cabbage)) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ appropriate))) (. .)))"
 K/KD/KDA.xml,KDARE030,13209,9,,A,9,1,"Ah, that's my second name.","[Ah/NN, ,/,, that/DT, 's/VBZ, my/PRP$, second/JJ, name/NN, ./.]","(ROOT (S (NP (NN Ah)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (PRP$ my) (JJ second) (NN name))) (. .)))"
 K/KD/KDA.xml,KDARE030,13209,10,,B,10,1,That's your second name,"[That/DT, 's/VBZ, your/PRP$, second/JJ, name/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP$ your) (JJ second) (NN name)))))
-K/KD/KDA.xml,KDARE030,13209,11,,A,11,1,(()) ,[],X
-K/KD/KDA.xml,KDARE030,13209,12,,A,11,2,(()) ,[],X
-K/KD/KDA.xml,KDARE030,13209,13,,A,11,3,(()) ,[],X
+K/KD/KDA.xml,KDARE030,13209,11,,A,11,1,(()) ,[],
+K/KD/KDA.xml,KDARE030,13209,12,,A,11,2,(()) ,[],
+K/KD/KDA.xml,KDARE030,13209,13,,A,11,3,(()) ,[],
 K/KD/KDA.xml,KDARE030,13209,14,,A,11,4,Doesn't make me (()) ,"[Doesn/NNP, 't/PRP, make/VB, me/PRP]",(ROOT (FRAG (NP (NP (NNP Doesn)) (SBAR (S (NP (PRP 't)) (VP (VB make) (NP (PRP me))))))))
 K/KD/KDA.xml,KDARE030,13209,15,,B,12,1,"No,(()) --","[No/DT, ,/,, so/RB, were/VBD, talking/VBG, about/IN, Boddington/NNP, 's/POS, beer/NN, man/NN, ,/,, Boddington/NNP, 's/POS, bitter/JJ]","(ROOT (S (NP (NP (DT No)) (, ,) (ADVP (RB so))) (VP (VBD were) (VP (VBG talking) (PP (IN about) (NP (NP (NP (NNP Boddington) (POS 's)) (NN beer) (NN man)) (, ,) (NP (NP (NNP Boddington) (POS 's)) (JJ bitter))))))))"
 K/KD/KDA.xml,KDARE030,13209,16,,B,12,2,"--so were talking about Boddington's beer man, Boddington's bitter ","[No/DT, ,/,, so/RB, were/VBD, talking/VBG, about/IN, Boddington/NNP, 's/POS, beer/NN, man/NN, ,/,, Boddington/NNP, 's/POS, bitter/JJ]","(ROOT (S (NP (NP (DT No)) (, ,) (ADVP (RB so))) (VP (VBD were) (VP (VBG talking) (PP (IN about) (NP (NP (NP (NNP Boddington) (POS 's)) (NN beer) (NN man)) (, ,) (NP (NP (NNP Boddington) (POS 's)) (JJ bitter))))))))"

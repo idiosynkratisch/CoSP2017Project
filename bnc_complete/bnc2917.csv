@@ -11,7 +11,7 @@ K/KB/KBK.xml,KBKRE06G,2917,8,,B,8,1,It wasn't  (()) mm.,"[It/PRP, wasn/VBD, 't/P
 K/KB/KBK.xml,KBKRE06G,2917,9,,B,8,2,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE06G,2917,10,,B,8,3,Well.,"[Well/RB, ./.]",(ROOT (FRAG (ADVP (RB Well)) (. .)))
 K/KB/KBK.xml,KBKRE06G,2917,11,,B,8,4,Interesting idea.,"[Interesting/JJ, idea/NN, ./.]",(ROOT (NP (JJ Interesting) (NN idea) (. .)))
-K/KB/KBK.xml,KBKRE06G,2917,12,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06G,2917,12,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE06G,2917,13,,B,10,1,One side said yes the other side says no.,"[One/CD, side/NN, said/VBD, yes/RB, the/DT, other/JJ, side/NN, says/VBZ, no/DT, ./.]",(ROOT (S (NP (CD One) (NN side)) (VP (VBD said) (SBAR (S (NP (RB yes) (DT the) (JJ other) (NN side)) (VP (VBZ says) (NP (DT no)))))) (. .)))
 K/KB/KBK.xml,KBKRE06G,2917,14,,B,10,2,Ha?,"[Ha/NNP, ?/.]",(ROOT (FRAG (NP (NNP Ha)) (. ?)))
 K/KB/KBK.xml,KBKRE06G,2917,15,,A,11,1,That's what they said.,"[That/DT, 's/VBZ, what/WP, they/PRP, said/VBD, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBD said))))) (. .)))

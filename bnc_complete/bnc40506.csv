@@ -12,7 +12,7 @@ K/KB/KBL.xml,KBLRE00L,40506,9,,A,5,5,--what's similar?,"[Erm/NN, what/WP, 's/VBZ
 K/KB/KBL.xml,KBLRE00L,40506,10,,A,5,6,<laugh> --,"[Oh/UH, God/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP God)))) (. !)))
 K/KB/KBL.xml,KBLRE00L,40506,11,,A,5,7,--Oh God!,"[Oh/UH, God/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP God)))) (. !)))
 K/KB/KBL.xml,KBLRE00L,40506,12,,A,5,8,I don't know!,"[I/PRP, don/VBP, 't/PRP, know/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. !)))
-K/KB/KBL.xml,KBLRE00L,40506,13,,A,5,9,(()) ,[],X
+K/KB/KBL.xml,KBLRE00L,40506,13,,A,5,9,(()) ,[],
 K/KB/KBL.xml,KBLRE00L,40506,14,,A,5,10,Erm  --,"[Erm/NN, da/NN, da/NN, da/NN, da/NN, da/NN, ./.]",(ROOT (FRAG (NP (NN Erm) (NN da)) (NP (NN da) (NN da) (NN da) (NN da)) (. .)))
 K/KB/KBL.xml,KBLRE00L,40506,15,,A,5,11,--da da da da da.,"[Erm/NN, da/NN, da/NN, da/NN, da/NN, da/NN, ./.]",(ROOT (FRAG (NP (NN Erm) (NN da)) (NP (NN da) (NN da) (NN da) (NN da)) (. .)))
 K/KB/KBL.xml,KBLRE00L,40506,16,,B,6,1,Rothmans  --,"[Rothmans/NNP, got/VBD, an/DT, R/NN, on/IN, the/DT, end/NN, !/.]",(ROOT (S (NP (NNP Rothmans)) (VP (VBD got) (NP (DT an) (NN R)) (PP (IN on) (NP (DT the) (NN end)))) (. !)))
@@ -43,6 +43,6 @@ K/KB/KBL.xml,KBLRE00L,40506,40,,A,15,1,"mu- , that's okay!","[mu-/NN, ,/,, that/
 K/KB/KBL.xml,KBLRE00L,40506,41,,A,15,2,Don't worry!,"[Don/NNP, 't/PRP, worry/VBP, !/.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP worry)) (. !)))
 K/KB/KBL.xml,KBLRE00L,40506,42,,A,15,3,I'm sure I can  --,"[I/PRP, 'm/VBP, sure/JJ, I/PRP, can/MD, manage/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB manage))))))) (. !)))
 K/KB/KBL.xml,KBLRE00L,40506,43,,A,15,4,--manage!,"[I/PRP, 'm/VBP, sure/JJ, I/PRP, can/MD, manage/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB manage))))))) (. !)))
-K/KB/KBL.xml,KBLRE00L,40506,44,,A,15,5,<laugh> ,[],X
+K/KB/KBL.xml,KBLRE00L,40506,44,,A,15,5,<laugh> ,[],
 K/KB/KBL.xml,KBLRE00L,40506,45,,A,15,6,Thanks a lot then!,"[Thanks/NNS, a/DT, lot/NN, then/RB, !/.]",(ROOT (NP (NP (NNS Thanks)) (NP (NP (DT a) (NN lot)) (ADVP (RB then))) (. !)))
 K/KB/KBL.xml,KBLRE00L,40506,46,,A,15,7,Bye!,"[Bye/NN, !/.]",(ROOT (NP (NN Bye) (. !)))

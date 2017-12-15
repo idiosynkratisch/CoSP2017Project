@@ -226,7 +226,7 @@ K/KE/KE4.xml,KE4RE00G,67601,223,,B,146,1,But mum ,"[But/CC, mum/NN]",(ROOT (FRAG
 K/KE/KE4.xml,KE4RE00G,67601,224,,A,147,1,Do that again ,"[Do/VB, that/DT, again/RB]",(ROOT (S (VP (VB Do) (NP (DT that)) (ADVP (RB again)))))
 K/KE/KE4.xml,KE4RE00G,67601,225,,B,148,1,yo- will you leave us alone!,"[yo-/NN, will/MD, you/PRP, leave/VB, us/PRP, alone/RB, !/.]",(ROOT (S (NP (NN yo-)) (VP (MD will) (NP (PRP you)) (S (VP (VB leave) (S (NP (PRP us)) (ADJP (RB alone)))))) (. !)))
 K/KE/KE4.xml,KE4RE00G,67601,226,,A,149,1,You go to bed eight o'clock.,"[You/PRP, go/VBP, to/TO, bed/NN, eight/CD, o/NN, 'clock/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP go) (PP (TO to) (NP (NN bed) (CD eight) (NN o) (NN 'clock)))) (. .)))
-K/KE/KE4.xml,KE4RE00G,67601,227,,B,150,1,<sigh> ,[],X
+K/KE/KE4.xml,KE4RE00G,67601,227,,B,150,1,<sigh> ,[],
 K/KE/KE4.xml,KE4RE00G,67601,228,,A,151,1,You need the rest.,"[You/PRP, need/VBP, the/DT, rest/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP need) (NP (DT the) (NN rest))) (. .)))
 K/KE/KE4.xml,KE4RE00G,67601,229,,B,152,1,<screaming> I couldn't give a blooming damn </screaming> !,"[I/PRP, couldn/VBP, 't/PRP, give/VB, a/DT, blooming/VBG, damn/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP couldn) (S (NP (PRP 't)) (VP (VB give) (NP (DT a) (VBG blooming) (NN damn))))) (. !)))
 K/KE/KE4.xml,KE4RE00G,67601,230,,A,153,1,I don't care.,"[I/PRP, don/VBP, 't/PRP, care/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB care)))) (. .)))

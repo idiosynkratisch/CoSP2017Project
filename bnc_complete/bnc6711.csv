@@ -1,12 +1,12 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDE.xml,KDERE00A,6711,0,,A,1,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
-K/KD/KDE.xml,KDERE00A,6711,1,,B,2,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00A,6711,1,,B,2,1,(()) ,[],
 K/KD/KDE.xml,KDERE00A,6711,2,,A,3,1,I'm going to have a bath now.,"[I/PRP, 'm/VBP, going/VBG, to/TO, have/VB, a/DT, bath/NN, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN bath)) (ADVP (RB now))))))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,3,,A,3,2,Go and get all your toys and bring them back inside.,"[Go/VB, and/CC, get/VB, all/DT, your/PRP$, toys/NNS, and/CC, bring/VB, them/PRP, back/RB, inside/RB, ./.]",(ROOT (S (VP (VP (VB Go) (CC and) (VB get) (NP (DT all) (PRP$ your) (NNS toys))) (CC and) (VP (VB bring) (NP (PRP them)) (ADVP (RB back) (RB inside)))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,4,,B,4,1,I don't want to (()) ,"[I/PRP, don/VBP, 't/PRP, want/VB, to/TO]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (PP (TO to)))))))
 K/KD/KDE.xml,KDERE00A,6711,5,,A,5,1,Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,6,,A,5,2,I want your skates and your skateboard inside please.,"[I/PRP, want/VBP, your/PRP$, skates/NNS, and/CC, your/PRP$, skateboard/NN, inside/IN, please/UH, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP want) (NP (NP (PRP$ your) (NNS skates)) (CC and) (NP (NP (PRP$ your) (NN skateboard)) (PP (IN inside) (NP (UH please)))))) (. .)))
-K/KD/KDE.xml,KDERE00A,6711,7,,B,6,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00A,6711,7,,B,6,1,(()) ,[],
 K/KD/KDE.xml,KDERE00A,6711,8,,A,7,1,Bring them indoors please.,"[Bring/VB, them/PRP, indoors/RB, please/VB, ./.]",(ROOT (S (VP (VB Bring) (NP (PRP them)) (ADVP (RB indoors)) (VP (VB please))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,9,,B,8,1,I don't want to.,"[I/PRP, don/VBP, 't/PRP, want/VB, to/TO, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want) (PP (TO to))))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,10,,A,9,1,Oliver!,"[Oliver/NNP, !/.]",(ROOT (FRAG (NP (NNP Oliver)) (. !)))
@@ -15,11 +15,11 @@ K/KD/KDE.xml,KDERE00A,6711,12,,A,9,3,Now pick up the skateboard.,"[Now/RB, pick/
 K/KD/KDE.xml,KDERE00A,6711,13,,A,9,4,Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,14,,A,9,5,Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,15,,A,9,6,Pick it up.,"[Pick/VB, it/PRP, up/RP, ./.]",(ROOT (S (VP (VB Pick) (NP (PRP it)) (PRT (RP up))) (. .)))
-K/KD/KDE.xml,KDERE00A,6711,16,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00A,6711,16,,B,10,1,(()) ,[],
 K/KD/KDE.xml,KDERE00A,6711,17,,A,11,1,Come on pick it up.,"[Come/VB, on/IN, pick/NN, it/PRP, up/RP, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN pick)) (NP (NP (PRP it)) (ADVP (RP up))))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,18,,B,12,1,(()) here you are.,"[here/RB, you/PRP, are/VBP, ./.]",(ROOT (S (ADVP (RB here)) (NP (PRP you)) (VP (VBP are)) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,19,,A,13,1,Oliver now come on darling be a good boy give me that.,"[Oliver/NNP, now/RB, come/VBP, on/IN, darling/NN, be/VB, a/DT, good/JJ, boy/NN, give/VB, me/PRP, that/IN, ./.]",(ROOT (S (NP (NNP Oliver)) (ADVP (RB now)) (VP (VBP come) (PP (IN on) (NP (NN darling))) (S (VP (VB be) (NP (DT a) (JJ good) (NN boy) (S (VP (VB give) (S (NP (PRP me)) (ADJP (IN that))))))))) (. .)))
-K/KD/KDE.xml,KDERE00A,6711,20,,B,14,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00A,6711,20,,B,14,1,(()) ,[],
 K/KD/KDE.xml,KDERE00A,6711,21,,A,15,1,Now you're coming in now because we're going to have a bath and we're going out.,"[Now/RB, you/PRP, 're/VBP, coming/VBG, in/IN, now/RB, because/IN, we/PRP, 're/VBP, going/VBG, to/TO, have/VB, a/DT, bath/NN, and/CC, we/PRP, 're/VBP, going/VBG, out/RP, ./.]",(ROOT (S (S (ADVP (RB Now)) (NP (PRP you)) (VP (VBP 're) (VP (VBG coming) (PP (IN in) (NP (RB now))) (SBAR (IN because) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (NP (DT a) (NN bath)))))))))))) (CC and) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (PRT (RP out))))) (. .)))
 K/KD/KDE.xml,KDERE00A,6711,22,,A,15,2,Now will you pick this up for me?,"[Now/RB, will/MD, you/PRP, pick/VB, this/DT, up/RP, for/IN, me/PRP, ?/.]",(ROOT (FRAG (SBAR (RB Now) (SINV (MD will) (NP (PRP you)) (VP (VB pick) (NP (DT this)) (PRT (RP up)) (PP (IN for) (NP (PRP me)))))) (. ?)))
 K/KD/KDE.xml,KDERE00A,6711,23,,A,15,3,Pick it up now!,"[Pick/VB, it/PRP, up/RB, now/RB, !/.]",(ROOT (S (VP (VB Pick) (NP (PRP it)) (ADVP (RB up) (RB now))) (. !)))

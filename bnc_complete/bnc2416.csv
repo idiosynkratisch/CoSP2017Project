@@ -5,11 +5,11 @@ K/KB/KBK.xml,KBKRE03K,2416,2,,B,2,2,Well we can do that from the oak container o
 K/KB/KBK.xml,KBKRE03K,2416,3,,A,3,1,That's nice.,"[That/DT, 's/VBZ, nice/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ nice))) (. .)))
 K/KB/KBK.xml,KBKRE03K,2416,4,,B,4,1,There were two different ivies in that weren't there?,"[There/EX, were/VBD, two/CD, different/JJ, ivies/NNS, in/IN, that/DT, weren/NN, 't/PRP, there/EX, ?/.]",(ROOT (S (NP (EX There)) (VP (VBD were) (S (NP (NP (CD two) (JJ different) (NNS ivies)) (PP (IN in) (NP (DT that) (NN weren) (PRP 't)))) (NP (EX there)))) (. ?)))
 K/KB/KBK.xml,KBKRE03K,2416,5,,A,5,1,"(()) plants in there, that's the climbing cybilia the upright cybilia,(()) pretty  (()) in the top.","[plants/NNS, in/IN, there/RB, ,/,, that/DT, 's/VBZ, the/DT, climbing/VBG, cybilia/NN, the/DT, upright/JJ, cybilia/NN, ,/,, pretty/RB, in/IN, the/DT, top/NN, ./.]","(ROOT (S (S (NP (NP (NNS plants)) (PP (IN in) (NP (RB there))))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (DT the)) (VP (VBG climbing) (NP (NP (NP (NN cybilia)) (NP (DT the) (JJ upright) (NN cybilia))) (, ,) (ADVP (RB pretty) (PP (IN in) (NP (DT the) (NN top)))))))) (. .)))"
-K/KB/KBK.xml,KBKRE03K,2416,6,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE03K,2416,6,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE03K,2416,7,,A,7,1,That looks like lettuce.,"[That/DT, looks/VBZ, like/IN, lettuce/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ looks) (PP (IN like) (NP (NN lettuce)))) (. .)))
 K/KB/KBK.xml,KBKRE03K,2416,8,,B,8,1,Lettuce.,"[Lettuce/NN, ./.]",(ROOT (NP (NN Lettuce) (. .)))
 K/KB/KBK.xml,KBKRE03K,2416,9,,A,9,1,I don't care (()) .,"[I/PRP, don/VBP, 't/PRP, care/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB care)))) (. .)))
 K/KB/KBK.xml,KBKRE03K,2416,10,,B,10,1,"Ha, ha, ha, ha,(()) .","[Ha/NNP, ,/,, ha/NNP, ,/,, ha/NNP, ,/,, ha/NNP, ,/,, ./.]","(ROOT (NP (NP (NNP Ha)) (, ,) (NP (NNP ha) (, ,) (NNP ha) (, ,) (NNP ha) (, ,)) (. .)))"
 K/KB/KBK.xml,KBKRE03K,2416,11,,A,11,1,(()) geranium.,"[geranium/NN, ./.]",(ROOT (NP (NN geranium) (. .)))
 K/KB/KBK.xml,KBKRE03K,2416,12,,B,12,1,Sort of geranium crossed with ivy.,"[Sort/NN, of/IN, geranium/NN, crossed/VBD, with/IN, ivy/NNP, ./.]",(ROOT (S (NP (NP (NN Sort)) (PP (IN of) (NP (NN geranium)))) (VP (VBD crossed) (PP (IN with) (NP (NNP ivy)))) (. .)))
-K/KB/KBK.xml,KBKRE03K,2416,13,,A,13,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE03K,2416,13,,A,13,1,(()) ,[],

@@ -46,9 +46,9 @@ K/KB/KBP.xml,KBPRE009,26606,43,,B,28,1,Er I thought we were going to ,"[Er/NN, I
 K/KB/KBP.xml,KBPRE009,26606,44,,A,29,1,Well  --,"[Well/RB, somewhere/RB, else/RB, High/JJ, Street/NN, ./.]",(ROOT (FRAG (PP (ADVP (RB Well)) (RB somewhere) (NP (RB else) (JJ High) (NN Street))) (. .)))
 K/KB/KBP.xml,KBPRE009,26606,45,,A,29,2,--somewhere else  (()) High Street.,"[Well/RB, somewhere/RB, else/RB, High/JJ, Street/NN, ./.]",(ROOT (FRAG (PP (ADVP (RB Well)) (RB somewhere) (NP (RB else) (JJ High) (NN Street))) (. .)))
 K/KB/KBP.xml,KBPRE009,26606,46,,A,29,3,(()) Hang on.,"[Hang/NNP, on/IN, ./.]",(ROOT (NP (NP (NNP Hang)) (PP (IN on)) (. .)))
-K/KB/KBP.xml,KBPRE009,26606,47,,B,30,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE009,26606,47,,B,30,1,(()) ,[],
 K/KB/KBP.xml,KBPRE009,26606,48,,A,31,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
-K/KB/KBP.xml,KBPRE009,26606,49,,B,32,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE009,26606,49,,B,32,1,(()) ,[],
 K/KB/KBP.xml,KBPRE009,26606,50,,A,33,1,Where will I go in there?,"[Where/WRB, will/MD, I/PRP, go/VB, in/IN, there/EX, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (MD will) (NP (PRP I)) (VP (VB go) (PP (IN in) (NP (EX there))))) (. ?)))
 K/KB/KBP.xml,KBPRE009,26606,51,,B,34,1,Well erm,"[Well/RB, erm/NN]",(ROOT (FRAG (ADVP (RB Well)) (NP (NN erm))))
 K/KB/KBP.xml,KBPRE009,26606,52,,A,35,1,Well you want to go to this other car park for  --,"[Well/RB, you/PRP, want/VBP, to/TO, go/VB, to/TO, this/DT, other/JJ, car/NN, park/NN, for/IN, Boots/NNP, don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT this) (JJ other) (NN car) (NN park))) (SBAR (IN for) (S (NP (NNP Boots)) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP you)))))))))) (. ?)))
@@ -61,7 +61,7 @@ K/KB/KBP.xml,KBPRE009,26606,58,,B,38,3,Three thirty,"[Three/CD, thirty/CD]",(ROO
 K/KB/KBP.xml,KBPRE009,26606,59,,A,39,1,Oh you're alright.,"[Oh/UH, you/PRP, 're/VBP, alright/JJ, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (VBP 're) (ADJP (JJ alright)))) (. .)))
 K/KB/KBP.xml,KBPRE009,26606,60,,B,40,1,So we've got another hour?,"[So/IN, we/PRP, 've/VBP, got/VBD, another/DT, hour/NN, ?/.]",(ROOT (S (IN So) (NP (PRP we)) (VP (VBP 've) (VP (VBD got) (NP (DT another) (NN hour)))) (. ?)))
 K/KB/KBP.xml,KBPRE009,26606,61,,A,41,1,"Yeah, it's two hours.","[Yeah/UH, ,/,, it/PRP, 's/VBZ, two/CD, hours/NNS, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (CD two) (NNS hours))) (. .)))"
-K/KB/KBP.xml,KBPRE009,26606,62,,B,42,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE009,26606,62,,B,42,1,(()) ,[],
 K/KB/KBP.xml,KBPRE009,26606,63,,A,43,1,(()) There we are.,"[There/EX, we/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP are)) (. .)))
 K/KB/KBP.xml,KBPRE009,26606,64,,B,44,1,Are you staying here?,"[Are/VBP, you/PRP, staying/VBG, here/RB, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG staying) (ADVP (RB here))) (. ?)))
 K/KB/KBP.xml,KBPRE009,26606,65,,A,45,1,Oh yes  <laughing> I haven't got the strength  (()) </laughing> .,"[Oh/UH, yes/UH, I/PRP, haven/NN, 't/PRP, got/VBD, the/DT, strength/NN, ./.]",(ROOT (S (S (VP (NP (UH Oh)) (NP (INTJ (UH yes)) (NP (PRP I))) (PP (NN haven)))) (NP (PRP 't)) (VP (VBD got) (NP (DT the) (NN strength))) (. .)))

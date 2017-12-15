@@ -26,7 +26,7 @@ K/KB/KBK.xml,KBKRE00G,2018,23,,B,8,3,Still I imagine many men would say what a w
 K/KB/KBK.xml,KBKRE00G,2018,24,,A,9,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE00G,2018,25,,B,10,1,I wouldn't.,"[I/PRP, wouldn/VBP, 't/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP wouldn) (NP (PRP 't))) (. .)))
 K/KB/KBK.xml,KBKRE00G,2018,26,,B,10,2,Far better way to go than that but ,"[Far/RB, better/JJR, way/NN, to/TO, go/VB, than/IN, that/DT, but/CC]",(ROOT (FRAG (ADVP (RB Far)) (NP (NP (JJR better) (NN way)) (SBAR (S (VP (TO to) (VP (VB go) (ADVP (IN than)) (ADVP (DT that) (CC but)))))))))
-K/KB/KBK.xml,KBKRE00G,2018,27,,A,11,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00G,2018,27,,A,11,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00G,2018,28,,B,12,1,Who knows I might even get a chance to try one of these days.,"[Who/WP, knows/VBZ, I/PRP, might/MD, even/RB, get/VB, a/DT, chance/NN, to/TO, try/VB, one/CD, of/IN, these/DT, days/NNS, ./.]",(ROOT (S (SBAR (WHNP (WP Who)) (S (VP (VBZ knows)))) (NP (PRP I)) (VP (MD might) (ADVP (RB even)) (VP (VB get) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VB try) (NP (NP (CD one)) (PP (IN of) (NP (DT these) (NNS days)))))))))) (. .)))
 K/KB/KBK.xml,KBKRE00G,2018,29,,A,13,1,As long as you don't die with bells on your ankles.(()) ,"[As/RB, long/RB, as/IN, you/PRP, don/VBP, 't/PRP, die/VB, with/IN, bells/NNS, on/IN, your/PRP$, ankles/NNS, ./.]",(ROOT (FRAG (ADVP (RB As) (RB long)) (SBAR (IN as) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB die) (PP (IN with) (NP (NP (NNS bells)) (PP (IN on) (NP (PRP$ your) (NNS ankles)))))))))) (. .)))
 K/KB/KBK.xml,KBKRE00G,2018,30,,B,14,1,<laugh> .,[./.],(ROOT (NP (. .)))

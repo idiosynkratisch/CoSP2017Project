@@ -19,7 +19,7 @@ K/KD/KD0.xml,KD0RE00N,17103,16,,B,10,2,--Our sunroof's pretty isn't it?,"[Our/PR
 K/KD/KD0.xml,KD0RE00N,17103,17,,A,11,1,You what?,"[You/PRP, what/WP, ?/.]",(ROOT (NP (NP (PRP You)) (NP (WP what)) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,18,,B,12,1,Our sunroof's pretty isn't it?,"[Our/PRP$, sunroof/NN, 's/POS, pretty/JJ, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (NP (PRP$ Our) (NN sunroof) (POS 's)) (JJ pretty) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,19,,B,12,2,Very stylish.,"[Very/RB, stylish/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ stylish)) (. .)))
-K/KD/KD0.xml,KD0RE00N,17103,20,,A,13,1,<laugh> ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,20,,A,13,1,<laugh> ,[],
 K/KD/KD0.xml,KD0RE00N,17103,21,,B,14,1,What's the time?,"[What/WP, 's/VBZ, the/DT, time/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (DT the) (NN time))) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,22,,A,15,1,This  --,"[This/DT, very/RB, busy/JJ, road/NN, ,/,, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (NP (NP (NP (DT This) (ADJP (RB very) (JJ busy)) (NN road)) (, ,) (NP (NN isn))) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))"
 K/KD/KD0.xml,KD0RE00N,17103,23,,A,15,2,"--very busy road, isn't it?","[This/DT, very/RB, busy/JJ, road/NN, ,/,, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (NP (NP (NP (DT This) (ADJP (RB very) (JJ busy)) (NN road)) (, ,) (NP (NN isn))) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))"
@@ -27,14 +27,14 @@ K/KD/KD0.xml,KD0RE00N,17103,24,,B,16,1,I suppose so.,"[I/PRP, suppose/VBP, so/RB
 K/KD/KD0.xml,KD0RE00N,17103,25,,B,16,2,(()) busier.,"[busier/JJR, ./.]",(ROOT (FRAG (ADJP (JJR busier)) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,26,,A,17,1,(()) seems to be very busy (()) ,"[seems/VBZ, to/TO, be/VB, very/RB, busy/JJ]",(ROOT (FRAG (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (JJ busy))))))))
 K/KD/KD0.xml,KD0RE00N,17103,27,,B,18,1,So does the other way.,"[So/RB, does/VBZ, the/DT, other/JJ, way/NN, ./.]",(ROOT (SINV (ADVP (RB So)) (VP (VBZ does)) (NP (DT the) (JJ other) (NN way)) (. .)))
-K/KD/KD0.xml,KD0RE00N,17103,28,,A,19,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,28,,A,19,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,29,,B,20,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KD/KD0.xml,KD0RE00N,17103,30,,A,21,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,30,,A,21,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,31,,B,22,1,Because of mum.,"[Because/IN, of/IN, mum/NN, ./.]",(ROOT (FRAG (PP (IN Because) (PP (IN of) (NP (NN mum)))) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,32,,A,23,1,(()) where the heck are we.,"[where/WRB, the/DT, heck/NN, are/VBP, we/PRP, ./.]",(ROOT (FRAG (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN heck)) (VP (VBP are) (NP (PRP we))))) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,33,,A,23,2,(()) hundred percent better (()) ,"[hundred/CD, percent/NN, better/JJR]",(ROOT (NP (NP (CD hundred) (NN percent)) (NP (JJR better))))
 K/KD/KD0.xml,KD0RE00N,17103,34,,B,24,1,"Yeah you were well fluky then, getting the (()) ","[Yeah/UH, you/PRP, were/VBD, well/RB, fluky/JJ, then/RB, ,/,, getting/VBG, the/DT]","(ROOT (SINV (FRAG (INTJ (UH Yeah))) (VP (ADVP (PRP you)) (VBD were) (NP (RB well) (JJ fluky)) (ADVP (RB then)) (, ,) (S (VP (VBG getting)))) (NP (DT the))))"
-K/KD/KD0.xml,KD0RE00N,17103,35,,A,25,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,35,,A,25,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,36,,B,26,1,How come that shop had them and the other one didn't?,"[How/WRB, come/VBP, that/IN, shop/NN, had/VBD, them/PRP, and/CC, the/DT, other/JJ, one/CD, didn/NN, 't/PRP, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SINV (VP (VBP come) (SBAR (IN that) (S (NP (NN shop)) (VP (VBD had) (NP (NP (PRP them)) (CC and) (NP (DT the) (JJ other) (CD one) (NN didn))))))) (NP (PRP 't))) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,37,,A,27,1,(()) you wouldn't believe it would you?,"[you/PRP, wouldn/VBP, 't/PRP, believe/VB, it/PRP, would/MD, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP you)) (VP (VBP wouldn) (S (NP (PRP 't)) (VP (VB believe) (NP (PRP it)))))) (VP (MD would)) (NP (PRP you)) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,38,,B,28,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
@@ -72,12 +72,12 @@ K/KD/KD0.xml,KD0RE00N,17103,69,,B,50,1,how long ago was it that we bought it?,"[
 K/KD/KD0.xml,KD0RE00N,17103,70,,A,51,1,September.,"[September/NNP, ./.]",(ROOT (FRAG (NP (NNP September)) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,71,,B,52,1,September?,"[September/NNP, ?/.]",(ROOT (FRAG (NP (NNP September)) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,72,,B,52,2,Ages ago.,"[Ages/NNS, ago/RB, ./.]",(ROOT (FRAG (ADVP (NP (NNS Ages)) (RB ago)) (. .)))
-K/KD/KD0.xml,KD0RE00N,17103,73,,A,53,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,73,,A,53,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,74,,B,54,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,75,,A,55,1,(()) --,"[twelve/CD, thousand/CD, miles/NNS]",(ROOT (NP (NP (CD twelve)) (NP (CD thousand) (NNS miles))))
 K/KD/KD0.xml,KD0RE00N,17103,76,,A,55,2,--(()) twelve thousand miles (()) ,"[twelve/CD, thousand/CD, miles/NNS]",(ROOT (NP (NP (CD twelve)) (NP (CD thousand) (NNS miles))))
 K/KD/KD0.xml,KD0RE00N,17103,77,,B,56,1,Twelve thousand?,"[Twelve/CD, thousand/CD, ?/.]",(ROOT (FRAG (NP (CD Twelve) (CD thousand)) (. ?)))
-K/KD/KD0.xml,KD0RE00N,17103,78,,A,57,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,78,,A,57,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,79,,B,58,1,"No way, not at eight.","[No/DT, way/NN, ,/,, not/RB, at/IN, eight/CD, ./.]","(ROOT (FRAG (NP (DT No) (NN way)) (, ,) (PP (RB not) (IN at) (NP (CD eight))) (. .)))"
 K/KD/KD0.xml,KD0RE00N,17103,80,,A,59,1,What if we lose at Birmingham Paul.,"[What/WP, if/IN, we/PRP, lose/VBP, at/IN, Birmingham/NNP, Paul/NNP, ./.]",(ROOT (FRAG (WHNP (WP What)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP lose) (PP (IN at) (NP (NNP Birmingham) (NNP Paul)))))) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,81,,A,59,2,Will you wanna go to the Chelsea match?,"[Will/MD, you/PRP, wanna/NNP, go/NNP, to/TO, the/DT, Chelsea/NNP, match/NNP, ?/.]",(ROOT (SINV (VP (MD Will)) (NP (PRP you)) (NP (NNP wanna) (NNP go)) (PP (TO to) (NP (DT the) (NNP Chelsea) (NNP match) (. ?)))))
@@ -137,7 +137,7 @@ K/KD/KD0.xml,KD0RE00N,17103,134,,A,87,1,Most surprising result of that season.,"
 K/KD/KD0.xml,KD0RE00N,17103,135,,B,88,1,Not really.,"[Not/RB, really/RB, ./.]",(ROOT (FRAG (RB Not) (ADVP (RB really) (. .))))
 K/KD/KD0.xml,KD0RE00N,17103,136,,B,88,2,Was it?,"[Was/VBD, it/PRP, ?/.]",(ROOT (S (VP (VBD Was) (NP (PRP it))) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,137,,A,89,1,It is when you see us struggling against Birmingham.,"[It/PRP, is/VBZ, when/WRB, you/PRP, see/VBP, us/PRP, struggling/VBG, against/IN, Birmingham/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP see) (S (NP (PRP us)) (VP (VBG struggling) (PP (IN against) (NP (NNP Birmingham))))))))) (. .)))
-K/KD/KD0.xml,KD0RE00N,17103,138,,B,90,1,<singing> ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,138,,B,90,1,<singing> ,[],
 K/KD/KD0.xml,KD0RE00N,17103,139,,A,91,1,What do you think the score's gonna be against Birmingham?,"[What/WP, do/VBP, you/PRP, think/VB, the/DT, score/NN, 's/POS, gonna/NN, be/VB, against/IN, Birmingham/NNP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (NP (NP (DT the) (NN score) (POS 's)) (NN gonna)) (VP (VB be) (PP (IN against) (NP (NNP Birmingham)))))) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,140,,B,92,1,Three one to Palace.,"[Three/CD, one/CD, to/TO, Palace/NNP, ./.]",(ROOT (NP (NP (CD Three) (CD one)) (PP (TO to) (NP (NNP Palace))) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,141,,A,93,1,Three one to Palace?,"[Three/CD, one/CD, to/TO, Palace/NNP, ?/.]",(ROOT (NP (NP (CD Three) (CD one)) (PP (TO to) (NP (NNP Palace))) (. ?)))
@@ -162,14 +162,14 @@ K/KD/KD0.xml,KD0RE00N,17103,159,,A,101,3,"--I think it like, I think that  --","
 K/KD/KD0.xml,KD0RE00N,17103,160,,A,101,4,"--to be fair, apart from Coleman an Southgate everybody faded in the second half didn't they?(()) ","[I/PRP, think/VBP, he/PRP, he/PRP, had/VBD, a/DT, really/RB, good/JJ, first/JJ, half/NN, I/PRP, think/VBP, it/PRP, like/IN, ,/,, I/PRP, think/VBP, that/IN, to/TO, be/VB, fair/JJ, ,/,, apart/RB, from/IN, Coleman/NNP, an/DT, Southgate/NNP, everybody/NN, faded/VBN, in/IN, the/DT, second/JJ, half/NN, didn/NN, 't/PRP, they/PRP, ?/.]","(ROOT (SINV (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP he)) (NP (PRP he))))) (VP (VBD had) (NP (NP (DT a) (ADJP (RB really) (JJ good)) (JJ first) (NN half)) (SBAR (S (NP (PRP I)) (VP (VBP think) (NP (PRP it)) (PP (IN like) (PRN (, ,) (S (NP (PRP I)) (VP (VBP think) (SBAR (IN that) (S (VP (TO to) (VP (VB be) (ADJP (JJ fair)) (, ,) (PP (RB apart) (IN from) (NP (NP (NNP Coleman)) (SBAR (S (NP (DT an) (NNP Southgate) (NN everybody)) (VP (VBN faded) (PP (IN in) (NP (DT the) (JJ second) (NN half) (NN didn))))))))))))))) (NP (PRP 't)))))))) (NP (PRP they)) (. ?)))"
 K/KD/KD0.xml,KD0RE00N,17103,161,,B,102,1,Yo.,"[Yo/NNP, ./.]",(ROOT (FRAG (NP (NNP Yo)) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,162,,B,102,2,Yo  (()) ,[Yo/NNP],(ROOT (NP (NNP Yo)))
-K/KD/KD0.xml,KD0RE00N,17103,163,,A,103,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,163,,A,103,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,164,,B,104,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KD/KD0.xml,KD0RE00N,17103,165,,A,105,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,165,,A,105,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,166,,B,106,1,"What's that, Man United fans?","[What/WP, 's/VBZ, that/DT, ,/,, Man/NN, United/VBN, fans/NNS, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SINV (VP (VBZ 's)) (NP (NP (DT that)) (, ,) (NP (NN Man) (VBN United) (NNS fans)))) (. ?)))"
-K/KD/KD0.xml,KD0RE00N,17103,167,,A,107,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,167,,A,107,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,168,,B,108,1,Wallington.,"[Wallington/NNP, ./.]",(ROOT (FRAG (NP (NNP Wallington)) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,169,,B,108,2,Where's Wallington?,"[Where/WRB, 's/POS, Wallington/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NNP Wallington))) (. ?)))
-K/KD/KD0.xml,KD0RE00N,17103,170,,A,109,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,170,,A,109,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00N,17103,171,,B,110,1,Oh that's boring.,"[Oh/UH, that/DT, 's/VBZ, boring/JJ, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ boring)))) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,172,,B,110,2,Why are we going this way then?,"[Why/WRB, are/VBP, we/PRP, going/VBG, this/DT, way/NN, then/RB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP are) (NP (PRP we)) (VP (VBG going) (NP (DT this) (NN way)) (ADVP (RB then)))) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,173,,A,111,1,"Are, are Manchester United not the most cockiest fans going aren't they?","[Are/VBP, ,/,, are/VBP, Manchester/NNP, United/NNP, not/RB, the/DT, most/RBS, cockiest/JJ, fans/NNS, going/VBG, aren/NNP, 't/PRP, they/PRP, ?/.]","(ROOT (SINV (FRAG (VP (VBP Are))) (, ,) (VP (VBP are) (NP (NNP Manchester) (NNP United)) (PP (RB not) (S (NP (DT the) (RBS most) (JJ cockiest) (NNS fans)) (VP (VBG going) (S (NP (NNP aren)) (NP (PRP 't))))))) (NP (PRP they)) (. ?)))"
@@ -194,7 +194,7 @@ K/KD/KD0.xml,KD0RE00N,17103,191,,A,117,1,"I think perhaps it's, it's worth it no
 K/KD/KD0.xml,KD0RE00N,17103,192,,A,117,2,"The season, I mean we're not gonna come top of the league are we?","[The/DT, season/NN, ,/,, I/PRP, mean/VBP, we/PRP, 're/VBP, not/RB, gonna/VB, come/VB, top/NN, of/IN, the/DT, league/NN, are/VBP, we/PRP, ?/.]","(ROOT (S (NP (DT The) (NN season)) (, ,) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (PRP we)) (VP (VBP 're) (VP (RB not) (S (VP (VB gonna) (VP (VB come) (SBAR (S (NP (NP (NN top)) (PP (IN of) (NP (DT the) (NN league)))) (VP (VBP are) (NP (PRP we))))))))))))) (. ?)))"
 K/KD/KD0.xml,KD0RE00N,17103,193,,A,117,3,Right?,"[Right/NN, ?/.]",(ROOT (INTJ (NN Right) (. ?)))
 K/KD/KD0.xml,KD0RE00N,17103,194,,A,117,4,We've gotta make sure we stay in the first division but ,"[We/PRP, 've/VBP, gotta/NNP, make/VB, sure/JJ, we/PRP, stay/VBP, in/IN, the/DT, first/JJ, division/NN, but/CC]",(ROOT (S (NP (PRP We)) (VP (VBP 've) (S (NP (NNP gotta)) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (PRP we)) (VP (VBP stay) (PP (IN in) (NP (DT the) (JJ first) (NN division))) (ADVP (CC but)))))))))))
-K/KD/KD0.xml,KD0RE00N,17103,195,,B,118,1,<singing with microphone> ,[],X
+K/KD/KD0.xml,KD0RE00N,17103,195,,B,118,1,<singing with microphone> ,[],
 K/KD/KD0.xml,KD0RE00N,17103,196,,A,119,1,I think we can afford to blood Colimore as a good one now.,"[I/PRP, think/VBP, we/PRP, can/MD, afford/VB, to/TO, blood/NN, Colimore/NN, as/IN, a/DT, good/JJ, one/CD, now/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (MD can) (VP (VB afford) (PP (TO to) (NP (NP (NN blood) (NN Colimore)) (PP (IN as) (NP (DT a) (JJ good) (CD one))))) (ADVP (RB now))))))) (. .)))
 K/KD/KD0.xml,KD0RE00N,17103,197,,A,119,2,"He could have this whole of this season to get used to playing, right?","[He/PRP, could/MD, have/VB, this/DT, whole/NN, of/IN, this/DT, season/NN, to/TO, get/VB, used/VBN, to/TO, playing/VBG, ,/,, right/NN, ?/.]","(ROOT (S (NP (PRP He)) (VP (MD could) (VP (VB have) (NP (NP (DT this) (NN whole)) (PP (IN of) (NP (DT this) (NN season) (S (VP (TO to) (VP (VB get) (VP (VBN used) (PP (TO to) (NP (NP (VBG playing)) (, ,) (NP (NN right))))))))))))) (. ?)))"
 K/KD/KD0.xml,KD0RE00N,17103,198,,B,120,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

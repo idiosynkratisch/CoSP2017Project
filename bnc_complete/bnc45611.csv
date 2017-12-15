@@ -4,7 +4,7 @@ K/KD/KDN.xml,KDNRE00G,45611,1,,B,2,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (
 K/KD/KDN.xml,KDNRE00G,45611,2,,B,2,2,That dog's got into there.,"[That/DT, dog/NN, 's/POS, got/VBD, into/IN, there/EX, ./.]",(ROOT (S (NP (DT That) (NN dog) (POS 's)) (VP (VBD got) (PP (IN into) (NP (EX there)))) (. .)))
 K/KD/KDN.xml,KDNRE00G,45611,3,,B,2,3,Do you want a top on that?,"[Do/VB, you/PRP, want/VBP, a/DT, top/NN, on/IN, that/DT, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (NP (DT a) (NN top)) (PP (IN on) (NP (DT that)))))))) (. ?)))
 K/KD/KDN.xml,KDNRE00G,45611,4,,A,3,1,I do.,"[I/PRP, do/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP do)) (. .)))
-K/KD/KDN.xml,KDNRE00G,45611,5,,B,4,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE00G,45611,5,,B,4,1,(()) ,[],
 K/KD/KDN.xml,KDNRE00G,45611,6,,A,5,1,Aye.,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
 K/KD/KDN.xml,KDNRE00G,45611,7,,A,5,2,Please.,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
 K/KD/KDN.xml,KDNRE00G,45611,8,,A,5,3,"Jean, one of our interviewers, er the girls  --","[Jean/NNP, ,/,, one/CD, of/IN, our/PRP$, interviewers/NNS, ,/,, er/NN, the/DT, girls/NNS, was/VBD, interviewing/VBG, a/DT, man/NN, yesterday/NN]","(ROOT (S (NP (NNP Jean)) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (PRP$ our) (NNS interviewers)) (, ,) (NP (NP (NN er)) (NP (DT the) (NNS girls)))))) (VP (VBD was) (VP (VBG interviewing) (NP (DT a) (NN man)) (NP (NN yesterday))))))"

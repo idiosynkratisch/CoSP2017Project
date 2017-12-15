@@ -14,7 +14,7 @@ K/KD/KDN.xml,KDNRE00T,45707,11,,A,7,1,What did you,"[What/WP, did/VBD, you/PRP]"
 K/KD/KDN.xml,KDNRE00T,45707,12,,B,8,1,It's only about ten minutes.,"[It/PRP, 's/VBZ, only/RB, about/RB, ten/CD, minutes/NNS, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (QP (RB only) (RB about) (CD ten)) (NNS minutes))) (. .)))
 K/KD/KDN.xml,KDNRE00T,45707,13,,A,9,1,Well the,"[Well/RB, the/DT]",(ROOT (FRAG (ADVP (RB Well)) (NP (DT the))))
 K/KD/KDN.xml,KDNRE00T,45707,14,,B,10,1,It's slow.,"[It/PRP, 's/VBZ, slow/JJ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJ slow))) (. .)))
-K/KD/KDN.xml,KDNRE00T,45707,15,,A,11,1,<sigh> ,[],X
+K/KD/KDN.xml,KDNRE00T,45707,15,,A,11,1,<sigh> ,[],
 K/KD/KDN.xml,KDNRE00T,45707,16,,A,11,2,Watch the end of it.,"[Watch/VB, the/DT, end/NN, of/IN, it/PRP, ./.]",(ROOT (S (VP (VB Watch) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (PRP it))))) (. .)))
 K/KD/KDN.xml,KDNRE00T,45707,17,,A,11,3,Ah?,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
 K/KD/KDN.xml,KDNRE00T,45707,18,,A,11,4,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))

@@ -13,7 +13,7 @@ K/KB/KBK.xml,KBKRE01R,2224,10,,B,10,1,Maybe it has the tree (()) .,"[Maybe/RB, i
 K/KB/KBK.xml,KBKRE01R,2224,11,,B,10,2,Hadn't specially noticed that.,"[Hadn/NNP, 't/PRP, specially/RB, noticed/VBD, that/IN, ./.]",(ROOT (S (NP (NNP Hadn) (PRP 't)) (ADVP (RB specially)) (VP (VBD noticed) (ADVP (IN that))) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,12,,B,10,3,Certainly into the ivy he was having a crack at.,"[Certainly/RB, into/IN, the/DT, ivy/NNP, he/PRP, was/VBD, having/VBG, a/DT, crack/NN, at/IN, ./.]",(ROOT (S (ADVP (RB Certainly)) (PP (IN into) (NP (DT the) (NNP ivy))) (NP (PRP he)) (VP (VBD was) (VP (VBG having) (NP (DT a) (NN crack)) (PP (IN at)))) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,13,,B,10,4,(()) the fence is in surprisingly good nick underneath it.,"[the/DT, fence/NN, is/VBZ, in/IN, surprisingly/RB, good/JJ, nick/NNP, underneath/IN, it/PRP, ./.]",(ROOT (S (NP (DT the) (NN fence)) (VP (VBZ is) (PP (IN in) (NP (NP (ADJP (RB surprisingly) (JJ good)) (NNP nick)) (PP (IN underneath) (NP (PRP it)))))) (. .)))
-K/KB/KBK.xml,KBKRE01R,2224,14,,A,11,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE01R,2224,14,,A,11,1,(()) ,[],
 K/KB/KBK.xml,KBKRE01R,2224,15,,B,12,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,16,,A,13,1,Any happenings?,"[Any/DT, happenings/NNS, ?/.]",(ROOT (NP (DT Any) (NNS happenings) (. ?)))
 K/KB/KBK.xml,KBKRE01R,2224,17,,A,13,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -21,15 +21,15 @@ K/KB/KBK.xml,KBKRE01R,2224,18,,B,14,1,"Midland Bank received our letter of credi
 K/KB/KBK.xml,KBKRE01R,2224,19,,A,15,1,Right.(()) ,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,20,,B,16,1,That's right.,"[That/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right))) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,21,,B,16,2,"She said, we'll ring you about any discrepancies on Monday  <laugh> didn't actually say we'll ring you about the discrepancies on Monday <laugh> .","[She/PRP, said/VBD, ,/,, we/PRP, 'll/MD, ring/VB, you/PRP, about/IN, any/DT, discrepancies/NNS, on/IN, Monday/NNP, didn/NNP, 't/PRP, actually/RB, say/VBP, we/PRP, 'll/MD, ring/VB, you/PRP, about/IN, the/DT, discrepancies/NNS, on/IN, Monday/NNP, ./.]","(ROOT (S (S (NP (PRP She)) (VP (VBD said))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ring) (NP (PRP you)) (PP (IN about) (NP (DT any) (NNS discrepancies))) (PP (IN on) (NP (NP (NNP Monday) (NNP didn)) (SBAR (S (NP (PRP 't)) (ADVP (RB actually)) (VP (VBP say) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB ring) (NP (PRP you)) (PP (IN about) (NP (NP (DT the) (NNS discrepancies)) (PP (IN on) (NP (NNP Monday)))))))))))))))) (. .)))"
-K/KB/KBK.xml,KBKRE01R,2224,22,,A,17,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE01R,2224,22,,A,17,1,(()) ,[],
 K/KB/KBK.xml,KBKRE01R,2224,23,,B,18,1,I didn't wish to disillusion her.<laugh> ,"[I/PRP, didn/VBP, 't/PRP, wish/VB, to/TO, disillusion/VB, her/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB wish) (S (VP (TO to) (VP (VB disillusion) (NP (PRP her)))))))) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,24,,A,19,1,"Have one up, they're all slightly different these credits, so","[Have/VB, one/CD, up/RB, ,/,, they/PRP, 're/VBP, all/DT, slightly/RB, different/JJ, these/DT, credits/NNS, ,/,, so/RB]","(ROOT (S (VP (VB Have) (S (ADVP (NP (CD one)) (RB up)) (, ,) (NP (PRP they)) (VP (VBP 're) (NP (DT all) (ADJP (RB slightly) (JJ different)) (NP (DT these) (NNS credits))) (, ,) (ADVP (RB so)))))))"
 K/KB/KBK.xml,KBKRE01R,2224,25,,B,20,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,26,,A,21,1,"so, check about two ","[so/RB, ,/,, check/VB, about/IN, two/CD]","(ROOT (VP (ADVP (RB so)) (, ,) (VB check) (NP (PP (IN about)) (NP (CD two)))))"
 K/KB/KBK.xml,KBKRE01R,2224,27,,B,22,1,I seemed to have got a significantly better offer on this (()) .,"[I/PRP, seemed/VBD, to/TO, have/VB, got/VBN, a/DT, significantly/RB, better/JJR, offer/NN, on/IN, this/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD seemed) (S (VP (TO to) (VP (VB have) (VP (VBN got) (NP (DT a) (ADJP (RB significantly) (JJR better)) (NN offer)) (PP (IN on) (NP (DT this)))))))) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,28,,B,22,2,(()) which is potentially exciting.,"[which/WDT, is/VBZ, potentially/RB, exciting/JJ, ./.]",(ROOT (S (NP (WDT which)) (VP (VBZ is) (ADJP (RB potentially) (JJ exciting))) (. .)))
-K/KB/KBK.xml,KBKRE01R,2224,29,,A,23,1,<laugh> ,[],X
-K/KB/KBK.xml,KBKRE01R,2224,30,,A,23,2,(()) ,[],X
+K/KB/KBK.xml,KBKRE01R,2224,29,,A,23,1,<laugh> ,[],
+K/KB/KBK.xml,KBKRE01R,2224,30,,A,23,2,(()) ,[],
 K/KB/KBK.xml,KBKRE01R,2224,31,,B,24,1,"No, from <<REDACTED (name)>> .","[No/DT, ,/,, from/IN, >/JJR, ./.]","(ROOT (FRAG (NP (DT No)) (, ,) (PP (IN from) (NP (JJR >))) (. .)))"
 K/KB/KBK.xml,KBKRE01R,2224,32,,A,25,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KB/KBK.xml,KBKRE01R,2224,33,,B,26,1,They ,[They/PRP],(ROOT (FRAG (NP (PRP They))))

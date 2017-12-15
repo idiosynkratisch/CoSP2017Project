@@ -140,7 +140,7 @@ K/KB/KBL.xml,KBLRE00Y,40601,137,,A,75,3,You know!,"[You/PRP, know/VBP, !/.]",(RO
 K/KB/KBL.xml,KBLRE00Y,40601,138,,B,76,1,Pick it up in a bag,"[Pick/VB, it/PRP, up/RP, in/IN, a/DT, bag/NN]",(ROOT (VP (VB Pick) (NP (PRP it)) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN bag)))))
 K/KB/KBL.xml,KBLRE00Y,40601,139,,A,77,1,Yeah.(()) ,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBL.xml,KBLRE00Y,40601,140,,B,78,1,and put it in the bin.,"[and/CC, put/VB, it/PRP, in/IN, the/DT, bin/NN, ./.]",(ROOT (S (CC and) (VP (VB put) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN bin)))) (. .)))
-K/KB/KBL.xml,KBLRE00Y,40601,141,,A,79,1,(()) ,[],X
+K/KB/KBL.xml,KBLRE00Y,40601,141,,A,79,1,(()) ,[],
 K/KB/KBL.xml,KBLRE00Y,40601,142,,B,80,1,No it won't!,"[No/DT, it/PRP, won/VBD, 't/PRP, !/.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBD won) (NP (PRP 't))) (. !)))
 K/KB/KBL.xml,KBLRE00Y,40601,143,,B,80,2,He's alright this morning.,"[He/PRP, 's/VBZ, alright/JJ, this/DT, morning/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ alright)) (NP (DT this) (NN morning))) (. .)))
 K/KB/KBL.xml,KBLRE00Y,40601,144,,B,80,3,Don't you dare let him crap anywhere!,"[Don/NNP, 't/PRP, you/PRP, dare/VBP, let/VB, him/PRP, crap/NN, anywhere/RB, !/.]",(ROOT (S (NP (NNP Don) (PRP 't)) (NP (PRP you)) (VP (VBP dare) (S (VP (VB let) (S (NP (PRP him)) (NP (NN crap) (RB anywhere)))))) (. !)))
@@ -155,4 +155,4 @@ K/KB/KBL.xml,KBLRE00Y,40601,152,,A,83,3,--pieces of paper are you?,"[You/PRP, 'r
 K/KB/KBL.xml,KBLRE00Y,40601,153,,B,84,1,"Cos I would of thought, you would of thought that that was absolutely awful!","[Cos/NN, I/PRP, would/MD, of/IN, thought/NN, ,/,, you/PRP, would/MD, of/IN, thought/NN, that/IN, that/DT, was/VBD, absolutely/RB, awful/JJ, !/.]","(ROOT (S (NP (NP (NN Cos)) (SBAR (S (NP (PRP I)) (VP (MD would) (PP (IN of) (NP (NN thought))))))) (, ,) (NP (PRP you)) (VP (MD would) (VP (PP (IN of) (NP (NN thought))) (SBAR (IN that) (S (NP (DT that)) (VP (VBD was) (ADJP (RB absolutely) (JJ awful))))))) (. !)))"
 K/KB/KBL.xml,KBLRE00Y,40601,154,,A,85,1,Well it is awful but I don't know what you can do about it!,"[Well/RB, it/PRP, is/VBZ, awful/JJ, but/CC, I/PRP, don/VBP, 't/PRP, know/VB, what/WP, you/PRP, can/MD, do/VB, about/IN, it/PRP, !/.]",(ROOT (S (S (INTJ (RB Well)) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ awful)))) (CC but) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (MD can) (VP (VB do) (PP (IN about) (NP (PRP it))))))))))) (. !)))
 K/KB/KBL.xml,KBLRE00Y,40601,155,,B,86,1,Pick it up!,"[Pick/VB, it/PRP, up/RP, !/.]",(ROOT (S (VP (VB Pick) (NP (PRP it)) (PRT (RP up))) (. !)))
-K/KB/KBL.xml,KBLRE00Y,40601,156,,A,87,1,(()) ,[],X
+K/KB/KBL.xml,KBLRE00Y,40601,156,,A,87,1,(()) ,[],

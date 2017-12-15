@@ -2,7 +2,7 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KD/KDE.xml,KDERE017,7014,0,,A,1,1,I got you.,"[I/PRP, got/VBD, you/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD got) (NP (PRP you))) (. .)))
 K/KD/KDE.xml,KDERE017,7014,1,,A,1,2,"Ah, ah, ah ahah.<scream> ","[Ah/NN, ,/,, ah/NN, ,/,, ah/NN, ahah/NN, ./.]","(ROOT (NP (NP (NN Ah)) (, ,) (NP (NP (NN ah)) (, ,) (NP (NN ah) (NN ahah))) (. .)))"
 K/KD/KDE.xml,KDERE017,7014,2,,B,2,1,Time out now cos daddy's having his coffee and its very very very hot.,"[Time/NN, out/IN, now/RB, cos/NN, daddy/NNP, 's/POS, having/VBG, his/PRP$, coffee/NN, and/CC, its/PRP$, very/RB, very/RB, very/RB, hot/JJ, ./.]",(ROOT (NP (NP (NP (NN Time)) (PP (IN out) (NP (RB now) (NN cos)))) (SBAR (S (S (NP (NNP daddy) (POS 's)) (VP (VBG having) (NP (PRP$ his) (NN coffee)))) (CC and) (S (NP (PRP$ its)) (ADJP (ADJP (RB very) (RB very) (RB very)) (JJ hot))))) (. .)))
-K/KD/KDE.xml,KDERE017,7014,3,,A,3,1,<laugh> ,[],X
+K/KD/KDE.xml,KDERE017,7014,3,,A,3,1,<laugh> ,[],
 K/KD/KDE.xml,KDERE017,7014,4,,B,4,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KD/KDE.xml,KDERE017,7014,5,,B,4,2,Time out.,"[Time/NN, out/RP, ./.]",(ROOT (FRAG (NP (NN Time)) (ADVP (RP out)) (. .)))
 K/KD/KDE.xml,KDERE017,7014,6,,B,4,3,I'm having my coffee now and it's hot.,"[I/PRP, 'm/VBP, having/VBG, my/PRP$, coffee/NN, now/RB, and/CC, it/PRP, 's/VBZ, hot/JJ, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG having) (NP (NP (PRP$ my) (NN coffee)) (ADVP (RB now)))))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hot)))) (. .)))

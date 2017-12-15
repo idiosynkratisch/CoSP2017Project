@@ -48,7 +48,7 @@ K/KB/KBK.xml,KBKRE029,2308,45,,B,18,1,Fifteen.,"[Fifteen/CD, ./.]",(ROOT (FRAG (
 K/KB/KBK.xml,KBKRE029,2308,46,,A,19,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE029,2308,47,,B,20,1,Nineteen and twenty.,"[Nineteen/CD, and/CC, twenty/CD, ./.]",(ROOT (NP (NP (NP (CD Nineteen)) (CC and) (NP (CD twenty))) (. .)))
 K/KB/KBK.xml,KBKRE029,2308,48,,A,21,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE029,2308,49,,B,22,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE029,2308,49,,B,22,1,(()) ,[],
 K/KB/KBK.xml,KBKRE029,2308,50,,A,23,1,"That's all, that I can see,(()) too pleased, but still.","[That/DT, 's/VBZ, all/RB, ,/,, that/IN, I/PRP, can/MD, see/VB, ,/,, too/RB, pleased/JJ, ,/,, but/CC, still/RB, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (NP (RB all)) (, ,) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can) (VP (VB see)))))) (, ,) (ADJP (ADJP (RB too) (JJ pleased)) (PRN (, ,) (CC but) (ADVP (RB still)))))) (. .)))"
-K/KB/KBK.xml,KBKRE029,2308,51,,B,24,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE029,2308,51,,B,24,1,(()) ,[],
 K/KB/KBK.xml,KBKRE029,2308,52,,A,25,1,"I think I shall if item one is, which is quite a biggie.","[I/PRP, think/VBP, I/PRP, shall/MD, if/IN, item/NN, one/CD, is/VBZ, ,/,, which/WDT, is/VBZ, quite/RB, a/DT, biggie/NN, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (MD shall) (SBAR (IN if) (S (NP (NN item) (CD one)) (VP (VBZ is) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (RB quite) (DT a) (NN biggie)))))))))))) (. .)))"

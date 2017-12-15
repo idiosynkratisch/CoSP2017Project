@@ -36,7 +36,7 @@ K/KB/KBP.xml,KBPRE00C,26609,33,,A,19,1,<laugh> (()) lovely isn't he?,"[lovely/JJ
 K/KB/KBP.xml,KBPRE00C,26609,34,,B,20,1,(()) yourself.<laugh> ,"[yourself/PRP, ./.]",(ROOT (FRAG (NP (PRP yourself)) (. .)))
 K/KB/KBP.xml,KBPRE00C,26609,35,,A,21,1,Have you seen this?(()) it's nice.,"[Have/VB, you/PRP, seen/VBN, this/DT, ?/., it/PRP, 's/VBZ, nice/JJ, ./.]",(ROOT (S (S (VP (VB Have) (S (NP (PRP you)) (VP (VBN seen) (NP (DT this)))))) (. ?) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ nice))) (. .)))
 K/KB/KBP.xml,KBPRE00C,26609,36,,B,22,1,"What (()) , what is this?","[What/WP, ,/,, what/WP, is/VBZ, this/DT, ?/.]","(ROOT (SBARQ (NP (WP What)) (, ,) (WHNP (WP what)) (SQ (VBZ is) (NP (DT this))) (. ?)))"
-K/KB/KBP.xml,KBPRE00C,26609,37,,A,23,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE00C,26609,37,,A,23,1,(()) ,[],
 K/KB/KBP.xml,KBPRE00C,26609,38,,B,24,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KB/KBP.xml,KBPRE00C,26609,39,,B,24,2,(()) . Ooh.,"[./., Ooh/NN, ./.]",(ROOT (NP (. .) (NN Ooh) (. .)))
 K/KB/KBP.xml,KBPRE00C,26609,40,,A,25,1,Bring your thing with you.<laugh> ,"[Bring/VB, your/PRP$, thing/NN, with/IN, you/PRP, ./.]",(ROOT (S (VP (VB Bring) (NP (PRP$ your) (NN thing)) (PP (IN with) (NP (PRP you)))) (. .)))

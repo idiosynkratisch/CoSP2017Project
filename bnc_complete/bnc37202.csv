@@ -159,9 +159,9 @@ K/KE/KE6.xml,KE6RE00U,37202,156,,A,83,1,"Right,(()) .","[Right/NN, ,/,, ./.]","(
 K/KE/KE6.xml,KE6RE00U,37202,157,,A,83,2,(()) --,"[she/PRP, thought/VBD, of/IN, anybody/NN, good/JJ, I/PRP, suppose/VBP, you/PRP, 'd/MD, have/VB, a/DT]",(ROOT (S (NP (PRP she)) (VP (VBD thought) (PP (IN of) (NP (NN anybody))) (S (ADJP (JJ good) (SBAR (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (NP (DT a))))))))))))))
 K/KE/KE6.xml,KE6RE00U,37202,158,,A,83,3,--(()) --,"[she/PRP, thought/VBD, of/IN, anybody/NN, good/JJ, I/PRP, suppose/VBP, you/PRP, 'd/MD, have/VB, a/DT]",(ROOT (S (NP (PRP she)) (VP (VBD thought) (PP (IN of) (NP (NN anybody))) (S (ADJP (JJ good) (SBAR (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (NP (DT a))))))))))))))
 K/KE/KE6.xml,KE6RE00U,37202,159,,A,83,4,--she thought of anybody good I suppose you'd have a ,"[she/PRP, thought/VBD, of/IN, anybody/NN, good/JJ, I/PRP, suppose/VBP, you/PRP, 'd/MD, have/VB, a/DT]",(ROOT (S (NP (PRP she)) (VP (VBD thought) (PP (IN of) (NP (NN anybody))) (S (ADJP (JJ good) (SBAR (S (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (NP (DT a))))))))))))))
-K/KE/KE6.xml,KE6RE00U,37202,160,,B,84,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE00U,37202,160,,B,84,1,(()) ,[],
 K/KE/KE6.xml,KE6RE00U,37202,161,,A,85,1,you'd have a job wouldn't you?,"[you/PRP, 'd/MD, have/VB, a/DT, job/NN, wouldn/NN, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (NP (NP (DT a) (NN job) (NN wouldn)) (SBAR (S (NP (PRP 't))))) (NP (PRP you)))) (. ?)))
-K/KE/KE6.xml,KE6RE00U,37202,162,,B,86,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE00U,37202,162,,B,86,1,(()) ,[],
 K/KE/KE6.xml,KE6RE00U,37202,163,,A,87,1,Aye.,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
 K/KE/KE6.xml,KE6RE00U,37202,164,,B,88,1,Can't find anyone (()) .,"[Can/MD, 't/PRP, find/VB, anyone/NN, ./.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB find) (NP (NN anyone))) (. .)))
 K/KE/KE6.xml,KE6RE00U,37202,165,,A,89,1,That's  --,"[That/DT, 's/VBZ, what/WP, ?/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (WHNP (WP what))) (. ?)))
@@ -190,7 +190,7 @@ K/KE/KE6.xml,KE6RE00U,37202,187,,A,99,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Y
 K/KE/KE6.xml,KE6RE00U,37202,188,,A,99,2,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KE/KE6.xml,KE6RE00U,37202,189,,A,99,3,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KE/KE6.xml,KE6RE00U,37202,190,,A,99,4,Oops!,"[Oops/UH, !/.]",(ROOT (INTJ (UH Oops) (. !)))
-K/KE/KE6.xml,KE6RE00U,37202,191,,B,100,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE00U,37202,191,,B,100,1,(()) ,[],
 K/KE/KE6.xml,KE6RE00U,37202,192,,A,101,1,Must use those carrots up Sunday though won't we?,"[Must/MD, use/VB, those/DT, carrots/NNS, up/IN, Sunday/NNP, though/IN, won/NNP, 't/PRP, we/PRP, ?/.]",(ROOT (S (VP (MD Must) (VP (VB use) (NP (DT those) (NNS carrots)) (PP (IN up) (NP (NP (NNP Sunday)) (SBAR (IN though) (S (VP (NNP won) (S (NP (PRP 't)) (NP (PRP we)))))))))) (. ?)))
 K/KE/KE6.xml,KE6RE00U,37202,193,,B,102,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE6.xml,KE6RE00U,37202,194,,B,102,2,"Oh!(()) ,(()) not to use that thing up.","[Oh/UH, !/., ,/,, not/RB, to/TO, use/VB, that/DT, thing/NN, up/RP, ./.]","(ROOT (S (INTJ (UH Oh) (. !)) (, ,) (VP (ADVP (RB not) (PP (TO to))) (VB use) (NP (NP (DT that) (NN thing)) (ADVP (RP up)))) (. .)))"

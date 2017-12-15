@@ -46,10 +46,10 @@ K/KC/KCK.xml,KCKRE000,73101,43,,A,21,2,--(()) --,"[he/PRP, got/VBD, he/PRP, got/
 K/KC/KCK.xml,KCKRE000,73101,44,,A,21,3,--he got today nearly.,"[he/PRP, got/VBD, he/PRP, got/VBD, today/NN, nearly/RB, ./.]",(ROOT (S (NP (PRP he)) (VP (VBD got) (SBAR (S (NP (PRP he)) (VP (VBD got) (NP (NN today)) (ADVP (RB nearly)))))) (. .)))
 K/KC/KCK.xml,KCKRE000,73101,45,,A,21,4,He got O and he got i- ,"[He/PRP, got/VBD, O/NN, and/CC, he/PRP, got/VBD, i-/NN]",(ROOT (S (NP (PRP He)) (VP (VBD got) (SBAR (S (NP (NP (NN O)) (CC and) (NP (PRP he))) (VP (VBD got) (NP (NN i-))))))))
 K/KC/KCK.xml,KCKRE000,73101,46,,B,22,1,Oh let us have a look.,"[Oh/UH, let/VB, us/PRP, have/VB, a/DT, look/NN, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (VB let) (S (NP (PRP us)) (VP (VB have) (NP (DT a) (NN look))))) (. .)))
-K/KC/KCK.xml,KCKRE000,73101,47,,B,22,2,(()) ,[],X
+K/KC/KCK.xml,KCKRE000,73101,47,,B,22,2,(()) ,[],
 K/KC/KCK.xml,KCKRE000,73101,48,,A,23,1,That's quite a good attempt though isn't it?,"[That/DT, 's/VBZ, quite/RB, a/DT, good/JJ, attempt/NN, though/IN, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADVP (RB quite) (NP (NP (DT a) (JJ good) (NN attempt)) (PP (IN though) (NP (NP (NN isn)) (NP (PRP 't)))))) (NP (PRP it))) (. ?)))
 K/KC/KCK.xml,KCKRE000,73101,49,,B,24,1,I would have ta- taken the coffee down to erm,"[I/PRP, would/MD, have/VB, ta-/JJ, taken/VBN, the/DT, coffee/NN, down/IN, to/TO, erm/VB]",(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB have) (NP (NP (JJ ta-)) (VP (VBN taken) (ADVP (NP (DT the) (NN coffee)) (IN down)) (S (VP (TO to) (VP (VB erm))))))))))
-K/KC/KCK.xml,KCKRE000,73101,50,,B,24,2,(()) ,[],X
+K/KC/KCK.xml,KCKRE000,73101,50,,B,24,2,(()) ,[],
 K/KC/KCK.xml,KCKRE000,73101,51,,A,25,1,Right thanks very much.,"[Right/JJ, thanks/NNS, very/RB, much/RB, ./.]",(ROOT (FRAG (NP (JJ Right) (NNS thanks)) (ADVP (RB very) (RB much)) (. .)))
 K/KC/KCK.xml,KCKRE000,73101,52,,B,26,1,Let me just take a coffee down to er  --,"[Let/VB, me/PRP, just/RB, take/VBP, a/DT, coffee/NN, down/IN, to/TO, er/NN, ./.]",(ROOT (S (VP (VB Let) (SBAR (S (NP (PRP me)) (ADVP (RB just)) (VP (VBP take) (NP (DT a) (NN coffee)) (ADVP (IN down) (PP (TO to) (NP (NN er)))))))) (. .)))
 K/KC/KCK.xml,KCKRE000,73101,53,,B,26,2,--(()) .,"[Let/VB, me/PRP, just/RB, take/VBP, a/DT, coffee/NN, down/IN, to/TO, er/NN, ./.]",(ROOT (S (VP (VB Let) (SBAR (S (NP (PRP me)) (ADVP (RB just)) (VP (VBP take) (NP (DT a) (NN coffee)) (ADVP (IN down) (PP (TO to) (NP (NN er)))))))) (. .)))
@@ -57,10 +57,10 @@ K/KC/KCK.xml,KCKRE000,73101,54,,A,27,1,I've actually spilt   (()) --,"[I/PRP, 'v
 K/KC/KCK.xml,KCKRE000,73101,55,,A,27,2,--in the hole.,"[I/PRP, 've/VBP, actually/RB, spilt/VBN, in/IN, the/DT, hole/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB actually)) (VP (VBN spilt) (PP (IN in) (NP (DT the) (NN hole))))) (. .)))
 K/KC/KCK.xml,KCKRE000,73101,56,,B,28,1,You haven't had a coffee yet?,"[You/PRP, haven/NN, 't/PRP, had/VBD, a/DT, coffee/NN, yet/RB, ?/.]",(ROOT (S (NP (PRP You)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD had) (NP (DT a) (NN coffee)) (ADVP (RB yet)))))) (. ?)))
 K/KC/KCK.xml,KCKRE000,73101,57,,B,28,2,Get the  (()) ,"[Get/VB, the/DT]",(ROOT (S (VP (VB Get) (NP (DT the)))))
-K/KC/KCK.xml,KCKRE000,73101,58,,B,28,3,(()) ,[],X
+K/KC/KCK.xml,KCKRE000,73101,58,,B,28,3,(()) ,[],
 K/KC/KCK.xml,KCKRE000,73101,59,,B,28,4,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KC/KCK.xml,KCKRE000,73101,60,,B,28,5,They've (()) ,"[They/PRP, 've/VBP]",(ROOT (S (NP (PRP They)) (VP (VBP 've))))
-K/KC/KCK.xml,KCKRE000,73101,61,,B,28,6,(()) ,[],X
+K/KC/KCK.xml,KCKRE000,73101,61,,B,28,6,(()) ,[],
 K/KC/KCK.xml,KCKRE000,73101,62,,A,29,1,Was David  --,"[Was/VBD, David/NNP, not/RB, very/RB, good/JJ, last/JJ, ye-/NN, last/JJ, year/NN, ?/.]",(ROOT (S (VP (VBD Was) (NP (NP (NNP David)) (PP (RB not) (NP (NP (ADJP (RB very) (JJ good)) (JJ last) (NN ye-)) (NP (JJ last) (NN year)))))) (. ?)))
 K/KC/KCK.xml,KCKRE000,73101,63,,A,29,2,--not very good last ye- last year?,"[Was/VBD, David/NNP, not/RB, very/RB, good/JJ, last/JJ, ye-/NN, last/JJ, year/NN, ?/.]",(ROOT (S (VP (VBD Was) (NP (NP (NNP David)) (PP (RB not) (NP (NP (ADJP (RB very) (JJ good)) (JJ last) (NN ye-)) (NP (JJ last) (NN year)))))) (. ?)))
 K/KC/KCK.xml,KCKRE000,73101,64,,A,29,3,I mean ,"[I/PRP, mean/VBP]",(ROOT (S (NP (PRP I)) (VP (VBP mean))))

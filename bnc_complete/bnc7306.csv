@@ -11,7 +11,7 @@ K/KD/KDE.xml,KDERE02A,7306,8,,B,6,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (.
 K/KD/KDE.xml,KDERE02A,7306,9,,A,7,1,Oh I like her.,"[Oh/UH, I/PRP, like/IN, her/PRP, ./.]",(ROOT (S (VP (PP (NP (UH Oh)) (NP (NP (PRP I)) (PP (IN like) (NP (PRP her)))))) (. .)))
 K/KD/KDE.xml,KDERE02A,7306,10,,B,8,1,I don't.,"[I/PRP, don/VBP, 't/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't))) (. .)))
 K/KD/KDE.xml,KDERE02A,7306,11,,A,9,1,Don't you?,"[Don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (NP (NP (NNP Don)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
-K/KD/KDE.xml,KDERE02A,7306,12,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02A,7306,12,,B,10,1,(()) ,[],
 K/KD/KDE.xml,KDERE02A,7306,13,,A,11,1,Why don't you like her?,"[Why/WRB, don/NNP, 't/PRP, you/PRP, like/IN, her/PRP$, ?/.]",(ROOT (FRAG (SBARQ (WHADVP (WRB Why) (NP (NP (NNP don)) (NP (PRP 't)))) (SQ (NP (PRP you)) (PP (IN like) (NP (PRP$ her)))) (. ?))))
 K/KD/KDE.xml,KDERE02A,7306,14,,B,12,1,She's being nasty.,"[She/PRP, 's/VBZ, being/VBG, nasty/JJ, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG being) (ADJP (JJ nasty)))) (. .)))
 K/KD/KDE.xml,KDERE02A,7306,15,,A,13,1,Why is she being nasty?,"[Why/WRB, is/VBZ, she/PRP, being/VBG, nasty/JJ, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBZ is) (NP (PRP she)) (VP (VBG being) (ADJP (JJ nasty)))) (. ?)))

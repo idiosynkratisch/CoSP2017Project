@@ -44,7 +44,7 @@ K/KB/KBW.xml,KBWRE00U,22507,41,,A,35,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .
 K/KB/KBW.xml,KBWRE00U,22507,42,,A,35,2,Big tooth this was so I think I left an extra five p,"[Big/JJ, tooth/NN, this/DT, was/VBD, so/RB, I/PRP, think/VBP, I/PRP, left/VBD, an/DT, extra/JJ, five/CD, p/NN]",(ROOT (FRAG (NP (NP (JJ Big) (NN tooth)) (SBAR (S (NP (DT this)) (VP (VBD was) (ADJP (RB so) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBD left) (NP (DT an) (JJ extra) (CD five) (NN p)))))))))))))))
 K/KB/KBW.xml,KBWRE00U,22507,43,,B,36,1,Did they?,"[Did/VBD, they/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP they))) (. ?)))
 K/KB/KBW.xml,KBWRE00U,22507,44,,A,37,1,for a front one.,"[for/IN, a/DT, front/JJ, one/CD, ./.]",(ROOT (FRAG (PP (IN for) (NP (DT a) (JJ front) (CD one))) (. .)))
-K/KB/KBW.xml,KBWRE00U,22507,45,,B,38,1,(()) ,[],X
+K/KB/KBW.xml,KBWRE00U,22507,45,,B,38,1,(()) ,[],
 K/KB/KBW.xml,KBWRE00U,22507,46,,A,39,1,Good that wasn't it?,"[Good/JJ, that/IN, wasn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (X (NP (NP (JJ Good)) (PP (IN that) (NP (NN wasn)))) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
 K/KB/KBW.xml,KBWRE00U,22507,47,,B,40,1,Bless him.,"[Bless/VB, him/PRP, ./.]",(ROOT (S (VP (VB Bless) (NP (PRP him))) (. .)))
 K/KB/KBW.xml,KBWRE00U,22507,48,,B,40,2,So how's he coping with his starter    --,"[So/RB, how/WRB, 's/POS, he/PRP, coping/VBG, with/IN, his/PRP$, starter/JJ]",(ROOT (SBARQ (WHADVP (ADVP (RB So)) (WRB how)) (SQ (POS 's) (NP (PRP he)) (VP (VBG coping) (PP (IN with) (NP (PRP$ his) (JJ starter)))))))

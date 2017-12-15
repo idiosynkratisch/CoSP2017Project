@@ -41,4 +41,4 @@ K/KB/KBK.xml,KBKRE002,2003,38,,A,23,2,Extraordinary.,"[Extraordinary/JJ, ./.]",(
 K/KB/KBK.xml,KBKRE002,2003,39,,A,23,3,Will you have toast?,"[Will/MD, you/PRP, have/VB, toast/NN, ?/.]",(ROOT (SQ (MD Will) (NP (PRP you)) (VP (VB have) (NP (NN toast))) (. ?)))
 K/KB/KBK.xml,KBKRE002,2003,40,,A,23,4,Cake?,"[Cake/NN, ?/.]",(ROOT (FRAG (NP (NN Cake)) (. ?)))
 K/KB/KBK.xml,KBKRE002,2003,41,,A,23,5,"Sorry, will you have some toast?","[Sorry/JJ, ,/,, will/MD, you/PRP, have/VB, some/DT, toast/NN, ?/.]","(ROOT (SINV (FRAG (ADJP (JJ Sorry))) (, ,) (VP (MD will)) (NP (PRP you)) (S (VP (VB have) (NP (DT some) (NN toast)))) (. ?)))"
-K/KB/KBK.xml,KBKRE002,2003,42,,B,24,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE002,2003,42,,B,24,1,(()) ,[],

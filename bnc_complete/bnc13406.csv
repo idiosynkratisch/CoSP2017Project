@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDA.xml,KDARE03B,13406,0,,A,1,1,Beg forgiveness and say please get off my  (()) ,"[Beg/VB, forgiveness/NN, and/CC, say/VB, please/UH, get/VB, off/RP, my/PRP$]",(ROOT (S (VP (VP (VB Beg) (NP (NN forgiveness))) (CC and) (VP (VB say) (S (INTJ (UH please)) (VP (VB get) (PRT (RP off)) (NP (PRP$ my))))))))
-K/KD/KDA.xml,KDARE03B,13406,1,,B,2,1,(()) ,[],X
+K/KD/KDA.xml,KDARE03B,13406,1,,B,2,1,(()) ,[],
 K/KD/KDA.xml,KDARE03B,13406,2,,A,3,1,(()) like that  --,"[like/IN, that/DT, don/NNP, 't/PRP, you/PRP, normally/RB, go/VB, in/IN, the/DT, garage/NN, and/CC, do/VBP, it/PRP]",(ROOT (PP (IN like) (NP (NP (DT that)) (PP (NNP don) (NP (PRP 't))) (SBAR (S (NP (PRP you)) (ADVP (RB normally)) (VP (VP (VB go) (PP (IN in) (NP (DT the) (NN garage)))) (CC and) (VP (VBP do) (NP (PRP it)))))))))
 K/KD/KDA.xml,KDARE03B,13406,3,,A,3,2,--don't you normally go in the garage and do it,"[like/IN, that/DT, don/NNP, 't/PRP, you/PRP, normally/RB, go/VB, in/IN, the/DT, garage/NN, and/CC, do/VBP, it/PRP]",(ROOT (PP (IN like) (NP (NP (DT that)) (PP (NNP don) (NP (PRP 't))) (SBAR (S (NP (PRP you)) (ADVP (RB normally)) (VP (VP (VB go) (PP (IN in) (NP (DT the) (NN garage)))) (CC and) (VP (VBP do) (NP (PRP it)))))))))
 K/KD/KDA.xml,KDARE03B,13406,4,,B,4,1,"yeah,(()) ","[yeah/UH, ,/,]","(ROOT (FRAG (PP (UH yeah)) (, ,)))"
@@ -10,14 +10,14 @@ K/KD/KDA.xml,KDARE03B,13406,7,,A,7,1,"Well then I can't believe that any garage 
 K/KD/KDA.xml,KDARE03B,13406,8,,B,8,1,"I'll ask for, I'll ask for ten pence (()) ","[I/PRP, 'll/MD, ask/VB, for/IN, ,/,, I/PRP, 'll/MD, ask/VB, for/IN, ten/CD, pence/NN]","(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB ask) (SBAR (IN for) (, ,) (S (NP (PRP I)) (VP (MD 'll) (VP (VB ask) (PP (IN for) (NP (CD ten) (NN pence)))))))))))"
 K/KD/KDA.xml,KDARE03B,13406,9,,A,9,1,Fucking go somewhere else then  --,"[Fucking/VBG, go/VB, somewhere/RB, else/RB, then/RB, now/RB, you/PRP, know/VBP, where/WRB, not/RB, to/TO, go/VB, don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (S (VP (VBG Fucking) (S (VP (VB go) (NP (RB somewhere) (RB else) (RB then)) (ADVP (RB now)))))) (NP (PRP you)) (VP (VBP know) (SBAR (WHADVP (WRB where) (RB not)) (S (VP (TO to) (VP (VB go) (S (VP (NNP don) (S (NP (PRP 't)) (NP (PRP you)))))))))) (. ?)))
 K/KD/KDA.xml,KDARE03B,13406,10,,A,9,2,--now you know where not to go don't you?,"[Fucking/VBG, go/VB, somewhere/RB, else/RB, then/RB, now/RB, you/PRP, know/VBP, where/WRB, not/RB, to/TO, go/VB, don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (S (VP (VBG Fucking) (S (VP (VB go) (NP (RB somewhere) (RB else) (RB then)) (ADVP (RB now)))))) (NP (PRP you)) (VP (VBP know) (SBAR (WHADVP (WRB where) (RB not)) (S (VP (TO to) (VP (VB go) (S (VP (NNP don) (S (NP (PRP 't)) (NP (PRP you)))))))))) (. ?)))
-K/KD/KDA.xml,KDARE03B,13406,11,,B,10,1,(()) ,[],X
-K/KD/KDA.xml,KDARE03B,13406,12,,B,10,2,<laugh> ,[],X
-K/KD/KDA.xml,KDARE03B,13406,13,,B,10,3,(()) ,[],X
+K/KD/KDA.xml,KDARE03B,13406,11,,B,10,1,(()) ,[],
+K/KD/KDA.xml,KDARE03B,13406,12,,B,10,2,<laugh> ,[],
+K/KD/KDA.xml,KDARE03B,13406,13,,B,10,3,(()) ,[],
 K/KD/KDA.xml,KDARE03B,13406,14,,A,11,1,Nobody has  --,"[Nobody/NN, has/VBZ]",(ROOT (S (NP (NN Nobody)) (VP (VBZ has))))
 K/KD/KDA.xml,KDARE03B,13406,15,,A,11,2,--(()) ,"[Nobody/NN, has/VBZ]",(ROOT (S (NP (NN Nobody)) (VP (VBZ has))))
 K/KD/KDA.xml,KDARE03B,13406,16,,B,12,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
 K/KD/KDA.xml,KDARE03B,13406,17,,A,13,1,"Saying, quite easy to go into a garage then ","[Saying/VBG, ,/,, quite/RB, easy/JJ, to/TO, go/VB, into/IN, a/DT, garage/NN, then/RB]","(ROOT (S (VP (VBG Saying) (, ,) (ADVP (RB quite) (ADJP (JJ easy))) (S (VP (TO to) (VP (VB go) (PP (IN into) (NP (DT a) (NN garage))) (ADVP (RB then))))))))"
-K/KD/KDA.xml,KDARE03B,13406,18,,B,14,1,(()) ,[],X
+K/KD/KDA.xml,KDARE03B,13406,18,,B,14,1,(()) ,[],
 K/KD/KDA.xml,KDARE03B,13406,19,,A,15,1,So what's fucking new?,"[So/RB, what/WP, 's/VBZ, fucking/VBG, new/JJ, ?/.]",(ROOT (SBARQ (RB So) (WHNP (WP what)) (SQ (VP (VBZ 's) (VP (VBG fucking) (ADJP (JJ new))))) (. ?)))
 K/KD/KDA.xml,KDARE03B,13406,20,,B,16,1,Ah?,"[Ah/NN, ?/.]",(ROOT (INTJ (NN Ah) (. ?)))
 K/KD/KDA.xml,KDARE03B,13406,21,,B,16,2,You heard,"[You/PRP, heard/VBD]",(ROOT (S (NP (PRP You)) (VP (VBD heard))))

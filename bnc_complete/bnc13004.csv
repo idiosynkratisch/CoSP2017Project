@@ -4,7 +4,7 @@ K/KD/KDA.xml,KDARE02L,13004,1,,B,2,1,Can't we get it on the (()) ,"[Can/MD, 't/P
 K/KD/KDA.xml,KDARE02L,13004,2,,B,2,2,"Yeah, how much did you get then?","[Yeah/UH, ,/,, how/WRB, much/JJ, did/VBD, you/PRP, get/VB, then/RB, ?/.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (WRB how)) (NP (JJ much)) (VP (VBD did) (S (NP (PRP you)) (VP (VB get) (ADVP (RB then))))) (. ?)))"
 K/KD/KDA.xml,KDARE02L,13004,3,,B,2,3,"Oh, its not the  (()) not like you see those goodies.","[Oh/UH, ,/,, its/PRP$, not/RB, the/DT, not/RB, like/IN, you/PRP, see/VBP, those/DT, goodies/NNS, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP$ its)) (VP (ADVP (RB not) (NP (DT the) (RB not)) (PP (IN like) (NP (PRP you)))) (VBP see) (NP (DT those) (NNS goodies))) (. .)))"
 K/KD/KDA.xml,KDARE02L,13004,4,,B,2,4,Oh yeah,"[Oh/UH, yeah/UH]",(ROOT (INTJ (UH Oh) (UH yeah)))
-K/KD/KDA.xml,KDARE02L,13004,5,,B,2,5,(()) ,[],X
+K/KD/KDA.xml,KDARE02L,13004,5,,B,2,5,(()) ,[],
 K/KD/KDA.xml,KDARE02L,13004,6,,B,2,6,(()) next week.,"[next/JJ, week/NN, ./.]",(ROOT (NP (JJ next) (NN week) (. .)))
 K/KD/KDA.xml,KDARE02L,13004,7,,B,2,7,Or week after.,"[Or/CC, week/NN, after/IN, ./.]",(ROOT (FRAG (CC Or) (NP (NP (NN week)) (PP (IN after))) (. .)))
 K/KD/KDA.xml,KDARE02L,13004,8,,B,2,8,Its the week after,"[Its/PRP$, the/DT, week/NN, after/IN]",(ROOT (NP (NP (PRP$ Its)) (NP (NP (DT the) (NN week)) (PP (IN after)))))

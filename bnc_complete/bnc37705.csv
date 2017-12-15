@@ -144,7 +144,7 @@ K/KE/KE6.xml,KE6RE01R,37705,141,,B,78,2,You what?,"[You/PRP, what/WP, ?/.]",(ROO
 K/KE/KE6.xml,KE6RE01R,37705,142,,A,79,1,Just don't know what to wear tomorrow.,"[Just/RB, don/NNP, 't/PRP, know/VBP, what/WP, to/TO, wear/VB, tomorrow/NN, ./.]",(ROOT (S (NP (RB Just) (NNP don)) (NP (PRP 't)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB wear) (NP (NN tomorrow))))))) (. .)))
 K/KE/KE6.xml,KE6RE01R,37705,143,,B,80,1,"Well, make your mind up in the morning.","[Well/RB, ,/,, make/VB, your/PRP$, mind/NN, up/RP, in/IN, the/DT, morning/NN, ./.]","(ROOT (S (INTJ (RB Well)) (, ,) (VP (VB make) (NP (PRP$ your) (NN mind)) (PP (RP up) (PP (IN in) (NP (DT the) (NN morning))))) (. .)))"
 K/KE/KE6.xml,KE6RE01R,37705,144,,B,80,2,Got plenty of nice stuff.,"[Got/VBD, plenty/NN, of/IN, nice/JJ, stuff/NN, ./.]",(ROOT (S (VP (VBD Got) (NP (NP (NN plenty)) (PP (IN of) (NP (JJ nice) (NN stuff))))) (. .)))
-K/KE/KE6.xml,KE6RE01R,37705,145,,A,81,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01R,37705,145,,A,81,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01R,37705,146,,B,82,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KE/KE6.xml,KE6RE01R,37705,147,,A,83,1,I shall wait and see.,"[I/PRP, shall/MD, wait/VB, and/CC, see/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD shall) (VP (VB wait) (CC and) (VB see))) (. .)))
 K/KE/KE6.xml,KE6RE01R,37705,148,,B,84,1,"Yeah, well that's what I'm saying!","[Yeah/UH, ,/,, well/RB, that/DT, 's/VBZ, what/WP, I/PRP, 'm/VBP, saying/VBG, !/.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (ADVP (RB well)) (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG saying)))))) (. !)))"
@@ -175,7 +175,7 @@ K/KE/KE6.xml,KE6RE01R,37705,172,,A,99,1,Stopped.,"[Stopped/VBN, ./.]",(ROOT (S (
 K/KE/KE6.xml,KE6RE01R,37705,173,,B,100,1,this spider then?,"[this/DT, spider/NN, then/RB, ?/.]",(ROOT (FRAG (NP (DT this) (NN spider)) (ADVP (RB then)) (. ?)))
 K/KE/KE6.xml,KE6RE01R,37705,174,,A,101,1,He's under there.,"[He/PRP, 's/VBZ, under/IN, there/EX, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (PP (IN under) (NP (EX there)))) (. .)))
 K/KE/KE6.xml,KE6RE01R,37705,175,,B,102,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KE/KE6.xml,KE6RE01R,37705,176,,A,103,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01R,37705,176,,A,103,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01R,37705,177,,B,104,1,God!,"[God/NNP, !/.]",(ROOT (FRAG (NP (NNP God)) (. !)))
 K/KE/KE6.xml,KE6RE01R,37705,178,,B,104,2,"Put him, put him on the whole of  (()) when you see him.","[Put/VB, him/PRP, ,/,, put/VBD, him/PRP, on/IN, the/DT, whole/NN, of/IN, when/WRB, you/PRP, see/VBP, him/PRP, ./.]","(ROOT (SINV (S (VP (VB Put) (NP (PRP him)))) (, ,) (VP (VBD put) (NP (PRP him)) (PP (IN on) (NP (NP (DT the) (NN whole)) (PP (IN of) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP see)))))))) (NP (PRP him)) (. .)))"
 K/KE/KE6.xml,KE6RE01R,37705,179,,B,104,3,"He's alright, he'll be asleep now.","[He/PRP, 's/VBZ, alright/JJ, ,/,, he/PRP, 'll/MD, be/VB, asleep/RB, now/RB, ./.]","(ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ alright)))) (, ,) (NP (PRP he)) (VP (MD 'll) (VP (VB be) (ADJP (RB asleep)) (ADVP (RB now)))) (. .)))"
@@ -208,7 +208,7 @@ K/KE/KE6.xml,KE6RE01R,37705,205,,A,121,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH 
 K/KE/KE6.xml,KE6RE01R,37705,206,,B,122,1,Be lovely!,"[Be/VB, lovely/JJ, !/.]",(ROOT (SQ (VP (VB Be) (ADJP (JJ lovely))) (. !)))
 K/KE/KE6.xml,KE6RE01R,37705,207,,B,122,2,"Yeah, no, that'd be fine Bev.","[Yeah/UH, ,/,, no/DT, ,/,, that/IN, 'd/MD, be/VB, fine/JJ, Bev/NN, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT no)) (, ,) (SBAR (WHNP (IN that)) (S (VP (MD 'd)))) (VP (VB be) (ADJP (JJ fine)) (NP (NN Bev))) (. .)))"
 K/KE/KE6.xml,KE6RE01R,37705,208,,B,122,3,Really!,"[Really/RB, !/.]",(ROOT (FRAG (ADVP (RB Really)) (. !)))
-K/KE/KE6.xml,KE6RE01R,37705,209,,A,123,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01R,37705,209,,A,123,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01R,37705,210,,B,124,1,"Right, I'll have a little rest  --","[Right/NN, ,/,, I/PRP, 'll/MD, have/VB, a/DT, little/JJ, rest/NN, before/IN, I/PRP, turn/VBP, the/DT, T/NN, V/NN, off/RB, ./.]","(ROOT (S (NP (NN Right)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (DT a) (JJ little) (NN rest)) (SBAR (IN before) (S (NP (PRP I)) (VP (VBP turn) (NP (DT the) (NN T) (NN V)) (ADVP (RB off))))))) (. .)))"
 K/KE/KE6.xml,KE6RE01R,37705,211,,B,124,2,--before I turn the T V off.,"[Right/NN, ,/,, I/PRP, 'll/MD, have/VB, a/DT, little/JJ, rest/NN, before/IN, I/PRP, turn/VBP, the/DT, T/NN, V/NN, off/RB, ./.]","(ROOT (S (NP (NN Right)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB have) (NP (DT a) (JJ little) (NN rest)) (SBAR (IN before) (S (NP (PRP I)) (VP (VBP turn) (NP (DT the) (NN T) (NN V)) (ADVP (RB off))))))) (. .)))"
 K/KE/KE6.xml,KE6RE01R,37705,212,,B,124,3,I think.,"[I/PRP, think/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think)) (. .)))
@@ -216,7 +216,7 @@ K/KE/KE6.xml,KE6RE01R,37705,213,,A,125,1,Well I'm going bed.,"[Well/RB, I/PRP, '
 K/KE/KE6.xml,KE6RE01R,37705,214,,B,126,1,You've got a what?,"[You/PRP, 've/VBP, got/VBD, a/DT, what/WP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (X (WP what))))) (. ?)))
 K/KE/KE6.xml,KE6RE01R,37705,215,,A,127,1,I'm going (()) .,"[I/PRP, 'm/VBP, going/VBG, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going))) (. .)))
 K/KE/KE6.xml,KE6RE01R,37705,216,,B,128,1,Ni- night love.,"[Ni-/JJ, night/NN, love/NN, ./.]",(ROOT (NP (NP (JJ Ni-) (NN night)) (NP (NN love)) (. .)))
-K/KE/KE6.xml,KE6RE01R,37705,217,,A,129,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01R,37705,217,,A,129,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01R,37705,218,,B,130,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KE/KE6.xml,KE6RE01R,37705,219,,B,130,2,Ho ho!,"[Ho/NNP, ho/NNP, !/.]",(ROOT (NP (NNP Ho) (NNP ho) (. !)))
 K/KE/KE6.xml,KE6RE01R,37705,220,,B,130,3,Not that cold though is it?,"[Not/RB, that/DT, cold/JJ, though/NNP, is/VBZ, it/PRP, ?/.]",(ROOT (S (RB Not) (NP (DT that) (JJ cold) (NNP though)) (VP (VBZ is) (NP (PRP it))) (. ?)))

@@ -10,7 +10,7 @@ K/KD/KDE.xml,KDERE02J,7406,7,,A,5,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) 
 K/KD/KDE.xml,KDERE02J,7406,8,,A,5,2,There we are.,"[There/EX, we/PRP, are/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP we)) (VP (VBP are)) (. .)))
 K/KD/KDE.xml,KDERE02J,7406,9,,A,5,3,Sit down in the corner  (()) nice breakfast.,"[Sit/VB, down/RP, in/IN, the/DT, corner/NN, nice/JJ, breakfast/NN, ./.]",(ROOT (S (VP (VB Sit) (PRT (RP down)) (PP (IN in) (NP (DT the) (NN corner) (JJ nice) (NN breakfast)))) (. .)))
 K/KD/KDE.xml,KDERE02J,7406,10,,A,5,4,You must be a hungry boy.,"[You/PRP, must/MD, be/VB, a/DT, hungry/JJ, boy/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (MD must) (VP (VB be) (NP (DT a) (JJ hungry) (NN boy)))) (. .)))
-K/KD/KDE.xml,KDERE02J,7406,11,,B,6,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02J,7406,11,,B,6,1,(()) ,[],
 K/KD/KDE.xml,KDERE02J,7406,12,,A,7,1,Well it doesn't matter you can look at it afterwards.,"[Well/RB, it/PRP, doesn/VB, 't/PRP, matter/VB, you/PRP, can/MD, look/VB, at/IN, it/PRP, afterwards/RB, ./.]",(ROOT (S (SBAR (ADVP (RB Well)) (S (NP (PRP it)) (VP (VB doesn) (S (NP (PRP 't)) (VP (VB matter)))))) (NP (PRP you)) (VP (MD can) (VP (VB look) (PP (IN at) (NP (PRP it))) (ADVP (RB afterwards)))) (. .)))
 K/KD/KDE.xml,KDERE02J,7406,13,,A,7,2,(()) .,[./.],(ROOT (NP (. .)))
 K/KD/KDE.xml,KDERE02J,7406,14,,A,7,3,Be careful.,"[Be/VB, careful/JJ, ./.]",(ROOT (S (VP (VB Be) (ADJP (JJ careful))) (. .)))

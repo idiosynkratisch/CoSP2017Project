@@ -3,7 +3,7 @@ K/KB/KBK.xml,KBKRE04V,2705,0,,A,1,1,I see right.,"[I/PRP, see/VBP, right/RB, ./.
 K/KB/KBK.xml,KBKRE04V,2705,1,,B,2,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,2,,B,2,2,"When you start is to do a thing, put that mallet down like that and then line up the which you need to go.","[When/WRB, you/PRP, start/VBP, is/VBZ, to/TO, do/VB, a/DT, thing/NN, ,/,, put/VBD, that/DT, mallet/NN, down/RP, like/IN, that/DT, and/CC, then/RB, line/NN, up/RP, the/DT, which/WDT, you/PRP, need/VBP, to/TO, go/VB, ./.]","(ROOT (SINV (S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VBP start)))) (VP (VBZ is) (S (VP (TO to) (VP (VB do) (NP (DT a) (NN thing))))))) (, ,) (VP (VBD put) (NP (DT that) (NN mallet)) (PRT (RP down)) (PP (IN like) (NP (NP (DT that)) (CC and) (NP (RB then) (NN line))))) (NP (NP (ADVP (RP up)) (DT the)) (SBAR (WHNP (WDT which)) (S (NP (PRP you)) (VP (VBP need) (S (VP (TO to) (VP (VB go)))))))) (. .)))"
 K/KB/KBK.xml,KBKRE04V,2705,3,,A,3,1,I see.,"[I/PRP, see/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP see)) (. .)))
-K/KB/KBK.xml,KBKRE04V,2705,4,,B,4,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04V,2705,4,,B,4,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04V,2705,5,,A,5,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,6,,B,6,1,"The other ball contact, must be a contact there.","[The/DT, other/JJ, ball/NN, contact/NN, ,/,, must/MD, be/VB, a/DT, contact/NN, there/RB, ./.]","(ROOT (S (NP (DT The) (JJ other) (NN ball) (NN contact)) (, ,) (VP (MD must) (VP (VB be) (NP (DT a) (NN contact)) (ADVP (RB there)))) (. .)))"
 K/KB/KBK.xml,KBKRE04V,2705,7,,A,7,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
@@ -21,18 +21,18 @@ K/KB/KBK.xml,KBKRE04V,2705,18,,A,15,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN R
 K/KB/KBK.xml,KBKRE04V,2705,19,,A,15,2,"What you didn't want to do in that case, no ","[What/WP, you/PRP, didn/VBP, 't/PRP, want/VB, to/TO, do/VB, in/IN, that/DT, case/NN, ,/,, no/DT]","(ROOT (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB want) (S (VP (TO to) (VP (VB do) (PP (IN in) (NP (NP (DT that) (NN case)) (, ,) (NP (DT no)))))))))))))"
 K/KB/KBK.xml,KBKRE04V,2705,20,,B,16,1,No .(()) .,"[No/DT, ./., ./.]",(ROOT (FRAG (ADVP (DT No) (. .)) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,21,,A,17,1,Yes indeed.,"[Yes/UH, indeed/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Yes)) (NP (RB indeed)))) (. .)))
-K/KB/KBK.xml,KBKRE04V,2705,22,,B,18,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04V,2705,22,,B,18,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04V,2705,23,,A,19,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,24,,B,20,1,You can (()) .,"[You/PRP, can/MD, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can)) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,25,,A,21,1,"Yes, I see.","[Yes/UH, ,/,, I/PRP, see/VBP, ./.]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))"
 K/KB/KBK.xml,KBKRE04V,2705,26,,B,22,1,So it doesn't matter if this ball goes off.,"[So/IN, it/PRP, doesn/VBD, 't/PRP, matter/VB, if/IN, this/DT, ball/NN, goes/VBZ, off/RP, ./.]",(ROOT (S (IN So) (NP (PRP it)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB matter) (SBAR (IN if) (S (NP (DT this) (NN ball)) (VP (VBZ goes) (PRT (RP off)))))))) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,27,,B,22,2,<hits ball> Moving slightly the wrong way.,"[Moving/VBG, slightly/RB, the/DT, wrong/JJ, way/NN, ./.]",(ROOT (S (VP (VBG Moving) (NP (RB slightly) (DT the) (JJ wrong) (NN way))) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,28,,A,23,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE04V,2705,29,,B,24,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04V,2705,29,,B,24,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04V,2705,30,,A,25,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,31,,B,26,1,"(()) , where, where you want the ball to come back.","[,/,, where/WRB, ,/,, where/WRB, you/PRP, want/VBP, the/DT, ball/NN, to/TO, come/VB, back/RB, ./.]","(ROOT (S (VP (VP (, ,) (SBARQ (WHADVP (WRB where)))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP you)) (VP (VBP want) (S (NP (DT the) (NN ball)) (VP (TO to) (VP (VB come) (ADVP (RB back))))))))) (. .)))"
 K/KB/KBK.xml,KBKRE04V,2705,32,,A,27,1,"I understand, yes, yes.","[I/PRP, understand/VBP, ,/,, yes/UH, ,/,, yes/UH, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP understand))) (, ,) (FRAG (INTJ (UH yes) (, ,) (UH yes))) (. .)))"
-K/KB/KBK.xml,KBKRE04V,2705,33,,B,28,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04V,2705,33,,B,28,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04V,2705,34,,A,29,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,35,,B,30,1,And there's no benefit of having a row  (()) as you had before.,"[And/CC, there/EX, 's/VBZ, no/DT, benefit/NN, of/IN, having/VBG, a/DT, row/NN, as/IN, you/PRP, had/VBD, before/RB, ./.]",(ROOT (S (CC And) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT no) (NN benefit)) (PP (IN of) (S (VP (VBG having) (NP (NP (DT a) (NN row)) (SBAR (IN as) (S (NP (PRP you)) (VP (VBD had) (ADVP (RB before))))))))))) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,36,,A,31,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
@@ -41,7 +41,7 @@ K/KB/KBK.xml,KBKRE04V,2705,38,,B,32,2,The black would of come up about there.,"[
 K/KB/KBK.xml,KBKRE04V,2705,39,,A,33,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,40,,B,34,1,"Which would've enabled me to rush,(()) up there, but I didn't.","[Which/WDT, would/MD, 've/VB, enabled/VBD, me/PRP, to/TO, rush/VB, ,/,, up/IN, there/RB, ,/,, but/CC, I/PRP, didn/VBP, 't/PRP, ./.]","(ROOT (S (S (NP (WDT Which)) (VP (MD would) (VP (VB 've) (VP (VBD enabled) (S (NP (PRP me)) (VP (TO to) (VP (VB rush) (, ,) (ADVP (IN up) (RB there))))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP didn) (NP (PRP 't)))) (. .)))"
 K/KB/KBK.xml,KBKRE04V,2705,41,,A,35,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBK.xml,KBKRE04V,2705,42,,B,36,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE04V,2705,42,,B,36,1,(()) ,[],
 K/KB/KBK.xml,KBKRE04V,2705,43,,A,37,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KBK.xml,KBKRE04V,2705,44,,A,37,2,O K,"[O/NN, K/NN]",(ROOT (NP (NN O) (NN K)))
 K/KB/KBK.xml,KBKRE04V,2705,45,,B,38,1,Right now you come out  (()) or go up to red.,"[Right/RB, now/RB, you/PRP, come/VBP, out/RP, or/CC, go/VB, up/RP, to/TO, red/NNP, ./.]",(ROOT (S (ADVP (RB Right) (RB now)) (NP (PRP you)) (VP (VP (VBP come) (PRT (RP out))) (CC or) (VP (VB go) (PRT (RP up)) (PP (TO to) (NP (NNP red))))) (. .)))

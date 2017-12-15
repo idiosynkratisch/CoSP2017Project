@@ -5,7 +5,7 @@ K/KC/KCD.xml,KCDRE024,5110,2,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCD.xml,KCDRE024,5110,3,,A,3,2,(()) or something.,"[or/CC, something/NN, ./.]",(ROOT (FRAG (PP (CC or) (NP (NN something))) (. .)))
 K/KC/KCD.xml,KCDRE024,5110,4,,B,4,1,Mm  --,"[Mm/NN, Yeah/UH, ,/,, I/PRP, mean/VBP, ,/,, a/DT, lot/NN, of/IN, us/PRP, could/MD, do/VB, with/IN, a/DT, month/NN, off/RB, ./.]","(ROOT (S (NP (NP (NN Mm)) (SBAR (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VP (VBP mean)) (, ,) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (PRP us)))))))) (VP (MD could) (VP (VB do) (PP (IN with) (ADVP (NP (DT a) (NN month)) (RB off))))) (. .)))"
 K/KC/KCD.xml,KCDRE024,5110,5,,B,4,2,"--Yeah, I mean, a lot of us could do with a month off.","[Mm/NN, Yeah/UH, ,/,, I/PRP, mean/VBP, ,/,, a/DT, lot/NN, of/IN, us/PRP, could/MD, do/VB, with/IN, a/DT, month/NN, off/RB, ./.]","(ROOT (S (NP (NP (NN Mm)) (SBAR (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VP (VBP mean)) (, ,) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (PRP us)))))))) (VP (MD could) (VP (VB do) (PP (IN with) (ADVP (NP (DT a) (NN month)) (RB off))))) (. .)))"
-K/KC/KCD.xml,KCDRE024,5110,6,,A,5,1,(()) ,[],X
+K/KC/KCD.xml,KCDRE024,5110,6,,A,5,1,(()) ,[],
 K/KC/KCD.xml,KCDRE024,5110,7,,B,6,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCD.xml,KCDRE024,5110,8,,B,6,2,"It's better when Deborah's only started school, so","[It/PRP, 's/VBZ, better/JJR, when/WRB, Deborah/NNP, 's/POS, only/RB, started/VBD, school/NN, ,/,, so/RB]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (JJR better)) (SBAR (WHADVP (WRB when)) (S (NP (NNP Deborah) (POS 's)) (ADVP (RB only)) (VP (VBD started) (NP (NN school)) (, ,) (ADVP (RB so))))))))"
 K/KC/KCD.xml,KCDRE024,5110,9,,A,7,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))

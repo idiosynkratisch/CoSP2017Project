@@ -45,7 +45,7 @@ K/KD/KD0.xml,KD0RE00F,17004,42,,B,20,1,"I didn't, no I haven't.","[I/PRP, didn/V
 K/KD/KD0.xml,KD0RE00F,17004,43,,B,20,2,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KD/KD0.xml,KD0RE00F,17004,44,,B,20,3,Haven't had the opportunity to.,"[Haven/NNP, 't/PRP, had/VBD, the/DT, opportunity/NN, to/TO, ./.]",(ROOT (S (NP (NNP Haven) (PRP 't)) (VP (VBD had) (NP (DT the) (NN opportunity) (S (VP (TO to))))) (. .)))
 K/KD/KD0.xml,KD0RE00F,17004,45,,B,20,4,What is this lady dressed up like?,"[What/WP, is/VBZ, this/DT, lady/NN, dressed/VBN, up/RP, like/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (DT this) (NN lady)) (VP (VBN dressed) (PRT (RP up)) (PP (IN like)))) (. ?)))
-K/KD/KD0.xml,KD0RE00F,17004,46,,A,21,1,<laugh> ,[],X
+K/KD/KD0.xml,KD0RE00F,17004,46,,A,21,1,<laugh> ,[],
 K/KD/KD0.xml,KD0RE00F,17004,47,,B,22,1,<laughing> What has she got on  (()) </laughing> ?,"[What/WDT, has/VBZ, she/PRP, got/VBD, on/IN, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBZ has) (NP (PRP she)) (VP (VBD got) (PP (IN on)))) (. ?)))
 K/KD/KD0.xml,KD0RE00F,17004,48,,A,23,1,What has she got on her hair?,"[What/WDT, has/VBZ, she/PRP, got/VBD, on/IN, her/PRP$, hair/NN, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBZ has) (NP (PRP she)) (VP (VBD got) (PP (IN on) (NP (PRP$ her) (NN hair))))) (. ?)))
 K/KD/KD0.xml,KD0RE00F,17004,49,,A,23,2,Weird.,"[Weird/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Weird)) (. .)))

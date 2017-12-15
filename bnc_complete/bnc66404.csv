@@ -12,16 +12,16 @@ K/KB/KB3.xml,KB3RE003,66404,9,,A,9,1,ten minutes darling.,"[ten/CD, minutes/NNS,
 K/KB/KB3.xml,KB3RE003,66404,10,,A,9,2,What do you want?,"[What/WP, do/VBP, you/PRP, want/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP you)) (VP (VB want))) (. ?)))
 K/KB/KB3.xml,KB3RE003,66404,11,,B,10,1,Go outside!,"[Go/VB, outside/RB, !/.]",(ROOT (S (VP (VB Go) (ADVP (RB outside))) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,12,,A,11,1,Do you want to go outside?,"[Do/VB, you/PRP, want/VBP, to/TO, go/VB, outside/JJ, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (JJ outside))))))))) (. ?)))
-K/KB/KB3.xml,KB3RE003,66404,13,,B,12,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,13,,B,12,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,14,,A,13,1,Do you want your coat?,"[Do/VB, you/PRP, want/VB, your/PRP$, coat/NN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB want) (NP (PRP$ your) (NN coat))))) (. ?)))
 K/KB/KB3.xml,KB3RE003,66404,15,,A,13,2,Well let mummy fasten your shoes first and Grant'll be in from school in a few minutes.,"[Well/RB, let/VB, mummy/NN, fasten/VB, your/PRP$, shoes/NNS, first/RB, and/CC, Grant/VB, 'll/MD, be/VB, in/IN, from/IN, school/NN, in/IN, a/DT, few/JJ, minutes/NNS, ./.]",(ROOT (S (INTJ (RB Well)) (VP (VB let) (S (NP (NN mummy)) (VP (VP (VB fasten) (NP (PRP$ your) (NNS shoes)) (ADVP (RB first))) (CC and) (VP (VB Grant) (SBAR (S (VP (MD 'll) (VP (VB be) (PP (IN in) (IN from) (NP (NP (NN school)) (PP (IN in) (NP (DT a) (JJ few) (NNS minutes))))))))))))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,16,,A,13,3,Oliver!,"[Oliver/NNP, !/.]",(ROOT (FRAG (NP (NNP Oliver)) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,17,,A,13,4,"Come on, darling!","[Come/VB, on/RP, ,/,, darling/NN, !/.]","(ROOT (S (VP (VB Come) (PRT (RP on))) (, ,) (NP (NN darling)) (. !)))"
 K/KB/KB3.xml,KB3RE003,66404,18,,A,13,5,Grant'll be in from school in a few minutes.,"[Grant/NNP, 'll/MD, be/VB, in/IN, from/IN, school/NN, in/IN, a/DT, few/JJ, minutes/NNS, ./.]",(ROOT (S (NP (NNP Grant)) (VP (MD 'll) (VP (VB be) (PP (IN in) (IN from) (NP (NP (NN school)) (PP (IN in) (NP (DT a) (JJ few) (NNS minutes))))))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,19,,A,13,6,He will!,"[He/PRP, will/MD, !/.]",(ROOT (S (NP (PRP He)) (VP (MD will)) (. !)))
-K/KB/KB3.xml,KB3RE003,66404,20,,B,14,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,20,,B,14,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,21,,A,15,1,Do you want to go outside  (()) now?,"[Do/VB, you/PRP, want/VBP, to/TO, go/VB, outside/RB, now/RB, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (RB outside)) (ADVP (RB now))))))))) (. ?)))
-K/KB/KB3.xml,KB3RE003,66404,22,,B,16,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,22,,B,16,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,23,,A,17,1,Good girl!,"[Good/JJ, girl/NN, !/.]",(ROOT (INTJ (JJ Good) (NN girl) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,24,,A,17,2,Mummy put on your coat?,"[Mummy/NN, put/VBD, on/RP, your/PRP$, coat/NN, ?/.]",(ROOT (S (NP (NN Mummy)) (VP (VBD put) (PRT (RP on)) (NP (PRP$ your) (NN coat))) (. ?)))
 K/KB/KB3.xml,KB3RE003,66404,25,,A,17,3,And hat?,"[And/CC, hat/NN, ?/.]",(ROOT (S (NP (CC And)) (VP (NN hat)) (. ?)))
@@ -52,16 +52,16 @@ K/KB/KB3.xml,KB3RE003,66404,49,,A,29,1,"A snowman for me, make up your snowman j
 K/KB/KB3.xml,KB3RE003,66404,50,,B,30,1,"Snowman now, mummy.","[Snowman/NN, now/RB, ,/,, mummy/NN, ./.]","(ROOT (NP (NP (NN Snowman) (RB now)) (, ,) (NP (NN mummy)) (. .)))"
 K/KB/KB3.xml,KB3RE003,66404,51,,A,31,1,Or this one!,"[Or/CC, this/DT, one/CD, !/.]",(ROOT (FRAG (CC Or) (NP (NP (DT this)) (NP (CD one))) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,52,,A,31,2,Would you like a drinkie in snowman?,"[Would/MD, you/PRP, like/VB, a/DT, drinkie/NN, in/IN, snowman/NN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (NP (DT a) (NN drinkie)) (PP (IN in) (NP (NN snowman))))) (. ?)))
-K/KB/KB3.xml,KB3RE003,66404,53,,B,32,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,53,,B,32,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,54,,A,33,1,Clever girl!,"[Clever/JJ, girl/NN, !/.]",(ROOT (NP (JJ Clever) (NN girl) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,55,,A,33,2,There's your tooth tablets.,"[There/EX, 's/VBZ, your/PRP$, tooth/NN, tablets/NNS, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (PRP$ your) (NN tooth) (NNS tablets))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,56,,A,33,3,We should get Grant's all ready because mummy forgot to give him one before he went to school.,"[We/PRP, should/MD, get/VB, Grant/NN, 's/POS, all/DT, ready/JJ, because/IN, mummy/NN, forgot/VBD, to/TO, give/VB, him/PRP, one/PRP, before/IN, he/PRP, went/VBD, to/TO, school/NN, ./.]",(ROOT (S (NP (PRP We)) (VP (MD should) (VP (VB get) (NP (NP (NN Grant) (POS 's)) (NP (DT all) (JJ ready))) (SBAR (IN because) (S (NP (NN mummy)) (VP (VBD forgot) (S (VP (TO to) (VP (VB give) (NP (PRP him)) (NP (PRP one))))) (SBAR (IN before) (S (NP (PRP he)) (VP (VBD went) (PP (TO to) (NP (NN school))))))))))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,57,,A,33,4,Which colour would you like?,"[Which/WDT, colour/NN, would/MD, you/PRP, like/VB, ?/.]",(ROOT (SBARQ (WHNP (WDT Which) (NN colour)) (SQ (MD would) (NP (PRP you)) (VP (VB like))) (. ?)))
 K/KB/KB3.xml,KB3RE003,66404,58,,A,33,5,A pink one?,"[A/DT, pink/JJ, one/CD, ?/.]",(ROOT (NP (NP (DT A) (JJ pink)) (NP (CD one)) (. ?)))
-K/KB/KB3.xml,KB3RE003,66404,59,,B,34,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,59,,B,34,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,60,,A,35,1,Pink one?,"[Pink/NNP, one/CD, ?/.]",(ROOT (FRAG (NP (NNP Pink)) (NP (CD one)) (. ?)))
 K/KB/KB3.xml,KB3RE003,66404,61,,A,35,2,Grant said they've a nice flavour the pink ones!,"[Grant/NN, said/VBD, they/PRP, 've/VBP, a/DT, nice/JJ, flavour/NN, the/DT, pink/JJ, ones/NNS, !/.]",(ROOT (S (NP (NN Grant)) (VP (VBD said) (SBAR (S (NP (PRP they)) (VP (VBP 've) (NP (NP (DT a) (JJ nice) (NN flavour)) (NP (DT the) (JJ pink) (NNS ones))))))) (. !)))
-K/KB/KB3.xml,KB3RE003,66404,62,,B,36,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,62,,B,36,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,63,,A,37,1,And a pink one for Grant.,"[And/CC, a/DT, pink/JJ, one/CD, for/IN, Grant/NN, ./.]",(ROOT (FRAG (CC And) (NP (NP (DT a) (JJ pink) (CD one)) (PP (IN for) (NP (NN Grant)))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,64,,A,37,2,He'll be home in a few minutes.,"[He/PRP, 'll/MD, be/VB, home/NN, in/IN, a/DT, few/JJ, minutes/NNS, ./.]",(ROOT (S (NP (PRP He)) (VP (MD 'll) (VP (VB be) (NP (NP (NN home)) (PP (IN in) (NP (DT a) (JJ few) (NNS minutes)))))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,65,,A,37,3,No!,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
@@ -87,7 +87,7 @@ K/KB/KB3.xml,KB3RE003,66404,84,,A,45,2,Where's a snowman's nose for mummy.,"[Whe
 K/KB/KB3.xml,KB3RE003,66404,85,,A,45,3,Where's his nose?,"[Where/WRB, 's/POS, his/PRP$, nose/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (PRP$ his) (NN nose))) (. ?)))
 K/KB/KB3.xml,KB3RE003,66404,86,,A,45,4,Nose!,"[Nose/NN, !/.]",(ROOT (NP (NN Nose) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,87,,A,45,5,"He's got a carrot for a nose and big leaves like erm, don't know what they are","[He/PRP, 's/VBZ, got/VBD, a/DT, carrot/NN, for/IN, a/DT, nose/NN, and/CC, big/JJ, leaves/NNS, like/IN, erm/NN, ,/,, don/NNP, 't/PRP, know/VBP, what/WP, they/PRP, are/VBP]","(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (NN carrot)) (PP (IN for) (NP (NP (DT a) (NN nose)) (CC and) (NP (JJ big) (NNS leaves)))) (PP (IN like) (NP (NP (NN erm)) (, ,) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP are))))))))))))))"
-K/KB/KB3.xml,KB3RE003,66404,88,,B,46,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,88,,B,46,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,89,,A,47,1,"big leaves for eyebrows and he's got a lovely green and orange scarf, stripy scarf.","[big/JJ, leaves/NNS, for/IN, eyebrows/NNS, and/CC, he/PRP, 's/VBZ, got/VBD, a/DT, lovely/JJ, green/JJ, and/CC, orange/JJ, scarf/NN, ,/,, stripy/JJ, scarf/NN, ./.]","(ROOT (S (NP (NP (JJ big) (NNS leaves)) (PP (IN for) (NP (NP (NNS eyebrows)) (CC and) (NP (PRP he))))) (VP (VBZ 's) (VP (VBD got) (NP (NP (DT a) (JJ lovely) (ADJP (JJ green) (CC and) (JJ orange)) (NN scarf)) (, ,) (NP (JJ stripy) (NN scarf))))) (. .)))"
 K/KB/KB3.xml,KB3RE003,66404,90,,A,47,2,You take care.,"[You/PRP, take/VBP, care/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP take) (NP (NN care))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,91,,A,47,3,"Watch your lovely books, okay?","[Watch/VB, your/PRP$, lovely/JJ, books/NNS, ,/,, okay/UH, ?/.]","(ROOT (S (VP (VB Watch) (NP (PRP$ your) (JJ lovely) (NNS books)) (, ,) (NP (UH okay))) (. ?)))"
@@ -103,33 +103,33 @@ K/KB/KB3.xml,KB3RE003,66404,100,,A,47,12,Drinkie all up!(()) darling.,"[Drinkie/
 K/KB/KB3.xml,KB3RE003,66404,101,,A,47,13,Is that what's cackle?,"[Is/VBZ, that/IN, what/WP, 's/VBZ, cackle/NN, ?/.]",(ROOT (S (VP (VBZ Is) (SBAR (IN that) (S (NP (WP what)) (VP (VBZ 's) (NP (NN cackle)))))) (. ?)))
 K/KB/KB3.xml,KB3RE003,66404,102,,A,47,14,And mummy get your hat  --,"[And/CC, mummy/NN, get/VB, your/PRP$, hat/NN, and/CC, you/PRP, go/VBP, outside/JJ, with/IN, Oliver/NNP]",(ROOT (S (NP (NP (CC And) (NN mummy)) (SBAR (S (VP (VB get) (NP (NP (PRP$ your) (NN hat)) (CC and) (NP (PRP you))))))) (VP (VBP go) (ADVP (JJ outside)) (PP (IN with) (NP (NNP Oliver))))))
 K/KB/KB3.xml,KB3RE003,66404,103,,A,47,15,--and you go outside with Oliver ,"[And/CC, mummy/NN, get/VB, your/PRP$, hat/NN, and/CC, you/PRP, go/VBP, outside/JJ, with/IN, Oliver/NNP]",(ROOT (S (NP (NP (CC And) (NN mummy)) (SBAR (S (VP (VB get) (NP (NP (PRP$ your) (NN hat)) (CC and) (NP (PRP you))))))) (VP (VBP go) (ADVP (JJ outside)) (PP (IN with) (NP (NNP Oliver))))))
-K/KB/KB3.xml,KB3RE003,66404,104,,B,48,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,104,,B,48,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,105,,A,49,1,You get down now!,"[You/PRP, get/VBP, down/RB, now/RB, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP get) (ADVP (RB down) (RB now))) (. !)))
-K/KB/KB3.xml,KB3RE003,66404,106,,B,50,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,106,,B,50,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,107,,A,51,1,Oh look at your dress!,"[Oh/UH, look/VB, at/IN, your/PRP$, dress/NN, !/.]",(ROOT (S (INTJ (UH Oh)) (VP (VB look) (PP (IN at) (NP (PRP$ your) (NN dress)))) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,108,,A,51,2,"What's that, lipstick?","[What/WP, 's/VBZ, that/DT, ,/,, lipstick/NN, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT that)) (, ,) (NP (NN lipstick)))) (. ?)))"
-K/KB/KB3.xml,KB3RE003,66404,109,,B,52,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,109,,B,52,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,110,,A,53,1,"Nice lipstick, you naughty little girl!","[Nice/JJ, lipstick/NN, ,/,, you/PRP, naughty/JJ, little/JJ, girl/NN, !/.]","(ROOT (NP (NP (JJ Nice) (NN lipstick)) (, ,) (NP (NP (PRP you)) (NP (JJ naughty) (JJ little) (NN girl))) (. !)))"
-K/KB/KB3.xml,KB3RE003,66404,111,,B,54,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,111,,B,54,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,112,,A,55,1,You not big girl?,"[You/PRP, not/RB, big/JJ, girl/NN, ?/.]",(ROOT (FRAG (ADVP (PRP You) (RB not)) (NP (JJ big) (NN girl)) (. ?)))
-K/KB/KB3.xml,KB3RE003,66404,113,,B,56,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,113,,B,56,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,114,,A,57,1,(()) darling.,"[darling/NN, ./.]",(ROOT (NP (NN darling) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,115,,A,57,2,Let me get your coat.,"[Let/VB, me/PRP, get/VB, your/PRP$, coat/NN, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP me)) (VP (VB get) (NP (PRP$ your) (NN coat))))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,116,,A,57,3,Just a minute.,"[Just/RB, a/DT, minute/NN, ./.]",(ROOT (NP (RB Just) (DT a) (NN minute) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,117,,A,57,4,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KB3.xml,KB3RE003,66404,118,,B,58,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,118,,B,58,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,119,,A,59,1,Now leave Oliver just now.,"[Now/RB, leave/VBP, Oliver/NNP, just/RB, now/RB, ./.]",(ROOT (S (NP (RB Now)) (VP (VBP leave) (NP (NNP Oliver)) (ADVP (RB just)) (ADVP (RB now))) (. .)))
 K/KB/KB3.xml,KB3RE003,66404,120,,B,60,1,Mum!,"[Mum/NN, !/.]",(ROOT (NP (NN Mum) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,121,,A,61,1,It's nothing!,"[It/PRP, 's/VBZ, nothing/NN, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NN nothing))) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,122,,A,61,2,It's cooker!,"[It/PRP, 's/VBZ, cooker/NN, !/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NN cooker))) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,123,,B,62,1,"Cackle, Mum!","[Cackle/NN, ,/,, Mum/NN, !/.]","(ROOT (NP (NP (NN Cackle)) (, ,) (NP (NN Mum)) (. !)))"
 K/KB/KB3.xml,KB3RE003,66404,124,,A,63,1,Cackle!(()) ,"[Cackle/VB, !/.]",(ROOT (S (VP (VB Cackle)) (. !)))
-K/KB/KB3.xml,KB3RE003,66404,125,,B,64,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,125,,B,64,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,126,,A,65,1,Clever girl!,"[Clever/JJ, girl/NN, !/.]",(ROOT (NP (JJ Clever) (NN girl) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,127,,B,66,1,Snowman!,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,128,,A,67,1,Snowman!,"[Snowman/NN, !/.]",(ROOT (INTJ (NN Snowman) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,129,,A,67,2,Good girl.,"[Good/JJ, girl/NN, ./.]",(ROOT (INTJ (JJ Good) (NN girl) (. .)))
-K/KB/KB3.xml,KB3RE003,66404,130,,B,68,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE003,66404,130,,B,68,1,(()) ,[],
 K/KB/KB3.xml,KB3RE003,66404,131,,A,69,1,"Daddy's late night, tonight.","[Daddy/NNP, 's/POS, late/JJ, night/NN, ,/,, tonight/NN, ./.]","(ROOT (NP (NP (NP (NP (NNP Daddy) (POS 's)) (JJ late) (NN night)) (, ,) (NP (NN tonight))) (. .)))"
 K/KB/KB3.xml,KB3RE003,66404,132,,A,69,2,Daddy's working late!,"[Daddy/NNP, 's/POS, working/VBG, late/RB, !/.]",(ROOT (S (S (NP (NNP Daddy) (POS 's)) (VP (VBG working) (ADVP (RB late)))) (. !)))
 K/KB/KB3.xml,KB3RE003,66404,133,,A,69,3,He'll be in about nine o'clock.,"[He/PRP, 'll/MD, be/VB, in/IN, about/IN, nine/CD, o/NN, 'clock/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (MD 'll) (VP (VB be) (PP (IN in) (PP (IN about) (NP (CD nine) (NN o) (NN 'clock)))))) (. .)))

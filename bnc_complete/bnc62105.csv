@@ -11,7 +11,7 @@ K/KB/KB9.xml,KB9RE008,62105,8,,B,8,2,--<laugh> she'll get ya,"[Right/NN, ,/,, ma
 K/KB/KB9.xml,KB9RE008,62105,9,,A,9,1,Aargh,[Aargh/NN],(ROOT (NP (NN Aargh)))
 K/KB/KB9.xml,KB9RE008,62105,10,,B,10,1,now you've got,"[now/RB, you/PRP, 've/VBP, got/VBN]",(ROOT (SBAR (RB now) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got))))))
 K/KB/KB9.xml,KB9RE008,62105,11,,A,11,1,"ow, ooh","[ow/NN, ,/,, ooh/NNP]","(ROOT (NP (NP (NN ow)) (, ,) (NP (NNP ooh))))"
-K/KB/KB9.xml,KB9RE008,62105,12,,B,12,1,<laugh> ,[],X
+K/KB/KB9.xml,KB9RE008,62105,12,,B,12,1,<laugh> ,[],
 K/KB/KB9.xml,KB9RE008,62105,13,,A,13,1,"you're horrible you, you are you're just horrible, look at that bottom lip","[you/PRP, 're/VBP, horrible/JJ, you/PRP, ,/,, you/PRP, are/VBP, you/PRP, 're/VBP, just/RB, horrible/JJ, ,/,, look/VB, at/IN, that/DT, bottom/JJ, lip/NN]","(ROOT (S (NP (PRP you)) (VP (VBP 're) (ADJP (JJ horrible) (NP (PRP you))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP are) (SBAR (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB just) (JJ horrible))))))) (, ,)) (S (VP (VB look) (PP (IN at) (NP (DT that) (JJ bottom) (NN lip))))))))"
 K/KB/KB9.xml,KB9RE008,62105,14,,B,14,1,We'll do this one first like that ,"[We/PRP, 'll/MD, do/VB, this/DT, one/CD, first/RB, like/IN, that/DT]",(ROOT (S (NP (PRP We)) (VP (MD 'll) (VP (VB do) (NP (DT this) (CD one)) (ADVP (RB first)) (PP (IN like) (NP (DT that)))))))
 K/KB/KB9.xml,KB9RE008,62105,15,,A,15,1,Sorry about that,"[Sorry/JJ, about/IN, that/DT]",(ROOT (ADJP (JJ Sorry) (PP (IN about) (NP (DT that)))))

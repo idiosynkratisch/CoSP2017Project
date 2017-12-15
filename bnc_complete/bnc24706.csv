@@ -26,7 +26,7 @@ K/KD/KD3.xml,KD3RE005,24706,23,,A,17,1,"They're not, I just looked.","[They/PRP,
 K/KD/KD3.xml,KD3RE005,24706,24,,B,18,1,"And your jumper, where you left them.","[And/CC, your/PRP$, jumper/NN, ,/,, where/WRB, you/PRP, left/VBD, them/PRP, ./.]","(ROOT (FRAG (CC And) (NP (NP (PRP$ your) (NN jumper)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP you)) (VP (VBD left) (NP (PRP them)))))) (. .)))"
 K/KD/KD3.xml,KD3RE005,24706,25,,B,18,2,Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,26,,B,18,3,Oh (()) ,[Oh/UH],(ROOT (INTJ (UH Oh)))
-K/KD/KD3.xml,KD3RE005,24706,27,,A,19,1,<cough> ,[],X
+K/KD/KD3.xml,KD3RE005,24706,27,,A,19,1,<cough> ,[],
 K/KD/KD3.xml,KD3RE005,24706,28,,B,20,1,Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,29,,A,21,1,Have I got a clean jumper?,"[Have/VB, I/PRP, got/VBD, a/DT, clean/JJ, jumper/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP I)) (VP (VBD got) (NP (DT a) (JJ clean) (NN jumper))))) (. ?)))
 K/KD/KD3.xml,KD3RE005,24706,30,,B,22,1,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
@@ -72,7 +72,7 @@ K/KD/KD3.xml,KD3RE005,24706,69,,A,47,1,All you've gotta do is to sit on the bog 
 K/KD/KD3.xml,KD3RE005,24706,70,,B,48,1,I don't think it would make any difference.,"[I/PRP, don/VBP, 't/PRP, think/VB, it/PRP, would/MD, make/VB, any/DT, difference/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB make) (NP (DT any) (NN difference))))))))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,71,,B,48,2,"<laugh> I've tried that quite a few times, so (()) ","[I/PRP, 've/VBP, tried/VBN, that/IN, quite/RB, a/DT, few/JJ, times/NNS, ,/,, so/RB]","(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN tried) (PP (IN that) (NP (RB quite) (DT a) (JJ few) (NNS times))) (, ,) (ADVP (RB so))))))"
 K/KD/KD3.xml,KD3RE005,24706,72,,A,49,1,(()) fart.,"[fart/NN, ./.]",(ROOT (NP (NN fart) (. .)))
-K/KD/KD3.xml,KD3RE005,24706,73,,B,50,1,(()) ,[],X
+K/KD/KD3.xml,KD3RE005,24706,73,,B,50,1,(()) ,[],
 K/KD/KD3.xml,KD3RE005,24706,74,,A,51,1,"Yeah, I know.","[Yeah/UH, ,/,, I/PRP, know/VBP, ./.]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBP know)) (. .)))"
 K/KD/KD3.xml,KD3RE005,24706,75,,B,52,1,It was that cabbage.,"[It/PRP, was/VBD, that/IN, cabbage/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (PP (IN that) (NP (NN cabbage)))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,76,,B,52,2,I thought I'd give us a bit of cabbage last night.,"[I/PRP, thought/VBD, I/PRP, 'd/MD, give/VB, us/PRP, a/DT, bit/NN, of/IN, cabbage/NNP, last/JJ, night/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB give) (NP (PRP us)) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NNP cabbage))) (NP (JJ last) (NN night)))))))) (. .)))
@@ -107,7 +107,7 @@ K/KD/KD3.xml,KD3RE005,24706,104,,B,68,2,Well he moves around.,"[Well/RB, he/PRP,
 K/KD/KD3.xml,KD3RE005,24706,105,,B,68,3,It's quite funny actually.,"[It/PRP, 's/VBZ, quite/RB, funny/JJ, actually/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB quite) (JJ funny)) (ADVP (RB actually))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,106,,A,69,1,<fart> Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,107,,B,70,1,Oh go away.,"[Oh/UH, go/VB, away/RB, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (VB go) (ADVP (RB away))) (. .)))
-K/KD/KD3.xml,KD3RE005,24706,108,,A,71,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE005,24706,108,,A,71,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE005,24706,109,,B,72,1,Think I'll open the window.,"[Think/VB, I/PRP, 'll/MD, open/VB, the/DT, window/NN, ./.]",(ROOT (S (VP (VB Think) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB open) (NP (DT the) (NN window))))))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,110,,A,73,1,Good dear.,"[Good/JJ, dear/RB, ./.]",(ROOT (S (NP (JJ Good)) (ADJP (RB dear)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,111,,B,74,1,Bit of fresh air didn't hurt anybody.,"[Bit/NN, of/IN, fresh/JJ, air/NN, didn/NN, 't/PRP, hurt/VBD, anybody/NN, ./.]",(ROOT (S (NP (NP (NN Bit)) (PP (IN of) (NP (JJ fresh) (NN air) (NN didn)))) (NP (PRP 't)) (VP (VBD hurt) (NP (NN anybody))) (. .)))
@@ -118,24 +118,24 @@ K/KD/KD3.xml,KD3RE005,24706,115,,B,76,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. 
 K/KD/KD3.xml,KD3RE005,24706,116,,A,77,1,Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,117,,B,78,1,Ooh   --,[Ooh/NNP],(ROOT (NP (NNP Ooh)))
 K/KD/KD3.xml,KD3RE005,24706,118,,B,78,2,--(()) ,[Ooh/NNP],(ROOT (NP (NNP Ooh)))
-K/KD/KD3.xml,KD3RE005,24706,119,,A,79,1,<laugh> ,[],X
-K/KD/KD3.xml,KD3RE005,24706,120,,B,80,1,(()) ,[],X
+K/KD/KD3.xml,KD3RE005,24706,119,,A,79,1,<laugh> ,[],
+K/KD/KD3.xml,KD3RE005,24706,120,,B,80,1,(()) ,[],
 K/KD/KD3.xml,KD3RE005,24706,121,,A,81,1,Yeah at least mine's only peanuts.,"[Yeah/UH, at/IN, least/JJS, mine/NN, 's/POS, only/JJ, peanuts/NNS, ./.]",(ROOT (S (VP (PP (NP (INTJ (UH Yeah))) (IN at) (NP (NP (JJS least)) (X (NP (NP (NN mine) (POS 's)) (JJ only) (NNS peanuts)))))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,122,,A,81,2,Yours is everything.,"[Yours/PRP$, is/VBZ, everything/NN, ./.]",(ROOT (S (NP (PRP$ Yours)) (VP (VBZ is) (NP (NN everything))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,123,,B,82,1,I know (()) .,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,124,,A,83,1,Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,125,,B,84,1,Lift your leg like a bloody dog.,"[Lift/VB, your/PRP$, leg/NN, like/IN, a/DT, bloody/JJ, dog/NN, ./.]",(ROOT (S (VP (VB Lift) (NP (PRP$ your) (NN leg)) (PP (IN like) (NP (DT a) (JJ bloody) (NN dog)))) (. .)))
-K/KD/KD3.xml,KD3RE005,24706,126,,A,85,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE005,24706,126,,A,85,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE005,24706,127,,B,86,1,Disgusting.,"[Disgusting/VBG, ./.]",(ROOT (S (VP (VBG Disgusting)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,128,,A,87,1,Still bloody well recording.,"[Still/RB, bloody/JJ, well/RB, recording/VBG, ./.]",(ROOT (NP (NP (RB Still) (JJ bloody)) (VP (ADVP (RB well)) (VBG recording)) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,129,,B,88,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,130,,B,88,2,I think I'll have to abandon it with you around.,"[I/PRP, think/VBP, I/PRP, 'll/MD, have/VB, to/TO, abandon/VB, it/PRP, with/IN, you/PRP, around/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB abandon) (NP (PRP it)) (PP (IN with) (NP (PRP you))) (ADVP (RB around)))))))))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,131,,A,89,1,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
-K/KD/KD3.xml,KD3RE005,24706,132,,B,90,1,(()) ,[],X
+K/KD/KD3.xml,KD3RE005,24706,132,,B,90,1,(()) ,[],
 K/KD/KD3.xml,KD3RE005,24706,133,,A,91,1,"Why, ain't I supposed to mention it's recording or anything?","[Why/WRB, ,/,, ain/NNP, 't/PRP, I/PRP, supposed/VBD, to/TO, mention/VB, it/PRP, 's/VBZ, recording/VBG, or/CC, anything/NN, ?/.]","(ROOT (S (INTJ (WRB Why)) (, ,) (NP (NNP ain) (PRP 't)) (PRN (S (NP (PRP I)) (VP (VBD supposed) (S (VP (TO to) (VP (VB mention) (NP (PRP it)))))))) (VP (VBZ 's) (NP (NP (VBG recording)) (CC or) (NP (NN anything)))) (. ?)))"
 K/KD/KD3.xml,KD3RE005,24706,134,,B,92,1,You're supposed to be normal.,"[You/PRP, 're/VBP, supposed/VBN, to/TO, be/VB, normal/JJ, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBN supposed) (S (VP (TO to) (VP (VB be) (ADJP (JJ normal))))))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,135,,A,93,1,I am normal.,"[I/PRP, am/VBP, normal/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ normal))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,136,,B,94,1,<laugh> --,"[Open/VB, the/DT, window/NN, when/WRB, you/PRP, 've/VBP, finished/VBN, ./.]",(ROOT (S (VP (VB Open) (NP (DT the) (NN window)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN finished)))))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,137,,B,94,2,--Open the window when you've finished.,"[Open/VB, the/DT, window/NN, when/WRB, you/PRP, 've/VBP, finished/VBN, ./.]",(ROOT (S (VP (VB Open) (NP (DT the) (NN window)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN finished)))))) (. .)))
 K/KD/KD3.xml,KD3RE005,24706,138,,B,94,3,You listening?,"[You/PRP, listening/VBG, ?/.]",(ROOT (NP (NP (PRP You)) (VP (VBG listening)) (. ?)))
-K/KD/KD3.xml,KD3RE005,24706,139,,A,95,1,(()) ,[],X
+K/KD/KD3.xml,KD3RE005,24706,139,,A,95,1,(()) ,[],

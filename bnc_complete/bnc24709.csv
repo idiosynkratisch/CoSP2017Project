@@ -5,7 +5,7 @@ K/KD/KD3.xml,KD3RE008,24709,2,,B,2,2,"Did you slip, right?","[Did/VBD, you/PRP, 
 K/KD/KD3.xml,KD3RE008,24709,3,,B,2,3,You want to get up again?,"[You/PRP, want/VBP, to/TO, get/VB, up/RP, again/RB, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP want) (S (VP (TO to) (VP (VB get) (PRT (RP up)) (ADVP (RB again)))))) (. ?)))
 K/KD/KD3.xml,KD3RE008,24709,4,,B,2,4,Well you have to get yourself up.,"[Well/RB, you/PRP, have/VBP, to/TO, get/VB, yourself/PRP, up/RP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP have) (S (VP (TO to) (VP (VB get) (NP (PRP yourself)) (PRT (RP up)))))) (. .)))
 K/KD/KD3.xml,KD3RE008,24709,5,,B,2,5,Can you get yourself up?,"[Can/MD, you/PRP, get/VB, yourself/PRP, up/RP, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB get) (NP (PRP yourself)) (PRT (RP up))) (. ?)))
-K/KD/KD3.xml,KD3RE008,24709,6,,A,3,1,<belch> ,[],X
+K/KD/KD3.xml,KD3RE008,24709,6,,A,3,1,<belch> ,[],
 K/KD/KD3.xml,KD3RE008,24709,7,,B,4,1,Oh pardon!,"[Oh/UH, pardon/NN, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NN pardon)))) (. !)))
 K/KD/KD3.xml,KD3RE008,24709,8,,B,4,2,<laughing> Where you going </laughing> ?,"[Where/WRB, you/PRP, going/VBG, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (S (NP (PRP you)) (VP (VBG going))) (. ?)))
 K/KD/KD3.xml,KD3RE008,24709,9,,B,4,3,Hey where you going?,"[Hey/UH, where/WRB, you/PRP, going/VBG, ?/.]",(ROOT (SBARQ (WHADVP (UH Hey) (WRB where)) (S (NP (PRP you)) (VP (VBG going))) (. ?)))
@@ -41,7 +41,7 @@ K/KD/KD3.xml,KD3RE008,24709,38,,B,4,32,--three  --,"[One/CD, two/CD, three/CD, f
 K/KD/KD3.xml,KD3RE008,24709,39,,B,4,33,--four.,"[One/CD, two/CD, three/CD, four/CD, ./.]",(ROOT (FRAG (NP (CD One) (CD two)) (NP (CD three) (CD four)) (. .)))
 K/KD/KD3.xml,KD3RE008,24709,40,,B,4,34,<laugh> You wanna go backwards now don't you?,"[You/PRP, wanna/NNP, go/NNP, backwards/RB, now/RB, don/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (NP (PRP You)) (VP (NP (NNP wanna) (NNP go)) (ADVP (RB backwards) (RB now)))) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP you)))) (. ?)))
 K/KD/KD3.xml,KD3RE008,24709,41,,B,4,35,<laugh> What are you doing?<laugh> ,"[What/WP, are/VBP, you/PRP, doing/VBG, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (PRP you)) (VP (VBG doing))) (. ?)))
-K/KD/KD3.xml,KD3RE008,24709,42,,A,5,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE008,24709,42,,A,5,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE008,24709,43,,B,6,1,Oh dear!,"[Oh/UH, dear/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. !)))
 K/KD/KD3.xml,KD3RE008,24709,44,,B,6,2,You're funny.,"[You/PRP, 're/VBP, funny/JJ, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (ADJP (JJ funny))) (. .)))
 K/KD/KD3.xml,KD3RE008,24709,45,,B,6,3,Are you funny?,"[Are/VBP, you/PRP, funny/JJ, ?/.]",(ROOT (S (VP (VBP Are) (ADJP (NP (PRP you)) (JJ funny))) (. ?)))
@@ -51,5 +51,5 @@ K/KD/KD3.xml,KD3RE008,24709,48,,B,6,6,<laugh> Now what are you gonna do?,"[Now/R
 K/KD/KD3.xml,KD3RE008,24709,49,,B,6,7,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))
 K/KD/KD3.xml,KD3RE008,24709,50,,B,6,8,Now what are you gonna do?--,"[Now/RB, what/WP, are/VBP, you/PRP, gonna/VB, do/VB, ?/.]",(ROOT (FRAG (ADVP (RB Now)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (S (NP (PRP you)) (VP (VB gonna) (VP (VB do))))))) (. ?)))
 K/KD/KD3.xml,KD3RE008,24709,51,,B,6,9,--<laugh> ,"[Now/RB, what/WP, are/VBP, you/PRP, gonna/VB, do/VB, ?/.]",(ROOT (FRAG (ADVP (RB Now)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (S (NP (PRP you)) (VP (VB gonna) (VP (VB do))))))) (. ?)))
-K/KD/KD3.xml,KD3RE008,24709,52,,A,7,1,<laugh> ,[],X
+K/KD/KD3.xml,KD3RE008,24709,52,,A,7,1,<laugh> ,[],
 K/KD/KD3.xml,KD3RE008,24709,53,,B,8,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

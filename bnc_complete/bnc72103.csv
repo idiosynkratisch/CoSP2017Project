@@ -30,7 +30,7 @@ K/KB/KBC.xml,KBCRE00C,72103,27,,A,17,1,"Well, I'm not, I'm not bothered about it
 K/KB/KBC.xml,KBCRE00C,72103,28,,A,17,2,It doesn't worry me.,"[It/PRP, doesn/VBD, 't/PRP, worry/VB, me/PRP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB worry) (NP (PRP me))))) (. .)))
 K/KB/KBC.xml,KBCRE00C,72103,29,,A,17,3,Well  --,"[Well/RB, who/WP, wants/VBZ, to/TO, go/VB, out/RP, with/IN, a/DT, doddery/JJ, old/JJ, bugger/NN, like/IN, me/PRP, anyway/RB, !/.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP who)) (S (VP (VBZ wants) (S (VP (TO to) (VP (VB go) (PRT (RP out)) (PP (IN with) (NP (NP (DT a) (JJ doddery) (JJ old) (NN bugger)) (PP (IN like) (NP (PRP me))))) (ADVP (RB anyway)))))))) (. !)))
 K/KB/KBC.xml,KBCRE00C,72103,30,,A,17,4,--who wants to go out with a doddery old bugger like me anyway!,"[Well/RB, who/WP, wants/VBZ, to/TO, go/VB, out/RP, with/IN, a/DT, doddery/JJ, old/JJ, bugger/NN, like/IN, me/PRP, anyway/RB, !/.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (WHNP (WP who)) (S (VP (VBZ wants) (S (VP (TO to) (VP (VB go) (PRT (RP out)) (PP (IN with) (NP (NP (DT a) (JJ doddery) (JJ old) (NN bugger)) (PP (IN like) (NP (PRP me))))) (ADVP (RB anyway)))))))) (. !)))
-K/KB/KBC.xml,KBCRE00C,72103,31,,B,18,1,<laugh> ,[],X
+K/KB/KBC.xml,KBCRE00C,72103,31,,B,18,1,<laugh> ,[],
 K/KB/KBC.xml,KBCRE00C,72103,32,,A,19,1,"Surprised Kevin wants to, surprised Kevin wants to go.","[Surprised/JJ, Kevin/NNP, wants/VBZ, to/TO, ,/,, surprised/JJ, Kevin/NNP, wants/VBZ, to/TO, go/VB, ./.]","(ROOT (S (NP (JJ Surprised) (NNP Kevin)) (VP (VBZ wants) (S (VP (TO to))) (, ,) (ADJP (JJ surprised) (SBAR (S (NP (NNP Kevin)) (VP (VBZ wants) (S (VP (TO to) (VP (VB go))))))))) (. .)))"
 K/KB/KBC.xml,KBCRE00C,72103,33,,B,20,1,Well it's ,"[Well/RB, it/PRP, 's/VBZ]",(ROOT (FRAG (X (ADVP (RB Well)) (NP (PRP it))) (VP (VBZ 's))))
 K/KB/KBC.xml,KBCRE00C,72103,34,,A,21,1,Could go on to the rugby and go with them couldn't he?,"[Could/MD, go/VB, on/IN, to/TO, the/DT, rugby/JJ, and/CC, go/VB, with/IN, them/PRP, couldn/VBP, 't/PRP, he/PRP, ?/.]",(ROOT (S (VP (MD Could) (VP (VP (VB go) (PP (IN on) (PP (TO to) (NP (DT the) (JJ rugby))))) (CC and) (VP (VB go) (SBAR (IN with) (S (NP (PRP them)) (VP (VBP couldn) (S (NP (PRP 't)) (NP (PRP he))))))))) (. ?)))
@@ -43,9 +43,9 @@ K/KB/KBC.xml,KBCRE00C,72103,40,,B,26,2,--well he hasn't got a father so he regar
 K/KB/KBC.xml,KBCRE00C,72103,41,,B,26,3,If you wanna take it that way.<radio on> ,"[If/IN, you/PRP, wanna/NNP, take/VB, it/PRP, that/DT, way/NN, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (NP (PRP you)) (NP (NNP wanna))) (VP (VB take) (S (NP (PRP it)) (NP (DT that) (NN way)))))) (. .)))
 K/KB/KBC.xml,KBCRE00C,72103,42,,A,27,1,If  --,"[If/IN, if/IN, Labour/NN, say/VBP, get/VB, in/IN]",(ROOT (SBAR (IN If) (IN if) (S (NP (NN Labour)) (VP (VBP say) (VP (VB get) (PP (IN in)))))))
 K/KB/KBC.xml,KBCRE00C,72103,43,,A,27,2,--if Labour say get in,"[If/IN, if/IN, Labour/NN, say/VBP, get/VB, in/IN]",(ROOT (SBAR (IN If) (IN if) (S (NP (NN Labour)) (VP (VBP say) (VP (VB get) (PP (IN in)))))))
-K/KB/KBC.xml,KBCRE00C,72103,44,,B,28,1,<whispering> ,[],X
-K/KB/KBC.xml,KBCRE00C,72103,45,,B,28,2,(()) ,[],X
-K/KB/KBC.xml,KBCRE00C,72103,46,,B,28,3,</whispering> ,[],X
+K/KB/KBC.xml,KBCRE00C,72103,44,,B,28,1,<whispering> ,[],
+K/KB/KBC.xml,KBCRE00C,72103,45,,B,28,2,(()) ,[],
+K/KB/KBC.xml,KBCRE00C,72103,46,,B,28,3,</whispering> ,[],
 K/KB/KBC.xml,KBCRE00C,72103,47,,A,29,1,if Labour get in and they can't fulfil their promises,"[if/IN, Labour/NN, get/VB, in/IN, and/CC, they/PRP, can/MD, 't/PRP, fulfil/VB, their/PRP$, promises/NNS]",(ROOT (SBAR (IN if) (S (S (NP (NN Labour)) (VP (VB get) (PP (IN in)))) (CC and) (S (NP (PRP they)) (VP (MD can) (NP (PRP 't)) (S (VP (VB fulfil) (NP (PRP$ their) (NNS promises)))))))))
 K/KB/KBC.xml,KBCRE00C,72103,48,,B,30,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBC.xml,KBCRE00C,72103,49,,A,31,1,like John Smith's made promises then that  --,"[like/IN, John/NNP, Smith/NNP, 's/POS, made/VBN, promises/NNS, then/RB, that/IN, Conservatives/NNS, haven/NN, 't/PRP, done/VBN, this/DT, ,/,, that/IN, and/CC, the/DT, other/JJ, ,/,, he/PRP, must/MD, be/VB, able/JJ, to/TO, do/VB, them/PRP, now/RB, mustn/VBP, 't/PRP, he/PRP, ?/.]","(ROOT (S (PP (IN like) (NP (NP (NP (NP (NNP John) (NNP Smith) (POS 's)) (ADJP (VBN made)) (NNS promises)) (VP (ADVP (ADVP (RB then)) (SBAR (IN that) (S (NP (NNS Conservatives) (NN haven)) (NP (PRP 't))))) (VBN done) (NP (DT this)) (, ,) (ADVP (IN that)))) (CC and) (NP (DT the) (JJ other)))) (, ,) (NP (PRP he)) (VP (MD must) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB do) (SBAR (S (NP (PRP them)) (ADVP (RB now)) (VP (VBP mustn) (S (NP (PRP 't)) (NP (PRP he)))))))))))) (. ?)))"
@@ -54,9 +54,9 @@ K/KB/KBC.xml,KBCRE00C,72103,51,,B,32,1,Who must?,"[Who/WP, must/MD, ?/.]",(ROOT 
 K/KB/KBC.xml,KBCRE00C,72103,52,,A,33,1,John Smith.,"[John/NNP, Smith/NNP, ./.]",(ROOT (NP (NNP John) (NNP Smith) (. .)))
 K/KB/KBC.xml,KBCRE00C,72103,53,,B,34,1,"Well erm, they, they don't know whether they can do it or not do they?","[Well/RB, erm/NN, ,/,, they/PRP, ,/,, they/PRP, don/VBP, 't/PRP, know/VB, whether/IN, they/PRP, can/MD, do/VB, it/PRP, or/CC, not/RB, do/VB, they/PRP, ?/.]","(ROOT (S (S (ADVP (RB Well)) (NP (NN erm))) (, ,) (NP (PRP they)) (, ,) (NP (PRP they)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (IN whether) (S (NP (PRP they)) (VP (MD can) (VP (VP (VB do) (NP (PRP it))) (CC or) (RB not) (VP (VB do) (NP (PRP they)))))))))) (. ?)))"
 K/KB/KBC.xml,KBCRE00C,72103,54,,A,35,1,"No, but he's criticizing the Conservative policies and all that, and what we will do is this.","[No/DT, ,/,, but/CC, he/PRP, 's/VBZ, criticizing/VBG, the/DT, Conservative/JJ, policies/NNS, and/CC, all/PDT, that/DT, ,/,, and/CC, what/WP, we/PRP, will/MD, do/VB, is/VBZ, this/DT, ./.]","(ROOT (S (S (NP (DT No)) (, ,) (CC but) (NP (PRP he)) (VP (VBZ 's) (VP (VBG criticizing) (NP (NP (DT the) (JJ Conservative) (NNS policies)) (CC and) (NP (PDT all) (DT that)))))) (, ,) (CC and) (S (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (MD will) (VP (VB do))))) (VP (VBZ is) (NP (DT this)))) (. .)))"
-K/KB/KBC.xml,KBCRE00C,72103,55,,B,36,1,<whispering> ,[],X
-K/KB/KBC.xml,KBCRE00C,72103,56,,B,36,2,(()) ,[],X
-K/KB/KBC.xml,KBCRE00C,72103,57,,B,36,3,</whispering> ,[],X
+K/KB/KBC.xml,KBCRE00C,72103,55,,B,36,1,<whispering> ,[],
+K/KB/KBC.xml,KBCRE00C,72103,56,,B,36,2,(()) ,[],
+K/KB/KBC.xml,KBCRE00C,72103,57,,B,36,3,</whispering> ,[],
 K/KB/KBC.xml,KBCRE00C,72103,58,,A,37,1,I know  --,"[I/PRP, know/VBP, for/IN, investment/NN]",(ROOT (S (NP (PRP I)) (VP (VBP know) (PP (IN for) (NP (NN investment))))))
 K/KB/KBC.xml,KBCRE00C,72103,59,,A,37,2,--for investment,"[I/PRP, know/VBP, for/IN, investment/NN]",(ROOT (S (NP (PRP I)) (VP (VBP know) (PP (IN for) (NP (NN investment))))))
 K/KB/KBC.xml,KBCRE00C,72103,60,,B,38,1,Yes but they all say that ,"[Yes/UH, but/CC, they/PRP, all/DT, say/VBP, that/IN]",(ROOT (S (VP (UH Yes) (SBAR (CC but) (S (NP (PRP they)) (ADVP (DT all)) (VP (VBP say) (ADVP (IN that))))))))
@@ -593,4 +593,4 @@ K/KB/KBC.xml,KBCRE00C,72103,590,,B,334,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KB/KBC.xml,KBCRE00C,72103,591,,B,334,2,I bet there has.,"[I/PRP, bet/VBP, there/EX, has/VBZ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (SBAR (S (NP (EX there)) (VP (VBZ has))))) (. .)))
 K/KB/KBC.xml,KBCRE00C,72103,592,,B,334,3,"Tell you what, the Conservative candidate's not been round has he?","[Tell/VB, you/PRP, what/WP, ,/,, the/DT, Conservative/JJ, candidate/NN, 's/POS, not/RB, been/VBN, round/NN, has/VBZ, he/PRP, ?/.]","(ROOT (SQ (VP (VB Tell) (NP (PRP you)) (SBAR (WHNP (WP what)) (, ,) (S (NP (DT the) (NP (NP (JJ Conservative) (NN candidate) (POS 's)) (ADJP (RB not) (VBN been)) (NN round))) (VP (VBZ has) (NP (PRP he)))))) (. ?)))"
 K/KB/KBC.xml,KBCRE00C,72103,593,,A,335,1,No he daren't.,"[No/DT, he/PRP, daren/NNP, 't/PRP, ./.]",(ROOT (NP (NP (DT No) (PRP he)) (NP (NP (NNP daren)) (NP (PRP 't))) (. .)))
-K/KB/KBC.xml,KBCRE00C,72103,594,,B,336,1,<laugh> ,[],X
+K/KB/KBC.xml,KBCRE00C,72103,594,,B,336,1,<laugh> ,[],

@@ -10,13 +10,13 @@ K/KB/KBK.xml,KBKRE034,2401,7,,A,7,1,Ha ha.,"[Ha/NNP, ha/NNP, ./.]",(ROOT (NP (NN
 K/KB/KBK.xml,KBKRE034,2401,8,,A,7,2,I shall leave you to it.,"[I/PRP, shall/MD, leave/VB, you/PRP, to/TO, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD shall) (VP (VB leave) (NP (PRP you)) (PP (TO to) (NP (PRP it))))) (. .)))
 K/KB/KBK.xml,KBKRE034,2401,9,,B,8,1,How many have you got (()) ?,"[How/WRB, many/JJ, have/VBP, you/PRP, got/VBN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (JJ many)) (SQ (VBP have) (NP (PRP you)) (VP (VBN got))) (. ?)))
 K/KB/KBK.xml,KBKRE034,2401,10,,A,9,1,All  (()) and they'zre tomorrow.,"[All/DT, and/CC, they/PRP, 'zre/VBP, tomorrow/NN, ./.]",(ROOT (S (NP (NP (DT All)) (CC and) (NP (PRP they))) (VP (VBP 'zre) (NP (NN tomorrow))) (. .)))
-K/KB/KBK.xml,KBKRE034,2401,11,,B,10,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE034,2401,11,,B,10,1,(()) ,[],
 K/KB/KBK.xml,KBKRE034,2401,12,,A,11,1,I'm sorry I've missed that.,"[I/PRP, 'm/VBP, sorry/JJ, I/PRP, 've/VBP, missed/VBN, that/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN missed) (ADVP (IN that)))))))) (. .)))
-K/KB/KBK.xml,KBKRE034,2401,13,,B,12,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE034,2401,13,,B,12,1,(()) ,[],
 K/KB/KBK.xml,KBKRE034,2401,14,,A,13,1,"Well, that doesn't matter, it's me it's recording and whoever I talk to.","[Well/RB, ,/,, that/IN, doesn/NN, 't/PRP, matter/NN, ,/,, it/PRP, 's/VBZ, me/PRP, it/PRP, 's/VBZ, recording/VBG, and/CC, whoever/WP, I/PRP, talk/VBP, to/TO, ./.]","(ROOT (S (ADVP (RB Well)) (PRN (, ,) (SBAR (IN that) (S (NP (NP (NN doesn)) (NP (PRP 't))) (VP (NN matter)))) (, ,)) (NP (PRP it)) (VP (VBZ 's) (NP (PRP me)) (SBAR (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG recording))))) (CC and) (SBAR (WHNP (WP whoever)) (S (NP (PRP I)) (VP (VBP talk) (PP (TO to))))))) (. .)))"
 K/KB/KBK.xml,KBKRE034,2401,15,,B,14,1,Why are you recording you though?,"[Why/WRB, are/VBP, you/PRP, recording/VBG, you/PRP, though/IN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP are) (NP (PRP you)) (VP (VBG recording) (NP (PRP you)) (ADVP (IN though)))) (. ?)))
 K/KB/KBK.xml,KBKRE034,2401,16,,A,15,1,Aha ha.,"[Aha/NNP, ha/NNP, ./.]",(ROOT (NP (NNP Aha) (NNP ha) (. .)))
-K/KB/KBK.xml,KBKRE034,2401,17,,B,16,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE034,2401,17,,B,16,1,(()) ,[],
 K/KB/KBK.xml,KBKRE034,2401,18,,A,17,1,Cos I'm really rather super that's why.,"[Cos/NNP, I/PRP, 'm/VBP, really/RB, rather/RB, super/JJ, that/DT, 's/VBZ, why/WRB, ./.]",(ROOT (S (NP (NNP Cos) (PRP I)) (VP (VBP 'm) (ADJP (RB really) (RB rather) (JJ super) (SBAR (S (NP (DT that)) (VP (VBZ 's) (FRAG (WHADVP (WRB why)))))))) (. .)))
 K/KB/KBK.xml,KBKRE034,2401,19,,A,17,2,Gosh mum leaves this lying around doesn't she?,"[Gosh/NNP, mum/NNP, leaves/VBZ, this/DT, lying/VBG, around/IN, doesn/NNP, 't/PRP, she/PRP, ?/.]",(ROOT (S (NP (NNP Gosh) (NNP mum)) (VP (VBZ leaves) (S (NP (DT this)) (VP (VBG lying) (PP (IN around) (NP (NP (NNP doesn)) (NP (PRP 't)))) (NP (PRP she))))) (. ?)))
 K/KB/KBK.xml,KBKRE034,2401,20,,B,18,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

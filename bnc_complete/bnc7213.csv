@@ -31,8 +31,8 @@ K/KD/KDE.xml,KDERE024,7213,28,,A,27,1,You can show me whose in this book?,"[You/
 K/KD/KDE.xml,KDERE024,7213,29,,A,27,2,Yes you can as soon as you're dressed can't you?,"[Yes/UH, you/PRP, can/MD, as/RB, soon/RB, as/IN, you/PRP, 're/VBP, dressed/VBN, can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (MD can) (SBAR (ADVP (RB as) (RB soon)) (IN as) (S (NP (PRP you)) (VP (VBP 're) (VP (VBN dressed))))))) (VP (MD can)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))
 K/KD/KDE.xml,KDERE024,7213,30,,B,28,1,Hm  <laugh> ,[Hm/NNS],(ROOT (NP (NNS Hm)))
 K/KD/KDE.xml,KDERE024,7213,31,,A,29,1,Come to Mummy.,"[Come/VB, to/TO, Mummy/NN, ./.]",(ROOT (S (VP (VB Come) (PP (TO to) (NP (NN Mummy)))) (. .)))
-K/KD/KDE.xml,KDERE024,7213,32,,B,30,1,<laugh> ,[],X
-K/KD/KDE.xml,KDERE024,7213,33,,B,30,2,(()) ,[],X
+K/KD/KDE.xml,KDERE024,7213,32,,B,30,1,<laugh> ,[],
+K/KD/KDE.xml,KDERE024,7213,33,,B,30,2,(()) ,[],
 K/KD/KDE.xml,KDERE024,7213,34,,A,31,1,Come on then.,"[Come/VB, on/IN, then/RB, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (RB then)))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,35,,B,32,1,You can't get me.,"[You/PRP, can/MD, 't/PRP, get/VB, me/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (NP (PRP 't)) (S (VP (VB get) (NP (PRP me))))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,36,,B,32,2,Hee hee.,"[Hee/NNP, hee/NNP, ./.]",(ROOT (NP (NNP Hee) (NNP hee) (. .)))
@@ -70,7 +70,7 @@ K/KD/KDE.xml,KDERE024,7213,67,,B,56,1,How did they get in the cage?,"[How/WRB, d
 K/KD/KDE.xml,KDERE024,7213,68,,A,57,1,How did they get in the cage?,"[How/WRB, did/VBD, they/PRP, get/VB, in/IN, the/DT, cage/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB How)) (SQ (VBD did) (NP (PRP they)) (VP (VB get) (PP (IN in) (NP (DT the) (NN cage))))) (. ?)))
 K/KD/KDE.xml,KDERE024,7213,69,,A,57,2,They just walked in.,"[They/PRP, just/RB, walked/VBD, in/IN, ./.]",(ROOT (S (NP (PRP They)) (ADVP (RB just)) (VP (VBD walked) (PP (IN in))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,70,,B,58,1,Mm (()) ,[Mm/NN],(ROOT (NP (NN Mm)))
-K/KD/KDE.xml,KDERE024,7213,71,,A,59,1,(()) ,[],X
+K/KD/KDE.xml,KDERE024,7213,71,,A,59,1,(()) ,[],
 K/KD/KDE.xml,KDERE024,7213,72,,B,60,1,Where's Oliver gone?,"[Where/WRB, 's/POS, Oliver/NNP, gone/VBN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NNP Oliver)) (VP (VBN gone))) (. ?)))
 K/KD/KDE.xml,KDERE024,7213,73,,A,61,1,Where's Oliver gone?,"[Where/WRB, 's/POS, Oliver/NNP, gone/VBN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NNP Oliver)) (VP (VBN gone))) (. ?)))
 K/KD/KDE.xml,KDERE024,7213,74,,B,62,1,He is in (()) .,"[He/PRP, is/VBZ, in/IN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ is) (PP (IN in))) (. .)))
@@ -111,14 +111,14 @@ K/KD/KDE.xml,KDERE024,7213,108,,B,78,1,Where's Oliver gone?,"[Where/WRB, 's/POS,
 K/KD/KDE.xml,KDERE024,7213,109,,A,79,1,Where's Oliver gone?,"[Where/WRB, 's/POS, Oliver/NNP, gone/VBN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NNP Oliver)) (VP (VBN gone))) (. ?)))
 K/KD/KDE.xml,KDERE024,7213,110,,B,80,1,Here he is.,"[Here/RB, he/PRP, is/VBZ, ./.]",(ROOT (S (ADVP (RB Here)) (NP (PRP he)) (VP (VBZ is)) (. .)))
 K/KD/KDE.xml,KDERE024,7213,111,,A,81,1,Here he is.,"[Here/RB, he/PRP, is/VBZ, ./.]",(ROOT (S (ADVP (RB Here)) (NP (PRP he)) (VP (VBZ is)) (. .)))
-K/KD/KDE.xml,KDERE024,7213,112,,B,82,1,(()) ,[],X
+K/KD/KDE.xml,KDERE024,7213,112,,B,82,1,(()) ,[],
 K/KD/KDE.xml,KDERE024,7213,113,,A,83,1,You have to until you combed your hair.,"[You/PRP, have/VBP, to/TO, until/IN, you/PRP, combed/VBD, your/PRP$, hair/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP have) (PP (TO to) (SBAR (IN until) (S (NP (PRP you)) (VP (VBD combed) (NP (PRP$ your) (NN hair))))))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,114,,B,84,1,That's enough.,"[That/DT, 's/VBZ, enough/RB, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (RB enough))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,115,,B,84,2,That's enough.,"[That/DT, 's/VBZ, enough/RB, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (RB enough))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,116,,B,84,3,That's enough.,"[That/DT, 's/VBZ, enough/RB, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (RB enough))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,117,,B,84,4,I said that's enough.,"[I/PRP, said/VBD, that/DT, 's/VBZ, enough/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (DT that)) (VP (VBZ 's) (ADJP (RB enough)))))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,118,,A,85,1,I know what you said but it isn't even dried yet.,"[I/PRP, know/VBP, what/WP, you/PRP, said/VBD, but/CC, it/PRP, isn/RB, 't/PRP, even/RB, dried/VBD, yet/RB, ./.]",(ROOT (S (S (NP (PRP I)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD said)))))) (CC but) (FRAG (NP (PRP it)) (ADJP (RB isn) (SBAR (S (NP (PRP 't)) (ADVP (RB even)) (VP (VBD dried) (ADVP (RB yet))))))) (. .)))
-K/KD/KDE.xml,KDERE024,7213,119,,B,86,1,<crying> ,[],X
+K/KD/KDE.xml,KDERE024,7213,119,,B,86,1,<crying> ,[],
 K/KD/KDE.xml,KDERE024,7213,120,,A,87,1,Don't be such a big baby.,"[Don/NNP, 't/PRP, be/VB, such/PDT, a/DT, big/JJ, baby/NN, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB be) (NP (PDT such) (DT a) (JJ big) (NN baby))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,121,,B,88,1,<crying> you hurt me.</crying> ,"[you/PRP, hurt/VBP, me/PRP, ./.]",(ROOT (S (NP (PRP you)) (VP (VBP hurt) (NP (PRP me))) (. .)))
 K/KD/KDE.xml,KDERE024,7213,122,,A,89,1,It's done now.,"[It/PRP, 's/VBZ, done/VBN, now/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN done) (ADVP (RB now)))) (. .)))

@@ -1,22 +1,22 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KCN.xml,KCNRE007,26807,0,,A,1,1,Can I bring these back?,"[Can/MD, I/PRP, bring/VB, these/DT, back/RB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB bring) (NP (DT these)) (ADVP (RB back))) (. ?)))
 K/KC/KCN.xml,KCNRE007,26807,1,,A,1,2,I bought them yesterday!,"[I/PRP, bought/VBD, them/PRP, yesterday/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD bought) (NP (PRP them)) (NP (NN yesterday))) (. !)))
-K/KC/KCN.xml,KCNRE007,26807,2,,B,2,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE007,26807,2,,B,2,1,(()) ,[],
 K/KC/KCN.xml,KCNRE007,26807,3,,A,3,1,All three of them!,"[All/DT, three/CD, of/IN, them/PRP, !/.]",(ROOT (NP (NP (QP (DT All) (CD three))) (PP (IN of) (NP (PRP them))) (. !)))
 K/KC/KCN.xml,KCNRE007,26807,4,,A,3,2,"They're all,urgh!","[They/PRP, 're/VBP, all/DT, ,urgh/NN, !/.]","(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (DT all) (NN ,urgh))) (. !)))"
-K/KC/KCN.xml,KCNRE007,26807,5,,B,4,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE007,26807,5,,B,4,1,(()) ,[],
 K/KC/KCN.xml,KCNRE007,26807,6,,A,5,1,Please.,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
 K/KC/KCN.xml,KCNRE007,26807,7,,B,6,1,Alright love?,"[Alright/JJ, love/NN, ?/.]",(ROOT (NP (JJ Alright) (NN love) (. ?)))
 K/KC/KCN.xml,KCNRE007,26807,8,,A,7,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KC/KCN.xml,KCNRE007,26807,9,,B,8,1,Okay?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
 K/KC/KCN.xml,KCNRE007,26807,10,,A,9,1,"Yeah, thanks!","[Yeah/UH, ,/,, thanks/NNS, !/.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (NNS thanks)) (. !)))"
 K/KC/KCN.xml,KCNRE007,26807,11,,A,9,2,Ta!,"[Ta/NNP, !/.]",(ROOT (FRAG (NP (NNP Ta)) (. !)))
-K/KC/KCN.xml,KCNRE007,26807,12,,B,10,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE007,26807,12,,B,10,1,(()) ,[],
 K/KC/KCN.xml,KCNRE007,26807,13,,B,10,2,Do you sell ham?,"[Do/VB, you/PRP, sell/VB, ham/NN, ?/.]",(ROOT (SQ (VP (VB Do) (S (NP (PRP you)) (VP (VB sell) (NP (NN ham))))) (. ?)))
 K/KC/KCN.xml,KCNRE007,26807,14,,B,10,3,Linda!,"[Linda/NNP, !/.]",(ROOT (FRAG (NP (NNP Linda)) (. !)))
 K/KC/KCN.xml,KCNRE007,26807,15,,A,11,1,Sorry!,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))
 K/KC/KCN.xml,KCNRE007,26807,16,,B,12,1,Sorry!,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))
 K/KC/KCN.xml,KCNRE007,26807,17,,B,12,2,Yeah!,"[Yeah/UH, !/.]",(ROOT (INTJ (UH Yeah) (. !)))
-K/KC/KCN.xml,KCNRE007,26807,18,,B,12,3,(()) ,[],X
+K/KC/KCN.xml,KCNRE007,26807,18,,B,12,3,(()) ,[],
 K/KC/KCN.xml,KCNRE007,26807,19,,B,12,4,Okay!,"[Okay/UH, !/.]",(ROOT (INTJ (UH Okay) (. !)))
 K/KC/KCN.xml,KCNRE007,26807,20,,A,13,1,<singing> Mm mm mm mm </singing> .,"[Mm/NN, mm/NN, mm/NN, mm/NN, ./.]",(ROOT (FRAG (NP (NN Mm) (NN mm) (NN mm) (NN mm)) (. .)))

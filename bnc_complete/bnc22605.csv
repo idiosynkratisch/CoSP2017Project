@@ -10,7 +10,7 @@ K/KB/KBW.xml,KBWRE010,22605,7,,A,7,2,--whenever the A G M is.,"[Erm/NNP, wheneve
 K/KB/KBW.xml,KBWRE010,22605,8,,B,8,1,A week on  --,"[A/DT, week/NN, on/IN, it/PRP, 's/VBZ, a/DT, week/NN, on/IN]",(ROOT (S (NP (NP (DT A) (NN week)) (PP (IN on) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (NN week)) (PP (IN on)))))
 K/KB/KBW.xml,KBWRE010,22605,9,,B,8,2,--it's a week on ,"[A/DT, week/NN, on/IN, it/PRP, 's/VBZ, a/DT, week/NN, on/IN]",(ROOT (S (NP (NP (DT A) (NN week)) (PP (IN on) (NP (PRP it)))) (VP (VBZ 's) (NP (DT a) (NN week)) (PP (IN on)))))
 K/KB/KBW.xml,KBWRE010,22605,10,,A,9,1,It's for you to study and peruse so that you ,"[It/PRP, 's/VBZ, for/IN, you/PRP, to/TO, study/VB, and/CC, peruse/VB, so/RB, that/IN, you/PRP]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (SBAR (IN for) (S (NP (PRP you)) (VP (TO to) (VP (VP (VB study)) (CC and) (VP (VB peruse) (SBAR (RB so) (IN that) (S (NP (PRP you))))))))))))
-K/KB/KBW.xml,KBWRE010,22605,11,,B,10,1,(()) ,[],X
+K/KB/KBW.xml,KBWRE010,22605,11,,B,10,1,(()) ,[],
 K/KB/KBW.xml,KBWRE010,22605,12,,A,11,1,you know.,"[you/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP you)) (VP (VBP know)) (. .)))
 K/KB/KBW.xml,KBWRE010,22605,13,,A,11,2,"Well I know, I think it's a good idea.","[Well/RB, I/PRP, know/VBP, ,/,, I/PRP, think/VBP, it/PRP, 's/VBZ, a/DT, good/JJ, idea/NN, ./.]","(ROOT (S (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP know))) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ good) (NN idea)))))) (. .)))"
 K/KB/KBW.xml,KBWRE010,22605,14,,B,12,1,Well I might just try ,"[Well/RB, I/PRP, might/MD, just/RB, try/VB]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP I)) (SBAR (S (VP (MD might) (ADVP (RB just)) (VP (VB try))))))))
@@ -32,7 +32,7 @@ K/KB/KBW.xml,KBWRE010,22605,29,,A,23,1,Those are the mums and toddler tea towels
 K/KB/KBW.xml,KBWRE010,22605,30,,B,24,1,Thank you very much.,"[Thank/VB, you/PRP, very/RB, much/RB, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you)) (ADVP (RB very) (RB much))) (. .)))
 K/KB/KBW.xml,KBWRE010,22605,31,,A,25,1,I've washed them.,"[I/PRP, 've/VBP, washed/VBN, them/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN washed) (NP (PRP them)))) (. .)))
 K/KB/KBW.xml,KBWRE010,22605,32,,B,26,1,"Thankyou, right-y-o.","[Thankyou/NNP, ,/,, right-y-o/NN, ./.]","(ROOT (NP (NP (NNP Thankyou)) (, ,) (NP (NN right-y-o)) (. .)))"
-K/KB/KBW.xml,KBWRE010,22605,33,,A,27,1,<laugh> ,[],X
+K/KB/KBW.xml,KBWRE010,22605,33,,A,27,1,<laugh> ,[],
 K/KB/KBW.xml,KBWRE010,22605,34,,B,28,1,Oh well I've got a lot of things to tell you.,"[Oh/UH, well/UH, I/PRP, 've/VBP, got/VBD, a/DT, lot/NN, of/IN, things/NNS, to/TO, tell/VB, you/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh) (UH well)) (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS things)))) (S (VP (TO to) (VP (VB tell) (NP (PRP you)))))))) (. .)))
 K/KB/KBW.xml,KBWRE010,22605,35,,A,29,1,I bet you have.,"[I/PRP, bet/VBP, you/PRP, have/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (S (NP (PRP you)) (VP (VB have)))) (. .)))
 K/KB/KBW.xml,KBWRE010,22605,36,,B,30,1,They'd better not go on that thing.,"[They/PRP, 'd/MD, better/RB, not/RB, go/VB, on/IN, that/DT, thing/NN, ./.]",(ROOT (S (NP (PRP They)) (VP (MD 'd) (ADVP (RB better)) (RB not) (VP (VB go) (PP (IN on) (NP (DT that) (NN thing))))) (. .)))

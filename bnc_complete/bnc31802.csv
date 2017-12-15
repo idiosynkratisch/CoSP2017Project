@@ -29,7 +29,7 @@ K/KD/KD8.xml,KD8RE00W,31802,26,,B,12,4,--he can wait if you haven't done ,"[And/
 K/KD/KD8.xml,KD8RE00W,31802,27,,A,13,1,"Hello, is that Tammy?","[Hello/UH, ,/,, is/VBZ, that/IN, Tammy/NNP, ?/.]","(ROOT (SINV (FRAG (INTJ (UH Hello))) (, ,) (VP (VBZ is) (ADJP (IN that))) (NP (NNP Tammy)) (. ?)))"
 K/KD/KD8.xml,KD8RE00W,31802,28,,B,14,1,no ,[no/DT],(ROOT (FRAG (DT no)))
 K/KD/KD8.xml,KD8RE00W,31802,29,,A,15,1,"Hi!,","[Hi/UH, !/., ,/,]","(ROOT (FRAG (PP (NP (UH Hi)) (PP (. !))) (, ,)))"
-K/KD/KD8.xml,KD8RE00W,31802,30,,B,16,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00W,31802,30,,B,16,1,(()) ,[],
 K/KD/KD8.xml,KD8RE00W,31802,31,,A,17,1,"hi, it's Rob  <<REDACTED (name)>> from the Moore office.","[hi/UH, ,/,, it/PRP, 's/VBZ, Rob/NNP, >/JJR, from/IN, the/DT, Moore/NNP, office/NNP, ./.]","(ROOT (S (INTJ (UH hi)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NNP Rob)) (ADJP (JJR >) (PP (IN from) (NP (DT the) (NNP Moore) (NNP office)))))) (. .)))"
 K/KD/KD8.xml,KD8RE00W,31802,32,,A,17,2,Erm  --,"[Erm/NN, I/PRP, 'm/VBP, of-/JJ, er/NN, I/PRP, 'm/VBP, been/VBN, asked/VBN, your/PRP$]",(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (JJ of-) (NN er)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBN been) (VP (VBN asked) (NP (PRP$ your))))))))))))))
 K/KD/KD8.xml,KD8RE00W,31802,33,,A,17,3,--I'm of- er  --,"[Erm/NN, I/PRP, 'm/VBP, of-/JJ, er/NN, I/PRP, 'm/VBP, been/VBN, asked/VBN, your/PRP$]",(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (JJ of-) (NN er)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (VP (VBN been) (VP (VBN asked) (NP (PRP$ your))))))))))))))
@@ -41,8 +41,8 @@ K/KD/KD8.xml,KD8RE00W,31802,38,,B,20,1,ay?,"[ay/NN, ?/.]",(ROOT (FRAG (NP (NN ay
 K/KD/KD8.xml,KD8RE00W,31802,39,,A,21,1,certificate.,"[certificate/NN, ./.]",(ROOT (NP (NN certificate) (. .)))
 K/KD/KD8.xml,KD8RE00W,31802,40,,B,22,1,Does he have to give you a quote?,"[Does/VBZ, he/PRP, have/VB, to/TO, give/VB, you/PRP, a/DT, quote/NN, ?/.]",(ROOT (SQ (VBZ Does) (NP (PRP he)) (VP (VB have) (S (VP (TO to) (VP (VB give) (NP (PRP you)) (NP (DT a) (NN quote)))))) (. ?)))
 K/KD/KD8.xml,KD8RE00W,31802,41,,B,22,2,"No, cos we know his  (()) ","[No/DT, ,/,, cos/NN, we/PRP, know/VBP, his/PRP$]","(ROOT (FRAG (NP (NP (DT No)) (, ,) (NP (NP (NN cos)) (SBAR (S (NP (PRP we)) (VP (VBP know) (NP (PRP$ his)))))))))"
-K/KD/KD8.xml,KD8RE00W,31802,42,,A,23,1,(()) ,[],X
-K/KD/KD8.xml,KD8RE00W,31802,43,,B,24,1,(()) ,[],X
+K/KD/KD8.xml,KD8RE00W,31802,42,,A,23,1,(()) ,[],
+K/KD/KD8.xml,KD8RE00W,31802,43,,B,24,1,(()) ,[],
 K/KD/KD8.xml,KD8RE00W,31802,44,,A,25,1,The R A C book ,"[The/DT, R/NN, A/DT, C/NN, book/NN]",(ROOT (NP (NP (DT The) (NN R)) (NP (DT A) (NN C) (NN book))))
 K/KD/KD8.xml,KD8RE00W,31802,45,,B,26,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KD8.xml,KD8RE00W,31802,46,,A,27,1,of (()) .,"[of/IN, ./.]",(ROOT (FRAG (PP (IN of)) (. .)))

@@ -112,10 +112,10 @@ K/KB/KB2.xml,KB2RE00P,61509,109,,A,63,1,"ten bags for eight fifty or, ten bags f
 K/KB/KB2.xml,KB2RE00P,61509,110,,A,63,2,(()) Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KB2.xml,KB2RE00P,61509,111,,B,64,1,"(()) , you know.","[,/,, you/PRP, know/VBP, ./.]","(ROOT (S (, ,) (NP (PRP you)) (VP (VBP know)) (. .)))"
 K/KB/KB2.xml,KB2RE00P,61509,112,,A,65,1,Mm?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
-K/KB/KB2.xml,KB2RE00P,61509,113,,B,66,1,(()) ,[],X
+K/KB/KB2.xml,KB2RE00P,61509,113,,B,66,1,(()) ,[],
 K/KB/KB2.xml,KB2RE00P,61509,114,,A,67,1,"Still, if we're going  --","[Still/RB, ,/,, if/IN, we/PRP, 're/VBP, going/VBG, for/IN, around/RB, ./.]","(ROOT (S (ADVP (RB Still)) (, ,) (S (ADJP (IN if))) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (PP (IN for) (ADVP (RB around))))) (. .)))"
 K/KB/KB2.xml,KB2RE00P,61509,115,,A,67,2,--for around (()) .,"[Still/RB, ,/,, if/IN, we/PRP, 're/VBP, going/VBG, for/IN, around/RB, ./.]","(ROOT (S (ADVP (RB Still)) (, ,) (S (ADJP (IN if))) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (PP (IN for) (ADVP (RB around))))) (. .)))"
-K/KB/KB2.xml,KB2RE00P,61509,116,,B,68,1,<clears throat> ,[],X
+K/KB/KB2.xml,KB2RE00P,61509,116,,B,68,1,<clears throat> ,[],
 K/KB/KB2.xml,KB2RE00P,61509,117,,A,69,1,Make a bit of  --,"[Make/VB, a/DT, bit/NN, of/IN, make/VB, the/DT, soil/NN, better/RBR, round/VB, the/DT, back/NN, ./.]",(ROOT (S (VP (VB Make) (NP (NP (DT a) (NN bit)) (PP (IN of) (S (VP (VB make) (NP (DT the) (NN soil)) (ADVP (RBR better)) (VP (VB round) (NP (DT the) (NN back)))))))) (. .)))
 K/KB/KB2.xml,KB2RE00P,61509,118,,A,69,2,--make the soil better round the back.,"[Make/VB, a/DT, bit/NN, of/IN, make/VB, the/DT, soil/NN, better/RBR, round/VB, the/DT, back/NN, ./.]",(ROOT (S (VP (VB Make) (NP (NP (DT a) (NN bit)) (PP (IN of) (S (VP (VB make) (NP (DT the) (NN soil)) (ADVP (RBR better)) (VP (VB round) (NP (DT the) (NN back)))))))) (. .)))
 K/KB/KB2.xml,KB2RE00P,61509,119,,A,69,3,Ah!,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
@@ -225,8 +225,8 @@ K/KB/KB2.xml,KB2RE00P,61509,222,,A,125,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (.
 K/KB/KB2.xml,KB2RE00P,61509,223,,B,126,1,In summer it gets dry and it goes like  (()) like.,"[In/IN, summer/NN, it/PRP, gets/VBZ, dry/JJ, and/CC, it/PRP, goes/VBZ, like/IN, like/IN, ./.]",(ROOT (S (S (PP (IN In) (NP (NN summer))) (NP (PRP it)) (VP (VBZ gets) (ADJP (JJ dry)))) (CC and) (S (NP (PRP it)) (VP (VBZ goes) (PP (IN like) (PP (IN like))))) (. .)))
 K/KB/KB2.xml,KB2RE00P,61509,224,,B,126,2,(()) flowers.,"[flowers/NNS, ./.]",(ROOT (NP (NNS flowers) (. .)))
 K/KB/KB2.xml,KB2RE00P,61509,225,,A,127,1,Were they alright?,"[Were/VBD, they/PRP, alright/VB, ?/.]",(ROOT (SQ (VBD Were) (NP (PRP they)) (VP (VB alright)) (. ?)))
-K/KB/KB2.xml,KB2RE00P,61509,226,,B,128,1,<whistling> ,[],X
-K/KB/KB2.xml,KB2RE00P,61509,227,,B,128,2,(()) ,[],X
+K/KB/KB2.xml,KB2RE00P,61509,226,,B,128,1,<whistling> ,[],
+K/KB/KB2.xml,KB2RE00P,61509,227,,B,128,2,(()) ,[],
 K/KB/KB2.xml,KB2RE00P,61509,228,,A,129,1,Are they up there then?,"[Are/VBP, they/PRP, up/RB, there/RB, then/RB, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP they)) (PP (PP (RB up) (ADVP (RB there))) (ADVP (RB then))) (. ?)))
 K/KB/KB2.xml,KB2RE00P,61509,229,,A,129,2,<radio advertisements playing> --,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KB/KB2.xml,KB2RE00P,61509,230,,A,129,3,--Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))

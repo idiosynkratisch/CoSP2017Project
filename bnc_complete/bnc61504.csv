@@ -4,9 +4,9 @@ K/KB/KB2.xml,KB2RE00J,61504,1,,A,1,2,That's a new one that int it?,"[That/DT, 's
 K/KB/KB2.xml,KB2RE00J,61504,2,,B,2,1,Is it?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
 K/KB/KB2.xml,KB2RE00J,61504,3,,B,2,2,I dunno.,"[I/PRP, dunno/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP dunno)) (. .)))
 K/KB/KB2.xml,KB2RE00J,61504,4,,A,3,1,"It is, yeah.","[It/PRP, is/VBZ, ,/,, yeah/UH, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ is) (, ,) (NP (UH yeah))) (. .)))"
-K/KB/KB2.xml,KB2RE00J,61504,5,,B,4,1,<whistling> ,[],X
+K/KB/KB2.xml,KB2RE00J,61504,5,,B,4,1,<whistling> ,[],
 K/KB/KB2.xml,KB2RE00J,61504,6,,A,5,1,<singing> La la la la la ,"[La/NNP, la/NNP, la/NNP, la/NNP, la/NNP]",(ROOT (NP (NNP La) (NNP la) (NNP la) (NNP la) (NNP la)))
-K/KB/KB2.xml,KB2RE00J,61504,7,,B,6,1,<clears throat> ,[],X
+K/KB/KB2.xml,KB2RE00J,61504,7,,B,6,1,<clears throat> ,[],
 K/KB/KB2.xml,KB2RE00J,61504,8,,A,7,1,la la .,"[la/NNP, la/NNP, ./.]",(ROOT (NP (NNP la) (NNP la) (. .)))
 K/KB/KB2.xml,KB2RE00J,61504,9,,B,8,1,There's snooker on.,"[There/EX, 's/VBZ, snooker/NN, on/IN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NN snooker)) (PP (IN on))) (. .)))
 K/KB/KB2.xml,KB2RE00J,61504,10,,A,9,1,Eh?,"[Eh/UH, ?/.]",(ROOT (INTJ (UH Eh) (. ?)))

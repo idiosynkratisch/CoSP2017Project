@@ -26,19 +26,19 @@ K/KC/KCN.xml,KCNRE008,26808,23,,B,8,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)
 K/KC/KCN.xml,KCNRE008,26808,24,,A,9,1,I went and fetched them off the sheet counter.,"[I/PRP, went/VBD, and/CC, fetched/VBD, them/PRP, off/RP, the/DT, sheet/NN, counter/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VP (VBD went)) (CC and) (VP (VBD fetched) (NP (PRP them)) (PP (RP off) (NP (DT the) (NN sheet) (NN counter))))) (. .)))
 K/KC/KCN.xml,KCNRE008,26808,25,,A,9,2,<laugh> --,"[I/PRP, 've/VBP, come/VBN, to/TO, change/VB, them/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN come) (S (VP (TO to) (VP (VB change) (NP (PRP them))))))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,26,,A,9,3,--I've come to change them!,"[I/PRP, 've/VBP, come/VBN, to/TO, change/VB, them/PRP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN come) (S (VP (TO to) (VP (VB change) (NP (PRP them))))))) (. !)))
-K/KC/KCN.xml,KCNRE008,26808,27,,B,10,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE008,26808,27,,B,10,1,(()) ,[],
 K/KC/KCN.xml,KCNRE008,26808,28,,A,11,1,There was three girls with the sheets!,"[There/EX, was/VBD, three/CD, girls/NNS, with/IN, the/DT, sheets/NNS, !/.]",(ROOT (S (NP (EX There)) (VP (VBD was) (NP (NP (CD three) (NNS girls)) (PP (IN with) (NP (DT the) (NNS sheets))))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,29,,A,11,2,I said I'd like to change these please.,"[I/PRP, said/VBD, I/PRP, 'd/MD, like/VB, to/TO, change/VB, these/DT, please/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB like) (S (VP (TO to) (VP (VB change) (S (NP (DT these)) (VP (VB please))))))))))) (. .)))
 K/KC/KCN.xml,KCNRE008,26808,30,,A,11,3,I said I bought them yesterday  --,"[I/PRP, said/VBD, I/PRP, bought/VBD, them/PRP, yesterday/NN, and/CC]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBD bought) (NP (PRP them)) (NP (NN yesterday))))) (ADVP (CC and)))))
 K/KC/KCN.xml,KCNRE008,26808,31,,A,11,4,--and ,"[I/PRP, said/VBD, I/PRP, bought/VBD, them/PRP, yesterday/NN, and/CC]",(ROOT (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP I)) (VP (VBD bought) (NP (PRP them)) (NP (NN yesterday))))) (ADVP (CC and)))))
 K/KC/KCN.xml,KCNRE008,26808,32,,B,12,1,Ooh ,[Ooh/NNP],(ROOT (NP (NNP Ooh)))
 K/KC/KCN.xml,KCNRE008,26808,33,,A,13,1,they've gone off!,"[they/PRP, 've/VBP, gone/VBN, off/RP, !/.]",(ROOT (S (NP (PRP they)) (VP (VBP 've) (VP (VBN gone) (PRT (RP off)))) (. !)))
-K/KC/KCN.xml,KCNRE008,26808,34,,B,14,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE008,26808,34,,B,14,1,(()) ,[],
 K/KC/KCN.xml,KCNRE008,26808,35,,A,15,1,Well,[Well/RB],(ROOT (INTJ (RB Well)))
 K/KC/KCN.xml,KCNRE008,26808,36,,B,16,1,Why was this all so  --,"[Why/WRB, was/VBD, this/DT, all/DT, so/RB, tightly/RB, packed/VBN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD was) (NP (DT this)) (NP (NP (DT all)) (ADJP (ADVP (RB so) (RB tightly)) (VBN packed)))) (. ?)))
 K/KC/KCN.xml,KCNRE008,26808,37,,B,16,2,--tightly packed?,"[Why/WRB, was/VBD, this/DT, all/DT, so/RB, tightly/RB, packed/VBN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD was) (NP (DT this)) (NP (NP (DT all)) (ADJP (ADVP (RB so) (RB tightly)) (VBN packed)))) (. ?)))
 K/KC/KCN.xml,KCNRE008,26808,38,,A,17,1,"Cos that's the bag o- , that's rotting isn't it?","[Cos/NN, that/WDT, 's/VBZ, the/DT, bag/NN, o-/NN, ,/,, that/DT, 's/VBZ, rotting/VBG, isn/NN, 't/PRP, it/PRP, ?/.]","(ROOT (FRAG (NP (NP (NN Cos)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT the) (NN bag) (NN o-)) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (S (VP (VBG rotting) (NP (NN isn)) (NP (PRP 't)) (NP (PRP it)))))))))))) (. ?)))"
-K/KC/KCN.xml,KCNRE008,26808,39,,B,18,1,<laugh> ,[],X
+K/KC/KCN.xml,KCNRE008,26808,39,,B,18,1,<laugh> ,[],
 K/KC/KCN.xml,KCNRE008,26808,40,,A,19,1,<laughing> They don't open them </laughing> !,"[They/PRP, don/VBP, 't/PRP, open/VB, them/PRP, !/.]",(ROOT (S (NP (PRP They)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB open) (NP (PRP them))))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,41,,B,20,1,"Oh it's alright, yeah.","[Oh/UH, it/PRP, 's/VBZ, alright/JJ, ,/,, yeah/UH, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ alright)))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
 K/KC/KCN.xml,KCNRE008,26808,42,,B,20,2,Doesn't look the same breed as these though.,"[Doesn/NNP, 't/PRP, look/VB, the/DT, same/JJ, breed/NN, as/IN, these/DT, though/IN, ./.]",(ROOT (S (NP (NNP Doesn) (PRP 't)) (VP (VB look) (NP (DT the) (JJ same) (NN breed)) (PP (IN as) (NP (DT these) (ADJP (IN though))))) (. .)))
@@ -48,11 +48,11 @@ K/KC/KCN.xml,KCNRE008,26808,45,,A,23,1,And call in anywhere?,"[And/CC, call/VB, 
 K/KC/KCN.xml,KCNRE008,26808,46,,B,24,1,Nope.,"[Nope/UH, ./.]",(ROOT (INTJ (UH Nope) (. .)))
 K/KC/KCN.xml,KCNRE008,26808,47,,A,25,1,Have a mooch?,"[Have/VB, a/DT, mooch/NN, ?/.]",(ROOT (SQ (VP (VB Have) (NP (DT a) (NN mooch))) (. ?)))
 K/KC/KCN.xml,KCNRE008,26808,48,,B,26,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
-K/KC/KCN.xml,KCNRE008,26808,49,,A,27,1,<laugh> ,[],X
+K/KC/KCN.xml,KCNRE008,26808,49,,A,27,1,<laugh> ,[],
 K/KC/KCN.xml,KCNRE008,26808,50,,B,28,1,"Got no money for mooching, no!","[Got/VBD, no/DT, money/NN, for/IN, mooching/NN, ,/,, no/DT, !/.]","(ROOT (S (VP (VBD Got) (NP (DT no) (NN money)) (PP (IN for) (NP (NP (NN mooching)) (, ,) (NP (DT no))))) (. !)))"
 K/KC/KCN.xml,KCNRE008,26808,51,,A,29,1,<laugh> --,"[Good/JJ, God/NN, !/.]",(ROOT (INTJ (JJ Good) (NN God) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,52,,A,29,2,--Good God!,"[Good/JJ, God/NN, !/.]",(ROOT (INTJ (JJ Good) (NN God) (. !)))
-K/KC/KCN.xml,KCNRE008,26808,53,,B,30,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE008,26808,53,,B,30,1,(()) ,[],
 K/KC/KCN.xml,KCNRE008,26808,54,,A,31,1,Looking for a silk ,"[Looking/VBG, for/IN, a/DT, silk/NN]",(ROOT (S (VP (VBG Looking) (PP (IN for) (NP (DT a) (NN silk))))))
 K/KC/KCN.xml,KCNRE008,26808,55,,B,32,1,"Ooh I say, there's a nice lot of flowers in that shop!","[Ooh/NNP, I/PRP, say/VBP, ,/,, there/EX, 's/VBZ, a/DT, nice/JJ, lot/NN, of/IN, flowers/NNS, in/IN, that/DT, shop/NN, !/.]","(ROOT (S (NP (NP (NNP Ooh)) (SBAR (S (NP (PRP I)) (VP (VBP say))))) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ nice) (NN lot)) (PP (IN of) (NP (NP (NNS flowers)) (PP (IN in) (NP (DT that) (NN shop))))))) (. !)))"
 K/KC/KCN.xml,KCNRE008,26808,56,,A,33,1,"sa- , silk.","[sa-/NN, ,/,, silk/NN, ./.]","(ROOT (NP (NP (NN sa-)) (, ,) (NP (NN silk)) (. .)))"
@@ -84,7 +84,7 @@ K/KC/KCN.xml,KCNRE008,26808,81,,A,45,2,Woogh --,"[Woogh/NNP, Everybody/NN, looks
 K/KC/KCN.xml,KCNRE008,26808,82,,A,45,3,--Everybody looks cold don't they?,"[Woogh/NNP, Everybody/NN, looks/VBZ, cold/JJ, don/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (NNP Woogh) (NN Everybody)) (VP (VBZ looks) (S (NP (JJ cold)) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP they)))))) (. ?)))
 K/KC/KCN.xml,KCNRE008,26808,83,,B,46,1,"Yeah, they do, yes.","[Yeah/UH, ,/,, they/PRP, do/VBP, ,/,, yes/UH, ./.]","(ROOT (S (S (INTJ (UH Yeah)) (, ,) (NP (PRP they)) (VP (VBP do))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
 K/KC/KCN.xml,KCNRE008,26808,84,,B,46,2,Makes you shiver to think of them!,"[Makes/VBZ, you/PRP, shiver/VB, to/TO, think/VB, of/IN, them/PRP, !/.]",(ROOT (S (VP (VBZ Makes) (S (NP (PRP you)) (VP (VB shiver) (S (VP (TO to) (VP (VB think) (PP (IN of) (NP (PRP them))))))))) (. !)))
-K/KC/KCN.xml,KCNRE008,26808,85,,A,47,1,<laugh> ,[],X
+K/KC/KCN.xml,KCNRE008,26808,85,,A,47,1,<laugh> ,[],
 K/KC/KCN.xml,KCNRE008,26808,86,,B,48,1,You remember that man that used to keep that  --,"[You/PRP, remember/VBP, that/DT, man/NN, that/WDT, used/VBD, to/TO, keep/VB, that/DT, furniture/NN, shop/NN, by/IN, Cockney/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP remember) (NP (NP (DT that) (NN man)) (SBAR (WHNP (WDT that)) (S (VP (VBD used) (S (VP (TO to) (VP (VB keep) (NP (DT that) (NN furniture) (NN shop)) (PP (IN by) (NP (NN Cockney))))))))))) (. ?)))
 K/KC/KCN.xml,KCNRE008,26808,87,,B,48,2,--furniture shop  --,"[You/PRP, remember/VBP, that/DT, man/NN, that/WDT, used/VBD, to/TO, keep/VB, that/DT, furniture/NN, shop/NN, by/IN, Cockney/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP remember) (NP (NP (DT that) (NN man)) (SBAR (WHNP (WDT that)) (S (VP (VBD used) (S (VP (TO to) (VP (VB keep) (NP (DT that) (NN furniture) (NN shop)) (PP (IN by) (NP (NN Cockney))))))))))) (. ?)))
 K/KC/KCN.xml,KCNRE008,26808,88,,B,48,3,--by Cockney (()) ?,"[You/PRP, remember/VBP, that/DT, man/NN, that/WDT, used/VBD, to/TO, keep/VB, that/DT, furniture/NN, shop/NN, by/IN, Cockney/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP remember) (NP (NP (DT that) (NN man)) (SBAR (WHNP (WDT that)) (S (VP (VBD used) (S (VP (TO to) (VP (VB keep) (NP (DT that) (NN furniture) (NN shop)) (PP (IN by) (NP (NN Cockney))))))))))) (. ?)))
@@ -133,7 +133,7 @@ K/KC/KCN.xml,KCNRE008,26808,130,,A,71,2,--empty!,"[great/NNP, big/NNP, room/NN, 
 K/KC/KCN.xml,KCNRE008,26808,131,,B,72,1,"What is that, somebody (()) ?--","[What/WP, is/VBZ, that/IN, ,/,, somebody/NN, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NP (IN that)) (, ,) (NP (NN somebody)))) (. ?)))"
 K/KC/KCN.xml,KCNRE008,26808,132,,B,72,2,--<laugh> ,"[What/WP, is/VBZ, that/IN, ,/,, somebody/NN, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NP (IN that)) (, ,) (NP (NN somebody)))) (. ?)))"
 K/KC/KCN.xml,KCNRE008,26808,133,,A,73,1,I don't know!,"[I/PRP, don/VBP, 't/PRP, know/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. !)))
-K/KC/KCN.xml,KCNRE008,26808,134,,B,74,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE008,26808,134,,B,74,1,(()) ,[],
 K/KC/KCN.xml,KCNRE008,26808,135,,A,75,1,Didn't look!,"[Didn/VB, 't/PRP, look/VB, !/.]",(ROOT (S (VP (VB Didn) (S (NP (PRP 't)) (VP (VB look)))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,136,,A,75,2,Jehovah's!,"[Jehovah/NNP, 's/POS, !/.]",(ROOT (NP (NP (NNP Jehovah) (POS 's)) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,137,,A,75,3,"Ha, ha, ha, now look at this woman!","[Ha/NNP, ,/,, ha/NNP, ,/,, ha/NNP, ,/,, now/RB, look/VBP, at/IN, this/DT, woman/NN, !/.]","(ROOT (S (NP (NP (NNP Ha)) (, ,) (NP (NNP ha) (, ,) (NNP ha)) (, ,)) (ADVP (RB now)) (VP (VBP look) (PP (IN at) (NP (DT this) (NN woman)))) (. !)))"
@@ -357,7 +357,7 @@ K/KC/KCN.xml,KCNRE008,26808,354,,A,191,1,For the summer.,"[For/IN, the/DT, summe
 K/KC/KCN.xml,KCNRE008,26808,355,,B,192,1,Does it go very far?,"[Does/VBZ, it/PRP, go/VB, very/RB, far/RB, ?/.]",(ROOT (SQ (VBZ Does) (NP (PRP it)) (VP (VB go) (ADVP (RB very) (RB far))) (. ?)))
 K/KC/KCN.xml,KCNRE008,26808,356,,B,192,2,"No, it doesn't.","[No/DT, ,/,, it/PRP, doesn/VBD, 't/PRP, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBD doesn) (NP (PRP 't))) (. .)))"
 K/KC/KCN.xml,KCNRE008,26808,357,,A,193,1,"Not too far, but it's not bad!","[Not/RB, too/RB, far/RB, ,/,, but/CC, it/PRP, 's/VBZ, not/RB, bad/JJ, !/.]","(ROOT (S (ADVP (RB Not) (RB too) (RB far)) (, ,) (S (CC but) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ bad)))) (. !)))"
-K/KC/KCN.xml,KCNRE008,26808,358,,B,194,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE008,26808,358,,B,194,1,(()) ,[],
 K/KC/KCN.xml,KCNRE008,26808,359,,A,195,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCN.xml,KCNRE008,26808,360,,A,195,2,Look at him strutting along!,"[Look/VB, at/IN, him/PRP, strutting/VBG, along/IN, !/.]",(ROOT (S (VP (VB Look) (PP (IN at) (S (NP (PRP him)) (VP (VBG strutting) (ADVP (IN along)))))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,361,,A,195,3,Is the wind blowing in do you think?,"[Is/VBZ, the/DT, wind/NN, blowing/VBG, in/IN, do/VBP, you/PRP, think/VB, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT the) (NN wind)) (VP (VBG blowing) (SBAR (IN in) (SINV (VBP do) (NP (PRP you)) (VP (VB think))))) (. ?)))
@@ -401,12 +401,12 @@ K/KC/KCN.xml,KCNRE008,26808,398,,A,209,7,--afternoon.,"[Come/VB, in/IN, the/DT, 
 K/KC/KCN.xml,KCNRE008,26808,399,,A,209,8,Oh oh!,"[Oh/UH, oh/UH, !/.]",(ROOT (FRAG (UH Oh) (INTJ (UH oh)) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,400,,A,209,9,And they'll be looking for  --,"[And/CC, they/PRP, 'll/MD, be/VB, looking/VBG, for/IN, not/RB, for/IN, me/PRP]",(ROOT (S (CC And) (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBG looking) (PP (IN for) (RB not)) (PP (IN for) (NP (PRP me))))))))
 K/KC/KCN.xml,KCNRE008,26808,401,,A,209,10,--not for me ,"[And/CC, they/PRP, 'll/MD, be/VB, looking/VBG, for/IN, not/RB, for/IN, me/PRP]",(ROOT (S (CC And) (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBG looking) (PP (IN for) (RB not)) (PP (IN for) (NP (PRP me))))))))
-K/KC/KCN.xml,KCNRE008,26808,402,,B,210,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE008,26808,402,,B,210,1,(()) ,[],
 K/KC/KCN.xml,KCNRE008,26808,403,,A,211,1,I don't expect!,"[I/PRP, don/VBP, 't/PRP, expect/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB expect)))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,404,,A,211,2,Ooh that's better!,"[Ooh/NNP, that/WDT, 's/VBZ, better/JJR, !/.]",(ROOT (FRAG (NP (NP (NNP Ooh)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (JJR better)))))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,405,,A,211,3,Get  <laughing> in the corner </laughing> !,"[Get/VB, in/IN, the/DT, corner/NN, !/.]",(ROOT (S (VP (VB Get) (PP (IN in) (NP (DT the) (NN corner)))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,406,,A,211,4,Watch your wires!,"[Watch/VB, your/PRP$, wires/NNS, !/.]",(ROOT (S (VP (VB Watch) (NP (PRP$ your) (NNS wires))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,407,,A,211,5,Go on!,"[Go/VB, on/IN, !/.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. !)))
 K/KC/KCN.xml,KCNRE008,26808,408,,A,211,6,Come on!,"[Come/VB, on/IN, !/.]",(ROOT (S (VP (VB Come) (PP (IN on))) (. !)))
-K/KC/KCN.xml,KCNRE008,26808,409,,B,212,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE008,26808,409,,B,212,1,(()) ,[],
 K/KC/KCN.xml,KCNRE008,26808,410,,A,213,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

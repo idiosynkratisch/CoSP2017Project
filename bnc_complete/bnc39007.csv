@@ -5,7 +5,7 @@ K/KE/KE2.xml,KE2RE02B,39007,2,,B,2,1,Yeah I knew there was you see  (()) ,"[Yeah
 K/KE/KE2.xml,KE2RE02B,39007,3,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE2.xml,KE2RE02B,39007,4,,B,4,1,you know Austria and Switzerland  (()) ,"[you/PRP, know/VBP, Austria/NNP, and/CC, Switzerland/NNP]",(ROOT (S (NP (PRP you)) (VP (VBP know) (NP (NNP Austria) (CC and) (NNP Switzerland)))))
 K/KE/KE2.xml,KE2RE02B,39007,5,,A,5,1,Mm ,[Mm/NN],(ROOT (NP (NN Mm)))
-K/KE/KE2.xml,KE2RE02B,39007,6,,B,6,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE02B,39007,6,,B,6,1,(()) ,[],
 K/KE/KE2.xml,KE2RE02B,39007,7,,A,7,1,Yeah there was one up and one down.,"[Yeah/UH, there/EX, was/VBD, one/CD, up/RB, and/CC, one/CD, down/RB, ./.]",(ROOT (S (S (INTJ (UH Yeah)) (NP (EX there)) (VP (VBD was) (ADVP (NP (CD one)) (RB up)))) (CC and) (S (NP (CD one)) (ADJP (RB down))) (. .)))
 K/KE/KE2.xml,KE2RE02B,39007,8,,B,8,1,Erm  --,"[Erm/NN, what/WP, was/VBD, I/PRP, going/VBG, to/TO, say/VB, ?/.]",(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (NP (PRP I)) (VP (VBG going) (S (VP (TO to) (VP (VB say)))))))))) (. ?)))
 K/KE/KE2.xml,KE2RE02B,39007,9,,B,8,2,--what was I going to say?,"[Erm/NN, what/WP, was/VBD, I/PRP, going/VBG, to/TO, say/VB, ?/.]",(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (NP (PRP I)) (VP (VBG going) (S (VP (TO to) (VP (VB say)))))))))) (. ?)))
@@ -30,7 +30,7 @@ K/KE/KE2.xml,KE2RE02B,39007,27,,B,18,3,--the erm  --,"[Have/VB, you/PRP, got/VBD
 K/KE/KE2.xml,KE2RE02B,39007,28,,B,18,4,--that paper that had that sort of erm,"[Have/VB, you/PRP, got/VBD, the/DT, erm/NN, that/WDT, paper/NN, that/WDT, had/VBD, that/DT, sort/NN, of/IN, erm/NN]",(ROOT (SINV (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (NP (DT the) (NN erm)) (SBAR (WHNP (WDT that))))))) (NP (NP (NN paper)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (NP (NP (DT that) (NN sort)) (PP (IN of) (NP (NN erm))))))))))
 K/KE/KE2.xml,KE2RE02B,39007,29,,A,19,1,"No I've got it in, it's in  --","[No/DT, I/PRP, 've/VBP, got/VBD, it/PRP, in/IN, ,/,, it/PRP, 's/VBZ, in/IN, oh/NN, you/PRP, 've/VBP, got/VBD, it/PRP, there/EX]","(ROOT (S (NP (DT No) (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (PRP it)) (SBAR (IN in) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (NP (NN oh)) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (S (NP (PRP it)) (NP (EX there))))))))))))))))"
 K/KE/KE2.xml,KE2RE02B,39007,30,,A,19,2,--oh you've got it there,"[No/DT, I/PRP, 've/VBP, got/VBD, it/PRP, in/IN, ,/,, it/PRP, 's/VBZ, in/IN, oh/NN, you/PRP, 've/VBP, got/VBD, it/PRP, there/EX]","(ROOT (S (NP (DT No) (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (PRP it)) (SBAR (IN in) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (NP (NN oh)) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (S (NP (PRP it)) (NP (EX there))))))))))))))))"
-K/KE/KE2.xml,KE2RE02B,39007,31,,B,20,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE02B,39007,31,,B,20,1,(()) ,[],
 K/KE/KE2.xml,KE2RE02B,39007,32,,A,21,1,well I had it in there.,"[well/RB, I/PRP, had/VBD, it/PRP, in/IN, there/RB, ./.]",(ROOT (S (ADVP (RB well)) (NP (PRP I)) (VP (VBD had) (NP (PRP it)) (PP (IN in) (NP (RB there)))) (. .)))
 K/KE/KE2.xml,KE2RE02B,39007,33,,A,21,2,It's not there now.,"[It/PRP, 's/VBZ, not/RB, there/RB, now/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADVP (RB there) (RB now))) (. .)))
 K/KE/KE2.xml,KE2RE02B,39007,34,,A,21,3,I put it in there ,"[I/PRP, put/VBP, it/PRP, in/IN, there/EX]",(ROOT (S (NP (PRP I)) (VP (VBP put) (NP (PRP it)) (PP (IN in) (NP (EX there))))))
@@ -56,4 +56,4 @@ K/KE/KE2.xml,KE2RE02B,39007,53,,B,34,1,Well I  (()) ,"[Well/RB, I/PRP]",(ROOT (F
 K/KE/KE2.xml,KE2RE02B,39007,54,,A,35,1,often I don't know ,"[often/RB, I/PRP, don/VBP, 't/PRP, know/VB]",(ROOT (ADJP (RB often) (SBAR (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))))))
 K/KE/KE2.xml,KE2RE02B,39007,55,,B,36,1,hadn't even seen it.,"[hadn/NNP, 't/PRP, even/RB, seen/VBD, it/PRP, ./.]",(ROOT (S (NP (NNP hadn) (PRP 't)) (ADVP (RB even)) (VP (VBD seen) (NP (PRP it))) (. .)))
 K/KE/KE2.xml,KE2RE02B,39007,56,,A,37,1,but I did know that one.,"[but/CC, I/PRP, did/VBD, know/VB, that/IN, one/CD, ./.]",(ROOT (S (CC but) (NP (PRP I)) (VP (VBD did) (S (VP (VB know) (ADVP (IN that) (NP (CD one)))))) (. .)))
-K/KE/KE2.xml,KE2RE02B,39007,57,,B,38,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE02B,39007,57,,B,38,1,(()) ,[],

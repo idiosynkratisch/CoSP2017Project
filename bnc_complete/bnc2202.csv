@@ -13,7 +13,7 @@ K/KB/KBK.xml,KBKRE012,2202,10,,A,9,1,"What'll you plan to do with the bed, when 
 K/KB/KBK.xml,KBKRE012,2202,11,,B,10,1,"I'll just go and (()) , dug it, dig it all up.","[I/PRP, 'll/MD, just/RB, go/VB, and/CC, ,/,, dug/VBD, it/PRP, ,/,, dig/VB, it/PRP, all/DT, up/RP, ./.]","(ROOT (S (NP (PRP I)) (VP (VP (MD 'll) (ADVP (RB just)) (VP (VB go))) (CC and) (, ,) (VP (VBD dug) (NP (PRP it)) (, ,) (VP (VB dig) (NP (PRP it)) (ADVP (DT all) (RP up))))) (. .)))"
 K/KB/KBK.xml,KBKRE012,2202,12,,A,11,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBK.xml,KBKRE012,2202,13,,B,12,1,(()) match that up with that.,"[match/NN, that/IN, up/RB, with/IN, that/DT, ./.]",(ROOT (FRAG (NP (NN match)) (ADJP (IN that)) (ADVP (RB up) (PP (IN with) (NP (DT that)))) (. .)))
-K/KB/KBK.xml,KBKRE012,2202,14,,A,13,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE012,2202,14,,A,13,1,(()) ,[],
 K/KB/KBK.xml,KBKRE012,2202,15,,B,14,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBK.xml,KBKRE012,2202,16,,B,14,2,So I was ,"[So/IN, I/PRP, was/VBD]",(ROOT (FRAG (X (ADVP (IN So)) (NP (PRP I))) (VP (VBD was))))
 K/KB/KBK.xml,KBKRE012,2202,17,,A,15,1,So get rid of that bit of fence?,"[So/RB, get/VB, rid/JJ, of/IN, that/DT, bit/NN, of/IN, fence/NN, ?/.]",(ROOT (S (RB So) (VP (VB get) (ADJP (JJ rid) (PP (IN of) (NP (NP (DT that) (NN bit)) (PP (IN of) (NP (NN fence))))))) (. ?)))

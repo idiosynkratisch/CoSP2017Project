@@ -2,7 +2,7 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KC/KCV.xml,KCVRE015,3609,0,,A,1,1,We're going to sing today,"[We/PRP, 're/VBP, going/VBG, to/TO, sing/VB, today/NN]",(ROOT (S (NP (PRP We)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB sing) (NP (NN today)))))))))
 K/KC/KCV.xml,KCVRE015,3609,1,,B,2,1,It doesn't say,"[It/PRP, doesn/VBD, 't/PRP, say/VB]",(ROOT (S (NP (PRP It)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB say))))))
 K/KC/KCV.xml,KCVRE015,3609,2,,B,2,2,It doesn't say?,"[It/PRP, doesn/VBD, 't/PRP, say/VB, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB say)))) (. ?)))
-K/KC/KCV.xml,KCVRE015,3609,3,,B,2,3,(()) ,[],X
+K/KC/KCV.xml,KCVRE015,3609,3,,B,2,3,(()) ,[],
 K/KC/KCV.xml,KCVRE015,3609,4,,A,3,1,It says outside maybe we come out together ,"[It/PRP, says/VBZ, outside/IN, maybe/RB, we/PRP, come/VBP, out/RP, together/RB]",(ROOT (S (NP (PRP It)) (VP (VBZ says) (NP (NP (IN outside) (RB maybe)) (SBAR (S (NP (PRP we)) (VP (VBP come) (PRT (RP out)) (ADVP (RB together)))))))))
 K/KC/KCV.xml,KCVRE015,3609,5,,B,4,1,Make it wait where  (()) no,"[Make/VB, it/PRP, wait/VB, where/WRB, no/DT]",(ROOT (SINV (VP (VB Make) (S (NP (PRP it)) (VP (VB wait) (FRAG (WHADVP (WRB where)))))) (NP (DT no))))
 K/KC/KCV.xml,KCVRE015,3609,6,,A,5,1,It doesn't say,"[It/PRP, doesn/VBD, 't/PRP, say/VB]",(ROOT (S (NP (PRP It)) (VP (VBD doesn) (S (NP (PRP 't)) (VP (VB say))))))
@@ -30,7 +30,7 @@ K/KC/KCV.xml,KCVRE015,3609,27,,B,22,1,I think we did well to buy bread,"[I/PRP, 
 K/KC/KCV.xml,KCVRE015,3609,28,,A,23,1,Did we?,"[Did/VBD, we/PRP, ?/.]",(ROOT (S (VP (VBD Did) (NP (PRP we))) (. ?)))
 K/KC/KCV.xml,KCVRE015,3609,29,,A,23,2,Yes?,"[Yes/UH, ?/.]",(ROOT (INTJ (UH Yes) (. ?)))
 K/KC/KCV.xml,KCVRE015,3609,30,,A,23,3,As you start making toast you know,"[As/IN, you/PRP, start/VBP, making/VBG, toast/NN, you/PRP, know/VBP]",(ROOT (SBAR (IN As) (S (NP (PRP you)) (VP (VBP start) (S (VP (VBG making) (NP (NP (NN toast)) (SBAR (S (NP (PRP you)) (VP (VBP know)))))))))))
-K/KC/KCV.xml,KCVRE015,3609,31,,B,24,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE015,3609,31,,B,24,1,(()) ,[],
 K/KC/KCV.xml,KCVRE015,3609,32,,A,25,1,Ah I can't get it in.,"[Ah/NN, I/PRP, can/MD, 't/PRP, get/VB, it/PRP, in/IN, ./.]",(ROOT (SBARQ (WHNP (WHNP (NN Ah)) (NP (PRP I))) (SQ (MD can) (NP (PRP 't)) (VP (VB get) (NP (PRP it)) (PP (IN in)))) (. .)))
 K/KC/KCV.xml,KCVRE015,3609,33,,A,25,2,It's this pocket.,"[It/PRP, 's/VBZ, this/DT, pocket/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT this) (NN pocket))) (. .)))
 K/KC/KCV.xml,KCVRE015,3609,34,,B,26,1,Where should I put the mince?,"[Where/WRB, should/MD, I/PRP, put/VB, the/DT, mince/VB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (MD should) (NP (PRP I)) (VP (VB put) (S (NP (DT the)) (VP (VB mince))))) (. ?)))
@@ -44,7 +44,7 @@ K/KC/KCV.xml,KCVRE015,3609,41,,B,30,1,They're a little ,"[They/PRP, 're/VBP, a/D
 K/KC/KCV.xml,KCVRE015,3609,42,,A,31,1,Ah there's too much are they crumbly?,"[Ah/NN, there/EX, 's/VBZ, too/RB, much/JJ, are/VBP, they/PRP, crumbly/RB, ?/.]",(ROOT (S (NP (NP (NN Ah)) (SBAR (S (NP (EX there)) (VP (VBZ 's) (ADJP (RB too) (JJ much)))))) (VP (VBP are) (NP (PRP they)) (ADVP (RB crumbly))) (. ?)))
 K/KC/KCV.xml,KCVRE015,3609,43,,B,32,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KC/KCV.xml,KCVRE015,3609,44,,A,33,1,Oh dear!,"[Oh/UH, dear/RB, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. !)))
-K/KC/KCV.xml,KCVRE015,3609,45,,B,34,1,<laugh> ,[],X
+K/KC/KCV.xml,KCVRE015,3609,45,,B,34,1,<laugh> ,[],
 K/KC/KCV.xml,KCVRE015,3609,46,,A,35,1,That happens so often you know.,"[That/DT, happens/VBZ, so/RB, often/RB, you/PRP, know/VBP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ happens) (ADVP (RB so) (RB often) (SBAR (S (NP (PRP you)) (VP (VBP know)))))) (. .)))
 K/KC/KCV.xml,KCVRE015,3609,47,,A,35,2,All (()) ,[All/DT],(ROOT (FRAG (NP (DT All))))
 K/KC/KCV.xml,KCVRE015,3609,48,,B,36,1,Well I'll have Patrick have this one here is twelve pounds.,"[Well/RB, I/PRP, 'll/MD, have/VB, Patrick/NNP, have/VB, this/DT, one/CD, here/RB, is/VBZ, twelve/CD, pounds/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (NP (NNP Patrick)) (VP (VB have) (S (NP (DT this) (CD one)) (ADVP (RB here)) (VP (VBZ is) (NP (CD twelve) (NNS pounds)))))))) (. .)))

@@ -69,7 +69,7 @@ K/KC/KCT.xml,KCTRE00G,20304,66,,B,50,1,<singing> Oh  (()) </singing> .,"[Oh/UH, 
 K/KC/KCT.xml,KCTRE00G,20304,67,,A,51,1,<shouting> Hurry up </shouting> !,"[Hurry/VB, up/RP, !/.]",(ROOT (S (VP (VB Hurry) (PRT (RP up))) (. !)))
 K/KC/KCT.xml,KCTRE00G,20304,68,,B,52,1,Come  --,"[Come/VBN, here/RB, you/PRP, are/VBP]",(ROOT (PP (VBN Come) (NP (NP (RB here)) (SBAR (S (NP (PRP you)) (VP (VBP are)))))))
 K/KC/KCT.xml,KCTRE00G,20304,69,,B,52,2,--here you are  (()) ,"[Come/VBN, here/RB, you/PRP, are/VBP]",(ROOT (PP (VBN Come) (NP (NP (RB here)) (SBAR (S (NP (PRP you)) (VP (VBP are)))))))
-K/KC/KCT.xml,KCTRE00G,20304,70,,A,53,1,<cough> ,[],X
+K/KC/KCT.xml,KCTRE00G,20304,70,,A,53,1,<cough> ,[],
 K/KC/KCT.xml,KCTRE00G,20304,71,,B,54,1,come on in!,"[come/VB, on/IN, in/IN, !/.]",(ROOT (S (VP (VB come) (PP (IN on) (PP (IN in)))) (. !)))
 K/KC/KCT.xml,KCTRE00G,20304,72,,B,54,2,Good girl!,"[Good/JJ, girl/NN, !/.]",(ROOT (INTJ (JJ Good) (NN girl) (. !)))
 K/KC/KCT.xml,KCTRE00G,20304,73,,A,55,1,Alright then  (()) off are you?,"[Alright/JJ, then/RB, off/RB, are/VBP, you/PRP, ?/.]",(ROOT (S (NP (JJ Alright)) (ADVP (RB then) (RB off)) (VP (VBP are) (NP (PRP you))) (. ?)))

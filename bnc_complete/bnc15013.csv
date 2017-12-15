@@ -2,7 +2,7 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KB/KBF.xml,KBFRE00C,15013,0,,A,1,1,Sorry.,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
 K/KB/KBF.xml,KBFRE00C,15013,1,,B,2,1,They're the (()) .,"[They/PRP, 're/VBP, the/DT, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (DT the))) (. .)))
 K/KB/KBF.xml,KBFRE00C,15013,2,,A,3,1,What you want they (()) .,"[What/WP, you/PRP, want/VBP, they/PRP, ./.]",(ROOT (FRAG (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP want) (NP (PRP they))))) (. .)))
-K/KB/KBF.xml,KBFRE00C,15013,3,,B,4,1,(()) ,[],X
+K/KB/KBF.xml,KBFRE00C,15013,3,,B,4,1,(()) ,[],
 K/KB/KBF.xml,KBFRE00C,15013,4,,A,5,1,"That's it, it's just after the  (()) look at the ballerina broach and see what you think, broach, no silver, keep going","[That/DT, 's/VBZ, it/PRP, ,/,, it/PRP, 's/VBZ, just/RB, after/IN, the/DT, look/NN, at/IN, the/DT, ballerina/NN, broach/NN, and/CC, see/VB, what/WP, you/PRP, think/VBP, ,/,, broach/VBP, ,/,, no/DT, silver/NN, ,/,, keep/VB, going/VBG]","(ROOT (S (S (NP (DT That)) (VP (VBZ 's) (NP (PRP it)))) (, ,) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (PP (IN after) (NP (NP (DT the) (NN look)) (PP (IN at) (NP (DT the) (NN ballerina) (NN broach))))))) (CC and) (S (S (VP (VB see) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP think) (, ,) (VBP broach) (, ,) (S (NP (DT no) (NN silver)))))))) (, ,) (S (VP (VB keep) (VP (VBG going)))))))"
 K/KB/KBF.xml,KBFRE00C,15013,5,,B,6,1,That?,"[That/IN, ?/.]",(ROOT (FRAG (PP (IN That)) (. ?)))
 K/KB/KBF.xml,KBFRE00C,15013,6,,A,7,1,keep going ,"[keep/VB, going/VBG]",(ROOT (S (VP (VB keep) (VP (VBG going)))))

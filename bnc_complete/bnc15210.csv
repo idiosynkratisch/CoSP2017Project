@@ -1,14 +1,14 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBF.xml,KBFRE015,15210,0,,A,1,1,I put a ha ha  --,"[I/PRP, put/VBD, a/DT, ha/NNP, ha/NNP, it/PRP, 's/VBZ, age/NN, next/JJ, to/TO, you/PRP, I/PRP, put/VBP, thirty/CD, seven/CD, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD put) (NP (NP (DT a) (NNP ha) (NNP ha)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN age)) (ADVP (JJ next) (PP (TO to) (NP (PRP you)))) (SBAR (S (NP (PRP I)) (VP (VBP put) (NP (CD thirty) (CD seven))))))))))) (. !)))
 K/KB/KBF.xml,KBFRE015,15210,1,,A,1,2,--it's age next to you I put thirty seven!,"[I/PRP, put/VBD, a/DT, ha/NNP, ha/NNP, it/PRP, 's/VBZ, age/NN, next/JJ, to/TO, you/PRP, I/PRP, put/VBP, thirty/CD, seven/CD, !/.]",(ROOT (S (NP (PRP I)) (VP (VBD put) (NP (NP (DT a) (NNP ha) (NNP ha)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN age)) (ADVP (JJ next) (PP (TO to) (NP (PRP you)))) (SBAR (S (NP (PRP I)) (VP (VBP put) (NP (CD thirty) (CD seven))))))))))) (. !)))
-K/KB/KBF.xml,KBFRE015,15210,2,,B,2,1,<cough> ,[],X
-K/KB/KBF.xml,KBFRE015,15210,3,,B,2,2,<laugh> ,[],X
+K/KB/KBF.xml,KBFRE015,15210,2,,B,2,1,<cough> ,[],
+K/KB/KBF.xml,KBFRE015,15210,3,,B,2,2,<laugh> ,[],
 K/KB/KBF.xml,KBFRE015,15210,4,,A,3,1,God what a what an idiot I am now!,"[God/NNP, what/WP, a/DT, what/WP, an/DT, idiot/NN, I/PRP, am/VBP, now/RB, !/.]",(ROOT (FRAG (NP (NP (NNP God)) (SBAR (WHNP (WP what)) (S (NP (DT a) (NP (NP (WP what)) (NP (DT an) (NN idiot)) (NP (PRP I)))) (VP (VBP am) (ADVP (RB now)))))) (. !)))
 K/KB/KBF.xml,KBFRE015,15210,5,,B,4,1,<laughing> Sixty six </laughing> !,"[Sixty/CD, six/CD, !/.]",(ROOT (FRAG (NP (CD Sixty) (CD six)) (. !)))
 K/KB/KBF.xml,KBFRE015,15210,6,,A,5,1,You're not!,"[You/PRP, 're/VBP, not/RB, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (RB not)) (. !)))
 K/KB/KBF.xml,KBFRE015,15210,7,,B,6,1,I'm sixty six this month.,"[I/PRP, 'm/VBP, sixty/CD, six/CD, this/DT, month/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (NP (CD sixty) (CD six)) (NP (DT this) (NN month))) (. .)))
 K/KB/KBF.xml,KBFRE015,15210,8,,A,7,1,Oh I've got you down as sixty two dear.,"[Oh/UH, I/PRP, 've/VBP, got/VBN, you/PRP, down/RP, as/IN, sixty/CD, two/CD, dear/NNP, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (NP (PRP you)) (ADVP (RP down) (PP (IN as) (NP (CD sixty) (CD two)) (NP (NNP dear))))))) (. .)))
-K/KB/KBF.xml,KBFRE015,15210,9,,B,8,1,<laugh> ,[],X
+K/KB/KBF.xml,KBFRE015,15210,9,,B,8,1,<laugh> ,[],
 K/KB/KBF.xml,KBFRE015,15210,10,,A,9,1,God I didn't realize you was that!,"[God/NNP, I/PRP, didn/VBP, 't/PRP, realize/VB, you/PRP, was/VBD, that/IN, !/.]",(ROOT (S (NP (NP (NNP God)) (SBAR (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB realize) (NP (PRP you)))))))) (VP (VBD was) (ADJP (IN that))) (. !)))
 K/KB/KBF.xml,KBFRE015,15210,11,,B,10,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBF.xml,KBFRE015,15210,12,,A,11,1,Dear me!,"[Dear/NNP, me/PRP, !/.]",(ROOT (FRAG (NP (NNP Dear)) (NP (PRP me)) (. !)))
@@ -37,7 +37,7 @@ K/KB/KBF.xml,KBFRE015,15210,34,,B,26,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .
 K/KB/KBF.xml,KBFRE015,15210,35,,A,27,1,get them to do it while you wait ,"[get/VB, them/PRP, to/TO, do/VB, it/PRP, while/IN, you/PRP, wait/VBP]",(ROOT (S (VP (VB get) (S (NP (PRP them)) (VP (TO to) (VP (VB do) (NP (PRP it)) (SBAR (IN while) (S (NP (PRP you)) (VP (VBP wait))))))))))
 K/KB/KBF.xml,KBFRE015,15210,36,,B,28,1,Yes ooh yes ,"[Yes/UH, ooh/NNP, yes/NNP]",(ROOT (FRAG (INTJ (UH Yes)) (NNP ooh) (NP (NNP yes))))
 K/KB/KBF.xml,KBFRE015,15210,37,,A,29,1,Well they do it ,"[Well/RB, they/PRP, do/VBP, it/PRP]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP they)) (SBAR (S (VP (VBP do) (NP (PRP it))))))))
-K/KB/KBF.xml,KBFRE015,15210,38,,B,30,1,(()) ,[],X
+K/KB/KBF.xml,KBFRE015,15210,38,,B,30,1,(()) ,[],
 K/KB/KBF.xml,KBFRE015,15210,39,,A,31,1,within an hour so we ,"[within/IN, an/DT, hour/NN, so/IN, we/PRP]",(ROOT (FRAG (PP (IN within) (ADVP (NP (DT an) (NN hour)) (IN so))) (NP (PRP we))))
 K/KB/KBF.xml,KBFRE015,15210,40,,B,32,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBF.xml,KBFRE015,15210,41,,A,33,1,drop it in,"[drop/VB, it/PRP, in/IN]",(ROOT (S (VP (VB drop) (NP (PRP it)) (PP (IN in)))))
@@ -62,7 +62,7 @@ K/KB/KBF.xml,KBFRE015,15210,59,,B,46,1,Yes it is  --,"[Yes/UH, it/PRP, is/VBZ, o
 K/KB/KBF.xml,KBFRE015,15210,60,,B,46,2,--oh oh oh ha ha!,"[Yes/UH, it/PRP, is/VBZ, oh/UH, oh/UH, oh/UH, ha/FW, ha/FW, !/.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ is) (NP (UH oh)) (NP (INTJ (UH oh) (UH oh)) (NP (FW ha) (FW ha))))) (. !)))
 K/KB/KBF.xml,KBFRE015,15210,61,,A,47,1,Oh you  --,"[Oh/UH, you/PRP, saying/VBG]",(ROOT (S (VP (UH Oh) (S (NP (PRP you)) (VP (VBG saying))))))
 K/KB/KBF.xml,KBFRE015,15210,62,,A,47,2,--saying ,"[Oh/UH, you/PRP, saying/VBG]",(ROOT (S (VP (UH Oh) (S (NP (PRP you)) (VP (VBG saying))))))
-K/KB/KBF.xml,KBFRE015,15210,63,,B,48,1,<cough> ,[],X
+K/KB/KBF.xml,KBFRE015,15210,63,,B,48,1,<cough> ,[],
 K/KB/KBF.xml,KBFRE015,15210,64,,A,49,1,that  --,"[that/IN, they/PRP, had/VBD, a/DT, ki-/JJ, ki-/NN, she/PRP, had/VBD, a/DT, fes-/JJ, you/PRP, know/VBP, the/DT, festival/NN, we/PRP, went/VBD, to/TO, ?/.]",(ROOT (FRAG (SBAR (IN that) (S (NP (PRP they)) (VP (VBD had) (NP (NP (DT a) (JJ ki-) (NN ki-)) (SBAR (S (NP (PRP she)) (VP (VBD had) (NP (NP (DT a) (JJ fes-)) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NP (DT the) (NN festival)) (SBAR (S (NP (PRP we)) (VP (VBD went) (PP (TO to))))))))))))))))) (. ?)))
 K/KB/KBF.xml,KBFRE015,15210,65,,A,49,2,--they had a ki- ki- --,"[that/IN, they/PRP, had/VBD, a/DT, ki-/JJ, ki-/NN, she/PRP, had/VBD, a/DT, fes-/JJ, you/PRP, know/VBP, the/DT, festival/NN, we/PRP, went/VBD, to/TO, ?/.]",(ROOT (FRAG (SBAR (IN that) (S (NP (PRP they)) (VP (VBD had) (NP (NP (DT a) (JJ ki-) (NN ki-)) (SBAR (S (NP (PRP she)) (VP (VBD had) (NP (NP (DT a) (JJ fes-)) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NP (DT the) (NN festival)) (SBAR (S (NP (PRP we)) (VP (VBD went) (PP (TO to))))))))))))))))) (. ?)))
 K/KB/KBF.xml,KBFRE015,15210,66,,A,49,3,--she had a fes- you know the festival we went to?,"[that/IN, they/PRP, had/VBD, a/DT, ki-/JJ, ki-/NN, she/PRP, had/VBD, a/DT, fes-/JJ, you/PRP, know/VBP, the/DT, festival/NN, we/PRP, went/VBD, to/TO, ?/.]",(ROOT (FRAG (SBAR (IN that) (S (NP (PRP they)) (VP (VBD had) (NP (NP (DT a) (JJ ki-) (NN ki-)) (SBAR (S (NP (PRP she)) (VP (VBD had) (NP (NP (DT a) (JJ fes-)) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (NP (DT the) (NN festival)) (SBAR (S (NP (PRP we)) (VP (VBD went) (PP (TO to))))))))))))))))) (. ?)))

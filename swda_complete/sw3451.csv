@@ -145,7 +145,7 @@ sw11utt/sw_1115_3451.utt,3/sw3451,3451,142,%,B,82,1,"{D Well, } that's a, -/","W
 sw11utt/sw_1115_3451.utt,3/sw3451,3451,143,+,A,83,1,"{D Well, } are you enjoying staying home? /","Well/UH ,/, are/VBP you/PRP enjoying/VBG staying/VBG home/RB ?/.","(ROOT (SBARQ (WHADVP (RB So)) (PRN (, ,) (INTJ (UH Well)) (, ,)) (SQ (VBP are) (NP (PRP you)) (VP (VBG enjoying) (S (VP (VBG staying) (ADVP (RB home)))))) (. ?)))",
 sw11utt/sw_1115_3451.utt,3/sw3451,3451,144,ny,B,84,1,"Yes,  /","Yes/UH ,/,","(ROOT (INTJ (UH Yes) (, ,)))",
 sw11utt/sw_1115_3451.utt,3/sw3451,3451,145,sd^e,B,84,2,I am <laughter>. /,I/PRP am/VBP ./.,(ROOT (S (NP (PRP I)) (VP (VBP am)) (. .))),
-sw11utt/sw_1115_3451.utt,3/sw3451,3451,146,x,A,85,1,<Laughter>.,,X,
+sw11utt/sw_1115_3451.utt,3/sw3451,3451,146,x,A,85,1,<Laughter>.,,,
 sw11utt/sw_1115_3451.utt,3/sw3451,3451,147,sd,B,86,1,"{F Uh, } I taught for Richardson School District -- /","Uh/UH ,/, I/PRP taught/VBD for/IN Richardson/NNP School/NNP District/NNP --/:","(ROOT (S (INTJ (UH Uh)) (, ,) (NP (PRP I)) (VP (VBD taught) (PP (IN for) (NP (NNP Richardson) (NNP School)))) (NNP District)))",
 sw11utt/sw_1115_3451.utt,3/sw3451,3451,148,b,A,87,1,"{F Oh, } uh-huh. /","Oh/UH ,/, uh-huh/UH ./.","(ROOT (INTJ (INTJ (UH Oh)) (, ,) (INTJ (UH uh-huh) (. .))))",
 sw11utt/sw_1115_3451.utt,3/sw3451,3451,149,sd,B,88,1,"-- {C and, } {F uh, } I taught early childhood  /","--/: and/CC ,/, uh/UH ,/, I/PRP taught/VBD early/JJ childhood/NN","(ROOT (S (CC and) (, ,) (INTJ (UH uh)) (, ,) (NP (PRP I)) (VP (VBD taught) (ADJP (JJ early))) (NN childhood)))",

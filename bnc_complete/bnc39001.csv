@@ -2,7 +2,7 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KE/KE2.xml,KE2RE025,39001,0,,A,1,1,They look rather nice don't they?,"[They/PRP, look/VBP, rather/RB, nice/JJ, don/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP look) (ADJP (RB rather) (JJ nice)) (S (VP (NNP don) (S (NP (PRP 't)) (NP (PRP they)))))) (. ?)))
 K/KE/KE2.xml,KE2RE025,39001,1,,B,2,1,(()) great grandfather   (()) --,"[great/JJ, grandfather/NN, a/DT, big/NNP, house/NNP]",(ROOT (NP (NP (JJ great) (NN grandfather)) (NP (DT a) (NNP big) (NNP house))))
 K/KE/KE2.xml,KE2RE025,39001,2,,B,2,2,--a big house,"[great/JJ, grandfather/NN, a/DT, big/NNP, house/NNP]",(ROOT (NP (NP (JJ great) (NN grandfather)) (NP (DT a) (NNP big) (NNP house))))
-K/KE/KE2.xml,KE2RE025,39001,3,,A,3,1,<clears throat> ,[],X
+K/KE/KE2.xml,KE2RE025,39001,3,,A,3,1,<clears throat> ,[],
 K/KE/KE2.xml,KE2RE025,39001,4,,B,4,1,before he was married his employer  (()) pictures off the wall and gave them to him,"[before/IN, he/PRP, was/VBD, married/VBN, his/PRP$, employer/NN, pictures/NNS, off/IN, the/DT, wall/NN, and/CC, gave/VBD, them/PRP, to/TO, him/PRP]",(ROOT (SBAR (IN before) (S (NP (PRP he)) (VP (VP (VBD was) (VP (VBN married) (NP (PRP$ his) (NN employer) (NNS pictures)) (PP (IN off) (NP (DT the) (NN wall))))) (CC and) (VP (VBD gave) (NP (PRP them)) (PP (TO to) (NP (PRP him))))))))
 K/KE/KE2.xml,KE2RE025,39001,5,,A,5,1,Gosh,[Gosh/NNP],(ROOT (NP (NNP Gosh)))
 K/KE/KE2.xml,KE2RE025,39001,6,,B,6,1,as a wedding present,"[as/IN, a/DT, wedding/NN, present/JJ]",(ROOT (FRAG (SBAR (IN as) (S (NP (DT a) (NN wedding)) (ADJP (JJ present))))))

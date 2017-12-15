@@ -14,7 +14,7 @@ K/KC/KCT.xml,KCTRE007,20202,11,,A,11,1,Well he don't borrow them no more then!,"
 K/KC/KCT.xml,KCTRE007,20202,12,,B,12,1,I was gonna let Chrissy borrow them.,"[I/PRP, was/VBD, gonna/NNP, let/VB, Chrissy/NNP, borrow/VB, them/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB let) (S (NP (NNP Chrissy)) (VP (VB borrow) (NP (PRP them))))))) (. .)))
 K/KC/KCT.xml,KCTRE007,20202,13,,A,13,1,You shouldn't let Christopher he  (()) ,"[You/PRP, shouldn/VBP, 't/PRP, let/VB, Christopher/NNP, he/PRP]",(ROOT (S (NP (PRP You)) (VP (VBP shouldn) (S (NP (PRP 't)) (VP (VB let) (S (NP (NNP Christopher)) (NP (PRP he))))))))
 K/KC/KCT.xml,KCTRE007,20202,14,,B,14,1,Chris ,[Chris/NNP],(ROOT (NP (NNP Chris)))
-K/KC/KCT.xml,KCTRE007,20202,15,,A,15,1,(()) ,[],X
+K/KC/KCT.xml,KCTRE007,20202,15,,A,15,1,(()) ,[],
 K/KC/KCT.xml,KCTRE007,20202,16,,B,16,1,no I don't need them now.,"[no/DT, I/PRP, don/VBP, 't/PRP, need/VB, them/PRP, now/RB, ./.]",(ROOT (S (NP (DT no) (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need) (NP (PRP them)) (ADVP (RB now))))) (. .)))
 K/KC/KCT.xml,KCTRE007,20202,17,,A,17,1,He can't afford to look after them a bit better.,"[He/PRP, can/MD, 't/PRP, afford/VB, to/TO, look/VB, after/IN, them/PRP, a/DT, bit/NN, better/RBR, ./.]",(ROOT (S (NP (PRP He)) (VP (MD can) (NP (PRP 't)) (S (VP (VB afford) (S (VP (TO to) (VP (VB look) (PP (IN after) (NP (NP (PRP them)) (NP (DT a) (NN bit)))) (ADVP (RBR better)))))))) (. .)))
 K/KC/KCT.xml,KCTRE007,20202,18,,B,18,1,Well he would.,"[Well/RB, he/PRP, would/MD, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP he)) (VP (MD would)) (. .)))

@@ -22,7 +22,7 @@ K/KC/KC1.xml,KC1RE008,40802,19,,B,12,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KC/KC1.xml,KC1RE008,40802,20,,B,12,2,It's a  (()) innit?,"[It/PRP, 's/VBZ, a/DT, innit/NN, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT a) (NN innit))) (. ?)))
 K/KC/KC1.xml,KC1RE008,40802,21,,B,12,3,Er ,[Er/NN],(ROOT (NP (NN Er)))
 K/KC/KC1.xml,KC1RE008,40802,22,,A,13,1,Oh ,[Oh/UH],(ROOT (INTJ (UH Oh)))
-K/KC/KC1.xml,KC1RE008,40802,23,,B,14,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE008,40802,23,,B,14,1,(()) ,[],
 K/KC/KC1.xml,KC1RE008,40802,24,,A,15,1,Mind you I think the Grundig was a little   --,"[Mind/VB, you/PRP, I/PRP, think/VBP, the/DT, Grundig/NNP, was/VBD, a/DT, little/JJ, might/MD, require/VB, a/DT]",(ROOT (S (VP (VB Mind) (NP (PRP you)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (NNP Grundig)) (VP (VBD was) (NP (NP (DT a) (JJ little)) (SBAR (S (VP (MD might) (VP (VB require) (NP (DT a))))))))))))))))
 K/KC/KC1.xml,KC1RE008,40802,25,,A,15,2,--(()) might require a,"[Mind/VB, you/PRP, I/PRP, think/VBP, the/DT, Grundig/NNP, was/VBD, a/DT, little/JJ, might/MD, require/VB, a/DT]",(ROOT (S (VP (VB Mind) (NP (PRP you)) (SBAR (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (NNP Grundig)) (VP (VBD was) (NP (NP (DT a) (JJ little)) (SBAR (S (VP (MD might) (VP (VB require) (NP (DT a))))))))))))))))
 K/KC/KC1.xml,KC1RE008,40802,26,,B,16,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
@@ -90,9 +90,9 @@ K/KC/KC1.xml,KC1RE008,40802,87,,B,48,2,Well  (()) a little drink (()) ,"[Well/RB
 K/KC/KC1.xml,KC1RE008,40802,88,,A,49,1,All in cash.,"[All/DT, in/IN, cash/NN, ./.]",(ROOT (NP (NP (DT All)) (PP (IN in) (NP (NN cash))) (. .)))
 K/KC/KC1.xml,KC1RE008,40802,89,,B,50,1,Very good.,"[Very/RB, good/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ good)) (. .)))
 K/KC/KC1.xml,KC1RE008,40802,90,,B,50,2,"Old Rex, I see he had a pile of fifties there.","[Old/JJ, Rex/NN, ,/,, I/PRP, see/VBP, he/PRP, had/VBD, a/DT, pile/NN, of/IN, fifties/NNS, there/RB, ./.]","(ROOT (S (NP (JJ Old) (NN Rex)) (, ,) (NP (PRP I)) (VP (VBP see) (SBAR (S (NP (PRP he)) (VP (VBD had) (NP (NP (DT a) (NN pile)) (PP (IN of) (NP (NNS fifties)))) (ADVP (RB there)))))) (. .)))"
-K/KC/KC1.xml,KC1RE008,40802,91,,A,51,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE008,40802,91,,A,51,1,(()) ,[],
 K/KC/KC1.xml,KC1RE008,40802,92,,B,52,1,Hmm.,"[Hmm/NN, ./.]",(ROOT (NP (NN Hmm) (. .)))
-K/KC/KC1.xml,KC1RE008,40802,93,,A,53,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE008,40802,93,,A,53,1,(()) ,[],
 K/KC/KC1.xml,KC1RE008,40802,94,,B,54,1,He did s- yeah he did speak to her.,"[He/PRP, did/VBD, s-/NNP, yeah/UH, he/PRP, did/VBD, speak/VB, to/TO, her/PRP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBD did) (NP (NP (NNP s-)) (SBAR (S (INTJ (UH yeah)) (NP (PRP he)) (VP (VBD did) (VP (VB speak) (PP (TO to) (NP (PRP her))))))))) (. .)))
 K/KC/KC1.xml,KC1RE008,40802,95,,A,55,1,Yeah?,"[Yeah/UH, ?/.]",(ROOT (INTJ (UH Yeah) (. ?)))
 K/KC/KC1.xml,KC1RE008,40802,96,,B,56,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
@@ -118,7 +118,7 @@ K/KC/KC1.xml,KC1RE008,40802,115,,A,67,1,<laughing> No </laughing> .,"[No/DT, ./.
 K/KC/KC1.xml,KC1RE008,40802,116,,A,67,2,"I don't know though, I don't think they're quite as busy as er they profess to be.","[I/PRP, don/VBP, 't/PRP, know/VB, though/RB, ,/,, I/PRP, don/VBP, 't/PRP, think/VB, they/PRP, 're/VBP, quite/RB, as/IN, busy/JJ, as/IN, er/NN, they/PRP, profess/VBP, to/TO, be/VB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (ADVP (RB though)))))) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (ADVP (RB quite) (IN as)) (JJ busy) (PP (IN as) (NP (NP (NN er)) (SBAR (S (NP (PRP they)) (VP (VBP profess) (S (VP (TO to) (VP (VB be)))))))))))))))) (. .)))"
 K/KC/KC1.xml,KC1RE008,40802,117,,B,68,1,No  --,"[No/DT, not/RB, after/IN, that/DT, conversation/NN, yesterday/NN, ./.]",(ROOT (FRAG (NP (DT No) (ADJP (RB not) (PP (IN after) (NP (DT that) (NN conversation)))) (NN yesterday)) (. .)))
 K/KC/KC1.xml,KC1RE008,40802,118,,B,68,2,--not after that conversation yesterday.,"[No/DT, not/RB, after/IN, that/DT, conversation/NN, yesterday/NN, ./.]",(ROOT (FRAG (NP (DT No) (ADJP (RB not) (PP (IN after) (NP (DT that) (NN conversation)))) (NN yesterday)) (. .)))
-K/KC/KC1.xml,KC1RE008,40802,119,,A,69,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE008,40802,119,,A,69,1,(()) ,[],
 K/KC/KC1.xml,KC1RE008,40802,120,,B,70,1,Get a few more like Rex and we've cracked it.,"[Get/VB, a/DT, few/JJ, more/JJR, like/IN, Rex/NN, and/CC, we/PRP, 've/VBP, cracked/VBN, it/PRP, ./.]",(ROOT (S (S (VP (VB Get) (NP (DT a) (JJ few) (JJR more)) (PP (IN like) (NP (NN Rex))))) (CC and) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN cracked) (NP (PRP it))))) (. .)))
 K/KC/KC1.xml,KC1RE008,40802,121,,A,71,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KC/KC1.xml,KC1RE008,40802,122,,A,71,2,Well we've got Terry  (()) ,"[Well/RB, we/PRP, 've/VBP, got/VBN, Terry/NNP]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP we)) (SBAR (S (VP (VBP 've) (VP (VBN got) (NP (NNP Terry)))))))))
@@ -143,7 +143,7 @@ K/KC/KC1.xml,KC1RE008,40802,140,,A,83,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN
 K/KC/KC1.xml,KC1RE008,40802,141,,A,83,2,"(()) that, it's funny innit?","[that/DT, ,/,, it/PRP, 's/VBZ, funny/JJ, innit/NN, ?/.]","(ROOT (S (NP (DT that)) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (JJ funny) (NN innit))) (. ?)))"
 K/KC/KC1.xml,KC1RE008,40802,142,,A,83,3,Oh ,[Oh/UH],(ROOT (INTJ (UH Oh)))
 K/KC/KC1.xml,KC1RE008,40802,143,,B,84,1,"Yeah, have a think about that one.","[Yeah/UH, ,/,, have/VBP, a/DT, think/NN, about/IN, that/DT, one/CD, ./.]","(ROOT (SINV (FRAG (INTJ (UH Yeah))) (, ,) (VP (VBP have) (NP (NP (DT a) (NN think)) (PP (IN about) (NP (DT that))))) (NP (CD one)) (. .)))"
-K/KC/KC1.xml,KC1RE008,40802,144,,A,85,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE008,40802,144,,A,85,1,(()) ,[],
 K/KC/KC1.xml,KC1RE008,40802,145,,B,86,1,Two little switches ,"[Two/CD, little/JJ, switches/NNS]",(ROOT (NP (NP (CD Two)) (NP (JJ little) (NNS switches))))
 K/KC/KC1.xml,KC1RE008,40802,146,,A,87,1,That one the tuner just keeps hunting so maybe the aerial cable's not connected to the  --,"[That/DT, one/CD, the/DT, tuner/NN, just/RB, keeps/VBZ, hunting/NN, so/IN, maybe/RB, the/DT, aerial/JJ, cable/NN, 's/POS, not/RB, connected/VBN, to/TO, the/DT, tuner/NN, ,/,, we/PRP, had/VBD, one/CD, of/IN, them/PRP, before/IN, didn/NN, 't/PRP, we/PRP, ,/,, where/WRB, they/PRP, ?/.]","(ROOT (S (S (NP (DT That) (CD one)) (ADVP (NP (DT the) (NN tuner)) (RB just)) (VP (VBZ keeps) (NP (NN hunting)) (SBAR (IN so) (S (NP (NP (RB maybe) (DT the) (JJ aerial) (NN cable)) (POS 's)) (VP (RB not) (VBN connected) (PP (TO to) (NP (DT the) (NN tuner)))))))) (, ,) (NP (PRP we)) (VP (VBD had) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))) (PP (IN before) (NP (NP (NN didn)) (NP (NP (PRP 't)) (NP (PRP we))))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they))))) (. ?)))"
 K/KC/KC1.xml,KC1RE008,40802,147,,A,87,2,"--tuner, we had one of them before didn't we, where they?","[That/DT, one/CD, the/DT, tuner/NN, just/RB, keeps/VBZ, hunting/NN, so/IN, maybe/RB, the/DT, aerial/JJ, cable/NN, 's/POS, not/RB, connected/VBN, to/TO, the/DT, tuner/NN, ,/,, we/PRP, had/VBD, one/CD, of/IN, them/PRP, before/IN, didn/NN, 't/PRP, we/PRP, ,/,, where/WRB, they/PRP, ?/.]","(ROOT (S (S (NP (DT That) (CD one)) (ADVP (NP (DT the) (NN tuner)) (RB just)) (VP (VBZ keeps) (NP (NN hunting)) (SBAR (IN so) (S (NP (NP (RB maybe) (DT the) (JJ aerial) (NN cable)) (POS 's)) (VP (RB not) (VBN connected) (PP (TO to) (NP (DT the) (NN tuner)))))))) (, ,) (NP (PRP we)) (VP (VBD had) (NP (NP (CD one)) (PP (IN of) (NP (PRP them)))) (PP (IN before) (NP (NP (NN didn)) (NP (NP (PRP 't)) (NP (PRP we))))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP they))))) (. ?)))"

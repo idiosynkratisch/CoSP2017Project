@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KB2.xml,KB2RE00R,61510,0,,A,1,1,<clears throat> --,"[And/CC, I/PRP, ,/,, if/IN, I/PRP, see/VBP, anybody/NN, I/PRP, 'm/VBP, not/RB, gonna/VB, stop/NN, and/CC, talk/NN, to/TO, them/PRP, !/.]","(ROOT (S (CC And) (NP (PRP I)) (, ,) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP see) (NP (NN anybody))))) (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VB gonna) (NP (NN stop) (CC and) (NN talk)) (PP (TO to) (NP (PRP them))))) (. !)))"
 K/KB/KB2.xml,KB2RE00R,61510,1,,A,1,2,"--And I, if I see anybody I'm not gonna stop and talk to them!","[And/CC, I/PRP, ,/,, if/IN, I/PRP, see/VBP, anybody/NN, I/PRP, 'm/VBP, not/RB, gonna/VB, stop/NN, and/CC, talk/NN, to/TO, them/PRP, !/.]","(ROOT (S (CC And) (NP (PRP I)) (, ,) (SBAR (IN if) (S (NP (PRP I)) (VP (VBP see) (NP (NN anybody))))) (NP (PRP I)) (VP (VBP 'm) (RB not) (VP (VB gonna) (NP (NN stop) (CC and) (NN talk)) (PP (TO to) (NP (PRP them))))) (. !)))"
-K/KB/KB2.xml,KB2RE00R,61510,2,,B,2,1,<laugh> ,[],X
+K/KB/KB2.xml,KB2RE00R,61510,2,,B,2,1,<laugh> ,[],
 K/KB/KB2.xml,KB2RE00R,61510,3,,A,3,1,(()) could of  --,"[could/MD, of/IN, could/MD, of/IN, walked/VBN, on/IN, ./.]",(ROOT (S (S (VP (MD could) (PP (IN of)))) (VP (MD could) (PP (IN of)) (VP (VBN walked) (PP (IN on)))) (. .)))
 K/KB/KB2.xml,KB2RE00R,61510,4,,A,3,2,--could of walked on (()) .,"[could/MD, of/IN, could/MD, of/IN, walked/VBN, on/IN, ./.]",(ROOT (S (S (VP (MD could) (PP (IN of)))) (VP (MD could) (PP (IN of)) (VP (VBN walked) (PP (IN on)))) (. .)))
 K/KB/KB2.xml,KB2RE00R,61510,5,,B,4,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

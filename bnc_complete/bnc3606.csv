@@ -10,7 +10,7 @@ K/KC/KCV.xml,KCVRE012,3606,7,,B,6,2,That's that's le crux de la font,"[That/DT, 
 K/KC/KCV.xml,KCVRE012,3606,8,,A,7,1,No,[No/DT],(ROOT (FRAG (NP (DT No))))
 K/KC/KCV.xml,KCVRE012,3606,9,,B,8,1,One and,"[One/CD, and/CC]",(ROOT (FRAG (NP (NP (CD One)) (ADVP (CC and)))))
 K/KC/KCV.xml,KCVRE012,3606,10,,A,9,1,You always made ,"[You/PRP, always/RB, made/VBD]",(ROOT (S (NP (PRP You)) (VP (ADVP (RB always)) (VBD made))))
-K/KC/KCV.xml,KCVRE012,3606,11,,B,10,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE012,3606,11,,B,10,1,(()) ,[],
 K/KC/KCV.xml,KCVRE012,3606,12,,A,11,1,yeah ,[yeah/UH],(ROOT (INTJ (UH yeah)))
 K/KC/KCV.xml,KCVRE012,3606,13,,B,12,1,There's a beautiful ,"[There/EX, 's/VBZ, a/DT, beautiful/JJ]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT a) (JJ beautiful)))))
 K/KC/KCV.xml,KCVRE012,3606,14,,A,13,1,Do you always  (()) this is very sensimental.,"[Do/VB, you/PRP, always/RB, this/DT, is/VBZ, very/RB, sensimental/JJ, ./.]",(ROOT (S (S (VP (VB Do) (NP (PRP you)) (ADVP (RB always)))) (NP (DT this)) (VP (VBZ is) (ADJP (RB very) (JJ sensimental))) (. .)))
@@ -18,7 +18,7 @@ K/KC/KCV.xml,KCVRE012,3606,15,,A,13,2,I like it you know he's like a parent isn'
 K/KC/KCV.xml,KCVRE012,3606,16,,B,14,1,Yeah ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
 K/KC/KCV.xml,KCVRE012,3606,17,,A,15,1,Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KC/KCV.xml,KCVRE012,3606,18,,B,16,1,And the pictures ,"[And/CC, the/DT, pictures/NNS]",(ROOT (FRAG (CC And) (NP (DT the) (NNS pictures))))
-K/KC/KCV.xml,KCVRE012,3606,19,,A,17,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE012,3606,19,,A,17,1,(()) ,[],
 K/KC/KCV.xml,KCVRE012,3606,20,,B,18,1,not too good.,"[not/RB, too/RB, good/JJ, ./.]",(ROOT (FRAG (RB not) (ADJP (RB too) (JJ good)) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,21,,B,18,2,There is when you look at the picture it's so beautiful.,"[There/EX, is/VBZ, when/WRB, you/PRP, look/VBP, at/IN, the/DT, picture/NN, it/PRP, 's/VBZ, so/RB, beautiful/JJ, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ is) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP look) (PP (IN at) (NP (NP (DT the) (NN picture)) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (RB so) (JJ beautiful))))))))))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,22,,A,19,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
@@ -41,7 +41,7 @@ K/KC/KCV.xml,KCVRE012,3606,38,,B,32,1,Innes is in Switzerland.,"[Innes/NNP, is/V
 K/KC/KCV.xml,KCVRE012,3606,39,,A,33,1,Is it?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
 K/KC/KCV.xml,KCVRE012,3606,40,,B,34,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,41,,A,35,1,Gosh he's,"[Gosh/NNP, he/PRP, 's/VBZ]",(ROOT (FRAG (NP (NP (NNP Gosh)) (SBAR (S (NP (PRP he)) (VP (VBZ 's)))))))
-K/KC/KCV.xml,KCVRE012,3606,42,,B,36,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE012,3606,42,,B,36,1,(()) ,[],
 K/KC/KCV.xml,KCVRE012,3606,43,,A,37,1,Yeah that one.,"[Yeah/UH, that/WDT, one/CD, ./.]",(ROOT (S (INTJ (UH Yeah)) (VP (WDT that) (NP (CD one))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,44,,A,37,2,"He's such, has he been meant to paint many of this old man?","[He/PRP, 's/VBZ, such/JJ, ,/,, has/VBZ, he/PRP, been/VBN, meant/VBN, to/TO, paint/VB, many/JJ, of/IN, this/DT, old/JJ, man/NN, ?/.]","(ROOT (SQ (S (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ such)))) (, ,) (SQ (VBZ has) (NP (PRP he)) (VP (VBN been) (VP (VBN meant) (S (VP (TO to) (VP (VB paint) (NP (NP (JJ many)) (PP (IN of) (NP (DT this) (JJ old) (NN man)))))))))) (. ?)))"
 K/KC/KCV.xml,KCVRE012,3606,45,,A,37,3,Has he?,"[Has/VBZ, he/PRP, ?/.]",(ROOT (S (VP (VBZ Has) (NP (PRP he))) (. ?)))
@@ -77,22 +77,22 @@ K/KC/KCV.xml,KCVRE012,3606,74,,A,49,3,Here you've got your cows,"[Here/RB, you/P
 K/KC/KCV.xml,KCVRE012,3606,75,,B,50,1,I hate that picture,"[I/PRP, hate/VBP, that/IN, picture/NN]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (PP (IN that) (NP (NN picture))))))
 K/KC/KCV.xml,KCVRE012,3606,76,,A,51,1,Well I don't particularly like cows then er but then I think they're well done.,"[Well/RB, I/PRP, don/VBP, 't/PRP, particularly/RB, like/IN, cows/NNS, then/RB, er/NN, but/CC, then/RB, I/PRP, think/VBP, they/PRP, 're/VBP, well/RB, done/VBN, ./.]",(ROOT (S (S (INTJ (RB Well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (ADJP (RB particularly) (PP (IN like) (NP (NNS cows))))) (PP (RB then) (NP (NN er))))) (CC but) (ADVP (RB then)) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADVP (RB well)) (VP (VBN done))))))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,77,,A,51,2,(()) Heard of him but,"[Heard/VBN, of/IN, him/PRP, but/CC]",(ROOT (VP (VBN Heard) (PP (IN of) (NP (PRP him))) (ADVP (CC but))))
-K/KC/KCV.xml,KCVRE012,3606,78,,B,52,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE012,3606,78,,B,52,1,(()) ,[],
 K/KC/KCV.xml,KCVRE012,3606,79,,A,53,1,Yeah (()) ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
 K/KC/KCV.xml,KCVRE012,3606,80,,B,54,1,That's a horrible picture,"[That/DT, 's/VBZ, a/DT, horrible/JJ, picture/NN]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (JJ horrible) (NN picture)))))
 K/KC/KCV.xml,KCVRE012,3606,81,,A,55,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,82,,A,55,2,Now all photography here.,"[Now/RB, all/DT, photography/NNP, here/RB, ./.]",(ROOT (S (NP (RB Now) (DT all)) (VP (NNP photography) (NP (RB here))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,83,,B,56,1,No no,"[No/DT, no/NN]",(ROOT (FRAG (NP (DT No) (NN no))))
 K/KC/KCV.xml,KCVRE012,3606,84,,A,57,1,No no,"[No/DT, no/NN]",(ROOT (FRAG (NP (DT No) (NN no))))
-K/KC/KCV.xml,KCVRE012,3606,85,,A,57,2,(()) ,[],X
-K/KC/KCV.xml,KCVRE012,3606,86,,B,58,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE012,3606,85,,A,57,2,(()) ,[],
+K/KC/KCV.xml,KCVRE012,3606,86,,B,58,1,(()) ,[],
 K/KC/KCV.xml,KCVRE012,3606,87,,A,59,1,He's quite well done isn't he?,"[He/PRP, 's/VBZ, quite/RB, well/RB, done/VBN, isn/NN, 't/PRP, he/PRP, ?/.]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB quite) (RB well)) (VP (VBN done) (S (NP (NP (NN isn)) (NP (PRP 't))) (NP (PRP he))))) (. ?)))
 K/KC/KCV.xml,KCVRE012,3606,88,,B,60,1,Yes ,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KC/KCV.xml,KCVRE012,3606,89,,A,61,1,Why is it all in French?,"[Why/WRB, is/VBZ, it/PRP, all/DT, in/IN, French/JJ, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBZ is) (NP (PRP it)) (PP (ADVP (DT all)) (IN in) (ADJP (JJ French)))) (. ?)))
 K/KC/KCV.xml,KCVRE012,3606,90,,B,62,1,Because it's a French speaking,"[Because/IN, it/PRP, 's/VBZ, a/DT, French/JJ, speaking/NN]",(ROOT (SBAR (IN Because) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJ French) (NN speaking))))))
 K/KC/KCV.xml,KCVRE012,3606,91,,A,63,1,Ah I see wait a minute.,"[Ah/NN, I/PRP, see/VBP, wait/VB, a/DT, minute/NN, ./.]",(ROOT (S (NP (NN Ah)) (NP (PRP I)) (VP (VBP see) (VP (VB wait) (NP (DT a) (NN minute)))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,92,,A,63,2,Ah yes ,"[Ah/NN, yes/RB]",(ROOT (FRAG (NP (NN Ah) (RB yes))))
-K/KC/KCV.xml,KCVRE012,3606,93,,B,64,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE012,3606,93,,B,64,1,(()) ,[],
 K/KC/KCV.xml,KCVRE012,3606,94,,A,65,1,Ah I see.,"[Ah/NN, I/PRP, see/VBP, ./.]",(ROOT (S (NP (NN Ah)) (NP (PRP I)) (VP (VBP see)) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,95,,A,65,2,(()) But he's a writer.,"[But/CC, he/PRP, 's/VBZ, a/DT, writer/NN, ./.]",(ROOT (S (CC But) (NP (PRP he)) (VP (VBZ 's) (NP (DT a) (NN writer))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,96,,A,65,3,Three hundred and ninety-nine.,"[Three/CD, hundred/CD, and/CC, ninety-nine/CD, ./.]",(ROOT (NP (NP (CD Three)) (QP (CD hundred) (CC and) (CD ninety-nine)) (. .)))
@@ -147,7 +147,7 @@ K/KC/KCV.xml,KCVRE012,3606,144,,A,93,1,artists very much.,"[artists/NNS, very/RB
 K/KC/KCV.xml,KCVRE012,3606,145,,A,93,2,(()) too.,"[too/RB, ./.]",(ROOT (FRAG (ADVP (RB too)) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,146,,A,93,3,You know?,"[You/PRP, know/VB, ?/.]",(ROOT (S (NP (PRP You)) (VP (VB know)) (. ?)))
 K/KC/KCV.xml,KCVRE012,3606,147,,A,93,4,(()) Do we have some realways?,"[Do/VB, we/PRP, have/VBP, some/DT, realways/NNS, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP we)) (VP (VBP have) (NP (DT some) (NNS realways)))))) (. ?)))
-K/KC/KCV.xml,KCVRE012,3606,148,,B,94,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE012,3606,148,,B,94,1,(()) ,[],
 K/KC/KCV.xml,KCVRE012,3606,149,,A,95,1,(()) take this one also.,"[take/VB, this/DT, one/NN, also/RB, ./.]",(ROOT (S (VP (VB take) (NP (DT this) (NN one)) (ADVP (RB also))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,150,,A,95,2,By far the most expensive.,"[By/IN, far/RB, the/DT, most/RBS, expensive/JJ, ./.]",(ROOT (FRAG (PP (IN By) (NP (NP (RB far) (DT the)) (ADJP (RBS most) (JJ expensive)))) (. .)))
 K/KC/KCV.xml,KCVRE012,3606,151,,A,95,3,I know this one.,"[I/PRP, know/VBP, this/DT, one/CD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (NP (DT this) (CD one))) (. .)))

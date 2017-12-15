@@ -80,7 +80,7 @@ K/KC/KC8.xml,KC8RE001,19603,77,,A,43,4,I had a word with Steph on the phone.,"[I
 K/KC/KC8.xml,KC8RE001,19603,78,,B,44,1,Oh?,"[Oh/UH, ?/.]",(ROOT (INTJ (UH Oh) (. ?)))
 K/KC/KC8.xml,KC8RE001,19603,79,,A,45,1,She's getting fat.--,"[She/PRP, 's/VBZ, getting/VBG, fat/JJ, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ fat)))) (. .)))
 K/KC/KC8.xml,KC8RE001,19603,80,,A,45,2,--(()) ,"[She/PRP, 's/VBZ, getting/VBG, fat/JJ, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (VP (VBG getting) (ADJP (JJ fat)))) (. .)))
-K/KC/KC8.xml,KC8RE001,19603,81,,B,46,1,(()) ,[],X
+K/KC/KC8.xml,KC8RE001,19603,81,,B,46,1,(()) ,[],
 K/KC/KC8.xml,KC8RE001,19603,82,,A,47,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KC8.xml,KC8RE001,19603,83,,A,47,2,She goes to hospital on Thursday.,"[She/PRP, goes/VBZ, to/TO, hospital/NN, on/IN, Thursday/NNP, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ goes) (PP (TO to) (NP (NN hospital))) (PP (IN on) (NP (NNP Thursday)))) (. .)))
 K/KC/KC8.xml,KC8RE001,19603,84,,A,47,3,Eighteen week appointment.,"[Eighteen/CD, week/NN, appointment/NN, ./.]",(ROOT (NP (NP (CD Eighteen) (NN week)) (NP (NN appointment)) (. .)))
@@ -121,7 +121,7 @@ K/KC/KC8.xml,KC8RE001,19603,118,,B,62,3,--concerned with.,"[It/PRP, 's/VBZ, work
 K/KC/KC8.xml,KC8RE001,19603,119,,A,63,1,Why?,"[Why/WRB, ?/.]",(ROOT (FRAG (WRB Why) (. ?)))
 K/KC/KC8.xml,KC8RE001,19603,120,,B,64,1,(()) enough done.,"[enough/RB, done/VBN, ./.]",(ROOT (FRAG (ADJP (RB enough) (VBN done)) (. .)))
 K/KC/KC8.xml,KC8RE001,19603,121,,A,65,1,You've got Monday haven't you?,"[You/PRP, 've/VBP, got/VBN, Monday/NNP, haven/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBN got) (S (NP (NNP Monday)) (VP (NNP haven) (S (NP (PRP 't)) (NP (PRP you))))))) (. ?)))
-K/KC/KC8.xml,KC8RE001,19603,122,,B,66,1,(()) ,[],X
+K/KC/KC8.xml,KC8RE001,19603,122,,B,66,1,(()) ,[],
 K/KC/KC8.xml,KC8RE001,19603,123,,A,67,1,You've got Monday haven't you?,"[You/PRP, 've/VBP, got/VBN, Monday/NNP, haven/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBN got) (S (NP (NNP Monday)) (VP (NNP haven) (S (NP (PRP 't)) (NP (PRP you))))))) (. ?)))
 K/KC/KC8.xml,KC8RE001,19603,124,,B,68,1,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
 K/KC/KC8.xml,KC8RE001,19603,125,,A,69,1,You've got all day Monday.,"[You/PRP, 've/VBP, got/VBD, all/DT, day/NN, Monday/NNP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBD got) (NP (DT all) (NN day)) (NP (NNP Monday)))) (. .)))

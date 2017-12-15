@@ -34,5 +34,5 @@ K/KE/KE2.xml,KE2RE04J,39803,31,,A,13,1,Well I've got to go to the building socie
 K/KE/KE2.xml,KE2RE04J,39803,32,,B,14,1,The bank.,"[The/DT, bank/NN, ./.]",(ROOT (NP (DT The) (NN bank) (. .)))
 K/KE/KE2.xml,KE2RE04J,39803,33,,A,15,1,the bank.,"[the/DT, bank/NN, ./.]",(ROOT (NP (DT the) (NN bank) (. .)))
 K/KE/KE2.xml,KE2RE04J,39803,34,,A,15,2,Erm,[Erm/NN],(ROOT (NP (NN Erm)))
-K/KE/KE2.xml,KE2RE04J,39803,35,,B,16,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE04J,39803,35,,B,16,1,(()) ,[],
 K/KE/KE2.xml,KE2RE04J,39803,36,,A,17,1,I'll go down and get the car out.,"[I/PRP, 'll/MD, go/VB, down/RB, and/CC, get/VB, the/DT, car/NN, out/RP, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VP (VB go) (ADVP (RB down))) (CC and) (VP (VB get) (NP (DT the) (NN car)) (PRT (RP out))))) (. .)))

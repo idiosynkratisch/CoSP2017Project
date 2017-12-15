@@ -26,9 +26,9 @@ K/KE/KE2.xml,KE2RE04H,39802,23,,B,14,1,Presumably I did.,"[Presumably/RB, I/PRP,
 K/KE/KE2.xml,KE2RE04H,39802,24,,A,15,1,You know the  (()) ,"[You/PRP, know/VBP, the/DT]",(ROOT (S (NP (PRP You)) (VP (VBP know) (NP (DT the)))))
 K/KE/KE2.xml,KE2RE04H,39802,25,,B,16,1,"Yes I think I did, yeah.","[Yes/UH, I/PRP, think/VBP, I/PRP, did/VBD, ,/,, yeah/UH, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBD did)))))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
 K/KE/KE2.xml,KE2RE04H,39802,26,,B,16,2,The what?,"[The/DT, what/WP, ?/.]",(ROOT (X (ADVP (DT The)) (NP (WP what)) (. ?)))
-K/KE/KE2.xml,KE2RE04H,39802,27,,A,17,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE04H,39802,27,,A,17,1,(()) ,[],
 K/KE/KE2.xml,KE2RE04H,39802,28,,B,18,1,"Oh yes I put them in the freezer, yes, yes.","[Oh/UH, yes/UH, I/PRP, put/VBD, them/PRP, in/IN, the/DT, freezer/NN, ,/,, yes/UH, ,/,, yes/UH, ./.]","(ROOT (S (S (INTJ (UH Oh) (UH yes)) (NP (PRP I)) (VP (VBD put) (NP (PRP them)) (PP (IN in) (NP (DT the) (NN freezer))))) (, ,) (FRAG (INTJ (UH yes) (, ,) (UH yes))) (. .)))"
-K/KE/KE2.xml,KE2RE04H,39802,29,,A,19,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE04H,39802,29,,A,19,1,(()) ,[],
 K/KE/KE2.xml,KE2RE04H,39802,30,,B,20,1,I was trying to think of rubbish that I'd taken out.,"[I/PRP, was/VBD, trying/VBG, to/TO, think/VB, of/IN, rubbish/JJ, that/IN, I/PRP, 'd/MD, taken/VBN, out/RP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG trying) (S (VP (TO to) (VP (VB think) (PP (IN of) (NP (JJ rubbish))) (SBAR (IN that) (S (NP (PRP I)) (VP (MD 'd) (VP (VBN taken) (PRT (RP out))))))))))) (. .)))
 K/KE/KE2.xml,KE2RE04H,39802,31,,B,20,2,Do you want a bit of cake?,"[Do/VB, you/PRP, want/VBP, a/DT, bit/NN, of/IN, cake/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NN cake)))))))) (. ?)))
 K/KE/KE2.xml,KE2RE04H,39802,32,,A,21,1,"I, I'd just taken this thing","[I/PRP, ,/,, I/PRP, 'd/MD, just/RB, taken/VBN, this/DT, thing/NN]","(ROOT (NP (S (NP (PRP I)) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (ADVP (RB just)) (VBN taken) (NP (DT this) (NN thing)))))))"
@@ -36,8 +36,8 @@ K/KE/KE2.xml,KE2RE04H,39802,33,,B,22,1,You're not gonna have a piece of this?,"[
 K/KE/KE2.xml,KE2RE04H,39802,34,,A,23,1,"Oh you can have, you can finish that up if you want to.","[Oh/UH, you/PRP, can/MD, have/VB, ,/,, you/PRP, can/MD, finish/VB, that/IN, up/RB, if/IN, you/PRP, want/VBP, to/TO, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (MD can) (VP (VB have)))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB finish) (ADVP (IN that) (RB up)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (PP (TO to))))))) (. .)))"
 K/KE/KE2.xml,KE2RE04H,39802,35,,B,24,1,Thanks.,"[Thanks/NNS, ./.]",(ROOT (NP (NNS Thanks) (. .)))
 K/KE/KE2.xml,KE2RE04H,39802,36,,B,24,2,Oh they're taking a long time to get these last two runs aren't they?,"[Oh/UH, they/PRP, 're/VBP, taking/VBG, a/DT, long/JJ, time/NN, to/TO, get/VB, these/DT, last/JJ, two/CD, runs/NNS, aren/IN, 't/PRP, they/PRP, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP they)) (VP (VBP 're) (VP (VBG taking) (NP (DT a) (JJ long) (NN time)) (S (VP (TO to) (VP (VB get) (S (NP (NP (DT these) (JJ last) (CD two) (NNS runs)) (PP (IN aren) (NP (PRP 't)))) (NP (PRP they))))))))) (. ?)))
-K/KE/KE2.xml,KE2RE04H,39802,37,,A,25,1,(()) ,[],X
-K/KE/KE2.xml,KE2RE04H,39802,38,,A,25,2,(()) ,[],X
+K/KE/KE2.xml,KE2RE04H,39802,37,,A,25,1,(()) ,[],
+K/KE/KE2.xml,KE2RE04H,39802,38,,A,25,2,(()) ,[],
 K/KE/KE2.xml,KE2RE04H,39802,39,,B,26,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KE/KE2.xml,KE2RE04H,39802,40,,A,27,1,(()) look.,"[look/VB, ./.]",(ROOT (S (VP (VB look)) (. .)))
 K/KE/KE2.xml,KE2RE04H,39802,41,,B,28,1,Oh gracious.,"[Oh/UH, gracious/JJ, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ gracious)))) (. .)))
@@ -75,7 +75,7 @@ K/KE/KE2.xml,KE2RE04H,39802,72,,B,44,1,Pakistan ,[Pakistan/NNP],(ROOT (NP (NNP P
 K/KE/KE2.xml,KE2RE04H,39802,73,,A,45,1,"Oh I see, he, he was the opener.","[Oh/UH, I/PRP, see/VBP, ,/,, he/PRP, ,/,, he/PRP, was/VBD, the/DT, opener/NN, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (PRP I)) (VP (VBP see))) (, ,) (NP (PRP he)) (, ,) (NP (PRP he)) (VP (VBD was) (NP (DT the) (NN opener))) (. .)))"
 K/KE/KE2.xml,KE2RE04H,39802,74,,B,46,1,He was docked four times on his way to reaching his first one day century.,"[He/PRP, was/VBD, docked/VBN, four/CD, times/NNS, on/IN, his/PRP$, way/NN, to/TO, reaching/VBG, his/PRP$, first/JJ, one/CD, day/NN, century/NN, ./.]",(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VBN docked) (NP (CD four) (NNS times)) (PP (IN on) (NP (PRP$ his) (NN way))) (PP (TO to) (S (VP (VBG reaching) (NP (PRP$ his) (JJ first) (CD one) (NN day) (NN century))))))) (. .)))
 K/KE/KE2.xml,KE2RE04H,39802,75,,B,46,2,"Oh, so Pakistan ","[Oh/UH, ,/,, so/RB, Pakistan/NNP]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (RB so)) (NP (NNP Pakistan))))"
-K/KE/KE2.xml,KE2RE04H,39802,76,,A,47,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE04H,39802,76,,A,47,1,(()) ,[],
 K/KE/KE2.xml,KE2RE04H,39802,77,,B,48,1,beat Zimbabwe.,"[beat/VB, Zimbabwe/NNP, ./.]",(ROOT (S (VP (VB beat) (NP (NNP Zimbabwe))) (. .)))
 K/KE/KE2.xml,KE2RE04H,39802,78,,A,49,1,Oh it was Pakistan was it?,"[Oh/UH, it/PRP, was/VBD, Pakistan/NNP, was/VBD, it/PRP, ?/.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBD was))) (NP (NNP Pakistan)) (VP (VBD was) (NP (PRP it))) (. ?)))
 K/KE/KE2.xml,KE2RE04H,39802,79,,B,50,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

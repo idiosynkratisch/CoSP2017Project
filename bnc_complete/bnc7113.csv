@@ -5,7 +5,7 @@ K/KD/KDE.xml,KDERE01P,7113,2,,A,3,1,about everything I cook.,"[about/IN, everyth
 K/KD/KDE.xml,KDERE01P,7113,3,,A,3,2,It was nice except the courgettes.,"[It/PRP, was/VBD, nice/JJ, except/IN, the/DT, courgettes/NNS, ./.]",(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice) (PP (IN except) (NP (DT the) (NNS courgettes))))) (. .)))
 K/KD/KDE.xml,KDERE01P,7113,4,,A,3,3,Next time you cook it can you leave out the leeks?,"[Next/JJ, time/NN, you/PRP, cook/VBP, it/PRP, can/MD, you/PRP, leave/VB, out/RP, the/DT, leeks/NNPS, ?/.]",(ROOT (S (NP (JJ Next) (NN time)) (NP (PRP you)) (VP (VBP cook) (SBAR (S (NP (PRP it)) (VP (MD can) (NP (PRP you)) (S (VP (VB leave) (PRT (RP out)) (NP (DT the) (NNPS leeks)))))))) (. ?)))
 K/KD/KDE.xml,KDERE01P,7113,5,,A,3,4,It was nice but I didn't like the,"[It/PRP, was/VBD, nice/JJ, but/CC, I/PRP, didn/VBP, 't/PRP, like/IN, the/DT]",(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ nice)) (SBAR (CC but) (S (NP (PRP I)) (VP (VBP didn) (NP (PRP 't)) (PP (IN like) (NP (DT the)))))))))
-K/KD/KDE.xml,KDERE01P,7113,6,,B,4,1,(()) ,[],X
+K/KD/KDE.xml,KDERE01P,7113,6,,B,4,1,(()) ,[],
 K/KD/KDE.xml,KDERE01P,7113,7,,A,5,1,I always use to put onions in it always.,"[I/PRP, always/RB, use/VBP, to/TO, put/VB, onions/NNS, in/IN, it/PRP, always/RB, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB always)) (VP (VBP use) (S (VP (TO to) (VP (VB put) (NP (NP (NNS onions)) (PP (IN in) (NP (PRP it)))) (ADVP (RB always)))))) (. .)))
 K/KD/KDE.xml,KDERE01P,7113,8,,B,6,1,Up to ,"[Up/IN, to/TO]",(ROOT (PP (IN Up) (PP (TO to))))
 K/KD/KDE.xml,KDERE01P,7113,9,,A,7,1,Six months.,"[Six/CD, months/NNS, ./.]",(ROOT (NP (CD Six) (NNS months) (. .)))
@@ -20,7 +20,7 @@ K/KD/KDE.xml,KDERE01P,7113,17,,A,13,1,You are moaning.,"[You/PRP, are/VBP, moani
 K/KD/KDE.xml,KDERE01P,7113,18,,B,14,1,I'm not.,"[I/PRP, 'm/VBP, not/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not)) (. .)))
 K/KD/KDE.xml,KDERE01P,7113,19,,A,15,1,and its getting on my nerves.,"[and/CC, its/PRP$, getting/VBG, on/IN, my/PRP$, nerves/NNS, ./.]",(ROOT (FRAG (CC and) (NP (NP (PRP$ its)) (SBAR (S (VP (VBG getting) (PP (IN on) (NP (PRP$ my) (NNS nerves)))))) (. .))))
 K/KD/KDE.xml,KDERE01P,7113,20,,B,16,1,I'm not.,"[I/PRP, 'm/VBP, not/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not)) (. .)))
-K/KD/KDE.xml,KDERE01P,7113,21,,A,17,1,(()) ,[],X
+K/KD/KDE.xml,KDERE01P,7113,21,,A,17,1,(()) ,[],
 K/KD/KDE.xml,KDERE01P,7113,22,,B,18,1,I just asked why there's onions in it.,"[I/PRP, just/RB, asked/VBD, why/WRB, there/EX, 's/VBZ, onions/NNS, in/IN, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD asked) (SBAR (WHADVP (WRB why)) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NNS onions)) (PP (IN in) (NP (PRP it)))))))) (. .)))
 K/KD/KDE.xml,KDERE01P,7113,23,,A,19,1,Because I always used to toss it in,"[Because/IN, I/PRP, always/RB, used/VBD, to/TO, toss/VB, it/PRP, in/IN]",(ROOT (SBAR (IN Because) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD used) (S (VP (TO to) (VP (VB toss) (NP (PRP it)) (PP (IN in)))))))))
 K/KD/KDE.xml,KDERE01P,7113,24,,B,20,1,So you just changed your mind and put it in.,"[So/RB, you/PRP, just/RB, changed/VBD, your/PRP$, mind/NN, and/CC, put/VBD, it/PRP, in/IN, ./.]",(ROOT (S (RB So) (NP (PRP you)) (VP (VP (ADVP (RB just)) (VBD changed) (NP (PRP$ your) (NN mind))) (CC and) (VP (VBD put) (NP (PRP it)) (PP (IN in)))) (. .)))

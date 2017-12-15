@@ -1,7 +1,7 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KB7.xml,KB7RE017,18908,0,,A,1,1,That smells  --,"[That/DT, smells/VBZ, mm/NN, mm/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ smells) (NP (NN mm) (NN mm))) (. .)))
 K/KB/KB7.xml,KB7RE017,18908,1,,A,1,2,--mm mm.,"[That/DT, smells/VBZ, mm/NN, mm/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ smells) (NP (NN mm) (NN mm))) (. .)))
-K/KB/KB7.xml,KB7RE017,18908,2,,B,2,1,(()) ,[],X
+K/KB/KB7.xml,KB7RE017,18908,2,,B,2,1,(()) ,[],
 K/KB/KB7.xml,KB7RE017,18908,3,,A,3,1,Mm mm!,"[Mm/NN, mm/NN, !/.]",(ROOT (FRAG (NP (NN Mm) (NN mm)) (. !)))
 K/KB/KB7.xml,KB7RE017,18908,4,,A,3,2,Well that's gonna be alright  --,"[Well/RB, that/DT, 's/VBZ, gonna/NNP, be/VB, alright/JJ, I/PRP, don/VBP, 't/PRP, understand/VB, why/WRB, every/DT, time/NN]",(ROOT (SINV (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VB be) (ADJP (JJ alright)) (NP (PRP I)))))) (VP (VBP don) (S (NP (PRP 't)) (VP (VB understand) (FRAG (WHADVP (WRB why)))))) (NP (DT every) (NN time))))
 K/KB/KB7.xml,KB7RE017,18908,5,,A,3,3,--I don't understand  --,"[Well/RB, that/DT, 's/VBZ, gonna/NNP, be/VB, alright/JJ, I/PRP, don/VBP, 't/PRP, understand/VB, why/WRB, every/DT, time/NN]",(ROOT (SINV (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VB be) (ADJP (JJ alright)) (NP (PRP I)))))) (VP (VBP don) (S (NP (PRP 't)) (VP (VB understand) (FRAG (WHADVP (WRB why)))))) (NP (DT every) (NN time))))

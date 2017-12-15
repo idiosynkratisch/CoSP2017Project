@@ -14,6 +14,6 @@ K/KD/KDM.xml,KDMRE023,30701,11,,A,9,1,"After all, it used a be a tenner  <laugh>
 K/KD/KDM.xml,KDMRE023,30701,12,,B,10,1,"I'd be no, I'd be no good!","[I/PRP, 'd/MD, be/VB, no/RB, ,/,, I/PRP, 'd/MD, be/VB, no/DT, good/JJ, !/.]","(ROOT (S (S (NP (PRP I)) (VP (MD 'd) (VP (VB be) (NP (RB no))))) (, ,) (NP (PRP I)) (VP (MD 'd) (VP (VB be) (ADJP (DT no) (JJ good)))) (. !)))"
 K/KD/KDM.xml,KDMRE023,30701,13,,A,11,1,<laughing> (()) run to town </laughing> !,"[run/VB, to/TO, town/NN, !/.]",(ROOT (S (VP (VB run) (PP (TO to) (NP (NN town)))) (. !)))
 K/KD/KDM.xml,KDMRE023,30701,14,,B,12,1,I've no patience me.,"[I/PRP, 've/VBP, no/DT, patience/NN, me/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (S (NP (DT no) (NN patience)) (NP (PRP me)))) (. .)))
-K/KD/KDM.xml,KDMRE023,30701,15,,A,13,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE023,30701,15,,A,13,1,(()) ,[],
 K/KD/KDM.xml,KDMRE023,30701,16,,B,14,1,"<laughing> Okay, love bye </laughing> !","[Okay/UH, ,/,, love/VBP, bye/NN, !/.]","(ROOT (SINV (FRAG (INTJ (UH Okay))) (, ,) (VP (VBP love)) (NP (NN bye)) (. !)))"
 K/KD/KDM.xml,KDMRE023,30701,17,,A,15,1,(()) thank you.,"[thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB thank) (NP (PRP you))) (. .)))

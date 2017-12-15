@@ -9,5 +9,5 @@ K/KB/KBK.xml,KBKRE06E,2915,6,,B,6,1,Oh bad luck.,"[Oh/UH, bad/JJ, luck/NN, ./.]"
 K/KB/KBK.xml,KBKRE06E,2915,7,,A,7,1,Do you want some more chicken?,"[Do/VB, you/PRP, want/VBP, some/DT, more/JJR, chicken/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (DT some) (JJR more) (NN chicken)))))) (. ?)))
 K/KB/KBK.xml,KBKRE06E,2915,8,,B,8,1,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
 K/KB/KBK.xml,KBKRE06E,2915,9,,B,8,2,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE06E,2915,10,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06E,2915,10,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE06E,2915,11,,B,10,1,I was holding it in such an awkward way that fingers eventually protested.,"[I/PRP, was/VBD, holding/VBG, it/PRP, in/IN, such/PDT, an/DT, awkward/JJ, way/NN, that/IN, fingers/NNS, eventually/RB, protested/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG holding) (NP (PRP it)) (PP (IN in) (NP (PDT such) (DT an) (JJ awkward) (NN way))) (SBAR (IN that) (S (NP (NNS fingers)) (ADVP (RB eventually)) (VP (VBD protested)))))) (. .)))

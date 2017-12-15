@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDN.xml,KDNRE02E,46204,0,,A,1,1,Now Raymond come on to bed son.,"[Now/RB, Raymond/NNP, come/VB, on/IN, to/TO, bed/NN, son/NN, ./.]",(ROOT (S (NP (RB Now) (NNP Raymond)) (VP (VB come) (PP (IN on) (PP (TO to) (NP (NN bed) (NN son))))) (. .)))
 K/KD/KDN.xml,KDNRE02E,46204,1,,B,2,1,What's wrong Jean?,"[What/WP, 's/VBZ, wrong/JJ, Jean/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (JJ wrong) (NN Jean))) (. ?)))
-K/KD/KDN.xml,KDNRE02E,46204,2,,A,3,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE02E,46204,2,,A,3,1,(()) ,[],
 K/KD/KDN.xml,KDNRE02E,46204,3,,B,4,1,Right we'll go to bed.,"[Right/NN, we/PRP, 'll/MD, go/VB, to/TO, bed/NN, ./.]",(ROOT (S (NP (NN Right)) (NP (PRP we)) (VP (MD 'll) (VP (VB go) (PP (TO to) (NP (NN bed))))) (. .)))

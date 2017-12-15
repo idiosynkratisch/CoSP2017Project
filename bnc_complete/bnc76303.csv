@@ -166,7 +166,7 @@ K/KC/KCH.xml,KCHRE009,76303,163,,A,89,3,And it was before you had your pacers an
 K/KC/KCH.xml,KCHRE009,76303,164,,B,90,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KC/KCH.xml,KCHRE009,76303,165,,B,90,2,Thank goodness for that!,"[Thank/VB, goodness/NN, for/IN, that/DT, !/.]",(ROOT (S (VP (VB Thank) (NP (NN goodness)) (PP (IN for) (NP (DT that)))) (. !)))
 K/KC/KCH.xml,KCHRE009,76303,166,,B,90,3,"I wouldn't want one of those, one of the pacers or sprinters or metros spoilt.","[I/PRP, wouldn/VBP, 't/PRP, want/VB, one/CD, of/IN, those/DT, ,/,, one/CD, of/IN, the/DT, pacers/NNS, or/CC, sprinters/NNS, or/CC, metros/NNS, spoilt/VBP, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP wouldn) (S (NP (PRP 't)) (VP (VB want) (NP (NP (CD one)) (PP (IN of) (NP (DT those)))))))) (, ,) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS pacers) (CC or) (NNS sprinters)) (CC or) (NP (NNS metros))))) (VP (VBP spoilt)) (. .)))"
-K/KC/KCH.xml,KCHRE009,76303,167,,A,91,1,<laugh> ,[],X
+K/KC/KCH.xml,KCHRE009,76303,167,,A,91,1,<laugh> ,[],
 K/KC/KCH.xml,KCHRE009,76303,168,,B,92,1,But dad!,"[But/CC, dad/NNP, !/.]",(ROOT (FRAG (CC But) (ADVP (NNP dad)) (. !)))
 K/KC/KCH.xml,KCHRE009,76303,169,,B,92,2,They're all multiple units  --,"[They/PRP, 're/VBP, all/DT, multiple/JJ, units/NNS, at/IN, sometimes/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADVP (NP (DT all) (JJ multiple) (NNS units)) (IN at)) (ADVP (RB sometimes))) (. .)))
 K/KC/KCH.xml,KCHRE009,76303,170,,B,92,3,--at sometimes.,"[They/PRP, 're/VBP, all/DT, multiple/JJ, units/NNS, at/IN, sometimes/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADVP (NP (DT all) (JJ multiple) (NNS units)) (IN at)) (ADVP (RB sometimes))) (. .)))
@@ -180,7 +180,7 @@ K/KC/KCH.xml,KCHRE009,76303,177,,A,95,1,Can you?,"[Can/MD, you/PRP, ?/.]",(ROOT 
 K/KC/KCH.xml,KCHRE009,76303,178,,B,96,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KC/KCH.xml,KCHRE009,76303,179,,A,97,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCH.xml,KCHRE009,76303,180,,A,97,2,I'm pleased you know your trains.,"[I/PRP, 'm/VBP, pleased/JJ, you/PRP, know/VBP, your/PRP$, trains/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ pleased) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP$ your) (NNS trains))))))) (. .)))
-K/KC/KCH.xml,KCHRE009,76303,181,,B,98,1,(()) ,[],X
+K/KC/KCH.xml,KCHRE009,76303,181,,B,98,1,(()) ,[],
 K/KC/KCH.xml,KCHRE009,76303,182,,A,99,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCH.xml,KCHRE009,76303,183,,A,99,2,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KC/KCH.xml,KCHRE009,76303,184,,A,99,3,Well I'm gonna have to start thinking about getting ready.,"[Well/RB, I/PRP, 'm/VBP, gonna/NNS, have/VBP, to/TO, start/VB, thinking/VBG, about/IN, getting/VBG, ready/JJ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP 'm) (NP (NP (NNS gonna)) (SBAR (S (VP (VBP have) (S (VP (TO to) (VP (VB start) (S (VP (VBG thinking) (PP (IN about) (S (VP (VBG getting) (ADJP (JJ ready))))))))))))))) (. .)))

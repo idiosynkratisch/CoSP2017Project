@@ -28,7 +28,7 @@ K/KC/KCF.xml,KCFRE00C,28302,25,,B,10,3,--that extra  (()) to furnish it.,"[Well/
 K/KC/KCF.xml,KCFRE00C,28302,26,,B,10,4,Can't you?,"[Can/MD, 't/PRP, you/PRP, ?/.]",(ROOT (S (VP (MD Can) (VP (FRAG (NP (NP (PRP 't)) (NP (PRP you)))))) (. ?)))
 K/KC/KCF.xml,KCFRE00C,28302,27,,B,10,5,You only want a three piece suite and carpet.,"[You/PRP, only/RB, want/VBP, a/DT, three/CD, piece/NN, suite/NN, and/CC, carpet/NN, ./.]",(ROOT (S (NP (PRP You)) (ADVP (RB only)) (VP (VBP want) (NP (DT a) (CD three) (NN piece) (NN suite) (CC and) (NN carpet))) (. .)))
 K/KC/KCF.xml,KCFRE00C,28302,28,,B,10,6,Without carpets in this one.,"[Without/IN, carpets/NNS, in/IN, this/DT, one/CD, ./.]",(ROOT (FRAG (PP (IN Without) (NP (NP (NNS carpets)) (PP (IN in) (NP (DT this) (CD one))))) (. .)))
-K/KC/KCF.xml,KCFRE00C,28302,29,,A,11,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00C,28302,29,,A,11,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00C,28302,30,,B,12,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCF.xml,KCFRE00C,28302,31,,B,12,2,Are you ca- --,"[Are/VBP, you/PRP, ca-/NN, if/IN, you/PRP, ./.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (PP (NP (NN ca-)) (PP (IN if) (NP (PRP you)))) (. .)))
 K/KC/KCF.xml,KCFRE00C,28302,32,,B,12,3,--if you  --,"[Are/VBP, you/PRP, ca-/NN, if/IN, you/PRP, ./.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (PP (NP (NN ca-)) (PP (IN if) (NP (PRP you)))) (. .)))
@@ -114,9 +114,9 @@ K/KC/KCF.xml,KCFRE00C,28302,111,,A,51,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KC/KCF.xml,KCFRE00C,28302,112,,B,52,1,The  --,"[The/DT, bedroom/NN, ,/,, kitchen/NN, ,/,, dining/NN, room/NN, and/CC, a/DT, ./.]","(ROOT (NP (NP (DT The) (NN bedroom)) (, ,) (NP (NN kitchen)) (, ,) (NP (NP (NN dining)) (NP (NN room) (CC and) (DT a))) (. .)))"
 K/KC/KCF.xml,KCFRE00C,28302,113,,B,52,2,"--bedroom, kitchen, dining room and a (()) .","[The/DT, bedroom/NN, ,/,, kitchen/NN, ,/,, dining/NN, room/NN, and/CC, a/DT, ./.]","(ROOT (NP (NP (DT The) (NN bedroom)) (, ,) (NP (NN kitchen)) (, ,) (NP (NP (NN dining)) (NP (NN room) (CC and) (DT a))) (. .)))"
 K/KC/KCF.xml,KCFRE00C,28302,114,,B,52,3,"And a (()) , and it's double glazed and (()) !","[And/CC, a/DT, ,/,, and/CC, it/PRP, 's/VBZ, double/JJ, glazed/VBN, and/CC, !/.]","(ROOT (S (CC And) (NP (NP (DT a)) (, ,) (CC and) (NP (PRP it))) (VP (VBZ 's) (ADVP (JJ double)) (VP (VBN glazed) (ADVP (CC and)))) (. !)))"
-K/KC/KCF.xml,KCFRE00C,28302,115,,A,53,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00C,28302,115,,A,53,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00C,28302,116,,B,54,1,They've got none of that stuff there have they?,"[They/PRP, 've/VBP, got/VBN, none/NN, of/IN, that/DT, stuff/NN, there/EX, have/VBP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP 've) (VP (VBN got) (NP (NP (NN none)) (PP (IN of) (NP (NP (DT that) (NN stuff)) (SBAR (S (NP (EX there)) (VP (VBP have) (NP (PRP they)))))))))) (. ?)))
-K/KC/KCF.xml,KCFRE00C,28302,117,,A,55,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00C,28302,117,,A,55,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00C,28302,118,,B,56,1,"No it isn't, it's got a old gas  --","[No/DT, it/PRP, isn/VBD, 't/PRP, ,/,, it/PRP, 's/VBZ, got/VBD, a/DT, old/JJ, gas/NN, er/NN, gas/NN, fire/NN, there/RB, ./.]","(ROOT (S (S (NP (DT No) (PRP it)) (VP (VBD isn) (NP (PRP 't)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ old) (NN gas) (NN er) (NN gas) (NN fire)) (ADVP (RB there)))) (. .)))"
 K/KC/KCF.xml,KCFRE00C,28302,119,,B,56,2,--er  --,"[No/DT, it/PRP, isn/VBD, 't/PRP, ,/,, it/PRP, 's/VBZ, got/VBD, a/DT, old/JJ, gas/NN, er/NN, gas/NN, fire/NN, there/RB, ./.]","(ROOT (S (S (NP (DT No) (PRP it)) (VP (VBD isn) (NP (PRP 't)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ old) (NN gas) (NN er) (NN gas) (NN fire)) (ADVP (RB there)))) (. .)))"
 K/KC/KCF.xml,KCFRE00C,28302,120,,B,56,3,--gas fire there.,"[No/DT, it/PRP, isn/VBD, 't/PRP, ,/,, it/PRP, 's/VBZ, got/VBD, a/DT, old/JJ, gas/NN, er/NN, gas/NN, fire/NN, there/RB, ./.]","(ROOT (S (S (NP (DT No) (PRP it)) (VP (VBD isn) (NP (PRP 't)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJ old) (NN gas) (NN er) (NN gas) (NN fire)) (ADVP (RB there)))) (. .)))"

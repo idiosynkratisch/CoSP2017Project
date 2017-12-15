@@ -47,10 +47,10 @@ K/KD/KDE.xml,KDERE02W,7601,44,,A,29,2,One two three four five.,"[One/CD, two/CD,
 K/KD/KDE.xml,KDERE02W,7601,45,,A,29,3,There's one in the garage I'm sure there was one left over in the garage.,"[There/EX, 's/VBZ, one/CD, in/IN, the/DT, garage/NN, I/PRP, 'm/VBP, sure/JJ, there/EX, was/VBD, one/CD, left/VBD, over/RP, in/IN, the/DT, garage/NN, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN in) (NP (NP (DT the) (NN garage)) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (EX there)) (VP (VBD was) (NP (NP (CD one)) (VP (VBD left) (PRT (RP over)) (PP (IN in) (NP (DT the) (NN garage)))))))))))))))) (. .)))
 K/KD/KDE.xml,KDERE02W,7601,46,,B,30,1,I think you said there was.,"[I/PRP, think/VBP, you/PRP, said/VBD, there/EX, was/VBD, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP you)) (VP (VBD said) (SBAR (S (NP (EX there)) (VP (VBD was)))))))) (. .)))
 K/KD/KDE.xml,KDERE02W,7601,47,,A,31,1,So that's six.,"[So/IN, that/DT, 's/VBZ, six/CD, ./.]",(ROOT (S (IN So) (NP (DT that)) (VP (VBZ 's) (NP (CD six))) (. .)))
-K/KD/KDE.xml,KDERE02W,7601,48,,B,32,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02W,7601,48,,B,32,1,(()) ,[],
 K/KD/KDE.xml,KDERE02W,7601,49,,A,33,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KD/KDE.xml,KDERE02W,7601,50,,A,33,2,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
-K/KD/KDE.xml,KDERE02W,7601,51,,B,34,1,<laugh> ,[],X
+K/KD/KDE.xml,KDERE02W,7601,51,,B,34,1,<laugh> ,[],
 K/KD/KDE.xml,KDERE02W,7601,52,,A,35,1,The expensive watch.,"[The/DT, expensive/JJ, watch/NN, ./.]",(ROOT (NP (DT The) (JJ expensive) (NN watch) (. .)))
 K/KD/KDE.xml,KDERE02W,7601,53,,A,35,2,It looks nice doesn't it?,"[It/PRP, looks/VBZ, nice/JJ, doesn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ looks) (S (NP (NP (JJ nice) (NN doesn)) (NP (PRP 't))) (NP (PRP it)))) (. ?)))
 K/KD/KDE.xml,KDERE02W,7601,54,,B,36,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))

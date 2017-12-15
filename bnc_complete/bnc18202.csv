@@ -71,7 +71,7 @@ K/KB/KB7.xml,KB7RE001,18202,68,,A,45,2,Ann has n't.,"[Ann/NNP, has/VBZ, n/NN, 't
 K/KB/KB7.xml,KB7RE001,18202,69,,B,46,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KB/KB7.xml,KB7RE001,18202,70,,B,46,2,Frank?,"[Frank/NNP, ?/.]",(ROOT (FRAG (NP (NNP Frank)) (. ?)))
 K/KB/KB7.xml,KB7RE001,18202,71,,B,46,3,Frank and Barbara.,"[Frank/NNP, and/CC, Barbara/NNP, ./.]",(ROOT (NP (NNP Frank) (CC and) (NNP Barbara) (. .)))
-K/KB/KB7.xml,KB7RE001,18202,72,,A,47,1,(()) ,[],X
+K/KB/KB7.xml,KB7RE001,18202,72,,A,47,1,(()) ,[],
 K/KB/KB7.xml,KB7RE001,18202,73,,B,48,1,Frank's London isn't he?,"[Frank/NNP, 's/POS, London/NNP, isn/NNP, 't/PRP, he/PRP, ?/.]",(ROOT (NP (NP (NP (NNP Frank) (POS 's)) (NNP London) (NNP isn)) (NP (NP (PRP 't)) (NP (PRP he))) (. ?)))
 K/KB/KB7.xml,KB7RE001,18202,74,,A,49,1,Yeah yeah.,"[Yeah/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Yeah)) (VP (UH yeah)) (. .)))
 K/KB/KB7.xml,KB7RE001,18202,75,,A,49,2,Definitely.,"[Definitely/RB, ./.]",(ROOT (FRAG (ADVP (RB Definitely)) (. .)))

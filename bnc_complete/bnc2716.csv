@@ -5,9 +5,9 @@ K/KB/KBK.xml,KBKRE057,2716,2,,B,2,2,To  --,"[To/TO, to/TO, the/DT, right/NN, ?/.
 K/KB/KBK.xml,KBKRE057,2716,3,,B,2,3,--to the right?,"[To/TO, to/TO, the/DT, right/NN, ?/.]",(ROOT (FRAG (PP (PP (TO To)) (PP (TO to) (NP (DT the) (NN right)))) (. ?)))
 K/KB/KBK.xml,KBKRE057,2716,4,,A,3,1,Yellow ball (()) .,"[Yellow/JJ, ball/NN, ./.]",(ROOT (NP (JJ Yellow) (NN ball) (. .)))
 K/KB/KBK.xml,KBKRE057,2716,5,,B,4,1,"Of course I'm sorry, for some strange reason I thought we were going that way, I've got to go through the other way haven't I?","[Of/IN, course/NN, I/PRP, 'm/VBP, sorry/JJ, ,/,, for/IN, some/DT, strange/JJ, reason/NN, I/PRP, thought/VBD, we/PRP, were/VBD, going/VBG, that/DT, way/NN, ,/,, I/PRP, 've/VBP, got/VBN, to/TO, go/VB, through/IN, the/DT, other/JJ, way/NN, haven/NN, 't/PRP, I/PRP, ?/.]","(ROOT (S (S (PP (IN Of) (NP (NN course))) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry)) (, ,) (PP (IN for) (NP (NP (DT some) (JJ strange) (NN reason)) (SBAR (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP we)) (VP (VBD were) (VP (VBG going) (NP (DT that) (NN way))))))))))))) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB go) (PP (IN through) (NP (DT the) (JJ other) (NN way) (NN haven))) (NP (NP (PRP 't)) (NP (PRP I)))))))) (. ?)))"
-K/KB/KBK.xml,KBKRE057,2716,6,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE057,2716,6,,A,5,1,(()) ,[],
 K/KB/KBK.xml,KBKRE057,2716,7,,B,6,1,"It, it's always from the out- outside in, yes?","[It/PRP, ,/,, it/PRP, 's/VBZ, always/RB, from/IN, the/DT, out-/NN, outside/IN, in/IN, ,/,, yes/UH, ?/.]","(ROOT (NP (S (NP (PRP It)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB always)) (PP (IN from) (NP (NP (DT the) (NN out-)) (PP (IN outside) (FRAG (PP (IN in)) (, ,) (INTJ (UH yes)) (. ?)))))))))"
 K/KB/KBK.xml,KBKRE057,2716,8,,A,7,1,"Well, except for on the way back.","[Well/RB, ,/,, except/IN, for/IN, on/IN, the/DT, way/NN, back/RB, ./.]","(ROOT (FRAG (INTJ (RB Well)) (, ,) (PP (IN except) (PP (IN for) (PP (IN on) (FRAG (NP (DT the) (NN way)) (ADVP (RB back)) (. .)))))))"
 K/KB/KBK.xml,KBKRE057,2716,9,,B,8,1,Ah.,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
-K/KB/KBK.xml,KBKRE057,2716,10,,A,9,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE057,2716,10,,A,9,1,(()) ,[],
 K/KB/KBK.xml,KBKRE057,2716,11,,B,10,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

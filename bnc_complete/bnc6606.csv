@@ -2,7 +2,7 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KC/KC4.xml,KC4RE00K,6606,0,,A,1,1,That's not whisky.,"[That/DT, 's/VBZ, not/RB, whisky/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (RB not) (NP (NN whisky))) (. .)))
 K/KC/KC4.xml,KC4RE00K,6606,1,,B,2,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KC/KC4.xml,KC4RE00K,6606,2,,A,3,1,Bloody sweat it is.<laugh> ,"[Bloody/JJ, sweat/NN, it/PRP, is/VBZ, ./.]",(ROOT (S (NP (JJ Bloody) (NN sweat)) (NP (PRP it)) (VP (VBZ is)) (. .)))
-K/KC/KC4.xml,KC4RE00K,6606,3,,B,4,1,(()) ,[],X
+K/KC/KC4.xml,KC4RE00K,6606,3,,B,4,1,(()) ,[],
 K/KC/KC4.xml,KC4RE00K,6606,4,,A,5,1,"Kathleen, Kathleen.","[Kathleen/NNP, ,/,, Kathleen/NNP, ./.]","(ROOT (NP (NP (NNP Kathleen)) (, ,) (NP (NNP Kathleen)) (. .)))"
 K/KC/KC4.xml,KC4RE00K,6606,5,,B,6,1,That's me.,"[That/DT, 's/VBZ, me/PRP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (PRP me))) (. .)))
 K/KC/KC4.xml,KC4RE00K,6606,6,,A,7,1,"Behave yourself, you want a whisky?","[Behave/VB, yourself/PRP, ,/,, you/PRP, want/VBP, a/DT, whisky/NN, ?/.]","(ROOT (S (S (VP (VB Behave) (NP (PRP yourself)))) (, ,) (NP (PRP you)) (VP (VBP want) (NP (DT a) (NN whisky))) (. ?)))"

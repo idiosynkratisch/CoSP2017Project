@@ -4,6 +4,6 @@ K/KC/KC5.xml,KC5RE001,9702,1,,A,1,2,"I, I  (()) looking at them (()) .","[I/PRP,
 K/KC/KC5.xml,KC5RE001,9702,2,,B,2,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KC5.xml,KC5RE001,9702,3,,A,3,1,They look big enough don't they?,"[They/PRP, look/VBP, big/JJ, enough/JJ, don/NNP, 't/PRP, they/PRP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP look) (S (NP (JJ big) (JJ enough)) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP they)))))) (. ?)))
 K/KC/KC5.xml,KC5RE001,9702,4,,B,4,1,Yeah ,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
-K/KC/KC5.xml,KC5RE001,9702,5,,A,5,1,(()) ,[],X
+K/KC/KC5.xml,KC5RE001,9702,5,,A,5,1,(()) ,[],
 K/KC/KC5.xml,KC5RE001,9702,6,,B,6,1,"Yeah, alright then.","[Yeah/UH, ,/,, alright/JJ, then/RB, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (ADVP (JJ alright)) (RB then)) (. .)))"
 K/KC/KC5.xml,KC5RE001,9702,7,,A,7,1,I'll see you later on.,"[I/PRP, 'll/MD, see/VB, you/PRP, later/RB, on/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (PRP you)) (ADVP (RB later) (RB on)))) (. .)))

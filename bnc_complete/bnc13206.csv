@@ -16,10 +16,10 @@ K/KD/KDA.xml,KDARE02W,13206,13,,B,2,9,Its not like were a separate division or a
 K/KD/KDA.xml,KDARE02W,13206,14,,B,2,10,No see British Aerospace there  (()) ,"[No/DT, see/VBP, British/JJ, Aerospace/NN, there/EX]",(ROOT (S (NP (DT No)) (VP (VBP see) (S (NP (JJ British) (NN Aerospace)) (NP (EX there))))))
 K/KD/KDA.xml,KDARE02W,13206,15,,B,2,11,still got to lay off  (()) ,"[still/RB, got/VBN, to/TO, lay/VB, off/RP]",(ROOT (VP (ADVP (RB still)) (VBN got) (S (VP (TO to) (VP (VB lay) (PRT (RP off)))))))
 K/KD/KDA.xml,KDARE02W,13206,16,,B,2,12,"military division, erm, like  (()) actually run similar businesses, these aren't lower (()) ","[military/JJ, division/NN, ,/,, erm/NN, ,/,, like/IN, actually/RB, run/VBP, similar/JJ, businesses/NNS, ,/,, these/DT, aren/NNP, 't/PRP, lower/JJR]","(ROOT (S (NP (NP (NP (JJ military) (NN division)) (, ,) (NP (NN erm)) (, ,)) (PP (IN like) (ADVP (RB actually)))) (VP (VBP run) (S (NP (NP (JJ similar) (NNS businesses)) (, ,) (NP (DT these) (NNP aren))) (ADJP (NP (PRP 't)) (JJR lower))))))"
-K/KD/KDA.xml,KDARE02W,13206,17,,B,2,13,(()) ,[],X
+K/KD/KDA.xml,KDARE02W,13206,17,,B,2,13,(()) ,[],
 K/KD/KDA.xml,KDARE02W,13206,18,,B,2,14,"(()) like the same thing, its not Military Division P L C","[like/IN, the/DT, same/JJ, thing/NN, ,/,, its/PRP$, not/RB, Military/JJ, Division/NN, P/NN, L/NN, C/NN]","(ROOT (PP (IN like) (NP (NP (DT the) (JJ same) (NN thing)) (, ,) (NP (NP (PRP$ its) (RB not) (JJ Military) (NN Division)) (NP (NN P) (NN L) (NN C))))))"
 K/KD/KDA.xml,KDARE02W,13206,19,,B,2,15,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
 K/KD/KDA.xml,KDARE02W,13206,20,,B,2,16,Or  (()) Division P L C or whatever,"[Or/CC, Division/NN, P/NN, L/NN, C/NN, or/CC, whatever/WDT]",(ROOT (NP (NP (CC Or) (NN Division)) (NP (NP (NN P) (NN L) (NN C)) (PP (CC or) (NP (WDT whatever))))))
-K/KD/KDA.xml,KDARE02W,13206,21,,B,2,17,(()) ,[],X
+K/KD/KDA.xml,KDARE02W,13206,21,,B,2,17,(()) ,[],
 K/KD/KDA.xml,KDARE02W,13206,22,,B,2,18,they've still got eighteen hours overtime a week,"[they/PRP, 've/VBP, still/RB, got/VBN, eighteen/CD, hours/NNS, overtime/RB, a/DT, week/NN]",(ROOT (S (NP (PRP they)) (VP (VBP 've) (ADVP (RB still)) (VP (VBN got) (NP (CD eighteen) (NNS hours)) (ADVP (RB overtime)) (NP (DT a) (NN week))))))
 K/KD/KDA.xml,KDARE02W,13206,23,,B,2,19,"What,(()) .","[What/WP, ,/,, ./.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (, ,))) (. .)))"

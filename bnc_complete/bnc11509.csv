@@ -10,7 +10,7 @@ K/KD/KDA.xml,KDARE008,11509,7,,B,6,1,Quarter too.,"[Quarter/NN, too/RB, ./.]",(R
 K/KD/KDA.xml,KDARE008,11509,8,,B,6,2,(()) .,[./.],(ROOT (NP (. .)))
 K/KD/KDA.xml,KDARE008,11509,9,,A,7,1,"Oh right, we can go out.","[Oh/UH, right/RB, ,/,, we/PRP, can/MD, go/VB, out/RP, ./.]","(ROOT (FRAG (VP (PP (NP (UH Oh)) (NP (NP (ADJP (RB right))) (, ,) (NP (PRP we)))) (MD can) (VP (VB go) (FRAG (ADVP (RP out)) (. .))))))"
 K/KD/KDA.xml,KDARE008,11509,10,,B,8,1,"Oh fucking hell,(()) .","[Oh/UH, fucking/VBG, hell/NN, ,/,, ./.]","(ROOT (INTJ (UH Oh) (PP (VBG fucking) (NP (NP (NN hell)) (, ,))) (. .)))"
-K/KD/KDA.xml,KDARE008,11509,11,,B,8,2,(()) ,[],X
+K/KD/KDA.xml,KDARE008,11509,11,,B,8,2,(()) ,[],
 K/KD/KDA.xml,KDARE008,11509,12,,B,8,3,I know some guy still takes snuff every now and again.,"[I/PRP, know/VBP, some/DT, guy/NN, still/RB, takes/VBZ, snuff/NN, every/DT, now/RB, and/CC, again/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (DT some) (NN guy)) (ADVP (RB still)) (VP (VBZ takes) (NP (NN snuff)) (ADVP (DT every) (RB now) (CC and) (RB again)))))) (. .)))
 K/KD/KDA.xml,KDARE008,11509,13,,A,9,1,What's it made off this snuff?,"[What/WP, 's/VBZ, it/PRP, made/VBD, off/RP, this/DT, snuff/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (PRP it)) (VP (VBD made) (PRT (RP off)) (NP (DT this) (NN snuff)))) (. ?)))
 K/KD/KDA.xml,KDARE008,11509,14,,B,10,1,Clears the nose don't it?,"[Clears/VBZ, the/DT, nose/NN, don/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (S (VP (VBZ Clears) (S (NP (DT the) (NN nose)) (VP (NNP don) (S (NP (PRP 't)) (NP (PRP it)))))) (. ?)))

@@ -12,9 +12,9 @@ K/KD/KDU.xml,KDURE00C,46413,9,,B,10,1,"Alright, for how many?","[Alright/NNP, ,/
 K/KD/KDU.xml,KDURE00C,46413,10,,A,11,1,Er for five,"[Er/NN, for/IN, five/CD]",(ROOT (NP (NP (NN Er)) (PP (IN for) (NP (CD five)))))
 K/KD/KDU.xml,KDURE00C,46413,11,,B,12,1,For five and the name is?,"[For/IN, five/CD, and/CC, the/DT, name/NN, is/VBZ, ?/.]",(ROOT (S (IN For) (NP (NP (CD five)) (CC and) (NP (DT the) (NN name))) (VP (VBZ is)) (. ?)))
 K/KD/KDU.xml,KDURE00C,46413,12,,A,13,1,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDU.xml,KDURE00C,46413,13,,A,13,2,<spelling> ,[],X
+K/KD/KDU.xml,KDURE00C,46413,13,,A,13,2,<spelling> ,[],
 K/KD/KDU.xml,KDURE00C,46413,14,,A,13,3,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDU.xml,KDURE00C,46413,15,,A,13,4,</spelling> ,[],X
+K/KD/KDU.xml,KDURE00C,46413,15,,A,13,4,</spelling> ,[],
 K/KD/KDU.xml,KDURE00C,46413,16,,B,14,1,That's lovely we'll see you on Easter Tuesday,"[That/DT, 's/VBZ, lovely/JJ, we/PRP, 'll/MD, see/VB, you/PRP, on/IN, Easter/NNP, Tuesday/NNP]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ lovely) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB see) (NP (PRP you)) (PP (IN on) (NP (NNP Easter) (NNP Tuesday)))))))))))
 K/KD/KDU.xml,KDURE00C,46413,17,,A,15,1,That's great thank you very much indeed ,"[That/DT, 's/VBZ, great/JJ, thank/VB, you/PRP, very/RB, much/RB, indeed/RB]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ great)) (S (VP (VB thank) (S (NP (PRP you)) (ADJP (RB very) (RB much)) (ADVP (RB indeed))))))))
 K/KD/KDU.xml,KDURE00C,46413,18,,B,16,1,"Okay, much obliged bye bye","[Okay/UH, ,/,, much/JJ, obliged/JJ, bye/NN, bye/NN]","(ROOT (FRAG (INTJ (UH Okay)) (, ,) (ADVP (JJ much)) (NP (JJ obliged) (NN bye) (NN bye))))"

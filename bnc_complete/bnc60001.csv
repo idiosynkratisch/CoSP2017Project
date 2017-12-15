@@ -69,7 +69,7 @@ K/KB/KB1.xml,KB1RE007,60001,66,,A,41,1,"Right then, I'll get off home and er  --
 K/KB/KB1.xml,KB1RE007,60001,67,,A,41,2,--see what's what.,"[Right/JJ, then/RB, ,/,, I/PRP, 'll/MD, get/VB, off/RP, home/NN, and/CC, er/NN, see/VBP, what/WP, 's/VBZ, what/WP, ./.]","(ROOT (FRAG (ADJP (JJ Right)) (S (ADVP (RB then)) (, ,) (S (NP (PRP I)) (VP (MD 'll) (VP (VB get) (PRT (RP off)) (NP (NN home))))) (CC and) (S (NP (NN er)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (WHNP (WP what)))))))) (. .)))"
 K/KB/KB1.xml,KB1RE007,60001,68,,B,42,1,Alright.,"[Alright/NNP, ./.]",(ROOT (FRAG (NP (NNP Alright)) (. .)))
 K/KB/KB1.xml,KB1RE007,60001,69,,A,43,1,But she never said.,"[But/CC, she/PRP, never/RB, said/VBD, ./.]",(ROOT (S (CC But) (NP (PRP she)) (ADVP (RB never)) (VP (VBD said)) (. .)))
-K/KB/KB1.xml,KB1RE007,60001,70,,B,44,1,(()) ,[],X
+K/KB/KB1.xml,KB1RE007,60001,70,,B,44,1,(()) ,[],
 K/KB/KB1.xml,KB1RE007,60001,71,,A,45,1,She never bloody said!,"[She/PRP, never/RB, bloody/JJ, said/VBD, !/.]",(ROOT (S (NP (NP (PRP She)) (ADJP (ADVP (RB never)) (JJ bloody))) (VP (VBD said)) (. !)))
 K/KB/KB1.xml,KB1RE007,60001,72,,A,45,2,Cos she always does bugger you know!,"[Cos/NN, she/PRP, always/RB, does/VBZ, bugger/NN, you/PRP, know/VBP, !/.]",(ROOT (FRAG (ADJP (NN Cos)) (S (NP (PRP she)) (ADVP (RB always)) (VP (VBZ does) (NP (NP (NN bugger)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))) (. !)))
 K/KB/KB1.xml,KB1RE007,60001,73,,A,45,3,The tight bugger!,"[The/DT, tight/JJ, bugger/NN, !/.]",(ROOT (NP (DT The) (JJ tight) (NN bugger) (. !)))

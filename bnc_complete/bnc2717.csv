@@ -12,5 +12,5 @@ K/KB/KBK.xml,KBKRE058,2717,9,,A,7,2,I'm going to get the line in  (()) two balls
 K/KB/KBK.xml,KBKRE058,2717,10,,B,8,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE058,2717,11,,A,9,1,"Then eh,(()) on the ball's (()) .","[Then/RB, eh/UH, ,/,, on/IN, the/DT, ball/NN, 's/POS, ./.]","(ROOT (S (VP (PP (RB Then) (FRAG (INTJ (UH eh)) (, ,) (PP (IN on) (NP (DT the) (NN ball) (POS 's)))))) (. .)))"
 K/KB/KBK.xml,KBKRE058,2717,12,,B,10,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE058,2717,13,,A,11,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE058,2717,13,,A,11,1,(()) ,[],
 K/KB/KBK.xml,KBKRE058,2717,14,,B,12,1,"Yes, yes.","[Yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH yes) (. .))))"

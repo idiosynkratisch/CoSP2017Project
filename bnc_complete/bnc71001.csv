@@ -8,7 +8,7 @@ K/KD/KDR.xml,KDRRE000,71001,5,,B,6,1,"<cough> Never mind, aids with that?","[Nev
 K/KD/KDR.xml,KDRRE000,71001,6,,A,7,1,"Erm, no","[Erm/NN, ,/,, no/DT]","(ROOT (NP (NP (NN Erm)) (, ,) (NP (DT no))))"
 K/KD/KDR.xml,KDRRE000,71001,7,,B,8,1,Are they competing if they've got aids?,"[Are/VBP, they/PRP, competing/VBG, if/IN, they/PRP, 've/VBP, got/VBN, aids/NN, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP they)) (VP (VBG competing) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN got) (NP (NN aids))))))) (. ?)))
 K/KD/KDR.xml,KDRRE000,71001,8,,A,9,1,"that's, yes, hmm, that's carpet bowls with guttering it's not ","[that/DT, 's/VBZ, ,/,, yes/UH, ,/,, hmm/NN, ,/,, that/DT, 's/VBZ, carpet/NN, bowls/VBZ, with/IN, guttering/VBG, it/PRP, 's/VBZ, not/RB]","(ROOT (S (NP (DT that)) (VP (VBZ 's) (, ,) (S (INTJ (UH yes)) (, ,) (NP (NN hmm)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (NP (NN carpet)) (SBAR (S (VP (VBZ bowls) (PP (IN with) (S (VP (VBG guttering) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not))))))))))))))))"
-K/KD/KDR.xml,KDRRE000,71001,9,,B,10,1,<laugh> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,9,,B,10,1,<laugh> ,[],
 K/KD/KDR.xml,KDRRE000,71001,10,,A,11,1,it's not with aids as you said,"[it/PRP, 's/VBZ, not/RB, with/IN, aids/NN, as/IN, you/PRP, said/VBD]",(ROOT (S (NP (PRP it)) (VP (VBZ 's) (RB not) (PP (IN with) (NP (NN aids))) (SBAR (IN as) (S (NP (PRP you)) (VP (VBD said)))))))
 K/KD/KDR.xml,KDRRE000,71001,11,,B,12,1,Carpet bowls with guttering oh good  <clears throat> so you want for example Elaine  <<REDACTED (name)>> W one,"[Carpet/NN, bowls/VBZ, with/IN, guttering/VBG, oh/UH, good/JJ, so/IN, you/PRP, want/VBP, for/IN, example/NN, Elaine/NNP, >/JJR, W/NN, one/CD]",(ROOT (SINV (FRAG (NP (NN Carpet))) (VP (VBZ bowls) (PP (IN with) (S (VP (VBG guttering) (NP (INTJ (UH oh)) (NP (JJ good)))))) (SBAR (IN so) (S (NP (PRP you)) (VP (VBP want) (PP (IN for) (NP (NP (NN example) (NNP Elaine)) (ADJP (JJR >) (NN W)))))))) (NP (CD one))))
 K/KD/KDR.xml,KDRRE000,71001,12,,A,13,1,and then there's ,"[and/CC, then/RB, there/EX, 's/POS]",(ROOT (FRAG (CC and) (NP (NP (RB then)) (SBAR (S (NP (EX there)) (VP (POS 's)))))))
@@ -30,7 +30,7 @@ K/KD/KDR.xml,KDRRE000,71001,27,,B,26,1,Oh got the wrong one ,"[Oh/UH, got/VBD, t
 K/KD/KDR.xml,KDRRE000,71001,28,,A,27,1,You're not the only one.,"[You/PRP, 're/VBP, not/RB, the/DT, only/JJ, one/CD, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (RB not) (NP (DT the) (JJ only) (CD one))) (. .)))
 K/KD/KDR.xml,KDRRE000,71001,29,,B,28,1,which one is it?,"[which/WDT, one/NN, is/VBZ, it/PRP, ?/.]",(ROOT (SBARQ (WHNP (WDT which) (NN one)) (SQ (VBZ is) (NP (PRP it))) (. ?)))
 K/KD/KDR.xml,KDRRE000,71001,30,,A,29,1,Which one's that then?,"[Which/WDT, one/PRP, 's/VBZ, that/IN, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WDT Which) (NP (PRP one))) (SQ (VBZ 's) (ADJP (IN that) (ADVP (RB then)))) (. ?)))
-K/KD/KDR.xml,KDRRE000,71001,31,,B,30,1,(()) ,[],X
+K/KD/KDR.xml,KDRRE000,71001,31,,B,30,1,(()) ,[],
 K/KD/KDR.xml,KDRRE000,71001,32,,A,31,1,Oh dear  --,"[Oh/UH, dear/RB, right/RB, ,/,, I/PRP, haven/NN, 't/PRP, put/VBD, here/RB, 's/VBZ, the/DT, darts/NN, ,/,, darts/NN, ambulance/NN, you/PRP, have/VBP, ,/,, have/VBP, to/TO, give/VB, me/PRP, the/DT, name/NN, ,/,, the/DT, classification/NN, and/CC, club/NN]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (S (ADJP (ADJP (RB dear)) (SBAR (UCP (ADJP (RB right)) (, ,) (NP (NP (PRP I)) (NP (NN haven)))) (S (NP (PRP 't)) (VP (VBD put) (SBAR (S (NP (RB here)) (VP (VBZ 's) (NP (NP (DT the) (NN darts)) (, ,) (NP (NP (NN darts) (NN ambulance)) (SBAR (S (NP (PRP you)) (VP (VBP have)))))))))))))) (, ,) (VP (VBP have) (S (VP (TO to) (VP (VB give) (NP (PRP me)) (NP (NP (DT the) (NN name)) (, ,) (NP (DT the)))))))) (NP (NN classification) (CC and) (NN club))))"
 K/KD/KDR.xml,KDRRE000,71001,33,,A,31,2,"--right, I haven't put  (()) here's the darts, darts ambulance  --","[Oh/UH, dear/RB, right/RB, ,/,, I/PRP, haven/NN, 't/PRP, put/VBD, here/RB, 's/VBZ, the/DT, darts/NN, ,/,, darts/NN, ambulance/NN, you/PRP, have/VBP, ,/,, have/VBP, to/TO, give/VB, me/PRP, the/DT, name/NN, ,/,, the/DT, classification/NN, and/CC, club/NN]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (S (ADJP (ADJP (RB dear)) (SBAR (UCP (ADJP (RB right)) (, ,) (NP (NP (PRP I)) (NP (NN haven)))) (S (NP (PRP 't)) (VP (VBD put) (SBAR (S (NP (RB here)) (VP (VBZ 's) (NP (NP (DT the) (NN darts)) (, ,) (NP (NP (NN darts) (NN ambulance)) (SBAR (S (NP (PRP you)) (VP (VBP have)))))))))))))) (, ,) (VP (VBP have) (S (VP (TO to) (VP (VB give) (NP (PRP me)) (NP (NP (DT the) (NN name)) (, ,) (NP (DT the)))))))) (NP (NN classification) (CC and) (NN club))))"
 K/KD/KDR.xml,KDRRE000,71001,34,,A,31,3,"--you have, have to give me the name, the classification and  --","[Oh/UH, dear/RB, right/RB, ,/,, I/PRP, haven/NN, 't/PRP, put/VBD, here/RB, 's/VBZ, the/DT, darts/NN, ,/,, darts/NN, ambulance/NN, you/PRP, have/VBP, ,/,, have/VBP, to/TO, give/VB, me/PRP, the/DT, name/NN, ,/,, the/DT, classification/NN, and/CC, club/NN]","(ROOT (SINV (FRAG (INTJ (UH Oh))) (VP (S (ADJP (ADJP (RB dear)) (SBAR (UCP (ADJP (RB right)) (, ,) (NP (NP (PRP I)) (NP (NN haven)))) (S (NP (PRP 't)) (VP (VBD put) (SBAR (S (NP (RB here)) (VP (VBZ 's) (NP (NP (DT the) (NN darts)) (, ,) (NP (NP (NN darts) (NN ambulance)) (SBAR (S (NP (PRP you)) (VP (VBP have)))))))))))))) (, ,) (VP (VBP have) (S (VP (TO to) (VP (VB give) (NP (PRP me)) (NP (NP (DT the) (NN name)) (, ,) (NP (DT the)))))))) (NP (NN classification) (CC and) (NN club))))"
@@ -42,7 +42,7 @@ K/KD/KDR.xml,KDRRE000,71001,39,,A,35,1,rattle that through,"[rattle/VB, that/IN,
 K/KD/KDR.xml,KDRRE000,71001,40,,B,36,1,"mm, thank you  --","[mm/NN, ,/,, thank/VB, you/PRP, right/RB]","(ROOT (S (NP (NP (NN mm)) (VP (, ,) (S (VP (VB thank) (S (NP (PRP you)) (ADJP (RB right)))))))))"
 K/KD/KDR.xml,KDRRE000,71001,41,,B,36,2,--right,"[mm/NN, ,/,, thank/VB, you/PRP, right/RB]","(ROOT (S (NP (NP (NN mm)) (VP (, ,) (S (VP (VB thank) (S (NP (PRP you)) (ADJP (RB right)))))))))"
 K/KD/KDR.xml,KDRRE000,71001,42,,A,37,1,"right, er, I've got my pad here, is that ","[right/NN, ,/,, er/NN, ,/,, I/PRP, 've/VBP, got/VBD, my/PRP$, pad/NN, here/RB, ,/,, is/VBZ, that/IN]","(ROOT (S (NP (NP (NN right)) (, ,) (NP (NN er)) (PRN (, ,) (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (PRP$ my) (NN pad)) (ADVP (RB here))))) (, ,))) (VP (VBZ is) (ADJP (IN that)))))"
-K/KD/KDR.xml,KDRRE000,71001,43,,B,38,1,(()) ,[],X
+K/KD/KDR.xml,KDRRE000,71001,43,,B,38,1,(()) ,[],
 K/KD/KDR.xml,KDRRE000,71001,44,,A,39,1,there's that sheet and there's all this lot  --,"[there/EX, 's/VBZ, that/DT, sheet/NN, and/CC, there/EX, 's/VBZ, all/PDT, this/DT, lot/NN, for/IN, each/DT, classification/NN]",(ROOT (NP (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sheet)))) (CC and) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (PDT all) (DT this) (NN lot)) (PP (IN for) (NP (DT each) (NN classification)))))))))
 K/KD/KDR.xml,KDRRE000,71001,45,,A,39,2,--for each classification,"[there/EX, 's/VBZ, that/DT, sheet/NN, and/CC, there/EX, 's/VBZ, all/PDT, this/DT, lot/NN, for/IN, each/DT, classification/NN]",(ROOT (NP (S (S (NP (EX there)) (VP (VBZ 's) (NP (DT that) (NN sheet)))) (CC and) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (PDT all) (DT this) (NN lot)) (PP (IN for) (NP (DT each) (NN classification)))))))))
 K/KD/KDR.xml,KDRRE000,71001,46,,B,40,1,<clears throat> Wonderful ,[Wonderful/JJ],(ROOT (FRAG (JJ Wonderful)))
@@ -262,19 +262,19 @@ K/KD/KDR.xml,KDRRE000,71001,259,,B,228,1,"Liz  <<REDACTED (name)>> S, S three","
 K/KD/KDR.xml,KDRRE000,71001,260,,A,229,1,yes,[yes/UH],(ROOT (INTJ (UH yes)))
 K/KD/KDR.xml,KDRRE000,71001,261,,B,230,1,Mildred  <<REDACTED (name)>> S five,"[Mildred/NNP, >/JJR, S/NNS, five/CD]",(ROOT (NP (NP (NNP Mildred)) (NP (JJR >) (NNS S)) (NP (CD five))))
 K/KD/KDR.xml,KDRRE000,71001,262,,A,231,1,is that   <spelling> <<REDACTED (name)>> </spelling> ?,"[is/VBZ, that/IN, >/JJR, ?/.]",(ROOT (S (VP (VBZ is) (ADVP (IN that)) (ADJP (JJR >))) (. ?)))
-K/KD/KDR.xml,KDRRE000,71001,263,,B,232,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,263,,B,232,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,264,,B,232,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,265,,B,232,3,</spelling> ,[],X
-K/KD/KDR.xml,KDRRE000,71001,266,,A,233,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,265,,B,232,3,</spelling> ,[],
+K/KD/KDR.xml,KDRRE000,71001,266,,A,233,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,267,,A,233,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,268,,A,233,3,</spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,268,,A,233,3,</spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,269,,B,234,1,Mm,[Mm/NN],(ROOT (NP (NN Mm)))
-K/KD/KDR.xml,KDRRE000,71001,270,,A,235,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,270,,A,235,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,271,,A,235,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,272,,A,235,3,</spelling> ,[],X
-K/KD/KDR.xml,KDRRE000,71001,273,,B,236,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,272,,A,235,3,</spelling> ,[],
+K/KD/KDR.xml,KDRRE000,71001,273,,B,236,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,274,,B,236,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,275,,B,236,3,</spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,275,,B,236,3,</spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,276,,A,237,1,that's right,"[that/DT, 's/VBZ, right/NN]",(ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NN right)))))
 K/KD/KDR.xml,KDRRE000,71001,277,,B,238,1,Cathy  <<REDACTED (name)>> W one,"[Cathy/NNP, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NNP Cathy)) (NP (JJR >) (NN W)) (NP (CD one))))
 K/KD/KDR.xml,KDRRE000,71001,278,,A,239,1,er  --,"[er/NN, yes/RB]",(ROOT (FRAG (NP (NN er) (RB yes))))
@@ -285,9 +285,9 @@ K/KD/KDR.xml,KDRRE000,71001,282,,B,242,1,Jean  <<REDACTED (name)>> W five,"[Jean
 K/KD/KDR.xml,KDRRE000,71001,283,,A,243,1,yes ,[yes/UH],(ROOT (INTJ (UH yes)))
 K/KD/KDR.xml,KDRRE000,71001,284,,B,244,1,Peter <<REDACTED (name)>> ,"[Peter/NNP, >/JJR]",(ROOT (NP (NP (NNP Peter)) (NP (JJR >))))
 K/KD/KDR.xml,KDRRE000,71001,285,,A,245,1,<spelling> <<REDACTED (name)>> </spelling> is that?,"[>/JJR, is/VBZ, that/IN, ?/.]",(ROOT (S (NP (JJR >)) (VP (VBZ is) (ADJP (IN that))) (. ?)))
-K/KD/KDR.xml,KDRRE000,71001,286,,B,246,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,286,,B,246,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,287,,B,246,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,288,,B,246,3,</spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,288,,B,246,3,</spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,289,,A,247,1,Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KD/KDR.xml,KDRRE000,71001,290,,B,248,1,S three ,"[S/NNS, three/CD]",(ROOT (NP (NP (NNS S)) (NP (CD three))))
 K/KD/KDR.xml,KDRRE000,71001,291,,A,249,1,three ,[three/CD],(ROOT (FRAG (NP (CD three))))
@@ -465,7 +465,7 @@ K/KD/KDR.xml,KDRRE000,71001,462,,A,401,1,"She, see if there's a Val  <<REDACTED 
 K/KD/KDR.xml,KDRRE000,71001,463,,A,401,2,"--that's the afternoon ones, right I'll add her on Val  <<REDACTED (name)>> ","[She/PRP, ,/,, see/VB, if/IN, there/EX, 's/VBZ, a/DT, Val/NN, >/JJR, anywhere/RB, else/RB, that/DT, 's/VBZ, the/DT, afternoon/NN, ones/NNS, ,/,, right/RB, I/PRP, 'll/MD, add/VB, her/PRP$, on/IN, Val/NN, >/JJR]","(ROOT (S (NP (PRP She)) (, ,) (S (VP (VB see) (SBAR (IN if) (S (NP (EX there)) (VP (VBZ 's) (ADJP (ADJP (NP (DT a) (NN Val)) (JJR >)) (ADVP (RB anywhere) (RB else)) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (NP (DT the) (NN afternoon) (NNS ones))))))))))) (, ,) (NP (ADJP (RB right)) (NP (PRP I))) (VP (MD 'll) (VP (VB add) (NP (PRP$ her)) (PP (IN on) (NP (NP (NN Val)) (ADJP (JJR >))))))))"
 K/KD/KDR.xml,KDRRE000,71001,464,,B,402,1,"Yes, and then it's Helen <<REDACTED (name)>> ","[Yes/UH, ,/,, and/CC, then/RB, it/PRP, 's/VBZ, Helen/NNP, >/JJR]","(ROOT (S (INTJ (UH Yes)) (, ,) (NP (CC and)) (ADVP (RB then)) (VP (ADVP (PRP it)) (VBZ 's) (NP (NP (NNP Helen)) (ADJP (JJR >))))))"
 K/KD/KDR.xml,KDRRE000,71001,465,,A,403,1,H W D,"[H/NN, W/NN, D/NN]",(ROOT (NP (NP (NN H)) (NP (NN W) (NN D))))
-K/KD/KDR.xml,KDRRE000,71001,466,,B,404,1,<cough> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,466,,B,404,1,<cough> ,[],
 K/KD/KDR.xml,KDRRE000,71001,467,,A,405,1,what's she?,"[what/WP, 's/VBZ, she/PRP, ?/.]",(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (NP (PRP she))) (. ?)))
 K/KD/KDR.xml,KDRRE000,71001,468,,B,406,1,V H ,"[V/NNP, H/NNP]",(ROOT (NP (NNP V) (NNP H)))
 K/KD/KDR.xml,KDRRE000,71001,469,,A,407,1,And another one?,"[And/CC, another/DT, one/CD, ?/.]",(ROOT (FRAG (CC And) (NP (NP (DT another)) (NP (CD one))) (. ?)))
@@ -486,9 +486,9 @@ K/KD/KDR.xml,KDRRE000,71001,483,,B,418,1,Joe  <<REDACTED (name)>> W three ,"[Joe
 K/KD/KDR.xml,KDRRE000,71001,484,,A,419,1,yes,[yes/UH],(ROOT (INTJ (UH yes)))
 K/KD/KDR.xml,KDRRE000,71001,485,,B,420,1,Sidney <<REDACTED (name)>> ,"[Sidney/NNP, >/JJR]",(ROOT (NP (NP (NNP Sidney)) (NP (JJR >))))
 K/KD/KDR.xml,KDRRE000,71001,486,,A,421,1,yes ,[yes/UH],(ROOT (INTJ (UH yes)))
-K/KD/KDR.xml,KDRRE000,71001,487,,B,422,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,487,,B,422,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,488,,B,422,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,489,,B,422,3,</spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,489,,B,422,3,</spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,490,,A,423,1,S one A,"[S/NNS, one/CD, A/DT]",(ROOT (FRAG (NP (NP (NNS S)) (NP (QP (CD one)) (DT A)))))
 K/KD/KDR.xml,KDRRE000,71001,491,,B,424,1,"S one A, there's a question mark on S one A","[S/NNS, one/CD, A/DT, ,/,, there/EX, 's/VBZ, a/DT, question/NN, mark/NN, on/IN, S/NNS, one/CD, A/DT]","(ROOT (NP (NP (NP (QP (NNS S) (CD one)) (DT A)) (PRN (, ,) (S (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN question) (NN mark)))))) (PP (IN on) (NP (QP (NNS S) (CD one)) (DT A)))))"
 K/KD/KDR.xml,KDRRE000,71001,492,,A,425,1,oh leave it,"[oh/UH, leave/VB, it/PRP]",(ROOT (FRAG (INTJ (UH oh)) (VB leave) (NP (PRP it))))
@@ -506,7 +506,7 @@ K/KD/KDR.xml,KDRRE000,71001,503,,A,435,1,Yes  --,"[Yes/UH, I/PRP, 've/VBP, got/V
 K/KD/KDR.xml,KDRRE000,71001,504,,A,435,2,--I've got Wililiam here,"[Yes/UH, I/PRP, 've/VBP, got/VBN, Wililiam/NN, here/RB]",(ROOT (SINV (FRAG (INTJ (UH Yes))) (VP (ADVP (PRP I)) (VBP 've) (VP (VBN got) (NP (NN Wililiam)))) (NP (RB here))))
 K/KD/KDR.xml,KDRRE000,71001,505,,B,436,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KD/KDR.xml,KDRRE000,71001,506,,B,436,2,Wililiam ,[Wililiam/NN],(ROOT (NP (NN Wililiam)))
-K/KD/KDR.xml,KDRRE000,71001,507,,A,437,1,<laugh> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,507,,A,437,1,<laugh> ,[],
 K/KD/KDR.xml,KDRRE000,71001,508,,B,438,1,"Hurst Welfare again, the Hurst Welfare","[Hurst/NNP, Welfare/NNP, again/RB, ,/,, the/DT, Hurst/NNP, Welfare/NNP]","(ROOT (NP (NP (NNP Hurst)) (NP (NP (NP (NNP Welfare)) (ADVP (RB again))) (, ,) (NP (DT the) (NNP Hurst) (NNP Welfare)))))"
 K/KD/KDR.xml,KDRRE000,71001,509,,A,439,1,"Right, what are we on now?","[Right/NN, ,/,, what/WP, are/VBP, we/PRP, on/IN, now/RB, ?/.]","(ROOT (SBARQ (NP (NN Right)) (, ,) (WHNP (WP what)) (SQ (VBP are) (NP (PRP we)) (PP (IN on) (NP (RB now)))) (. ?)))"
 K/KD/KDR.xml,KDRRE000,71001,510,,B,440,1,Alf   <<REDACTED (name)>> --,"[Alf/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Alf)) (NP (JJR >) (NNS S)) (NP (CD one))))
@@ -545,14 +545,14 @@ K/KD/KDR.xml,KDRRE000,71001,542,,A,467,1,"oh, oh, oh, er, Graham    <spelling> <
 K/KD/KDR.xml,KDRRE000,71001,543,,B,468,1,"well it looks like an E, but it must be a G","[well/RB, it/PRP, looks/VBZ, like/IN, an/DT, E/NN, ,/,, but/CC, it/PRP, must/MD, be/VB, a/DT, G/NN]","(ROOT (FRAG (S (S (ADVP (RB well)) (NP (PRP it)) (VP (VBZ looks) (PP (IN like) (NP (DT an) (NN E))))) (, ,) (CC but) (S (NP (PRP it)) (VP (MD must) (VP (VB be) (NP (DT a) (NN G))))))))"
 K/KD/KDR.xml,KDRRE000,71001,544,,A,469,1,Not necessarily,"[Not/RB, necessarily/RB]",(ROOT (FRAG (RB Not) (ADVP (RB necessarily))))
 K/KD/KDR.xml,KDRRE000,71001,545,,B,470,1,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,546,,A,471,1,(()) ,[],X
+K/KD/KDR.xml,KDRRE000,71001,546,,A,471,1,(()) ,[],
 K/KD/KDR.xml,KDRRE000,71001,547,,B,472,1,"mm, well yeah I suppose it could be, yeah I suppose it could be   <spelling> <<REDACTED (name)>> </spelling> ","[mm/NN, ,/,, well/RB, yeah/UH, I/PRP, suppose/VBP, it/PRP, could/MD, be/VB, ,/,, yeah/UH, I/PRP, suppose/VBP, it/PRP, could/MD, be/VB, >/JJR]","(ROOT (S (NP (NP (NP (NN mm)) (, ,) (ADVP (RB well))) (SBAR (S (INTJ (UH yeah)) (NP (PRP I)) (VP (VBP suppose) (NP (PRP it)))))) (VP (MD could) (VP (VB be) (, ,) (SBAR (S (INTJ (UH yeah)) (NP (PRP I)) (VP (VBP suppose) (SBAR (S (NP (PRP it)) (VP (MD could) (VP (VB be) (ADJP (JJR >)))))))))))))"
-K/KD/KDR.xml,KDRRE000,71001,548,,A,473,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,548,,A,473,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,549,,A,473,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,550,,A,473,3,</spelling> ,[],X
-K/KD/KDR.xml,KDRRE000,71001,551,,B,474,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,550,,A,473,3,</spelling> ,[],
+K/KD/KDR.xml,KDRRE000,71001,551,,B,474,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,552,,B,474,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,553,,B,474,3,</spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,553,,B,474,3,</spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,554,,A,475,1,"<spelling> <<REDACTED (name)>> </spelling> mm, maybe I've got it wrong there as well, alright, okay, carry on","[>/JJR, mm/NN, ,/,, maybe/RB, I/PRP, 've/VBP, got/VBD, it/PRP, wrong/JJ, there/RB, as/RB, well/RB, ,/,, alright/JJ, ,/,, okay/JJ, ,/,, carry/VB, on/RP]","(ROOT (S (NP (NP (JJR >) (NN mm)) (, ,) (FRAG (RB maybe) (NP (PRP I)))) (VP (VBP 've) (VP (VBD got) (ADJP (ADJP (NP (PRP it)) (JJ wrong)) (ADVP (RB there) (RB as) (RB well)) (, ,) (ADJP (JJ alright)) (, ,) (ADJP (JJ okay))) (, ,) (VP (VB carry) (PRT (RP on)))))))"
 K/KD/KDR.xml,KDRRE000,71001,555,,B,476,1,Susan  <<REDACTED (name)>> S three..,"[Susan/NNP, >/JJR, S/NNS, three/CD, ./., ./.]",(ROOT (NP (NP (NNP Susan)) (NP (NP (JJR >) (NNS S)) (SBAR (S (NP (CD three) (. .))))) (. .)))
 K/KD/KDR.xml,KDRRE000,71001,556,,A,477,1,"do, do, yes, got her","[do/VB, ,/,, do/VB, ,/,, yes/UH, ,/,, got/VBD, her/PRP$]","(ROOT (S (VP (VP (VB do)) (, ,) (VP (VB do) (, ,) (INTJ (UH yes)) (, ,) (S (VP (VBD got) (NP (PRP$ her))))))))"
@@ -603,9 +603,9 @@ K/KD/KDR.xml,KDRRE000,71001,600,,B,516,2,--Evelyn  <<REDACTED (name)>> S four ,"
 K/KD/KDR.xml,KDRRE000,71001,601,,A,517,1,Yes,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KD/KDR.xml,KDRRE000,71001,602,,B,518,1,Paul  <<REDACTED (name)>> visually handicapped,"[Paul/NNP, >/JJR, visually/RB, handicapped/JJ]",(ROOT (NP (NP (NNP Paul)) (NP (NP (JJR >)) (ADJP (RB visually) (JJ handicapped)))))
 K/KD/KDR.xml,KDRRE000,71001,603,,A,519,1,<spelling> <<REDACTED (name)>> </spelling> oh it's    <spelling> <<REDACTED (name)>> </spelling> isn't it?,"[>/JJR, oh/UH, it/PRP, 's/VBZ, >/JJR, isn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (FRAG (NP (NP (JJR >)) (SBAR (S (INTJ (UH oh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJR >) (NN isn)) (NP (NP (PRP 't)) (NP (PRP it)))))))) (. ?)))
-K/KD/KDR.xml,KDRRE000,71001,604,,B,520,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,604,,B,520,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,605,,B,520,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,606,,B,520,3,</spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,606,,B,520,3,</spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,607,,A,521,1,<spelling> <<REDACTED (name)>> </spelling> right,"[>/JJR, right/NN]",(ROOT (X (NP (JJR >) (NN right))))
 K/KD/KDR.xml,KDRRE000,71001,608,,B,522,1,Russell  <<REDACTED (name)>> S one ,"[Russell/NNP, >/JJR, S/NNS, one/CD]",(ROOT (NP (NP (NNP Russell)) (NP (JJR >) (NNS S)) (NP (CD one))))
 K/KD/KDR.xml,KDRRE000,71001,609,,A,523,1,yes,[yes/UH],(ROOT (INTJ (UH yes)))
@@ -624,9 +624,9 @@ K/KD/KDR.xml,KDRRE000,71001,621,,A,533,1,yes ,[yes/UH],(ROOT (INTJ (UH yes)))
 K/KD/KDR.xml,KDRRE000,71001,622,,B,534,1,M     <<REDACTED (name)>> <spelling> <<REDACTED (name)>> </spelling> W one,"[M/NN, >/JJR, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NN M)) (NP (NP (JJR >)) (NP (JJR >) (NN W))) (NP (CD one))))
 K/KD/KDR.xml,KDRRE000,71001,623,,A,535,1,is it  <<REDACTED (name)>> or <<REDACTED (name)>> ?,"[is/VBZ, it/PRP, >/JJR, or/CC, >/JJR, ?/.]",(ROOT (SQ (VBZ is) (NP (PRP it)) (ADJP (ADJP (JJR >)) (CC or) (ADJP (JJR >))) (. ?)))
 K/KD/KDR.xml,KDRRE000,71001,624,,B,536,1,it says <<REDACTED (name)>> ,"[it/PRP, says/VBZ, >/JJR]",(ROOT (S (NP (PRP it)) (VP (VBZ says) (ADJP (JJR >)))))
-K/KD/KDR.xml,KDRRE000,71001,625,,A,537,1,<spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,625,,A,537,1,<spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,626,,A,537,2,<<REDACTED (name)>> ,[>/JJR],(ROOT (ADJP (JJR >)))
-K/KD/KDR.xml,KDRRE000,71001,627,,A,537,3,</spelling> ,[],X
+K/KD/KDR.xml,KDRRE000,71001,627,,A,537,3,</spelling> ,[],
 K/KD/KDR.xml,KDRRE000,71001,628,,B,538,1,yeah ,[yeah/UH],(ROOT (INTJ (UH yeah)))
 K/KD/KDR.xml,KDRRE000,71001,629,,A,539,1,"okay, right","[okay/JJ, ,/,, right/JJ]","(ROOT (ADJP (JJ okay) (, ,) (JJ right)))"
 K/KD/KDR.xml,KDRRE000,71001,630,,B,540,1,Y  <<REDACTED (name)>> W one,"[Y/NN, >/JJR, W/NN, one/CD]",(ROOT (NP (NP (NN Y)) (NP (JJR >) (NN W)) (NP (CD one))))
@@ -760,7 +760,7 @@ K/KD/KDR.xml,KDRRE000,71001,757,,B,654,1,"This one Killingworth Flyers again, oh
 K/KD/KDR.xml,KDRRE000,71001,758,,A,655,1,yes,[yes/UH],(ROOT (INTJ (UH yes)))
 K/KD/KDR.xml,KDRRE000,71001,759,,B,656,1,Hazel  <<REDACTED (name)>> S one A,"[Hazel/NN, >/JJR, S/NNS, one/CD, A/DT]",(ROOT (NP (NP (NN Hazel)) (NP (NP (JJR >) (NNS S)) (NP (QP (CD one)) (DT A)))))
 K/KD/KDR.xml,KDRRE000,71001,760,,A,657,1,er that's all we need to fill in,"[er/NN, that/WDT, 's/VBZ, all/DT, we/PRP, need/VBP, to/TO, fill/VB, in/IN]",(ROOT (FRAG (NP (NN er)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (DT all)) (SBAR (S (NP (PRP we)) (VP (VBP need) (S (VP (TO to) (VP (VB fill) (PP (IN in))))))))))))))
-K/KD/KDR.xml,KDRRE000,71001,761,,B,658,1,(()) ,[],X
+K/KD/KDR.xml,KDRRE000,71001,761,,B,658,1,(()) ,[],
 K/KD/KDR.xml,KDRRE000,71001,762,,A,659,1,"it's me, although I did that, make, make that mistake, right, yes, go on","[it/PRP, 's/VBZ, me/PRP, ,/,, although/IN, I/PRP, did/VBD, that/IN, ,/,, make/VB, ,/,, make/VB, that/DT, mistake/NN, ,/,, right/NN, ,/,, yes/UH, ,/,, go/VB, on/IN]","(ROOT (S (NP (PRP it)) (VP (VBZ 's) (NP (PRP me)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (VP (VBD did) (ADVP (IN that)) (, ,) (S (VP (VB make) (, ,) (VB make) (NP (DT that) (NN mistake)))) (, ,) (ADVP (NN right)) (, ,) (S (INTJ (UH yes)) (, ,) (VP (VB go) (PP (IN on))))))))))"
 K/KD/KDR.xml,KDRRE000,71001,763,,B,660,1,Can't be trusted Jimmy  <<REDACTED (name)>> W five ,"[Can/MD, 't/PRP, be/VB, trusted/VBN, Jimmy/NNP, >/JJR, W/NN, five/CD]",(ROOT (SINV (MD Can) (NP (PRP 't)) (VP (VB be) (VP (VBN trusted) (S (NP (NNP Jimmy)) (NP (NP (JJR >) (NN W)) (NP (CD five))))))))
 K/KD/KDR.xml,KDRRE000,71001,764,,A,661,1,er  --,"[er/NN, yes/RB]",(ROOT (FRAG (NP (NN er) (RB yes))))

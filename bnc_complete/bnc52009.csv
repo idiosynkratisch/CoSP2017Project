@@ -37,7 +37,7 @@ K/KB/KBJ.xml,KBJRE008,52009,34,,B,22,1,And getting the custom afterwards.,"[And/
 K/KB/KBJ.xml,KBJRE008,52009,35,,A,23,1,I know!,"[I/PRP, know/VBP, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. !)))
 K/KB/KBJ.xml,KBJRE008,52009,36,,A,23,2,Oh God!,"[Oh/UH, God/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP God)))) (. !)))
 K/KB/KBJ.xml,KBJRE008,52009,37,,B,24,1,<laughing> I hope you do </laughing> !,"[I/PRP, hope/VBP, you/PRP, do/VB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP hope) (S (NP (PRP you)) (VP (VB do)))) (. !)))
-K/KB/KBJ.xml,KBJRE008,52009,38,,A,25,1,<laugh> ,[],X
+K/KB/KBJ.xml,KBJRE008,52009,38,,A,25,1,<laugh> ,[],
 K/KB/KBJ.xml,KBJRE008,52009,39,,B,26,1,<laugh> --,"[I/PRP, 'll/MD, see/VB, you/PRP, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (PRP you)) (ADVP (RB anyway)))) (. .)))
 K/KB/KBJ.xml,KBJRE008,52009,40,,B,26,2,--I'll see you anyway.,"[I/PRP, 'll/MD, see/VB, you/PRP, anyway/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB see) (NP (PRP you)) (ADVP (RB anyway)))) (. .)))
 K/KB/KBJ.xml,KBJRE008,52009,41,,A,27,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))

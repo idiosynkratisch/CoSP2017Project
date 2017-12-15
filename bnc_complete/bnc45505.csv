@@ -8,7 +8,7 @@ K/KD/KDN.xml,KDNRE004,45505,5,,A,3,3,--How much?,"[How/WRB, much/RB, ?/.]",(ROOT
 K/KD/KDN.xml,KDNRE004,45505,6,,B,4,1,Three six.,"[Three/CD, six/CD, ./.]",(ROOT (FRAG (NP (CD Three) (CD six)) (. .)))
 K/KD/KDN.xml,KDNRE004,45505,7,,A,5,1,Is there any more in there  --,"[Is/VBZ, there/EX, any/DT, more/RBR, in/IN, there/EX, oh/UH, no/DT, that/DT, 's/VBZ, right/RB, there/RB, ./.]",(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (DT any)) (NP (NP (RBR more)) (PP (IN in) (NP (EX there))) (SBAR (S (INTJ (UH oh)) (NP (DT no) (DT that)) (VP (VBZ 's) (ADVP (RB right) (RB there)))))) (. .)))
 K/KD/KDN.xml,KDNRE004,45505,8,,A,5,2,--oh no that's right there.,"[Is/VBZ, there/EX, any/DT, more/RBR, in/IN, there/EX, oh/UH, no/DT, that/DT, 's/VBZ, right/RB, there/RB, ./.]",(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (DT any)) (NP (NP (RBR more)) (PP (IN in) (NP (EX there))) (SBAR (S (INTJ (UH oh)) (NP (DT no) (DT that)) (VP (VBZ 's) (ADVP (RB right) (RB there)))))) (. .)))
-K/KD/KDN.xml,KDNRE004,45505,9,,B,6,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE004,45505,9,,B,6,1,(()) ,[],
 K/KD/KDN.xml,KDNRE004,45505,10,,A,7,1,Packet of those Duracell  --,"[Packet/NN, of/IN, those/DT, Duracell/NNP, exactly/RB, !/.]",(ROOT (NP (NP (NN Packet)) (PP (IN of) (NP (DT those) (NNP Duracell))) (ADVP (RB exactly)) (. !)))
 K/KD/KDN.xml,KDNRE004,45505,11,,A,7,2,--exactly!,"[Packet/NN, of/IN, those/DT, Duracell/NNP, exactly/RB, !/.]",(ROOT (NP (NP (NN Packet)) (PP (IN of) (NP (DT those) (NNP Duracell))) (ADVP (RB exactly)) (. !)))
 K/KD/KDN.xml,KDNRE004,45505,12,,B,8,1,One or two?,"[One/CD, or/CC, two/CD, ?/.]",(ROOT (NP (NP (CD One)) (QP (CC or) (CD two)) (. ?)))

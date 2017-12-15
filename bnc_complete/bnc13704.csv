@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KDA.xml,KDARE03M,13704,0,,A,1,1,I've got my own silk lips attached to the fucking (()) ,"[I/PRP, 've/VBP, got/VBD, my/PRP$, own/JJ, silk/NN, lips/NNS, attached/VBN, to/TO, the/DT, fucking/VBG]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (NP (PRP$ my) (JJ own) (NN silk) (NNS lips)) (VP (VBN attached) (PP (TO to) (NP (DT the) (VBG fucking)))))))))
 K/KD/KDA.xml,KDARE03M,13704,1,,B,2,1,(()) like swallow it ,"[like/IN, swallow/VB, it/PRP]",(ROOT (SBAR (IN like) (FRAG (VP (VB swallow) (NP (PRP it))))))
-K/KD/KDA.xml,KDARE03M,13704,2,,A,3,1,(()) ,[],X
+K/KD/KDA.xml,KDARE03M,13704,2,,A,3,1,(()) ,[],
 K/KD/KDA.xml,KDARE03M,13704,3,,B,4,1,(()) stick it up her nose and say.,"[stick/VB, it/PRP, up/RP, her/PRP$, nose/NN, and/CC, say/VB, ./.]",(ROOT (S (VP (VP (VB stick) (NP (PRP it)) (PP (RP up) (NP (PRP$ her) (NN nose)))) (CC and) (VP (VB say))) (. .)))

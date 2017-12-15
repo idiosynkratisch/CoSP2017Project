@@ -20,7 +20,7 @@ K/KB/KBM.xml,KBMRE005,72306,17,,A,11,2,--well you can when I've finished this si
 K/KB/KBM.xml,KBMRE005,72306,18,,B,12,1,Oh well  (()) ,"[Oh/UH, well/RB]",(ROOT (INTJ (UH Oh) (RB well)))
 K/KB/KBM.xml,KBMRE005,72306,19,,A,13,1,But it's dead boring.,"[But/CC, it/PRP, 's/VBZ, dead/JJ, boring/NN, ./.]",(ROOT (S (CC But) (NP (PRP it)) (VP (VBZ 's) (NP (JJ dead) (NN boring))) (. .)))
 K/KB/KBM.xml,KBMRE005,72306,20,,A,13,2,I dunno ,"[I/PRP, dunno/VBP]",(ROOT (S (NP (PRP I)) (VP (VBP dunno))))
-K/KB/KBM.xml,KBMRE005,72306,21,,B,14,1,(()) ,[],X
+K/KB/KBM.xml,KBMRE005,72306,21,,B,14,1,(()) ,[],
 K/KB/KBM.xml,KBMRE005,72306,22,,A,15,1,I haven't actually listened to it.,"[I/PRP, haven/NN, 't/PRP, actually/RB, listened/VBD, to/TO, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (ADVP (RB actually)) (VP (VBD listened) (PP (TO to) (NP (PRP it))))))) (. .)))
 K/KB/KBM.xml,KBMRE005,72306,23,,A,15,2,Well go and turn the headphones off.,"[Well/RB, go/VB, and/CC, turn/VB, the/DT, headphones/NNS, off/RP, ./.]",(ROOT (S (INTJ (RB Well)) (VP (VP (VB go)) (CC and) (VP (VB turn) (NP (DT the) (NNS headphones)) (PRT (RP off)))) (. .)))
 K/KB/KBM.xml,KBMRE005,72306,24,,B,16,1,It's attacking me.,"[It/PRP, 's/VBZ, attacking/VBG, me/PRP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBG attacking) (NP (PRP me)))) (. .)))
@@ -30,4 +30,4 @@ K/KB/KBM.xml,KBMRE005,72306,27,,B,16,4,<clears throat> --,"[Cos/NNP, my/PRP$, da
 K/KB/KBM.xml,KBMRE005,72306,28,,B,16,5,--Cos my dad made mine.,"[Cos/NNP, my/PRP$, dad/NN, made/VBD, mine/NN, ./.]",(ROOT (S (NP (NP (NNP Cos)) (NP (PRP$ my) (NN dad))) (VP (VBD made) (NP (NN mine))) (. .)))
 K/KB/KBM.xml,KBMRE005,72306,29,,B,16,6,And they never gave them back.,"[And/CC, they/PRP, never/RB, gave/VBD, them/PRP, back/RB, ./.]",(ROOT (S (CC And) (NP (PRP they)) (ADVP (RB never)) (VP (VBD gave) (NP (PRP them)) (ADVP (RB back))) (. .)))
 K/KB/KBM.xml,KBMRE005,72306,30,,A,17,1,Oh dear.,"[Oh/UH, dear/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB dear)))) (. .)))
-K/KB/KBM.xml,KBMRE005,72306,31,,B,18,1,<cough> ,[],X
+K/KB/KBM.xml,KBMRE005,72306,31,,B,18,1,<cough> ,[],

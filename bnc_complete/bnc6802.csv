@@ -10,7 +10,7 @@ K/KD/KDE.xml,KDERE00C,6802,7,,B,6,2,--now.,"[Let/VB, 's/PRP, do/VB, it/PRP, now/
 K/KD/KDE.xml,KDERE00C,6802,8,,A,7,1,Well shall we take it downstairs?,"[Well/RB, shall/MD, we/PRP, take/VB, it/PRP, downstairs/RB, ?/.]",(ROOT (SINV (ADVP (RB Well)) (VP (MD shall)) (NP (PRP we)) (S (VP (VB take) (NP (PRP it)) (ADVP (RB downstairs)))) (. ?)))
 K/KD/KDE.xml,KDERE00C,6802,9,,B,8,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KDE.xml,KDERE00C,6802,10,,A,9,1,I'm taking these books downstairs.,"[I/PRP, 'm/VBP, taking/VBG, these/DT, books/NNS, downstairs/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG taking) (NP (DT these) (NNS books)) (ADVP (RB downstairs)))) (. .)))
-K/KD/KDE.xml,KDERE00C,6802,11,,B,10,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00C,6802,11,,B,10,1,(()) ,[],
 K/KD/KDE.xml,KDERE00C,6802,12,,A,11,1,Let's get dressed first.,"[Let/VB, 's/PRP, get/VB, dressed/VBN, first/RB, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB get) (VP (VBN dressed) (ADVP (RB first)))))) (. .)))
 K/KD/KDE.xml,KDERE00C,6802,13,,B,12,1,What's this one called?,"[What/WP, 's/VBZ, this/DT, one/CD, called/VBN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT this) (CD one)) (VP (VBN called)))) (. ?)))
 K/KD/KDE.xml,KDERE00C,6802,14,,A,13,1,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
@@ -56,7 +56,7 @@ K/KD/KDE.xml,KDERE00C,6802,53,,B,44,1,Ow!,"[Ow/NN, !/.]",(ROOT (NP (NN Ow) (. !)
 K/KD/KDE.xml,KDERE00C,6802,54,,A,45,1,Sorry.,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
 K/KD/KDE.xml,KDERE00C,6802,55,,A,45,2,Sorry.,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
 K/KD/KDE.xml,KDERE00C,6802,56,,A,45,3,Sorry.,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
-K/KD/KDE.xml,KDERE00C,6802,57,,B,46,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00C,6802,57,,B,46,1,(()) ,[],
 K/KD/KDE.xml,KDERE00C,6802,58,,A,47,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Okay) (. .)))
 K/KD/KDE.xml,KDERE00C,6802,59,,A,47,2,Let's get dressed shall we first?,"[Let/VB, 's/PRP, get/VB, dressed/VBN, shall/MD, we/PRP, first/RB, ?/.]",(ROOT (S (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB get) (VP (VBN dressed)))))) (VP (MD shall) (VP (NP (PRP we)) (ADVP (RB first)))) (. ?)))
 K/KD/KDE.xml,KDERE00C,6802,60,,B,48,1,I don't like Fireman Sam.,"[I/PRP, don/VBP, 't/PRP, like/IN, Fireman/NNP, Sam/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (NNP Fireman) (NNP Sam)))) (. .)))

@@ -61,7 +61,7 @@ K/KE/KE6.xml,KE6RE00T,37201,58,,A,31,5,--in the afternoon.,"[I/PRP, mean/VBP, he
 K/KE/KE6.xml,KE6RE00T,37201,59,,A,31,6,Well then,"[Well/RB, then/RB]",(ROOT (FRAG (ADVP (RB Well)) (RB then)))
 K/KE/KE6.xml,KE6RE00T,37201,60,,B,32,1,Well that should be a,"[Well/RB, that/DT, should/MD, be/VB, a/DT]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (WHNP (DT that)) (S (VP (MD should) (VP (VB be) (NP (DT a))))))))
 K/KE/KE6.xml,KE6RE00T,37201,61,,A,33,1,the whole day's ,"[the/DT, whole/JJ, day/NN, 's/POS]",(ROOT (NP (NP (DT the)) (NP (NP (JJ whole)) (NP (NN day) (POS 's)))))
-K/KE/KE6.xml,KE6RE00T,37201,62,,B,34,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE00T,37201,62,,B,34,1,(()) ,[],
 K/KE/KE6.xml,KE6RE00T,37201,63,,A,35,1,gone now.,"[gone/VBN, now/RB, ./.]",(ROOT (S (VP (VBN gone) (ADVP (RB now))) (. .)))
 K/KE/KE6.xml,KE6RE00T,37201,64,,A,35,2,Don't let me forget them slides.,"[Don/NNP, 't/PRP, let/VB, me/PRP, forget/VB, them/PRP, slides/NNS, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB let) (S (NP (PRP me)) (VP (VB forget) (S (NP (PRP them)) (NP (NNS slides)))))) (. .)))
 K/KE/KE6.xml,KE6RE00T,37201,65,,B,36,1,That'll cook an hour.,"[That/DT, 'll/MD, cook/VB, an/DT, hour/NN, ./.]",(ROOT (S (NP (DT That)) (VP (MD 'll) (VP (VB cook) (NP (DT an) (NN hour)))) (. .)))

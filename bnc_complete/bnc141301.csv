@@ -28,7 +28,7 @@ K/KP/KPA.xml,KPARE00B,141301,25,,A,7,4,Now he goes I've found my dick put it bac
 K/KP/KPA.xml,KPARE00B,141301,26,,A,7,5,You mean you bought out  (()) ,"[You/PRP, mean/VBP, you/PRP, bought/VBN, out/RP]",(ROOT (S (NP (PRP You)) (VP (VBP mean) (S (NP (PRP you)) (VP (VBN bought) (PRT (RP out)))))))
 K/KP/KPA.xml,KPARE00B,141301,27,,A,7,6,I take it that nobody likes Liam.,"[I/PRP, take/VBP, it/PRP, that/IN, nobody/NN, likes/VBZ, Liam/NNP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP take) (NP (PRP it)) (SBAR (IN that) (S (NP (NN nobody)) (VP (VBZ likes) (NP (NNP Liam)))))) (. .)))
 K/KP/KPA.xml,KPARE00B,141301,28,,A,7,7,He goes you (()) .,"[He/PRP, goes/VBZ, you/PRP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ goes) (NP (PRP you))) (. .)))
-K/KP/KPA.xml,KPARE00B,141301,29,,B,8,1,(()) ,[],X
+K/KP/KPA.xml,KPARE00B,141301,29,,B,8,1,(()) ,[],
 K/KP/KPA.xml,KPARE00B,141301,30,,A,9,1,Get off my (()) ,"[Get/VB, off/RP, my/PRP$]",(ROOT (S (VP (VB Get) (PRT (RP off)) (NP (PRP$ my)))))
 K/KP/KPA.xml,KPARE00B,141301,31,,A,9,2,I notice he's got (()) .,"[I/PRP, notice/VBP, he/PRP, 's/VBZ, got/VBN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP notice) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN got)))))) (. .)))
 K/KP/KPA.xml,KPARE00B,141301,32,,A,9,3,Please leave.,"[Please/VB, leave/VB, ./.]",(ROOT (S (VP (VB Please) (VP (VB leave))) (. .)))

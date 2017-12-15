@@ -5,5 +5,5 @@ K/KE/KE2.xml,KE2RE01A,38602,2,,B,2,2,Doing very well.,"[Doing/VBG, very/RB, well
 K/KE/KE2.xml,KE2RE01A,38602,3,,B,2,3,I thought there is  --,"[I/PRP, thought/VBD, there/EX, is/VBZ, but/CC, I/PRP, mean/VBP, before/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (EX there)) (VP (VBZ is) (SBAR (CC but) (S (NP (PRP I)) (VP (VBP mean) (ADVP (RB before))))))))) (. .)))
 K/KE/KE2.xml,KE2RE01A,38602,4,,B,2,4,--but I mean before (()) .,"[I/PRP, thought/VBD, there/EX, is/VBZ, but/CC, I/PRP, mean/VBP, before/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (EX there)) (VP (VBZ is) (SBAR (CC but) (S (NP (PRP I)) (VP (VBP mean) (ADVP (RB before))))))))) (. .)))
 K/KE/KE2.xml,KE2RE01A,38602,5,,A,3,1,Yep!,"[Yep/RB, !/.]",(ROOT (FRAG (ADVP (RB Yep)) (. !)))
-K/KE/KE2.xml,KE2RE01A,38602,6,,B,4,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE01A,38602,6,,B,4,1,(()) ,[],
 K/KE/KE2.xml,KE2RE01A,38602,7,,A,5,1,Yep!,"[Yep/RB, !/.]",(ROOT (FRAG (ADVP (RB Yep)) (. !)))

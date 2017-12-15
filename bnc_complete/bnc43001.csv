@@ -26,7 +26,7 @@ K/KC/KCB.xml,KCBRE000,43001,23,,A,13,1,Seven Seas,"[Seven/CD, Seas/NNS]",(ROOT (
 K/KC/KCB.xml,KCBRE000,43001,24,,B,14,1,(()) the one.,"[the/DT, one/CD, ./.]",(ROOT (NP (NP (DT the)) (NP (CD one)) (. .)))
 K/KC/KCB.xml,KCBRE000,43001,25,,B,14,2,Cos when they ,"[Cos/NN, when/WRB, they/PRP]",(ROOT (NP (NP (NP (NN Cos)) (SBAR (S (VP (ADVP (WRB when)))))) (NP (PRP they))))
 K/KC/KCB.xml,KCBRE000,43001,26,,A,15,1,cos it's ,"[cos/NN, it/PRP, 's/VBZ]",(ROOT (FRAG (NP (NP (NN cos)) (SBAR (S (NP (PRP it)) (VP (VBZ 's)))))))
-K/KC/KCB.xml,KCBRE000,43001,27,,B,16,1,(()) ,[],X
+K/KC/KCB.xml,KCBRE000,43001,27,,B,16,1,(()) ,[],
 K/KC/KCB.xml,KCBRE000,43001,28,,A,17,1,Well it's a better value bottle as well.,"[Well/RB, it/PRP, 's/VBZ, a/DT, better/JJR, value/NN, bottle/NN, as/RB, well/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (JJR better) (NN value) (NN bottle)) (ADVP (RB as) (RB well))) (. .)))
 K/KC/KCB.xml,KCBRE000,43001,29,,B,18,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCB.xml,KCBRE000,43001,30,,B,18,2,Are we going to a  --,"[Are/VBP, we/PRP, going/VBG, to/TO, a/DT, going/VBG, to/TO, John/NNP, 's/POS, er/NN, ,/,, in/IN, afternoon/NN, tomorrow/NN, ?/.]","(ROOT (SQ (VBP Are) (NP (PRP we)) (VP (VBG going) (PP (TO to) (NP (NP (DT a) (VBG going)) (PP (TO to) (NP (NP (NNP John) (POS 's)) (NN er))))) (, ,) (PP (IN in) (NP (NN afternoon) (NN tomorrow)))) (. ?)))"

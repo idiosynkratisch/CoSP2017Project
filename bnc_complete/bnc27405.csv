@@ -18,6 +18,6 @@ K/KC/KCN.xml,KCNRE015,27405,15,,B,10,2,Slowly but surely.,"[Slowly/RB, but/CC, s
 K/KC/KCN.xml,KCNRE015,27405,16,,A,11,1,"Fine, as long as it comes.","[Fine/NN, ,/,, as/RB, long/RB, as/IN, it/PRP, comes/VBZ, ./.]","(ROOT (FRAG (NP (NN Fine)) (, ,) (SBAR (ADVP (RB as) (RB long)) (IN as) (S (NP (PRP it)) (VP (VBZ comes)))) (. .)))"
 K/KC/KCN.xml,KCNRE015,27405,17,,B,12,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KC/KCN.xml,KCNRE015,27405,18,,A,13,1,End of the month and it'll be great.,"[End/NN, of/IN, the/DT, month/NN, and/CC, it/PRP, 'll/MD, be/VB, great/JJ, ./.]",(ROOT (S (NP (NP (NN End)) (PP (IN of) (NP (NP (DT the) (NN month)) (CC and) (NP (PRP it))))) (VP (MD 'll) (VP (VB be) (ADJP (JJ great)))) (. .)))
-K/KC/KCN.xml,KCNRE015,27405,19,,B,14,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE015,27405,19,,B,14,1,(()) ,[],
 K/KC/KCN.xml,KCNRE015,27405,20,,A,15,1,Ta ra,"[Ta/NNP, ra/NNP]",(ROOT (NP (NNP Ta) (NNP ra)))
 K/KC/KCN.xml,KCNRE015,27405,21,,B,16,1,Bye.,"[Bye/NN, ./.]",(ROOT (NP (NN Bye) (. .)))

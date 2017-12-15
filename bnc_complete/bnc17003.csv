@@ -28,8 +28,8 @@ K/KD/KD0.xml,KD0RE00E,17003,25,,A,15,2,Talk about that being out of place.,"[Tal
 K/KD/KD0.xml,KD0RE00E,17003,26,,A,15,3,Look at that.,"[Look/VB, at/IN, that/DT, ./.]",(ROOT (S (VP (VB Look) (PP (IN at) (NP (DT that)))) (. .)))
 K/KD/KD0.xml,KD0RE00E,17003,27,,B,16,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
 K/KD/KD0.xml,KD0RE00E,17003,28,,A,17,1,Well,[Well/RB],(ROOT (INTJ (RB Well)))
-K/KD/KD0.xml,KD0RE00E,17003,29,,B,18,1,(()) ,[],X
-K/KD/KD0.xml,KD0RE00E,17003,30,,B,18,2,(()) ,[],X
+K/KD/KD0.xml,KD0RE00E,17003,29,,B,18,1,(()) ,[],
+K/KD/KD0.xml,KD0RE00E,17003,30,,B,18,2,(()) ,[],
 K/KD/KD0.xml,KD0RE00E,17003,31,,B,18,3,What  (()) Budgens?,"[What/WDT, Budgens/NNP, ?/.]",(ROOT (FRAG (WHNP (WDT What) (NP (NNP Budgens))) (. ?)))
 K/KD/KD0.xml,KD0RE00E,17003,32,,A,19,1,That bloke looks like your Derek doesn't he?,"[That/DT, bloke/NN, looks/VBZ, like/IN, your/PRP$, Derek/NNP, doesn/NNP, 't/PRP, he/PRP, ?/.]",(ROOT (S (NP (DT That) (NN bloke)) (VP (VBZ looks) (PP (IN like) (NP (NP (PRP$ your) (NNP Derek) (NNP doesn)) (NP (NP (PRP 't)) (NP (PRP he)))))) (. ?)))
 K/KD/KD0.xml,KD0RE00E,17003,33,,A,19,2,The old Sunday school teacher.,"[The/DT, old/JJ, Sunday/NNP, school/NNP, teacher/NN, ./.]",(ROOT (FRAG (NP (DT The) (JJ old) (NNP Sunday) (NNP school)) (NP (NN teacher)) (. .)))
@@ -93,5 +93,5 @@ K/KD/KD0.xml,KD0RE00E,17003,90,,A,47,1,"No, it's not conducive as a  --","[No/DT
 K/KD/KD0.xml,KD0RE00E,17003,91,,A,47,2,--sporty image  --,"[No/DT, ,/,, it/PRP, 's/VBZ, not/RB, conducive/JJ, as/IN, a/DT, sporty/JJ, image/NN, the/DT, walnut/NNP, facia/NNP, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ conducive) (PP (IN as) (NP (NP (DT a) (JJ sporty) (NN image)) (NP (DT the) (NNP walnut) (NNP facia)))))) (. .)))"
 K/KD/KD0.xml,KD0RE00E,17003,92,,A,47,3,--the walnut facia.,"[No/DT, ,/,, it/PRP, 's/VBZ, not/RB, conducive/JJ, as/IN, a/DT, sporty/JJ, image/NN, the/DT, walnut/NNP, facia/NNP, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ conducive) (PP (IN as) (NP (NP (DT a) (JJ sporty) (NN image)) (NP (DT the) (NNP walnut) (NNP facia)))))) (. .)))"
 K/KD/KD0.xml,KD0RE00E,17003,93,,B,48,1,<laugh> facia.,"[facia/NNP, ./.]",(ROOT (FRAG (NP (NNP facia)) (. .)))
-K/KD/KD0.xml,KD0RE00E,17003,94,,A,49,1,<laugh> ,[],X
+K/KD/KD0.xml,KD0RE00E,17003,94,,A,49,1,<laugh> ,[],
 K/KD/KD0.xml,KD0RE00E,17003,95,,B,50,1,Don't think.,"[Don/NNP, 't/PRP, think/VBP, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VBP think)) (. .)))

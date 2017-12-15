@@ -2,9 +2,9 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KB/KBK.xml,KBKRE02E,2313,0,,A,1,1,Strewth I'm hungry.,"[Strewth/NNP, I/PRP, 'm/VBP, hungry/JJ, ./.]",(ROOT (S (NP (NNP Strewth) (PRP I)) (VP (VBP 'm) (ADJP (JJ hungry))) (. .)))
 K/KB/KBK.xml,KBKRE02E,2313,1,,B,2,1,(()) chips (()) .,"[chips/NNS, ./.]",(ROOT (NP (NNS chips) (. .)))
 K/KB/KBK.xml,KBKRE02E,2313,2,,A,3,1,"Of course, yes, he's not even, perhaps he'll bring the other pocket full of petit fours.","[Of/IN, course/NN, ,/,, yes/UH, ,/,, he/PRP, 's/VBZ, not/RB, even/RB, ,/,, perhaps/RB, he/PRP, 'll/MD, bring/VB, the/DT, other/JJ, pocket/NN, full/JJ, of/IN, petit/NNP, fours/NNP, ./.]","(ROOT (S (PP (IN Of) (NP (NN course))) (, ,) (S (INTJ (UH yes)) (, ,) (NP (PRP he)) (VP (VBZ 's) (RB not) (ADVP (RB even)))) (, ,) (ADVP (RB perhaps)) (S (NP (PRP he)) (VP (MD 'll) (VP (VB bring) (NP (NP (DT the) (JJ other) (NN pocket)) (PP (JJ full) (IN of) (NP (NNP petit) (NNP fours))))))) (. .)))"
-K/KB/KBK.xml,KBKRE02E,2313,3,,B,4,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02E,2313,3,,B,4,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02E,2313,4,,A,5,1,<laugh> yes.,"[yes/UH, ./.]",(ROOT (INTJ (UH yes) (. .)))
-K/KB/KBK.xml,KBKRE02E,2313,5,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02E,2313,5,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02E,2313,6,,A,7,1,Do they have a prize for every customer do you think one way or a- ,"[Do/VB, they/PRP, have/VBP, a/DT, prize/NN, for/IN, every/DT, customer/NN, do/VBP, you/PRP, think/VB, one/CD, way/NN, or/CC, a-/NN]",(ROOT (S (VP (VB Do) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (NP (DT a) (NN prize)) (PP (IN for) (NP (NP (DT every) (NN customer)) (SBAR (S (VP (VBP do) (S (NP (PRP you)) (VP (VB think) (NP (NP (CD one) (NN way)) (CC or) (NP (NN a-)))))))))))))))))
 K/KB/KBK.xml,KBKRE02E,2313,7,,B,8,1,I'm  (()) .,"[I/PRP, 'm/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm)) (. .)))
 K/KB/KBK.xml,KBKRE02E,2313,8,,B,8,2,Are you implying  (()) gardener.,"[Are/VBP, you/PRP, implying/VBG, gardener/NN, ./.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG implying) (NP (NN gardener))) (. .)))

@@ -4,7 +4,7 @@ K/KB/KBK.xml,KBKRE03T,2501,1,,B,2,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (.
 K/KB/KBK.xml,KBKRE03T,2501,2,,A,3,1,There's the (()) .,"[There/EX, 's/VBZ, the/DT, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT the))) (. .)))
 K/KB/KBK.xml,KBKRE03T,2501,3,,A,3,2,"Technology use, use the purest water.","[Technology/NN, use/NN, ,/,, use/VBP, the/DT, purest/JJS, water/NN, ./.]","(ROOT (S (NP (NN Technology) (NN use)) (, ,) (VP (VBP use) (NP (DT the) (JJS purest) (NN water))) (. .)))"
 K/KB/KBK.xml,KBKRE03T,2501,4,,B,4,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE03T,2501,5,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE03T,2501,5,,A,5,1,(()) ,[],
 K/KB/KBK.xml,KBKRE03T,2501,6,,B,6,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KB/KBK.xml,KBKRE03T,2501,7,,B,6,2,It's the basis of redial dialysis.,"[It/PRP, 's/VBZ, the/DT, basis/NN, of/IN, redial/JJ, dialysis/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (JJ redial) (NN dialysis))))) (. .)))
 K/KB/KBK.xml,KBKRE03T,2501,8,,A,7,1,"Boiling water removes bacteria and not removes, dissolves (()) .","[Boiling/VBG, water/NN, removes/VBZ, bacteria/NNS, and/CC, not/RB, removes/VBZ, ,/,, dissolves/VBZ, ./.]","(ROOT (S (NP (VBG Boiling) (NN water)) (VP (VP (VBZ removes) (NP (NNS bacteria))) (CC and) (RB not) (VP (VBZ removes)) (, ,) (VP (VBZ dissolves))) (. .)))"

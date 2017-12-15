@@ -16,7 +16,7 @@ K/KB/KB9.xml,KB9RE00V,62401,13,,B,4,3,--Andrew's er was meeting with er  --,"[No
 K/KB/KB9.xml,KB9RE00V,62401,14,,B,4,4,--the Chairman for this morning.,"[No/DT, ,/,, he/PRP, 's/VBZ, erm/NN, that/WDT, 's/VBZ, what/WP, erm/NN, Andrew/NNP, 's/POS, er/NN, was/VBD, meeting/VBG, with/IN, er/NN, the/DT, Chairman/NN, for/IN, this/DT, morning/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP he)) (VP (VBZ 's) (NP (NP (NN erm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (NP (NP (WP what) (NN erm)) (SBAR (S (NP (NP (NNP Andrew) (POS 's)) (NN er)) (VP (VBD was) (VP (VBG meeting) (PP (IN with) (NP (NN er))) (NP (NP (DT the) (NN Chairman)) (PP (IN for) (NP (DT this) (NN morning)))))))))))))) (. .)))"
 K/KB/KB9.xml,KB9RE00V,62401,15,,A,5,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))
 K/KB/KB9.xml,KB9RE00V,62401,16,,A,5,2,Andrew's actually having a meeting with him ,"[Andrew/NNP, 's/POS, actually/RB, having/VBG, a/DT, meeting/NN, with/IN, him/PRP]",(ROOT (S (NP (NP (NP (NNP Andrew) (POS 's)) (NP (RB actually))) (VP (VBG having) (NP (NP (DT a) (NN meeting)) (PP (IN with) (NP (PRP him))))))))
-K/KB/KB9.xml,KB9RE00V,62401,17,,B,6,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE00V,62401,17,,B,6,1,(()) ,[],
 K/KB/KB9.xml,KB9RE00V,62401,18,,A,7,1,is he?,"[is/VBZ, he/PRP, ?/.]",(ROOT (S (VP (VBZ is) (NP (PRP he))) (. ?)))
 K/KB/KB9.xml,KB9RE00V,62401,19,,A,7,2,Sorry!,"[Sorry/JJ, !/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. !)))
 K/KB/KB9.xml,KB9RE00V,62401,20,,A,7,3,Is that me?,"[Is/VBZ, that/IN, me/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (ADVP (IN that)) (NP (PRP me))) (. ?)))

@@ -44,7 +44,7 @@ K/KD/KD0.xml,KD0RE00D,17002,41,,B,24,1,Ah!,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (.
 K/KD/KD0.xml,KD0RE00D,17002,42,,B,24,2,What did the  (()) say up there?,"[What/WP, did/VBD, the/DT, say/VBP, up/IN, there/EX, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the)) (VP (VBP say) (PRT (IN up)) (NP (EX there)))) (. ?)))
 K/KD/KD0.xml,KD0RE00D,17002,43,,A,25,1,<laughing> I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,44,,A,25,2,Wah.</laughing> ,"[Wah/NNP, ./.]",(ROOT (FRAG (NP (NNP Wah)) (. .)))
-K/KD/KD0.xml,KD0RE00D,17002,45,,B,26,1,<laugh> ,[],X
+K/KD/KD0.xml,KD0RE00D,17002,45,,B,26,1,<laugh> ,[],
 K/KD/KD0.xml,KD0RE00D,17002,46,,A,27,1,I think we're gonna have to invite erm  --,"[I/PRP, think/VBP, we/PRP, 're/VBP, gonna/NNS, have/VBP, to/TO, invite/VB, erm/NN, Adrian/NNP, again/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (NP (NNS gonna)) (SBAR (S (VP (VBP have) (S (VP (TO to) (VP (VB invite) (NP (NN erm) (NNP Adrian)) (ADVP (RB again))))))))))))) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,47,,A,27,2,--Adrian again.,"[I/PRP, think/VBP, we/PRP, 're/VBP, gonna/NNS, have/VBP, to/TO, invite/VB, erm/NN, Adrian/NNP, again/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (VBP 're) (NP (NP (NNS gonna)) (SBAR (S (VP (VBP have) (S (VP (TO to) (VP (VB invite) (NP (NN erm) (NNP Adrian)) (ADVP (RB again))))))))))))) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,48,,A,27,3,One of these football evening matches we could couldn't we?,"[One/CD, of/IN, these/DT, football/NN, evening/NN, matches/VBZ, we/PRP, could/MD, couldn/VB, 't/PRP, we/PRP, ?/.]",(ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (DT these) (NN football) (NN evening)))) (VP (VBZ matches) (SBAR (S (NP (PRP we)) (VP (MD could) (VP (VB couldn) (S (NP (PRP 't)) (NP (PRP we)))))))) (. ?)))
@@ -88,7 +88,7 @@ K/KD/KD0.xml,KD0RE00D,17002,85,,B,48,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KD/KD0.xml,KD0RE00D,17002,86,,A,49,1,Oh it's not a Sony shop though look.,"[Oh/UH, it/PRP, 's/VBZ, not/RB, a/DT, Sony/NNP, shop/NN, though/IN, look/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBZ 's) (RB not) (NP (NP (DT a) (NNP Sony) (NN shop)) (PP (IN though) (NP (NN look)))))) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,87,,A,49,2,It's  (()) audio  (()) Sony advert.,"[It/PRP, 's/VBZ, audio/JJ, Sony/NNP, advert/NN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (JJ audio) (NNP Sony) (NN advert))) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,88,,B,50,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
-K/KD/KD0.xml,KD0RE00D,17002,89,,A,51,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00D,17002,89,,A,51,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00D,17002,90,,B,52,1,I bet they've got one of these tape recorders in it though.,"[I/PRP, bet/VBP, they/PRP, 've/VBP, got/VBD, one/CD, of/IN, these/DT, tape/NN, recorders/NNS, in/IN, it/PRP, though/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP bet) (SBAR (S (NP (PRP they)) (VP (VBP 've) (VP (VBD got) (NP (NP (CD one)) (PP (IN of) (NP (DT these) (NN tape) (NNS recorders)))) (PP (IN in) (NP (PRP it))) (ADVP (RB though))))))) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,91,,A,53,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,92,,B,54,1,<laughing> Sony me Sony Sony me Sony   --,"[Sony/NNP, me/PRP, Sony/NNP, Sony/NNP, me/PRP, Sony/NNP, ./.]",(ROOT (NP (NP (NNP Sony) (PRP me) (NNP Sony) (NNP Sony)) (NP (NP (PRP me)) (NP (NNP Sony))) (. .)))
@@ -182,7 +182,7 @@ K/KD/KD0.xml,KD0RE00D,17002,179,,B,100,2,But  --,"[But/CC, he/PRP, 's/VBZ, proba
 K/KD/KD0.xml,KD0RE00D,17002,180,,B,100,3,--he's probably not there.,"[But/CC, he/PRP, 's/VBZ, probably/RB, not/RB, there/RB, ./.]",(ROOT (S (CC But) (NP (PRP he)) (VP (VBZ 's) (ADVP (RB probably)) (ADVP (RB not) (RB there))) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,181,,B,100,4,"He's probably at a party or something like that, or","[He/PRP, 's/VBZ, probably/RB, at/IN, a/DT, party/NN, or/CC, something/NN, like/IN, that/DT, ,/,, or/CC]","(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADVP (RB probably)) (PP (IN at) (NP (NP (DT a) (NN party) (CC or) (NN something)) (PP (IN like) (NP (NP (DT that)) (, ,) (ADVP (CC or)))))))))"
 K/KD/KD0.xml,KD0RE00D,17002,182,,A,101,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KD/KD0.xml,KD0RE00D,17002,183,,B,102,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00D,17002,183,,B,102,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00D,17002,184,,A,103,1,"I don't think he's got any lack of things to do, has he?","[I/PRP, don/VBP, 't/PRP, think/VB, he/PRP, 's/VBZ, got/VBN, any/DT, lack/NN, of/IN, things/NNS, to/TO, do/VB, ,/,, has/VBZ, he/PRP, ?/.]","(ROOT (SQ (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (VP (VBN got) (NP (NP (DT any) (NN lack)) (PP (IN of) (NP (NNS things)))) (S (VP (TO to) (VP (VB do)))))))))))) (, ,) (SQ (VBZ has) (NP (PRP he))) (. ?)))"
 K/KD/KD0.xml,KD0RE00D,17002,185,,A,103,2,Really?,"[Really/RB, ?/.]",(ROOT (FRAG (ADVP (RB Really)) (. ?)))
 K/KD/KD0.xml,KD0RE00D,17002,186,,B,104,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
@@ -215,7 +215,7 @@ K/KD/KD0.xml,KD0RE00D,17002,212,,B,116,6,--fifteen year olds.,"[I/PRP, got/VBD, 
 K/KD/KD0.xml,KD0RE00D,17002,213,,A,117,1,That'll be quite good about your maths test won't it?,"[That/DT, 'll/MD, be/VB, quite/RB, good/JJ, about/IN, your/PRP$, maths/NNS, test/NN, won/VBD, 't/PRP, it/PRP, ?/.]",(ROOT (SINV (S (NP (DT That)) (VP (MD 'll) (VP (VB be) (ADJP (RB quite) (JJ good) (PP (IN about) (NP (PRP$ your) (NNS maths) (NN test))))))) (VP (VBD won) (NP (PRP 't))) (NP (PRP it)) (. ?)))
 K/KD/KD0.xml,KD0RE00D,17002,214,,A,117,2,"Cos you'll be, you're doing it again with, like that aren't you?","[Cos/NNP, you/PRP, 'll/MD, be/VB, ,/,, you/PRP, 're/VBP, doing/VBG, it/PRP, again/RB, with/IN, ,/,, like/IN, that/DT, aren/NNP, 't/PRP, you/PRP, ?/.]","(ROOT (S (NP (NNP Cos) (PRP you)) (VP (MD 'll) (VP (VB be) (PRN (, ,) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG doing) (NP (PRP it)) (ADVP (RB again)) (PP (IN with)) (, ,) (PP (IN like) (NP (NP (DT that) (NNP aren)) (NP (PRP 't)))))))) (NP (PRP you)))) (. ?)))"
 K/KD/KD0.xml,KD0RE00D,17002,215,,A,117,3,Your maths ,"[Your/PRP$, maths/NNS]",(ROOT (NP (NP (PRP$ Your)) (NP (NNS maths))))
-K/KD/KD0.xml,KD0RE00D,17002,216,,B,118,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00D,17002,216,,B,118,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00D,17002,217,,A,119,1,you're taking class nine,"[you/PRP, 're/VBP, taking/VBG, class/NN, nine/CD]",(ROOT (S (NP (PRP you)) (VP (VBP 're) (VP (VBG taking) (NP (NN class) (CD nine))))))
 K/KD/KD0.xml,KD0RE00D,17002,218,,B,120,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KD0.xml,KD0RE00D,17002,219,,A,121,1,you could get better than them.,"[you/PRP, could/MD, get/VB, better/JJR, than/IN, them/PRP, ./.]",(ROOT (S (NP (PRP you)) (VP (MD could) (VP (VB get) (NP (JJR better)) (PP (IN than) (NP (PRP them))))) (. .)))

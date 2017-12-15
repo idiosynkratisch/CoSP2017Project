@@ -12,11 +12,11 @@ K/KE/KE4.xml,KE4RE00E,67502,9,,A,5,1,"No, I don't know.","[No/DT, ,/,, I/PRP, do
 K/KE/KE4.xml,KE4RE00E,67502,10,,A,5,2,Good enough.,"[Good/JJ, enough/RB, ./.]",(ROOT (FRAG (ADJP (JJ Good) (RB enough)) (. .)))
 K/KE/KE4.xml,KE4RE00E,67502,11,,A,5,3,If you want it.,"[If/IN, you/PRP, want/VBP, it/PRP, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (NP (PRP it))))) (. .)))
 K/KE/KE4.xml,KE4RE00E,67502,12,,B,6,1,You've dropped it.,"[You/PRP, 've/VBP, dropped/VBD, it/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 've) (VP (VBD dropped) (NP (PRP it)))) (. .)))
-K/KE/KE4.xml,KE4RE00E,67502,13,,A,7,1,<humming> ,[],X
-K/KE/KE4.xml,KE4RE00E,67502,14,,A,7,2,<humming> ,[],X
-K/KE/KE4.xml,KE4RE00E,67502,15,,A,7,3,<whispering> ,[],X
-K/KE/KE4.xml,KE4RE00E,67502,16,,A,7,4,(()) ,[],X
-K/KE/KE4.xml,KE4RE00E,67502,17,,A,7,5,</whispering> ,[],X
-K/KE/KE4.xml,KE4RE00E,67502,18,,B,8,1,<laugh> ,[],X
+K/KE/KE4.xml,KE4RE00E,67502,13,,A,7,1,<humming> ,[],
+K/KE/KE4.xml,KE4RE00E,67502,14,,A,7,2,<humming> ,[],
+K/KE/KE4.xml,KE4RE00E,67502,15,,A,7,3,<whispering> ,[],
+K/KE/KE4.xml,KE4RE00E,67502,16,,A,7,4,(()) ,[],
+K/KE/KE4.xml,KE4RE00E,67502,17,,A,7,5,</whispering> ,[],
+K/KE/KE4.xml,KE4RE00E,67502,18,,B,8,1,<laugh> ,[],
 K/KE/KE4.xml,KE4RE00E,67502,19,,A,9,1,<whispering> And she's just found out that he   (()) --,"[And/CC, she/PRP, 's/VBZ, just/RB, found/VBN, out/IN, that/IN, he/PRP]",(ROOT (S (CC And) (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN found) (S (ADJP (IN out))) (SBAR (IN that) (S (NP (PRP he))))))))
 K/KE/KE4.xml,KE4RE00E,67502,20,,A,9,2,--(()) ,"[And/CC, she/PRP, 's/VBZ, just/RB, found/VBN, out/IN, that/IN, he/PRP]",(ROOT (S (CC And) (NP (PRP she)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN found) (S (ADJP (IN out))) (SBAR (IN that) (S (NP (PRP he))))))))

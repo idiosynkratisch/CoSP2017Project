@@ -5,9 +5,9 @@ K/KC/KCF.xml,KCFRE00A,28206,2,,B,2,2,--glasses?,"[Where/WRB, 's/POS, me/PRP, gla
 K/KC/KCF.xml,KCFRE00A,28206,3,,B,2,3,I brought them in here last night.,"[I/PRP, brought/VBD, them/PRP, in/IN, here/RB, last/JJ, night/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD brought) (NP (PRP them)) (PP (IN in) (NP (RB here))) (NP (JJ last) (NN night))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,4,,B,2,4,They're blinking somewhere.--,"[They/PRP, 're/VBP, blinking/RB, somewhere/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (RB blinking) (ADVP (RB somewhere))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,5,,B,2,5,--(()) ,"[They/PRP, 're/VBP, blinking/RB, somewhere/RB, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (RB blinking) (ADVP (RB somewhere))) (. .)))
-K/KC/KCF.xml,KCFRE00A,28206,6,,A,3,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,6,,A,3,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,7,,B,4,1,It's got  (()) all over it.,"[It/PRP, 's/VBZ, got/VBN, all/DT, over/IN, it/PRP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN got) (PP (DT all) (IN over) (NP (PRP it))))) (. .)))
-K/KC/KCF.xml,KCFRE00A,28206,8,,A,5,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,8,,A,5,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,9,,B,6,1,(()) --,"[oh/UH, they/PRP, 're/VBP, bloody/JJ, looking/VBG, at/IN, me/PRP, ./.]",(ROOT (S (S (INTJ (UH oh)) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ bloody) (S (VP (VBG looking) (PP (IN at) (NP (PRP me)))))))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,10,,B,6,2,--(()) oh they're bloody looking at me.,"[oh/UH, they/PRP, 're/VBP, bloody/JJ, looking/VBG, at/IN, me/PRP, ./.]",(ROOT (S (S (INTJ (UH oh)) (NP (PRP they)) (VP (VBP 're) (ADJP (JJ bloody) (S (VP (VBG looking) (PP (IN at) (NP (PRP me)))))))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,11,,B,6,3,On the flaming desk.,"[On/IN, the/DT, flaming/JJ, desk/NN, ./.]",(ROOT (FRAG (PP (IN On) (NP (DT the) (JJ flaming) (NN desk))) (. .)))
@@ -115,7 +115,7 @@ K/KC/KCF.xml,KCFRE00A,28206,112,,B,58,4,Textured walls and  (()) fitted </readin
 K/KC/KCF.xml,KCFRE00A,28206,113,,A,59,1,Have you been in there?,"[Have/VB, you/PRP, been/VBN, in/IN, there/EX, ?/.]",(ROOT (SQ (VP (VB Have) (NP (PRP you)) (VP (VBN been) (PP (IN in) (NP (EX there))))) (. ?)))
 K/KC/KCF.xml,KCFRE00A,28206,114,,B,60,1,They're big houses them up (()) .,"[They/PRP, 're/VBP, big/JJ, houses/NNS, them/PRP, up/RP, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NP (JJ big) (NNS houses)) (NP (PRP them))) (ADVP (RP up))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,115,,B,60,2,Well you've got eleven by six foot kitchen.,"[Well/RB, you/PRP, 've/VBP, got/VBN, eleven/NNS, by/IN, six/CD, foot/NN, kitchen/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (NP (NNS eleven)) (PP (IN by) (NP (CD six) (NN foot) (NN kitchen))))) (. .)))
-K/KC/KCF.xml,KCFRE00A,28206,116,,A,61,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,116,,A,61,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,117,,B,62,1,You've got an eleven by eight foot  --,"[You/PRP, 've/VBP, got/VBD, an/DT, eleven/NNS, by/IN, eight/CD, foot/NN, dining/NN, room/NN, and/CC, you/PRP, 've/VBP, got/VBD, a/DT, twelve/CD, by/IN, ten/CD, foot/NN, ,/,, ten/CD, and/CC, a/DT, half/JJ, foot/NN, lounge/NN, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP 've) (VP (VBD got) (NP (DT an) (NNS eleven)) (PP (IN by) (NP (CD eight) (NN foot) (NN dining) (NN room)))))) (CC and) (S (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (CD twelve)) (PP (IN by) (NP (NP (CD ten) (NN foot)) (, ,) (NP (CD ten)) (CC and) (NP (DT a) (JJ half) (NN foot) (NN lounge))))))) (. .)))"
 K/KC/KCF.xml,KCFRE00A,28206,118,,B,62,2,"--dining room and you've got a twelve by ten foot, ten and a half foot lounge.","[You/PRP, 've/VBP, got/VBD, an/DT, eleven/NNS, by/IN, eight/CD, foot/NN, dining/NN, room/NN, and/CC, you/PRP, 've/VBP, got/VBD, a/DT, twelve/CD, by/IN, ten/CD, foot/NN, ,/,, ten/CD, and/CC, a/DT, half/JJ, foot/NN, lounge/NN, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP 've) (VP (VBD got) (NP (DT an) (NNS eleven)) (PP (IN by) (NP (CD eight) (NN foot) (NN dining) (NN room)))))) (CC and) (S (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (DT a) (CD twelve)) (PP (IN by) (NP (NP (CD ten) (NN foot)) (, ,) (NP (CD ten)) (CC and) (NP (DT a) (JJ half) (NN foot) (NN lounge))))))) (. .)))"
 K/KC/KCF.xml,KCFRE00A,28206,119,,A,63,1,Oh,[Oh/UH],(ROOT (INTJ (UH Oh)))
@@ -239,7 +239,7 @@ K/KC/KCF.xml,KCFRE00A,28206,236,,B,126,1,It's a better house.,"[It/PRP, 's/VBZ, 
 K/KC/KCF.xml,KCFRE00A,28206,237,,A,127,1,"that one you have got only somebody one side of you, you're not attached to the other person.","[that/DT, one/CD, you/PRP, have/VBP, got/VBN, only/RB, somebody/NN, one/CD, side/NN, of/IN, you/PRP, ,/,, you/PRP, 're/VBP, not/RB, attached/VBN, to/TO, the/DT, other/JJ, person/NN, ./.]","(ROOT (S (SBAR (WHNP (WHNP (DT that)) (NP (CD one))) (S (NP (PRP you)) (VP (VBP have) (VP (VBN got) (PP (RB only) (NP (NP (NN somebody) (CD one) (NN side)) (PP (IN of) (NP (PRP you))))))))) (, ,) (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBN attached) (PP (TO to) (NP (DT the) (JJ other) (NN person))))) (. .)))"
 K/KC/KCF.xml,KCFRE00A,28206,238,,B,128,1,Oh you'd know it if you lived next door to (()) .,"[Oh/UH, you/PRP, 'd/MD, know/VB, it/PRP, if/IN, you/PRP, lived/VBD, next/JJ, door/NN, to/TO, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (MD 'd) (VP (VB know) (NP (PRP it)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBD lived) (ADVP (JJ next) (NN door)) (PP (TO to)))))))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,239,,B,128,2,"Isn't he noisy, ooh.","[Isn/NNP, 't/PRP, he/PRP, noisy/JJ, ,/,, ooh/NN, ./.]","(ROOT (NP (NP (NNP Isn)) (NP (NP (NP (PRP 't)) (ADJP (NP (PRP he)) (JJ noisy))) (, ,) (NP (NN ooh))) (. .)))"
-K/KC/KCF.xml,KCFRE00A,28206,240,,A,129,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,240,,A,129,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,241,,B,130,1,What do you mean?,"[What/WP, do/VBP, you/PRP, mean/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP do) (NP (PRP you)) (VP (VB mean))) (. ?)))
 K/KC/KCF.xml,KCFRE00A,28206,242,,B,130,2,Putting gas in?,"[Putting/VBG, gas/NN, in/IN, ?/.]",(ROOT (S (VP (VBG Putting) (NP (NN gas)) (PP (IN in))) (. ?)))
 K/KC/KCF.xml,KCFRE00A,28206,243,,A,131,1,No (()) .,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
@@ -253,7 +253,7 @@ K/KC/KCF.xml,KCFRE00A,28206,250,,B,136,2,Mature privet screen hedge and mature  
 K/KC/KCF.xml,KCFRE00A,28206,251,,B,136,3,Is it a bigger garden than that one across the road?,"[Is/VBZ, it/PRP, a/DT, bigger/JJR, garden/NN, than/IN, that/DT, one/CD, across/IN, the/DT, road/NN, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (NP (NP (DT a) (JJR bigger) (NN garden)) (PP (IN than) (NP (NP (DT that) (CD one)) (PP (IN across) (NP (DT the) (NN road)))))) (. ?)))
 K/KC/KCF.xml,KCFRE00A,28206,252,,A,137,1,No it's smaller.,"[No/DT, it/PRP, 's/VBZ, smaller/JJR, ./.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (ADJP (JJR smaller))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,253,,A,137,2,"Same sort of thing, long and narrow.","[Same/JJ, sort/NN, of/IN, thing/NN, ,/,, long/RB, and/CC, narrow/JJ, ./.]","(ROOT (NP (NP (JJ Same) (NN sort)) (PP (IN of) (NP (NP (NN thing)) (, ,) (UCP (ADVP (RB long)) (CC and) (ADJP (JJ narrow))))) (. .)))"
-K/KC/KCF.xml,KCFRE00A,28206,254,,B,138,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,254,,B,138,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,255,,A,139,1,And it's got a bigger shed as well.,"[And/CC, it/PRP, 's/VBZ, got/VBD, a/DT, bigger/JJR, shed/NN, as/RB, well/RB, ./.]",(ROOT (S (CC And) (NP (PRP it)) (VP (VBZ 's) (VP (VBD got) (NP (DT a) (JJR bigger) (NN shed)) (ADVP (RB as) (RB well)))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,256,,B,140,1,<reading> Timber shed and  (()) light power.,"[Timber/NN, shed/NN, and/CC, light/JJ, power/NN, ./.]",(ROOT (NP (NP (NN Timber)) (NP (NP (NN shed)) (CC and) (NP (JJ light) (NN power))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,257,,B,140,2,And light connected.,"[And/CC, light/JJ, connected/VBN, ./.]",(ROOT (S (CC And) (NP (JJ light)) (VP (VBN connected)) (. .)))
@@ -270,7 +270,7 @@ K/KC/KCF.xml,KCFRE00A,28206,267,,A,143,2,(()) about three months.,"[about/IN, th
 K/KC/KCF.xml,KCFRE00A,28206,268,,B,144,1,Deeds are in her name (()) ?,"[Deeds/NNS, are/VBP, in/IN, her/PRP$, name/NN, ?/.]",(ROOT (S (NP (NNS Deeds)) (VP (VBP are) (PP (IN in) (NP (PRP$ her) (NN name)))) (. ?)))
 K/KC/KCF.xml,KCFRE00A,28206,269,,A,145,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,270,,B,146,1,Well yes he's signed it over to her hasn't he?,"[Well/RB, yes/RB, he/PRP, 's/VBZ, signed/VBN, it/PRP, over/IN, to/TO, her/PRP$, hasn/NN, 't/PRP, he/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (RB yes) (PRP he)) (VP (VBZ 's) (VP (VBN signed) (NP (PRP it)) (PP (IN over) (PP (TO to) (NP (NP (PRP$ her) (NN hasn)) (NP (NP (PRP 't)) (NP (PRP he)))))))) (. ?)))
-K/KC/KCF.xml,KCFRE00A,28206,271,,A,147,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,271,,A,147,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,272,,B,148,1,She's gotta do it sooner or later.,"[She/PRP, 's/VBZ, gotta/NNP, do/VB, it/PRP, sooner/RBR, or/CC, later/RBR, ./.]",(ROOT (S (NP (PRP She)) (VP (VBZ 's) (S (NP (NNP gotta)) (VP (VB do) (NP (PRP it)) (ADVP (RBR sooner) (CC or) (RBR later))))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,273,,A,149,1,But I can't see why she's changed her solicitor (()) .,"[But/CC, I/PRP, can/MD, 't/PRP, see/VB, why/WRB, she/PRP, 's/VBZ, changed/VBN, her/PRP$, solicitor/NN, ./.]",(ROOT (S (CC But) (NP (PRP I)) (VP (MD can) (NP (PRP 't)) (S (VP (VB see) (SBAR (WHADVP (WRB why)) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN changed) (NP (PRP$ her) (NN solicitor))))))))) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,274,,B,150,1,Well I can cos he's no bloody good.,"[Well/RB, I/PRP, can/MD, cos/NN, he/PRP, 's/VBZ, no/DT, bloody/JJ, good/JJ, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD can) (S (NP (NP (NN cos)) (SBAR (S (NP (PRP he)) (VP (VBZ 's) (ADJP (DT no) (JJ bloody) (JJ good)))))))) (. .)))
@@ -286,9 +286,9 @@ K/KC/KCF.xml,KCFRE00A,28206,283,,A,155,1,Course you can.,"[Course/NN, you/PRP, c
 K/KC/KCF.xml,KCFRE00A,28206,284,,A,155,2,Where's the other papers Alison?,"[Where/WRB, 's/VBZ, the/DT, other/JJ, papers/NNS, Alison/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (NP (DT the) (JJ other) (NNS papers)) (NP (NNP Alison)))) (. ?)))
 K/KC/KCF.xml,KCFRE00A,28206,285,,A,155,3,Pardon?,"[Pardon/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon)) (. ?)))
 K/KC/KCF.xml,KCFRE00A,28206,286,,B,156,1,Where's the other papers?,"[Where/WRB, 's/VBZ, the/DT, other/JJ, papers/NNS, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (DT the) (JJ other) (NNS papers))) (. ?)))
-K/KC/KCF.xml,KCFRE00A,28206,287,,A,157,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,287,,A,157,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,288,,B,158,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,289,,B,158,2,Where are you mum?,"[Where/WRB, are/VBP, you/PRP, mum/VB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP are) (NP (PRP you)) (VP (VB mum))) (. ?)))
-K/KC/KCF.xml,KCFRE00A,28206,290,,A,159,1,(()) ,[],X
+K/KC/KCF.xml,KCFRE00A,28206,290,,A,159,1,(()) ,[],
 K/KC/KCF.xml,KCFRE00A,28206,291,,B,160,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KC/KCF.xml,KCFRE00A,28206,292,,B,160,2,Do you want another drink mum?,"[Do/VB, you/PRP, want/VBP, another/DT, drink/NN, mum/NN, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (NP (DT another) (NN drink) (NN mum)))))) (. ?)))

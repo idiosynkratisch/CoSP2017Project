@@ -15,7 +15,7 @@ K/KE/KE2.xml,KE2RE01L,38706,12,,B,8,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yea
 K/KE/KE2.xml,KE2RE01L,38706,13,,B,8,2,You alright?,"[You/PRP, alright/RB, ?/.]",(ROOT (FRAG (NP (PRP You)) (ADVP (RB alright)) (. ?)))
 K/KE/KE2.xml,KE2RE01L,38706,14,,A,9,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE2.xml,KE2RE01L,38706,15,,B,10,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KE/KE2.xml,KE2RE01L,38706,16,,A,11,1,<laugh> ,[],X
+K/KE/KE2.xml,KE2RE01L,38706,16,,A,11,1,<laugh> ,[],
 K/KE/KE2.xml,KE2RE01L,38706,17,,B,12,1,What time is Lucy coming to you by the way Terry?,"[What/WDT, time/NN, is/VBZ, Lucy/NNP, coming/VBG, to/TO, you/PRP, by/IN, the/DT, way/NN, Terry/NN, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VBZ is) (NP (NNP Lucy)) (VP (VBG coming) (PP (TO to) (NP (PRP you))) (PP (IN by) (NP (DT the) (NN way) (NN Terry))))) (. ?)))
 K/KE/KE2.xml,KE2RE01L,38706,18,,A,13,1,What time is?,"[What/WDT, time/NN, is/VBZ, ?/.]",(ROOT (SBARQ (WHNP (WDT What) (NN time)) (SQ (VP (VBZ is))) (. ?)))
 K/KE/KE2.xml,KE2RE01L,38706,19,,B,14,1,Tomorrow  --,"[Tomorrow/NN, Lucy/NNP, coming/VBG, in/IN, tomorrow/NN, ?/.]",(ROOT (NP (NP (NN Tomorrow) (NNP Lucy)) (VP (VBG coming) (PP (IN in) (NP (NN tomorrow)))) (. ?)))
@@ -148,7 +148,7 @@ K/KE/KE2.xml,KE2RE01L,38706,145,,B,80,1,And it's a break innit?,"[And/CC, it/PRP
 K/KE/KE2.xml,KE2RE01L,38706,146,,A,81,1,Dozen  --,"[Dozen/NN, dozen/NN, years/NNS, or/CC, so/RB, ./.]",(ROOT (NP (NP (NN Dozen) (NN dozen) (NNS years)) (QP (CC or) (RB so)) (. .)))
 K/KE/KE2.xml,KE2RE01L,38706,147,,A,81,2,--dozen years or so.,"[Dozen/NN, dozen/NN, years/NNS, or/CC, so/RB, ./.]",(ROOT (NP (NP (NN Dozen) (NN dozen) (NNS years)) (QP (CC or) (RB so)) (. .)))
 K/KE/KE2.xml,KE2RE01L,38706,148,,A,81,3,We haven't been up there since seventy eight you see when my mother ,"[We/PRP, haven/NN, 't/PRP, been/VBN, up/RB, there/RB, since/IN, seventy/CD, eight/CD, you/PRP, see/VBP, when/WRB, my/PRP$, mother/NN]",(ROOT (S (NP (PRP We)) (VP (NN haven) (NP (NP (PRP 't)) (VP (VBN been) (ADVP (RB up) (RB there)) (PP (IN since) (NP (CD seventy) (CD eight)))) (SBAR (S (NP (PRP you)) (VP (VBP see) (ADVP (WRB when)) (NP (PRP$ my) (NN mother)))))))))
-K/KE/KE2.xml,KE2RE01L,38706,149,,B,82,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE01L,38706,149,,B,82,1,(()) ,[],
 K/KE/KE2.xml,KE2RE01L,38706,150,,A,83,1,moved down here!,"[moved/VBN, down/RB, here/RB, !/.]",(ROOT (S (VP (VBN moved) (ADVP (RB down) (RB here))) (. !)))
 K/KE/KE2.xml,KE2RE01L,38706,151,,B,84,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KE/KE2.xml,KE2RE01L,38706,152,,A,85,1,That's the last time we've been to Suffolk.,"[That/DT, 's/VBZ, the/DT, last/JJ, time/NN, we/PRP, 've/VBP, been/VBN, to/TO, Suffolk/NNP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT the) (JJ last) (NN time)) (SBAR (S (NP (PRP we)) (VP (VBP 've) (VP (VBN been) (PP (TO to) (NP (NNP Suffolk))))))))) (. .)))

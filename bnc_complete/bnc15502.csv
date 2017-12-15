@@ -9,5 +9,5 @@ K/KB/KBF.xml,KBFRE01K,15502,6,,A,3,3,You got everything?(()) ,"[You/PRP, got/VBD
 K/KB/KBF.xml,KBFRE01K,15502,7,,B,4,1,Oh great.,"[Oh/UH, great/JJ, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ great)))) (. .)))
 K/KB/KBF.xml,KBFRE01K,15502,8,,A,5,1,You taking that coat?,"[You/PRP, taking/VBG, that/DT, coat/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBG taking) (NP (DT that) (NN coat))) (. ?)))
 K/KB/KBF.xml,KBFRE01K,15502,9,,B,6,1,Oh yes I'm going to wear it.,"[Oh/UH, yes/UH, I/PRP, 'm/VBP, going/VBG, to/TO, wear/VB, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Oh) (UH yes)) (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB wear) (NP (PRP it)))))))) (. .)))
-K/KB/KBF.xml,KBFRE01K,15502,10,,A,7,1,(()) ,[],X
+K/KB/KBF.xml,KBFRE01K,15502,10,,A,7,1,(()) ,[],
 K/KB/KBF.xml,KBFRE01K,15502,11,,B,8,1,I'll get it somewhere.,"[I/PRP, 'll/MD, get/VB, it/PRP, somewhere/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB get) (NP (PRP it)) (ADVP (RB somewhere)))) (. .)))

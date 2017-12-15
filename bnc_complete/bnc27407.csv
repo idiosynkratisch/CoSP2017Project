@@ -19,7 +19,7 @@ K/KC/KCN.xml,KCNRE017,27407,16,,A,13,1,There's Little John look.,"[There/EX, 's/
 K/KC/KCN.xml,KCNRE017,27407,17,,B,14,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCN.xml,KCNRE017,27407,18,,A,15,1,Ah well.,"[Ah/NN, well/RB, ./.]",(ROOT (FRAG (NP (NN Ah)) (ADVP (RB well)) (. .)))
 K/KC/KCN.xml,KCNRE017,27407,19,,B,16,1,Well it's been dry for another day.,"[Well/RB, it/PRP, 's/VBZ, been/VBN, dry/JJ, for/IN, another/DT, day/NN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP it)) (VP (VBZ 's) (VP (VBN been) (ADJP (JJ dry)) (PP (IN for) (NP (DT another) (NN day))))) (. .)))
-K/KC/KCN.xml,KCNRE017,27407,20,,A,17,1,<yawn> ,[],X
+K/KC/KCN.xml,KCNRE017,27407,20,,A,17,1,<yawn> ,[],
 K/KC/KCN.xml,KCNRE017,27407,21,,B,18,1,Oh christ (()) ,"[Oh/UH, christ/NNP]",(ROOT (INTJ (UH Oh) (NNP christ)))
 K/KC/KCN.xml,KCNRE017,27407,22,,A,19,1,(()) ?,[?/.],(ROOT (NP (. ?)))
 K/KC/KCN.xml,KCNRE017,27407,23,,B,20,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
@@ -74,6 +74,6 @@ K/KC/KCN.xml,KCNRE017,27407,71,,B,52,1,Look at the kite.,"[Look/VB, at/IN, the/D
 K/KC/KCN.xml,KCNRE017,27407,72,,A,53,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCN.xml,KCNRE017,27407,73,,B,54,1,What if that got tangled up in an aeroplane passing?,"[What/WP, if/IN, that/DT, got/VBD, tangled/VBN, up/RP, in/IN, an/DT, aeroplane/NN, passing/NN, ?/.]",(ROOT (SBAR (WP What) (IN if) (S (NP (DT that)) (VP (VBD got) (VP (VBN tangled) (PRT (RP up)) (PP (IN in) (NP (DT an) (NN aeroplane) (NN passing)))))) (. ?)))
 K/KC/KCN.xml,KCNRE017,27407,74,,A,55,1,"No,(()) ","[No/DT, ,/,]","(ROOT (FRAG (PP (DT No)) (, ,)))"
-K/KC/KCN.xml,KCNRE017,27407,75,,B,56,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE017,27407,75,,B,56,1,(()) ,[],
 K/KC/KCN.xml,KCNRE017,27407,76,,A,57,1,"Yes, yes.","[Yes/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Yes)) (, ,) (INTJ (UH yes) (. .))))"
 K/KC/KCN.xml,KCNRE017,27407,77,,A,57,2,Aeroplanes  (()) ,[Aeroplanes/NNPS],(ROOT (NP (NNPS Aeroplanes)))

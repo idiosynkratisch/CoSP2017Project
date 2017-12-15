@@ -5,7 +5,7 @@ K/KB/KBK.xml,KBKRE03W,2504,2,,A,3,1,Mm ,[Mm/NN],(ROOT (NP (NN Mm)))
 K/KB/KBK.xml,KBKRE03W,2504,3,,B,4,1,"I've read so much tonight,(()) .","[I/PRP, 've/VBP, read/VBN, so/RB, much/JJ, tonight/NN, ,/,, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN read) (ADVP (RB so)) (NP (JJ much) (NN tonight)) (, ,))) (. .)))"
 K/KB/KBK.xml,KBKRE03W,2504,4,,A,5,1,Well the French Connection starts on T V at ten o'clock so come and watch that.,"[Well/RB, the/DT, French/JJ, Connection/NN, starts/VBZ, on/IN, T/NN, V/NN, at/IN, ten/CD, o/NN, 'clock/NN, so/RB, come/VB, and/CC, watch/VB, that/DT, ./.]",(ROOT (S (ADVP (RB Well)) (NP (DT the) (JJ French) (NN Connection)) (VP (VBZ starts) (PP (IN on) (NP (NN T) (NN V))) (PP (IN at) (ADVP (NP (CD ten) (NN o) (NN 'clock)) (RB so))) (VP (VB come) (CC and) (VB watch) (NP (DT that)))) (. .)))
 K/KB/KBK.xml,KBKRE03W,2504,5,,A,5,2,Classic film dear.,"[Classic/JJ, film/NN, dear/RB, ./.]",(ROOT (NP (NP (ADJP (JJ Classic)) (NN film)) (ADJP (RB dear)) (. .)))
-K/KB/KBK.xml,KBKRE03W,2504,6,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE03W,2504,6,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE03W,2504,7,,A,7,1,"I don't know, probably.","[I/PRP, don/VBP, 't/PRP, know/VB, ,/,, probably/RB, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP don) (SBAR (S (NP (PRP 't)) (VP (VB know)))) (, ,) (ADVP (RB probably))) (. .)))"
 K/KB/KBK.xml,KBKRE03W,2504,8,,A,7,2,About an hour and a half later.,"[About/IN, an/DT, hour/NN, and/CC, a/DT, half/NN, later/RB, ./.]",(ROOT (FRAG (PP (IN About) (NP (NP (DT an) (NN hour)) (CC and) (NP (DT a) (NN half) (RB later)))) (. .)))
 K/KB/KBK.xml,KBKRE03W,2504,9,,B,8,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

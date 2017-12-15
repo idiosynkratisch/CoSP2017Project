@@ -1,4 +1,4 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KE/KE2.xml,KE2RE03V,39604,0,,A,1,1,Well yeah I su- I suppose there must be!,"[Well/RB, yeah/UH, I/PRP, su-/VBP, I/PRP, suppose/VB, there/RB, must/MD, be/VB, !/.]",(ROOT (S (SBAR (ADVP (RB Well)) (S (INTJ (UH yeah)) (NP (PRP I)) (VP (VBP su-) (S (NP (PRP I)) (VP (VB suppose) (ADVP (RB there))))))) (VP (MD must) (VP (VB be))) (. !)))
-K/KE/KE2.xml,KE2RE03V,39604,1,,B,2,1,(()) ,[],X
+K/KE/KE2.xml,KE2RE03V,39604,1,,B,2,1,(()) ,[],
 K/KE/KE2.xml,KE2RE03V,39604,2,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))

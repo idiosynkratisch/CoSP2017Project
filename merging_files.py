@@ -10,10 +10,14 @@ bnc_metadata = "bnc-metadata.csv"
 swbd = CorpusReader(swbd_folder, swbd_folder+"/"+swbd_metadata)
 
 #figure out which conversation numbers are where for swda
+#in the process, throw out those without pos-tags
 filename = {}
 for trans in swbd.iter_transcripts(display_progress=False):
     no = trans.conversation_no
-    filename[no] = trans.swda_filename
+    if filter(lambda x: x.pos != '', trans.utterances) == []:
+        continue
+    else:
+        filename[no] = trans.swda_filename
 
 swbd_trees_folder = "output"
 bnc_trees_folder = "output_bnc"
@@ -56,7 +60,11 @@ for path in swbd_trees:
         data.append(row)
     for row in tree_reader:
         for index in eval(row[0]):
-            data[index]['trees'] = row[1]
+            #replace X (=not parsable) by the empty string
+            if row[1] == 'X':
+                data[index]['trees'] = ''
+            else:
+                data[index]['trees'] = row[1]
     tree_file.close()
     trans_file.close()
     merged_file = open('{}/sw{}.csv'.format(swbd_output, conv_no), 'wb')
@@ -87,7 +95,10 @@ for path in bnc_trees:
         for index in eval(row[1]):
             data[index]['conversation_no'] = conv_no
             data[index]['pos'] = row[3]
-            data[index]['trees'] = row[4]
+            if row[4] == 'X':
+                data[index]['trees'] = ''
+            else:
+                data[index]['trees'] = row[4]
     tree_file.close()
     trans_file.close()
     merged_file = open('{}/bnc{}.csv'.format(bnc_output, conv_no), 'wb')

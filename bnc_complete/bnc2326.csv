@@ -2,8 +2,8 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KB/KBK.xml,KBKRE02U,2326,0,,A,1,1,Quite incredible.,"[Quite/RB, incredible/JJ, ./.]",(ROOT (FRAG (NP (RB Quite) (JJ incredible)) (. .)))
 K/KB/KBK.xml,KBKRE02U,2326,1,,B,2,1,Cos of me.,"[Cos/NN, of/IN, me/PRP, ./.]",(ROOT (NP (NP (NN Cos)) (PP (IN of) (NP (PRP me))) (. .)))
 K/KB/KBK.xml,KBKRE02U,2326,2,,A,3,1,It's not (()) .,"[It/PRP, 's/VBZ, not/RB, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not)) (. .)))
-K/KB/KBK.xml,KBKRE02U,2326,3,,B,4,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE02U,2326,4,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02U,2326,3,,B,4,1,(()) ,[],
+K/KB/KBK.xml,KBKRE02U,2326,4,,A,5,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02U,2326,5,,B,6,1,No we're not in the woods proper here.,"[No/DT, we/PRP, 're/VBP, not/RB, in/IN, the/DT, woods/NNS, proper/JJ, here/RB, ./.]",(ROOT (S (NP (DT No) (PRP we)) (VP (VBP 're) (ADVP (RB not) (PP (IN in) (NP (DT the) (NNS woods)))) (ADJP (JJ proper)) (ADVP (RB here))) (. .)))
 K/KB/KBK.xml,KBKRE02U,2326,6,,B,6,2,This is  (()) woods.,"[This/DT, is/VBZ, woods/NNS, ./.]",(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NNS woods))) (. .)))
-K/KB/KBK.xml,KBKRE02U,2326,7,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02U,2326,7,,A,7,1,(()) ,[],

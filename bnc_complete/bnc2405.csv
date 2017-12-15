@@ -3,7 +3,7 @@ K/KB/KBK.xml,KBKRE038,2405,0,,A,1,1,D'you think you could get some non brand cer
 K/KB/KBK.xml,KBKRE038,2405,1,,A,1,2,Please.,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
 K/KB/KBK.xml,KBKRE038,2405,2,,B,2,1,I bought one today.,"[I/PRP, bought/VBD, one/CD, today/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD bought) (NP (CD one)) (NP (NN today))) (. .)))
 K/KB/KBK.xml,KBKRE038,2405,3,,A,3,1,"Did you, thank you.","[Did/VBD, you/PRP, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (VP (VBD Did) (NP (PRP you)) (, ,) (S (VP (VB thank) (NP (PRP you))))) (. .)))"
-K/KB/KBK.xml,KBKRE038,2405,4,,B,4,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE038,2405,4,,B,4,1,(()) ,[],
 K/KB/KBK.xml,KBKRE038,2405,5,,A,5,1,"I don't know, I haven't looked, let's see.","[I/PRP, don/VBP, 't/PRP, know/VB, ,/,, I/PRP, haven/NN, 't/PRP, looked/VBD, ,/,, let/VB, 's/POS, see/VB, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (, ,) (S (NP (PRP I)) (NP (NP (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD looked) (, ,) (S (VP (VB let) (S (NP (POS 's)) (VP (VB see))))))))))))) (. .)))"
 K/KB/KBK.xml,KBKRE038,2405,6,,B,6,1,(()) they're all quite (()) .,"[they/PRP, 're/VBP, all/DT, quite/RB, ./.]",(ROOT (S (NP (PRP they)) (VP (VBP 're) (ADVP (DT all) (RB quite))) (. .)))
 K/KB/KBK.xml,KBKRE038,2405,7,,A,7,1,"Oh love, oh super, oh <laugh> .","[Oh/UH, love/NN, ,/,, oh/UH, super/NNP, ,/,, oh/UH, ./.]","(ROOT (S (S (INTJ (UH Oh)) (NP (NN love)) (VP (, ,) (NP (INTJ (UH oh)) (NP (NNP super))))) (, ,) (FRAG (INTJ (UH oh))) (. .)))"
@@ -12,7 +12,7 @@ K/KB/KBK.xml,KBKRE038,2405,9,,A,9,1,It depends on the (()) .(()) .,"[It/PRP, dep
 K/KB/KBK.xml,KBKRE038,2405,10,,B,10,1,(()) in there.,"[in/IN, there/RB, ./.]",(ROOT (FRAG (PP (IN in) (NP (RB there))) (. .)))
 K/KB/KBK.xml,KBKRE038,2405,11,,A,11,1,Oh good.,"[Oh/UH, good/JJ, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ good)))) (. .)))
 K/KB/KBK.xml,KBKRE038,2405,12,,A,11,2,"(()) , can't imagine anything looking nicer than (()) .","[,/,, can/MD, 't/PRP, imagine/VB, anything/NN, looking/VBG, nicer/JJR, than/IN, ./.]","(ROOT (PRN (, ,) (S (VP (MD can) (NP (PRP 't)) (S (VP (VB imagine) (FRAG (NP (NP (NN anything)) (SBAR (S (VP (VBG looking) (ADJP (JJR nicer)) (ADVP (IN than))))) (. .)))))))))"
-K/KB/KBK.xml,KBKRE038,2405,13,,B,12,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE038,2405,13,,B,12,1,(()) ,[],
 K/KB/KBK.xml,KBKRE038,2405,14,,A,13,1,Shall I open a bottle?,"[Shall/MD, I/PRP, open/VB, a/DT, bottle/NN, ?/.]",(ROOT (SQ (MD Shall) (NP (PRP I)) (VP (VB open) (NP (DT a) (NN bottle))) (. ?)))
-K/KB/KBK.xml,KBKRE038,2405,15,,B,14,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE038,2405,15,,B,14,1,(()) ,[],
 K/KB/KBK.xml,KBKRE038,2405,16,,A,15,1,Fish wine?,"[Fish/NN, wine/NN, ?/.]",(ROOT (FRAG (NP (NN Fish) (NN wine)) (. ?)))

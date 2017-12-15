@@ -157,7 +157,7 @@ sw08utt/sw_0868_2788.utt,2/sw2788,2788,154,b,A,101,1,# Yeah. # /,Yeah/UH ./.,(RO
 sw08utt/sw_0868_2788.utt,2/sw2788,2788,155,ad,B,102,1,"# {D anyway } # back to the subject, /","anyway/RB back/RB to/IN the/DT subject/NN ,/,","(ROOT (FRAG (PP (ADVP (ADVP (RB anyway)) (RB back)) (IN to) (NP (DT the) (NN subject))) (, ,)))",
 sw08utt/sw_0868_2788.utt,2/sw2788,2788,156,aa,A,103,1,# Yeah. # /,Yeah/UH ./.,(ROOT (INTJ (UH Yeah) (. .))),
 sw08utt/sw_0868_2788.utt,2/sw2788,2788,157,sv,B,104,1,"# we # should have discussed this earlier, /","we/PRP should/MD have/VB discussed/VBN this/DT earlier/RBR ,/,","(ROOT (S (NP (PRP we)) (VP (MD should) (VP (VB have) (VP (VBN discussed) (ADVP (DT this) (RBR earlier))))) (, ,)))",
-sw08utt/sw_0868_2788.utt,2/sw2788,2788,158,x,A,105,1,# <Laughter>.  #,,X,
+sw08utt/sw_0868_2788.utt,2/sw2788,2788,158,x,A,105,1,# <Laughter>.  #,,,
 sw08utt/sw_0868_2788.utt,2/sw2788,2788,159,sd,B,106,1,"# {C but } # {D anyway, } it's tough, /","but/CC anyway/RB ,/, it/PRP 's/BES tough/JJ ,/,","(ROOT (S (CC but) (ADVP (RB anyway)) (, ,) (ADVP (PRP it)) (VP (BES 's) (ADJP (JJ tough))) (, ,)))",
 sw08utt/sw_0868_2788.utt,2/sw2788,2788,160,b,A,107,1,# <<Very faint>> Uh-huh. # /,Uh-huh/UH ./.,(ROOT (INTJ (UH Uh-huh) (. .))),
 sw08utt/sw_0868_2788.utt,2/sw2788,2788,161,sd,B,108,1,"# it really is,  /","it/PRP really/RB is/VBZ ,/,","(ROOT (S (NP (PRP it)) (ADVP (RB really)) (VP (VBZ is)) (, ,)))",

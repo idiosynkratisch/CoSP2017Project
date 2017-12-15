@@ -14,12 +14,12 @@ K/KB/KBJ.xml,KBJRE00R,52303,11,,B,10,1,Erm,[Erm/NN],(ROOT (NP (NN Erm)))
 K/KB/KBJ.xml,KBJRE00R,52303,12,,A,11,1,It has  --,"[It/PRP, has/VBZ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ has)) (. .)))
 K/KB/KBJ.xml,KBJRE00R,52303,13,,A,11,2,--(()) .,"[It/PRP, has/VBZ, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ has)) (. .)))
 K/KB/KBJ.xml,KBJRE00R,52303,14,,B,12,1,"So it, it reads, that, that ","[So/IN, it/PRP, ,/,, it/PRP, reads/VBZ, ,/,, that/IN, ,/,, that/IN]","(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP it)) (, ,) (NP (NP (PRP it)) (SBAR (S (VP (VBZ reads) (, ,) (ADVP (IN that)) (, ,) (ADVP (IN that)))))))))"
-K/KB/KBJ.xml,KBJRE00R,52303,15,,A,13,1,(()) ,[],X
+K/KB/KBJ.xml,KBJRE00R,52303,15,,A,13,1,(()) ,[],
 K/KB/KBJ.xml,KBJRE00R,52303,16,,B,14,1,and that.,"[and/CC, that/DT, ./.]",(ROOT (FRAG (PP (CC and) (NP (DT that))) (. .)))
 K/KB/KBJ.xml,KBJRE00R,52303,17,,A,15,1,Don't bother putting trees and fruit trees.,"[Don/NNP, 't/PRP, bother/VB, putting/VBG, trees/NNS, and/CC, fruit/NN, trees/NNS, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB bother) (S (VP (VBG putting) (NP (NNS trees) (CC and) (NN fruit) (NNS trees))))) (. .)))
 K/KB/KBJ.xml,KBJRE00R,52303,18,,B,16,1,Oh no!,"[Oh/UH, no/DT, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. !)))
-K/KB/KBJ.xml,KBJRE00R,52303,19,,A,17,1,<sigh> ,[],X
-K/KB/KBJ.xml,KBJRE00R,52303,20,,A,17,2,<cough> ,[],X
+K/KB/KBJ.xml,KBJRE00R,52303,19,,A,17,1,<sigh> ,[],
+K/KB/KBJ.xml,KBJRE00R,52303,20,,A,17,2,<cough> ,[],
 K/KB/KBJ.xml,KBJRE00R,52303,21,,B,18,1,Are you going to put that away now?,"[Are/VBP, you/PRP, going/VBG, to/TO, put/VB, that/DT, away/RB, now/RB, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (VP (VBG going) (S (VP (TO to) (VP (VB put) (NP (DT that)) (ADVP (RB away) (RB now)))))) (. ?)))
 K/KB/KBJ.xml,KBJRE00R,52303,22,,A,19,1,I'll put it away when  --,"[I/PRP, 'll/MD, put/VB, it/PRP, away/RB, when/WRB, you/PRP, done/VBN, with/IN, that/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (ADVP (RB away)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBN done) (PP (IN with) (NP (DT that)))))))) (. .)))
 K/KB/KBJ.xml,KBJRE00R,52303,23,,A,19,2,--you done with that.,"[I/PRP, 'll/MD, put/VB, it/PRP, away/RB, when/WRB, you/PRP, done/VBN, with/IN, that/DT, ./.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (ADVP (RB away)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBN done) (PP (IN with) (NP (DT that)))))))) (. .)))

@@ -3,7 +3,7 @@ K/KD/KDE.xml,KDERE02K,7407,0,,A,1,1,I'm full up now.,"[I/PRP, 'm/VBP, full/JJ, u
 K/KD/KDE.xml,KDERE02K,7407,1,,B,2,1,Oh you can't be full up.,"[Oh/UH, you/PRP, can/MD, 't/PRP, be/VB, full/JJ, up/RB, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (MD can))) (S (NP (PRP 't)) (VP (VB be) (ADJP (JJ full) (PRT (RB up))))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,2,,A,3,1,I am.,"[I/PRP, am/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP am)) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,3,,B,4,1,You can't be.,"[You/PRP, can/MD, 't/PRP, be/VB, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (NP (PRP 't)) (S (VP (VB be)))) (. .)))
-K/KD/KDE.xml,KDERE02K,7407,4,,A,5,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02K,7407,4,,A,5,1,(()) ,[],
 K/KD/KDE.xml,KDERE02K,7407,5,,B,6,1,Ah.,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,6,,B,6,2,Finish some more cereal you must be a hungry boy.,"[Finish/VB, some/DT, more/JJR, cereal/NN, you/PRP, must/MD, be/VB, a/DT, hungry/JJ, boy/NN, ./.]",(ROOT (S (VP (VB Finish) (NP (NP (DT some) (JJR more) (NN cereal)) (SBAR (S (NP (PRP you)) (VP (MD must) (VP (VB be) (NP (DT a) (JJ hungry) (NN boy)))))))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,7,,B,6,3,"And, d'you know where you're going today?","[And/CC, ,/,, d/NNP, 'you/NNP, know/VB, where/WRB, you/PRP, 're/VBP, going/VBG, today/NN, ?/.]","(ROOT (S (CC And) (, ,) (NP (NNP d) (NNP 'you)) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG going) (NP (NN today))))))) (. ?)))"
@@ -21,7 +21,7 @@ K/KD/KDE.xml,KDERE02K,7407,18,,B,14,1,You want to take your lunch box too?,"[You
 K/KD/KDE.xml,KDERE02K,7407,19,,B,14,2,(()) . I want a cuddleee.,"[./., I/PRP, want/VBP, a/DT, cuddleee/NN, ./.]",(ROOT (S (. .) (NP (PRP I)) (VP (VBP want) (NP (DT a) (NN cuddleee))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,20,,B,14,3,Oh oooh.,"[Oh/UH, oooh/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB oooh)))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,21,,B,14,4,(()) . Ooooh.,"[./., Ooooh/NN, ./.]",(ROOT (FRAG (WHNP (. .) (NN Ooooh)) (. .)))
-K/KD/KDE.xml,KDERE02K,7407,22,,A,15,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02K,7407,22,,A,15,1,(()) ,[],
 K/KD/KDE.xml,KDERE02K,7407,23,,B,16,1,What would you like to do today?,"[What/WP, would/MD, you/PRP, like/VB, to/TO, do/VB, today/NN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (MD would) (NP (PRP you)) (VP (VB like) (S (VP (TO to) (VP (VB do) (NP (NN today))))))) (. ?)))
 K/KD/KDE.xml,KDERE02K,7407,24,,A,17,1,I like toys.,"[I/PRP, like/VBP, toys/NNS, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (NNS toys))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,25,,B,18,1,You like toys?,"[You/PRP, like/IN, toys/NNS, ?/.]",(ROOT (NP (NP (PRP You)) (PP (IN like) (NP (NNS toys))) (. ?)))
@@ -42,7 +42,7 @@ K/KD/KDE.xml,KDERE02K,7407,39,,B,24,2,Shall we do that now?,"[Shall/MD, we/PRP, 
 K/KD/KDE.xml,KDERE02K,7407,40,,A,25,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,41,,A,25,2,Please.,"[Please/VB, ./.]",(ROOT (S (VP (VB Please)) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,42,,B,26,1,Get your lunchbox then.,"[Get/VB, your/PRP$, lunchbox/NN, then/RB, ./.]",(ROOT (S (VP (VB Get) (NP (PRP$ your) (NN lunchbox)) (ADVP (RB then))) (. .)))
-K/KD/KDE.xml,KDERE02K,7407,43,,A,27,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02K,7407,43,,A,27,1,(()) ,[],
 K/KD/KDE.xml,KDERE02K,7407,44,,B,28,1,"Which one are you taking, the turtle one?","[Which/WDT, one/NN, are/VBP, you/PRP, taking/VBG, ,/,, the/DT, turtle/NNP, one/CD, ?/.]","(ROOT (SBARQ (WHNP (WDT Which) (NN one)) (SQ (VBP are) (NP (PRP you)) (VP (VBG taking))) (, ,) (FRAG (NP (DT the) (NNP turtle)) (NP (CD one))) (. ?)))"
 K/KD/KDE.xml,KDERE02K,7407,45,,A,29,1,Dunno what's in here?,"[Dunno/NNP, what/WP, 's/VBZ, in/IN, here/RB, ?/.]",(ROOT (FRAG (NP (NP (NNP Dunno)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PP (IN in) (NP (RB here))))))) (. ?)))
 K/KD/KDE.xml,KDERE02K,7407,46,,B,30,1,What's in your lunchbox.,"[What/WP, 's/VBZ, in/IN, your/PRP$, lunchbox/NN, ./.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (PP (IN in) (NP (PRP$ your) (NN lunchbox)))) (. .)))
@@ -65,7 +65,7 @@ K/KD/KDE.xml,KDERE02K,7407,62,,B,36,4,"And take all those to nursery, now what e
 K/KD/KDE.xml,KDERE02K,7407,63,,B,36,5,Nothing else in here.,"[Nothing/NN, else/RB, in/IN, here/RB, ./.]",(ROOT (NP (NP (NN Nothing) (RB else)) (PP (IN in) (NP (RB here))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,64,,A,37,1,I want take umm.,"[I/PRP, want/VBP, take/VB, umm/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP want) (VP (VB take) (NP (NN umm)))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,65,,B,38,1,"What did you want to take, your cones?","[What/WP, did/VBD, you/PRP, want/VBP, to/TO, take/VB, ,/,, your/PRP$, cones/NNS, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VP (VBD did) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB take)))) (, ,) (S (NP (PRP$ your) (NNS cones)))))))) (. ?)))"
-K/KD/KDE.xml,KDERE02K,7407,66,,A,39,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02K,7407,66,,A,39,1,(()) ,[],
 K/KD/KDE.xml,KDERE02K,7407,67,,B,40,1,Well I thought we'd keep those because then you won't have any will you?,"[Well/RB, I/PRP, thought/VBD, we/PRP, 'd/MD, keep/VB, those/DT, because/IN, then/RB, you/PRP, won/VBD, 't/PRP, have/VB, any/DT, will/MD, you/PRP, ?/.]",(ROOT (SINV (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP we)) (VP (MD 'd) (VP (VB keep) (NP (DT those)) (SBAR (IN because) (S (ADVP (RB then)) (NP (PRP you)) (VP (VBD won) (S (NP (PRP 't)) (VP (VB have) (NP (DT any))))))))))))) (VP (MD will)) (NP (PRP you)) (. ?)))
 K/KD/KDE.xml,KDERE02K,7407,68,,B,40,2,"So if we keep those here,","[So/RB, if/IN, we/PRP, keep/VBP, those/DT, here/RB, ,/,]","(ROOT (FRAG (ADVP (RB So)) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP keep) (NP (DT those)) (ADVP (RB here))) (, ,)))))"
 K/KD/KDE.xml,KDERE02K,7407,69,,A,41,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -95,7 +95,7 @@ K/KD/KDE.xml,KDERE02K,7407,92,,A,57,1,Go and get some more.,"[Go/VB, and/CC, get
 K/KD/KDE.xml,KDERE02K,7407,93,,B,58,1,Well you'll have to go and get some shoes to put on.,"[Well/RB, you/PRP, 'll/MD, have/VB, to/TO, go/VB, and/CC, get/VB, some/DT, shoes/NNS, to/TO, put/VB, on/RP, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB go) (CC and) (VB get) (NP (DT some) (NNS shoes)) (S (VP (TO to) (VP (VB put) (PRT (RP on)))))))))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,94,,A,59,1,I'm going to put some wellingtons on.,"[I/PRP, 'm/VBP, going/VBG, to/TO, put/VB, some/DT, wellingtons/NNS, on/IN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB put) (NP (DT some) (NNS wellingtons)) (PP (IN on))))))) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,95,,B,60,1,Well go and get your wellies then.,"[Well/RB, go/VB, and/CC, get/VB, your/PRP$, wellies/NNS, then/RB, ./.]",(ROOT (S (INTJ (RB Well)) (VP (VP (VB go)) (CC and) (VP (VB get) (NP (PRP$ your) (NNS wellies)) (ADVP (RB then)))) (. .)))
-K/KD/KDE.xml,KDERE02K,7407,96,,A,61,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02K,7407,96,,A,61,1,(()) ,[],
 K/KD/KDE.xml,KDERE02K,7407,97,,B,62,1,D'you want me to help you?,"[D/NNP, 'you/NNP, want/VB, me/PRP, to/TO, help/VB, you/PRP, ?/.]",(ROOT (S (NP (NNP D) (NNP 'you)) (VP (VB want) (S (NP (PRP me)) (VP (TO to) (VP (VB help) (NP (PRP you)))))) (. ?)))
 K/KD/KDE.xml,KDERE02K,7407,98,,A,63,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KDE.xml,KDERE02K,7407,99,,A,63,2,Are here.,"[Are/VBP, here/RB, ./.]",(ROOT (S (VP (VBP Are) (ADVP (RB here))) (. .)))

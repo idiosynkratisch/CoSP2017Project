@@ -4,7 +4,7 @@ K/KB/KBH.xml,KBHRE01E,4303,1,,A,1,2,You being careful?,"[You/PRP, being/VBG, car
 K/KB/KBH.xml,KBHRE01E,4303,2,,B,2,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,3,,A,3,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,4,,A,3,2,Don't want you to get a bump on the head do we?,"[Don/NNP, 't/PRP, want/VBP, you/PRP, to/TO, get/VB, a/DT, bump/NN, on/IN, the/DT, head/NN, do/VBP, we/PRP, ?/.]",(ROOT (S (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VBP want) (S (NP (PRP you)) (VP (TO to) (VP (VB get) (NP (DT a) (NN bump)) (PP (IN on) (NP (DT the) (NN head)))))))))) (VP (VBP do) (NP (PRP we))) (. ?)))
-K/KB/KBH.xml,KBHRE01E,4303,5,,B,4,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,5,,B,4,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,6,,A,5,1,Wonder if your daddy's caught any fish yet?,"[Wonder/VB, if/IN, your/PRP$, daddy/NNP, 's/POS, caught/VBN, any/DT, fish/NN, yet/RB, ?/.]",(ROOT (SQ (VP (VB Wonder) (SBAR (IN if) (S (NP (NP (PRP$ your) (NNP daddy)) (POS 's)) (VP (VBN caught) (S (NP (DT any) (NN fish)) (ADVP (RB yet))))))) (. ?)))
 K/KB/KBH.xml,KBHRE01E,4303,7,,A,5,2,<baby gurgling> --,"[Careful/JJ, sweetheart/NN, ,/,, careful/JJ, ./.]","(ROOT (NP (NP (JJ Careful) (NN sweetheart)) (, ,) (NP (JJ careful)) (. .)))"
 K/KB/KBH.xml,KBHRE01E,4303,8,,A,5,3,"--Careful sweetheart, careful.","[Careful/JJ, sweetheart/NN, ,/,, careful/JJ, ./.]","(ROOT (NP (NP (JJ Careful) (NN sweetheart)) (, ,) (NP (JJ careful)) (. .)))"
@@ -20,7 +20,7 @@ K/KB/KBH.xml,KBHRE01E,4303,17,,B,14,1,No that is the special one.,"[No/DT, that/
 K/KB/KBH.xml,KBHRE01E,4303,18,,A,15,1,"No that one is, is Amy's.","[No/DT, that/IN, one/CD, is/VBZ, ,/,, is/VBZ, Amy/NNP, 's/POS, ./.]","(ROOT (S (ADVP (DT No) (IN that)) (NP (CD one)) (VP (VBZ is) (, ,) (SBAR (S (VP (VBZ is) (NP (NNP Amy) (POS 's)))))) (. .)))"
 K/KB/KBH.xml,KBHRE01E,4303,19,,B,16,1,That one doll's.,"[That/DT, one/CD, doll/NN, 's/POS, ./.]",(ROOT (NP (NP (DT That)) (NP (NP (CD one)) (NP (NN doll) (POS 's))) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,20,,A,17,1,"Oh you can put dolls in it as well, but when Amy wants to sit in there, you can put your doll in the other one, can't you?","[Oh/UH, you/PRP, can/MD, put/VB, dolls/NNS, in/IN, it/PRP, as/RB, well/RB, ,/,, but/CC, when/WRB, Amy/NNP, wants/VBZ, to/TO, sit/VB, in/IN, there/RB, ,/,, you/PRP, can/MD, put/VB, your/PRP$, doll/NN, in/IN, the/DT, other/JJ, one/CD, ,/,, can/MD, 't/PRP, you/PRP, ?/.]","(ROOT (SINV (S (S (INTJ (UH Oh)) (NP (PRP you)) (VP (MD can) (VP (VB put) (NP (NP (NNS dolls)) (PP (IN in) (NP (PRP it)))) (ADVP (RB as) (RB well))))) (, ,) (CC but) (S (SBAR (WHADVP (WRB when)) (S (NP (NNP Amy)) (VP (VBZ wants) (S (VP (TO to) (VP (VB sit) (PP (IN in) (NP (RB there))))))))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB put) (NP (PRP$ your) (NN doll)) (PP (IN in) (NP (DT the) (JJ other) (CD one))))))) (, ,) (VP (MD can)) (NP (NP (PRP 't)) (NP (PRP you))) (. ?)))"
-K/KB/KBH.xml,KBHRE01E,4303,21,,B,18,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,21,,B,18,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,22,,A,19,1,Alright?,"[Alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP Alright)) (. ?)))
 K/KB/KBH.xml,KBHRE01E,4303,23,,B,20,1,In here.,"[In/IN, here/RB, ./.]",(ROOT (FRAG (PP (IN In) (NP (RB here))) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,24,,A,21,1,"You can, you can leave her in there for now, cos Amy's not going anywhere.","[You/PRP, can/MD, ,/,, you/PRP, can/MD, leave/VB, her/PRP, in/IN, there/EX, for/IN, now/RB, ,/,, cos/NN, Amy/NNP, 's/POS, not/RB, going/VBG, anywhere/RB, ./.]","(ROOT (S (S (NP (PRP You)) (VP (MD can))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB leave) (NP (PRP her)) (PP (IN in) (NP (EX there))) (PP (IN for) (S (NP (NP (RB now)) (, ,) (NP (NP (NN cos)) (NP (NNP Amy) (POS 's)))) (RB not) (VP (VBG going) (ADVP (RB anywhere))))))) (. .)))"
@@ -28,26 +28,26 @@ K/KB/KBH.xml,KBHRE01E,4303,25,,B,22,1,Not going in here.,"[Not/RB, going/VBG, in
 K/KB/KBH.xml,KBHRE01E,4303,26,,A,23,1,"We're not going anywhere now, not today.","[We/PRP, 're/VBP, not/RB, going/VBG, anywhere/RB, now/RB, ,/,, not/RB, today/NN, ./.]","(ROOT (S (NP (PRP We)) (VP (VBP 're) (RB not) (VP (VBG going) (ADVP (RB anywhere) (RB now)) (, ,) (FRAG (RB not) (NP (NN today))))) (. .)))"
 K/KB/KBH.xml,KBHRE01E,4303,27,,B,24,1,We're not going (()) .,"[We/PRP, 're/VBP, not/RB, going/VBG, ./.]",(ROOT (S (NP (PRP We)) (VP (VBP 're) (RB not) (VP (VBG going))) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,28,,A,25,1,"Not today we're not, no.","[Not/RB, today/NN, we/PRP, 're/VBP, not/RB, ,/,, no/DT, ./.]","(ROOT (S (NP (RB Not) (NN today)) (NP (PRP we)) (VP (VP (VBP 're) (RB not)) (, ,) (NP (DT no))) (. .)))"
-K/KB/KBH.xml,KBHRE01E,4303,29,,B,26,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,29,,B,26,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,30,,A,27,1,"Unless she comes here, but she might pop in.","[Unless/IN, she/PRP, comes/VBZ, here/RB, ,/,, but/CC, she/PRP, might/MD, pop/VB, in/IN, ./.]","(ROOT (S (SBAR (IN Unless) (S (NP (PRP she)) (VP (VBZ comes) (ADVP (RB here))))) (, ,) (S (CC but) (NP (PRP she)) (VP (MD might) (VP (VB pop) (PP (IN in))))) (. .)))"
 K/KB/KBH.xml,KBHRE01E,4303,31,,B,28,1,"Might pop in,(()) .","[Might/MD, pop/VB, in/IN, ,/,, ./.]","(ROOT (S (VP (MD Might) (VP (VB pop) (PRN (PP (IN in)) (, ,)))) (. .)))"
 K/KB/KBH.xml,KBHRE01E,4303,32,,A,29,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KBH.xml,KBHRE01E,4303,33,,B,30,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,33,,B,30,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,34,,A,31,1,But where are we going tomorrow?,"[But/CC, where/WRB, are/VBP, we/PRP, going/VBG, tomorrow/NN, ?/.]",(ROOT (SBARQ (CC But) (WHADVP (WRB where)) (SQ (VBP are) (NP (PRP we)) (VP (VBG going) (NP (NN tomorrow)))) (. ?)))
 K/KB/KBH.xml,KBHRE01E,4303,35,,A,31,2,Can you remember?,"[Can/MD, you/PRP, remember/VB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB remember)) (. ?)))
 K/KB/KBH.xml,KBHRE01E,4303,36,,A,31,3,Where?,"[Where/WRB, ?/.]",(ROOT (FRAG (WHADVP (WRB Where) (. ?))))
 K/KB/KBH.xml,KBHRE01E,4303,37,,B,32,1,(()) Sue.,"[Sue/VB, ./.]",(ROOT (S (VP (VB Sue)) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,38,,A,33,1,"No we're not going to Sue, we're going swimming.","[No/DT, we/PRP, 're/VBP, not/RB, going/VBG, to/TO, Sue/VB, ,/,, we/PRP, 're/VBP, going/VBG, swimming/NN, ./.]","(ROOT (S (S (NP (DT No) (PRP we)) (VP (VBP 're) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB Sue))))))) (, ,) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (NP (NN swimming)))) (. .)))"
-K/KB/KBH.xml,KBHRE01E,4303,39,,B,34,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,39,,B,34,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,40,,A,35,1,"Now, tomorrow.","[Now/RB, ,/,, tomorrow/NN, ./.]","(ROOT (FRAG (INTJ (RB Now)) (, ,) (NP (NN tomorrow)) (. .)))"
-K/KB/KBH.xml,KBHRE01E,4303,41,,B,36,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,41,,B,36,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,42,,A,37,1,You want to go to the swimming pool?,"[You/PRP, want/VBP, to/TO, go/VB, to/TO, the/DT, swimming/NN, pool/NN, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT the) (NN swimming) (NN pool))))))) (. ?)))
 K/KB/KBH.xml,KBHRE01E,4303,43,,A,37,2,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,44,,B,38,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,45,,A,39,1,Take you swimming.,"[Take/VB, you/PRP, swimming/VBG, ./.]",(ROOT (S (VP (VB Take) (S (NP (PRP you)) (VP (VBG swimming)))) (. .)))
-K/KB/KBH.xml,KBHRE01E,4303,46,,B,40,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,46,,B,40,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,47,,A,41,1,"And when we come back, when we've had our lunch we're going to see William.","[And/CC, when/WRB, we/PRP, come/VBP, back/RB, ,/,, when/WRB, we/PRP, 've/VBP, had/VBD, our/PRP$, lunch/NN, we/PRP, 're/VBP, going/VBG, to/TO, see/VB, William/NNP, ./.]","(ROOT (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP come) (ADVP (RB back)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP 've) (VP (VBD had) (NP (PRP$ our) (NN lunch))))))))) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB see) (NP (NNP William))))))) (. .)))"
-K/KB/KBH.xml,KBHRE01E,4303,48,,B,42,1,(()) ,[],X
+K/KB/KBH.xml,KBHRE01E,4303,48,,B,42,1,(()) ,[],
 K/KB/KBH.xml,KBHRE01E,4303,49,,A,43,1,Would you like to go and see little William?,"[Would/MD, you/PRP, like/VB, to/TO, go/VB, and/CC, see/VB, little/JJ, William/NNP, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (S (VP (TO to) (VP (VB go) (CC and) (VB see) (NP (JJ little) (NNP William)))))) (. ?)))
 K/KB/KBH.xml,KBHRE01E,4303,50,,B,44,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBH.xml,KBHRE01E,4303,51,,A,45,1,Would you?,"[Would/MD, you/PRP, ?/.]",(ROOT (S (VP (MD Would) (VP (NP (PRP you)))) (. ?)))

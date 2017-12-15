@@ -3,20 +3,20 @@ K/KP/KPA.xml,KPARE006,141107,0,,A,1,1,If you can post the letter,"[If/IN, you/PR
 K/KP/KPA.xml,KPARE006,141107,1,,A,1,2,Eleven thirty second class to London,"[Eleven/CD, thirty/CD, second/JJ, class/NN, to/TO, London/NNP]",(ROOT (FRAG (NP (CD Eleven) (CD thirty)) (NP (NP (JJ second) (NN class)) (PP (TO to) (NP (NNP London))))))
 K/KP/KPA.xml,KPARE006,141107,2,,A,1,3,Would it get there by tomorrow morning?,"[Would/MD, it/PRP, get/VB, there/RB, by/IN, tomorrow/NN, morning/NN, ?/.]",(ROOT (SQ (MD Would) (NP (PRP it)) (VP (VB get) (ADVP (RB there)) (PP (IN by) (NP (NN tomorrow) (NN morning)))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,3,,A,1,4,Hope Mr  <<REDACTED (name)>> isn't there.,"[Hope/NN, Mr/NN, >/JJR, isn/NN, 't/PRP, there/EX, ./.]",(ROOT (NP (NP (ADJP (NN Hope) (NN Mr)) (JJR >) (NN isn)) (NP (NP (PRP 't)) (NP (EX there))) (. .)))
-K/KP/KPA.xml,KPARE006,141107,4,,A,1,5,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,4,,A,1,5,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,5,,B,2,1,Chemistry's (()) ,"[Chemistry/NN, 's/POS]",(ROOT (S (VP (NN Chemistry) (S (NP (POS 's))))))
-K/KP/KPA.xml,KPARE006,141107,6,,A,3,1,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,6,,A,3,1,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,7,,B,4,1,B L X I can get you one for free?,"[B/NNP, L/NNP, X/NNP, I/PRP, can/MD, get/VB, you/PRP, one/CD, for/IN, free/JJ, ?/.]",(ROOT (FRAG (NP (NP (NNP B) (NNP L) (NNP X)) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB get) (NP (PRP you)) (PP (NP (CD one)) (IN for) (ADJP (JJ free)))))))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,8,,A,5,1,How much I can give you (()) ,"[How/WRB, much/JJ, I/PRP, can/MD, give/VB, you/PRP]",(ROOT (SBAR (WHADJP (WRB How) (JJ much)) (S (NP (PRP I)) (VP (MD can) (VP (VB give) (NP (PRP you)))))))
 K/KP/KPA.xml,KPARE006,141107,9,,A,5,2,Can you get me one?,"[Can/MD, you/PRP, get/VB, me/PRP, one/CD, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB get) (S (NP (PRP me)) (NP (CD one)))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,10,,A,5,3,Can you get me one?(()) ,"[Can/MD, you/PRP, get/VB, me/PRP, one/CD, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB get) (S (NP (PRP me)) (NP (CD one)))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,11,,A,5,4,I will send a letter as well as ,"[I/PRP, will/MD, send/VB, a/DT, letter/NN, as/RB, well/RB, as/IN]",(ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB send) (NP (DT a) (NN letter)) (ADVP (RB as) (RB well)) (PP (IN as))))))
-K/KP/KPA.xml,KPARE006,141107,12,,A,5,5,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,12,,A,5,5,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,13,,A,5,6,Move the microphone (()) ,"[Move/VB, the/DT, microphone/NN]",(ROOT (S (VP (VB Move) (NP (DT the) (NN microphone)))))
 K/KP/KPA.xml,KPARE006,141107,14,,B,6,1,(()) screws it up.,"[screws/NNS, it/PRP, up/RP, ./.]",(ROOT (NP (NP (NNS screws)) (NP (NP (PRP it)) (ADVP (RP up))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,15,,B,6,2,(()) Andrew.,"[Andrew/NNP, ./.]",(ROOT (FRAG (NP (NNP Andrew)) (. .)))
 K/KP/KPA.xml,KPARE006,141107,16,,A,7,1,It's all talking from us.,"[It/PRP, 's/VBZ, all/DT, talking/VBG, from/IN, us/PRP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (DT all)) (VP (VBG talking) (PP (IN from) (NP (PRP us))))) (. .)))
-K/KP/KPA.xml,KPARE006,141107,17,,A,7,2,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,17,,A,7,2,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,18,,A,7,3,What's that?,"[What/WP, 's/VBZ, that/IN, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (ADJP (IN that))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,19,,A,7,4,Oh it's one of those oh have you gotta keep that on during lesson.,"[Oh/UH, it/PRP, 's/VBZ, one/CD, of/IN, those/DT, oh/NN, have/VBP, you/PRP, gotta/NNP, keep/VB, that/DT, on/IN, during/IN, lesson/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (DT those)))))) (NP (NN oh)) (VP (VBP have) (S (NP (PRP you)) (NP (NNP gotta)) (S (VP (VB keep) (NP (DT that)) (PP (IN on) (PP (IN during) (NP (NN lesson)))))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,20,,B,8,1,Just ignore it.,"[Just/RB, ignore/VB, it/PRP, ./.]",(ROOT (S (ADVP (RB Just)) (VP (VB ignore) (NP (PRP it))) (. .)))
@@ -24,7 +24,7 @@ K/KP/KPA.xml,KPARE006,141107,21,,A,9,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Ok
 K/KP/KPA.xml,KPARE006,141107,22,,A,9,2,Is it on at the moment?,"[Is/VBZ, it/PRP, on/IN, at/IN, the/DT, moment/NN, ?/.]",(ROOT (SQ (VBZ Is) (NP (PRP it)) (ADVP (IN on) (PP (IN at) (NP (DT the) (NN moment)))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,23,,B,10,1,Shut up just shut up.,"[Shut/VBN, up/RP, just/RB, shut/VBN, up/RP, ./.]",(ROOT (S (S (VP (VBN Shut) (PRT (RP up)) (ADVP (RB just)))) (VP (VBN shut) (PRT (RP up))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,24,,A,11,1,Are you are you meant to just carry on as normal without without listening to (()) ,"[Are/VBP, you/PRP, are/VBP, you/PRP, meant/VBN, to/TO, just/RB, carry/VB, on/RP, as/IN, normal/JJ, without/IN, without/IN, listening/VBG, to/TO]",(ROOT (SINV (VP (VBP Are)) (NP (NP (PRP you)) (SBAR (S (VP (VBP are) (NP (NP (PRP you)) (VP (VBN meant) (S (VP (TO to) (VP (ADVP (RB just)) (VB carry) (PRT (RP on)) (PP (IN as) (ADJP (JJ normal))))))))))) (PP (IN without) (PP (IN without) (S (VP (VBG listening) (PP (TO to)))))))))
-K/KP/KPA.xml,KPARE006,141107,25,,A,11,2,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,25,,A,11,2,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,26,,A,11,3,Are you deaf?,"[Are/VBP, you/PRP, deaf/JJ, ?/.]",(ROOT (SQ (VBP Are) (NP (PRP you)) (PP (JJ deaf)) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,27,,A,11,4,No Steven  (()) has to be deaf with ears like that.,"[No/DT, Steven/NNP, has/VBZ, to/TO, be/VB, deaf/JJ, with/IN, ears/NNS, like/IN, that/DT, ./.]",(ROOT (S (NP (DT No) (NNP Steven)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (ADJP (JJ deaf) (PP (IN with) (NP (NP (NNS ears)) (PP (IN like) (NP (DT that)))))))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,28,,A,11,5,Shut up.<belch> ,"[Shut/VBN, up/RP, ./.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. .)))
@@ -55,7 +55,7 @@ K/KP/KPA.xml,KPARE006,141107,52,,A,21,13,So we've not finished metals and non-me
 K/KP/KPA.xml,KPARE006,141107,53,,A,21,14,Yes okay.,"[Yes/UH, okay/UH, ./.]",(ROOT (S (INTJ (UH Yes)) (VP (UH okay)) (. .)))
 K/KP/KPA.xml,KPARE006,141107,54,,A,21,15,Okay so you you've looked at the the problems of metals.,"[Okay/JJ, so/IN, you/PRP, you/PRP, 've/VBP, looked/VBN, at/IN, the/DT, the/DT, problems/NNS, of/IN, metals/NNS, ./.]",(ROOT (FRAG (ADJP (JJ Okay)) (SBAR (IN so) (FRAG (NP (NP (PRP you)) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBN looked) (PP (IN at) (NP (NP (DT the) (DT the) (NNS problems)) (PP (IN of) (NP (NNS metals)))))))))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,55,,A,21,16,(()) the properties of non-metals er so we ought to go through er non-metals and make the corresponding set of notes to the the reactions of metals.,"[the/DT, properties/NNS, of/IN, non-metals/NNS, er/NN, so/IN, we/PRP, ought/MD, to/TO, go/VB, through/IN, er/NN, non-metals/NNS, and/CC, make/VB, the/DT, corresponding/JJ, set/NN, of/IN, notes/NNS, to/TO, the/DT, the/DT, reactions/NNS, of/IN, metals/NNS, ./.]",(ROOT (S (ADVP (NP (NP (DT the) (NNS properties)) (PP (IN of) (NP (NNS non-metals) (NN er)))) (IN so)) (NP (PRP we)) (VP (MD ought) (S (VP (TO to) (VP (VP (VB go) (PP (IN through) (NP (NN er) (NNS non-metals)))) (CC and) (VP (VB make) (NP (NP (DT the) (JJ corresponding) (NN set)) (PP (IN of) (NP (NNS notes)))) (PP (TO to) (NP (NP (DT the) (DT the) (NNS reactions)) (PP (IN of) (NP (NNS metals)))))))))) (. .)))
-K/KP/KPA.xml,KPARE006,141107,56,,A,21,17,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,56,,A,21,17,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,57,,A,21,18,I'm sorry?,"[I/PRP, 'm/VBP, sorry/JJ, ?/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sorry))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,58,,A,21,19,Oh we're in the middle of an experiment.,"[Oh/UH, we/PRP, 're/VBP, in/IN, the/DT, middle/NN, of/IN, an/DT, experiment/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP we)) (VP (VBP 're) (PP (IN in) (NP (NP (DT the) (NN middle)) (PP (IN of) (NP (DT an) (NN experiment))))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,59,,A,21,20,Yes I've just been told that.,"[Yes/UH, I/PRP, 've/VBP, just/RB, been/VBN, told/VBN, that/IN, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN been) (VP (VBN told) (ADVP (IN that)))))) (. .)))
@@ -83,7 +83,7 @@ K/KP/KPA.xml,KPARE006,141107,80,,A,23,16,You can't polish a lump of sulphur or a
 K/KP/KPA.xml,KPARE006,141107,81,,A,23,17,Shall we put this under physical?,"[Shall/MD, we/PRP, put/VB, this/DT, under/IN, physical/JJ, ?/.]",(ROOT (SQ (MD Shall) (NP (PRP we)) (VP (VB put) (NP (DT this)) (PP (IN under) (ADJP (JJ physical)))) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,82,,A,23,18,If you subdivide it into four (()) .,"[If/IN, you/PRP, subdivide/VBP, it/PRP, into/IN, four/CD, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP you)) (VP (VBP subdivide) (NP (PRP it)) (PP (IN into) (NP (CD four)))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,83,,A,23,19,What was the second property of metal that you have?(()) ,"[What/WP, was/VBD, the/DT, second/JJ, property/NN, of/IN, metal/NN, that/IN, you/PRP, have/VBP, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD was) (NP (NP (DT the) (JJ second) (NN property)) (PP (IN of) (NP (NN metal)))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP have))))) (. ?)))
-K/KP/KPA.xml,KPARE006,141107,84,,A,23,20,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,84,,A,23,20,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,85,,A,23,21,Have you not copied out the notes yet?--,"[Have/VB, you/PRP, not/RB, copied/VBD, out/IN, the/DT, notes/NNS, yet/RB, ?/., forms/NNS, another/DT, property/NN, of/IN, metals/NNS, that/IN, you/PRP, have/VBP, ./.]",(ROOT (S (VP (VB Have) (NP (NP (PRP you)) (SBAR (FRAG (X (RB not)) (VP (VBD copied) (PP (IN out) (NP (DT the) (NNS notes))) (ADVP (RB yet))) (. ?)))) (SBAR (NP (NP (NNS forms)) (NP (NP (DT another) (NN property)) (PP (IN of) (NP (NNS metals))))) (IN that) (S (NP (PRP you)) (VP (VBP have))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,86,,A,23,22,--(()) forms another property of metals that you have.,"[Have/VB, you/PRP, not/RB, copied/VBD, out/IN, the/DT, notes/NNS, yet/RB, ?/., forms/NNS, another/DT, property/NN, of/IN, metals/NNS, that/IN, you/PRP, have/VBP, ./.]",(ROOT (S (VP (VB Have) (NP (NP (PRP you)) (SBAR (FRAG (X (RB not)) (VP (VBD copied) (PP (IN out) (NP (DT the) (NNS notes))) (ADVP (RB yet))) (. ?)))) (SBAR (NP (NP (NNS forms)) (NP (NP (DT another) (NN property)) (PP (IN of) (NP (NNS metals))))) (IN that) (S (NP (PRP you)) (VP (VBP have))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,87,,A,23,23,Both property of that.,"[Both/DT, property/NN, of/IN, that/DT, ./.]",(ROOT (NP (NP (DT Both) (NN property)) (PP (IN of) (NP (DT that))) (. .)))
@@ -107,7 +107,7 @@ K/KP/KPA.xml,KPARE006,141107,104,,A,23,40,Pulling is what?,"[Pulling/VBG, is/VBZ
 K/KP/KPA.xml,KPARE006,141107,105,,A,23,41,Er (()) ,[Er/NN],(ROOT (NP (NN Er)))
 K/KP/KPA.xml,KPARE006,141107,106,,A,23,42,Erm ,[Erm/NN],(ROOT (NP (NN Erm)))
 K/KP/KPA.xml,KPARE006,141107,107,,A,23,43,What's the term what's another property you've got for metals there?,"[What/WP, 's/VBZ, the/DT, term/NN, what/WP, 's/VBZ, another/DT, property/NN, you/PRP, 've/VBP, got/VBN, for/IN, metals/NNS, there/RB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ 's) (NP (NP (DT the) (NN term)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (NP (NP (DT another) (NN property)) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got) (PP (IN for) (NP (NNS metals))) (ADVP (RB there)))))))))))) (. ?)))
-K/KP/KPA.xml,KPARE006,141107,108,,A,23,44,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,108,,A,23,44,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,109,,A,23,45,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
 K/KP/KPA.xml,KPARE006,141107,110,,A,23,46,Magnetic.,"[Magnetic/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Magnetic)) (. .)))
 K/KP/KPA.xml,KPARE006,141107,111,,A,23,47,Well no.,"[Well/RB, no/DT, ./.]",(ROOT (FRAG (ADVP (RB Well)) (NP (DT no)) (. .)))
@@ -125,7 +125,7 @@ K/KP/KPA.xml,KPARE006,141107,122,,A,23,58,For non-metals if you try to hit them 
 K/KP/KPA.xml,KPARE006,141107,123,,A,23,59,(()) they're brittle.,"[they/PRP, 're/VBP, brittle/JJ, ./.]",(ROOT (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ brittle))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,124,,A,23,60,They're brittle.,"[They/PRP, 're/VBP, brittle/JJ, ./.]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (ADJP (JJ brittle))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,125,,A,23,61,(()) demonstrate brittleness of non-metals.,"[demonstrate/VB, brittleness/NN, of/IN, non-metals/NNS, ./.]",(ROOT (S (VP (VB demonstrate) (NP (NP (NN brittleness)) (PP (IN of) (NP (NNS non-metals))))) (. .)))
-K/KP/KPA.xml,KPARE006,141107,126,,A,23,62,(()) ,[],X
+K/KP/KPA.xml,KPARE006,141107,126,,A,23,62,(()) ,[],
 K/KP/KPA.xml,KPARE006,141107,127,,A,23,63,The teacher's a right prick.,"[The/DT, teacher/NN, 's/VBZ, a/DT, right/JJ, prick/NN, ./.]",(ROOT (S (NP (DT The) (NN teacher)) (VP (VBZ 's) (NP (DT a) (JJ right) (NN prick))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,128,,A,23,64,If we take example of salt.,"[If/IN, we/PRP, take/VBP, example/NN, of/IN, salt/NN, ./.]",(ROOT (FRAG (SBAR (IN If) (S (NP (PRP we)) (VP (VBP take) (NP (NP (NN example)) (PP (IN of) (NP (NN salt))))))) (. .)))
 K/KP/KPA.xml,KPARE006,141107,129,,A,23,65,Now you're being too noisy.,"[Now/RB, you/PRP, 're/VBP, being/VBG, too/RB, noisy/JJ, ./.]",(ROOT (S (ADVP (RB Now)) (NP (PRP you)) (VP (VBP 're) (VP (VBG being) (ADJP (RB too) (JJ noisy)))) (. .)))

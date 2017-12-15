@@ -37,7 +37,7 @@ K/KD/KDN.xml,KDNRE00V,45709,34,,B,12,2,I need to give him one.(()) ,"[I/PRP, nee
 K/KD/KDN.xml,KDNRE00V,45709,35,,A,13,1,Well that'll leave three!,"[Well/RB, that/IN, 'll/MD, leave/VB, three/CD, !/.]",(ROOT (FRAG (ADVP (RB Well)) (SBAR (IN that) (S (VP (MD 'll) (VP (VB leave) (NP (CD three)))))) (. !)))
 K/KD/KDN.xml,KDNRE00V,45709,36,,B,14,1,Aye.,"[Aye/NNP, ./.]",(ROOT (FRAG (NP (NNP Aye)) (. .)))
 K/KD/KDN.xml,KDNRE00V,45709,37,,A,15,1,One for (()) ,"[One/CD, for/IN]",(ROOT (FRAG (NP (CD One)) (PP (IN for))))
-K/KD/KDN.xml,KDNRE00V,45709,38,,B,16,1,(()) ,[],X
+K/KD/KDN.xml,KDNRE00V,45709,38,,B,16,1,(()) ,[],
 K/KD/KDN.xml,KDNRE00V,45709,39,,A,17,1,Who?,"[Who/WP, ?/.]",(ROOT (FRAG (WHNP (WP Who)) (. ?)))
 K/KD/KDN.xml,KDNRE00V,45709,40,,A,17,2,Well that's a terrible thing!,"[Well/RB, that/DT, 's/VBZ, a/DT, terrible/JJ, thing/NN, !/.]",(ROOT (S (ADVP (RB Well)) (NP (DT that)) (VP (VBZ 's) (NP (DT a) (JJ terrible) (NN thing))) (. !)))
 K/KD/KDN.xml,KDNRE00V,45709,41,,B,18,1,Oh aye!,"[Oh/UH, aye/NNP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (NNP aye)))) (. !)))

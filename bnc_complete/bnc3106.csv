@@ -21,9 +21,9 @@ K/KC/KCV.xml,KCVRE005,3106,18,,A,9,1,You'll have to pay the bill won't you?,"[Yo
 K/KC/KCV.xml,KCVRE005,3106,19,,B,10,1,There's the man who owns Beaumont College now.,"[There/EX, 's/VBZ, the/DT, man/NN, who/WP, owns/VBZ, Beaumont/NNP, College/NNP, now/RB, ./.]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (DT the) (NN man)) (SBAR (WHNP (WP who)) (S (VP (VBZ owns) (NP (NNP Beaumont) (NNP College)) (ADVP (RB now))))))) (. .)))
 K/KC/KCV.xml,KCVRE005,3106,20,,A,11,1,Show.,"[Show/NN, ./.]",(ROOT (NP (NN Show) (. .)))
 K/KC/KCV.xml,KCVRE005,3106,21,,B,12,1,Chairman of I C L.,"[Chairman/NN, of/IN, I/PRP, C/NN, L/NN, ./.]",(ROOT (NP (NP (NP (NN Chairman)) (PP (IN of) (NP (PRP I)))) (ADJP (NN C) (NN L)) (. .)))
-K/KC/KCV.xml,KCVRE005,3106,22,,A,13,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE005,3106,22,,A,13,1,(()) ,[],
 K/KC/KCV.xml,KCVRE005,3106,23,,B,14,1,Saatchi Saatchi shows no signs of recovery.,"[Saatchi/NNP, Saatchi/NNP, shows/VBZ, no/DT, signs/NNS, of/IN, recovery/NN, ./.]",(ROOT (S (NP (NNP Saatchi) (NNP Saatchi)) (VP (VBZ shows) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (NN recovery))))) (. .)))
-K/KC/KCV.xml,KCVRE005,3106,24,,A,15,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE005,3106,24,,A,15,1,(()) ,[],
 K/KC/KCV.xml,KCVRE005,3106,25,,B,16,1,Saatchi brothers salaries have been cut by a half  --,"[Saatchi/NNP, brothers/NNP, salaries/NNS, have/VBP, been/VBN, cut/VBN, by/IN, a/DT, half/NN, and/CC, they/PRP, 've/VBP, appointed/VBN, a/DT, new/JJ, man/NN, ./.]",(ROOT (S (S (NP (NNP Saatchi) (NNP brothers) (NNS salaries)) (VP (VBP have) (VP (VBN been) (VP (VBN cut) (PP (IN by) (NP (DT a) (NN half))))))) (CC and) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN appointed) (NP (DT a) (JJ new) (NN man))))) (. .)))
 K/KC/KCV.xml,KCVRE005,3106,26,,B,16,2,--and they've appointed a new man.,"[Saatchi/NNP, brothers/NNP, salaries/NNS, have/VBP, been/VBN, cut/VBN, by/IN, a/DT, half/NN, and/CC, they/PRP, 've/VBP, appointed/VBN, a/DT, new/JJ, man/NN, ./.]",(ROOT (S (S (NP (NNP Saatchi) (NNP brothers) (NNS salaries)) (VP (VBP have) (VP (VBN been) (VP (VBN cut) (PP (IN by) (NP (DT a) (NN half))))))) (CC and) (S (NP (PRP they)) (VP (VBP 've) (VP (VBN appointed) (NP (DT a) (JJ new) (NN man))))) (. .)))
 K/KC/KCV.xml,KCVRE005,3106,27,,A,17,1,They have?,"[They/PRP, have/VBP, ?/.]",(ROOT (S (NP (PRP They)) (VP (VBP have)) (. ?)))

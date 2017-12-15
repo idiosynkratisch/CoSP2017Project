@@ -1,16 +1,16 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KD/KD6.xml,KD6RE005,51304,0,,A,1,1,"So, huh marks out of ten for","[So/RB, ,/,, huh/NNP, marks/VBZ, out/IN, of/IN, ten/CD, for/IN]","(ROOT (S (ADVP (RB So)) (, ,) (NP (NNP huh)) (VP (VBZ marks) (ADVP (IN out) (PP (IN of) (NP (CD ten)))) (PP (IN for)))))"
-K/KD/KD6.xml,KD6RE005,51304,1,,A,1,2,(()) ,[],X
+K/KD/KD6.xml,KD6RE005,51304,1,,A,1,2,(()) ,[],
 K/KD/KD6.xml,KD6RE005,51304,2,,B,2,1,"erm, rates about an eight","[erm/NN, ,/,, rates/NNS, about/IN, an/DT, eight/CD]","(ROOT (NP (NP (NP (NN erm)) (, ,) (NP (NNS rates))) (PP (IN about) (NP (DT an) (CD eight)))))"
-K/KD/KD6.xml,KD6RE005,51304,3,,A,3,1,(()) ,[],X
+K/KD/KD6.xml,KD6RE005,51304,3,,A,3,1,(()) ,[],
 K/KD/KD6.xml,KD6RE005,51304,4,,B,4,1,check my record collection  --,"[check/VB, my/PRP$, record/NN, collection/NN, and/CC, that/DT, 's/VBZ, that/IN, then/RB]",(ROOT (S (VP (VB check) (SBAR (S (NP (NP (PRP$ my) (NN record) (NN collection)) (CC and) (NP (DT that))) (VP (VBZ 's) (ADVP (IN that)) (ADVP (RB then))))))))
 K/KD/KD6.xml,KD6RE005,51304,5,,B,4,2,--and that's that then,"[check/VB, my/PRP$, record/NN, collection/NN, and/CC, that/DT, 's/VBZ, that/IN, then/RB]",(ROOT (S (VP (VB check) (SBAR (S (NP (NP (PRP$ my) (NN record) (NN collection)) (CC and) (NP (DT that))) (VP (VBZ 's) (ADVP (IN that)) (ADVP (RB then))))))))
-K/KD/KD6.xml,KD6RE005,51304,6,,A,5,1,(()) ,[],X
+K/KD/KD6.xml,KD6RE005,51304,6,,A,5,1,(()) ,[],
 K/KD/KD6.xml,KD6RE005,51304,7,,B,6,1,"oh yes sir, have a bit of that, yes Barry Manilow ","[oh/UH, yes/UH, sir/NNP, ,/,, have/VBP, a/DT, bit/NN, of/IN, that/DT, ,/,, yes/RB, Barry/NNP, Manilow/NNP]","(ROOT (SINV (S (INTJ (UH oh) (UH yes)) (VP (NNP sir))) (, ,) (VP (VBP have) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NP (DT that)) (, ,) (NP (RB yes)))))) (NP (NNP Barry) (NNP Manilow))))"
-K/KD/KD6.xml,KD6RE005,51304,8,,A,7,1,(()) ,[],X
+K/KD/KD6.xml,KD6RE005,51304,8,,A,7,1,(()) ,[],
 K/KD/KD6.xml,KD6RE005,51304,9,,B,8,1,"oh he's a stickler if you don't smash it down to the ground, I'll be really shocked.","[oh/UH, he/PRP, 's/VBZ, a/DT, stickler/NN, if/IN, you/PRP, don/VBP, 't/PRP, smash/VB, it/PRP, down/RP, to/TO, the/DT, ground/NN, ,/,, I/PRP, 'll/MD, be/VB, really/RB, shocked/VBN, ./.]","(ROOT (S (S (INTJ (UH oh)) (NP (PRP he)) (VP (VBZ 's) (NP (DT a) (NN stickler)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB smash) (NP (PRP it)) (PP (RP down) (PP (TO to) (NP (DT the) (NN ground))))))))))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB be) (ADJP (RB really) (VBN shocked)))) (. .)))"
 K/KD/KD6.xml,KD6RE005,51304,10,,B,8,2,"Yes well, Larry, have less of that <belch> ","[Yes/RB, well/RB, ,/,, Larry/NNP, ,/,, have/VBP, less/JJR, of/IN, that/DT]","(ROOT (S (ADVP (RB Yes)) (ADVP (RB well)) (, ,) (NP (NNP Larry) (, ,)) (VP (VBP have) (NP (NP (JJR less)) (PP (IN of) (NP (DT that)))))))"
-K/KD/KD6.xml,KD6RE005,51304,11,,A,9,1,(()) ,[],X
+K/KD/KD6.xml,KD6RE005,51304,11,,A,9,1,(()) ,[],
 K/KD/KD6.xml,KD6RE005,51304,12,,B,10,1,oh no,"[oh/UH, no/DT]",(ROOT (INTJ (UH oh) (DT no)))
-K/KD/KD6.xml,KD6RE005,51304,13,,A,11,1,(()) ,[],X
-K/KD/KD6.xml,KD6RE005,51304,14,,A,11,2,(()) ,[],X
+K/KD/KD6.xml,KD6RE005,51304,13,,A,11,1,(()) ,[],
+K/KD/KD6.xml,KD6RE005,51304,14,,A,11,2,(()) ,[],

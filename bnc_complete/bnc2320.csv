@@ -3,9 +3,9 @@ K/KB/KBK.xml,KBKRE02M,2320,0,,A,1,1,"Thank you guv, care to pay for it?","[Thank
 K/KB/KBK.xml,KBKRE02M,2320,1,,B,2,1,Yes I've paid for it (()) .,"[Yes/UH, I/PRP, 've/VBP, paid/VBN, for/IN, it/PRP, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VBP 've) (VP (VBN paid) (PP (IN for) (NP (PRP it)))))) (. .)))
 K/KB/KBK.xml,KBKRE02M,2320,2,,B,2,2,Have to have (()) .,"[Have/VB, to/TO, have/VB, ./.]",(ROOT (S (VP (VB Have) (S (VP (TO to) (VP (VB have))))) (. .)))
 K/KB/KBK.xml,KBKRE02M,2320,3,,A,3,1,I didn't get anything.,"[I/PRP, didn/VBP, 't/PRP, get/VB, anything/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB get) (NP (NN anything))))) (. .)))
-K/KB/KBK.xml,KBKRE02M,2320,4,,B,4,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02M,2320,4,,B,4,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02M,2320,5,,A,5,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KB/KBK.xml,KBKRE02M,2320,6,,A,5,2,They  --,"[They/PRP, they/PRP, 've/VBP, got/VBD, a/DT, free/JJ, nylon/NN, bag/NN, in/IN, ,/,, in/IN, those/DT, where/WRB, they/PRP, ./.]","(ROOT (S (NP (PRP They)) (NP (PRP they)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT a) (JJ free) (NN nylon) (NN bag)) (PP (PP (IN in)) (, ,) (PP (IN in) (NP (NP (DT those)) (FRAG (WHADVP (WRB where))))) (NP (PRP they)))))) (. .)))"
 K/KB/KBK.xml,KBKRE02M,2320,7,,A,5,3,"--they've got a free nylon bag in, in those where they (()) .","[They/PRP, they/PRP, 've/VBP, got/VBD, a/DT, free/JJ, nylon/NN, bag/NN, in/IN, ,/,, in/IN, those/DT, where/WRB, they/PRP, ./.]","(ROOT (S (NP (PRP They)) (NP (PRP they)) (VP (VBP 've) (VP (VBD got) (NP (NP (DT a) (JJ free) (NN nylon) (NN bag)) (PP (PP (IN in)) (, ,) (PP (IN in) (NP (NP (DT those)) (FRAG (WHADVP (WRB where))))) (NP (PRP they)))))) (. .)))"
-K/KB/KBK.xml,KBKRE02M,2320,8,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02M,2320,8,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02M,2320,9,,A,7,1,"Right, shall we get in the car then?","[Right/NN, ,/,, shall/MD, we/PRP, get/VB, in/IN, the/DT, car/NN, then/RB, ?/.]","(ROOT (S (NP (NN Right)) (, ,) (VP (MD shall) (NP (PRP we)) (S (VP (VB get) (PP (IN in) (NP (DT the) (NN car))) (ADVP (RB then))))) (. ?)))"

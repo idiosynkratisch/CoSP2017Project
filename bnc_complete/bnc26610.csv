@@ -116,4 +116,4 @@ K/KB/KBP.xml,KBPRE00D,26610,113,,A,71,2,What's this one?,"[What/WP, 's/VBZ, this
 K/KB/KBP.xml,KBPRE00D,26610,114,,A,71,3,"This looks, they look like Barratts.","[This/DT, looks/VBZ, ,/,, they/PRP, look/VBP, like/IN, Barratts/NNS, ./.]","(ROOT (S (S (NP (DT This)) (VP (VBZ looks))) (, ,) (NP (PRP they)) (VP (VBP look) (PP (IN like) (NP (NNS Barratts)))) (. .)))"
 K/KB/KBP.xml,KBPRE00D,26610,115,,A,71,4,It's an end  --,"[It/PRP, 's/VBZ, an/DT, end/NN, terrace/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (NN end) (NNP terrace))) (. .)))
 K/KB/KBP.xml,KBPRE00D,26610,116,,A,71,5,--terrace.,"[It/PRP, 's/VBZ, an/DT, end/NN, terrace/NNP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (DT an) (NN end) (NNP terrace))) (. .)))
-K/KB/KBP.xml,KBPRE00D,26610,117,,B,72,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE00D,26610,117,,B,72,1,(()) ,[],

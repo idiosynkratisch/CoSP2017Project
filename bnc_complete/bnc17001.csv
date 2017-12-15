@@ -40,7 +40,7 @@ K/KD/KD0.xml,KD0RE00C,17001,37,,B,24,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Ye
 K/KD/KD0.xml,KD0RE00C,17001,38,,B,24,2,Have they got Lee Sharp?,"[Have/VB, they/PRP, got/VBD, Lee/NNP, Sharp/NNP, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP they)) (VP (VBD got) (NP (NNP Lee) (NNP Sharp))))) (. ?)))
 K/KD/KD0.xml,KD0RE00C,17001,39,,A,25,1,Well I don't know.,"[Well/RB, I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
 K/KD/KD0.xml,KD0RE00C,17001,40,,A,25,2,I don't think ,"[I/PRP, don/VBP, 't/PRP, think/VB]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think))))))
-K/KD/KD0.xml,KD0RE00C,17001,41,,B,26,1,(()) ,[],X
+K/KD/KD0.xml,KD0RE00C,17001,41,,B,26,1,(()) ,[],
 K/KD/KD0.xml,KD0RE00C,17001,42,,A,27,1,"don't think that's, that means that I don't think.","[don/NNP, 't/PRP, think/VBP, that/DT, 's/VBZ, ,/,, that/DT, means/VBZ, that/IN, I/PRP, don/VBP, 't/PRP, think/VB, ./.]","(ROOT (S (NP (NNP don) (PRP 't)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBZ 's) (, ,) (SBAR (S (NP (DT that)) (VP (VBZ means) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think))))))))))))) (. .)))"
 K/KD/KD0.xml,KD0RE00C,17001,43,,A,27,2,I hope not.,"[I/PRP, hope/VBP, not/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP hope) (RB not)) (. .)))
 K/KD/KD0.xml,KD0RE00C,17001,44,,A,27,3,That's all we need.,"[That/DT, 's/VBZ, all/DT, we/PRP, need/VBP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NP (DT all)) (SBAR (S (NP (PRP we)) (VP (VBP need)))))) (. .)))

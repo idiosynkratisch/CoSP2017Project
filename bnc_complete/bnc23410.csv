@@ -4,7 +4,7 @@ K/KC/KCL.xml,KCLRE009,23410,1,,A,1,2,"Come on, give me a kiss.","[Come/VB, on/RP
 K/KC/KCL.xml,KCLRE009,23410,2,,B,2,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
 K/KC/KCL.xml,KCLRE009,23410,3,,B,2,2,"Quick, quick quick quick.","[Quick/JJ, ,/,, quick/JJ, quick/JJ, quick/JJ, ./.]","(ROOT (FRAG (ADJP (JJ Quick) (, ,) (JJ quick) (JJ quick)) (ADJP (JJ quick) (. .))))"
 K/KC/KCL.xml,KCLRE009,23410,4,,B,2,3,Good boy  (()) ,"[Good/JJ, boy/NN]",(ROOT (INTJ (JJ Good) (NN boy)))
-K/KC/KCL.xml,KCLRE009,23410,5,,A,3,1,(()) ,[],X
+K/KC/KCL.xml,KCLRE009,23410,5,,A,3,1,(()) ,[],
 K/KC/KCL.xml,KCLRE009,23410,6,,B,4,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))
 K/KC/KCL.xml,KCLRE009,23410,7,,A,5,1,Get it Rick.,"[Get/VB, it/PRP, Rick/NNP, ./.]",(ROOT (S (VP (VB Get) (S (NP (PRP it)) (NP (NNP Rick)))) (. .)))
 K/KC/KCL.xml,KCLRE009,23410,8,,B,6,1,Go on.,"[Go/VB, on/IN, ./.]",(ROOT (S (VP (VB Go) (PP (IN on))) (. .)))

@@ -5,7 +5,7 @@ K/KB/KBK.xml,KBKRE073,3012,2,,B,2,2,--that's right   <yawn> --,"[Mhm/NNP, that/W
 K/KB/KBK.xml,KBKRE073,3012,3,,B,2,3,--yes some of the women were locked up for fifteen years.,"[Mhm/NNP, that/WDT, 's/VBZ, right/JJ, yes/RB, some/DT, of/IN, the/DT, women/NNS, were/VBD, locked/VBN, up/RP, for/IN, fifteen/CD, years/NNS, ./.]",(ROOT (S (NP (NP (NNP Mhm)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADVP (JJ right)) (NP (NP (RB yes) (DT some)) (PP (IN of) (NP (DT the) (NNS women)))))))) (VP (VBD were) (VP (VBN locked) (PRT (RP up)) (PP (IN for) (NP (CD fifteen) (NNS years))))) (. .)))
 K/KB/KBK.xml,KBKRE073,3012,4,,A,3,1,Really   --,"[Really/RB, do/VB, to/TO, you/PRP, ./.]",(ROOT (S (ADVP (RB Really)) (VP (VB do) (PP (TO to) (NP (PRP you)))) (. .)))
 K/KB/KBK.xml,KBKRE073,3012,5,,A,3,2,--(()) do to you.,"[Really/RB, do/VB, to/TO, you/PRP, ./.]",(ROOT (S (ADVP (RB Really)) (VP (VB do) (PP (TO to) (NP (PRP you)))) (. .)))
-K/KB/KBK.xml,KBKRE073,3012,6,,B,4,1,<yawn> ,[],X
+K/KB/KBK.xml,KBKRE073,3012,6,,B,4,1,<yawn> ,[],
 K/KB/KBK.xml,KBKRE073,3012,7,,A,5,1,Some kind of brain.,"[Some/DT, kind/NN, of/IN, brain/NN, ./.]",(ROOT (NP (NP (DT Some) (NN kind)) (PP (IN of) (NP (NN brain))) (. .)))
 K/KB/KBK.xml,KBKRE073,3012,8,,B,6,1,Not enough of it is the conclusion there.,"[Not/RB, enough/RB, of/IN, it/PRP, is/VBZ, the/DT, conclusion/NN, there/RB, ./.]",(ROOT (S (NP (NP (RB Not) (RB enough)) (PP (IN of) (NP (PRP it)))) (VP (VBZ is) (NP (DT the) (NN conclusion)) (ADVP (RB there))) (. .)))
-K/KB/KBK.xml,KBKRE073,3012,9,,A,7,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE073,3012,9,,A,7,1,(()) ,[],

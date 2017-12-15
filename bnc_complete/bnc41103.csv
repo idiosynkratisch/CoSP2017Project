@@ -28,7 +28,7 @@ K/KC/KC1.xml,KC1RE00V,41103,25,,B,2,1,Ah yes!,"[Ah/NN, yes/RB, !/.]",(ROOT (FRAG
 K/KC/KC1.xml,KC1RE00V,41103,26,,B,2,2,Have you got any  --,"[Have/VB, you/PRP, got/VBD, any/DT, zero/CD, one/CD, two/CD, seven/CD, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (NP (DT any) (CD zero) (CD one)) (NP (CD two) (CD seven)))))) (. ?)))
 K/KC/KC1.xml,KC1RE00V,41103,27,,B,2,3,--zero one two seven?,"[Have/VB, you/PRP, got/VBD, any/DT, zero/CD, one/CD, two/CD, seven/CD, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (NP (DT any) (CD zero) (CD one)) (NP (CD two) (CD seven)))))) (. ?)))
 K/KC/KC1.xml,KC1RE00V,41103,28,,A,3,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KC/KC1.xml,KC1RE00V,41103,29,,B,4,1,(()) ,[],X
+K/KC/KC1.xml,KC1RE00V,41103,29,,B,4,1,(()) ,[],
 K/KC/KC1.xml,KC1RE00V,41103,30,,A,5,1,Well actually I want some Toshiba  --,"[Well/RB, actually/RB, I/PRP, want/VBP, some/DT, Toshiba/NNP, zero/CD, two/CD, eights/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (RB actually) (PRP I)) (VP (VBP want) (NP (NP (DT some) (NNP Toshiba) (CD zero)) (NP (CD two) (NNS eights)))) (. .)))
 K/KC/KC1.xml,KC1RE00V,41103,31,,A,5,2,--zero two eights.,"[Well/RB, actually/RB, I/PRP, want/VBP, some/DT, Toshiba/NNP, zero/CD, two/CD, eights/NNS, ./.]",(ROOT (S (ADVP (RB Well)) (NP (RB actually) (PRP I)) (VP (VBP want) (NP (NP (DT some) (NNP Toshiba) (CD zero)) (NP (CD two) (NNS eights)))) (. .)))
 K/KC/KC1.xml,KC1RE00V,41103,32,,B,6,1,Have you got some?,"[Have/VB, you/PRP, got/VBD, some/RB, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD got) (NP (RB some))))) (. ?)))

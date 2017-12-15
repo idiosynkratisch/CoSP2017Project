@@ -7,9 +7,9 @@ K/KB/KBK.xml,KBKRE06H,2918,4,,A,3,2,Absolutely no idea.,"[Absolutely/RB, no/DT, 
 K/KB/KBK.xml,KBKRE06H,2918,5,,A,3,3,But he was a sailing man.,"[But/CC, he/PRP, was/VBD, a/DT, sailing/NN, man/NN, ./.]",(ROOT (S (CC But) (NP (PRP he)) (VP (VBD was) (NP (DT a) (NN sailing) (NN man))) (. .)))
 K/KB/KBK.xml,KBKRE06H,2918,6,,B,4,1,I always might have known that.,"[I/PRP, always/RB, might/MD, have/VB, known/VBN, that/IN, ./.]",(ROOT (S (NP (PRP I)) (ADVP (RB always)) (VP (MD might) (VP (VB have) (VP (VBN known) (ADVP (IN that))))) (. .)))
 K/KB/KBK.xml,KBKRE06H,2918,7,,A,5,1,(()) Christine?,"[Christine/NNP, ?/.]",(ROOT (FRAG (NP (NNP Christine)) (. ?)))
-K/KB/KBK.xml,KBKRE06H,2918,8,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06H,2918,8,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE06H,2918,9,,A,7,1,I've no idea.,"[I/PRP, 've/VBP, no/DT, idea/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (NP (DT no) (NN idea))) (. .)))
-K/KB/KBK.xml,KBKRE06H,2918,10,,B,8,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06H,2918,10,,B,8,1,(()) ,[],
 K/KB/KBK.xml,KBKRE06H,2918,11,,A,9,1,Probably not.,"[Probably/RB, not/RB, ./.]",(ROOT (FRAG (ADVP (RB Probably)) (RB not) (. .)))
 K/KB/KBK.xml,KBKRE06H,2918,12,,A,9,2,Probably not.,"[Probably/RB, not/RB, ./.]",(ROOT (FRAG (ADVP (RB Probably)) (RB not) (. .)))
 K/KB/KBK.xml,KBKRE06H,2918,13,,B,10,1,You did say in her that you heard from Sally I didn't get my usual Christmas letter.,"[You/PRP, did/VBD, say/VB, in/IN, her/PRP$, that/IN, you/PRP, heard/VBD, from/IN, Sally/NNP, I/PRP, didn/VBP, 't/PRP, get/VB, my/PRP$, usual/JJ, Christmas/NNP, letter/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD did) (VP (VB say) (PP (IN in) (NP (PRP$ her))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBD heard) (PP (IN from) (NP (NNP Sally))) (SBAR (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB get) (NP (PRP$ my) (JJ usual) (NNP Christmas) (NN letter)))))))))))) (. .)))

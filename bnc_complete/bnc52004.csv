@@ -44,7 +44,7 @@ K/KB/KBJ.xml,KBJRE003,52004,41,,A,23,4,Let's kiss it better.,"[Let/VB, 's/PRP, k
 K/KB/KBJ.xml,KBJRE003,52004,42,,A,23,5,<kiss> Come on.,"[Come/VB, on/RP, ./.]",(ROOT (S (VP (VB Come) (PRT (RP on))) (. .)))
 K/KB/KBJ.xml,KBJRE003,52004,43,,A,23,6,Lie down.,"[Lie/VB, down/RP, ./.]",(ROOT (S (VP (VB Lie) (PRT (RP down))) (. .)))
 K/KB/KBJ.xml,KBJRE003,52004,44,,A,23,7,Now keep it tu- tucked in ,"[Now/RB, keep/VB, it/PRP, tu-/JJ, tucked/VBN, in/IN]",(ROOT (S (ADVP (RB Now)) (VP (VB keep) (S (NP (PRP it)) (ADJP (JJ tu-)) (S (VP (VBN tucked) (PP (IN in))))))))
-K/KB/KBJ.xml,KBJRE003,52004,45,,B,24,1,(()) ,[],X
+K/KB/KBJ.xml,KBJRE003,52004,45,,B,24,1,(()) ,[],
 K/KB/KBJ.xml,KBJRE003,52004,46,,A,25,1,like that.,"[like/IN, that/DT, ./.]",(ROOT (FRAG (PP (IN like) (NP (DT that))) (. .)))
 K/KB/KBJ.xml,KBJRE003,52004,47,,A,25,2,Alright?,"[Alright/NNP, ?/.]",(ROOT (FRAG (NP (NNP Alright)) (. ?)))
 K/KB/KBJ.xml,KBJRE003,52004,48,,A,25,3,"They're thermal lined, plus a lining you've got ","[They/PRP, 're/VBP, thermal/JJ, lined/VBN, ,/,, plus/CC, a/DT, lining/JJ, you/PRP, 've/VBP, got/VBN]","(ROOT (S (NP (PRP They)) (VP (VBP 're) (NP (NP (NP (JJ thermal)) (VP (VBN lined))) (, ,) (CC plus) (NP (NP (DT a) (JJ lining)) (SBAR (S (NP (PRP you)) (VP (VBP 've) (VP (VBN got))))))))))"

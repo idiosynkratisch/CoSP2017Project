@@ -18,7 +18,7 @@ K/KB/KBK.xml,KBKRE052,2711,15,,A,15,1,It's only the one (()) .,"[It/PRP, 's/VBZ,
 K/KB/KBK.xml,KBKRE052,2711,16,,B,16,1,"Indeed, indeed, yes.","[Indeed/RB, ,/,, indeed/RB, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (RB Indeed)) (, ,) (INTJ (INTJ (RB indeed)) (, ,) (INTJ (UH yes) (. .)))))"
 K/KB/KBK.xml,KBKRE052,2711,17,,A,17,1,"That's why I told you the difference, you can't really","[That/DT, 's/VBZ, why/WRB, I/PRP, told/VBD, you/PRP, the/DT, difference/NN, ,/,, you/PRP, can/MD, 't/PRP, really/RB]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP I)) (VP (VBD told) (S (NP (PRP you)) (NP (DT the) (NN difference))) (, ,) (SBAR (S (NP (PRP you)) (VP (MD can) (VP (NP (PRP 't)) (ADVP (RB really))))))))))))"
 K/KB/KBK.xml,KBKRE052,2711,18,,B,18,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE052,2711,19,,A,19,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE052,2711,19,,A,19,1,(()) ,[],
 K/KB/KBK.xml,KBKRE052,2711,20,,B,20,1,Shall I put my clip on there?,"[Shall/MD, I/PRP, put/VB, my/PRP$, clip/NN, on/IN, there/EX, ?/.]",(ROOT (SQ (MD Shall) (NP (PRP I)) (VP (VB put) (NP (PRP$ my) (NN clip)) (PP (IN on) (NP (EX there)))) (. ?)))
 K/KB/KBK.xml,KBKRE052,2711,21,,A,21,1,Yes you should.,"[Yes/UH, you/PRP, should/MD, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP you)) (VP (MD should))) (. .)))
 K/KB/KBK.xml,KBKRE052,2711,22,,B,22,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))

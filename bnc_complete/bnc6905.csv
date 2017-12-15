@@ -28,7 +28,7 @@ K/KD/KDE.xml,KDERE00M,6905,25,,B,16,1,And we (()) ,"[And/CC, we/PRP]",(ROOT (FRA
 K/KD/KDE.xml,KDERE00M,6905,26,,A,17,1,Well  --,"[Well/RB, we/PRP, 're/VBP, see/VB, what/WP, the/DT, weather/NN, 's/POS, like/IN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP we)) (VP (VBP 're) (S (VP (VB see) (S (NP (WP what)) (NP (NP (DT the) (NN weather) (POS 's)) (PP (IN like))))))) (. .)))
 K/KD/KDE.xml,KDERE00M,6905,27,,A,17,2,--we're see what the weather's like.,"[Well/RB, we/PRP, 're/VBP, see/VB, what/WP, the/DT, weather/NN, 's/POS, like/IN, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP we)) (VP (VBP 're) (S (VP (VB see) (S (NP (WP what)) (NP (NP (DT the) (NN weather) (POS 's)) (PP (IN like))))))) (. .)))
 K/KD/KDE.xml,KDERE00M,6905,28,,A,17,3,Cos it may be nasty weather tomorrow.,"[Cos/NN, it/PRP, may/MD, be/VB, nasty/JJ, weather/NN, tomorrow/NN, ./.]",(ROOT (S (NP (NN Cos)) (NP (PRP it)) (VP (MD may) (VP (VB be) (ADJP (JJ nasty)) (NP (NN weather) (NN tomorrow)))) (. .)))
-K/KD/KDE.xml,KDERE00M,6905,29,,B,18,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00M,6905,29,,B,18,1,(()) ,[],
 K/KD/KDE.xml,KDERE00M,6905,30,,A,19,1,Pardon darling?,"[Pardon/NN, darling/NN, ?/.]",(ROOT (FRAG (NP (NN Pardon) (NN darling)) (. ?)))
 K/KD/KDE.xml,KDERE00M,6905,31,,B,20,1,(()) weather for?,"[weather/NN, for/IN, ?/.]",(ROOT (NP (NP (NN weather)) (PP (IN for)) (. ?)))
 K/KD/KDE.xml,KDERE00M,6905,32,,A,21,1,Well on the news they said the weather was gonna be nasty.,"[Well/RB, on/IN, the/DT, news/NN, they/PRP, said/VBD, the/DT, weather/NN, was/VBD, gonna/NNP, be/VB, nasty/JJ, ./.]",(ROOT (S (ADVP (RB Well)) (PP (IN on) (NP (DT the) (NN news))) (NP (PRP they)) (VP (VBD said) (SBAR (S (NP (DT the) (NN weather)) (VP (VBD was) (S (NP (NNP gonna)) (VP (VB be) (ADJP (JJ nasty)))))))) (. .)))

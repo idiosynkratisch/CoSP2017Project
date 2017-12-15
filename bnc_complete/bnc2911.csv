@@ -7,7 +7,7 @@ K/KB/KBK.xml,KBKRE06A,2911,4,,A,3,2,So the fourteenth will be a Sunday.,"[So/IN,
 K/KB/KBK.xml,KBKRE06A,2911,5,,B,4,1,How long have you been working on that?,"[How/WRB, long/RB, have/VBP, you/PRP, been/VBN, working/VBG, on/IN, that/IN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (RB long)) (SQ (VBP have) (NP (PRP you)) (VP (VBN been) (VP (VBG working) (PP (IN on) (ADVP (IN that)))))) (. ?)))
 K/KB/KBK.xml,KBKRE06A,2911,6,,A,5,1,Saturday.,"[Saturday/NNP, ./.]",(ROOT (FRAG (NP (NNP Saturday)) (. .)))
 K/KB/KBK.xml,KBKRE06A,2911,7,,A,5,2,She finishes in August did you say?,"[She/PRP, finishes/VBZ, in/IN, August/NNP, did/VBD, you/PRP, say/VB, ?/.]",(ROOT (S (NP (PRP She)) (VP (VBZ finishes) (SBAR (IN in) (S (NP (NNP August)) (VP (VBD did) (S (NP (PRP you)) (VP (VB say))))))) (. ?)))
-K/KB/KBK.xml,KBKRE06A,2911,8,,B,6,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06A,2911,8,,B,6,1,(()) ,[],
 K/KB/KBK.xml,KBKRE06A,2911,9,,A,7,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KBK.xml,KBKRE06A,2911,10,,A,7,2,Thank you.,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))
 K/KB/KBK.xml,KBKRE06A,2911,11,,A,7,3,Thank you.(()) ,"[Thank/VB, you/PRP, ./.]",(ROOT (S (VP (VB Thank) (NP (PRP you))) (. .)))

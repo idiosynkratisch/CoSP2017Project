@@ -10,6 +10,6 @@ K/KC/KCN.xml,KCNRE01H,27507,7,,B,4,1,Yes ,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KC/KCN.xml,KCNRE01H,27507,8,,A,5,1,Because we,"[Because/IN, we/PRP]",(ROOT (PP (IN Because) (NP (PRP we))))
 K/KC/KCN.xml,KCNRE01H,27507,9,,B,6,1,I think it's more than that!,"[I/PRP, think/VBP, it/PRP, 's/VBZ, more/JJR, than/IN, that/DT, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (DT that)))))))) (. !)))
 K/KC/KCN.xml,KCNRE01H,27507,10,,A,7,1,"Yeah, I put wrong ","[Yeah/UH, ,/,, I/PRP, put/VBD, wrong/JJ]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBD put)) (JJ wrong)))"
-K/KC/KCN.xml,KCNRE01H,27507,11,,B,8,1,(()) ,[],X
+K/KC/KCN.xml,KCNRE01H,27507,11,,B,8,1,(()) ,[],
 K/KC/KCN.xml,KCNRE01H,27507,12,,A,9,1,"I think, yeah.","[I/PRP, think/VBP, ,/,, yeah/UH, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP think))) (, ,) (FRAG (INTJ (UH yeah))) (. .)))"
 K/KC/KCN.xml,KCNRE01H,27507,13,,B,10,1,"No, sorry!","[No/DT, ,/,, sorry/JJ, !/.]","(ROOT (FRAG (NP (NP (DT No)) (, ,) (ADJP (JJ sorry))) (. !)))"

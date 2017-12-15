@@ -1,12 +1,12 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE035,2402,0,,A,1,1,"Madame, may I  --","[Madame/NNP, ,/,, may/MD, I/PRP, pour/VBP, you/PRP, ,/,, have/VBP, the/DT, pleasure/NN, of/IN, pouring/VBG, you/PRP]","(ROOT (S (NP (NP (NNP Madame)) (, ,) (VP (VP (MD may)) (SBAR (S (NP (PRP I)) (VP (VBP pour) (NP (PRP you)))))) (, ,)) (VP (VBP have) (NP (NP (DT the) (NN pleasure)) (PP (IN of) (S (VP (VBG pouring) (NP (PRP you)))))))))"
 K/KB/KBK.xml,KBKRE035,2402,1,,A,1,2,"--pour you, have the pleasure of pouring you","[Madame/NNP, ,/,, may/MD, I/PRP, pour/VBP, you/PRP, ,/,, have/VBP, the/DT, pleasure/NN, of/IN, pouring/VBG, you/PRP]","(ROOT (S (NP (NP (NNP Madame)) (, ,) (VP (VP (MD may)) (SBAR (S (NP (PRP I)) (VP (VBP pour) (NP (PRP you)))))) (, ,)) (VP (VBP have) (NP (NP (DT the) (NN pleasure)) (PP (IN of) (S (VP (VBG pouring) (NP (PRP you)))))))))"
-K/KB/KBK.xml,KBKRE035,2402,2,,B,2,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE035,2402,2,,B,2,1,(()) ,[],
 K/KB/KBK.xml,KBKRE035,2402,3,,A,3,1,hot (()) .,"[hot/JJ, ./.]",(ROOT (FRAG (ADJP (JJ hot)) (. .)))
 K/KB/KBK.xml,KBKRE035,2402,4,,B,4,1,(()) .,[./.],(ROOT (NP (. .)))
 K/KB/KBK.xml,KBKRE035,2402,5,,A,5,1,"Right, by all means.","[Right/NN, ,/,, by/IN, all/DT, means/NNS, ./.]","(ROOT (FRAG (NP (NN Right)) (, ,) (PP (IN by) (NP (DT all) (NNS means))) (. .)))"
 K/KB/KBK.xml,KBKRE035,2402,6,,A,5,2,Dry or middling?,"[Dry/JJ, or/CC, middling/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Dry) (CC or) (JJ middling)) (. ?)))
 K/KB/KBK.xml,KBKRE035,2402,7,,B,6,1,I'm middling.,"[I/PRP, 'm/VBP, middling/JJ, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ middling))) (. .)))
 K/KB/KBK.xml,KBKRE035,2402,8,,A,7,1,"Middling, I hope I've got some middling, I'll go and have a look.","[Middling/JJ, ,/,, I/PRP, hope/VBP, I/PRP, 've/VBP, got/VBD, some/DT, middling/JJ, ,/,, I/PRP, 'll/MD, go/VB, and/CC, have/VB, a/DT, look/NN, ./.]","(ROOT (S (S (S (ADJP (JJ Middling))) (, ,) (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBD got) (NP (DT some) (JJ middling)))))))) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VP (VB go)) (CC and) (VP (VB have) (NP (DT a) (NN look))))) (. .)))"
-K/KB/KBK.xml,KBKRE035,2402,9,,B,8,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE035,2402,9,,B,8,1,(()) ,[],
 K/KB/KBK.xml,KBKRE035,2402,10,,A,9,1,"Right, I see what's what.","[Right/NN, ,/,, I/PRP, see/VBP, what/WP, 's/VBZ, what/WP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (NP (PRP I)) (VP (VBP see) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (WHNP (WP what)))))) (. .)))"

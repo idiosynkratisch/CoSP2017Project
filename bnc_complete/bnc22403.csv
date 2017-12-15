@@ -32,7 +32,7 @@ K/KB/KBW.xml,KBWRE00J,22403,29,,A,13,3,I'll hold your hand.,"[I/PRP, 'll/MD, hol
 K/KB/KBW.xml,KBWRE00J,22403,30,,A,13,4,There you go.,"[There/EX, you/PRP, go/VBP, ./.]",(ROOT (S (NP (EX There)) (NP (PRP you)) (VP (VBP go)) (. .)))
 K/KB/KBW.xml,KBWRE00J,22403,31,,A,13,5,Wrong way!,"[Wrong/JJ, way/NN, !/.]",(ROOT (NP (JJ Wrong) (NN way) (. !)))
 K/KB/KBW.xml,KBWRE00J,22403,32,,B,14,1,Ah!,"[Ah/NN, !/.]",(ROOT (INTJ (NN Ah) (. !)))
-K/KB/KBW.xml,KBWRE00J,22403,33,,A,15,1,<laugh> ,[],X
+K/KB/KBW.xml,KBWRE00J,22403,33,,A,15,1,<laugh> ,[],
 K/KB/KBW.xml,KBWRE00J,22403,34,,B,16,1,"I, I was going to the ","[I/PRP, ,/,, I/PRP, was/VBD, going/VBG, to/TO, the/DT]","(ROOT (NP (S (NP (PRP I)) (, ,) (NP (PRP I)) (VP (VBD was) (VP (VBG going) (PP (TO to) (NP (DT the))))))))"
 K/KB/KBW.xml,KBWRE00J,22403,35,,A,17,1,Yes ,[Yes/UH],(ROOT (INTJ (UH Yes)))
 K/KB/KBW.xml,KBWRE00J,22403,36,,B,18,1,toilet!,"[toilet/NN, !/.]",(ROOT (NP (NN toilet) (. !)))
@@ -51,7 +51,7 @@ K/KB/KBW.xml,KBWRE00J,22403,48,,A,25,2,--do it up again.,"[That/DT, 's/VBZ, it/P
 K/KB/KBW.xml,KBWRE00J,22403,49,,B,26,1,Yeah  --,"[Yeah/UH, come/VBN, in/IN, ./.]",(ROOT (INTJ (UH Yeah) (PP (VBN come) (PP (IN in))) (. .)))
 K/KB/KBW.xml,KBWRE00J,22403,50,,B,26,2,--come in.,"[Yeah/UH, come/VBN, in/IN, ./.]",(ROOT (INTJ (UH Yeah) (PP (VBN come) (PP (IN in))) (. .)))
 K/KB/KBW.xml,KBWRE00J,22403,51,,B,26,3,Come on wee!,"[Come/VB, on/IN, wee/NN, !/.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (NN wee)))) (. !)))
-K/KB/KBW.xml,KBWRE00J,22403,52,,A,27,1,<laugh> ,[],X
+K/KB/KBW.xml,KBWRE00J,22403,52,,A,27,1,<laugh> ,[],
 K/KB/KBW.xml,KBWRE00J,22403,53,,B,28,1,Is the wee coming?,"[Is/VBZ, the/DT, wee/NN, coming/VBG, ?/.]",(ROOT (SQ (VBZ Is) (NP (DT the) (NN wee)) (VP (VBG coming)) (. ?)))
 K/KB/KBW.xml,KBWRE00J,22403,54,,B,28,2,I do needed a wee!,"[I/PRP, do/VBP, needed/VBN, a/DT, wee/NN, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP do) (VP (VBN needed) (NP (DT a) (NN wee)))) (. !)))
 K/KB/KBW.xml,KBWRE00J,22403,55,,A,29,1,You did yes.,"[You/PRP, did/VBD, yes/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD did) (NP (RB yes))) (. .)))

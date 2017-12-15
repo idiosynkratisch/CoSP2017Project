@@ -7,7 +7,7 @@ K/KD/KD3.xml,KD3RE002,24703,4,,A,3,3,"Where are you, where do you want it puttin
 K/KD/KD3.xml,KD3RE002,24703,5,,B,4,1,Behind the shed.,"[Behind/IN, the/DT, shed/NN, ./.]",(ROOT (FRAG (PP (IN Behind) (NP (DT the) (NN shed))) (. .)))
 K/KD/KD3.xml,KD3RE002,24703,6,,A,5,1,What the one that's up?,"[What/WP, the/DT, one/CD, that/WDT, 's/VBZ, up/RP, ?/.]",(ROOT (FRAG (WHNP (WP What)) (SBAR (X (X (DT the)) (NP (CD one))) (S (NP (WDT that)) (VP (VBZ 's) (ADVP (RP up))))) (. ?)))
 K/KD/KD3.xml,KD3RE002,24703,7,,A,5,2,Yeah.<laugh> ,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KD/KD3.xml,KD3RE002,24703,8,,B,6,1,(()) ,[],X
+K/KD/KD3.xml,KD3RE002,24703,8,,B,6,1,(()) ,[],
 K/KD/KD3.xml,KD3RE002,24703,9,,A,7,1,Yeah   <cough> --,"[Yeah/UH, yes/UH, ,/,, alright/JJ, ./.]","(ROOT (FRAG (INTJ (UH Yeah) (UH yes)) (, ,) (ADVP (JJ alright)) (. .)))"
 K/KD/KD3.xml,KD3RE002,24703,10,,A,7,2,"--yes, alright.","[Yeah/UH, yes/UH, ,/,, alright/JJ, ./.]","(ROOT (FRAG (INTJ (UH Yeah) (UH yes)) (, ,) (ADVP (JJ alright)) (. .)))"
 K/KD/KD3.xml,KD3RE002,24703,11,,B,8,1,But away from the fence.,"[But/CC, away/RB, from/IN, the/DT, fence/NN, ./.]",(ROOT (FRAG (CC But) (ADVP (RB away)) (PP (IN from) (NP (DT the) (NN fence))) (. .)))

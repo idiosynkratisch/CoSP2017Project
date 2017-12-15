@@ -25,5 +25,5 @@ K/KD/KD5.xml,KD5RE00T,33905,22,,A,17,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .
 K/KD/KD5.xml,KD5RE00T,33905,23,,A,17,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KD/KD5.xml,KD5RE00T,33905,24,,B,18,1,"Yeah,(()) .","[Yeah/UH, ,/,, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (. .))))"
 K/KD/KD5.xml,KD5RE00T,33905,25,,A,19,1,"Mm, good luck!","[Mm/NN, ,/,, good/JJ, luck/NN, !/.]","(ROOT (NP (NP (NN Mm)) (, ,) (NP (JJ good) (NN luck)) (. !)))"
-K/KD/KD5.xml,KD5RE00T,33905,26,,B,20,1,<sigh> ,[],X
-K/KD/KD5.xml,KD5RE00T,33905,27,,A,21,1,<laugh> ,[],X
+K/KD/KD5.xml,KD5RE00T,33905,26,,B,20,1,<sigh> ,[],
+K/KD/KD5.xml,KD5RE00T,33905,27,,A,21,1,<laugh> ,[],

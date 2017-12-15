@@ -2,8 +2,8 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KB/KB3.xml,KB3RE000,66401,0,,A,1,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KB3.xml,KB3RE000,66401,1,,B,2,1,What have we got?,"[What/WDT, have/VBP, we/PRP, got/VBD, ?/.]",(ROOT (SBARQ (WHNP (WDT What)) (SQ (VBP have) (NP (PRP we)) (VP (VBD got))) (. ?)))
 K/KB/KB3.xml,KB3RE000,66401,2,,B,2,2,We don't want ,"[We/PRP, don/VBP, 't/PRP, want/VB]",(ROOT (S (NP (PRP We)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB want))))))
-K/KB/KB3.xml,KB3RE000,66401,3,,A,3,1,(()) ,[],X
-K/KB/KB3.xml,KB3RE000,66401,4,,A,3,2,(()) ,[],X
+K/KB/KB3.xml,KB3RE000,66401,3,,A,3,1,(()) ,[],
+K/KB/KB3.xml,KB3RE000,66401,4,,A,3,2,(()) ,[],
 K/KB/KB3.xml,KB3RE000,66401,5,,B,4,1,Oh good.,"[Oh/UH, good/JJ, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (JJ good)))) (. .)))
 K/KB/KB3.xml,KB3RE000,66401,6,,B,4,2,Did ,[Did/VBD],(ROOT (FRAG (VP (VBD Did))))
 K/KB/KB3.xml,KB3RE000,66401,7,,A,5,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
@@ -34,16 +34,16 @@ K/KB/KB3.xml,KB3RE000,66401,31,,B,20,2,<reading title of book> Machines Work For
 K/KB/KB3.xml,KB3RE000,66401,32,,A,21,1,I'm going  (()) mum.,"[I/PRP, 'm/VBP, going/VBG, mum/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG going) (NP (NN mum)))) (. .)))
 K/KB/KB3.xml,KB3RE000,66401,33,,B,22,1,"Good, but I think we should be slightly bigger, Grant.","[Good/JJ, ,/,, but/CC, I/PRP, think/VBP, we/PRP, should/MD, be/VB, slightly/RB, bigger/JJR, ,/,, Grant/NN, ./.]","(ROOT (S (S (INTJ (JJ Good)) (, ,) (CC but) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (MD should) (VP (VB be) (ADJP (RB slightly) (JJR bigger)))))))) (, ,) (FRAG (NP (NN Grant))) (. .)))"
 K/KB/KB3.xml,KB3RE000,66401,34,,B,22,2,"Mummy was as school as, as though er a too small, teacher used to smack us.<laugh> ","[Mummy/NN, was/VBD, as/IN, school/NN, as/IN, ,/,, as/IN, though/IN, er/NN, a/DT, too/RB, small/JJ, ,/,, teacher/NN, used/VBN, to/TO, smack/VB, us/PRP, ./.]","(ROOT (S (NP (NN Mummy)) (VP (VBD was) (PP (IN as) (NP (NN school))) (PP (IN as) (NP (PRN (, ,) (SBAR (IN as) (SBAR (IN though) (S (NP (NN er)) (ADJP (DT a) (RB too) (JJ small))))) (, ,)) (NN teacher))) (VP (VBN used) (S (VP (TO to) (VP (VB smack) (NP (PRP us))))))) (. .)))"
-K/KB/KB3.xml,KB3RE000,66401,35,,A,23,1,<laugh> ,[],X
+K/KB/KB3.xml,KB3RE000,66401,35,,A,23,1,<laugh> ,[],
 K/KB/KB3.xml,KB3RE000,66401,36,,B,24,1,"We did, we used to get the ruler across the knuckles when mummy was in primary school.","[We/PRP, did/VBD, ,/,, we/PRP, used/VBD, to/TO, get/VB, the/DT, ruler/NN, across/IN, the/DT, knuckles/NNS, when/WRB, mummy/NN, was/VBD, in/IN, primary/JJ, school/NN, ./.]","(ROOT (S (S (NP (PRP We)) (VP (VBD did))) (, ,) (NP (PRP we)) (VP (VBD used) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN ruler)) (PP (IN across) (NP (DT the) (NNS knuckles))) (SBAR (WHADVP (WRB when)) (S (NP (NN mummy)) (VP (VBD was) (PP (IN in) (NP (JJ primary) (NN school)))))))))) (. .)))"
 K/KB/KB3.xml,KB3RE000,66401,37,,B,24,2,That's why we were taught to write beautifully I suppose.,"[That/DT, 's/VBZ, why/WRB, we/PRP, were/VBD, taught/VBN, to/TO, write/VB, beautifully/RB, I/PRP, suppose/VBP, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (PRP we)) (VP (VBD were) (VP (VBN taught) (S (VP (TO to) (VP (VB write) (S (ADVP (RB beautifully)) (NP (PRP I)) (VP (VBP suppose))))))))))) (. .)))
 K/KB/KB3.xml,KB3RE000,66401,38,,B,24,3,"Snip, good and Mummy'll see if Daddy's  --","[Snip/VB, ,/,, good/JJ, and/CC, Mummy/JJ, 'll/MD, see/VB, if/IN, Daddy/NNP, 's/POS, make/VBP, the/DT, coffee/NN]","(ROOT (S (VP (VB Snip) (, ,) (S (NP (NP (JJ good)) (CC and) (NP (JJ Mummy))) (VP (MD 'll) (VP (VB see) (SBAR (IN if) (S (NP (NNP Daddy) (POS 's)) (VP (VBP make) (NP (DT the) (NN coffee)))))))))))"
 K/KB/KB3.xml,KB3RE000,66401,39,,B,24,4,--make the coffee ,"[Snip/VB, ,/,, good/JJ, and/CC, Mummy/JJ, 'll/MD, see/VB, if/IN, Daddy/NNP, 's/POS, make/VBP, the/DT, coffee/NN]","(ROOT (S (VP (VB Snip) (, ,) (S (NP (NP (JJ good)) (CC and) (NP (JJ Mummy))) (VP (MD 'll) (VP (VB see) (SBAR (IN if) (S (NP (NNP Daddy) (POS 's)) (VP (VBP make) (NP (DT the) (NN coffee)))))))))))"
-K/KB/KB3.xml,KB3RE000,66401,40,,A,25,1,(()) ,[],X
+K/KB/KB3.xml,KB3RE000,66401,40,,A,25,1,(()) ,[],
 K/KB/KB3.xml,KB3RE000,66401,41,,B,26,1,Oh she should be in bed.,"[Oh/UH, she/PRP, should/MD, be/VB, in/IN, bed/NN, ./.]",(ROOT (S (S (INTJ (UH Oh)) (NP (PRP she)) (VP (MD should) (VP (VB be) (PP (IN in) (NP (NN bed)))))) (. .)))
 K/KB/KB3.xml,KB3RE000,66401,42,,B,26,2,Mummy has forgotten the milk.,"[Mummy/NN, has/VBZ, forgotten/VBN, the/DT, milk/NN, ./.]",(ROOT (S (NP (NN Mummy)) (VP (VBZ has) (VP (VBN forgotten) (NP (DT the) (NN milk)))) (. .)))
 K/KB/KB3.xml,KB3RE000,66401,43,,B,26,3,"I think we'll put it to off just now, Grant.","[I/PRP, think/VBP, we/PRP, 'll/MD, put/VB, it/PRP, to/TO, off/RB, just/RB, now/RB, ,/,, Grant/NN, ./.]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP we)) (VP (MD 'll) (VP (VB put) (S (NP (PRP it)) (VP (TO to) (VP (PP (ADVP (RB off)) (RB just) (ADVP (RB now))) (, ,) (NP (NN Grant)))))))))) (. .)))"
-K/KB/KB3.xml,KB3RE000,66401,44,,A,27,1,<whispering> ,[],X
-K/KB/KB3.xml,KB3RE000,66401,45,,A,27,2,(()) ,[],X
-K/KB/KB3.xml,KB3RE000,66401,46,,A,27,3,</whispering> ,[],X
+K/KB/KB3.xml,KB3RE000,66401,44,,A,27,1,<whispering> ,[],
+K/KB/KB3.xml,KB3RE000,66401,45,,A,27,2,(()) ,[],
+K/KB/KB3.xml,KB3RE000,66401,46,,A,27,3,</whispering> ,[],
 K/KB/KB3.xml,KB3RE000,66401,47,,B,28,1,"Yes, because  (()) because there's a pause.","[Yes/UH, ,/,, because/IN, because/IN, there/EX, 's/VBZ, a/DT, pause/NN, ./.]","(ROOT (S (S (FRAG (INTJ (UH Yes)) (, ,) (PP (IN because) (PP (IN because)))) (NP (EX there)) (VP (VBZ 's) (NP (DT a) (NN pause)))) (. .)))"

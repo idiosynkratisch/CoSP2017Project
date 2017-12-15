@@ -39,7 +39,7 @@ K/KE/KE4.xml,KE4RE00M,67607,36,,A,21,1,I thought it was too.,"[I/PRP, thought/VB
 K/KE/KE4.xml,KE4RE00M,67607,37,,B,22,1,"<crying> But not if it, but people ","[But/CC, not/RB, if/IN, it/PRP, ,/,, but/CC, people/NNS]","(ROOT (FRAG (CC But) (RB not) (PP (IN if) (NP (NP (PRP it)) (, ,) (CC but) (NP (NNS people))))))"
 K/KE/KE4.xml,KE4RE00M,67607,38,,A,23,1,Tt!<tv loud> ,"[Tt/NN, !/.]",(ROOT (NP (NN Tt) (. !)))
 K/KE/KE4.xml,KE4RE00M,67607,39,,B,24,1,"keep saying, saying (()) .","[keep/VB, saying/VBG, ,/,, saying/VBG, ./.]","(ROOT (S (VP (VB keep) (S (VP (VP (VBG saying)) (, ,) (VP (VBG saying))))) (. .)))"
-K/KE/KE4.xml,KE4RE00M,67607,40,,A,25,1,(()) ,[],X
+K/KE/KE4.xml,KE4RE00M,67607,40,,A,25,1,(()) ,[],
 K/KE/KE4.xml,KE4RE00M,67607,41,,B,26,1,It happens every da- I go and say (()) .,"[It/PRP, happens/VBZ, every/DT, da-/NN, I/PRP, go/VBP, and/CC, say/VBP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ happens) (NP (NP (DT every) (NN da-)) (SBAR (S (NP (PRP I)) (VP (VBP go) (CC and) (VBP say)))))) (. .)))
 K/KE/KE4.xml,KE4RE00M,67607,42,,A,27,1,I know.,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))
 K/KE/KE4.xml,KE4RE00M,67607,43,,A,27,2,But you know what he's like.,"[But/CC, you/PRP, know/VBP, what/WP, he/PRP, 's/VBZ, like/IN, ./.]",(ROOT (S (CC But) (NP (PRP you)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ 's) (PP (IN like)))))) (. .)))

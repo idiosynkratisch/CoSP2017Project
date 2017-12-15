@@ -154,7 +154,7 @@ K/KB/KBF.xml,KBFRE01G,15405,151,,A,77,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. 
 K/KB/KBF.xml,KBFRE01G,15405,152,,A,77,2,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBF.xml,KBFRE01G,15405,153,,B,78,1,Why have we got so many cushions?,"[Why/WRB, have/VBP, we/PRP, got/VBD, so/RB, many/JJ, cushions/NNS, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP have) (NP (PRP we)) (VP (VBD got) (NP (ADJP (RB so) (JJ many)) (NNS cushions)))) (. ?)))
 K/KB/KBF.xml,KBFRE01G,15405,154,,B,78,2,"I said well don't worry, we're gonna have more.","[I/PRP, said/VBD, well/RB, don/NNP, 't/PRP, worry/VBP, ,/,, we/PRP, 're/VBP, gonna/NNS, have/VBP, more/RBR, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD said) (ADVP (RB well)) (NP (NP (NNP don)) (SBAR (S (NP (PRP 't)) (VP (VBP worry))))))) (, ,) (NP (PRP we)) (VP (VBP 're) (NP (NP (NNS gonna)) (SBAR (S (VP (VBP have) (NP (RBR more))))))) (. .)))"
-K/KB/KBF.xml,KBFRE01G,15405,155,,A,79,1,<laugh> ,[],X
+K/KB/KBF.xml,KBFRE01G,15405,155,,A,79,1,<laugh> ,[],
 K/KB/KBF.xml,KBFRE01G,15405,156,,B,80,1,"I said they even fight then, there's not enough.","[I/PRP, said/VBD, they/PRP, even/RB, fight/VB, then/RB, ,/,, there/EX, 's/VBZ, not/RB, enough/RB, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBD said) (SBAR (S (NP (PRP they)) (ADVP (RB even)) (VP (VB fight) (ADVP (RB then))))))) (, ,) (NP (EX there)) (VP (VBZ 's) (RB not) (ADJP (RB enough))) (. .)))"
 K/KB/KBF.xml,KBFRE01G,15405,157,,A,81,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KB/KBF.xml,KBFRE01G,15405,158,,A,81,2,I know.,"[I/PRP, know/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know)) (. .)))

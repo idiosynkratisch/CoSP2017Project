@@ -1,9 +1,9 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBK.xml,KBKRE053,2712,0,,A,1,1,Assume I'm not here.,"[Assume/VB, I/PRP, 'm/VBP, not/RB, here/RB, ./.]",(ROOT (S (VP (VB Assume) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (RB not) (ADVP (RB here)))))) (. .)))
 K/KB/KBK.xml,KBKRE053,2712,1,,B,2,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
-K/KB/KBK.xml,KBKRE053,2712,2,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE053,2712,2,,A,3,1,(()) ,[],
 K/KB/KBK.xml,KBKRE053,2712,3,,B,4,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBK.xml,KBKRE053,2712,4,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE053,2712,4,,A,5,1,(()) ,[],
 K/KB/KBK.xml,KBKRE053,2712,5,,B,6,1,Yep.,"[Yep/NN, ./.]",(ROOT (NP (NN Yep) (. .)))
 K/KB/KBK.xml,KBKRE053,2712,6,,B,6,2,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KB/KBK.xml,KBKRE053,2712,7,,B,6,3,"Presumably kicking the opponent's ball, it's, it's not acceptable.","[Presumably/RB, kicking/VBG, the/DT, opponent/NN, 's/POS, ball/NN, ,/,, it/PRP, 's/VBZ, ,/,, it/PRP, 's/VBZ, not/RB, acceptable/JJ, ./.]","(ROOT (S (S (VP (ADVP (RB Presumably)) (VBG kicking) (NP (NP (DT the) (NN opponent) (POS 's)) (NN ball)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (, ,) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (RB not) (ADJP (JJ acceptable)))))) (. .)))"
@@ -14,7 +14,7 @@ K/KB/KBK.xml,KBKRE053,2712,11,,A,9,1,"then, that's a fault.","[then/RB, ,/,, tha
 K/KB/KBK.xml,KBKRE053,2712,12,,B,10,1,"Oh, yes .","[Oh/UH, ,/,, yes/UH, ./.]","(ROOT (INTJ (INTJ (UH Oh)) (, ,) (INTJ (UH yes) (. .))))"
 K/KB/KBK.xml,KBKRE053,2712,13,,A,11,1,It's actually taken.,"[It/PRP, 's/VBZ, actually/RB, taken/VBN, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB actually)) (VP (VBN taken))) (. .)))
 K/KB/KBK.xml,KBKRE053,2712,14,,B,12,1,"I understand, yes.","[I/PRP, understand/VBP, ,/,, yes/UH, ./.]","(ROOT (S (S (NP (PRP I)) (VP (VBP understand))) (, ,) (FRAG (INTJ (UH yes))) (. .)))"
-K/KB/KBK.xml,KBKRE053,2712,15,,A,13,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE053,2712,15,,A,13,1,(()) ,[],
 K/KB/KBK.xml,KBKRE053,2712,16,,B,14,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBK.xml,KBKRE053,2712,17,,A,15,1,"(()) , I'm still in play as it were, and I do that then it's (()) .","[,/,, I/PRP, 'm/VBP, still/RB, in/IN, play/NN, as/IN, it/PRP, were/VBD, ,/,, and/CC, I/PRP, do/VBP, that/DT, then/RB, it/PRP, 's/VBZ, ./.]","(ROOT (PRN (, ,) (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB still)) (PP (IN in) (NP (NN play))) (SBAR (IN as) (S (S (NP (PRP it)) (VP (VBD were))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP do) (NP (DT that)) (ADVP (RB then)) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))) (. .))))))))"
 K/KB/KBK.xml,KBKRE053,2712,18,,B,16,1,"Right, right, I see.","[Right/NN, ,/,, right/NN, ,/,, I/PRP, see/VBP, ./.]","(ROOT (S (NP (NN Right)) (, ,) (ADVP (NN right)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))"

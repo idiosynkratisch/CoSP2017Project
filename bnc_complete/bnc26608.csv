@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KBP.xml,KBPRE00B,26608,0,,A,1,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
-K/KB/KBP.xml,KBPRE00B,26608,1,,B,2,1,(()) ,[],X
+K/KB/KBP.xml,KBPRE00B,26608,1,,B,2,1,(()) ,[],
 K/KB/KBP.xml,KBPRE00B,26608,2,,A,3,1,Can I borrow your writing device?,"[Can/MD, I/PRP, borrow/VB, your/PRP$, writing/VBG, device/NN, ?/.]",(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB borrow) (NP (PRP$ your) (VBG writing) (NN device))) (. ?)))
 K/KB/KBP.xml,KBPRE00B,26608,3,,A,3,2,"Lovely, thank you.","[Lovely/JJ, ,/,, thank/VB, you/PRP, ./.]","(ROOT (S (NP (JJ Lovely)) (, ,) (VP (VB thank) (NP (PRP you))) (. .)))"
 K/KB/KBP.xml,KBPRE00B,26608,4,,B,4,1,Twenty one twenty three please.,"[Twenty/CD, one/CD, twenty/CD, three/CD, please/UH, ./.]",(ROOT (NP (NP (NP (CD Twenty)) (VP (ADVP (ADVP (CD one)) (NP (CD twenty) (CD three))) (NP (UH please)))) (. .)))

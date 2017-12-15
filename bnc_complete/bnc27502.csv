@@ -64,14 +64,14 @@ K/KC/KCN.xml,KCNRE01C,27502,61,,B,24,3,Didn't know what anybody was talking abou
 K/KC/KCN.xml,KCNRE01C,27502,62,,A,25,1,Mm!,"[Mm/NN, !/.]",(ROOT (NP (NN Mm) (. !)))
 K/KC/KCN.xml,KCNRE01C,27502,63,,A,25,2,Be glad when it's all over!,"[Be/VB, glad/JJ, when/WRB, it/PRP, 's/VBZ, all/DT, over/IN, !/.]",(ROOT (SQ (VP (VB Be) (ADJP (JJ glad)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (DT all) (IN over)))))) (. !)))
 K/KC/KCN.xml,KCNRE01C,27502,64,,A,25,3,"Every time you hear the word election, you start to cringe!","[Every/DT, time/NN, you/PRP, hear/VBP, the/DT, word/NN, election/NN, ,/,, you/PRP, start/VBP, to/TO, cringe/VB, !/.]","(ROOT (S (S (NP (DT Every) (NN time)) (NP (PRP you)) (VP (VBP hear) (NP (DT the) (NN word) (NN election)))) (, ,) (NP (PRP you)) (VP (VBP start) (S (VP (TO to) (VP (VB cringe))))) (. !)))"
-K/KC/KCN.xml,KCNRE01C,27502,65,,B,26,1,<laugh> ,[],X
-K/KC/KCN.xml,KCNRE01C,27502,66,,A,27,1,<laugh> ,[],X
+K/KC/KCN.xml,KCNRE01C,27502,65,,B,26,1,<laugh> ,[],
+K/KC/KCN.xml,KCNRE01C,27502,66,,A,27,1,<laugh> ,[],
 K/KC/KCN.xml,KCNRE01C,27502,67,,B,28,1,And will do!,"[And/CC, will/MD, do/VB, !/.]",(ROOT (S (CC And) (VP (MD will) (VP (VB do))) (. !)))
 K/KC/KCN.xml,KCNRE01C,27502,68,,A,29,1,Ey --,"[Ey/NN, That/WDT, 's/VBZ, a/DT, Jewson/NNP, bus/NN, ,/,, look/VB, !/.]","(ROOT (S (NP (NP (NN Ey)) (SBAR (S (NP (WDT That)) (VP (VBZ 's) (NP (DT a) (NNP Jewson) (NN bus)))))) (, ,) (VP (VB look)) (. !)))"
 K/KC/KCN.xml,KCNRE01C,27502,69,,A,29,2,"--That's a Jewson bus, look!","[Ey/NN, That/WDT, 's/VBZ, a/DT, Jewson/NNP, bus/NN, ,/,, look/VB, !/.]","(ROOT (S (NP (NP (NN Ey)) (SBAR (S (NP (WDT That)) (VP (VBZ 's) (NP (DT a) (NNP Jewson) (NN bus)))))) (, ,) (VP (VB look)) (. !)))"
 K/KC/KCN.xml,KCNRE01C,27502,70,,B,30,1,Is it?,"[Is/VBZ, it/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP it))) (. ?)))
 K/KC/KCN.xml,KCNRE01C,27502,71,,A,31,1,<laughing> No </laughing> !,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
-K/KC/KCN.xml,KCNRE01C,27502,72,,B,32,1,<laugh> ,[],X
+K/KC/KCN.xml,KCNRE01C,27502,72,,B,32,1,<laugh> ,[],
 K/KC/KCN.xml,KCNRE01C,27502,73,,A,33,1,<laughing> Looks as though he ought to be </laughing> !,"[Looks/VBZ, as/IN, though/IN, he/PRP, ought/MD, to/TO, be/VB, !/.]",(ROOT (S (VP (VBZ Looks) (SBAR (IN as) (IN though) (S (NP (PRP he)) (VP (MD ought) (S (VP (TO to) (VP (VB be)))))))) (. !)))
 K/KC/KCN.xml,KCNRE01C,27502,74,,B,34,1,"Ooh I say, got the caravan in front of the house there!","[Ooh/NNP, I/PRP, say/VBP, ,/,, got/VBD, the/DT, caravan/NN, in/IN, front/NN, of/IN, the/DT, house/NNP, there/RB, !/.]","(ROOT (S (NP (NNP Ooh)) (PRN (S (NP (PRP I)) (VP (VBP say))) (, ,)) (VP (VBD got) (NP (DT the) (NN caravan)) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (DT the) (NNP house))))) (ADVP (RB there))) (. !)))"
 K/KC/KCN.xml,KCNRE01C,27502,75,,A,35,1,"Living, living in that till the house gets built!","[Living/NN, ,/,, living/VBG, in/IN, that/DT, till/IN, the/DT, house/NNP, gets/VBZ, built/VBN, !/.]","(ROOT (FRAG (ADJP (NN Living)) (, ,) (VP (VBG living) (PP (IN in) (NP (DT that))) (SBAR (IN till) (S (NP (DT the) (NNP house)) (VP (VBZ gets) (VP (VBN built)))))) (. !)))"

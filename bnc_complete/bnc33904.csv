@@ -19,11 +19,11 @@ K/KD/KD5.xml,KD5RE00S,33904,16,,B,10,1,You stinker!,"[You/PRP, stinker/VBP, !/.]
 K/KD/KD5.xml,KD5RE00S,33904,17,,A,11,1,Do you know I haven't farted all week!,"[Do/VB, you/PRP, know/VB, I/PRP, haven/NN, 't/PRP, farted/VBD, all/DT, week/NN, !/.]",(ROOT (S (VP (VB Do) (S (NP (PRP you)) (VP (VB know) (S (NP (PRP I)) (NP (NP (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD farted) (NP (DT all) (NN week)))))))))) (. !)))
 K/KD/KD5.xml,KD5RE00S,33904,18,,A,11,2,No kidding!,"[No/DT, kidding/NN, !/.]",(ROOT (NP (DT No) (NN kidding) (. !)))
 K/KD/KD5.xml,KD5RE00S,33904,19,,A,11,3,Apart from ,"[Apart/RB, from/IN]",(ROOT (PP (ADVP (RB Apart)) (IN from)))
-K/KD/KD5.xml,KD5RE00S,33904,20,,B,12,1,<laugh> ,[],X
+K/KD/KD5.xml,KD5RE00S,33904,20,,B,12,1,<laugh> ,[],
 K/KD/KD5.xml,KD5RE00S,33904,21,,A,13,1,when I've woken up  --,"[when/WRB, I/PRP, 've/VBP, woken/VBN, up/RP, I/PRP, have/VBP, a/DT, ./.]",(ROOT (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN woken) (PRT (RP up)))))) (NP (PRP I)) (VP (VBP have) (NP (DT a))) (. .)))
 K/KD/KD5.xml,KD5RE00S,33904,22,,A,13,2,--I have a (()) .,"[when/WRB, I/PRP, 've/VBP, woken/VBN, up/RP, I/PRP, have/VBP, a/DT, ./.]",(ROOT (S (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN woken) (PRT (RP up)))))) (NP (PRP I)) (VP (VBP have) (NP (DT a))) (. .)))
-K/KD/KD5.xml,KD5RE00S,33904,23,,B,14,1,<raspberry> ,[],X
-K/KD/KD5.xml,KD5RE00S,33904,24,,A,15,1,<laugh> ,[],X
+K/KD/KD5.xml,KD5RE00S,33904,23,,B,14,1,<raspberry> ,[],
+K/KD/KD5.xml,KD5RE00S,33904,24,,A,15,1,<laugh> ,[],
 K/KD/KD5.xml,KD5RE00S,33904,25,,B,16,1,"Well then you've farted once then haven't you, at least?","[Well/RB, then/RB, you/PRP, 've/VBP, farted/VBN, once/RB, then/RB, haven/NN, 't/PRP, you/PRP, ,/,, at/IN, least/JJS, ?/.]","(ROOT (SINV (PP (ADVP (RB Well)) (RB then) (NP (PRP you))) (VP (VBP 've) (VP (VBN farted) (ADVP (RB once)) (ADVP (RB then)))) (NP (NP (NN haven)) (NP (NP (PRP 't)) (NP (PRP you)) (, ,) (ADVP (IN at) (JJS least)))) (. ?)))"
 K/KD/KD5.xml,KD5RE00S,33904,26,,A,17,1,"No, I've farted once every morning, I love when you wake up.","[No/DT, ,/,, I/PRP, 've/VBP, farted/VBN, once/RB, every/DT, morning/NN, ,/,, I/PRP, love/VBP, when/WRB, you/PRP, wake/VBP, up/RP, ./.]","(ROOT (S (NP (DT No)) (, ,) (PRN (S (NP (PRP I)) (VP (VBP 've) (VP (VBN farted) (ADVP (RB once)) (NP (DT every) (NN morning)))))) (, ,) (NP (PRP I)) (VP (VBP love) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP wake) (PRT (RP up)))))) (. .)))"
 K/KD/KD5.xml,KD5RE00S,33904,27,,A,17,2,Nothing like a good fart (()) !,"[Nothing/NN, like/IN, a/DT, good/JJ, fart/NN, !/.]",(ROOT (NP (NP (NN Nothing)) (PP (IN like) (NP (DT a) (JJ good) (NN fart))) (. !)))
@@ -39,5 +39,5 @@ K/KD/KD5.xml,KD5RE00S,33904,36,,B,20,3,"If you fart when the tapes running that'
 K/KD/KD5.xml,KD5RE00S,33904,37,,A,21,1,I'm not (()) !,"[I/PRP, 'm/VBP, not/RB, !/.]",(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not)) (. !)))
 K/KD/KD5.xml,KD5RE00S,33904,38,,A,21,2,<laughing> I'll have to do it in there!,"[I/PRP, 'll/MD, have/VB, to/TO, do/VB, it/PRP, in/IN, there/EX, !/.]",(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (PRP it)) (PP (IN in) (NP (EX there)))))))) (. !)))
 K/KD/KD5.xml,KD5RE00S,33904,39,,A,21,3,You better clear that </laughing> !,"[You/PRP, better/JJR, clear/JJ, that/IN, !/.]",(ROOT (FRAG (NP (PRP You)) (ADJP (NP (JJR better)) (JJ clear)) (ADVP (IN that)) (. !)))
-K/KD/KD5.xml,KD5RE00S,33904,40,,B,22,1,<raspberry> ,[],X
-K/KD/KD5.xml,KD5RE00S,33904,41,,B,22,2,<laugh> ,[],X
+K/KD/KD5.xml,KD5RE00S,33904,40,,B,22,1,<raspberry> ,[],
+K/KD/KD5.xml,KD5RE00S,33904,41,,B,22,2,<laugh> ,[],

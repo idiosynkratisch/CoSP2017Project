@@ -53,7 +53,7 @@ sw08utt/sw_0829_3228.utt,3/sw3228,3228,50,%,A,31,1,"They, {F uh, } - /","They/PR
 sw08utt/sw_0829_3228.utt,3/sw3228,3228,51,sd,A,31,2,"{D well } we do, too,  /","well/UH we/PRP do/VBP ,/, too/RB ,/,","(ROOT (S (NP (UH well)) (VP (NP (NP (PRP we)) (SBAR (S (VP (VBP do))))) (PRN (, ,) (ADVP (RB too)) (, ,)))))",
 sw08utt/sw_0829_3228.utt,3/sw3228,3228,52,sd,A,31,3,{C but } they just want to rent that one.  /,but/CC they/PRP just/RB want/VBP to/TO rent/VB that/DT one/CD ./.,(ROOT (S (CC but) (NP (PRP they)) (ADVP (RB just)) (VP (VBP want) (S (VP (TO to) (VP (VB rent) (NP (DT that) (CD one)))))) (. .))),
 sw08utt/sw_0829_3228.utt,3/sw3228,3228,53,sd,A,31,4,That is their very favorite. /,That/DT is/VBZ their/PRP$ very/RB favorite/JJ ./.,(ROOT (S (NP (DT That)) (VP (VBZ is) (NP (NP (PRP$ their)) (ADJP (RB very) (JJ favorite)))) (. .))),
-sw08utt/sw_0829_3228.utt,3/sw3228,3228,54,x,B,32,1,<Laughter>.,,X,
+sw08utt/sw_0829_3228.utt,3/sw3228,3228,54,x,B,32,1,<Laughter>.,,,
 sw08utt/sw_0829_3228.utt,3/sw3228,3228,55,sd,A,33,1,They think they're so cute. /,They/PRP think/VBP they/PRP 're/VBP so/RB cute/JJ ./.,(ROOT (S (NP (PRP They)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (ADJP (RB so) (JJ cute)))))) (. .))),
 sw08utt/sw_0829_3228.utt,3/sw3228,3228,56,sv,B,34,1,"Probably gives them ideas of what they want to do,  /","Probably/RB gives/VBZ them/PRP ideas/NNS of/IN what/WP they/PRP want/VBP to/TO do/VB ,/,","(ROOT (SINV (ADVP (RB Probably)) (VP (VBZ gives) (NP (PRP them)) (NP (NNS ideas))) (SBAR (WHPP (IN of) (WHNP (WP what))) (S (NP (PRP they)) (VP (VBP want) (S (VP (TO to) (VP (VB do))))) (, ,)))))",
 sw08utt/sw_0829_3228.utt,3/sw3228,3228,57,qy^d,B,34,2,right <laughter>. /,right/UH ./.,(ROOT (INTJ (UH right) (. .))),

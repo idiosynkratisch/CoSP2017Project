@@ -17,7 +17,7 @@ K/KE/KE6.xml,KE6RE01B,37507,14,,B,8,2,I don't remember that.,"[I/PRP, don/VBP, '
 K/KE/KE6.xml,KE6RE01B,37507,15,,A,9,1,Well not a young boy but a young man.,"[Well/RB, not/RB, a/DT, young/JJ, boy/NN, but/CC, a/DT, young/JJ, man/NN, ./.]",(ROOT (FRAG (PP (ADVP (RB Well)) (RB not) (NP (NP (DT a) (JJ young) (NN boy)) (PP (CC but) (NP (DT a) (JJ young) (NN man))))) (. .)))
 K/KE/KE6.xml,KE6RE01B,37507,16,,B,10,1,Mm?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
 K/KE/KE6.xml,KE6RE01B,37507,17,,B,10,2,Who's he then?,"[Who/WP, 's/VBZ, he/PRP, then/RB, ?/.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (NP (PRP he)) (ADVP (RB then))) (. ?)))
-K/KE/KE6.xml,KE6RE01B,37507,18,,A,11,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01B,37507,18,,A,11,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01B,37507,19,,B,12,1,Oh.,"[Oh/UH, ./.]",(ROOT (INTJ (UH Oh) (. .)))
 K/KE/KE6.xml,KE6RE01B,37507,20,,A,13,1,Cos when he was talking to his wife on the phone,"[Cos/NN, when/WRB, he/PRP, was/VBD, talking/VBG, to/TO, his/PRP$, wife/NN, on/IN, the/DT, phone/NN]",(ROOT (FRAG (NP (NN Cos)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (VP (VBG talking) (PP (TO to) (NP (NP (PRP$ his) (NN wife)) (PP (IN on) (NP (DT the) (NN phone)))))))))))
 K/KE/KE6.xml,KE6RE01B,37507,21,,B,14,1,Mm?,"[Mm/NN, ?/.]",(ROOT (FRAG (NP (NN Mm)) (. ?)))
@@ -29,5 +29,5 @@ K/KE/KE6.xml,KE6RE01B,37507,26,,B,18,1,<laugh> I like him though.,"[I/PRP, like/
 K/KE/KE6.xml,KE6RE01B,37507,27,,A,19,1,Yeah  --,"[Yeah/UH, he/PRP, 's/VBZ, supposed/VBN, to/TO, be/VB, a/DT, bit/NN]",(ROOT (SINV (FRAG (INTJ (UH Yeah))) (VP (ADVP (PRP he)) (VBZ 's) (VP (VBN supposed) (S (VP (TO to) (VP (VB be)))))) (NP (DT a) (NN bit))))
 K/KE/KE6.xml,KE6RE01B,37507,28,,A,19,2,--he's supposed to be a bit ,"[Yeah/UH, he/PRP, 's/VBZ, supposed/VBN, to/TO, be/VB, a/DT, bit/NN]",(ROOT (SINV (FRAG (INTJ (UH Yeah))) (VP (ADVP (PRP he)) (VBZ 's) (VP (VBN supposed) (S (VP (TO to) (VP (VB be)))))) (NP (DT a) (NN bit))))
 K/KE/KE6.xml,KE6RE01B,37507,29,,B,20,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KE/KE6.xml,KE6RE01B,37507,30,,A,21,1,(()) ,[],X
+K/KE/KE6.xml,KE6RE01B,37507,30,,A,21,1,(()) ,[],
 K/KE/KE6.xml,KE6RE01B,37507,31,,B,22,1,Oh yeah.,"[Oh/UH, yeah/UH, ./.]",(ROOT (S (INTJ (UH Oh)) (VP (UH yeah)) (. .)))

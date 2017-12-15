@@ -60,7 +60,7 @@ K/KB/KBK.xml,KBKRE00A,2011,57,,B,42,2,I will.,"[I/PRP, will/MD, ./.]",(ROOT (S (
 K/KB/KBK.xml,KBKRE00A,2011,58,,B,42,3,You think that the colours go and,"[You/PRP, think/VBP, that/IN, the/DT, colours/NNS, go/VBP, and/CC]",(ROOT (S (NP (PRP You)) (VP (VBP think) (SBAR (IN that) (S (NP (DT the) (NNS colours)) (VP (VBP go) (ADVP (CC and))))))))
 K/KB/KBK.xml,KBKRE00A,2011,59,,A,43,1,I think the colours go very well indeed.,"[I/PRP, think/VBP, the/DT, colours/NNS, go/VBP, very/RB, well/RB, indeed/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (NNS colours)) (VP (VBP go) (ADVP (RB very) (RB well)) (ADVP (RB indeed)))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,60,,A,43,2,I mean it doesn't pick up precisely the same colour but that in there ,"[I/PRP, mean/VBP, it/PRP, doesn/VB, 't/PRP, pick/VB, up/RP, precisely/RB, the/DT, same/JJ, colour/NN, but/CC, that/IN, in/IN, there/EX]",(ROOT (S (NP (PRP I)) (VP (VBP mean) (S (NP (PRP it)) (VP (VB doesn) (NP (PRP 't)) (VP (VB pick) (PRT (RP up)) (NP (RB precisely) (DT the) (JJ same) (NN colour)) (ADVP (CC but)) (SBAR (IN that) (FRAG (PP (IN in) (NP (EX there)))))))))))
-K/KB/KBK.xml,KBKRE00A,2011,61,,B,44,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,61,,B,44,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00A,2011,62,,A,45,1,Yes it is.,"[Yes/UH, it/PRP, is/VBZ, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ is))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,63,,A,45,2,Yes it is.,"[Yes/UH, it/PRP, is/VBZ, ./.]",(ROOT (S (S (INTJ (UH Yes)) (NP (PRP it)) (VP (VBZ is))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,64,,A,45,3,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
@@ -101,7 +101,7 @@ K/KB/KBK.xml,KBKRE00A,2011,98,,A,61,2,Yes I think the skirt's gonna be very usef
 K/KB/KBK.xml,KBKRE00A,2011,99,,B,62,1,Er  (()) good skirt whether (()) .,"[Er/NN, good/JJ, skirt/NN, whether/IN, ./.]",(ROOT (NP (NP (NN Er)) (NP (JJ good) (NN skirt) (IN whether)) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,100,,A,63,1,Well I hope you will.,"[Well/RB, I/PRP, hope/VBP, you/PRP, will/MD, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (VBP hope) (SBAR (S (NP (PRP you)) (VP (MD will))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,101,,A,63,2,I like it.,"[I/PRP, like/VBP, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (PRP it))) (. .)))
-K/KB/KBK.xml,KBKRE00A,2011,102,,B,64,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,102,,B,64,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00A,2011,103,,A,65,1,It's the wrong green I think.,"[It/PRP, 's/VBZ, the/DT, wrong/JJ, green/NN, I/PRP, think/VBP, ./.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (DT the) (JJ wrong) (NN green)) (SBAR (S (NP (PRP I)) (VP (VBP think)))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,104,,A,65,2,"The actual skirt, the skirt's a blueyer green.","[The/DT, actual/JJ, skirt/NN, ,/,, the/DT, skirt/NN, 's/VBZ, a/DT, blueyer/JJR, green/NN, ./.]","(ROOT (S (NP (NP (DT The) (JJ actual) (NN skirt)) (, ,) (NP (DT the) (NN skirt))) (VP (VBZ 's) (NP (DT a) (JJR blueyer) (NN green))) (. .)))"
 K/KB/KBK.xml,KBKRE00A,2011,105,,A,65,3,"But you've got two blouses to wear with it, that's alright.","[But/CC, you/PRP, 've/VBP, got/VBD, two/CD, blouses/NNS, to/TO, wear/VB, with/IN, it/PRP, ,/,, that/DT, 's/VBZ, alright/JJ, ./.]","(ROOT (S (S (CC But) (NP (PRP you)) (VP (VBP 've) (VP (VBD got) (NP (CD two) (NNS blouses)) (S (VP (TO to) (VP (VB wear) (PP (IN with) (NP (PRP it))))))))) (, ,) (NP (DT that)) (VP (VBZ 's) (ADJP (JJ alright))) (. .)))"
@@ -131,7 +131,7 @@ K/KB/KBK.xml,KBKRE00A,2011,128,,A,79,2,With a jumper or cardigan.,"[With/IN, a/D
 K/KB/KBK.xml,KBKRE00A,2011,129,,B,80,1,No it's not.,"[No/DT, it/PRP, 's/VBZ, not/RB, ./.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBZ 's) (RB not)) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,130,,B,80,2,"(()) cooler, warmer weather and it's got short sleeves you know.","[cooler/JJR, ,/,, warmer/JJR, weather/NN, and/CC, it/PRP, 's/VBZ, got/VBN, short/JJ, sleeves/NNS, you/PRP, know/VBP, ./.]","(ROOT (S (NP (NP (JJR cooler)) (, ,) (NP (JJR warmer) (NN weather)) (CC and) (NP (PRP it))) (VP (VBZ 's) (VP (VBN got) (NP (NP (JJ short) (NNS sleeves)) (SBAR (S (NP (PRP you)) (VP (VBP know))))))) (. .)))"
 K/KB/KBK.xml,KBKRE00A,2011,131,,B,80,3,I don't really erm (()) .,"[I/PRP, don/VBP, 't/PRP, really/RB, erm/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (ADVP (RB really)) (NP (NN erm)))) (. .)))
-K/KB/KBK.xml,KBKRE00A,2011,132,,A,81,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,132,,A,81,1,<laugh> ,[],
 K/KB/KBK.xml,KBKRE00A,2011,133,,B,82,1,That's wrong for that.,"[That/DT, 's/VBZ, wrong/JJ, for/IN, that/DT, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (ADJP (JJ wrong) (PP (IN for) (NP (DT that))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,134,,B,82,2,This has got a stain on it.,"[This/DT, has/VBZ, got/VBN, a/DT, stain/VB, on/IN, it/PRP, ./.]",(ROOT (S (NP (DT This)) (VP (VBZ has) (VP (VBN got) (S (NP (DT a)) (VP (VB stain) (PP (IN on) (NP (PRP it))))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,135,,A,83,1,That's a nuisance.,"[That/DT, 's/VBZ, a/DT, nuisance/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (DT a) (NN nuisance))) (. .)))
@@ -152,7 +152,7 @@ K/KB/KBK.xml,KBKRE00A,2011,149,,B,88,5,--might erm,"[But/CC, I/PRP, suppose/VBP,
 K/KB/KBK.xml,KBKRE00A,2011,150,,A,89,1,Don't you think they go well together?,"[Don/NNP, 't/PRP, you/PRP, think/VBP, they/PRP, go/VB, well/RB, together/RB, ?/.]",(ROOT (S (NP (NNP Don) (PRP 't)) (NP (PRP you)) (VP (VBP think) (S (NP (PRP they)) (VP (VB go) (ADVP (RB well) (RB together))))) (. ?)))
 K/KB/KBK.xml,KBKRE00A,2011,151,,B,90,1,work.,"[work/NN, ./.]",(ROOT (NP (NN work) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,152,,B,90,2,Those colours are not too dark are they?,"[Those/DT, colours/NNS, are/VBP, not/RB, too/RB, dark/JJ, are/VBP, they/PRP, ?/.]",(ROOT (S (NP (DT Those) (NNS colours)) (VP (VBP are) (RB not) (ADJP (RB too) (JJ dark) (SBAR (S (VP (VBP are) (NP (PRP they))))))) (. ?)))
-K/KB/KBK.xml,KBKRE00A,2011,153,,A,91,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,153,,A,91,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00A,2011,154,,B,92,1,They're not perfect but they would do (()) .,"[They/PRP, 're/VBP, not/RB, perfect/JJ, but/CC, they/PRP, would/MD, do/VB, ./.]",(ROOT (S (S (NP (PRP They)) (VP (VBP 're) (RB not) (ADJP (JJ perfect)))) (CC but) (S (NP (PRP they)) (VP (MD would) (VP (VB do)))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,155,,B,92,2,Oh what about this?,"[Oh/UH, what/WP, about/IN, this/DT, ?/.]",(ROOT (FRAG (PP (NP (UH Oh)) (PP (NP (WP what)) (IN about) (NP (DT this)))) (. ?)))
 K/KB/KBK.xml,KBKRE00A,2011,156,,B,92,3,Mind you this skirt is only casual.,"[Mind/VB, you/PRP, this/DT, skirt/NN, is/VBZ, only/RB, casual/JJ, ./.]",(ROOT (S (VP (VB Mind) (NP (PRP you)) (SBAR (S (NP (DT this) (NN skirt)) (VP (VBZ is) (NP (RB only) (JJ casual)))))) (. .)))
@@ -213,7 +213,7 @@ K/KB/KBK.xml,KBKRE00A,2011,210,,B,116,1,What happened to the old one?,"[What/WP,
 K/KB/KBK.xml,KBKRE00A,2011,211,,A,117,1,"Oh, they move on.","[Oh/UH, ,/,, they/PRP, move/VBP, on/IN, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP they)) (VP (VBP move) (PP (IN on))) (. .)))"
 K/KB/KBK.xml,KBKRE00A,2011,212,,A,117,2,Erm you know he found another pub.,"[Erm/NN, you/PRP, know/VBP, he/PRP, found/VBD, another/DT, pub/NN, ./.]",(ROOT (S (NP (NP (NN Erm)) (SBAR (S (NP (PRP you)) (VP (VBP know) (NP (PRP he)))))) (VP (VBD found) (NP (DT another) (NN pub))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,213,,A,117,3,"Sometimes they move from being managers to being licence, erm erm tenants, I mean","[Sometimes/RB, they/PRP, move/VBP, from/IN, being/VBG, managers/NNS, to/TO, being/VBG, licence/NN, ,/,, erm/NN, erm/NN, tenants/NNS, ,/,, I/PRP, mean/VBP]","(ROOT (S (SBAR (ADVP (RB Sometimes)) (S (NP (PRP they)) (VP (VBP move) (PP (IN from) (S (VP (VBG being) (NP (NP (NNS managers)) (PP (TO to) (S (VP (VBG being) (NP (NP (NN licence)) (, ,) (NP (NN erm) (NN erm) (NNS tenants))))))))))))) (, ,) (NP (PRP I)) (VP (VBP mean))))"
-K/KB/KBK.xml,KBKRE00A,2011,214,,B,118,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,214,,B,118,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00A,2011,215,,A,119,1,when they're running their own business.,"[when/WRB, they/PRP, 're/VBP, running/VBG, their/PRP$, own/JJ, business/NN, ./.]",(ROOT (FRAG (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG running) (NP (PRP$ their) (JJ own) (NN business)))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,216,,B,120,1,A bigger pub?,"[A/DT, bigger/JJR, pub/NN, ?/.]",(ROOT (FRAG (NP (DT A) (ADJP (JJR bigger)) (NN pub)) (. ?)))
 K/KB/KBK.xml,KBKRE00A,2011,217,,A,121,1,Perhaps but I mean the Crown is quite a big pub.,"[Perhaps/RB, but/CC, I/PRP, mean/VBP, the/DT, Crown/NN, is/VBZ, quite/RB, a/DT, big/JJ, pub/NN, ./.]",(ROOT (S (S (ADVP (RB Perhaps)) (ADVP (CC but)) (NP (PRP I)) (VP (VBP mean))) (NP (DT the) (NN Crown)) (VP (VBZ is) (NP (RB quite) (DT a) (JJ big) (NN pub))) (. .)))
@@ -222,9 +222,9 @@ K/KB/KBK.xml,KBKRE00A,2011,219,,A,123,1,Quite a big pub.,"[Quite/RB, a/DT, big/J
 K/KB/KBK.xml,KBKRE00A,2011,220,,A,123,2,"It's a, with its own kitchens and what have you.","[It/PRP, 's/VBZ, a/DT, ,/,, with/IN, its/PRP$, own/JJ, kitchens/NNS, and/CC, what/WP, have/VBP, you/PRP, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (UCP (NP (NP (DT a)) (, ,) (PP (IN with) (NP (PRP$ its) (JJ own) (NNS kitchens)))) (CC and) (SBAR (WHNP (WP what)) (S (VP (VBP have) (NP (PRP you))))))) (. .)))"
 K/KB/KBK.xml,KBKRE00A,2011,221,,A,123,3,I should think you could make a good living there if you wanted to.,"[I/PRP, should/MD, think/VB, you/PRP, could/MD, make/VB, a/DT, good/JJ, living/NN, there/RB, if/IN, you/PRP, wanted/VBD, to/TO, ./.]",(ROOT (S (NP (PRP I)) (VP (MD should) (VP (VB think) (SBAR (S (NP (PRP you)) (VP (MD could) (VP (VB make) (NP (DT a) (JJ good) (NN living)) (ADVP (RB there)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBD wanted) (PP (TO to))))))))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,222,,A,123,4,And there have been long term er landlords there.,"[And/CC, there/EX, have/VBP, been/VBN, long/JJ, term/NN, er/NN, landlords/NNS, there/RB, ./.]",(ROOT (S (CC And) (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (JJ long) (NN term) (NN er) (NNS landlords)) (ADVP (RB there)))) (. .)))
-K/KB/KBK.xml,KBKRE00A,2011,223,,B,124,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,223,,B,124,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00A,2011,224,,A,125,1,Sorry?,"[Sorry/JJ, ?/.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. ?)))
-K/KB/KBK.xml,KBKRE00A,2011,225,,B,126,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,225,,B,126,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00A,2011,226,,A,127,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,227,,A,127,2,Well I'll go and shower now.,"[Well/RB, I/PRP, 'll/MD, go/VB, and/CC, shower/VB, now/RB, ./.]",(ROOT (S (ADVP (RB Well)) (NP (PRP I)) (VP (MD 'll) (VP (VB go) (CC and) (VB shower) (ADVP (RB now)))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,228,,A,127,3,Snoopy was off in a rush wasn't she?,"[Snoopy/NNP, was/VBD, off/RB, in/IN, a/DT, rush/NN, wasn/NN, 't/PRP, she/PRP, ?/.]",(ROOT (S (NP (NNP Snoopy)) (VP (VBD was) (ADVP (RB off) (PP (IN in) (NP (NP (DT a) (NN rush) (NN wasn)) (NP (PRP 't))))) (NP (PRP she))) (. ?)))
@@ -271,7 +271,7 @@ K/KB/KBK.xml,KBKRE00A,2011,268,,B,152,2,--(()) ,"[Karen/NNP, 's/POS, given/VBN, 
 K/KB/KBK.xml,KBKRE00A,2011,269,,A,153,1,Is she?,"[Is/VBZ, she/PRP, ?/.]",(ROOT (S (VP (VBZ Is) (NP (PRP she))) (. ?)))
 K/KB/KBK.xml,KBKRE00A,2011,270,,B,154,1,(()) going in on Monday when she doesn't normally.,"[going/VBG, in/IN, on/IN, Monday/NNP, when/WRB, she/PRP, doesn/VBZ, 't/PRP, normally/RB, ./.]",(ROOT (S (VP (VBG going) (PP (IN in) (IN on) (NP (NP (NNP Monday)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ doesn) (NP (PRP 't)) (ADVP (RB normally)))))))) (. .)))
 K/KB/KBK.xml,KBKRE00A,2011,271,,A,155,1,"Half past ten, right.","[Half/DT, past/JJ, ten/CD, ,/,, right/RB, ./.]","(ROOT (NP (NP (QP (DT Half)) (JJ past)) (NP (NP (CD ten)) (, ,) (ADVP (RB right))) (. .)))"
-K/KB/KBK.xml,KBKRE00A,2011,272,,B,156,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE00A,2011,272,,B,156,1,(()) ,[],
 K/KB/KBK.xml,KBKRE00A,2011,273,,A,157,1,"Well given that then, in that case she still can't ring the bank to find out what, how much she's now got in the account.","[Well/RB, given/VBN, that/IN, then/RB, ,/,, in/IN, that/DT, case/NN, she/PRP, still/RB, can/MD, 't/PRP, ring/VB, the/DT, bank/NN, to/TO, find/VB, out/RP, what/WP, ,/,, how/WRB, much/JJ, she/PRP, 's/VBZ, now/RB, got/VBN, in/IN, the/DT, account/NN, ./.]","(ROOT (S (VP (ADVP (RB Well)) (VBN given) (SBAR (IN that) (S (NP (RB then)) (, ,) (PP (IN in) (NP (DT that) (NN case))) (NP (PRP she)) (ADVP (RB still)) (VP (MD can) (NP (PRP 't)) (S (VP (VB ring) (NP (DT the) (NN bank)) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (NP (WP what))))) (, ,) (SBAR (WHADJP (WRB how) (JJ much)) (S (NP (PRP she)) (VP (VBZ 's) (ADVP (RB now)) (VP (VBN got) (PP (IN in) (NP (DT the) (NN account))))))))))))) (. .)))"
 K/KB/KBK.xml,KBKRE00A,2011,274,,B,158,1,Can't she?,"[Can/MD, 't/PRP, she/PRP, ?/.]",(ROOT (S (VP (MD Can) (VP (FRAG (NP (NP (PRP 't)) (NP (PRP she)))))) (. ?)))
 K/KB/KBK.xml,KBKRE00A,2011,275,,B,158,2,Why not?,"[Why/WRB, not/RB, ?/.]",(ROOT (FRAG (WHADVP (WRB Why)) (NP (RB not)) (. ?)))

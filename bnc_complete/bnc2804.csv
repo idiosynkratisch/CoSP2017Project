@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE05L,2804,0,,A,1,1,<laugh> ,[],X
+K/KB/KBK.xml,KBKRE05L,2804,0,,A,1,1,<laugh> ,[],
 K/KB/KBK.xml,KBKRE05L,2804,1,,B,2,1,"Jolly good direction, but ","[Jolly/JJ, good/JJ, direction/NN, ,/,, but/CC]","(ROOT (NP (NP (JJ Jolly)) (NP (JJ good) (NN direction)) (, ,) (ADVP (CC but))))"
 K/KB/KBK.xml,KBKRE05L,2804,2,,A,3,1,<laugh> Too jolly heavy.,"[Too/RB, jolly/JJ, heavy/NN, ./.]",(ROOT (FRAG (NP (RB Too) (JJ jolly)) (NP (NN heavy)) (. .)))
 K/KB/KBK.xml,KBKRE05L,2804,3,,B,4,1,Very good.,"[Very/RB, good/JJ, ./.]",(ROOT (FRAG (ADJP (RB Very) (JJ good)) (. .)))

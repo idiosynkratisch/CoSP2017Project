@@ -13,7 +13,7 @@ K/KB/KB5.xml,KB5RE004,5705,10,,A,9,1,"You say bloverks, souverks,(()) .","[You/P
 K/KB/KB5.xml,KB5RE004,5705,11,,B,10,1,(()) proper words (()) .,"[proper/JJ, words/NNS, ./.]",(ROOT (FRAG (NP (JJ proper) (NNS words)) (. .)))
 K/KB/KB5.xml,KB5RE004,5705,12,,A,11,1,"No you, we're doing it, well this  (()) a large.","[No/DT, you/PRP, ,/,, we/PRP, 're/VBP, doing/VBG, it/PRP, ,/,, well/RB, this/DT, a/DT, large/JJ, ./.]","(ROOT (S (NP (DT No) (PRP you)) (, ,) (NP (PRP we)) (VP (VBP 're) (VP (VBG doing) (S (NP (NP (PRP it)) (, ,) (RB well) (NP (DT this)) (DT a)) (ADJP (JJ large))))) (. .)))"
 K/KB/KB5.xml,KB5RE004,5705,13,,B,12,1,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
-K/KB/KB5.xml,KB5RE004,5705,14,,A,13,1,(()) ,[],X
+K/KB/KB5.xml,KB5RE004,5705,14,,A,13,1,(()) ,[],
 K/KB/KB5.xml,KB5RE004,5705,15,,B,14,1,"Mm,(()) can't imagine this (()) .","[Mm/NN, ,/,, can/MD, 't/PRP, imagine/VB, this/DT, ./.]","(ROOT (S (NP (NN Mm)) (, ,) (VP (MD can) (NP (PRP 't)) (S (VP (VB imagine) (NP (DT this))))) (. .)))"
 K/KB/KB5.xml,KB5RE004,5705,16,,A,15,1,(()) You  (()) has to come down (()) .,"[You/PRP, has/VBZ, to/TO, come/VB, down/RP, ./.]",(ROOT (S (NP (PRP You)) (VP (VBZ has) (S (VP (TO to) (VP (VB come) (PRT (RP down)))))) (. .)))
 K/KB/KB5.xml,KB5RE004,5705,17,,B,16,1,"It's really funny , oh.","[It/PRP, 's/VBZ, really/RB, funny/JJ, ,/,, oh/UH, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB really) (JJ funny)) (, ,) (INTJ (UH oh))) (. .)))"

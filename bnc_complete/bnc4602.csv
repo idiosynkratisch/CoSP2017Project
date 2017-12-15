@@ -1,22 +1,22 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KC/KCP.xml,KCPRE001,4602,0,,A,1,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KC/KCP.xml,KCPRE001,4602,1,,B,2,1,(()) ,[],X
+K/KC/KCP.xml,KCPRE001,4602,1,,B,2,1,(()) ,[],
 K/KC/KCP.xml,KCPRE001,4602,2,,A,3,1,I should think you've missed it haven't you?,"[I/PRP, should/MD, think/VB, you/PRP, 've/VBP, missed/VBN, it/PRP, haven/NN, 't/PRP, you/PRP, ?/.]",(ROOT (SINV (S (NP (PRP I)) (VP (MD should) (VP (VB think) (NP (PRP you))))) (VP (VBP 've) (VP (VBN missed) (S (NP (PRP it)) (VP (NN haven) (NP (PRP 't)))))) (NP (PRP you)) (. ?)))
 K/KC/KCP.xml,KCPRE001,4602,3,,B,4,1,No I haven't.,"[No/DT, I/PRP, haven/NN, 't/PRP, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (NN haven) (NP (PRP 't))) (. .)))
 K/KC/KCP.xml,KCPRE001,4602,4,,A,5,1,"Hmm, try it if you like.","[Hmm/NN, ,/,, try/VB, it/PRP, if/IN, you/PRP, like/VBP, ./.]","(ROOT (S (NP (NN Hmm)) (, ,) (VP (VB try) (NP (PRP it)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP like))))) (. .)))"
 K/KC/KCP.xml,KCPRE001,4602,5,,B,6,1,I like Penny.,"[I/PRP, like/VBP, Penny/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (NN Penny))) (. .)))
 K/KC/KCP.xml,KCPRE001,4602,6,,A,7,1,You like Penny's house do you?,"[You/PRP, like/IN, Penny/NN, 's/POS, house/NNP, do/VBP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (PP (IN like) (NP (NP (NN Penny) (POS 's)) (NNP house))) (VP (VBP do) (NP (PRP you))) (. ?)))
-K/KC/KCP.xml,KCPRE001,4602,7,,B,8,1,(()) ,[],X
+K/KC/KCP.xml,KCPRE001,4602,7,,B,8,1,(()) ,[],
 K/KC/KCP.xml,KCPRE001,4602,8,,B,8,2,Is that still clean?,"[Is/VBZ, that/IN, still/RB, clean/JJ, ?/.]",(ROOT (S (VP (VBZ Is) (ADJP (IN that) (RB still) (JJ clean))) (. ?)))
 K/KC/KCP.xml,KCPRE001,4602,9,,A,9,1,Right.,"[Right/NN, ./.]",(ROOT (INTJ (NN Right) (. .)))
 K/KC/KCP.xml,KCPRE001,4602,10,,A,9,2,"Is that a- oh no you've got to, Amy you've got to press the standby button.","[Is/VBZ, that/IN, a-/NN, oh/UH, no/DT, you/PRP, 've/VBP, got/VBN, to/TO, ,/,, Amy/NNP, you/PRP, 've/VBP, got/VBN, to/TO, press/VB, the/DT, standby/JJ, button/NN, ./.]","(ROOT (S (S (VP (VBZ Is) (SBAR (IN that) (FRAG (NP (NP (NN a-)) (SBAR (S (INTJ (UH oh)) (NP (DT no) (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to)))))))))))) (, ,) (NP (NNP Amy) (PRP you)) (VP (VBP 've) (VP (VBN got) (S (VP (TO to) (VP (VB press) (NP (DT the) (JJ standby) (NN button))))))) (. .)))"
-K/KC/KCP.xml,KCPRE001,4602,11,,B,10,1,(()) ,[],X
+K/KC/KCP.xml,KCPRE001,4602,11,,B,10,1,(()) ,[],
 K/KC/KCP.xml,KCPRE001,4602,12,,A,11,1,Ha.,"[Ha/NNP, ./.]",(ROOT (FRAG (NP (NNP Ha)) (. .)))
 K/KC/KCP.xml,KCPRE001,4602,13,,A,11,2,"Oh, I don't know where the thing is.","[Oh/UH, ,/,, I/PRP, don/VBP, 't/PRP, know/VB, where/WRB, the/DT, thing/NN, is/VBZ, ./.]","(ROOT (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN thing)) (VP (VBZ is))))))) (. .)))"
 K/KC/KCP.xml,KCPRE001,4602,14,,A,11,3,Over by Daddy   --,"[Over/IN, by/IN, Daddy/NNP, There/RB, you/PRP, are/VBP, it/PRP, 's/VBZ, finished/VBN]",(ROOT (S (PP (IN Over) (PP (IN by) (NP (NNP Daddy)) (ADVP (RB There)))) (NP (PRP you)) (VP (VBP are) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN finished))))))))
 K/KC/KCP.xml,KCPRE001,4602,15,,A,11,4,--<tv on in background> There you are it's finished  --,"[Over/IN, by/IN, Daddy/NNP, There/RB, you/PRP, are/VBP, it/PRP, 's/VBZ, finished/VBN]",(ROOT (S (PP (IN Over) (PP (IN by) (NP (NNP Daddy)) (ADVP (RB There)))) (NP (PRP you)) (VP (VBP are) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN finished))))))))
 K/KC/KCP.xml,KCPRE001,4602,16,,A,11,5,--<tv noise> ,"[Over/IN, by/IN, Daddy/NNP, There/RB, you/PRP, are/VBP, it/PRP, 's/VBZ, finished/VBN]",(ROOT (S (PP (IN Over) (PP (IN by) (NP (NNP Daddy)) (ADVP (RB There)))) (NP (PRP you)) (VP (VBP are) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN finished))))))))
-K/KC/KCP.xml,KCPRE001,4602,17,,B,12,1,<cough> ,[],X
+K/KC/KCP.xml,KCPRE001,4602,17,,B,12,1,<cough> ,[],
 K/KC/KCP.xml,KCPRE001,4602,18,,B,12,2,(()) big snails  --,"[big/JJ, snails/NNS, or/CC, a/DT, snake/NN]",(ROOT (NP (NP (JJ big) (NNS snails)) (CC or) (NP (DT a) (NN snake))))
 K/KC/KCP.xml,KCPRE001,4602,19,,B,12,3,--or a snake ,"[big/JJ, snails/NNS, or/CC, a/DT, snake/NN]",(ROOT (NP (NP (JJ big) (NNS snails)) (CC or) (NP (DT a) (NN snake))))
 K/KC/KCP.xml,KCPRE001,4602,20,,B,12,4,He looks like Jason Donovan.,"[He/PRP, looks/VBZ, like/IN, Jason/NNP, Donovan/NNP, ./.]",(ROOT (S (NP (PRP He)) (VP (VBZ looks) (PP (IN like) (NP (NNP Jason) (NNP Donovan)))) (. .)))

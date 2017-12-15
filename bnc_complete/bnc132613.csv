@@ -58,9 +58,9 @@ K/KP/KPG.xml,KPGRE00C,132613,55,,A,37,2,Ya </mimicking Swedish accent> .,"[Ya/PR
 K/KP/KPG.xml,KPGRE00C,132613,56,,B,38,1,<laugh> --,[./.],(ROOT (NP (. .)))
 K/KP/KPG.xml,KPGRE00C,132613,57,,B,38,2,--<singing> (()) </singing> .,[./.],(ROOT (NP (. .)))
 K/KP/KPG.xml,KPGRE00C,132613,58,,A,39,1,"<mimicking Swedish accent> Yes I, I come from Sweden, I eat lots of cheese, ya </mimicking Swedish accent> .","[Yes/UH, I/PRP, ,/,, I/PRP, come/VBP, from/IN, Sweden/NNP, ,/,, I/PRP, eat/VBP, lots/NNS, of/IN, cheese/NN, ,/,, ya/PRP, ./.]","(ROOT (S (S (INTJ (UH Yes)) (NP (PRP I)) (VP (VP (S (VP (VP (, ,) (S (NP (NP (PRP I)) (SBAR (S (VP (VBP come))))))) (PRN (ADVP (IN from)) (ADVP (NNP Sweden))))) (, ,) (VP (ADVP (PRP I)) (VBP eat))) (NP (NP (NNS lots)) (PP (IN of) (NP (NN cheese)))))) (, ,) (FRAG (NP (PRP ya))) (. .)))"
-K/KP/KPG.xml,KPGRE00C,132613,59,,B,40,1,<singing> ,[],X
-K/KP/KPG.xml,KPGRE00C,132613,60,,B,40,2,(()) ,[],X
-K/KP/KPG.xml,KPGRE00C,132613,61,,B,40,3,</singing> ,[],X
+K/KP/KPG.xml,KPGRE00C,132613,59,,B,40,1,<singing> ,[],
+K/KP/KPG.xml,KPGRE00C,132613,60,,B,40,2,(()) ,[],
+K/KP/KPG.xml,KPGRE00C,132613,61,,B,40,3,</singing> ,[],
 K/KP/KPG.xml,KPGRE00C,132613,62,,A,41,1,<singing> Give me your hand </singing> ,"[Give/VB, me/PRP, your/PRP$, hand/NN]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (PRP$ your) (NN hand)))))
 K/KP/KPG.xml,KPGRE00C,132613,63,,B,42,1,<singing> Give me your hand  --,"[Give/VB, me/PRP, your/PRP$, hand/NN, darling/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (PRP$ your) (NN hand) (NN darling))) (. .)))
 K/KP/KPG.xml,KPGRE00C,132613,64,,B,42,2,--darling.</singing> ,"[Give/VB, me/PRP, your/PRP$, hand/NN, darling/NN, ./.]",(ROOT (S (VP (VB Give) (NP (PRP me)) (NP (PRP$ your) (NN hand) (NN darling))) (. .)))

@@ -13,13 +13,13 @@ K/KC/KCV.xml,KCVRE009,3202,10,,A,7,2,--(()) ,"[And/CC, again/RB, ./.]",(ROOT (FR
 K/KC/KCV.xml,KCVRE009,3202,11,,B,8,1,What did you say?,"[What/WP, did/VBD, you/PRP, say/VB, ?/.]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (PRP you)) (VP (VB say))) (. ?)))
 K/KC/KCV.xml,KCVRE009,3202,12,,A,9,1,They sometimes (()) ,"[They/PRP, sometimes/RB]",(ROOT (FRAG (NP (NP (PRP They)) (ADVP (RB sometimes)))))
 K/KC/KCV.xml,KCVRE009,3202,13,,B,10,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))
-K/KC/KCV.xml,KCVRE009,3202,14,,A,11,1,(()) ,[],X
+K/KC/KCV.xml,KCVRE009,3202,14,,A,11,1,(()) ,[],
 K/KC/KCV.xml,KCVRE009,3202,15,,B,12,1,(()) Harrow or Ealing or somewhere like this.,"[Harrow/NN, or/CC, Ealing/NN, or/CC, somewhere/RB, like/IN, this/DT, ./.]",(ROOT (NP (NP (NN Harrow) (CC or) (NN Ealing)) (NP (NP (QP (CC or) (RB somewhere))) (PP (IN like) (NP (DT this)))) (. .)))
 K/KC/KCV.xml,KCVRE009,3202,16,,A,13,1,Oh no (()) ,"[Oh/UH, no/DT]",(ROOT (INTJ (UH Oh) (DT no)))
-K/KC/KCV.xml,KCVRE009,3202,17,,B,14,1,(()) ,[],X
-K/KC/KCV.xml,KCVRE009,3202,18,,A,15,1,(()) ,[],X
-K/KC/KCV.xml,KCVRE009,3202,19,,B,16,1,(()) ,[],X
-K/KC/KCV.xml,KCVRE009,3202,20,,B,16,2,<recording unclear> ,[],X
+K/KC/KCV.xml,KCVRE009,3202,17,,B,14,1,(()) ,[],
+K/KC/KCV.xml,KCVRE009,3202,18,,A,15,1,(()) ,[],
+K/KC/KCV.xml,KCVRE009,3202,19,,B,16,1,(()) ,[],
+K/KC/KCV.xml,KCVRE009,3202,20,,B,16,2,<recording unclear> ,[],
 K/KC/KCV.xml,KCVRE009,3202,21,,A,17,1,"So when are you, when are you playing tennis, on the fifteenth?","[So/RB, when/WRB, are/VBP, you/PRP, ,/,, when/WRB, are/VBP, you/PRP, playing/VBG, tennis/NN, ,/,, on/IN, the/DT, fifteenth/NNP, ?/.]","(ROOT (SBARQ (RB So) (SBAR (WHADVP (WRB when)) (S (VP (VBP are) (NP (PRP you))))) (, ,) (WHADVP (WRB when)) (SQ (VBP are) (NP (PRP you)) (VP (VBG playing) (NP (NN tennis)) (, ,) (PP (IN on) (NP (DT the) (NNP fifteenth))))) (. ?)))"
 K/KC/KCV.xml,KCVRE009,3202,22,,A,17,2,I have to know.,"[I/PRP, have/VBP, to/TO, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB know))))) (. .)))
 K/KC/KCV.xml,KCVRE009,3202,23,,A,17,3,The fifteenth so I could go  --,"[The/DT, fifteenth/NNP, so/IN, I/PRP, could/MD, go/VB, and/CC, that/DT, 's/VBZ, on/IN, a/DT, Sunday/NNP, or/CC, a/DT, Saturday/NNP, ?/.]",(ROOT (FRAG (NP (NP (DT The) (NNP fifteenth)) (SBAR (IN so) (S (S (NP (PRP I)) (VP (MD could) (VP (VB go)))) (CC and) (S (NP (DT that)) (VP (VBZ 's) (PP (IN on) (NP (NP (DT a) (NNP Sunday)) (CC or) (NP (DT a) (NNP Saturday))))))))) (. ?)))

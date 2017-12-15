@@ -25,7 +25,7 @@ K/KD/KDM.xml,KDMRE02R,30722,22,,B,14,6,--(()) .,"[We/PRP, were/VBD, this/DT, end
 K/KD/KDM.xml,KDMRE02R,30722,23,,A,15,1,Yo- you were stationery were you?,"[Yo-/NNP, you/PRP, were/VBD, stationery/NN, were/VBD, you/PRP, ?/.]",(ROOT (S (NP (NP (NNP Yo-)) (SBAR (S (NP (PRP you)) (VP (VBD were) (NP (NN stationery)))))) (VP (VBD were) (NP (PRP you))) (. ?)))
 K/KD/KDM.xml,KDMRE02R,30722,24,,B,16,1,I was stationery.,"[I/PRP, was/VBD, stationery/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (NP (NN stationery))) (. .)))
 K/KD/KDM.xml,KDMRE02R,30722,25,,A,17,1,She got no chance!,"[She/PRP, got/VBD, no/DT, chance/NN, !/.]",(ROOT (S (NP (PRP She)) (VP (VBD got) (NP (DT no) (NN chance))) (. !)))
-K/KD/KDM.xml,KDMRE02R,30722,26,,B,18,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE02R,30722,26,,B,18,1,(()) ,[],
 K/KD/KDM.xml,KDMRE02R,30722,27,,A,19,1,"You ran into a (()) , I mean  --","[You/PRP, ran/VBD, into/IN, a/DT, ,/,, I/PRP, mean/VBP, if/IN, she/PRP, 's/VBZ, reversing/VBG]","(ROOT (S (NP (PRP You)) (VP (VBD ran) (PP (IN into) (NP (DT a))) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG reversing)))))))))))"
 K/KD/KDM.xml,KDMRE02R,30722,28,,A,19,2,--if she's reversing,"[You/PRP, ran/VBD, into/IN, a/DT, ,/,, I/PRP, mean/VBP, if/IN, she/PRP, 's/VBZ, reversing/VBG]","(ROOT (S (NP (PRP You)) (VP (VBD ran) (PP (IN into) (NP (DT a))) (, ,) (SBAR (S (NP (PRP I)) (VP (VBP mean) (SBAR (IN if) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG reversing)))))))))))"
 K/KD/KDM.xml,KDMRE02R,30722,29,,B,20,1,She reversed  (()) ,"[She/PRP, reversed/VBD]",(ROOT (S (NP (PRP She)) (VP (VBD reversed))))
@@ -43,12 +43,12 @@ K/KD/KDM.xml,KDMRE02R,30722,40,,A,29,1,That's fatal!,"[That/DT, 's/VBZ, fatal/JJ
 K/KD/KDM.xml,KDMRE02R,30722,41,,A,29,2,"But I I was always taught, probably like yourself that you must look through that, turn round and look through that rear","[But/CC, I/PRP, I/PRP, was/VBD, always/RB, taught/VBN, ,/,, probably/RB, like/IN, yourself/PRP, that/IN, you/PRP, must/MD, look/VB, through/IN, that/DT, ,/,, turn/VB, round/NN, and/CC, look/VB, through/IN, that/DT, rear/NN]","(ROOT (S (CC But) (NP (PRP I)) (ADVP (PRP I)) (VP (VBD was) (ADVP (RB always)) (VP (VBN taught) (PRN (, ,) (ADVP (RB probably)) (PP (IN like) (NP (PRP yourself)))) (SBAR (IN that) (S (NP (PRP you)) (VP (MD must) (VP (VP (VB look) (PP (IN through) (NP (DT that)))) (, ,) (VP (VB turn) (NP (NN round))) (CC and) (VP (VB look) (PP (IN through) (NP (DT that) (NN rear))))))))))))"
 K/KD/KDM.xml,KDMRE02R,30722,42,,B,30,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KDM.xml,KDMRE02R,30722,43,,A,31,1,mirror.,"[mirror/NN, ./.]",(ROOT (NP (NN mirror) (. .)))
-K/KD/KDM.xml,KDMRE02R,30722,44,,B,32,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE02R,30722,44,,B,32,1,(()) ,[],
 K/KD/KDM.xml,KDMRE02R,30722,45,,A,33,1,"Cos if you take your eye off for a second, bang somebody's there!","[Cos/NN, if/IN, you/PRP, take/VB, your/PRP$, eye/NN, off/RP, for/IN, a/DT, second/JJ, ,/,, bang/NN, somebody/NN, 's/POS, there/EX, !/.]","(ROOT (FRAG (ADJP (NN Cos)) (SBAR (IN if) (S (NP (PRP you)) (VP (VB take) (NP (PRP$ your) (NN eye)) (PP (RP off) (PP (IN for) (NP (NP (DT a) (JJ second)) (, ,) (NP (NP (NN bang) (NN somebody) (POS 's)) (NP (EX there))))))))) (. !)))"
 K/KD/KDM.xml,KDMRE02R,30722,46,,B,34,1,Oh yes.,"[Oh/UH, yes/UH, ./.]",(ROOT (FRAG (UH Oh) (INTJ (UH yes)) (. .)))
 K/KD/KDM.xml,KDMRE02R,30722,47,,A,35,1,So I don't think she's got much hope now you know.,"[So/IN, I/PRP, don/VBP, 't/PRP, think/VB, she/PRP, 's/VBZ, got/VBN, much/JJ, hope/NN, now/RB, you/PRP, know/VBP, ./.]",(ROOT (S (IN So) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBN got) (NP (JJ much) (NN hope)) (SBAR (RB now) (S (NP (PRP you)) (VP (VBP know))))))))))) (. .)))
 K/KD/KDM.xml,KDMRE02R,30722,48,,A,35,2,Have you got ,"[Have/VB, you/PRP, got/VBD]",(ROOT (S (VP (VB Have) (S (NP (PRP you)) (VP (VBD got))))))
-K/KD/KDM.xml,KDMRE02R,30722,49,,B,36,1,(()) ,[],X
+K/KD/KDM.xml,KDMRE02R,30722,49,,B,36,1,(()) ,[],
 K/KD/KDM.xml,KDMRE02R,30722,50,,A,37,1,witnesses anyway?,"[witnesses/NNS, anyway/RB, ?/.]",(ROOT (FRAG (NP (NNS witnesses)) (ADVP (RB anyway)) (. ?)))
 K/KD/KDM.xml,KDMRE02R,30722,51,,B,38,1,<laughing> Yeah </laughing> .,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KD/KDM.xml,KDMRE02R,30722,52,,A,39,1,Oh!,"[Oh/UH, !/.]",(ROOT (INTJ (UH Oh) (. !)))

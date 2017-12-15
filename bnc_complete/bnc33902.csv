@@ -4,7 +4,7 @@ K/KD/KD5.xml,KD5RE00P,33902,1,,A,1,2,--<sigh> Ha!,"[I/PRP, would/MD, have/VB, th
 K/KD/KD5.xml,KD5RE00P,33902,2,,A,1,3,Phorgh!,"[Phorgh/NN, !/.]",(ROOT (NP (NN Phorgh) (. !)))
 K/KD/KD5.xml,KD5RE00P,33902,3,,A,1,4,Jesus!,"[Jesus/NNP, !/.]",(ROOT (FRAG (NP (NNP Jesus)) (. !)))
 K/KD/KD5.xml,KD5RE00P,33902,4,,A,1,5,"No don't, leave it!","[No/DT, don/NNP, 't/PRP, ,/,, leave/VB, it/PRP, !/.]","(ROOT (S (NP (NP (DT No) (NX (NNP don))) (NP (PRP 't)) (, ,)) (VP (VB leave) (NP (PRP it))) (. !)))"
-K/KD/KD5.xml,KD5RE00P,33902,5,,B,2,1,(()) ,[],X
+K/KD/KD5.xml,KD5RE00P,33902,5,,B,2,1,(()) ,[],
 K/KD/KD5.xml,KD5RE00P,33902,6,,A,3,1,"No, it's fine!","[No/DT, ,/,, it/PRP, 's/VBZ, fine/JJ, !/.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ fine))) (. !)))"
 K/KD/KD5.xml,KD5RE00P,33902,7,,B,4,1,I was trying to talk you turn it off then.,"[I/PRP, was/VBD, trying/VBG, to/TO, talk/VB, you/PRP, turn/VB, it/PRP, off/RP, then/RB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG trying) (S (VP (TO to) (VP (VB talk) (S (NP (PRP you)) (VP (VB turn) (NP (PRP it)) (PRT (RP off)) (NP (RB then))))))))) (. .)))
 K/KD/KD5.xml,KD5RE00P,33902,8,,A,5,1,You're worried about your privacy being invaded aren't you?,"[You/PRP, 're/VBP, worried/VBN, about/IN, your/PRP$, privacy/NN, being/VBG, invaded/VBN, aren/NNP, 't/PRP, you/PRP, ?/.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBN worried) (PP (IN about) (NP (NP (PRP$ your) (NN privacy)) (VP (VBG being) (VP (VBN invaded) (S (NP (NNP aren) (PRP 't)) (NP (PRP you))))))))) (. ?)))
@@ -27,12 +27,12 @@ K/KD/KD5.xml,KD5RE00P,33902,24,,B,16,1,Okay.,"[Okay/UH, ./.]",(ROOT (INTJ (UH Ok
 K/KD/KD5.xml,KD5RE00P,33902,25,,B,16,2,It's only just boiled hasn't it?,"[It/PRP, 's/VBZ, only/RB, just/RB, boiled/VBN, hasn/NN, 't/PRP, it/PRP, ?/.]",(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB only) (RB just)) (VP (VBN boiled) (S (NP (NP (NN hasn)) (NP (PRP 't))) (NP (PRP it))))) (. ?)))
 K/KD/KD5.xml,KD5RE00P,33902,26,,A,17,1,"No, no, no, it hasn't cos I've just used it all  --","[No/DT, ,/,, no/DT, ,/,, no/DT, ,/,, it/PRP, hasn/VBD, 't/PRP, cos/NN, I/PRP, 've/VBP, just/RB, used/VBN, it/PRP, all/DT, for/IN, the/DT, erm/NN]","(ROOT (S (NP (NP (ADJP (DT No) (PRN (, ,) (ADVP (DT no)) (, ,))) (DT no)) (, ,) (NP (PRP it))) (VP (VBD hasn) (NP (PRP 't)) (NP (NP (NN cos)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN used) (NP (PRP it)) (PP (DT all) (IN for) (NP (DT the) (NN erm)))))))))))"
 K/KD/KD5.xml,KD5RE00P,33902,27,,A,17,2,--for the erm ,"[No/DT, ,/,, no/DT, ,/,, no/DT, ,/,, it/PRP, hasn/VBD, 't/PRP, cos/NN, I/PRP, 've/VBP, just/RB, used/VBN, it/PRP, all/DT, for/IN, the/DT, erm/NN]","(ROOT (S (NP (NP (ADJP (DT No) (PRN (, ,) (ADVP (DT no)) (, ,))) (DT no)) (, ,) (NP (PRP it))) (VP (VBD hasn) (NP (PRP 't)) (NP (NP (NN cos)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB just)) (VP (VBN used) (NP (PRP it)) (PP (DT all) (IN for) (NP (DT the) (NN erm)))))))))))"
-K/KD/KD5.xml,KD5RE00P,33902,28,,B,18,1,(()) ,[],X
+K/KD/KD5.xml,KD5RE00P,33902,28,,B,18,1,(()) ,[],
 K/KD/KD5.xml,KD5RE00P,33902,29,,A,19,1,No!,"[No/DT, !/.]",(ROOT (FRAG (NP (DT No)) (. !)))
 K/KD/KD5.xml,KD5RE00P,33902,30,,A,19,2,Or did you refill it?,"[Or/CC, did/VBD, you/PRP, refill/VB, it/PRP, ?/.]",(ROOT (SQ (CC Or) (VBD did) (NP (PRP you)) (VP (VB refill) (NP (PRP it))) (. ?)))
 K/KD/KD5.xml,KD5RE00P,33902,31,,B,20,1,(()) !,[!/.],(ROOT (NP (. !)))
 K/KD/KD5.xml,KD5RE00P,33902,32,,B,20,2,I know it's just boiled.,"[I/PRP, know/VBP, it/PRP, 's/VBZ, just/RB, boiled/VBN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP know) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB just)) (VP (VBN boiled)))))) (. .)))
-K/KD/KD5.xml,KD5RE00P,33902,33,,A,21,1,<whistling> ,[],X
+K/KD/KD5.xml,KD5RE00P,33902,33,,A,21,1,<whistling> ,[],
 K/KD/KD5.xml,KD5RE00P,33902,34,,B,22,1,Get the plates out for me?,"[Get/VB, the/DT, plates/NNS, out/RP, for/IN, me/PRP, ?/.]",(ROOT (SQ (VP (VB Get) (NP (DT the) (NNS plates)) (PRT (RP out)) (PP (IN for) (NP (PRP me)))) (. ?)))
 K/KD/KD5.xml,KD5RE00P,33902,35,,B,22,2,Are they the others?,"[Are/VBP, they/PRP, the/DT, others/NNS, ?/.]",(ROOT (S (VP (VBP Are) (NP (NP (PRP they)) (NP (DT the) (NNS others)))) (. ?)))
 K/KD/KD5.xml,KD5RE00P,33902,36,,A,23,1,"No, they're not I was gonna  --","[No/DT, ,/,, they/PRP, 're/VBP, not/RB, I/PRP, was/VBD, gonna/NNP, ah/NN, da/NN, da/NN, ,/,, don/NNP, 't/PRP, don/NNP, 't/PRP, !/.]","(ROOT (S (NP (NP (DT No)) (PRN (, ,) (S (NP (PRP they)) (VP (VBP 're) (ADJP (RB not) (SBAR (S (NP (PRP I)) (VP (VBD was) (NP (NNP gonna) (NN ah) (NN da) (NN da)))))))) (, ,))) (VP (NNP don) (S (NP (PRP 't)) (VP (NNP don) (NP (PRP 't))))) (. !)))"
@@ -47,10 +47,10 @@ K/KD/KD5.xml,KD5RE00P,33902,44,,A,27,1,Oh you can grate the cheese surely?,"[Oh/
 K/KD/KD5.xml,KD5RE00P,33902,45,,B,28,1,Bring me the bloody cheese grater in the (()) !,"[Bring/VB, me/PRP, the/DT, bloody/JJ, cheese/NN, grater/NN, in/IN, the/DT, !/.]",(ROOT (S (VP (VB Bring) (NP (PRP me)) (NP (NP (DT the) (JJ bloody) (NN cheese) (NN grater)) (PP (IN in) (NP (DT the))))) (. !)))
 K/KD/KD5.xml,KD5RE00P,33902,46,,A,29,1,Well you just got it out the cupboard didn't you?,"[Well/RB, you/PRP, just/RB, got/VBD, it/PRP, out/RP, the/DT, cupboard/NN, didn/NN, 't/PRP, you/PRP, ?/.]",(ROOT (S (ADVP (RB Well)) (NP (PRP you)) (VP (ADVP (RB just)) (VBD got) (NP (PRP it)) (PP (RP out) (NP (NP (DT the) (NN cupboard) (NN didn)) (NP (NP (PRP 't)) (NP (PRP you)))))) (. ?)))
 K/KD/KD5.xml,KD5RE00P,33902,47,,B,30,1,No it fell out!,"[No/DT, it/PRP, fell/VBD, out/RP, !/.]",(ROOT (S (NP (DT No) (PRP it)) (VP (VBD fell) (PRT (RP out))) (. !)))
-K/KD/KD5.xml,KD5RE00P,33902,48,,A,31,1,<laugh> ,[],X
+K/KD/KD5.xml,KD5RE00P,33902,48,,A,31,1,<laugh> ,[],
 K/KD/KD5.xml,KD5RE00P,33902,49,,B,32,1,Where's today's paper?,"[Where/WRB, 's/POS, today/NN, 's/POS, paper/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (POS 's) (NP (NP (NN today) (POS 's)) (NN paper))) (. ?)))
 K/KD/KD5.xml,KD5RE00P,33902,50,,A,33,1,Erm  --,"[Erm/NN, I/PRP, had/VBD, ,/,, oh/UH, it/PRP, 's/VBZ, in/IN]","(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (S (S (NP (PRP I)) (VP (VBD had))) (, ,) (S (INTJ (UH oh)) (NP (PRP it)) (VP (VBZ 's) (PP (IN in)))))))))"
 K/KD/KD5.xml,KD5RE00P,33902,51,,A,33,2,"--I had, oh it's in ","[Erm/NN, I/PRP, had/VBD, ,/,, oh/UH, it/PRP, 's/VBZ, in/IN]","(ROOT (FRAG (NP (NP (NN Erm)) (SBAR (S (S (NP (PRP I)) (VP (VBD had))) (, ,) (S (INTJ (UH oh)) (NP (PRP it)) (VP (VBZ 's) (PP (IN in)))))))))"
-K/KD/KD5.xml,KD5RE00P,33902,52,,B,34,1,(()) ,[],X
+K/KD/KD5.xml,KD5RE00P,33902,52,,B,34,1,(()) ,[],
 K/KD/KD5.xml,KD5RE00P,33902,53,,A,35,1,in the lounge.,"[in/IN, the/DT, lounge/NN, ./.]",(ROOT (FRAG (PP (IN in) (NP (DT the) (NN lounge))) (. .)))
 K/KD/KD5.xml,KD5RE00P,33902,54,,B,36,1,Can't have done cos (()) .,"[Can/MD, 't/PRP, have/VB, done/VBN, cos/NN, ./.]",(ROOT (SQ (MD Can) (NP (PRP 't)) (VP (VB have) (VP (VBN done) (NP (NN cos)))) (. .)))

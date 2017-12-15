@@ -12,5 +12,5 @@ K/KD/KDE.xml,KDERE00B,6801,9,,B,8,1,You keep falling down?,"[You/PRP, keep/VBP, 
 K/KD/KDE.xml,KDERE00B,6801,10,,A,9,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KD/KDE.xml,KDERE00B,6801,11,,B,10,1,Ooh.,"[Ooh/NNP, ./.]",(ROOT (FRAG (NP (NNP Ooh)) (. .)))
 K/KD/KDE.xml,KDERE00B,6801,12,,B,10,2,"Let's go in your bedroom, and get dressed.","[Let/VB, 's/PRP, go/VB, in/IN, your/PRP$, bedroom/NN, ,/,, and/CC, get/VB, dressed/VBN, ./.]","(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VP (VB go) (PP (IN in) (NP (PRP$ your) (NN bedroom)))) (, ,) (CC and) (VP (VB get) (VP (VBN dressed)))))) (. .)))"
-K/KD/KDE.xml,KDERE00B,6801,13,,A,11,1,(()) ,[],X
+K/KD/KDE.xml,KDERE00B,6801,13,,A,11,1,(()) ,[],
 K/KD/KDE.xml,KDERE00B,6801,14,,B,12,1,Do you want to get dressed first?,"[Do/VB, you/PRP, want/VBP, to/TO, get/VB, dressed/VBN, first/RB, ?/.]",(ROOT (SQ (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB get) (VP (VBN dressed) (ADVP (RB first)))))))))) (. ?)))

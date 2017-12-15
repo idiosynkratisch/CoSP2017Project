@@ -15,7 +15,7 @@ K/KB/KB9.xml,KB9RE00D,62302,12,,A,9,1,It's the twenty third (()) .,"[It/PRP, 's/
 K/KB/KB9.xml,KB9RE00D,62302,13,,B,10,1,Look at all that fish!,"[Look/VB, at/IN, all/DT, that/DT, fish/NN, !/.]",(ROOT (SQ (VP (VB Look) (ADVP (IN at) (DT all)) (NP (DT that) (NN fish))) (. !)))
 K/KB/KB9.xml,KB9RE00D,62302,14,,B,10,2,Cor!,"[Cor/NNP, !/.]",(ROOT (FRAG (NP (NNP Cor)) (. !)))
 K/KB/KB9.xml,KB9RE00D,62302,15,,B,10,3,<laugh> I hate fish (()) .,"[I/PRP, hate/VBP, fish/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP hate) (NP (NN fish))) (. .)))
-K/KB/KB9.xml,KB9RE00D,62302,16,,A,11,1,(()) ,[],X
+K/KB/KB9.xml,KB9RE00D,62302,16,,A,11,1,(()) ,[],
 K/KB/KB9.xml,KB9RE00D,62302,17,,B,12,1,That will get up trainers.,"[That/DT, will/MD, get/VB, up/RP, trainers/NNS, ./.]",(ROOT (S (NP (DT That)) (VP (MD will) (VP (VB get) (PRT (RP up)) (NP (NNS trainers)))) (. .)))
 K/KB/KB9.xml,KB9RE00D,62302,18,,B,12,2,That stuff that I'm  --,"[That/DT, stuff/NN, that/IN, I/PRP, 'm/VBP, buying/VBG, from/IN, that/DT, company/NN, cleans/VBZ, trainers/NNS, ./.]",(ROOT (S (NP (NP (DT That) (NN stuff)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG buying) (PP (IN from) (NP (DT that) (NN company)))))))) (VP (VBZ cleans) (NP (NNS trainers))) (. .)))
 K/KB/KB9.xml,KB9RE00D,62302,19,,B,12,3,--buying from that company cleans trainers.,"[That/DT, stuff/NN, that/IN, I/PRP, 'm/VBP, buying/VBG, from/IN, that/DT, company/NN, cleans/VBZ, trainers/NNS, ./.]",(ROOT (S (NP (NP (DT That) (NN stuff)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG buying) (PP (IN from) (NP (DT that) (NN company)))))))) (VP (VBZ cleans) (NP (NNS trainers))) (. .)))

@@ -21,6 +21,6 @@ K/KC/KC9.xml,KC9RE00S,14305,18,,A,11,2,--not as cold yet as I thought it was goi
 K/KC/KC9.xml,KC9RE00S,14305,19,,B,12,1,No?,"[No/DT, ?/.]",(ROOT (FRAG (NP (DT No)) (. ?)))
 K/KC/KC9.xml,KC9RE00S,14305,20,,B,12,2,"Other people have been saying it's colder, colder than they thought.<laugh> ","[Other/JJ, people/NNS, have/VBP, been/VBN, saying/VBG, it/PRP, 's/VBZ, colder/JJR, ,/,, colder/JJR, than/IN, they/PRP, thought/VBD, ./.]","(ROOT (S (NP (JJ Other) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (JJR colder)) (, ,) (NP (NP (JJR colder)) (SBAR (IN than) (S (NP (PRP they)) (VP (VBD thought)))))))))))) (. .)))"
 K/KC/KC9.xml,KC9RE00S,14305,21,,A,13,1,Well yesterday I thought it was.,"[Well/RB, yesterday/NN, I/PRP, thought/VBD, it/PRP, was/VBD, ./.]",(ROOT (S (S (ADVP (RB Well)) (NP (NN yesterday)) (NP (PRP I)) (VP (VBD thought))) (NP (PRP it)) (VP (VBD was)) (. .)))
-K/KC/KC9.xml,KC9RE00S,14305,22,,B,14,1,(()) ,[],X
+K/KC/KC9.xml,KC9RE00S,14305,22,,B,14,1,(()) ,[],
 K/KC/KC9.xml,KC9RE00S,14305,23,,A,15,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KC/KC9.xml,KC9RE00S,14305,24,,B,16,1,(()) .,[./.],(ROOT (NP (. .)))

@@ -2,10 +2,10 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KD/KD0.xml,KD0RE00K,17008,0,,A,1,1,Hello again.,"[Hello/UH, again/RB, ./.]",(ROOT (S (VP (NP (INTJ (UH Hello)) (NP (RB again)))) (. .)))
 K/KD/KD0.xml,KD0RE00K,17008,1,,B,2,1,"Hello, hello, hello.","[Hello/UH, ,/,, hello/UH, ,/,, hello/UH, ./.]","(ROOT (INTJ (INTJ (UH Hello) (, ,) (UH hello)) (, ,) (INTJ (UH hello) (. .))))"
 K/KD/KD0.xml,KD0RE00K,17008,2,,B,2,2,Who is that  <laughing> munching cashews on the tape </laughing> .,"[Who/WP, is/VBZ, that/IN, munching/VBG, cashews/NNS, on/IN, the/DT, tape/NN, ./.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ is) (ADVP (IN that)) (VP (VBG munching) (NP (NNS cashews)) (PP (IN on) (NP (DT the) (NN tape))))) (. .)))
-K/KD/KD0.xml,KD0RE00K,17008,3,,A,3,1,<laugh> ,[],X
+K/KD/KD0.xml,KD0RE00K,17008,3,,A,3,1,<laugh> ,[],
 K/KD/KD0.xml,KD0RE00K,17008,4,,B,4,1,"Here we go, you go right close, go  <rustling noise> ah!<laugh> ","[Here/RB, we/PRP, go/VBP, ,/,, you/PRP, go/VBP, right/RB, close/RB, ,/,, go/VB, ah/NN, !/.]","(ROOT (S (S (ADVP (RB Here)) (NP (PRP we)) (VP (VBP go))) (, ,) (NP (PRP you)) (VP (VBP go) (ADVP (RB right) (RB close)) (, ,) (S (VP (VB go) (NP (NN ah))))) (. !)))"
-K/KD/KD0.xml,KD0RE00K,17008,5,,A,5,1,(()) ,[],X
-K/KD/KD0.xml,KD0RE00K,17008,6,,A,5,2,<laugh> ,[],X
+K/KD/KD0.xml,KD0RE00K,17008,5,,A,5,1,(()) ,[],
+K/KD/KD0.xml,KD0RE00K,17008,6,,A,5,2,<laugh> ,[],
 K/KD/KD0.xml,KD0RE00K,17008,7,,B,6,1,<laugh> You wicked trickster you.(()) ,"[You/PRP, wicked/JJ, trickster/NN, you/PRP, ./.]",(ROOT (S (NP (PRP You)) (VP (JJ wicked) (NP (NN trickster)) (NP (PRP you))) (. .)))
 K/KD/KD0.xml,KD0RE00K,17008,8,,A,7,1,Would you like a cashew nut?,"[Would/MD, you/PRP, like/VB, a/DT, cashew/NN, nut/NNP, ?/.]",(ROOT (SQ (MD Would) (NP (PRP you)) (VP (VB like) (NP (DT a) (NN cashew) (NNP nut))) (. ?)))
 K/KD/KD0.xml,KD0RE00K,17008,9,,B,8,1,You can't have a cashew nut.,"[You/PRP, can/MD, 't/PRP, have/VB, a/DT, cashew/NN, nut/NNP, ./.]",(ROOT (S (NP (PRP You)) (VP (MD can) (NP (PRP 't)) (S (VP (VB have) (NP (DT a) (NN cashew) (NNP nut))))) (. .)))

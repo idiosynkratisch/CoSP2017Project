@@ -1,6 +1,6 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KB/KB1.xml,KB1RE003,59901,0,,A,1,1,"He'll have ya, Barney.(()) <cough> ","[He/PRP, 'll/MD, have/VB, ya/PRP, ,/,, Barney/NNP, ./.]","(ROOT (S (NP (PRP He)) (VP (MD 'll) (VP (VB have) (NP (NP (PRP ya)) (, ,) (NP (NNP Barney))))) (. .)))"
-K/KB/KB1.xml,KB1RE003,59901,1,,B,2,1,<cough> ,[],X
+K/KB/KB1.xml,KB1RE003,59901,1,,B,2,1,<cough> ,[],
 K/KB/KB1.xml,KB1RE003,59901,2,,A,3,1,You grot bag.,"[You/PRP, grot/NNP, bag/NN, ./.]",(ROOT (NP (NP (PRP You)) (NP (NNP grot) (NN bag)) (. .)))
 K/KB/KB1.xml,KB1RE003,59901,3,,A,3,2,George.,"[George/NNP, ./.]",(ROOT (FRAG (NP (NNP George)) (. .)))
 K/KB/KB1.xml,KB1RE003,59901,4,,B,4,1,(()) last year.,"[last/JJ, year/NN, ./.]",(ROOT (NP (JJ last) (NN year) (. .)))

@@ -2,7 +2,7 @@ swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_
 K/KB/KBK.xml,KBKRE06R,2925,0,,A,1,1,The young lady is talking as if she's a member of the family because she's paying so much over there.,"[The/DT, young/JJ, lady/NN, is/VBZ, talking/VBG, as/IN, if/IN, she/PRP, 's/VBZ, a/DT, member/NN, of/IN, the/DT, family/NN, because/IN, she/PRP, 's/VBZ, paying/VBG, so/RB, much/RB, over/IN, there/RB, ./.]",(ROOT (S (NP (DT The) (JJ young) (NN lady)) (VP (VBZ is) (VP (VBG talking) (SBAR (IN as) (IN if) (S (NP (PRP she)) (VP (VBZ 's) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (DT the) (NN family)))) (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG paying) (ADVP (RB so) (RB much)) (PP (IN over) (NP (RB there)))))))))))) (. .)))
 K/KB/KBK.xml,KBKRE06R,2925,1,,A,1,2,The boy sitting next to her,"[The/DT, boy/NN, sitting/VBG, next/JJ, to/TO, her/PRP$]",(ROOT (FRAG (NP (DT The) (NN boy)) (S (VP (VBG sitting) (ADVP (JJ next)) (PP (TO to) (NP (PRP$ her)))))))
 K/KB/KBK.xml,KBKRE06R,2925,2,,B,2,1,Saying little.,"[Saying/VBG, little/JJ, ./.]",(ROOT (S (VP (VBG Saying) (NP (JJ little))) (. .)))
-K/KB/KBK.xml,KBKRE06R,2925,3,,A,3,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE06R,2925,3,,A,3,1,(()) ,[],
 K/KB/KBK.xml,KBKRE06R,2925,4,,B,4,1,Oh really?,"[Oh/UH, really/RB, ?/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (RB really)))) (. ?)))
 K/KB/KBK.xml,KBKRE06R,2925,5,,A,5,1,Because he looks so like (()) .,"[Because/IN, he/PRP, looks/VBZ, so/RB, like/IN, ./.]",(ROOT (FRAG (SBAR (IN Because) (S (NP (PRP he)) (VP (VBZ looks) (ADVP (RB so)) (PP (IN like))))) (. .)))
 K/KB/KBK.xml,KBKRE06R,2925,6,,A,5,2,They're celebrating,"[They/PRP, 're/VBP, celebrating/VBG]",(ROOT (S (NP (PRP They)) (VP (VBP 're) (VP (VBG celebrating)))))

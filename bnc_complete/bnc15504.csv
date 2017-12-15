@@ -3,7 +3,7 @@ K/KB/KBF.xml,KBFRE01M,15504,0,,A,1,1,(()) a little this weird this morning,"[a/D
 K/KB/KBF.xml,KBFRE01M,15504,1,,B,2,1,Well she feels she's being left out or something ,"[Well/RB, she/PRP, feels/VBZ, she/PRP, 's/VBZ, being/VBG, left/VBN, out/RP, or/CC, something/NN]",(ROOT (FRAG (ADVP (RB Well)) (NP (NP (PRP she)) (SBAR (S (VP (VBZ feels) (SBAR (S (NP (PRP she)) (VP (VBZ 's) (VP (VBG being) (VP (VBN left) (PRT (RP out)) (PP (CC or) (NP (NN something))))))))))))))
 K/KB/KBF.xml,KBFRE01M,15504,2,,A,3,1,Come on  --,"[Come/VB, on/IN]",(ROOT (S (VP (VB Come) (PP (IN on)))))
 K/KB/KBF.xml,KBFRE01M,15504,3,,A,3,2,--<laugh> ,"[Come/VB, on/IN]",(ROOT (S (VP (VB Come) (PP (IN on)))))
-K/KB/KBF.xml,KBFRE01M,15504,4,,A,3,3,(()) ,[],X
+K/KB/KBF.xml,KBFRE01M,15504,4,,A,3,3,(()) ,[],
 K/KB/KBF.xml,KBFRE01M,15504,5,,B,4,1,Oh you!,"[Oh/UH, you/PRP, !/.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (PRP you)))) (. !)))
 K/KB/KBF.xml,KBFRE01M,15504,6,,A,5,1,See that's what it is.,"[See/VB, that/DT, 's/VBZ, what/WP, it/PRP, is/VBZ, ./.]",(ROOT (S (VP (VB See) (SBAR (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is)))))))) (. .)))
 K/KB/KBF.xml,KBFRE01M,15504,7,,B,6,1,Yeah,[Yeah/UH],(ROOT (INTJ (UH Yeah)))
@@ -45,7 +45,7 @@ K/KB/KBF.xml,KBFRE01M,15504,42,,A,21,2,--don't  (()) make funny noises.,"[But/CC
 K/KB/KBF.xml,KBFRE01M,15504,43,,B,22,1,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KB/KBF.xml,KBFRE01M,15504,44,,B,22,2,Squeak and erm  --,"[Squeak/VB, and/CC, erm/VB]",(ROOT (S (VP (VB Squeak) (CC and) (VB erm))))
 K/KB/KBF.xml,KBFRE01M,15504,45,,B,22,3,--<cough> ,"[Squeak/VB, and/CC, erm/VB]",(ROOT (S (VP (VB Squeak) (CC and) (VB erm))))
-K/KB/KBF.xml,KBFRE01M,15504,46,,A,23,1,(()) ,[],X
+K/KB/KBF.xml,KBFRE01M,15504,46,,A,23,1,(()) ,[],
 K/KB/KBF.xml,KBFRE01M,15504,47,,B,24,1,Isn't it?,"[Isn/NNP, 't/PRP, it/PRP, ?/.]",(ROOT (NP (NP (NNP Isn)) (NP (NP (PRP 't)) (NP (PRP it))) (. ?)))
 K/KB/KBF.xml,KBFRE01M,15504,48,,B,24,2,Nasty.,"[Nasty/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Nasty)) (. .)))
 K/KB/KBF.xml,KBFRE01M,15504,49,,A,25,1,(()) gone with that?,"[gone/VBN, with/IN, that/DT, ?/.]",(ROOT (S (VP (VBN gone) (PP (IN with) (NP (DT that)))) (. ?)))
@@ -149,7 +149,7 @@ K/KB/KBF.xml,KBFRE01M,15504,146,,A,75,3,You try not to you know I mean.,"[You/PR
 K/KB/KBF.xml,KBFRE01M,15504,147,,A,75,4,You think to yourself oh well.,"[You/PRP, think/VBP, to/TO, yourself/PRP, oh/UH, well/RB, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP think) (PP (TO to) (NP (NP (PRP yourself)) (FRAG (INTJ (UH oh))))) (ADVP (RB well))) (. .)))
 K/KB/KBF.xml,KBFRE01M,15504,148,,A,75,5,You know things will get better you just feel  (()) Oh God!,"[You/PRP, know/VBP, things/NNS, will/MD, get/VB, better/JJR, you/PRP, just/RB, feel/VBP, Oh/UH, God/NNP, !/.]",(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (NNS things)) (VP (MD will) (VP (VB get) (NP (NP (JJR better)) (SBAR (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP feel) (NP (INTJ (UH Oh)) (NP (NNP God)))))))))))) (. !)))
 K/KB/KBF.xml,KBFRE01M,15504,149,,A,75,6,I've been through this,"[I/PRP, 've/VBP, been/VBN, through/IN, this/DT]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (PP (IN through) (NP (DT this)))))))
-K/KB/KBF.xml,KBFRE01M,15504,150,,B,76,1,(()) ,[],X
+K/KB/KBF.xml,KBFRE01M,15504,150,,B,76,1,(()) ,[],
 K/KB/KBF.xml,KBFRE01M,15504,151,,A,77,1,That's right.,"[That/DT, 's/VBZ, right/NN, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (NN right))) (. .)))
 K/KB/KBF.xml,KBFRE01M,15504,152,,A,77,2,Every slightest thing is very dramatic to me.,"[Every/DT, slightest/JJS, thing/NN, is/VBZ, very/RB, dramatic/JJ, to/TO, me/PRP, ./.]",(ROOT (S (NP (DT Every) (JJS slightest) (NN thing)) (VP (VBZ is) (ADJP (RB very) (JJ dramatic) (PP (TO to) (NP (PRP me))))) (. .)))
 K/KB/KBF.xml,KBFRE01M,15504,153,,B,78,1,Yes yes at the moment.,"[Yes/UH, yes/UH, at/IN, the/DT, moment/NN, ./.]",(ROOT (FRAG (PP (NP (INTJ (UH Yes) (UH yes))) (IN at) (NP (DT the) (NN moment))) (. .)))

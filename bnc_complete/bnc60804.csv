@@ -21,7 +21,7 @@ K/KC/KCX.xml,KCXRE00N,60804,18,,A,11,2,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .
 K/KC/KCX.xml,KCXRE00N,60804,19,,A,11,3,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCX.xml,KCXRE00N,60804,20,,A,11,4,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KC/KCX.xml,KCXRE00N,60804,21,,A,11,5,(()) <whispering> oh shit </whispering> .,"[oh/UH, shit/NNP, ./.]",(ROOT (S (VP (NP (INTJ (UH oh)) (NP (NNP shit)))) (. .)))
-K/KC/KCX.xml,KCXRE00N,60804,22,,B,12,1,<laugh> ,[],X
+K/KC/KCX.xml,KCXRE00N,60804,22,,B,12,1,<laugh> ,[],
 K/KC/KCX.xml,KCXRE00N,60804,23,,A,13,1,Go in cupboard and get me another.,"[Go/VB, in/IN, cupboard/NN, and/CC, get/VB, me/PRP, another/DT, ./.]",(ROOT (S (VP (VP (VB Go) (PP (IN in) (NP (NN cupboard)))) (CC and) (VP (VB get) (S (NP (PRP me)) (NP (DT another))))) (. .)))
 K/KC/KCX.xml,KCXRE00N,60804,24,,B,14,1,Oh (()) ,[Oh/UH],(ROOT (INTJ (UH Oh)))
 K/KC/KCX.xml,KCXRE00N,60804,25,,A,15,1,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
@@ -116,7 +116,7 @@ K/KC/KCX.xml,KCXRE00N,60804,113,,A,77,2,And it's not good enough for ,"[And/CC, 
 K/KC/KCX.xml,KCXRE00N,60804,114,,B,78,1,Eight ,[Eight/CD],(ROOT (FRAG (NP (CD Eight))))
 K/KC/KCX.xml,KCXRE00N,60804,115,,A,79,1,ten o'clock to eleven.,"[ten/CD, o/NN, 'clock/NN, to/TO, eleven/NNS, ./.]",(ROOT (NP (NP (CD ten) (NN o) (NN 'clock)) (PP (TO to) (NP (NNS eleven))) (. .)))
 K/KC/KCX.xml,KCXRE00N,60804,116,,B,80,1,"eight and a half weeks,","[eight/CD, and/CC, a/DT, half/NN, weeks/NNS, ,/,]","(ROOT (FRAG (NP (NP (CD eight) (CC and) (DT a)) (NP (NP (NN half)) (NP (NNS weeks)) (, ,)))))"
-K/KC/KCX.xml,KCXRE00N,60804,117,,A,81,1,(()) ,[],X
+K/KC/KCX.xml,KCXRE00N,60804,117,,A,81,1,(()) ,[],
 K/KC/KCX.xml,KCXRE00N,60804,118,,B,82,1,two month <laugh> ,"[two/CD, month/NN]",(ROOT (NP (CD two) (NN month)))
 K/KC/KCX.xml,KCXRE00N,60804,119,,A,83,1,How old's your girlfriend?,"[How/WRB, old/JJ, 's/POS, your/PRP$, girlfriend/NN, ?/.]",(ROOT (SBARQ (WHADJP (WRB How) (JJ old)) (SQ (POS 's) (NP (PRP$ your) (NN girlfriend))) (. ?)))
 K/KC/KCX.xml,KCXRE00N,60804,120,,B,84,1,Thirteen.,"[Thirteen/CD, ./.]",(ROOT (FRAG (NP (CD Thirteen)) (. .)))
@@ -142,7 +142,7 @@ K/KC/KCX.xml,KCXRE00N,60804,139,,B,98,1,He is  <laugh> he cops a right lot ,"[He
 K/KC/KCX.xml,KCXRE00N,60804,140,,A,99,1,Did I tell you about accident at top tonight?,"[Did/VBD, I/PRP, tell/VBP, you/PRP, about/IN, accident/NN, at/IN, top/JJ, tonight/NN, ?/.]",(ROOT (S (VP (VBD Did) (SBAR (S (NP (PRP I)) (VP (VBP tell) (NP (PRP you)) (PP (IN about) (NP (NP (NN accident)) (PP (IN at) (NP (JJ top) (NN tonight))))))))) (. ?)))
 K/KC/KCX.xml,KCXRE00N,60804,141,,B,100,1,"No, he cops a right lot of money.","[No/DT, ,/,, he/PRP, cops/VBZ, a/DT, right/JJ, lot/NN, of/IN, money/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP he)) (VP (VBZ cops) (NP (NP (DT a) (JJ right) (NN lot)) (PP (IN of) (NP (NN money))))) (. .)))"
 K/KC/KCX.xml,KCXRE00N,60804,142,,A,101,1,Where do they live?,"[Where/WRB, do/VBP, they/PRP, live/VB, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBP do) (NP (PRP they)) (VP (VB live))) (. ?)))
-K/KC/KCX.xml,KCXRE00N,60804,143,,B,102,1,(()) ,[],X
+K/KC/KCX.xml,KCXRE00N,60804,143,,B,102,1,(()) ,[],
 K/KC/KCX.xml,KCXRE00N,60804,144,,A,103,1,No  --,"[No/DT, I/PRP, 'm/VBP, not/RB, having/VBG, that/DT, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG having) (NP (DT that)))) (. .)))
 K/KC/KCX.xml,KCXRE00N,60804,145,,A,103,2,--I'm not having that.,"[No/DT, I/PRP, 'm/VBP, not/RB, having/VBG, that/DT, ./.]",(ROOT (S (NP (DT No) (PRP I)) (VP (VBP 'm) (RB not) (VP (VBG having) (NP (DT that)))) (. .)))
 K/KC/KCX.xml,KCXRE00N,60804,146,,B,104,1,What?,"[What/WDT, ?/.]",(ROOT (FRAG (WHNP (WDT What)) (. ?)))

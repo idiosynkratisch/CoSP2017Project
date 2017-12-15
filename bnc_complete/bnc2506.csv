@@ -4,6 +4,6 @@ K/KB/KBK.xml,KBKRE03Y,2506,1,,A,1,2,(()) Hello  (()) I'll have a look.,"[Hello/U
 K/KB/KBK.xml,KBKRE03Y,2506,2,,A,1,3,"There's only a bag of peat on the doorstep, here it is look, indoors ","[There/EX, 's/VBZ, only/RB, a/DT, bag/NN, of/IN, peat/NNP, on/IN, the/DT, doorstep/NN, ,/,, here/RB, it/PRP, is/VBZ, look/NN, ,/,, indoors/RB]","(ROOT (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB only)) (NP (NP (DT a) (NN bag)) (PP (IN of) (NP (NP (NNP peat)) (PP (IN on) (NP (DT the) (NN doorstep)))))) (, ,) (ADVP (RB here)) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NN look)) (, ,) (ADVP (RB indoors))))))))"
 K/KB/KBK.xml,KBKRE03Y,2506,3,,B,2,1,Have you had some breakfast?,"[Have/VB, you/PRP, had/VBD, some/DT, breakfast/NN, ?/.]",(ROOT (SQ (VP (VB Have) (S (NP (PRP you)) (VP (VBD had) (NP (DT some) (NN breakfast))))) (. ?)))
 K/KB/KBK.xml,KBKRE03Y,2506,4,,A,3,1,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
-K/KB/KBK.xml,KBKRE03Y,2506,5,,B,4,1,(()) ,[],X
-K/KB/KBK.xml,KBKRE03Y,2506,6,,A,5,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE03Y,2506,5,,B,4,1,(()) ,[],
+K/KB/KBK.xml,KBKRE03Y,2506,6,,A,5,1,(()) ,[],
 K/KB/KBK.xml,KBKRE03Y,2506,7,,A,5,2,Take it off  (()) the yoghurt pot (()) .,"[Take/VB, it/PRP, off/RP, the/DT, yoghurt/NN, pot/NN, ./.]",(ROOT (S (VP (VB Take) (NP (PRP it)) (PP (RP off) (NP (DT the) (NN yoghurt) (NN pot)))) (. .)))

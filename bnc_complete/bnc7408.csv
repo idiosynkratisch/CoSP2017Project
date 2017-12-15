@@ -15,6 +15,6 @@ K/KD/KDE.xml,KDERE02L,7408,12,,A,9,1,"Well, gonna eat your breakfast?","[Well/RB
 K/KD/KDE.xml,KDERE02L,7408,13,,B,10,1,Read book first.,"[Read/NNP, book/NNP, first/NNP, ./.]",(ROOT (NP (NNP Read) (NNP book) (NNP first) (. .)))
 K/KD/KDE.xml,KDERE02L,7408,14,,A,11,1,"No, if you're not going to eat your breakfast then we'll go and have a bath and then I'll read you a story.","[No/DT, ,/,, if/IN, you/PRP, 're/VBP, not/RB, going/VBG, to/TO, eat/VB, your/PRP$, breakfast/NN, then/RB, we/PRP, 'll/MD, go/VB, and/CC, have/VB, a/DT, bath/NN, and/CC, then/RB, I/PRP, 'll/MD, read/VB, you/PRP, a/DT, story/NN, ./.]","(ROOT (S (S (NP (DT No)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB eat) (NP (PRP$ your) (NN breakfast)) (ADVP (RB then))))))))) (NP (PRP we)) (VP (MD 'll) (VP (VP (VB go)) (CC and) (VP (VB have) (NP (DT a) (NN bath)))))) (CC and) (RB then) (S (NP (PRP I)) (VP (MD 'll) (VP (VB read) (S (NP (PRP you)) (NP (DT a) (NN story)))))) (. .)))"
 K/KD/KDE.xml,KDERE02L,7408,15,,A,11,2,Okay?,"[Okay/UH, ?/.]",(ROOT (INTJ (UH Okay) (. ?)))
-K/KD/KDE.xml,KDERE02L,7408,16,,B,12,1,(()) ,[],X
+K/KD/KDE.xml,KDERE02L,7408,16,,B,12,1,(()) ,[],
 K/KD/KDE.xml,KDERE02L,7408,17,,A,13,1,Come on then.,"[Come/VB, on/IN, then/RB, ./.]",(ROOT (S (VP (VB Come) (PP (IN on) (NP (RB then)))) (. .)))
 K/KD/KDE.xml,KDERE02L,7408,18,,A,13,2,Quick.,"[Quick/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Quick)) (. .)))

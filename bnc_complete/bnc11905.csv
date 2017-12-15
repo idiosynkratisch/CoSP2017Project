@@ -19,12 +19,12 @@ K/KD/KDA.xml,KDARE00W,11905,16,,A,13,1,"No, no, he's, he's, he's ok, wobbling ar
 K/KD/KDA.xml,KDARE00W,11905,17,,B,14,1,You think about fucking buried alive by the wall.,"[You/PRP, think/VBP, about/IN, fucking/VBG, buried/VBN, alive/JJ, by/IN, the/DT, wall/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP think) (PP (IN about) (S (VP (VBG fucking) (VP (VBN buried) (ADJP (JJ alive)) (PP (IN by) (NP (DT the) (NN wall)))))))) (. .)))
 K/KD/KDA.xml,KDARE00W,11905,18,,A,15,1,"Yeah,(()) ","[Yeah/UH, ,/,]","(ROOT (INTJ (UH Yeah) (, ,)))"
 K/KD/KDA.xml,KDARE00W,11905,19,,B,16,1,"Oh er,(()) ","[Oh/UH, er/NN, ,/,]","(ROOT (FRAG (PP (UH Oh) (NP (NN er))) (, ,)))"
-K/KD/KDA.xml,KDARE00W,11905,20,,A,17,1,(()) ,[],X
-K/KD/KDA.xml,KDARE00W,11905,21,,A,17,2,<noisy> ,[],X
-K/KD/KDA.xml,KDARE00W,11905,22,,A,17,3,(()) ,[],X
+K/KD/KDA.xml,KDARE00W,11905,20,,A,17,1,(()) ,[],
+K/KD/KDA.xml,KDARE00W,11905,21,,A,17,2,<noisy> ,[],
+K/KD/KDA.xml,KDARE00W,11905,22,,A,17,3,(()) ,[],
 K/KD/KDA.xml,KDARE00W,11905,23,,B,18,1,Why not (()) ,"[Why/WRB, not/RB]",(ROOT (FRAG (WHADVP (WRB Why) (RB not))))
-K/KD/KDA.xml,KDARE00W,11905,24,,A,19,1,<laugh> ,[],X
-K/KD/KDA.xml,KDARE00W,11905,25,,B,20,1,<laugh> ,[],X
+K/KD/KDA.xml,KDARE00W,11905,24,,A,19,1,<laugh> ,[],
+K/KD/KDA.xml,KDARE00W,11905,25,,B,20,1,<laugh> ,[],
 K/KD/KDA.xml,KDARE00W,11905,26,,A,21,1,Not going to do you anything to help    (()) --,"[Not/RB, going/VBG, to/TO, do/VB, you/PRP, anything/NN, to/TO, help/VB]",(ROOT (FRAG (S (RB Not) (VP (VBG going) (S (VP (TO to) (VP (VB do) (S (NP (PRP you)) (ADJP (NN anything) (S (VP (TO to) (VP (VB help)))))))))))))
 K/KD/KDA.xml,KDARE00W,11905,27,,A,21,2,--(()) <noise - background> ,"[Not/RB, going/VBG, to/TO, do/VB, you/PRP, anything/NN, to/TO, help/VB]",(ROOT (FRAG (S (RB Not) (VP (VBG going) (S (VP (TO to) (VP (VB do) (S (NP (PRP you)) (ADJP (NN anything) (S (VP (TO to) (VP (VB help)))))))))))))
 K/KD/KDA.xml,KDARE00W,11905,28,,B,22,1,"What, what are they doing with it?","[What/WP, ,/,, what/WP, are/VBP, they/PRP, doing/VBG, with/IN, it/PRP, ?/.]","(ROOT (SBARQ (WHNP (WP What)) (, ,) (WHNP (WP what)) (SQ (VBP are) (NP (PRP they)) (VP (VBG doing) (PP (IN with) (NP (PRP it)))) (. ?))))"

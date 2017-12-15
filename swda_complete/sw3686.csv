@@ -110,7 +110,7 @@ sw10utt/sw_1076_3686.utt,3/sw3686,3686,107,sd,A,67,3,I had a couple of Chryslers
 sw10utt/sw_1076_3686.utt,3/sw3686,3686,108,sd,A,67,4,Had a super B for a while with a four forty in it. /,Had/VBD a/DT super/JJ B/NNP for/IN a/DT while/NN with/IN a/DT four/CD forty/CD in/IN it/PRP ./.,(ROOT (S (VP (VBD Had) (NP (NP (DT a) (JJ super) (NNP B)) (PP (IN for) (NP (DT a) (NN while)))) (PP (IN with) (NP (NP (DT a) (CD four) (CD forty)) (PP (IN in) (NP (PRP it)))))) (. .))),
 sw10utt/sw_1076_3686.utt,3/sw3686,3686,109,b,B,68,1,Uh-huh. /,Uh-huh/UH ./.,(ROOT (INTJ (UH Uh-huh) (. .))),
 sw10utt/sw_1076_3686.utt,3/sw3686,3686,110,sd,A,69,1,It was a lot of fun. /,It/PRP was/VBD a/DT lot/NN of/IN fun/NN ./.,(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN fun))))) (. .))),
-sw10utt/sw_1076_3686.utt,3/sw3686,3686,111,x,B,70,1,<Laughter>.,,X,
+sw10utt/sw_1076_3686.utt,3/sw3686,3686,111,x,B,70,1,<Laughter>.,,,
 sw10utt/sw_1076_3686.utt,3/sw3686,3686,112,%,A,71,1,"{C But, } {F uh, } -/","But/CC ,/, uh/UH ,/,","(ROOT (S (VP (CC But) (PRN (, ,) (INTJ (UH uh)) (, ,)))))",
 sw10utt/sw_1076_3686.utt,3/sw3686,3686,113,sd,B,72,1,"Not much gas mileage, though. /","Not/RB much/JJ gas/NN mileage/NN ,/, though/RB ./.","(ROOT (NP (NP (RB Not) (JJ much) (NN gas)) (NP (NP (NN mileage)) (, ,) (ADVP (RB though))) (. .)))",
 sw10utt/sw_1076_3686.utt,3/sw3686,3686,114,h,A,73,1,"I don't know,  /","I/PRP do/VBP n't/RB know/VB ,/,","(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know))) (, ,)))",

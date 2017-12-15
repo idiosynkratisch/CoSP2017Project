@@ -1,5 +1,5 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
-K/KB/KBK.xml,KBKRE02W,2328,0,,A,1,1,(()) ,[],X
+K/KB/KBK.xml,KBKRE02W,2328,0,,A,1,1,(()) ,[],
 K/KB/KBK.xml,KBKRE02W,2328,1,,B,2,1,Sorry.,"[Sorry/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Sorry)) (. .)))
 K/KB/KBK.xml,KBKRE02W,2328,2,,A,3,1,What river would that be?,"[What/WDT, river/NN, would/MD, that/WDT, be/VB, ?/.]",(ROOT (SBARQ (SBAR (WHNP (WDT What) (NN river)) (S (VP (MD would)))) (WHNP (WDT that)) (SQ (VP (VB be))) (. ?)))
 K/KB/KBK.xml,KBKRE02W,2328,3,,B,4,1,Would be Kidbrook I suppose would it?,"[Would/MD, be/VB, Kidbrook/NN, I/PRP, suppose/VBP, would/MD, it/PRP, ?/.]",(ROOT (SINV (S (S (VP (MD Would) (VP (VB be) (NP (NN Kidbrook))))) (NP (PRP I)) (VP (VBP suppose))) (VP (MD would)) (NP (PRP it)) (. ?)))

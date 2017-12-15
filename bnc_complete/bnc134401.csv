@@ -1,19 +1,19 @@
 swda_filename,ptb_basename,conversation_no,transcript_index,act_tag,caller,turn_index,subutterance_index,text,pos,trees
 K/KS/KSN.xml,KSNRE000,134401,0,,A,1,1,The twenty-third of the fourth (()) ,"[The/DT, twenty-third/NN, of/IN, the/DT, fourth/JJ]",(ROOT (NP (NP (DT The) (NN twenty-third)) (PP (IN of) (NP (DT the) (JJ fourth)))))
-K/KS/KSN.xml,KSNRE000,134401,1,,A,1,2,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,1,,A,1,2,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,2,,A,1,3,What.,"[What/WDT, ./.]",(ROOT (FRAG (WHNP (WDT What)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,3,,A,1,4,"(()) who is it, then.","[who/WP, is/VBZ, it/PRP, ,/,, then/RB, ./.]","(ROOT (FRAG (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (PRP it))))) (, ,) (ADVP (RB then)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,4,,A,1,5,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,4,,A,1,5,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,5,,A,1,6,We'll have to put it somewhere (()) ,"[We/PRP, 'll/MD, have/VB, to/TO, put/VB, it/PRP, somewhere/RB]",(ROOT (S (NP (PRP We)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB somewhere)))))))))
-K/KS/KSN.xml,KSNRE000,134401,6,,A,1,7,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,7,,A,1,8,<whistling> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,6,,A,1,7,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,7,,A,1,8,<whistling> ,[],
 K/KS/KSN.xml,KSNRE000,134401,8,,A,1,9,(()) with your gr- great knees under the table.,"[with/IN, your/PRP$, gr-/NN, great/JJ, knees/NNS, under/IN, the/DT, table/NN, ./.]",(ROOT (FRAG (PP (IN with) (NP (NP (PRP$ your) (NN gr-) (JJ great) (NNS knees)) (PP (IN under) (NP (DT the) (NN table))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,9,,A,1,10,What.,"[What/WDT, ./.]",(ROOT (FRAG (WHNP (WDT What)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,10,,A,1,11,Put your great knees ,"[Put/VB, your/PRP$, great/JJ, knees/NNS]",(ROOT (S (VP (VB Put) (NP (PRP$ your) (JJ great) (NNS knees)))))
 K/KS/KSN.xml,KSNRE000,134401,11,,A,1,12,Miss   (()) (()) put your great knees under the table.,"[Miss/NNP, put/VBD, your/PRP$, great/JJ, knees/NNS, under/IN, the/DT, table/NN, ./.]",(ROOT (S (NP (NNP Miss)) (VP (VBD put) (NP (PRP$ your) (JJ great) (NNS knees)) (PP (IN under) (NP (DT the) (NN table)))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,12,,A,1,13,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,12,,A,1,13,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,13,,A,1,14,"Aren't I,(()) ","[Aren/NNP, 't/PRP, I/PRP, ,/,]","(ROOT (S (NP (NNP Aren)) (VP (PRP 't) (NP (PRP I))) (, ,)))"
-K/KS/KSN.xml,KSNRE000,134401,14,,A,1,15,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,14,,A,1,15,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,15,,A,1,16,"(()) , she must try again.","[,/,, she/PRP, must/MD, try/VB, again/RB, ./.]","(ROOT (PRN (, ,) (S (NP (PRP she)) (VP (MD must) (VP (VB try) (FRAG (ADVP (RB again)) (. .)))))))"
 K/KS/KSN.xml,KSNRE000,134401,16,,A,1,17,(()) to do is get your great knees under the table.,"[to/TO, do/VB, is/VBZ, get/VB, your/PRP$, great/JJ, knees/NNS, under/IN, the/DT, table/NN, ./.]",(ROOT (S (S (VP (TO to) (VP (VB do)))) (VP (VBZ is) (VP (VB get) (NP (PRP$ your) (JJ great) (NNS knees)) (PP (IN under) (NP (DT the) (NN table))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,17,,A,1,18,Don't remember.,"[Don/NNP, 't/PRP, remember/VB, ./.]",(ROOT (S (NP (NNP Don) (PRP 't)) (VP (VB remember)) (. .)))
@@ -22,99 +22,99 @@ K/KS/KSN.xml,KSNRE000,134401,19,,A,1,20,Your great dark knees.,"[Your/PRP$, grea
 K/KS/KSN.xml,KSNRE000,134401,20,,A,1,21,Why do you  --,"[Why/WRB, do/VBP, you/PRP, erm/NN, ,/,, great/JJ, knees/NNS, aw/UH, ./.]","(ROOT (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VP (VBP do) (S (NP (PRP you)) (NP (NN erm)))) (, ,) (NP (NP (JJ great) (NNS knees)) (FRAG (INTJ (UH aw))))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,21,,A,1,22,"--erm, great knees  --","[Why/WRB, do/VBP, you/PRP, erm/NN, ,/,, great/JJ, knees/NNS, aw/UH, ./.]","(ROOT (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VP (VBP do) (S (NP (PRP you)) (NP (NN erm)))) (, ,) (NP (NP (JJ great) (NNS knees)) (FRAG (INTJ (UH aw))))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,22,,A,1,23,--aw.,"[Why/WRB, do/VBP, you/PRP, erm/NN, ,/,, great/JJ, knees/NNS, aw/UH, ./.]","(ROOT (FRAG (SBAR (WHADVP (WRB Why)) (S (VP (VP (VBP do) (S (NP (PRP you)) (NP (NN erm)))) (, ,) (NP (NP (JJ great) (NNS knees)) (FRAG (INTJ (UH aw))))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,23,,A,1,24,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,23,,A,1,24,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,24,,A,1,25,"Don't like the way,(()) your basically (()) ","[Don/NNP, 't/PRP, like/IN, the/DT, way/NN, ,/,, your/PRP$, basically/RB]","(ROOT (NP (NP (NNP Don)) (NP (NP (PRP 't)) (PP (IN like) (NP (NP (DT the) (NN way)) (, ,) (NP (NP (PRP$ your)) (ADVP (RB basically))))))))"
 K/KS/KSN.xml,KSNRE000,134401,25,,A,1,26,(()) Does anyone (()) ,"[Does/VBZ, anyone/NN]",(ROOT (SINV (VP (VBZ Does)) (NP (NN anyone))))
-K/KS/KSN.xml,KSNRE000,134401,26,,A,1,27,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,26,,A,1,27,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,27,,A,1,28,Duncan can get mine.,"[Duncan/NNP, can/MD, get/VB, mine/NN, ./.]",(ROOT (S (NP (NNP Duncan)) (VP (MD can) (VP (VB get) (NP (NN mine)))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,28,,A,1,29,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,29,,A,1,30,<talk in background> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,28,,A,1,29,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,29,,A,1,30,<talk in background> ,[],
 K/KS/KSN.xml,KSNRE000,134401,30,,A,1,31,I might (()) ,"[I/PRP, might/MD]",(ROOT (S (NP (PRP I)) (VP (MD might))))
 K/KS/KSN.xml,KSNRE000,134401,31,,A,1,32,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,32,,A,1,33,(()) in a minute.,"[in/IN, a/DT, minute/NN, ./.]",(ROOT (FRAG (PP (IN in) (NP (DT a) (NN minute))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,33,,A,1,34,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,34,,A,1,35,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,33,,A,1,34,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,34,,A,1,35,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,35,,A,1,36,Sit down (()) ,"[Sit/VB, down/RP]",(ROOT (S (VP (VB Sit) (PRT (RP down)))))
-K/KS/KSN.xml,KSNRE000,134401,36,,A,1,37,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,36,,A,1,37,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,37,,A,1,38,Where's the case for the pen?,"[Where/WRB, 's/VBZ, the/DT, case/NN, for/IN, the/DT, pen/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBZ 's) (NP (NP (DT the) (NN case)) (PP (IN for) (NP (DT the) (NN pen))))) (. ?)))
-K/KS/KSN.xml,KSNRE000,134401,38,,A,1,39,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,38,,A,1,39,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,39,,A,1,40,Why did you ask me for.,"[Why/WRB, did/VBD, you/PRP, ask/VB, me/PRP, for/IN, ./.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (PRP you)) (VP (VB ask) (NP (PRP me)) (PP (IN for)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,40,,A,1,41,(()) where's the case for the pen?,"[where/WRB, 's/VBZ, the/DT, case/NN, for/IN, the/DT, pen/NN, ?/.]",(ROOT (SBARQ (WHADVP (WRB where)) (SQ (VBZ 's) (NP (NP (DT the) (NN case)) (PP (IN for) (NP (DT the) (NN pen))))) (. ?)))
 K/KS/KSN.xml,KSNRE000,134401,41,,A,1,42,I ain't got it.,"[I/PRP, ain/VBP, 't/PRP, got/VBD, it/PRP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP ain) (SBAR (S (NP (PRP 't)) (VP (VBD got) (NP (PRP it)))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,42,,A,1,43,"So who had it, then.","[So/RB, who/WP, had/VBD, it/PRP, ,/,, then/RB, ./.]","(ROOT (FRAG (ADVP (RB So)) (SBAR (WHNP (WP who)) (S (VP (VBD had) (NP (PRP it)) (, ,) (ADVP (RB then))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,43,,A,1,44,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,44,,A,1,45,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,43,,A,1,44,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,44,,A,1,45,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,45,,A,1,46,Get it then.,"[Get/VB, it/PRP, then/RB, ./.]",(ROOT (S (VP (VB Get) (NP (PRP it)) (ADVP (RB then))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,46,,A,1,47,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,46,,A,1,47,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,47,,A,1,48,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,48,,A,1,49,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,48,,A,1,49,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,49,,A,1,50,"Get it, then.","[Get/VB, it/PRP, ,/,, then/RB, ./.]","(ROOT (S (VP (VB Get) (NP (PRP it)) (, ,) (ADVP (RB then))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,50,,A,1,51,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,51,,A,1,52,I did- I didn't put it there.,"[I/PRP, did-/VBP, I/PRP, didn/VB, 't/PRP, put/VB, it/PRP, there/EX, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP did-) (S (NP (PRP I)) (VP (VB didn) (S (NP (PRP 't)) (VP (VB put) (S (NP (PRP it)) (NP (EX there)))))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,52,,A,1,53,Here are.,"[Here/RB, are/VBP, ./.]",(ROOT (S (NP (RB Here)) (VP (VBP are)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,53,,A,1,54,I didn't put it there.,"[I/PRP, didn/VBP, 't/PRP, put/VB, it/PRP, there/EX, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP didn) (S (NP (PRP 't)) (VP (VB put) (S (NP (PRP it)) (NP (EX there)))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,54,,A,1,55,Here are.,"[Here/RB, are/VBP, ./.]",(ROOT (S (NP (RB Here)) (VP (VBP are)) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,55,,A,1,56,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,56,,A,1,57,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,55,,A,1,56,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,56,,A,1,57,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,57,,A,1,58,(()) here are.,"[here/RB, are/VBP, ./.]",(ROOT (S (NP (RB here)) (VP (VBP are)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,58,,A,1,59,I'm (()) ,"[I/PRP, 'm/VBP]",(ROOT (S (NP (PRP I)) (VP (VBP 'm))))
 K/KS/KSN.xml,KSNRE000,134401,59,,A,1,60,Illiterate band.,"[Illiterate/JJ, band/NN, ./.]",(ROOT (NP (JJ Illiterate) (NN band) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,60,,A,1,61,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,61,,A,1,62,<laugh> ,[],X
-K/KS/KSN.xml,KSNRE000,134401,62,,A,1,63,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,63,,A,1,64,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,60,,A,1,61,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,61,,A,1,62,<laugh> ,[],
+K/KS/KSN.xml,KSNRE000,134401,62,,A,1,63,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,63,,A,1,64,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,64,,A,1,65,Ah.,"[Ah/NN, ./.]",(ROOT (INTJ (NN Ah) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,65,,A,1,66,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,65,,A,1,66,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,66,,A,1,67,"Ah, look.","[Ah/NN, ,/,, look/NN, ./.]","(ROOT (NP (NP (NN Ah)) (, ,) (NP (NN look)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,67,,A,1,68,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,67,,A,1,68,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,68,,A,1,69,Who's that then.,"[Who/WP, 's/VBZ, that/DT, then/RB, ./.]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ 's) (NP (DT that)) (ADVP (RB then))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,69,,A,1,70,I don't know.,"[I/PRP, don/VBP, 't/PRP, know/VB, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know)))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,70,,A,1,71,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,70,,A,1,71,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,71,,A,1,72,Ann's got a baby.,"[Ann/NNP, 's/POS, got/VBD, a/DT, baby/NN, ./.]",(ROOT (S (NP (NNP Ann) (POS 's)) (VP (VBD got) (NP (DT a) (NN baby))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,72,,A,1,73,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,72,,A,1,73,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,73,,A,1,74,"No, no, no, no,<laugh> ah, yes.","[No/DT, ,/,, no/DT, ,/,, no/DT, ,/,, no/DT, ,/,, ah/NN, ,/,, yes/UH, ./.]","(ROOT (FRAG (SBAR (WHNP (NP (DT No)) (PRN (, ,) (SBAR (WHNP (WHNP (DT no)) (, ,) (NP (DT no)) (, ,)) (FRAG (NP (NP (DT no)) (, ,) (NP (NN ah))))) (, ,))) (FRAG (INTJ (UH yes) (. .))))))"
-K/KS/KSN.xml,KSNRE000,134401,74,,A,1,75,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,74,,A,1,75,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,75,,A,1,76,Nah.,"[Nah/NN, ./.]",(ROOT (NP (NN Nah) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,76,,A,1,77,He looks like (()) ,"[He/PRP, looks/VBZ, like/IN]",(ROOT (S (NP (PRP He)) (VP (VBZ looks) (PP (IN like)))))
-K/KS/KSN.xml,KSNRE000,134401,77,,A,1,78,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,78,,A,1,79,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,77,,A,1,78,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,78,,A,1,79,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,79,,A,1,80,He looks like (()) ,"[He/PRP, looks/VBZ, like/IN]",(ROOT (S (NP (PRP He)) (VP (VBZ looks) (PP (IN like)))))
 K/KS/KSN.xml,KSNRE000,134401,80,,A,1,81,Oh no.,"[Oh/UH, no/DT, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no)))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,81,,A,1,82,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,82,,A,1,83,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,81,,A,1,82,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,82,,A,1,83,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,83,,A,1,84,"<shouting> Come on, get this done and  (()) </shouting> ","[Come/VB, on/RP, ,/,, get/VB, this/DT, done/VBN, and/CC]","(ROOT (S (VP (VP (VB Come) (PRT (RP on))) (, ,) (VP (VB get) (NP (NP (DT this)) (VP (VBN done) (ADVP (CC and))))))))"
 K/KS/KSN.xml,KSNRE000,134401,84,,A,1,85,Dean come on.,"[Dean/NNP, come/VB, on/IN, ./.]",(ROOT (S (NP (NNP Dean)) (VP (VB come) (PP (IN on))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,85,,A,1,86,<shouting> hurry up </shouting> ,"[hurry/VB, up/RP]",(ROOT (S (VP (VB hurry) (PRT (RP up)))))
 K/KS/KSN.xml,KSNRE000,134401,86,,A,1,87,Do you want (()) ,"[Do/VB, you/PRP, want/VBP]",(ROOT (S (VP (VB Do) (SBAR (S (NP (PRP you)) (VP (VBP want)))))))
-K/KS/KSN.xml,KSNRE000,134401,87,,A,1,88,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,88,,A,1,89,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,87,,A,1,88,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,88,,A,1,89,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,89,,A,1,90,Does she?,"[Does/VBZ, she/PRP, ?/.]",(ROOT (S (VP (VBZ Does) (NP (PRP she))) (. ?)))
-K/KS/KSN.xml,KSNRE000,134401,90,,A,1,91,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,90,,A,1,91,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,91,,A,1,92,"Oh nah, is it,(()) sister.","[Oh/UH, nah/RB, ,/,, is/VBZ, it/PRP, ,/,, sister/NN, ./.]","(ROOT (SINV (FRAG (INTJ (UH Oh) (RB nah))) (, ,) (VP (VBZ is)) (NP (NP (PRP it)) (, ,) (NP (NN sister))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,92,,A,1,93,"Nah,(()) I think it's (()) ","[Nah/NNP, ,/,, I/PRP, think/VBP, it/PRP, 's/VBZ]","(ROOT (NP (S (NP (NNP Nah)) (, ,) (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's))))))))"
 K/KS/KSN.xml,KSNRE000,134401,93,,A,1,94,(()) Say that was  (()) I can (()) ,"[Say/VB, that/DT, was/VBD, I/PRP, can/MD]",(ROOT (S (VP (VB Say) (SBAR (S (NP (DT that)) (VP (VBD was) (SBAR (S (NP (PRP I)) (VP (MD can))))))))))
-K/KS/KSN.xml,KSNRE000,134401,94,,B,2,1,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,94,,B,2,1,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,95,,A,3,1,Who's (()) ,"[Who/WP, 's/VBZ]",(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBZ 's)))))
-K/KS/KSN.xml,KSNRE000,134401,96,,A,3,2,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,96,,A,3,2,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,97,,A,3,3,Why do you think Shakespeare (()) ,"[Why/WRB, do/VBP, you/PRP, think/VB, Shakespeare/NNP]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (NP (NNP Shakespeare))))))
 K/KS/KSN.xml,KSNRE000,134401,98,,A,3,4,Because he feels like it.,"[Because/IN, he/PRP, feels/VBZ, like/IN, it/PRP, ./.]",(ROOT (FRAG (SBAR (IN Because) (S (NP (PRP he)) (VP (VBZ feels) (PP (IN like) (NP (PRP it)))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,99,,A,3,5,Oh no  (()) dribbling.,"[Oh/UH, no/DT, dribbling/NN, ./.]",(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (DT no) (NN dribbling)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,100,,A,3,6,"(()) nah, your mum.","[nah/NNP, ,/,, your/PRP$, mum/NN, ./.]","(ROOT (NP (NP (NNP nah)) (, ,) (NP (PRP$ your) (NN mum)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,101,,A,3,7,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,101,,A,3,7,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,102,,A,3,8,(()) his got a cut on his hand.,"[his/PRP$, got/VBD, a/DT, cut/NN, on/IN, his/PRP$, hand/NN, ./.]",(ROOT (S (NP (PRP$ his)) (VP (VBD got) (NP (DT a) (NN cut)) (PP (IN on) (NP (PRP$ his) (NN hand)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,103,,A,3,9,"Oh, shut-up.","[Oh/UH, ,/,, shut-up/JJ, ./.]","(ROOT (FRAG (INTJ (UH Oh)) (, ,) (ADVP (JJ shut-up)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,104,,A,3,10,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,104,,A,3,10,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,105,,A,3,11,Philip's not read no more.,"[Philip/NNP, 's/POS, not/RB, read/VB, no/RB, more/RBR, ./.]",(ROOT (NP (NP (NP (NNP Philip) (POS 's)) (NP (RB not))) (SBAR (S (VP (VB read) (ADVP (RB no) (RBR more))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,106,,A,3,12,"Yeah, I noticed that  (()) and I thought (()) ","[Yeah/UH, ,/,, I/PRP, noticed/VBD, that/IN, and/CC, I/PRP, thought/VBD]","(ROOT (NP (S (S (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VP (VBD noticed) (ADVP (IN that)))) (CC and) (S (NP (PRP I)) (VP (VBD thought))))))"
-K/KS/KSN.xml,KSNRE000,134401,107,,A,3,13,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,107,,A,3,13,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,108,,A,3,14,Get your great knees under the table and move them  (()) man.,"[Get/VB, your/PRP$, great/JJ, knees/NNS, under/IN, the/DT, table/NN, and/CC, move/VB, them/PRP, man/NN, ./.]",(ROOT (S (VP (VP (VB Get) (NP (PRP$ your) (JJ great) (NNS knees)) (PP (IN under) (NP (DT the) (NN table)))) (CC and) (VP (VB move) (NP (PRP them))) (NP (NN man))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,109,,A,3,15,"You take up all the space, man.","[You/PRP, take/VBP, up/RP, all/PDT, the/DT, space/NN, ,/,, man/NN, ./.]","(ROOT (S (NP (PRP You)) (VP (VBP take) (PRT (RP up)) (NP (NP (PDT all) (DT the) (NN space)) (, ,) (NP (NN man)))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,110,,A,3,16,Yeah.(()) ,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,111,,A,3,17,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,112,,A,3,18,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,111,,A,3,17,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,112,,A,3,18,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,113,,A,3,19,Dark horse.,"[Dark/JJ, horse/NN, ./.]",(ROOT (NP (JJ Dark) (NN horse) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,114,,A,3,20,"Right, what's going on there?","[Right/NN, ,/,, what/WP, 's/VBZ, going/VBG, on/IN, there/EX, ?/.]","(ROOT (SBARQ (NP (NN Right)) (, ,) (WHNP (WP what)) (SQ (VBZ 's) (VP (VBG going) (PP (IN on) (NP (EX there))))) (. ?)))"
-K/KS/KSN.xml,KSNRE000,134401,115,,A,3,21,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,115,,A,3,21,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,116,,A,3,22,"Whatever you've done, stop doing it now.","[Whatever/WDT, you/PRP, 've/VBP, done/VBN, ,/,, stop/VB, doing/VBG, it/PRP, now/RB, ./.]","(ROOT (S (SBAR (WHNP (WDT Whatever)) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN done))))) (, ,) (VP (VB stop) (S (VP (VBG doing) (NP (PRP it)) (ADVP (RB now))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,117,,A,3,23,"Nothing yet, sir, I'm fixing my pen.","[Nothing/NN, yet/RB, ,/,, sir/NNP, ,/,, I/PRP, 'm/VBP, fixing/VBG, my/PRP$, pen/NN, ./.]","(ROOT (NP (NP (NN Nothing) (RB yet)) (, ,) (NP (NNP sir)) (, ,) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG fixing) (NP (PRP$ my) (NN pen))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,118,,A,3,24,My pen that I've been working.,"[My/PRP$, pen/NN, that/IN, I/PRP, 've/VBP, been/VBN, working/VBG, ./.]",(ROOT (FRAG (NP (NP (PRP$ My) (NN pen)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG working))))))) (. .)))
@@ -123,12 +123,12 @@ K/KS/KSN.xml,KSNRE000,134401,120,,A,3,26,Why  (()) gonna play with the water (()
 K/KS/KSN.xml,KSNRE000,134401,121,,A,3,27,'Cos he felt like it.,"['Cos/NNS, he/PRP, felt/VBD, like/IN, it/PRP, ./.]",(ROOT (S (NP (NNS 'Cos)) (NP (PRP he)) (VP (VBD felt) (PP (IN like) (NP (PRP it)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,122,,A,3,28,Must have been (()) ,"[Must/MD, have/VB, been/VBN]",(ROOT (FRAG (VP (MD Must) (VP (VB have) (VP (VBN been))))))
 K/KS/KSN.xml,KSNRE000,134401,123,,A,3,29,"Come on, Annie, let me have  (()) ","[Come/VB, on/RP, ,/,, Annie/NNP, ,/,, let/VB, me/PRP, have/VB]","(ROOT (VP (VB Come) (PRT (RP on)) (, ,) (S (NP (NNP Annie)) (, ,) (VP (VB let) (NP (PRP me)) (VP (VB have))))))"
-K/KS/KSN.xml,KSNRE000,134401,124,,A,3,30,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,124,,A,3,30,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,125,,A,3,31,"You don't like me to drive,(()) ","[You/PRP, don/VBP, 't/PRP, like/IN, me/PRP, to/TO, drive/VB, ,/,]","(ROOT (S (NP (PRP You)) (VP (VBP don) (NP (PRP 't)) (PP (IN like) (NP (PRP me))) (S (VP (TO to) (VP (VB drive))))) (, ,)))"
-K/KS/KSN.xml,KSNRE000,134401,126,,A,3,32,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,126,,A,3,32,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,127,,A,3,33,"(()) like this, the post (()) ","[like/IN, this/DT, ,/,, the/DT, post/NN]","(ROOT (PP (IN like) (NP (NP (DT this)) (, ,) (NP (DT the) (NN post)))))"
 K/KS/KSN.xml,KSNRE000,134401,128,,A,3,34,So they sing  (()) ,"[So/IN, they/PRP, sing/VBP]",(ROOT (FRAG (ADVP (IN So)) (NP (NP (PRP they)) (SBAR (S (VP (VBP sing)))))))
-K/KS/KSN.xml,KSNRE000,134401,129,,A,3,35,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,129,,A,3,35,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,130,,A,3,36,What part do you work.,"[What/WDT, part/NN, do/VBP, you/PRP, work/VB, ./.]",(ROOT (SBARQ (WHNP (WDT What) (NN part)) (SQ (VBP do) (NP (PRP you)) (VP (VB work))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,131,,A,3,37,He's doing your (()) ,"[He/PRP, 's/VBZ, doing/VBG, your/PRP$]",(ROOT (S (NP (PRP He)) (VP (VBZ 's) (VP (VBG doing) (NP (PRP$ your))))))
 K/KS/KSN.xml,KSNRE000,134401,132,,A,3,38,What.,"[What/WDT, ./.]",(ROOT (FRAG (WHNP (WDT What)) (. .)))
@@ -137,56 +137,56 @@ K/KS/KSN.xml,KSNRE000,134401,134,,A,3,40,"Yeah, but it's not touching my mouth, 
 K/KS/KSN.xml,KSNRE000,134401,135,,A,3,41,There's a straight ,"[There/EX, 's/VBZ, a/DT, straight/JJ]",(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (DT a) (JJ straight)))))
 K/KS/KSN.xml,KSNRE000,134401,136,,A,3,42,"Open your hand, open your hand.","[Open/VB, your/PRP$, hand/NN, ,/,, open/VB, your/PRP$, hand/NN, ./.]","(ROOT (S (VP (VP (VB Open) (NP (PRP$ your) (NN hand))) (, ,) (VP (VB open) (NP (PRP$ your) (NN hand)))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,137,,A,3,43,What.,"[What/WDT, ./.]",(ROOT (FRAG (WHNP (WDT What)) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,138,,A,3,44,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,138,,A,3,44,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,139,,A,3,45,"Straight, in other words (()) ","[Straight/RB, ,/,, in/IN, other/JJ, words/NNS]","(ROOT (UCP (ADVP (RB Straight)) (, ,) (PP (IN in) (NP (JJ other) (NNS words)))))"
 K/KS/KSN.xml,KSNRE000,134401,140,,A,3,46,When was this broken.,"[When/WRB, was/VBD, this/DT, broken/VBN, ./.]",(ROOT (SBARQ (WHADVP (WRB When)) (SQ (VBD was) (NP (DT this)) (VP (VBN broken))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,141,,A,3,47,"That's what I'm doing, you silly bastard.(()) ","[That/DT, 's/VBZ, what/WP, I/PRP, 'm/VBP, doing/VBG, ,/,, you/PRP, silly/RB, bastard/NN, ./.]","(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG doing)))))) (, ,) (X (NP (ADJP (NP (PRP you)) (RB silly)) (NN bastard))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,142,,A,3,48,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,142,,A,3,48,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,143,,A,3,49,"Right, broke, what like that.","[Right/NN, ,/,, broke/VBD, ,/,, what/WDT, like/IN, that/DT, ./.]","(ROOT (S (NP (NN Right)) (, ,) (VP (VP (VBD broke)) (, ,) (VP (S (NP (WDT what))) (PP (IN like) (NP (DT that))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,144,,A,3,50,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,145,,A,3,51,"Yeah, about one per cent of the air guns,(()) ninety-nine, summat round there.","[Yeah/UH, ,/,, about/IN, one/CD, per/IN, cent/NN, of/IN, the/DT, air/NN, guns/NNS, ,/,, ninety-nine/CD, ,/,, summat/NNP, round/NNP, there/RB, ./.]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (IN about) (NP (CD one)) (PP (IN per) (NP (NP (NN cent)) (PP (IN of) (NP (NP (DT the) (NN air) (NNS guns)) (, ,) (NP (NP (CD ninety-nine)) (, ,) (NP (NNP summat) (NNP round)))))) (ADVP (RB there)))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,146,,A,3,52,(()) guns.,"[guns/NNS, ./.]",(ROOT (NP (NNS guns) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,147,,A,3,53,"It's not touching, look.","[It/PRP, 's/VBZ, not/RB, touching/VBG, ,/,, look/VB, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (RB not) (VP (VBG touching) (, ,) (S (VP (VB look))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,148,,A,3,54,"<<REDACTED (name)>> got that,(()) pen, er, got like that with your pen.","[>/JJR, got/VBD, that/IN, ,/,, pen/NN, ,/,, er/NN, ,/,, got/VBD, like/IN, that/DT, with/IN, your/PRP$, pen/NN, ./.]","(ROOT (S (NP (JJR >)) (VP (VBD got) (SBAR (IN that) (, ,) (S (NP (NP (NN pen)) (, ,) (NP (NN er)) (, ,)) (VP (VBD got) (PP (IN like) (NP (DT that))) (PP (IN with) (NP (PRP$ your) (NN pen))))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,149,,A,3,55,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,149,,A,3,55,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,150,,A,3,56,(()) touched inside of your mouth.,"[touched/VBN, inside/IN, of/IN, your/PRP$, mouth/NN, ./.]",(ROOT (S (VP (VBN touched) (PP (IN inside) (PP (IN of) (NP (PRP$ your) (NN mouth))))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,151,,A,3,57,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,151,,A,3,57,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,152,,A,3,58,(()) you're (()) ,"[you/PRP, 're/VBP]",(ROOT (S (NP (PRP you)) (VP (VBP 're))))
 K/KS/KSN.xml,KSNRE000,134401,153,,A,3,59,The excellence of the (()) ,"[The/DT, excellence/NN, of/IN, the/DT]",(ROOT (NP (NP (DT The) (NN excellence)) (PP (IN of) (NP (DT the)))))
-K/KS/KSN.xml,KSNRE000,134401,154,,A,3,60,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,155,,A,3,61,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,154,,A,3,60,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,155,,A,3,61,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,156,,A,3,62,"<singing> You know I'm the one,(()) </singing> Come on, let's go, man.","[You/PRP, know/VBP, I/PRP, 'm/VBP, the/DT, one/CD, ,/,, Come/VBN, on/IN, ,/,, let/VB, 's/POS, go/VB, ,/,, man/NN, ./.]","(ROOT (S (NP (PRP You)) (VP (VBP know) (SBAR (S (NP (PRP I)) (VP (VBP 'm) (NP (NP (NP (DT the) (CD one)) (, ,) (PP (VBN Come) (PP (IN on)))) (PRN (, ,) (S (VP (VB let) (S (NP (POS 's)) (VP (VB go))))) (, ,)) (NP (NN man))))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,157,,A,3,63,"(()) bleeding, man.","[bleeding/NN, ,/,, man/NN, ./.]","(ROOT (NP (NP (NN bleeding)) (, ,) (NP (NN man)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,158,,A,3,64,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,158,,A,3,64,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,159,,A,3,65,(()) tell 'em.,"[tell/VB, 'em/PRP, ./.]",(ROOT (S (VP (VB tell) (NP (PRP 'em))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,160,,A,3,66,"It hurts, it hurts,","[It/PRP, hurts/VBZ, ,/,, it/PRP, hurts/VBZ, ,/,]","(ROOT (S (NP (PRP It)) (VP (VP (VBZ hurts)) (PRN (, ,) (S (NP (PRP it)) (VP (VBZ hurts))) (, ,)))))"
-K/KS/KSN.xml,KSNRE000,134401,161,,A,3,67,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,161,,A,3,67,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,162,,A,3,68,Does it hurt (()) ,"[Does/VBZ, it/PRP, hurt/VB]",(ROOT (SINV (VBZ Does) (NP (PRP it)) (VP (VB hurt))))
-K/KS/KSN.xml,KSNRE000,134401,163,,A,3,69,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,164,,A,3,70,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,163,,A,3,69,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,164,,A,3,70,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,165,,A,3,71,"(()) still hurts, dunnit it.","[still/RB, hurts/VBZ, ,/,, dunnit/VBP, it/PRP, ./.]","(ROOT (S (ADVP (RB still)) (S (VP (VBZ hurts))) (, ,) (VP (VBP dunnit) (NP (PRP it))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,166,,A,3,72,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,167,,A,3,73,Can you move them fingers there?,"[Can/MD, you/PRP, move/VB, them/PRP, fingers/NNS, there/RB, ?/.]",(ROOT (SQ (MD Can) (NP (PRP you)) (VP (VB move) (NP (PRP them)) (ADVP (NP (NNS fingers)) (RB there))) (. ?)))
-K/KS/KSN.xml,KSNRE000,134401,168,,A,3,74,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,168,,A,3,74,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,169,,A,3,75,"Go like that, like that.","[Go/VB, like/IN, that/DT, ,/,, like/IN, that/DT, ./.]","(ROOT (S (VP (VB Go) (PP (IN like) (NP (DT that))) (, ,) (PP (IN like) (NP (DT that)))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,170,,A,3,76,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,170,,A,3,76,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,171,,A,3,77,Shut up.(()) ,"[Shut/VBN, up/RP, ./.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,172,,A,3,78,What's up with you.,"[What/WP, 's/VBZ, up/RP, with/IN, you/PRP, ./.]",(ROOT (S (NP (WP What)) (VP (VBZ 's) (ADVP (RP up)) (PP (IN with) (NP (PRP you)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,173,,A,3,79,Idiot.,"[Idiot/NN, ./.]",(ROOT (NP (NN Idiot) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,174,,A,3,80,Let's take a look.,"[Let/VB, 's/PRP, take/VB, a/DT, look/NN, ./.]",(ROOT (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB take) (NP (DT a) (NN look))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,175,,A,3,81,I am.,"[I/PRP, am/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP am)) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,176,,A,3,82,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,176,,A,3,82,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,177,,A,3,83,"You know, you must wonna, you must wanted  (()) with it.","[You/PRP, know/VBP, ,/,, you/PRP, must/MD, wonna/VB, ,/,, you/PRP, must/MD, wanted/VBD, with/IN, it/PRP, ./.]","(ROOT (S (S (NP (PRP You)) (VP (VBP know))) (, ,) (S (NP (PRP you)) (VP (MD must) (VP (VB wonna)))) (, ,) (S (NP (PRP you)) (VP (MD must) (VP (VBD wanted) (PP (IN with) (NP (PRP it)))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,178,,A,3,84,Mm.,"[Mm/NN, ./.]",(ROOT (NP (NN Mm) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,179,,A,3,85,I dunno.,"[I/PRP, dunno/VBP, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP dunno)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,180,,A,3,86,Prat.,"[Prat/NN, ./.]",(ROOT (NP (NN Prat) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,181,,A,3,87,Where did I put that.,"[Where/WRB, did/VBD, I/PRP, put/VBD, that/DT, ./.]",(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (PRP I)) (VP (VBD put) (NP (DT that)))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,182,,A,3,88,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,183,,A,3,89,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,182,,A,3,88,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,183,,A,3,89,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,184,,A,3,90,"What  (()) of the first question, man.","[What/WDT, of/IN, the/DT, first/JJ, question/NN, ,/,, man/NN, ./.]","(ROOT (FRAG (WHNP (WDT What)) (PP (IN of) (NP (NP (DT the) (JJ first) (NN question)) (, ,) (NP (NN man)))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,185,,A,3,91,It's (()) ,"[It/PRP, 's/VBZ]",(ROOT (S (NP (PRP It)) (VP (VBZ 's))))
 K/KS/KSN.xml,KSNRE000,134401,186,,A,3,92,"Shut up, I knew that, I knew that.","[Shut/VBN, up/RP, ,/,, I/PRP, knew/VBD, that/IN, ,/,, I/PRP, knew/VBD, that/IN, ./.]","(ROOT (S (S (VP (VBN Shut) (PRT (RP up)))) (, ,) (NP (PRP I)) (VP (VBD knew) (SBAR (IN that) (, ,) (S (NP (PRP I)) (VP (VBD knew) (ADVP (IN that)))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,187,,A,3,93,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,187,,A,3,93,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,188,,A,3,94,"The line, you haven't even written the lines from the crap that you sold,.","[The/DT, line/NN, ,/,, you/PRP, haven/NN, 't/PRP, even/RB, written/VBD, the/DT, lines/NNS, from/IN, the/DT, crap/NN, that/IN, you/PRP, sold/VBD, ,/,, ./.]","(ROOT (NP (NP (DT The) (NN line)) (, ,) (NP (NP (PRP you) (NN haven)) (SBAR (S (NP (PRP 't)) (ADVP (RB even)) (VP (VBD written) (NP (DT the) (NNS lines)) (PP (IN from) (NP (DT the) (NN crap))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBD sold)))) (, ,))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,189,,A,3,95,What.,"[What/WDT, ./.]",(ROOT (FRAG (WHNP (WDT What)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,190,,A,3,96,You sold <<REDACTED (name)>> .,"[You/PRP, sold/VBD, >/JJR, ./.]",(ROOT (S (NP (PRP You)) (VP (VBD sold) (ADJP (JJR >))) (. .)))
@@ -194,15 +194,15 @@ K/KS/KSN.xml,KSNRE000,134401,191,,A,3,97,What.,"[What/WDT, ./.]",(ROOT (FRAG (WH
 K/KS/KSN.xml,KSNRE000,134401,192,,A,3,98,"You haven't got to go back  (()) you're supposed to write what scene, what  (()) ","[You/PRP, haven/NN, 't/PRP, got/VBD, to/TO, go/VB, back/RB, you/PRP, 're/VBP, supposed/VBN, to/TO, write/VB, what/WP, scene/NN, ,/,, what/WDT]","(ROOT (S (NP (PRP You)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD got) (S (VP (TO to) (VP (VB go) (S (ADVP (RB back)) (NP (PRP you)) (VP (VBP 're) (VP (VBN supposed) (S (VP (TO to) (VP (VB write) (FRAG (X (WP what)) (NP (NN scene))))))) (, ,) (S (NP (WDT what))))))))))))))"
 K/KS/KSN.xml,KSNRE000,134401,193,,A,3,99,"Yeah, you're supposed to write  (()) books are  (()) you (()) ","[Yeah/UH, ,/,, you/PRP, 're/VBP, supposed/VBN, to/TO, write/VB, books/NNS, are/VBP, you/PRP]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP you)) (VP (VBP 're) (VP (VBN supposed) (S (VP (TO to) (VP (VB write) (SBAR (S (NP (NNS books)) (VP (VBP are))))))))) (PRP you)))"
 K/KS/KSN.xml,KSNRE000,134401,194,,A,3,100,You don't  (()) on the book.,"[You/PRP, don/VBP, 't/PRP, on/IN, the/DT, book/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP don) (NP (PRP 't)) (PP (IN on) (NP (DT the) (NN book)))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,195,,A,3,101,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,196,,A,3,102,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,195,,A,3,101,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,196,,A,3,102,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,197,,A,3,103,(()) on the books.,"[on/IN, the/DT, books/NNS, ./.]",(ROOT (FRAG (PP (IN on) (NP (DT the) (NNS books))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,198,,A,3,104,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,198,,A,3,104,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,199,,A,3,105,You're supposed  (()) on the book.,"[You/PRP, 're/VBP, supposed/VBN, on/IN, the/DT, book/NN, ./.]",(ROOT (S (NP (PRP You)) (VP (VBP 're) (VP (VBN supposed) (PP (IN on) (NP (DT the) (NN book))))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,200,,A,3,106,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,201,,A,3,107,Why  --,"[Why/WRB, how/WRB, 's/POS, the/DT, way/NN, it/PRP, 's/VBZ, written/VBN, in/IN, the/DT, book/NN, ,/,, then/RB, ./.]","(ROOT (FRAG (SBAR (WHADVP (WRB Why) (WRB how)) (S (NP (POS 's)) (ADVP (DT the) (NN way)) (VP (ADVP (PRP it)) (VBZ 's) (ADJP (VBN written) (PP (IN in) (NP (DT the) (NN book))))))) (, ,) (ADVP (RB then)) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,202,,A,3,108,"--how's the way it's written in the book, then.","[Why/WRB, how/WRB, 's/POS, the/DT, way/NN, it/PRP, 's/VBZ, written/VBN, in/IN, the/DT, book/NN, ,/,, then/RB, ./.]","(ROOT (FRAG (SBAR (WHADVP (WRB Why) (WRB how)) (S (NP (POS 's)) (ADVP (DT the) (NN way)) (VP (ADVP (PRP it)) (VBZ 's) (ADJP (VBN written) (PP (IN in) (NP (DT the) (NN book))))))) (, ,) (ADVP (RB then)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,203,,A,3,109,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,203,,A,3,109,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,204,,A,3,110,"I think you're supposed to write, you supposed to start on the (()) ","[I/PRP, think/VBP, you/PRP, 're/VBP, supposed/VBN, to/TO, write/VB, ,/,, you/PRP, supposed/VBN, to/TO, start/VB, on/IN, the/DT]","(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP you)) (VP (VBP 're) (VP (VBN supposed) (S (VP (TO to) (VP (VB write) (, ,) (SBAR (S (NP (PRP you)) (VP (VBN supposed) (S (VP (TO to) (VP (VB start) (PP (IN on) (NP (DT the)))))))))))))))))))"
 K/KS/KSN.xml,KSNRE000,134401,205,,A,3,111,Acts  --,"[Acts/VBZ, one/CD, Scene/NN, one/CD, ,/,, line/NN, four/CD]","(ROOT (SINV (VP (VBZ Acts) (NP (CD one) (NN Scene))) (NP (NP (CD one)) (, ,) (NP (NN line) (CD four)))))"
 K/KS/KSN.xml,KSNRE000,134401,206,,A,3,112,--one  --,"[Acts/VBZ, one/CD, Scene/NN, one/CD, ,/,, line/NN, four/CD]","(ROOT (SINV (VP (VBZ Acts) (NP (CD one) (NN Scene))) (NP (NP (CD one)) (, ,) (NP (NN line) (CD four)))))"
@@ -213,11 +213,11 @@ K/KS/KSN.xml,KSNRE000,134401,210,,A,3,116,That's what you want on (()) ,"[That/D
 K/KS/KSN.xml,KSNRE000,134401,211,,A,3,117,I've done mine.,"[I/PRP, 've/VBP, done/VBN, mine/NN, ./.]",(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (NP (NN mine)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,212,,A,3,118,(()) Why do you think ,"[Why/WRB, do/VBP, you/PRP, think/VB]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think)))))
 K/KS/KSN.xml,KSNRE000,134401,213,,A,3,119,Why do you think you're such an illiterate bum.,"[Why/WRB, do/VBP, you/PRP, think/VB, you/PRP, 're/VBP, such/JJ, an/DT, illiterate/JJ, bum/NNP, ./.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (JJ such) (NP (DT an) (JJ illiterate) (NNP bum)))))))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,214,,A,3,120,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,214,,A,3,120,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,215,,A,3,121,Why do you think.,"[Why/WRB, do/VBP, you/PRP, think/VB, ./.]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,216,,A,3,122,"Why do you think  <laugh> I don't know, I just said it, I don't (()) ","[Why/WRB, do/VBP, you/PRP, think/VB, I/PRP, don/VBP, 't/PRP, know/VB, ,/,, I/PRP, just/RB, said/VBD, it/PRP, ,/,, I/PRP, don/VBP, 't/PRP]","(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (S (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))) (, ,) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD said) (NP (PRP it)))) (, ,) (S (NP (PRP I)) (VP (VBP don) (NP (PRP 't)))))))))"
 K/KS/KSN.xml,KSNRE000,134401,217,,A,3,123,Why you do think you're such an illiterate bum?,"[Why/WRB, you/PRP, do/VBP, think/VB, you/PRP, 're/VBP, such/JJ, an/DT, illiterate/JJ, bum/NNP, ?/.]",(ROOT (SBARQ (WHADVP (WRB Why)) (S (NP (PRP you)) (VP (VBP do) (S (VP (VB think) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (JJ such) (NP (DT an) (JJ illiterate) (NNP bum)))))))))) (. ?)))
-K/KS/KSN.xml,KSNRE000,134401,218,,A,3,124,<cough> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,218,,A,3,124,<cough> ,[],
 K/KS/KSN.xml,KSNRE000,134401,219,,A,3,125,Depends (()) ,[Depends/VBZ],(ROOT (FRAG (VP (VBZ Depends))))
 K/KS/KSN.xml,KSNRE000,134401,220,,A,3,126,"Why do you think, why do you think, why do you think, why do, that's what (()) ","[Why/WRB, do/VBP, you/PRP, think/VB, ,/,, why/WRB, do/VBP, you/PRP, think/VB, ,/,, why/WRB, do/VBP, you/PRP, think/VB, ,/,, why/WRB, do/VBP, ,/,, that/DT, 's/VBZ, what/WP]","(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (, ,) (SBARQ (WHADVP (WRB why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (, ,) (SBARQ (WHADVP (WRB why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (PRN (, ,) (SBAR (WHADVP (WRB why)) (S (VP (VBP do)))) (, ,)) (SBAR (S (NP (DT that)) (VP (VBZ 's) (WHNP (WP what)))))))))))))))"
 K/KS/KSN.xml,KSNRE000,134401,221,,A,3,127,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT No)) (. .)))
@@ -225,42 +225,42 @@ K/KS/KSN.xml,KSNRE000,134401,222,,A,3,128,No.,"[No/DT, ./.]",(ROOT (FRAG (NP (DT
 K/KS/KSN.xml,KSNRE000,134401,223,,A,3,129,Why do you think you're such an illiterate bum?<laugh> do you like that.(()) ,"[Why/WRB, do/VBP, you/PRP, think/VB, you/PRP, 're/VBP, such/JJ, an/DT, illiterate/JJ, bum/NNP, ?/., do/VBP, you/PRP, like/IN, that/DT, ./.]",(ROOT (SINV (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think) (SBAR (S (NP (PRP you)) (VP (VBP 're) (PP (JJ such) (NP (DT an) (JJ illiterate) (NNP bum)))))))) (. ?)) (VP (VBP do) (NP (PRP you)) (PP (IN like))) (NP (DT that)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,224,,A,3,130,"(()) illiterate, he can write or read.","[illiterate/JJ, ,/,, he/PRP, can/MD, write/VB, or/CC, read/VB, ./.]","(ROOT (S (S (ADJP (JJ illiterate))) (, ,) (NP (PRP he)) (VP (MD can) (VP (VB write) (CC or) (VB read))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,225,,A,3,131,Will you stop (()) ,"[Will/MD, you/PRP, stop/VB]",(ROOT (SINV (MD Will) (NP (PRP you)) (VP (VB stop))))
-K/KS/KSN.xml,KSNRE000,134401,226,,A,3,132,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,226,,A,3,132,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,227,,A,3,133,(()) That's why (()) ,"[That/DT, 's/VBZ, why/WRB]",(ROOT (S (NP (DT That)) (VP (VBZ 's) (FRAG (WHADVP (WRB why))))))
 K/KS/KSN.xml,KSNRE000,134401,228,,A,3,134,"Okay, nobody would know, would it.(()) ","[Okay/UH, ,/,, nobody/NN, would/MD, know/VB, ,/,, would/MD, it/PRP, ./.]","(ROOT (S (S (INTJ (UH Okay)) (, ,) (NP (NN nobody)) (VP (MD would) (VP (VB know)))) (, ,) (VP (MD would)) (NP (PRP it)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,229,,A,3,135,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,229,,A,3,135,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,230,,A,3,136,(()) looking at.,"[looking/VBG, at/IN, ./.]",(ROOT (S (VP (VBG looking) (PP (IN at))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,231,,A,3,137,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,232,,A,3,138,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,231,,A,3,137,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,232,,A,3,138,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,233,,A,3,139,"No, I don't think (()) ","[No/DT, ,/,, I/PRP, don/VBP, 't/PRP, think/VB]","(ROOT (NP (S (NP (DT No)) (, ,) (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB think)))))))"
-K/KS/KSN.xml,KSNRE000,134401,234,,A,3,140,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,234,,A,3,140,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,235,,A,3,141,"Look, shut up.","[Look/VB, ,/,, shut/VB, up/RP, ./.]","(ROOT (S (VP (VP (VB Look)) (, ,) (VP (VB shut) (PRT (RP up)))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,236,,A,3,142,What you doing.,"[What/WP, you/PRP, doing/VBG, ./.]",(ROOT (FRAG (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBG doing)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,237,,A,3,143,(()) your nose.,"[your/PRP$, nose/NN, ./.]",(ROOT (FRAG (NP (PRP$ your) (NN nose)) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,238,,A,3,144,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,239,,A,3,145,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,240,,A,3,146,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,238,,A,3,144,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,239,,A,3,145,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,240,,A,3,146,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,241,,A,3,147,"Yeah, it's  (()) are you (()) ","[Yeah/UH, ,/,, it/PRP, 's/VBZ, are/VBP, you/PRP]","(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (PRP it)) (VP (VBZ 's) (VP (VBP are))) (PRP you)))"
 K/KS/KSN.xml,KSNRE000,134401,242,,A,3,148,"Ones, ones.","[Ones/NNS, ,/,, ones/NNS, ./.]","(ROOT (NP (NP (NNS Ones)) (, ,) (NP (NNS ones)) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,243,,A,3,149,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,244,,A,3,150,<singing> ,[],X
-K/KS/KSN.xml,KSNRE000,134401,245,,A,3,151,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,246,,A,3,152,</singing> ,[],X
-K/KS/KSN.xml,KSNRE000,134401,247,,A,3,153,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,243,,A,3,149,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,244,,A,3,150,<singing> ,[],
+K/KS/KSN.xml,KSNRE000,134401,245,,A,3,151,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,246,,A,3,152,</singing> ,[],
+K/KS/KSN.xml,KSNRE000,134401,247,,A,3,153,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,248,,A,3,154,Why do you think ,"[Why/WRB, do/VBP, you/PRP, think/VB]",(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBP do) (NP (PRP you)) (VP (VB think)))))
-K/KS/KSN.xml,KSNRE000,134401,249,,A,3,155,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,249,,A,3,155,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,250,,A,3,156,"Look,(()) shut up, man.","[Look/VB, ,/,, shut/VB, up/RP, ,/,, man/NN, ./.]","(ROOT (S (VP (VP (VB Look)) (, ,) (VP (VB shut) (PRT (RP up)) (, ,) (NP (NN man)))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,251,,A,3,157,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,251,,A,3,157,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,252,,A,3,158,"(()) What, what (()) ","[What/WP, ,/,, what/WDT]","(ROOT (NP (NP (WP What)) (, ,) (NP (WDT what))))"
-K/KS/KSN.xml,KSNRE000,134401,253,,A,3,159,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,254,,A,3,160,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,255,,A,3,161,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,253,,A,3,159,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,254,,A,3,160,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,255,,A,3,161,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,256,,A,3,162,Don't  (()) don't lean over me  --,"[Don/NNP, 't/PRP, don/VBP, 't/PRP, lean/VB, over/IN, me/PRP, unless/IN, you/PRP, want/VBP, my/PRP$, elbow/NN, in/IN, your/PRP$, nose/NN]",(ROOT (FRAG (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB lean) (PP (IN over) (NP (PRP me))) (SBAR (IN unless) (S (NP (PRP you)) (VP (VBP want) (NP (PRP$ my) (NN elbow)) (PP (IN in) (NP (PRP$ your) (NN nose))))))))))))))
 K/KS/KSN.xml,KSNRE000,134401,257,,A,3,163,--unless you want my elbow in your nose ,"[Don/NNP, 't/PRP, don/VBP, 't/PRP, lean/VB, over/IN, me/PRP, unless/IN, you/PRP, want/VBP, my/PRP$, elbow/NN, in/IN, your/PRP$, nose/NN]",(ROOT (FRAG (NP (NP (NNP Don)) (SBAR (S (NP (PRP 't)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB lean) (PP (IN over) (NP (PRP me))) (SBAR (IN unless) (S (NP (PRP you)) (VP (VBP want) (NP (PRP$ my) (NN elbow)) (PP (IN in) (NP (PRP$ your) (NN nose))))))))))))))
-K/KS/KSN.xml,KSNRE000,134401,258,,A,3,164,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,258,,A,3,164,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,259,,A,3,165,Okay  --,"[Okay/JJ, okay/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Okay) (JJ okay)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,260,,A,3,166,--okay.,"[Okay/JJ, okay/JJ, ./.]",(ROOT (FRAG (ADJP (JJ Okay) (JJ okay)) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,261,,A,3,167,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,261,,A,3,167,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,262,,A,3,168,"Look, nothing can (()) ","[Look/VB, ,/,, nothing/NN, can/MD]","(ROOT (S (VP (VB Look) (, ,) (S (NP (NN nothing)) (VP (MD can))))))"
 K/KS/KSN.xml,KSNRE000,134401,263,,A,3,169,"What you doing, man.","[What/WP, you/PRP, doing/VBG, ,/,, man/NN, ./.]","(ROOT (SBAR (WHNP (WP What)) (S (UCP (S (NP (PRP you)) (VP (VBG doing))) (, ,) (NP (NN man)) (. .)))))"
 K/KS/KSN.xml,KSNRE000,134401,264,,A,3,170,"By the way, does everybody  (()) your work,(()) ","[By/IN, the/DT, way/NN, ,/,, does/VBZ, everybody/NN, your/PRP$, work/NN, ,/,]","(ROOT (PP (IN By) (NP (NP (DT the) (NN way)) (, ,) (VP (VBZ does) (NP (NN everybody)) (NP (PRP$ your) (NN work))) (, ,))))"
@@ -273,49 +273,49 @@ K/KS/KSN.xml,KSNRE000,134401,270,,A,3,176,"Okay, okay.","[Okay/UH, ,/,, okay/JJ,
 K/KS/KSN.xml,KSNRE000,134401,271,,A,3,177,(()) my whole folder.,"[my/PRP$, whole/JJ, folder/NN, ./.]",(ROOT (FRAG (NP (PRP$ my) (JJ whole) (NN folder)) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,272,,A,3,178,"No, it's in my folder, actually, in my folder.","[No/DT, ,/,, it/PRP, 's/VBZ, in/IN, my/PRP$, folder/NN, ,/,, actually/RB, ,/,, in/IN, my/PRP$, folder/NN, ./.]","(ROOT (S (NP (DT No)) (, ,) (NP (PRP it)) (VP (VBZ 's) (PP (IN in) (NP (PRP$ my) (NN folder))) (, ,) (ADVP (RB actually)) (, ,) (PP (IN in) (NP (PRP$ my) (NN folder)))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,273,,A,3,179,(()) work and handed in and haven't marked it.,"[work/NN, and/CC, handed/VBN, in/IN, and/CC, haven/NN, 't/PRP, marked/VBD, it/PRP, ./.]",(ROOT (S (S (UCP (NP (NN work)) (CC and) (VP (VP (VBN handed) (PP (IN in))) (CC and) (VP (NN haven) (NP (PRP 't)))))) (VP (VBD marked) (NP (PRP it))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,274,,A,3,180,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,275,,A,3,181,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,274,,A,3,180,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,275,,A,3,181,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,276,,A,3,182,"(()) work, all the work we've done.","[work/NN, ,/,, all/PDT, the/DT, work/NN, we/PRP, 've/VBP, done/VBN, ./.]","(ROOT (NP (NP (NN work)) (, ,) (NP (NP (PDT all) (DT the) (NN work)) (SBAR (S (NP (PRP we)) (VP (VBP 've) (VP (VBN done)))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,277,,A,3,183,"Yeah, I'm (()) ","[Yeah/UH, ,/,, I/PRP, 'm/VBP]","(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (NP (PRP I)) (VBP 'm)))"
 K/KS/KSN.xml,KSNRE000,134401,278,,A,3,184,"No, no, you corrected, you corrected some of our work.","[No/DT, ,/,, no/DT, ,/,, you/PRP, corrected/VBN, ,/,, you/PRP, corrected/VBD, some/DT, of/IN, our/PRP$, work/NN, ./.]","(ROOT (S (S (NP (ADJP (DT No) (PRN (, ,) (ADVP (DT no)) (, ,))) (NP (PRP you))) (VP (VBN corrected))) (, ,) (NP (PRP you)) (VP (VBD corrected) (NP (NP (DT some)) (PP (IN of) (NP (PRP$ our) (NN work))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,279,,A,3,185,(()) can correct it.,"[can/MD, correct/VB, it/PRP, ./.]",(ROOT (S (VP (MD can) (VP (VB correct) (NP (PRP it)))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,280,,A,3,186,"So I can just take my folder, sir.","[So/IN, I/PRP, can/MD, just/RB, take/VB, my/PRP$, folder/NN, ,/,, sir/NNP, ./.]","(ROOT (S (IN So) (NP (PRP I)) (VP (MD can) (ADVP (RB just)) (VP (VB take) (NP (NP (PRP$ my) (NN folder)) (, ,) (NP (NNP sir))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,281,,A,3,187,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,282,,A,3,188,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,281,,A,3,187,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,282,,A,3,188,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,283,,A,3,189,"Shut up, I've done more work than you.","[Shut/VBN, up/RP, ,/,, I/PRP, 've/VBP, done/VBN, more/RBR, work/NN, than/IN, you/PRP, ./.]","(ROOT (S (S (VP (VBN Shut) (PRT (RP up)))) (, ,) (NP (PRP I)) (VP (VBP 've) (VP (VBN done) (ADVP (RBR more)) (NP (NN work)) (PP (IN than) (NP (PRP you))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,284,,A,3,190,"What are you doing taking that folder, anyway.","[What/WP, are/VBP, you/PRP, doing/VBG, taking/VBG, that/DT, folder/NN, ,/,, anyway/RB, ./.]","(ROOT (SBARQ (WHNP (WP What)) (SQ (VBP are) (NP (PRP you)) (VP (VBG doing) (S (VP (VBG taking) (NP (DT that) (NN folder)))) (, ,) (ADVP (RB anyway)))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,285,,A,3,191,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,285,,A,3,191,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,286,,A,3,192,"Where's your review,(()) ","[Where/WRB, 's/POS, your/PRP$, review/NN, ,/,]","(ROOT (FRAG (WHADVP (WRB Where)) (PP (POS 's) (NP (NP (PRP$ your) (NN review)) (, ,)))))"
 K/KS/KSN.xml,KSNRE000,134401,287,,A,3,193,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,288,,A,3,194,"So what's does this mean, here.","[So/RB, what/WP, 's/VBZ, does/VBZ, this/DT, mean/NN, ,/,, here/RB, ./.]","(ROOT (SBARQ (RB So) (WHNP (WP what)) (SQ (VBZ 's) (S (VP (VBZ does) (NP (DT this) (NN mean)) (, ,) (ADVP (RB here))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,289,,A,3,195,What does this scene tell you about the (()) ,"[What/WP, does/VBZ, this/DT, scene/NN, tell/VBP, you/PRP, about/IN, the/DT]",(ROOT (SBARQ (WHNP (WP What)) (SQ (VBZ does) (NP (DT this) (NN scene)) (VP (VBP tell) (NP (PRP you)) (ADVP (IN about) (DT the))))))
-K/KS/KSN.xml,KSNRE000,134401,290,,A,3,196,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,290,,A,3,196,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,291,,A,3,197,"Well, apparently that  --","[Well/RB, ,/,, apparently/RB, that/IN, it/PRP, 's/VBZ, a/DT, gonna/NN, be/VB, based/VBN, on/IN, superstition/NN, ./.]","(ROOT (S (ADVP (RB Well)) (, ,) (SBAR (ADVP (RB apparently)) (IN that) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN gonna))))) (VP (VB be) (VP (VBN based) (PP (IN on) (NP (NN superstition))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,292,,A,3,198,--it's a  (()) gonna be based on superstition.(()) ,"[Well/RB, ,/,, apparently/RB, that/IN, it/PRP, 's/VBZ, a/DT, gonna/NN, be/VB, based/VBN, on/IN, superstition/NN, ./.]","(ROOT (S (ADVP (RB Well)) (, ,) (SBAR (ADVP (RB apparently)) (IN that) (S (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (NN gonna))))) (VP (VB be) (VP (VBN based) (PP (IN on) (NP (NN superstition))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,293,,A,3,199,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,293,,A,3,199,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,294,,A,3,200,"It's gonna be a play of erm,--","[It/PRP, 's/VBZ, gonna/NNP, be/VB, a/DT, play/NN, of/IN, erm/NN, ,well/NN, based/VBN, on/IN, the/DT, supernatural/JJ, ,/,, supernatural/JJ, 's/POS, gonna/NN, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VP (VB be) (NP (NP (DT a) (NN play)) (PP (IN of) (NP (NP (NN erm) (NN ,well)) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ supernatural)))))))) (, ,) (NP (NP (JJ supernatural) (POS 's)) (NN gonna))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,295,,A,3,201,"--well based on the supernatural,(()) supernatural's gonna (()) .","[It/PRP, 's/VBZ, gonna/NNP, be/VB, a/DT, play/NN, of/IN, erm/NN, ,well/NN, based/VBN, on/IN, the/DT, supernatural/JJ, ,/,, supernatural/JJ, 's/POS, gonna/NN, ./.]","(ROOT (S (NP (PRP It)) (VP (VBZ 's) (S (NP (NNP gonna)) (VP (VP (VB be) (NP (NP (DT a) (NN play)) (PP (IN of) (NP (NP (NN erm) (NN ,well)) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ supernatural)))))))) (, ,) (NP (NP (JJ supernatural) (POS 's)) (NN gonna))))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,296,,A,3,202,"Right, just give me what you have to mark  (()) ","[Right/NN, ,/,, just/RB, give/VB, me/PRP, what/WP, you/PRP, have/VBP, to/TO, mark/NNP]","(ROOT (NP (NP (NN Right)) (, ,) (PP (RB just) (S (VP (VB give) (NP (PRP me)) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP have) (VP (PP (TO to) (NP (NNP mark))))))))))))"
-K/KS/KSN.xml,KSNRE000,134401,297,,A,3,203,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,298,,A,3,204,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,297,,A,3,203,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,298,,A,3,204,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,299,,A,3,205,Pardon.,"[Pardon/NN, ./.]",(ROOT (NP (NN Pardon) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,300,,A,3,206,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,300,,A,3,206,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,301,,A,3,207,Er.,"[Er/NN, ./.]",(ROOT (NP (NN Er) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,302,,A,3,208,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,302,,A,3,208,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,303,,A,3,209,That sounds great.,"[That/DT, sounds/VBZ, great/JJ, ./.]",(ROOT (S (NP (DT That)) (VP (VBZ sounds) (ADJP (JJ great))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,304,,A,3,210,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,304,,A,3,210,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,305,,A,3,211,"I just write, I just write (()) ","[I/PRP, just/RB, write/VB, ,/,, I/PRP, just/RB, write/VB]","(ROOT (S (NP (PRP I)) (VP (ADVP (RB just)) (S (VP (VB write) (, ,) (S (NP (PRP I)) (ADVP (RB just)) (VP (VB write))))))))"
 K/KS/KSN.xml,KSNRE000,134401,306,,A,3,212,"I think the book is really well written and it's  (()) that needed to be  (()) I don't know, do I need a black pen, man.","[I/PRP, think/VBP, the/DT, book/NN, is/VBZ, really/RB, well/RB, written/VBN, and/CC, it/PRP, 's/VBZ, that/IN, needed/VBN, to/TO, be/VB, I/PRP, don/VBP, 't/PRP, know/VB, ,/,, do/VBP, I/PRP, need/VB, a/DT, black/JJ, pen/NN, ,/,, man/NN, ./.]","(ROOT (SINV (S (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT the) (NN book)) (VP (VBZ is) (ADVP (RB really)) (ADJP (RB well) (VBN written))))))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (SBAR (IN that) (S (S (VP (VBN needed) (S (VP (TO to) (VP (VB be) (NP (PRP I))))))) (VP (VBP don) (S (NP (PRP 't)) (VP (VB know))))))))) (, ,) (VP (VBP do) (S (NP (PRP I)) (VP (VB need)))) (NP (NP (DT a) (JJ black) (NN pen)) (, ,) (NP (NN man))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,307,,A,3,213,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,307,,A,3,213,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,308,,A,3,214,(()) impression (()) ,[impression/NN],(ROOT (NP (NN impression)))
-K/KS/KSN.xml,KSNRE000,134401,309,,A,3,215,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,309,,A,3,215,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,310,,A,3,216,Yeah.,"[Yeah/UH, ./.]",(ROOT (INTJ (UH Yeah) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,311,,A,3,217,I need to get in (()) ,"[I/PRP, need/VBP, to/TO, get/VB, in/IN]",(ROOT (S (NP (PRP I)) (VP (VBP need) (S (VP (TO to) (VP (VB get) (PP (IN in))))))))
-K/KS/KSN.xml,KSNRE000,134401,312,,B,4,1,<laugh> ,[],X
+K/KS/KSN.xml,KSNRE000,134401,312,,B,4,1,<laugh> ,[],
 K/KS/KSN.xml,KSNRE000,134401,313,,A,5,1,In 'ere sir  --,"[In/IN, 'ere/NNP, sir/NNP, Getting/VBG, out/RP, all/PDT, the/DT, work/NN, that/IN, you/PRP, haven/NN, 't/PRP]",(ROOT (PP (IN In) (NP (NP (NNP 'ere) (NNP sir)) (VP (VBG Getting) (PRT (RP out)) (NP (NP (PDT all) (DT the) (NN work)) (SBAR (IN that) (S (NP (PRP you)) (VP (NN haven) (NP (PRP 't))))))))))
 K/KS/KSN.xml,KSNRE000,134401,314,,A,5,2,--Getting out all the work that you haven't ,"[In/IN, 'ere/NNP, sir/NNP, Getting/VBG, out/RP, all/PDT, the/DT, work/NN, that/IN, you/PRP, haven/NN, 't/PRP]",(ROOT (PP (IN In) (NP (NP (NNP 'ere) (NNP sir)) (VP (VBG Getting) (PRT (RP out)) (NP (NP (PDT all) (DT the) (NN work)) (SBAR (IN that) (S (NP (PRP you)) (VP (NN haven) (NP (PRP 't))))))))))
-K/KS/KSN.xml,KSNRE000,134401,315,,A,5,3,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,316,,A,5,4,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,315,,A,5,3,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,316,,A,5,4,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,317,,A,5,5,"No, that you haven't marked, you haven't marked, ain't it.","[No/DT, ,/,, that/IN, you/PRP, haven/NN, 't/PRP, marked/VBD, ,/,, you/PRP, haven/NN, 't/PRP, marked/VBD, ,/,, ain/NNP, 't/PRP, it/PRP, ./.]","(ROOT (S (S (NP (DT No) (PRN (, ,) (PP (IN that) (NP (PRP you)))) (NN haven)) (NP (PRP 't)) (VP (VBD marked) (, ,) (S (NP (PRP you)) (NP (NP (NN haven)) (SBAR (S (NP (PRP 't)) (VP (VBD marked)))))))) (, ,) (S (NP (NNP ain) (PRP 't)) (NP (PRP it))) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,318,,A,5,6,"No,(()) the mark remains to be ","[No/DT, ,/,, the/DT, mark/NN, remains/VBZ, to/TO, be/VB]","(ROOT (S (NP (NP (DT No)) (, ,) (NP (DT the) (NN mark))) (VP (VBZ remains) (S (VP (TO to) (VP (VB be)))))))"
 K/KS/KSN.xml,KSNRE000,134401,319,,A,5,7,"It has to do, it has to be all  (()) bits, that's what   (()) <siren going off> that's all  (()) you do.","[It/PRP, has/VBZ, to/TO, do/VB, ,/,, it/PRP, has/VBZ, to/TO, be/VB, all/DT, bits/NNS, ,/,, that/DT, 's/VBZ, what/WP, that/DT, 's/VBZ, all/DT, you/PRP, do/VBP, ./.]","(ROOT (S (S (NP (PRP It)) (VP (VBZ has) (S (VP (TO to) (VP (VB do)))))) (, ,) (NP (PRP it)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (NP (NP (DT all) (NNS bits)) (, ,) (SBAR (WHNP (DT that)) (S (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (DT that)) (VP (VBZ 's) (NP (NP (DT all)) (SBAR (S (NP (PRP you)) (VP (VBP do)))))))))))))))) (. .)))"
@@ -325,26 +325,26 @@ K/KS/KSN.xml,KSNRE000,134401,322,,A,5,10,What.,"[What/WDT, ./.]",(ROOT (FRAG (WH
 K/KS/KSN.xml,KSNRE000,134401,323,,A,5,11,A couple of pages.,"[A/DT, couple/NN, of/IN, pages/NNS, ./.]",(ROOT (NP (NP (DT A) (NN couple)) (PP (IN of) (NP (NNS pages))) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,324,,A,5,12,Yes.,"[Yes/UH, ./.]",(ROOT (INTJ (UH Yes) (. .)))
 K/KS/KSN.xml,KSNRE000,134401,325,,A,5,13,(()) there to do.,"[there/EX, to/TO, do/VB, ./.]",(ROOT (S (NP (EX there)) (VP (TO to) (VP (VB do))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,326,,A,5,14,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,326,,A,5,14,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,327,,A,5,15,"Rough, innit.","[Rough/JJ, ,/,, innit/NN, ./.]","(ROOT (FRAG (ADJP (JJ Rough)) (, ,) (NP (NN innit)) (. .)))"
 K/KS/KSN.xml,KSNRE000,134401,328,,A,5,16,Only done one (()) ,"[Only/RB, done/VBN, one/CD]",(ROOT (VP (ADVP (RB Only)) (VBN done) (NP (CD one))))
 K/KS/KSN.xml,KSNRE000,134401,329,,A,5,17,"Hey guys, listen here, let me have, let me have the work that you've done.","[Hey/UH, guys/NNS, ,/,, listen/VBP, here/RB, ,/,, let/VB, me/PRP, have/VB, ,/,, let/VB, me/PRP, have/VB, the/DT, work/NN, that/IN, you/PRP, 've/VBP, done/VBN, ./.]","(ROOT (S (NP (NP (UH Hey) (NNS guys)) (, ,) (VP (VBP listen) (ADVP (RB here))) (, ,)) (VP (VB let) (S (NP (PRP me)) (VP (VP (VB have)) (, ,) (VP (VB let) (S (NP (PRP me)) (VP (VB have) (NP (DT the) (NN work)))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN done))))))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,330,,B,6,1,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,330,,B,6,1,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,331,,A,7,1,"Hey, come on, quiet everybody, all those the work that you've done, so I can bring it back.","[Hey/UH, ,/,, come/VB, on/RP, ,/,, quiet/JJ, everybody/NN, ,/,, all/PDT, those/DT, the/DT, work/NN, that/IN, you/PRP, 've/VBP, done/VBN, ,/,, so/IN, I/PRP, can/MD, bring/VB, it/PRP, back/RB, ./.]","(ROOT (S (INTJ (UH Hey)) (, ,) (VP (VB come) (PP (RP on) (NP (NP (, ,) (JJ quiet) (NN everybody)) (, ,) (NP (NP (PDT all) (DT those)) (NP (DT the) (NN work))))) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN done))))) (, ,) (SBAR (IN so) (S (NP (PRP I)) (VP (MD can) (VP (VB bring) (NP (PRP it)) (ADVP (RB back))))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,332,,A,7,2,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,333,,A,7,3,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,332,,A,7,2,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,333,,A,7,3,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,334,,A,7,4,I don't need (()) ,"[I/PRP, don/VBP, 't/PRP, need/VB]",(ROOT (S (NP (PRP I)) (VP (VBP don) (S (NP (PRP 't)) (VP (VB need))))))
-K/KS/KSN.xml,KSNRE000,134401,335,,A,7,5,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,335,,A,7,5,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,336,,A,7,6,"(()) about that, tell him I ain't finished it yet.","[about/IN, that/DT, ,/,, tell/VB, him/PRP, I/PRP, ain/VBP, 't/PRP, finished/VBD, it/PRP, yet/RB, ./.]","(ROOT (S (PP (IN about) (NP (DT that))) (, ,) (VP (VB tell) (NP (PRP him)) (SBAR (S (NP (PRP I)) (VP (VBP ain) (SBAR (S (NP (PRP 't)) (VP (VBD finished) (NP (PRP it)) (ADVP (RB yet))))))))) (. .)))"
-K/KS/KSN.xml,KSNRE000,134401,337,,A,7,7,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,337,,A,7,7,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,338,,A,7,8,What.,"[What/WDT, ./.]",(ROOT (FRAG (WHNP (WDT What)) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,339,,A,7,9,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,339,,A,7,9,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,340,,A,7,10,"What you say,","[What/WP, you/PRP, say/VBP, ,/,]","(ROOT (SBAR (WHNP (WP What)) (S (NP (PRP you)) (VP (VBP say)) (, ,))))"
-K/KS/KSN.xml,KSNRE000,134401,341,,A,7,11,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,342,,A,7,12,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,341,,A,7,11,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,342,,A,7,12,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,343,,A,7,13,"(()) I haven't got  (()) on my face,(()) nothing about you ","[I/PRP, haven/NN, 't/PRP, got/VBD, on/IN, my/PRP$, face/NN, ,/,, nothing/NN, about/IN, you/PRP]","(ROOT (S (NP (PRP I)) (VP (NN haven) (SBAR (S (NP (PRP 't)) (VP (VBD got) (PP (IN on) (NP (PRP$ my) (NN face))) (, ,) (ADVP (NN nothing) (PP (IN about) (NP (PRP you))))))))))"
-K/KS/KSN.xml,KSNRE000,134401,344,,A,7,14,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,345,,A,7,15,(()) ,[],X
-K/KS/KSN.xml,KSNRE000,134401,346,,A,7,16,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,344,,A,7,14,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,345,,A,7,15,(()) ,[],
+K/KS/KSN.xml,KSNRE000,134401,346,,A,7,16,(()) ,[],
 K/KS/KSN.xml,KSNRE000,134401,347,,A,7,17,Shut up.,"[Shut/VBN, up/RP, ./.]",(ROOT (S (VP (VBN Shut) (PRT (RP up))) (. .)))
-K/KS/KSN.xml,KSNRE000,134401,348,,A,7,18,(()) ,[],X
+K/KS/KSN.xml,KSNRE000,134401,348,,A,7,18,(()) ,[],
