@@ -5,3 +5,4 @@
 /bnc_test/*
 /.ipynb_checkpoints/*
 *.pyc
+*.log

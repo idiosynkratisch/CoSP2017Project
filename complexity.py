@@ -9,7 +9,7 @@ import re
 from jpype import *
 
 # use swda as the default corpus
-corpus = CorpusReader('swda', 'swda/swda-metadata.csv')
+corpus = CorpusReader('swda_complete', 'swda_complete/swda-metadata.csv')
 
 # list of names of functions to be used as measures for averaging
 measures = ['depth', 'width', 'balanced', 'avdepth', 'balanced2']
@@ -22,6 +22,12 @@ computed_ranges = False
 # dict for the value ranges of depth and width
 ran = {'depth': {}, 'width': {}}
 
+def _remove_root(tree):
+    if tree.label() == 'ROOT':
+        return tree[0]
+    else:
+        return tree
+
 def length(tree):
     """
     Computes the length of tree
@@ -32,18 +38,20 @@ def depth(tree):
     """
     Computes the depth of tree
     """
-    return tree.height()
+    return _remove_root(tree.height())
     
 def width(tree):
     """
     Computes the branching factor of tree
     """
+    tree = _remove_root(tree)
     return np.mean([len(t) for t in tree.subtrees()])
     
 def balanced(tree):
     """
     Computes branching factor multiplied with the depth of tree
     """
+    tree = _remove_root(tree)
     return depth(tree) * width(tree)
     
 def balanced2(tree, corpus=corpus):
@@ -111,6 +119,7 @@ def avdepth(tree):
     """
     Computes the average length of the branches in tree
     """
+    tree = _remove_root(tree)
     return np.mean(_find_lengths(tree))
     
     
@@ -259,7 +268,7 @@ def lus_measures(trees):
     #dict holding the matches
     matches=dict([(pattern, []) for pattern in matchlist])
     #dict holding the counts
-    counts=dict([(pattern, 0) for pattern in countlist])
+    counts=dict([(pattern, 0.0) for pattern in countlist])
     
     #import edu.stanford.nlp.trees.Tree
     nlpTree = nlp.trees.Tree
@@ -270,7 +279,6 @@ def lus_measures(trees):
             tree = Tree('ROOT', [tree])
         #transform into Java object
         tree = nlpTree.valueOf(str(tree))
-        print tree
         for pattern in matchlist:
             matcher = patterns[pattern].matcher(tree)
             while matcher.findNextMatchingNode():
@@ -322,8 +330,12 @@ def lus_measures(trees):
         results['MLT'] = None
     
     #compute the rest of the measures, if possible
-    results['C/S'] = counts[c]/counts[s]
-    results['T/S'] = counts[t]/counts[s]
+    try:
+        results['C/S'] = counts[c]/counts[s]
+        results['T/S'] = counts[t]/counts[s]
+    except ZeroDivisionError:
+        results['C/S'] = None
+        results['T/S'] = None
      
     if noTs:
         results['C/T'] = None
