@@ -8,20 +8,6 @@ from swda_time import CorpusReader
 import re
 from jpype import *
 
-# use swda as the default corpus
-corpus = CorpusReader('swda_complete', 'swda_complete/swda-metadata.csv')
-
-# list of names of functions to be used as measures for averaging
-measures = ['depth', 'width', 'balanced', 'avdepth', 'balanced2']
-
-#dict for holding average measures per length
-averages = dict([(measure, defaultdict(list)) for measure in measures])
-
-# flag whether ranges have been computed
-computed_ranges = False
-# dict for the value ranges of depth and width
-ran = {'depth': {}, 'width': {}}
-
 def _remove_root(tree):
     if tree.label() == 'ROOT':
         return tree[0]
@@ -33,20 +19,20 @@ def length(tree):
     Computes the length of tree
     """
     return len(tree.flatten()) - 1
-    
+
 def depth(tree):
     """
     Computes the depth of tree
     """
-    return _remove_root(tree.height())
-    
+    return _remove_root(tree).height()
+
 def width(tree):
     """
     Computes the branching factor of tree
     """
     tree = _remove_root(tree)
     return np.mean([len(t) for t in tree.subtrees()])
-    
+
 def balanced(tree):
     """
     Computes branching factor multiplied with the depth of tree
@@ -54,56 +40,14 @@ def balanced(tree):
     tree = _remove_root(tree)
     return depth(tree) * width(tree)
     
-def balanced2(tree, corpus=corpus):
-    """
-    Computes branching factor mapped to [1, 2] with depth mapped
-    to [1, 2] so they are weighted equally
-    """
-    
-    # check if value ranges have been computed, else do it
-    global computed_ranges
-    
-    if not computed_ranges:
-        values = dict([(measure, defaultdict(list))
-                       for measure in ran])
-        for utt in corpus.iter_utterances(display_progress=False):
-            for tree in utt.trees:
-                for measure in values:
-                    values[measure][length(tree)].append(
-                        float(eval(measure)(tree))
-                    )
-        for measure in values:
-            for le in values[measure]:
-                ran[measure][le] = (max(values[measure][le]),
-                                    min(values[measure][le]))
-        computed_ranges = True
-    
-    le = length(tree)
-    #normalize depth
-    if ran['depth'][le][0] == ran['depth'][le][1]:
-    #if max and min a are equal, then all depths are average
-        norm_depth = 1.5
-    else:
-    #compute range and normalize with it
-        r_depth = ran['depth'][le][0] - ran['depth'][le][1]
-        norm_depth = 1 + (depth(tree)/r_depth - (ran['depth'][le][1]/r_depth))
-    #do the same for width
-    if ran['width'][le][0] == ran['width'][le][1]:
-        norm_width = 1.5
-    else:
-        r_width = ran['width'][le][0] - ran['width'][le][1]
-        norm_width = 1 + (width(tree)/r_width - (ran['width'][le][1]/r_width))
-        
-    return norm_depth * norm_width
-    
 def _find_lengths(tree):
     """
     Helper function to go through a tree depth first and count the
     length of the branches
     """
-    
+
     l = []
-    
+
     #if we are at the end of a branch add 2 to the length
     if tree.height() == 2:
         return [2]
@@ -113,76 +57,126 @@ def _find_lengths(tree):
         for subtree in tree:
             l += map(lambda x: x+1, _find_lengths(subtree))
         return l
-            
-    
+        
+
 def avdepth(tree):
     """
     Computes the average length of the branches in tree
     """
     tree = _remove_root(tree)
     return np.mean(_find_lengths(tree))
-    
-    
-def compute_averages(corpus=corpus):
+
+def balanced2(tree, corpus, ranges=None):
     """
-    Computes the averages per length for the measures listed
+    Computes branching factor mapped to [1, 2] with depth mapped
+    to [1, 2] so they are weighted equally
+    
+    The mapping to [1, 2] is obtained by feature scaling with the value ranges in ranges
+    If these are not provided, they are computed
     """
+    
+    le = length(tree)
+    #if ranges wer not given compute them for the length of tree
+    if not ranges:
+        ranges = {'depth': {}, 'width': {}}
+        values = dict([(measure, defaultdict(list))
+                       for measure in ranges])
+        for utt in corpus.iter_utterances(display_progress=False):
+            for tree in utt.trees:
+                if length(tree) == le:
+                    for measure in values:
+                        values[measure][le].append(
+                            float(eval(measure)(tree))
+                            )
+        for measure in values:
+            for l in values[measure]:
+                ranges[measure][l] = (max(values[measure][l]),
+                                       min(values[measure][l]))
+
+    #normalize depth
+    if ranges['depth'][le][0] == ranges['depth'][le][1]:
+    #if max and min a are equal, then all depths are average
+        norm_depth = 1.5
+    else:
+    #compute range and normalize with it
+        r_depth = ranges['depth'][le][0] - ranges['depth'][le][1]
+        norm_depth = 1 + (depth(tree)/r_depth - (ranges['depth'][le][1]/r_depth))
+    #do the same for width
+    if ranges['width'][le][0] == ranges['width'][le][1]:
+        norm_width = 1.5
+    else:
+        r_width = ranges['width'][le][0] - ranges['width'][le][1]
+        norm_width = 1 + (width(tree)/r_width - (ranges['width'][le][1]/r_width))
+    
+    return norm_depth * norm_width
+
+
+def compute_averages(corpus,
+                     measures=['depth', 'width', 'balanced', 'avdepth', 'balanced2'],
+                     ranges=None):
+    """
+    Computes the averages per length for measures, using ranges for balanced2
+    """
+    
+    averages = dict([(measure, defaultdict(list)) for measure in measures])
+    
     for utt in corpus.iter_utterances(display_progress=False):
         for tree in utt.trees:
+            le = length(tree)
             for measure in measures:
-                averages[measure][length(tree)].append(
-                                                eval(measure)(tree))
+                if measure == 'balanced2':
+                    if ranges:
+                        averages[measure][le].append(balanced2(tree, corpus, ranges=ranges))
+                    else:
+                        averages[measure][le].append(balanced2(tree, corpus))
+                else:
+                    averages[measure][le].append(eval(measure)(tree))
     for measure in measures:
         for le in averages[measure]:
             averages[measure][le] = np.mean(averages[measure][le])
-        
+            
+    return averages
 
-def ndepth(tree, corpus=corpus):
+def ndepth(tree, corpus):
     """
     Computes the normalized depth of tree (using averages from corpus)
     """
-    if not averages['depth']:
-        compute_averages(corpus=corpus)
+    averages = compute_averages(corpus, measures = ['depth'])
     return depth(tree)/averages['depth'][length(tree)]
-    
-def nwidth(tree, corpus=corpus):
+
+def nwidth(tree, corpus):
     """
     Computes the normalized width of tree (using averages from corpus)
     """
-    if not averages['width']:
-        compute_averages(corpus=corpus)
+    averages = compute_averages(corpus, measures = ['width'])
     return width(tree)/averages['width'][length(tree)]
-    
-def nbalanced(tree, corpus=corpus):
+
+def nbalanced(tree, corpus):
     """
     Computes the normalized balanced measure
     of tree (using averages from corpus)
     """
-    if not averages['balanced']:
-        compute_averages(corpus=corpus)
+    averages = compute_averages(corpus, measures = ['balanced'])
     return balanced(tree)/averages['balanced'][length(tree)]
 
-def nbalanced2(tree, corpus=corpus):
+def nbalanced2(tree, corpus):
     """
     Computes the normalized balanced measure
     of tree (using averages from corpus)
     """
-    if not averages['balanced2']:
-        compute_averages(corpus=corpus)
-    return balanced2(tree)/averages['balanced2'][length(tree)]
-    
-def n_avdepth(tree, corpus=corpus):
+    averages = compute_averages(corpus, measures = ['balanced2'])
+    return balanced2(tree, corpus)/averages['balanced2'][length(tree)]
+
+def n_avdepth(tree, corpus):
     """
     Computes the normalized average depth of tree
     (using averages from corpus)
     """
-    if not averages['avdepth']:
-        compute_averages(corpus=corpus)
+    averages = compute_averages(corpus, measures = ['avdepth'])
     return avdepth(tree)/averages['avdepth'][length(tree)]
-    
 #------------------------------------------------------------
 #implementation of Lu (2010)'s measures
-  
+
 #tregex patterns for subtrees of interest
 #sentence (S)
 s="ROOT"
@@ -238,7 +232,7 @@ nlp = None
 
 def _init_tregex():
     """
-    Initialized the JVM and compiles the tregex patterns.
+    Initializes the JVM and compiles the tregex patterns.
     """
     global patterns, nlp
     #start the JVM
@@ -246,33 +240,33 @@ def _init_tregex():
              "-ea",
              "-mx2048m",
              "-Djava.class.path={}".format(stanford_folder))
-             
+         
     nlp = JPackage("edu").stanford.nlp
     TregexPattern = nlp.trees.tregex.TregexPattern
     for pattern in matchlist + countlist:
         patterns[pattern] = TregexPattern.compile(pattern)
- 
+
 def lus_measures(trees):
     """
     Takes an iterator over trees and computes the measures defined
     in Lu (2010) that make sense for single sentences.
-    
+
     Returns a dict with the value for each measure indexed by the
     abbreviation from Lu (2010, Table 1)
     """
-    
+
     #check if tregex has already been initiliazed, if not , dot it
     if patterns == {}:
         _init_tregex()
-    
+
     #dict holding the matches
     matches=dict([(pattern, []) for pattern in matchlist])
     #dict holding the counts
     counts=dict([(pattern, 0.0) for pattern in countlist])
-    
+
     #import edu.stanford.nlp.trees.Tree
     nlpTree = nlp.trees.Tree
-    
+
     #retrieve the matching trees where we need them
     for tree in trees:
         if tree.label() != 'ROOT':
@@ -289,30 +283,30 @@ def lus_measures(trees):
             matcher = patterns[pattern].matcher(tree)
             while matcher.findNextMatchingNode():
                 counts[pattern] += 1.0
-      
+  
     #merge subcategories
     matches[c] = matches[c] + matches[fc]
     matches[t] = matches[t] + matches[ft]
-    
+
     cn = 'cn'
     counts[cn] = counts[cn1] + counts[cn2] + counts[cn3]
     counts[vp] = counts[vp] + counts[vp_q]
-    
+
     #add counts for clauses and t-units
     counts[c] = float(len(matches[c]))
     counts[t] = float(len(matches[t]))
-    
+
     #see if there were any clauses and t-units
     if counts[c] == 0:
         noCs = True
     else:
         noCs = False
-        
+    
     if counts[t] == 0:
         noTs = True
     else:
         noTs = False
-    
+
     #compute measures
     results = {}
     #compute mean length of clauses if possible
@@ -321,14 +315,14 @@ def lus_measures(trees):
         results['MLC'] = np.mean(c_lengths)
     else:
         results['MLC'] = None
-        
+    
     #compute mean length of T-units if possible
     t_lengths = [length(Tree.fromstring(tree)) for tree in matches[t]]
     if t_lengths !=[]:
         results['MLT'] = np.mean(t_lengths)
     else:
         results['MLT'] = None
-    
+
     #compute the rest of the measures, if possible
     try:
         results['C/S'] = counts[c]/counts[s]
@@ -336,7 +330,7 @@ def lus_measures(trees):
     except ZeroDivisionError:
         results['C/S'] = None
         results['T/S'] = None
-     
+ 
     if noTs:
         results['C/T'] = None
         results['CT/T'] = None
@@ -351,7 +345,7 @@ def lus_measures(trees):
         results['CP/T'] = counts[cp]/counts[t]
         results['CN/T'] = counts[cn]/counts[t]
         results['VP/T'] = counts[vp]/counts[t]
-        
+    
     if noCs:
         results['DC/C'] = None
         results['CP/C'] = None
@@ -360,6 +354,88 @@ def lus_measures(trees):
         results['DC/C'] = counts[dc]/counts[c]
         results['CP/C'] = counts[cp]/counts[c]
         results['CN/C'] = counts[cn]/counts[c]
-        
+    
     return results
     
+
+class ComplexityMeasures(object):
+    """
+    Class wrapper to easily work with complexity measures for multiple corpora
+    Instantiate once for each corpus you are working with   
+    """
+    
+    def __init__(self, corpus):
+        #the corpus used
+        self.corpus = corpus
+
+        #compute the value ranges for depth and width
+        self.ranges = {'depth': {}, 'width': {}}
+        values = dict([(measure, defaultdict(list))
+                       for measure in self.ranges])
+        for utt in self.corpus.iter_utterances(display_progress=False):
+            for tree in utt.trees:
+                le = length(tree)
+                for measure in values:
+                    values[measure][le].append(
+                        float(eval(measure)(tree))
+                    )
+        for measure in values:
+            for le in values[measure]:
+                self.ranges[measure][le] = (max(values[measure][le]),
+                                            min(values[measure][le]))
+        #compute the averages for normalization                              
+        self.averages = compute_averages(self.corpus,
+                                         ranges=self.ranges)
+    
+    
+    def length(self, tree):
+        return length(tree)
+        
+    def depth(self, tree):
+        return depth(tree)
+        
+    def width(self, tree):
+        return width(tree)
+        
+    def balanced(self, tree):
+        return balanced(tree)
+        
+    def balanced2(self, tree):
+        return balanced2(tree, self.corpus, ranges=self.ranges)
+    
+    def ndepth(self, tree):
+        """
+        Computes the normalized depth of tree (using averages from corpus)
+        """
+        return depth(tree)/self.averages['depth'][length(tree)]
+
+    def nwidth(self, tree):
+        """
+        Computes the normalized width of tree (using averages from corpus)
+        """
+        return width(tree)/self.averages['width'][length(tree)]
+
+    def nbalanced(self, tree):
+        """
+        Computes the normalized balanced measure
+        of tree (using averages from corpus)
+        """
+        return balanced(tree)/self.averages['balanced'][length(tree)]
+
+    def nbalanced2(self, tree):
+        """
+        Computes the normalized balanced measure
+        of tree (using averages from corpus)
+        """
+        return self.balanced2(tree)/self.averages['balanced2'][length(tree)]
+
+    def n_avdepth(self, tree):
+        """
+        Computes the normalized average depth of tree
+        (using averages from corpus)
+        """
+        return avdepth(tree)/self.averages['avdepth'][length(tree)]
+        
+    def lus_measures(self, trees):
+        return lus_measures(trees)
+
