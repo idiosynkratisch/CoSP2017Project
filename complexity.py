@@ -38,7 +38,7 @@ def depth(tree):
     """
     Computes the depth of tree
     """
-    return _remove_root(tree.height())
+    return _remove_root(tree).height()
     
 def width(tree):
     """
