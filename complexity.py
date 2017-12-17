@@ -12,7 +12,7 @@ from jpype import *
 corpus = CorpusReader('swda', 'swda/swda-metadata.csv')
 
 # list of names of functions to be used as measures for averaging
-measures = ['depth', 'width', 'balanced', 'avdepth']
+measures = ['depth', 'width', 'balanced', 'avdepth', 'balanced2']
 
 #dict for holding average measures per length
 averages = dict([(measure, defaultdict(list)) for measure in measures])
@@ -48,8 +48,8 @@ def balanced(tree):
     
 def balanced2(tree, corpus=corpus):
     """
-    Computes branching factor mapped to (0, 1) with depth mapped
-    to (0, 1) so they are weighted equally
+    Computes branching factor mapped to [1, 2] with depth mapped
+    to [1, 2] so they are weighted equally
     """
     
     # check if value ranges have been computed, else do it
@@ -74,17 +74,17 @@ def balanced2(tree, corpus=corpus):
     #normalize depth
     if ran['depth'][le][0] == ran['depth'][le][1]:
     #if max and min a are equal, then all depths are average
-        norm_depth = 0.5
+        norm_depth = 1.5
     else:
     #compute range and normalize with it
         r_depth = ran['depth'][le][0] - ran['depth'][le][1]
-        norm_depth = depth(tree)/r_depth - (ran['depth'][le][1]/r_depth)
+        norm_depth = 1 + (depth(tree)/r_depth - (ran['depth'][le][1]/r_depth))
     #do the same for width
     if ran['width'][le][0] == ran['width'][le][1]:
-        norm_width = 0.5
+        norm_width = 1.5
     else:
         r_width = ran['width'][le][0] - ran['width'][le][1]
-        norm_width = width(tree)/r_width - (ran['width'][le][1]/r_width)
+        norm_width = 1 + (width(tree)/r_width - (ran['width'][le][1]/r_width))
         
     return norm_depth * norm_width
     
