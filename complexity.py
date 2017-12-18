@@ -402,6 +402,9 @@ class ComplexityMeasures(object):
         
     def balanced2(self, tree):
         return balanced2(tree, self.corpus, ranges=self.ranges)
+        
+    def avdepth(self, tree):
+        return avdepth(tree)
     
     def ndepth(self, tree):
         """
