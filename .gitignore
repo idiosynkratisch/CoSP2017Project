@@ -6,3 +6,5 @@
 /.ipynb_checkpoints/*
 *.pyc
 *.log
+topics.pkl
+topics_bnc.pkl
