@@ -111,34 +111,53 @@ def balanced2(tree, corpus, ranges=None):
     return norm_depth * norm_width
 
 
-def compute_averages(corpus,
-                     measures=['depth', 'width', 'avdepth', 'balanced2'],
-                     ranges=None):
+def compute_means(corpus,
+                 measures=['depth', 'width', 'avdepth'],
+                 ranges=None):
     """
     Computes the averages per length for measures, using ranges for balanced2
     """
     
-    averages = dict([(measure, defaultdict(list)) for measure in measures])
+    data = []
+    means = dict([(measure, defaultdict(list)) for measure in measures])
     stdevs = dict([(measure, {}) for measure in measures])
     
-    for utt in corpus.iter_utterances(display_progress=False):
-        for tree in utt.trees:
-            le = length(tree)
-            for measure in measures:
-                if measure == 'balanced2':
-                    if ranges:
-                        averages[measure][le].append(balanced2(tree, corpus, ranges=ranges))
-                    else:
-                        averages[measure][le].append(balanced2(tree, corpus))
-                else:
-                    averages[measure][le].append(eval(measure)(tree))
+    for trans in corpus.iter_transcripts(display_progress=True):
+        complete = {('A',): False, ('B',): False, ('A', 'B'): True}
+        last_trees = {}
+        for utt in trans.utterances + ['EOC']:
+            if not utt == 'EOC':
+                speakers = (utt.caller[-1],)
+            else:
+            #if the transcript ended, write the last trees for both speakers
+                speakers = ('A', 'B')
+            if utt != 'EOC' and utt.act_tag == '+':
+                complete[speaker] = False
+            if complete[speakers] == True:
+                for speaker in speakers:
+                    for tree in last_trees[speaker]:
+                        le = length(tree)
+                        d = {'length':le}
+                        for measure in measures:
+                            if measure == 'balanced2':
+                                if ranges:
+                                    value = balanced2(tree, corpus, ranges=ranges)
+                                else:
+                                    value = balanced2(tree, corpus)
+                            else:
+                                value = eval(measure)(tree)
+                            d[measure] = value
+                            means[measure][le].append(value)
+                        data.append([tree, d])
+            if not utt == 'EOC':
+                last_trees[speakers[0]] = utt.trees
+                complete[speakers] = True
     for measure in measures:
-        for le in averages[measure]:
-            averages[measure][le] = list(set(averages[measure][le]))
-            stdevs[measure][le] = np.std(averages[measure][le])
-            averages[measure][le] = np.mean(averages[measure][le])
+        for le in means[measure]:
+            stdevs[measure][le] = np.std(means[measure][le])
+            means[measure][le] = np.mean(means[measure][le])
             
-    return averages, stdevs
+    return data, means, stdevs
 
 def ndepth(tree, corpus):
     """
@@ -367,9 +386,11 @@ class ComplexityMeasures(object):
     Instantiate once for each corpus you are working with   
     """
     
-    def __init__(self, corpus):
+    def __init__(self, corpus, normalized=['depth', 'width', 'avdepth']):
         #the corpus used
         self.corpus = corpus
+        #the measure you want to be available in normalized versions
+        self.normalized = set(normalized)
 
         #compute the value ranges for depth and width
         self.ranges = {'depth': {}, 'width': {}}
@@ -382,13 +403,15 @@ class ComplexityMeasures(object):
                     values[measure][le].append(
                         float(eval(measure)(tree))
                     )
+        print 'Ranges computed'
         for measure in values:
             for le in values[measure]:
                 self.ranges[measure][le] = (max(values[measure][le]),
                                             min(values[measure][le]))
         #compute the averages for normalization                              
-        self.averages, self.stdevs = compute_averages(self.corpus,
-                                                      ranges=self.ranges)
+        self.data, self.averages, self.stdevs = compute_means(self.corpus,
+                                                               measures=normalized,
+                                                               ranges=self.ranges)
     
     
     def length(self, tree):
@@ -404,7 +427,7 @@ class ComplexityMeasures(object):
         return balanced(tree)
         
     def balanced2(self, tree):
-        return balanced2(tree, self.corpus, ranges=self.ranges)
+        return balanced2(tree, self.corpus, self.ranges)
         
     def avdepth(self, tree):
         return avdepth(tree)
@@ -413,20 +436,20 @@ class ComplexityMeasures(object):
         """
         Computes the normalized depth of tree (using averages from corpus)
         """
-        return depth(tree)/self.averages['depth'][length(tree)]
+        return self.depth(tree)/self.averages['depth'][length(tree)]
 
     def nwidth(self, tree):
         """
         Computes the normalized width of tree (using averages from corpus)
         """
-        return width(tree)/self.averages['width'][length(tree)]
+        return self.width(tree)/self.averages['width'][length(tree)]
 
     def nbalanced(self, tree):
         """
         Computes the normalized balanced measure
         of tree (using averages from corpus)
         """
-        return balanced(tree)/self.averages['balanced'][length(tree)]
+        return self.balanced(tree)/self.averages['balanced'][length(tree)]
 
     def nbalanced2(self, tree):
         """
@@ -435,13 +458,29 @@ class ComplexityMeasures(object):
         """
         return self.balanced2(tree)/self.averages['balanced2'][length(tree)]
 
-    def n_avdepth(self, tree):
+    def navdepth(self, tree):
         """
         Computes the normalized average depth of tree
         (using averages from corpus)
         """
-        return avdepth(tree)/self.averages['avdepth'][length(tree)]
+        return self.avdepth(tree)/self.averages['avdepth'][length(tree)]
         
     def lus_measures(self, trees):
         return lus_measures(trees)
 
+    def compute_normalized(self, measures=['depth', 'width', 'avdepth', 'balanced2']):
+        nmeasures = []
+        for measure in measures:
+            if measure in self.normalized:
+                nmeasures.append('n'+measure)
+            else
+                nmeasures.append(measure)
+        for point in self.data:
+            for measure in nmeasures:
+                value = eval("self.{}".format(measure))(point[0])
+                point[1][measure] = value
+                self.averages[measure].append(value)
+        for measure in nmeasures:
+            self.stdevs[measure] = np.std(averages[measure])
+            self.averages[measure] = np.mean(averages[measure])
+            
