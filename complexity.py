@@ -132,7 +132,7 @@ def compute_means(corpus,
             #if the transcript ended, write the last trees for both speakers
                 speakers = ('A', 'B')
             if utt != 'EOC' and utt.act_tag == '+':
-                complete[speaker] = False
+                complete[speakers] = False
             if complete[speakers] == True:
                 for speaker in speakers:
                     for tree in last_trees[speaker]:
