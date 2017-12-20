@@ -473,7 +473,7 @@ class ComplexityMeasures(object):
         for measure in measures:
             if measure in self.normalized:
                 nmeasures.append('n'+measure)
-            else
+            else:
                 nmeasures.append(measure)
         for point in self.data:
             for measure in nmeasures:
