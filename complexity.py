@@ -475,16 +475,16 @@ class ComplexityMeasures(object):
                 nmeasures.append('n'+measure)
             else:
                 nmeasures.append(measure)
+        for measure in nmeasures:
+            self.averages[measure] = defaultdict(list)
+            self.stdevs[measure] = {}
         for point in self.data:
             for measure in nmeasures:
                 value = eval("self.{}".format(measure))(point[0])
                 point[1][measure] = value
-                if measure not in self.averages:
-                    self.averages[measure] = defaultdict(list)
-                    self.stdevs[measure] = {}
                 self.averages[measure][point[1]['length']].append(value)
         for measure in nmeasures:
             for le in self.averages[measure]:
-                self.stdevs[measure][le] = np.std(averages[measure][le])
-                self.averages[measure][le] = np.mean(averages[measure][le])
+                self.stdevs[measure][le] = np.std(self.averages[measure][le])
+                self.averages[measure][le] = np.mean(self.averages[measure][le])
             
